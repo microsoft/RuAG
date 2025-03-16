@@ -1,33 +1,25 @@
-# Project
+# RuAG: Learned-rule-augmented Generation for Large Language Models
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+[![View Paper](https://img.shields.io/badge/View-Paper-blue)](https://openreview.net/forum?id=BpIbnXWfhL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
-As the maintainer of this project, please make a few updates:
+RuAG is a novel approach that augments large language models with learned rules to enhance their reasoning capabilities. This repository contains the code and resources for RuAG.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
 
-## Contributing
+## Code
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+_Coming soon..._
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-## Trademarks
+## Citation
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+If you find this work useful, please consider citing:
+
+```bibtex
+@inproceedings{zhang2025ruag,
+  title={RuAG: Learned-rule-augmented Generation for Large Language Models},
+  author={Yudi Zhang and Pei Xiao and Lu Wang and Chaoyun Zhang and Meng Fang and Yali Du and Yevgeniy Puzyrev and Randolph Yao and Si Qin and Qingwei Lin and Mykola Pechenizkiy and Dongmei Zhang and Saravan Rajmohan and Qi Zhang},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025},
+  url={https://openreview.net/forum?id=BpIbnXWfhL}
+}
