@@ -2,7 +2,7 @@
 
 [![View Paper](https://img.shields.io/badge/View-Paper-blue)](https://openreview.net/forum?id=BpIbnXWfhL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
-RuAG is a novel approach that augments large language models with learned rules to enhance their reasoning capabilities. This repository contains the code and resources for RuAG.
+RuAG is a novel approach that augments large language models with learned rules to enhance their reasoning capability. This repository contains the code for RuAG.
 
 
 ## Code
