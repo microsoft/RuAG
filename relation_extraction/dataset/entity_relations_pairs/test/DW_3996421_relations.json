@@ -1,0 +1,35 @@
+{
+  "content": "My Freiburg - a tour with Tonatiuh Ibarra from Mexico City\nFederal State Baden-Württemberg\nIn this part of our show, we ask YOU - or one of you, at least, to tell us what you like about Germany. This time, we meet with Tonatiuh Ibarra from Mexico. He's a university student majoring in German Studies, so he decided to come to Europe for three months for a German language course at the Goethe Institute in Freiburg. A good choice: Freiburg is a charming university town in southwestern Germany attracting three million visitors a year! Let’s find out how Tonatiuh spent his day with our camera crew.",
+  "relations": [
+    [
+      "Tonatiuh Ibarra",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Freiburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Mexico City",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Baden-Württemberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Goethe Institute",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Goethe Institute",
+      "Freiburg",
+      "based_in2"
+    ]
+  ]
+}

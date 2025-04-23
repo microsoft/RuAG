@@ -1,0 +1,175 @@
+{
+  "content": "US government sanctions Venezuelan vice president for drug trafficking\nThe Trump administration has slapped sanctions on Venezuela's new vice president, placing him on its narcotics \"kingpin\" list. Tareck El Aissami is the most senior Venezuelan official to be targeted by the US.\nIn a move likely to further strain ties between the two nations, on Monday the United States accused hard-line Venezuelan Vice President Tareck El Aissami of playing a \"significant role\" in international drug trafficking. El Aissami was designated for sanctions under the Foreign Narcotics Kingpin Designation Act, the US Treasury Department announced on its website. The Treasury Department accused El Aissami of facilitating and overseeing large shipments of drugs from Venezuela to Mexico and the United States while serving as the country's interior minister. El Aissami, who became the vice president on January 4, was allegedly paid by Venezuela's largest convicted drug trafficker, Walid Makled, to protect shipments. He also allegedly coordinated those shipments with Mexico's violent Los Zetas cartel, the Treasury Department said in a statement. The US government also issued sanctions against Samark Lopez, a Venezuelan businessman who is believed to be El Aissami's front man. As a result of the actions, 13 companies owned or controlled by Lopez will be blocked and both men's US-held assets will be frozen Monday's sanctions freeze the assets of 13 companies owned or controlled by Lopez. They also ban US citizens from doing business with either men or the listed companies. Additionally, Lopez and El Aissami are barred from entering the United States. Sanctions 'overdue' El Aissami had long been targeted by US law enforcement officials for his alleged ties to Walid Makled as well as to a Middle Eastern militant group. During his tenure as interior minister, dozens of fraudulent Venezuelan passports were uncovered in the Middle East, including some held by alleged Hezbollah members. The sanctions were the result of a multiyear investigation to target drug traffickers in Venezuela, John Smith, the acting director of the US's Office of Foreign Assets Control, said in a statement. A former Obama administration official told the Associated Press that the move to levy sanctions against El Aissami was held up last year at the request of the State Department. At the time, they feared that the decision would interfere with Vatican-backed talks between the government and the opposition. \"This was an overdue step to ratchet up pressure on the Venezuelan regime and signal that top officials will suffer consequences if they continue to engage in massive corruption, abuse human rights and dismantle democracy,\" said Mark Feierstein, who was Obama's top national security adviser on Latin America. Last Wednesday, 34 Republican and Democratic members of Congress sent a letter to US President Donald Trump asking his administration to sanction Venezuelan officials, including El Aissami. Senior US officials took care to emphasize that the sanctions were related to a criminal investigation and not political, diplomatic or economic. Nevertheless, the sanctions are bound to increase tensions between the United States and its harshest critic in Latin America. The countries have not stationed ambassadors in one another since 2010. rs/kl (AP, AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Donald Trump",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuela",
+      "agent_of"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuela",
+      "minister_of"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuelan",
+      "minister_of-x"
+    ],
+    [
+      "Foreign Narcotics Kingpin Designation Act",
+      "United States",
+      "signed_by"
+    ],
+    [
+      "Samark Lopez",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Samark Lopez",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Venezuelan",
+      "Venezuela",
+      "gpe0"
+    ],
+    [
+      "Treasury Department",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Treasury Department",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Treasury Department",
+      "United States",
+      "ministry_of"
+    ],
+    [
+      "Walid Makled",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Walid Makled",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Los Zetas",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "John Smith",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "John Smith",
+      "Office of Foreign Assets Control",
+      "head_of"
+    ],
+    [
+      "John Smith",
+      "Office of Foreign Assets Control",
+      "member_of"
+    ],
+    [
+      "Office of Foreign Assets Control",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Office of Foreign Assets Control",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "State Department",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "United States",
+      "ministry_of"
+    ],
+    [
+      "Mark Feierstein",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Republican",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Democratic",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ]
+  ]
+}

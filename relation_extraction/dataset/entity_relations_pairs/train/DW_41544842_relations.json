@@ -1,0 +1,365 @@
+{
+  "content": "UK: Prince Harry gets engaged to actress Meghan Markle\nBritain's Prince Harry is engaged to his US partner Meghan Markle, his father Prince Charles has announced. The wedding is due to take place in the spring of 2018 and the couple are to live in Kensington Palace.\n\"Thrilled, over the moon,\" Harry remarked as the couple posed for photographs in the grounds of Kensington Palace where they will live in a cottage. Markle's three-stone engagement ring was designed by Harry with a diamond from Botswana and two diamonds taken from the personal collection of his late mother Princess Diana. Clarence House — the residence of Prince Harry's father Prince Charles — released a statement on Monday announcing the engagement. \"His Royal Highness the Prince of Wales is delighted to announce the engagement of Prince Harry to Ms. Meghan Markle,\" the statement read. It said the couple had become engaged earlier this month. The wedding will take place next spring, and the couple are to live in Nottingham Cottage in Kensington Palace. Prince Harry tweeted thanks to those who wished the couple well: Speculation had been rife that 33-year-old Harry would propose to the 36-year-old divorcee Markle, who is best known for her role in the legal drama series \"Suits.\" The couple have been together since June 2016. The Duke and Duchess of Cambridge, Harry's older brother Prince William and Kate Middleton, congratulated the couple. \"We are very excited for Harry and Meghan. It has been wonderful getting to know Meghan and to see how happy she and Harry are together,\" Clarence House said in a tweet. Queen Elizabeth II and her husband Prince Philip, who recently celebrated their 70th wedding anniversary, also said they're \"delighted\" for the couple. Harry is Queen Elizabeth's grandson and fifth-in-line to the British throne. Read more: The House of Windsor turns 100 Markle's parents Thomas Markle and Doria Ragland said in a statement: \"We are incredibly happy for Meghan and Harry. Our daughter has always been a kind and loving person.\" Markle, an Emmy-award winning lighting director, is of Dutch, English, Irish and Scottish descent, while his wife of African-American heritage works as a psychotherapist and yoga instructor. Harry spent 10 years in the army and has this year, with his elder brother William, promoted mental health strategies for armed forces in a joint initiative between their Royal Foundation and the Ministry of Defense. His comments on social issues, including respect for women, have also become more pronounced. The last major royal wedding took place In 2011, when Kate Middleton and Prince William were married in London's Westminster Abbey.",
+  "relations": [
+    [
+      "Elizabeth II",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Elizabeth II",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Elizabeth II",
+      "English",
+      "citizen_of-x"
+    ],
+    [
+      "Elizabeth II",
+      "Britain",
+      "royalty_of"
+    ],
+    [
+      "Elizabeth II",
+      "Philip",
+      "spouse_of"
+    ],
+    [
+      "Harry",
+      "Charles",
+      "child_of"
+    ],
+    [
+      "Harry",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Harry",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Harry",
+      "English",
+      "citizen_of-x"
+    ],
+    [
+      "Harry",
+      "Britain",
+      "royalty_of"
+    ],
+    [
+      "Meghan Markle",
+      "Thomas Markle",
+      "child_of"
+    ],
+    [
+      "Meghan Markle",
+      "Doria Ragland",
+      "child_of"
+    ],
+    [
+      "Meghan Markle",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Meghan Markle",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Charles",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Charles",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Charles",
+      "English",
+      "citizen_of-x"
+    ],
+    [
+      "Charles",
+      "Harry",
+      "parent_of"
+    ],
+    [
+      "Charles",
+      "Britain",
+      "royalty_of"
+    ],
+    [
+      "Kensington Palace",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Kensington Palace",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Kensington Palace",
+      "English",
+      "in0-x"
+    ],
+    [
+      "Diana",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Diana",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Diana",
+      "English",
+      "citizen_of-x"
+    ],
+    [
+      "Diana",
+      "Britain",
+      "royalty_of"
+    ],
+    [
+      "Clarence House",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Clarence House",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Clarence House",
+      "English",
+      "in0-x"
+    ],
+    [
+      "Nottingham Cottage",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Nottingham Cottage",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Nottingham Cottage",
+      "English",
+      "in0-x"
+    ],
+    [
+      "William",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "William",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "William",
+      "English",
+      "citizen_of-x"
+    ],
+    [
+      "William",
+      "Harry",
+      "sibling"
+    ],
+    [
+      "William",
+      "Kate Middleton",
+      "spouse_of"
+    ],
+    [
+      "Kate Middleton",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Kate Middleton",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Kate Middleton",
+      "English",
+      "citizen_of-x"
+    ],
+    [
+      "Kate Middleton",
+      "Britain",
+      "royalty_of"
+    ],
+    [
+      "Kate Middleton",
+      "William",
+      "spouse_of"
+    ],
+    [
+      "Philip",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Philip",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Philip",
+      "English",
+      "citizen_of-x"
+    ],
+    [
+      "Philip",
+      "Britain",
+      "royalty_of"
+    ],
+    [
+      "Philip",
+      "Elizabeth II",
+      "spouse_of"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Thomas Markle",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Thomas Markle",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas Markle",
+      "Meghan Markle",
+      "parent_of"
+    ],
+    [
+      "Doria Ragland",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Doria Ragland",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Doria Ragland",
+      "Meghan Markle",
+      "parent_of"
+    ],
+    [
+      "English",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Royal Foundation",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Royal Foundation",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Royal Foundation",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Defense",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "Ministry of Defense",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Ministry of Defense",
+      "English",
+      "agency_of-x"
+    ],
+    [
+      "Ministry of Defense",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Ministry of Defense",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Defense",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Defense",
+      "Britain",
+      "ministry_of"
+    ],
+    [
+      "London",
+      "Britain",
+      "in0"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "London",
+      "English",
+      "in0-x"
+    ],
+    [
+      "Westminster Abbey",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Westminster Abbey",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Westminster Abbey",
+      "English",
+      "in0-x"
+    ]
+  ]
+}

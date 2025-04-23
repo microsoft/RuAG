@@ -1,0 +1,35 @@
+{
+  "content": "Dancers defy gravity during opening of Hublot store in Manhattan\nSwiss watchmaker Hublot has debuted its flagship store in Manhattan. The opening ceremony was quite the spectacle, complete with dancers rappeling down the side of the building.\nLuxury Swiss watch manufacturer Hublot announced its arrival in New York on Tuesday in one of the most dazzling ways imaginable. Following a ribbon-cutting ceremony celebrating the opening of its flagship store on Manhattan's Fifth Avenue, spectators were treated to a remarkable spectacle. Two dancers, suspended by wires, rappelled down the side of a glass building in a bout of gravity-defying acrobatics. A store tailored for the best Founded in 1980 by Italian Carlo Crocco, the Swiss company is known for its sleek, expensive watches for men. Describing his design for the boutique shop on Fifth Avenue, architect Peter Marino said he modeled the storefront after the devices themselves. \"The sculptural movement inherent in the facade is an abstract notion of time and the perpetual mechanism of the watch,\" Marino said, according to the Hublot website.\" The manufacturer is currently gearing up for the release of a signature watch in honor of Olympic sprinter Usain Bolt.",
+  "relations": [
+    [
+      "Hublot",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Hublot",
+      "New York",
+      "based_in2"
+    ],
+    [
+      "Peter Marino",
+      "Hublot",
+      "member_of"
+    ],
+    [
+      "Carlo Crocco",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Carlo Crocco",
+      "Hublot",
+      "head_of"
+    ],
+    [
+      "Carlo Crocco",
+      "Hublot",
+      "member_of"
+    ]
+  ]
+}

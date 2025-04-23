@@ -1,0 +1,40 @@
+{
+  "content": "Opinion: A Bigger, Not Better, NATO\nA year ago NATO underwent the largest expansion in the organization's history, when on March 29, seven eastern and south-eastern European countries joined the alliance. NATO may have grown in size, but not in importance.\nThe expansion was a big step for NATO -- largely because, with the three Baltic countries, the first successor states of the Soviet Union, the erstwhile superpower which was the impetus for NATO's establishment to start with. Fear of Moscow was the main reason for Estonia, Latvia and Lithuania to enter the alliance's protective screen. But, keeping things in perspective, Russia isn't a threat to its western neighbors. For years it's been a guest at NATO's table; it even has a say in a broad range of matters. NATO expansion was certainly an important symbol that the Cold War chapter is really closed -- but just one of many. New chapters in world history already started long ago: southeastern Europe has clearly put the era of war behind it, but it still suffers from the consequences. From Bosnia and Herzegovina to Serbia-Montenegro and Kosovo to Macedonia, a number of more or less unstable states stretches through the region, keeping Europe's security architects holding their breath. And even if NATO's intervention in the Kosovo War was on the margins of legality according to international law, all things considered, the alliance played a positive role in the region's stabilization. But today's overriding task -- the fight against international terrorism -- hasn't yet reached such a conclusion. The United States, with the help of its NATO partners, did indeed put an end to the Taliban's reign of terror in Afghanistan and, at the same time, significantly weakened an important al Qaeda base. However, despite the alliance's presence, the country is far from being either stable or a functioning democracy. And terrorist leader Osama bin Laden is still at large; his network continues to operate, as the terrible attacks in Madrid last year showed. There's also the large-scale anti-terror project \"Enduring Freedom,\" which is meant to ensure security in the Mediterranean and Persian Gulf states. Here, too, substantial NATO contingents are in action, but there still aren't any measurable results. NATO suffered the biggest set-back, however, with the Iraq War. The alliance split over whether the body of evidence against Saddam Hussein was sufficient to justify military intervention. And although the fissure between the war coalition partners and the war's opponents has been passably cemented together, the United States no longer sees NATO as a hard and fast alliance but as a list of potential partners. That also has to do with the fact that many European countries -- and especially the new members -- use NATO as a guarantee of protection but contribute very little to it. For, the United States is militarily still stronger than all the other alliance members put together. All of Washington's appeals to the Europeans to increase their military expenditures have so far been in vain. Despite last year's expansion, NATO risks degenerating into a transatlantic talking shop. In that respect, the idea of intervention troops that can be quickly deployed, which NATO is now pursuing, hasn't changed much, since that is not where the problems in cooperating lay. Alliance or not, national intelligence agencies don't work closely enough together. Although the Sept. 11, 2001, attacks caused NATO partners to close ranks, petty jealousy and mistrust continue to hamper the exchange of information. But close cooperation of the part of intelligence agencies is indispensable to prevent terror. And it could give NATO as an alliance a new and, above all, forward-looking course.",
+  "relations": [
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Kosovo War",
+      "Kosovo",
+      "event_in0"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Osama bin Laden",
+      "al Qaeda",
+      "head_of"
+    ],
+    [
+      "Osama bin Laden",
+      "al Qaeda",
+      "member_of"
+    ],
+    [
+      "Enduring Freedom",
+      "NATO",
+      "created_by"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ]
+  ]
+}

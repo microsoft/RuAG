@@ -1,0 +1,55 @@
+{
+  "content": "EgyptAir crash investigator downplays possibility of explosion\nThe head of Egypt's forensic team has downplayed the theory of an explosion bringing down the EgyptAir flight. Investigators are struggling to work out why the Airbus 320 jet crashed with 66 people on board.\n\"Whatever has been published is baseless and mere assumptions,\" Hisham Abdel-Hamid, head of Egypt's forensic authority, told the country's MENA news agency on Tuesday. Forensic experts had floated the theory of an explosion triggering the crash after they collected wreckage (pictured above) and body parts, believed to belong to the travelers on the flight. They said the largest of these was barely bigger than than the palm of a hand and suggested there had been an explosion. However Abdel-Hamid and other forensic experts downplayed the claim and the government of Cairo also released a statement, warning media outlets \"to avoid chaos and spreading false rumors and damaging the state's high interests and national security.\" Meanwhile, Greek officials said they would start dispatching key data on the disaster on Wednesday. According to a Greek defense ministry official, who spoke on condition of anonymity, the plane had lurched violently in mid-air before plunging into the Mediterranean Sea. Egyptian officials however denied they saw the plan swerve on their radar screens. French investigators, who are helping Egyptian officials look for clues, said the plane sent a series of warnings, indicating there was smoke on board and that possible computer faults had occurred shortly before it disappeared. The EgyptAir Airbus 320 was flying from Paris to Cairo last Thursday when it vanished from radar screens and plunged into the Mediterranean Sea. There were 66 passengers and crew members traveling in the plane. Investigators are trying to find the machine's black boxes, which could reveal what went wrong. mg/jm (Ap, Reuters)",
+  "relations": [
+    [
+      "EgyptAir",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "EgyptAir",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Hisham Abdel-Hamid",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Hisham Abdel-Hamid",
+      "Egyptian",
+      "agent_of-x"
+    ],
+    [
+      "Hisham Abdel-Hamid",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Hisham Abdel-Hamid",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Cairo",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Cairo",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ]
+  ]
+}

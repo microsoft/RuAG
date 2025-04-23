@@ -1,0 +1,180 @@
+{
+  "content": "German foreign minister Steinmeier warns on Crimean fallout\nGerman Foreign Minister Frank-Walter Steinmeier has warned that the crisis in Crimea could escalate. He threatened Russia with further sanctions if it tried to claim more Ukrainian territory for itself.\nSteinmeier, who visited Ukraine on Saturday, told the weekly \"Welt am Sonntag\" newspaper that he feared widening consequences of the crisis in Crimea, which on Friday was finally annexed by Russia. \"I am very worried that the attempt, contrary to international law, to correct the internationally recognized borders in our European neighborhood 25 years after the end of the Cold War could open a Pandora's box,\" he told the paper. He said he also wondered whether Russia, which itself includes many different ethnicities, had thought through the possible consequences of its actions. Steinmeier said that although the planned mission of observers from the Organization for Security and Co-operation in Europe (OSCE) was a first step towards de-escalation, the situation, especially in eastern Ukraine, was \"still anything but stable.\" More sanctions threatened The German foreign minister also threatened Russia with more severe sanctions should it attempt to claim territory beyond Crimea's borders. \"If Russia reaches beyond Crimea, we in Europe will decide on radical measures, even if we have to accept economic disadvantages by doing so,\" he said. He also rejected criticism from some quarters that the West was not being firm enough in its measures against Russia. \"I can detect no weakness in our policies,\" he said. \"It is good and important that Europe and the USA act in close accord in this crisis. We are sending clear messages and we are reacting quickly and decisively,\" he added. Ukraine visit On Saturday, Steinmeier met with Ukraine's interim Prime Minister Arseniy Yatsenyuk in Kyiv, pledging German support to his pro-European Union government. He also traveled to the eastern city of Donetsk, where there is strong backing for a move toward Moscow, to hold talks with local officials. Steinmeier's remarks were published a day after pro-Russian troops seized the last major military facility still under Ukrainian control in Crimea, the Belbek air base near the western port city of Sevastopol. Two people were reportedly injured during the seizure. Russian President Vladimir Putin on Friday signed legislation to absorb the Ukrainian territory into the Russian Federation, after Crimean residents voted in a referendum to split from Ukraine in favor of Moscow. The referendum and the consequent annexation of Crimea by Russia have been met with widespread international condemnation, particularly from the West. The crisis in Crimea is likely to overshadow a two-day summit on nuclear terrorism starting Monday in the Netherlands. Russian Foreign Minister Sergei Lavrov is expected to hold talks there with his US counterpart John Kerry. tj/se (Reuters, dpa)",
+  "relations": [
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Crimea",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Crimea",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian Federation",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian Federation",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian Federation",
+      "head_of_state"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Welt am Sonntag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukraine",
+      "head_of_gov"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukrainian",
+      "head_of_gov-x"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Kyiv",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Donetsk",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Donetsk",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russian Federation",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Russian",
+      "Russian Federation",
+      "gpe0"
+    ],
+    [
+      "Belbek",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Belbek",
+      "Crimea",
+      "in1"
+    ],
+    [
+      "Sevastopol",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Sevastopol",
+      "Crimea",
+      "in1"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian Federation",
+      "agent_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian Federation",
+      "citizen_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian Federation",
+      "minister_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "John Kerry",
+      "USA",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "USA",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "USA",
+      "minister_of"
+    ]
+  ]
+}

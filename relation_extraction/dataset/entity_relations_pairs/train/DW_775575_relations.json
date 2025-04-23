@@ -1,0 +1,90 @@
+{
+  "content": "German Financial Experts to Discuss New Technology Index\nFinancial experts at the German Stock Exchange are due to discuss the expansion of the equity market and the implementation of the new TecDAX technology sector index model at a meeting on Tuesday.\nExperts at the Deutsche Börse, the German Stock Exchange, will meet on February 11 in Frankfurt to discuss the final arrangements on the expansion of the country's financial market. While the original DAX index will remain unchanged and continuing to host Germany's 30 largest blue chip companies, the new developments are set to expand the equity market with a new index model that aims to showcase technology companies The model, to be known as TecDAX, is based on a plan that was approved in principle by the Exchange Council of the Frankfurt Stock Exchange last year. Members of Deutsche Börse AG, the company that runs the stock exchange, are due to discuss the proposal of introducing the TecDAX to the current market system on Tuesday. If the integration is agreed upon, the new indices will be launched on March 24. TecDAX to showcase technology companies The TecDAX, which will track the 30 largest equities, will offer companies from the technology sectors greater exposure and it is hoped it will contribute to an economic recovery for Germany. Volker Potthoff, the Deutsche Börse executive board member responsible for the cash market, said in an official press release: \"The new index completes the new equity market segmentation with which we are creating the highest transparency standards in Europe and thus making investors the focus of market organization.\" Current Nemax index will offer support Once the TecDAX is up and running, a parallel calculation of the Nemax 50, the current index for the 50 largest equities in the technology sectors, is expected to continue until the end of 2004, in order to maintain continuity for financial products already based on this index. While the DAX will be unchanged, Deutsche Börse will differentiate between those companies below the DAX. For the companies from classic sectors, it will calculate the MDAX index, a senior index of companies, which is being reduced from 70 to 50 equities. The SDAX will continue to comprise 50 equities as the selection index for smaller firms ranked immediately below the MDAX. Skepticism from financial professionals Professionals from the financial sector are skeptical about the new TecDAX market and its worth. \"I can hardly believe that this new market index sector will bring a real change,\" said Eberhard Weinberger from analysts Dr. Jens Erhard Kapital AG. \"First, you must develop better frameworks in Germany, then that will be the time for big decisions.\" The air of caution may be justified. The Börse's New Market, its equivalent of the Nasdaq index, failed to make an impact and lost almost all of its value over a two-and-a-half year period. Germany's stock exchange operator announced the New Market's closure in September 2002 and planned an early 2003 timetable for it to be absorbed into the main market, along with the small-cap SMAX segment.",
+  "relations": [
+    [
+      "German Stock Exchange",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Stock Exchange",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Exchange Council",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Exchange Council",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Exchange Council",
+      "Frankfurt Stock Exchange",
+      "part_of"
+    ],
+    [
+      "Frankfurt Stock Exchange",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Frankfurt Stock Exchange",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Volker Potthoff",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Volker Potthoff",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Volker Potthoff",
+      "German Stock Exchange",
+      "head_of"
+    ],
+    [
+      "Volker Potthoff",
+      "German Stock Exchange",
+      "member_of"
+    ],
+    [
+      "Eberhard Weinberger",
+      "Kapital AG",
+      "member_of"
+    ],
+    [
+      "Kapital AG",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Kapital AG",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

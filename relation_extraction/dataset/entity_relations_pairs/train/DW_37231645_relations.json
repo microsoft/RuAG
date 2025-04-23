@@ -1,0 +1,175 @@
+{
+  "content": "Authorities probe Hungarian bus company over deadly Italy crash\nHungary and Italy have begun probing a bus crash that killed 16 people. Survivors also thanked the heroic actions of a Hungarian gym teacher and his wife who tragically lost two of their own children in the crash.\nCriminal negligence charges may be levied against the owners of a bus that was involved in a fatal accident in Italy over the weekend, Hungarian police said on Sunday. Investigators raided the offices of Pizolitbusz Ltd in the southern Hungarian city of Kiskunfelegyhaza on Sunday looking for technical information on the bus. The crash near Verona left 16 members of a Hungarian school group, returning from a ski vacation, dead while two people are battling life threatening injuries. Hungarian Foreign Minister Peter Szijjarto confirmed on Sunday that the bus carrying Hungarian students had 56 people on board, including two Hungarian drivers, when it crashed and burst into flames. He said it could take days to officially identify the victims due to severe burns. \"Two people are in critical condition and have not yet been identified. One of the injured has suffered third-degree burns on 60 percent of his body,\" Szijjarto said adding that another four people remained in serious condition. Heroic rescue Survivors of the bus crash told Italian media on Sunday that they were saved thanks to the actions of a gym teacher, his wife and a student. Gym teacher Gyorgy Vigh and his wife Erika dashed repeatedly into the blazing bus to get students but were unable to extract their own son and daughter, reported the \"Corriere della Sera\" newspaper. \"The teacher's wife was aboard and \"she saw her daughter die. She didn't see her son at all, but unfortunately he was among the deceased,\" confirmed Judit Timaffy, the Hungarian consulate in Milan, speaking to ANSA news agency. Survivors also spoke of a fellow student who saved numerous lives by running up and down the aisle of the bus, breaking windows with an emergency hammer. \"When he broke the one next to me I threw myself out. I don't know if I would have been able to get out if he hadn't been so brave. I never saw him again\" a student identified as Andras told the \"La Stampa\" newspaper. Police found the boy's body near the windows, still holding the hammer, highway police chief Girolamo Lacquaniti told local media. Malfunctioning wheel? A Slovenian truck driver who had been driving behind the bus told authorities that he noticed one of the vehicle's wheels appeared to be malfunctioning, a police official told news agency DPA. The owner of the bus company told the MTI news agency on Sunday that the bus was in good condition before the trip, adding that he could not explain the accident. rs/jm (AP, dpa, Reuters)",
+  "relations": [
+    [
+      "Hungarian",
+      "Hungary",
+      "gpe0"
+    ],
+    [
+      "Gyorgy Vigh",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Gyorgy Vigh",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Gyorgy Vigh",
+      "Erika",
+      "spouse_of"
+    ],
+    [
+      "Pizolitbusz Ltd",
+      "Hungary",
+      "based_in0"
+    ],
+    [
+      "Pizolitbusz Ltd",
+      "Hungarian",
+      "based_in0-x"
+    ],
+    [
+      "Pizolitbusz Ltd",
+      "Kiskunfelegyhaza",
+      "based_in2"
+    ],
+    [
+      "Verona",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Verona",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Peter Szijjarto",
+      "Hungary",
+      "agent_of"
+    ],
+    [
+      "Peter Szijjarto",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Peter Szijjarto",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Szijjarto",
+      "Hungary",
+      "minister_of"
+    ],
+    [
+      "Peter Szijjarto",
+      "Hungarian",
+      "minister_of-x"
+    ],
+    [
+      "Kiskunfelegyhaza",
+      "Hungary",
+      "in0"
+    ],
+    [
+      "Kiskunfelegyhaza",
+      "Hungarian",
+      "in0-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Erika",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Erika",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Erika",
+      "Gyorgy Vigh",
+      "spouse_of"
+    ],
+    [
+      "Corriere della Sera",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Corriere della Sera",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Judit Timaffy",
+      "Hungary",
+      "agent_of"
+    ],
+    [
+      "Judit Timaffy",
+      "Hungarian",
+      "agent_of-x"
+    ],
+    [
+      "Judit Timaffy",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Judit Timaffy",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Milan",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Milan",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "ANSA",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "ANSA",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "La Stampa",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "La Stampa",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Girolamo Lacquaniti",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Girolamo Lacquaniti",
+      "Italian",
+      "citizen_of-x"
+    ]
+  ]
+}

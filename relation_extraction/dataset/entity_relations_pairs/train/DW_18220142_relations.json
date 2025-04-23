@@ -1,0 +1,65 @@
+{
+  "content": "US executes man despite disability claim\nA man has been executed in the US after a final appeal by his lawyers who said he was intellectually disabled was turned down. Warren Hill was killed by lethal injection in the southeastern state of Georgia.\nThe 54-year-old murderer was initially sentenced to life imprisonment for killing his 18-year-old girlfriend in 1986, whom he shot 11 times. While serving that sentence, however, Hill beat fellow inmate Joseph Handspike to death using a nail-studded board. In 1991, Hill was convicted of Handspike's murder and sentenced to death. His execution was delayed three times between July 2012 and July 2013 following various challenges. In their final appeal, Hill's lawyers argued that his execution was prohibited by the Constitution because he was intellectually disabled. According to Hill's representatives, he had an IQ of 70 and the mental capacity of an 11-year-old. A number of experts and state doctors had also testified to Hill's mental disability. The Supreme Court turned down the appeal, however, after the court voted 7-2 to not take up the petition. Despite being the first US state to ban the execution of mentally disabled inmates, critics say Georgia has the toughest standard for proving intellectual disability in the US. Global calls for mercy The European Union (EU), lawyers and doctors, as well as public figures including former US president Jimmy Carter, had also called for mercy for Hill. \"This execution is an abomination,\" said Hill's attorney Brian Kammer, following the Supreme Court's decision not to take up Hill's petition. \"Today, the court has unconscionably allowed a grotesque miscarriage of justice to occur in Georgia. \"The memory of Mr. Hill's illegal execution will live on as a moral stain on the people of this state and on the courts that allowed this to happen.\" According to the Death Penalty Information Center, Hill was the fifth US inmate executed this year and the second in Georgia. ksb/bw (Reuters, AFP, AP)",
+  "relations": [
+    [
+      "Warren Hill",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Joseph Handspike",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Supreme Court",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Supreme Court",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Georgia",
+      "US",
+      "in0"
+    ],
+    [
+      "Jimmy Carter",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Jimmy Carter",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Jimmy Carter",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Brian Kammer",
+      "Warren Hill",
+      "advisor_of"
+    ],
+    [
+      "Brian Kammer",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Death Penalty Information Center",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Death Penalty Information Center",
+      "US",
+      "based_in0"
+    ]
+  ]
+}

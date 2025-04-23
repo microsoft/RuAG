@@ -1,0 +1,135 @@
+{
+  "content": "Opinion: Obama defends Libya intervention\nIn his speech to America, President Obama successfully justified the intervention in Libya and fended off domestic criticism. He made clear that the coalition acted to stop a massacre, argues DW's Christina Bergmann.\nIn a resolute address to the American people nine days after ordering airstrikes against Libya, President Barack Obama successfully defended the UN-sanctioned military action from domestic critics. Obama had come under fire in recent days for not clearly defining the goals of the air campaign. The American people did not fully understand why their soldiers should risk their lives in this distant land. After all, Washington does not have obvious strategic interests in Libya. And many conservative politicians criticized the White House for so readily turning over leadership of the operation to other nations. The US president answered these questions in his speech and simultaneously defined his administration's policy toward military intervention. When a massacre looms or the stability of an entire region is in danger, then the US will intervene. Both Washington and the world have a responsibility to act in these situations, according to Obama. He reminded viewers - and rightly so - that in Bosnia during the 1990s the international community had looked on for much too long as horrific crimes were committed. Lessons of Iraq Obama also made clear that Washington had learned its lessons from the Iraq War. He explained that the military goal in Libya was not the overthrow of Moammar Gadhafi. The US simply cannot afford to invest the resources in regime change, he said. And Obama also demonstrated that the US would not act alone. The UN should be happy that Washington has shown strong leadership and has not completely withdrawn from international politics after a decade of war in Iraq and Afghanistan. Without the US, the international community would be a paper tiger. In order to enforce Security Council resolutions, establish no-fly zones and protect civilians, the world's military superpower has to play a constructive role. There's simply no way around this reality. However, Obama also clearly stated that American engagement in Libya is limited. There will be no ground troops and NATO will take over the reigns of the operation on Wednesday. On the one hand, the handover is a political calculation in order to reassure skeptical Americans about the intervention. On the other hand, it is simply necessary. The US is not in the financial and military position to wage a third war on its own over the long-term. President Obama presented himself as a head of state who is indeed ready to deploy soldiers and resources elsewhere in the world to rescue human lives. Yet he also made clear that he carefully weighs the pros and cons and acts pragmatically. In other words, intervention in Libya does not mean that the demonstrators in Syria, Yemen, Bahrain or Iran can expect to receive massive support from the US. Above all else, President Obama is looking after his own country's interests. Author: Christina Bergmann/ sk Editor: Rob Mudge",
+  "relations": [
+    [
+      "Barack Obama",
+      "America",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "America",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "America",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Christina Bergmann",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Washington",
+      "America",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "White House",
+      "America",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "America",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "America",
+      "in0"
+    ],
+    [
+      "White House",
+      "American",
+      "in0-x"
+    ],
+    [
+      "White House",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Iraq War",
+      "Iraq",
+      "event_in0"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "head_of_state"
+    ],
+    [
+      "American",
+      "America",
+      "gpe0"
+    ],
+    [
+      "Americans",
+      "America",
+      "gpe0"
+    ]
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "content": "Chinese company buys ailing Frankfurt Hahn Airport\nA Shanghai construction company has bought a majority share in the long-stagnant airport, hoping to see its business take off again. It's betting that tourists and trade with Asia will be the salvation.\nGerman federal state Rhineland-Palatinate announced Monday that it had sold its majority stake in of Frankfurt's Hahn Airport to Shanghai Yigian Trading Company (SYT), in a deal worth somewhere in the \"low double-digit million euro range.\" According to Reuters, SYT counts as one of the leading construction companies in China. Roger Lewentz, Rhineland-Palatinate's interior minister, expressed hope that SYTwill give the aiprort an \"extra push\" to develop. Primarily used by discount airlines, especially Ireland-based Ryanair, Frankfurt Hahn has suffered through years of financial turbulence. It ended the 2014 fiscal year 45 million euros ($51 million) in the red. Another loss of 16 million euros is expected this year. While not offering any timeline for crawling back in the black, SYT announced on Monday its plan for revitalizing the airport, largely by increasing its business with Asia. Hoping to draw Asian tourists, SYT's chief representative Zu Tao Chou announced that the company was in talks with Chinese airline Yangtze River Express over its return to Frankfurt Hahn. The airline stopped operating at the airport in 2015, striking a blow to its business. SYT also aims to build the airport into a hub for freight deliveries. \"We expect good business in cargo deliveries of food to Asia,\" Chou said. Local-foreign partnership Rhineland-Palatinate had an 82.5 percent share in the airport's ownership. It will still maintain an involvement, including through subsidies and investment aid. Lewentz calculated that the Hahn will receive as much as 70 million euros in tax money between now and 2024. \"The support shows the high-priority the state government will ascribe to the site in the future,\" Lewentz said. According to the agreement though, SYT will have to supply at least half of the investments. Rhineland-Palatinate president Malu Dreyer is confident \"that the buyer will commit itself to the future of the location.\" SYT supported that sentiment, rather romantically. Chou said Monday that he \"lost his heart\" to the airport. Sealing the deal The state's legislative assembly still has to approve the sale in a vote expected before the body's summer recess. The European Commission also has to approve the state's continued involvement in the airport's operation. The airport is located about 120 kilometers (75 miles) away from Frankfurt am Main. Originally it served as a US military airbase before being converted to commercial use in 1993. Fraport, which operates the international flight hub Frankfurt Airport, sold its share to Rhineland-Palatinate in 2009 for a single euro. The German state of Hessen, where Frankfurt am Main is located, owns the remaining shares of the airport, about 17 percent. It is already in the \"home stretch\" of negotiations with SYT about a buyout, which could take place within the coming weeks. jtm/uhe (AFP, dpa, Reuers)",
+  "relations": [
+    [
+      "Shanghai Yigian Trading Company",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Shanghai Yigian Trading Company",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Roger Lewentz",
+      "Rhineland-Palatinate",
+      "agent_of"
+    ],
+    [
+      "Roger Lewentz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Roger Lewentz",
+      "Rhineland-Palatinate",
+      "minister_of"
+    ],
+    [
+      "Zu Tao Chou",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Zu Tao Chou",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Zu Tao Chou",
+      "Shanghai Yigian Trading Company",
+      "head_of"
+    ],
+    [
+      "Zu Tao Chou",
+      "Shanghai Yigian Trading Company",
+      "member_of"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Shanghai",
+      "China",
+      "in0"
+    ],
+    [
+      "Shanghai",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Rhineland-Palatinate",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Ryanair",
+      "Ireland",
+      "based_in0"
+    ],
+    [
+      "Yangtze River Express",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Yangtze River Express",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Malu Dreyer",
+      "Rhineland-Palatinate",
+      "agent_of"
+    ],
+    [
+      "Malu Dreyer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Malu Dreyer",
+      "Rhineland-Palatinate",
+      "head_of_state"
+    ],
+    [
+      "Frankfurt am Main",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hessen",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

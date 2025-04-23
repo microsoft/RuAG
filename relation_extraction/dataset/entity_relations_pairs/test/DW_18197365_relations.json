@@ -1,0 +1,65 @@
+{
+  "content": "Libya factions declare ceasefire\nAfter two days of peace talks in Geneva, a tentative ceasefire has been called in the restive North African country. Although they sent no representatives to Switzerland, Islamists have agreed to halt the fighting.\nThe Islamist-backed militia alliance that took over Tripoli and installed its own government announced a ceasefire on Friday, following a breakthrough in Geneva-based peace talks. Despite not attending the UN-brokered meeting, the militias have agreed to \"a ceasefire on all fronts,\" according to a statement issued by Islamist group Fajr Libya (Libya Dawn). The only condition is that \"the other parties respect the truce.\" The announcement came hours after the United Nations declared that Libya's warring factions had agreed to a roadmap for forming a unity government. Nearly four years after a NATO-backed revolt saw Moammar Gadhafi removed from power, two rival governments each backed by different groups of militias have plunged the country back into chaos and threatened all-out civil war. After the elected government of Prime Minister Abdullah al-Thinni was forced out of Tripoli by Libya Dawn, it was forced to move to the far eastern city of Tobruk while Libya Dawn reinstated the old parliament known as the GNC. The fighting and violence has displaced hundreds of thousands of civilians, left hundreds killed and thousands wounded. Most foreign diplomats fled the country and shut their embassies last year. The Tobruk government, as well as a few other factions who favor a peaceful resolution, came to Geneva to work on \"confidence-building measures,\" which includes the release of detainees from both sides, opening closed ports and securing safe freedom of movement around the country. es/bw (AP, AFP, Reuters)",
+  "relations": [
+    [
+      "Geneva",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Fajr Libya",
+      "Libya",
+      "based_in0"
+    ],
+    [
+      "Tripoli",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "head_of_state"
+    ],
+    [
+      "Abdullah al-Thinni",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Abdullah al-Thinni",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Abdullah al-Thinni",
+      "Libya",
+      "head_of_gov"
+    ],
+    [
+      "Tobruk",
+      "Libya",
+      "in0"
+    ],
+    [
+      "GNC",
+      "Libya",
+      "agency_of"
+    ],
+    [
+      "GNC",
+      "Libya",
+      "based_in0"
+    ]
+  ]
+}

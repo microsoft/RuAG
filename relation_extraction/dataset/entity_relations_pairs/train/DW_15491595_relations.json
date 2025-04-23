@@ -1,0 +1,460 @@
+{
+  "content": "Middle East Quartet pushes for fresh peace talks\nRepresentatives of the Middle East Quartet are pushing Israel and the Palestinians to resume peace talks. The aim is to reach an agreement by the end of 2012. But both sides are skeptical.\nFor a long time the Palestinian leader Mahmoud Abbas was considered hesitant and indecisive, but his bid to join the United Nations has given him a popularity boost among his own people. Many consider their president's demand that Palestine be internationally recognized as an independent state just plain self-evident. But that certainty is not shared the world over, and criticism of the UN application is widespread among western nations. They don't want the Palestinians to go it alone and are therefore pushing for the resumption of the peace talks that stalled more than a year ago. Slowly does it As of this week, the Middle East Quartet, which comprises the US, Russia, the European Union and the United Nations - has relaunched its efforts to find a solution to the ongoing conflict. It is planning separate meetings with chief Palestinian negotiator Saeb Erekat and Jizchak Molcho, representative for Israeli Prime Minister Benjamin Netanyahu. Among those taking part in the indirect talks is the UN special envoy and former British Prime Minister Tony Blair, and EU representative and German diplomat Helga Schmidt. Their proposed timetable for a peace treaty is the end of next year. Ruprecht Polenz, chairman of the foreign committee of the lower house of the German Parliament, is cautiously optimistic. \"The expectations are not very high,\" he told Deutsche Welle. \"But we are always hopeful that indirect talks lead to direct ones and that the direct talks become substantial negotiations, which are seen through to the end.\" Irreconcilable differences In the past years of negotiating, the differences between Israel and the Palestinians have simply been too big for the two sides to reach a lasting conclusion Martin Beck, head of the Konrad-Adenauer Stiftung Jordan office ,says that lack of agreement has a lot to do with Israel's settlement policies. \"In granting the construction of new settlements, Israel has demonstrated an unwillingness to comply with Palestinian demands,\" the Middle East expert told Deutsche Welle. And as Palestinian politician Kaddoura Fares said in an interview on Israeli radio there can be no peace while settlement building continued. \"When Israel has a different government or when the current government changes its policy and is willing to sit down at the negotiating table and stop construction, it will see that Abbas is open to peace,\" he said. Other side of the coin But Israeli Foreign Minister Avigdor Liebermann rejects the call to suddenly stop what he says has been going on since 1993. \"The demand of Mahmud Abbas to end construction as a condition to peace is new,\" he said on army radio. \"He negotiated with Sharon and Olmert without attaching that condition. This is the first government to be confronted with it.\" As Martin Beck explains, settlements are only one factor in the complex mix. He cites the Palestinian bid for UN membership as another issue. \"In applying to be recognized as a state based on 1967 boundaries, the Palestinians have proved they want far more than Israel is willing to offer,\" Beck said. \"And that is not a good start for bilateral negotiations.\" Low expectations The situation took on a new twist earlier this month when the conflicted parties agreed to what many Israelis see as a grossly imbalanced prisoner exchange - one Israeli soldier for roughly 1,000 Palestinians. Yariv Oppenheimer, General Secretary of the Israeli NGO Peace Now, sees both the exchange and the speech Abbas delivered to the United Nations as hurdles to possible peace talks. \"It now looks as though Israel and Hamas are walking hand in hand,\" Oppenheimer said. \"But Netanyahu has been playing power games with Abbas ever since he was elected and that is a shame because he is more moderate than previous leaders.\" Lack of interest There is no mistaking the lack of importance Israel places on indirect negotiations. In an interview with Deutsche Welle, the Israeli Minister of Improvement of Government Services confessed to knowing nothing about the planned talks. And the subject has not received much attention in the Israeli media either. The Palestinians are equally skeptical. \"I expect nothing,\" Nabil Schaat, a member of the Palestinian team of negotiators said shortly before the talks in Jerusalem. Middle East expert Martin Beck agrees that such skepticism is well-founded. \"Direct, bilateral peace talks with no clear schedule or parameters are hugely problematic for the Palestinians,\" he said. \"That was the way things went between 1993 and 2010, but compared to the PLO, Israel is just too powerful to have to make real concessions.\" Author: Hans Spross/ tkw Editor: Rob Mudge",
+  "relations": [
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israelis",
+      "head_of_gov-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestine",
+      "citizen_of"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestine",
+      "head_of_state"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "head_of_state-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "head_of_state-x"
+    ],
+    [
+      "Yariv Oppenheimer",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Yariv Oppenheimer",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Yariv Oppenheimer",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Yariv Oppenheimer",
+      "Peace Now",
+      "head_of"
+    ],
+    [
+      "Yariv Oppenheimer",
+      "Peace Now",
+      "member_of"
+    ],
+    [
+      "Martin Beck",
+      "Konrad-Adenauer Stiftung Jordan office",
+      "head_of"
+    ],
+    [
+      "Martin Beck",
+      "Konrad-Adenauer Stiftung Jordan office",
+      "member_of"
+    ],
+    [
+      "Palestinians",
+      "Palestine",
+      "gpe0"
+    ],
+    [
+      "Palestinian",
+      "Palestine",
+      "gpe0"
+    ],
+    [
+      "Saeb Erekat",
+      "Palestine",
+      "agent_of"
+    ],
+    [
+      "Saeb Erekat",
+      "Palestinians",
+      "agent_of-x"
+    ],
+    [
+      "Saeb Erekat",
+      "Palestinian",
+      "agent_of-x"
+    ],
+    [
+      "Saeb Erekat",
+      "Palestine",
+      "citizen_of"
+    ],
+    [
+      "Saeb Erekat",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Saeb Erekat",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Jizchak Molcho",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Jizchak Molcho",
+      "Israeli",
+      "agent_of-x"
+    ],
+    [
+      "Jizchak Molcho",
+      "Israelis",
+      "agent_of-x"
+    ],
+    [
+      "Jizchak Molcho",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Jizchak Molcho",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Jizchak Molcho",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Tony Blair",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Tony Blair",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Helga Schmidt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Helga Schmidt",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Ruprecht Polenz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ruprecht Polenz",
+      "German Parliament",
+      "member_of"
+    ],
+    [
+      "German Parliament",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Parliament",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kaddoura Fares",
+      "Palestine",
+      "citizen_of"
+    ],
+    [
+      "Kaddoura Fares",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Kaddoura Fares",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Avigdor Liebermann",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Avigdor Liebermann",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Avigdor Liebermann",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Avigdor Liebermann",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Avigdor Liebermann",
+      "Israel",
+      "minister_of"
+    ],
+    [
+      "Avigdor Liebermann",
+      "Israeli",
+      "minister_of-x"
+    ],
+    [
+      "Avigdor Liebermann",
+      "Israelis",
+      "minister_of-x"
+    ],
+    [
+      "Sharon",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Sharon",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Sharon",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Sharon",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Sharon",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Sharon",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Sharon",
+      "Israelis",
+      "head_of_gov-x"
+    ],
+    [
+      "Olmert",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Olmert",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Olmert",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Olmert",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Olmert",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Olmert",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Olmert",
+      "Israelis",
+      "head_of_gov-x"
+    ],
+    [
+      "Israelis",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Peace Now",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Peace Now",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "Peace Now",
+      "Israelis",
+      "based_in0-x"
+    ],
+    [
+      "Hamas",
+      "Palestine",
+      "based_in0"
+    ],
+    [
+      "Hamas",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "Hamas",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Improvement of Government Services",
+      "Israel",
+      "agency_of"
+    ],
+    [
+      "Improvement of Government Services",
+      "Israeli",
+      "agency_of-x"
+    ],
+    [
+      "Improvement of Government Services",
+      "Israelis",
+      "agency_of-x"
+    ],
+    [
+      "Improvement of Government Services",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Improvement of Government Services",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "Improvement of Government Services",
+      "Israelis",
+      "based_in0-x"
+    ],
+    [
+      "Improvement of Government Services",
+      "Israel",
+      "ministry_of"
+    ],
+    [
+      "Nabil Schaat",
+      "Palestine",
+      "agent_of"
+    ],
+    [
+      "Nabil Schaat",
+      "Palestinians",
+      "agent_of-x"
+    ],
+    [
+      "Nabil Schaat",
+      "Palestinian",
+      "agent_of-x"
+    ],
+    [
+      "Jerusalem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jerusalem",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Jerusalem",
+      "Israelis",
+      "in0-x"
+    ],
+    [
+      "PLO",
+      "Palestine",
+      "based_in0"
+    ],
+    [
+      "PLO",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "PLO",
+      "Palestinian",
+      "based_in0-x"
+    ]
+  ]
+}

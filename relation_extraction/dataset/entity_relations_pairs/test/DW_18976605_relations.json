@@ -1,0 +1,90 @@
+{
+  "content": "EU risks taking sides in Polish dispute, says deputy foreign minister\nThe European Commission has launched an unprecedented procedure to review Poland's rule of law. The move has been questioned by officials, with some saying it places the EU at-risk of taking sides in an internal dispute.\nThe European Commission's decision to launch the rule of law procedure on Warsaw puts the EU's executive institution at-risk of taking sides, Polish Deputy Foreign Minister Konrad Szymanski told reporters in the European Parliament. \"I have the impression that the [European] Commission risks taking a role as a side in a political dispute inside Poland,\" Szymanski noted. On Wednesday, European Commission Vice President Frans Timmermans - a former Dutch foreign minister - announced the move, marking the first time the EU has used the mechanism. Timmermans said that the move was aimed at entering \"into a dialogue with the Polish authorities, to clarify the facts in an objective way and help find solutions if necessary.\" He added that the procedure is focused on seeking answers regarding the new right-wing Polish government's actions not to apply two judgments by the country's constitutional court, and the reasons behind the president and vice-president's terms were shortened. Preserving rule of law However, Poland's deputy foreign minister said that the European Commission was informed of the reasons behind the government's actions. \"We would insist that the questions are phrased precisely because we have provided much information to the Commission in recent days and we are not entirely clear as to what the Commission is still not clear about,\" Szymanski noted to reporters at the European Parliament. New media laws, giving the government the power to hire and fire senior figures at state broadcasters, were also called into question by Timmermans. The controversial legislation prompted mass pro-democracy protesters in the European country. \"The rule of law is one of the EU's fundamental values. Making sure the rule of law is preserved throughout the Union is a key part of the European Commission's responsibilities,\" Timmermans wrote on his official Facebook page. The Rule of Law Framework was created two years ago as a response to criticism that the 28-nation bloc had not adequately responded to possibly-authoritarian moves taken by Hungarian Prime Minister Viktor Orban during his tenure. ls/jil (Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "[European] Commission",
+      "Union",
+      "institution_of"
+    ],
+    [
+      "[European] Commission",
+      "Union",
+      "part_of"
+    ],
+    [
+      "Konrad Szymanski",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Konrad Szymanski",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Konrad Szymanski",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Konrad Szymanski",
+      "Poland",
+      "minister_of"
+    ],
+    [
+      "Konrad Szymanski",
+      "Polish",
+      "minister_of-x"
+    ],
+    [
+      "Frans Timmermans",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "Frans Timmermans",
+      "[European] Commission",
+      "head_of"
+    ],
+    [
+      "Frans Timmermans",
+      "[European] Commission",
+      "member_of"
+    ],
+    [
+      "Polish",
+      "Poland",
+      "gpe0"
+    ],
+    [
+      "Warsaw",
+      "Poland",
+      "in0"
+    ],
+    [
+      "Warsaw",
+      "Polish",
+      "in0-x"
+    ],
+    [
+      "European Parliament",
+      "Union",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "Union",
+      "part_of"
+    ],
+    [
+      "Viktor Orban",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Viktor Orban",
+      "Hungarian",
+      "head_of_gov-x"
+    ]
+  ]
+}

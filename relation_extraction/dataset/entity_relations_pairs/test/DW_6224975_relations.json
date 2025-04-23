@@ -1,0 +1,75 @@
+{
+  "content": "Teabag filter cleans water with nanotechnology\nA new water filter developed in South Africa could provide millions of people with clean drinking water. The filter, about the size and shape of a teabag, would be inexpensive, easy to distribute and simple to use.\nMarelize Botes is conducting a final set of tests on a new type of diminutive water filter before industrial production can begin. The microbiologist pours water from a plastic bottle though a high-tech, teabag-sized filter before analyzing it in her in her laboratory at the University of Stellenbosch in South Africa. \"The filter is much cheaper than bottled water as well as any other filter on the market,\" she told Deutsche Welle. Instead of being filled with black or green tea, the bag contains active carbon granules and is made from nanofibers treated with biocide, which kills bacteria rather than simply filtering them from the water. Nanotech for pennies \"This project takes nanotechnology to the poorest of the poor people who live in this world, and it will make a difference in their lives,\" said Eugen Cloete, who in addition to inventing the filter is dean of the faculty of science at Stellenbosch University and chair of Stellenbosch University's Water Institute. With some 300 million people in Africa - and over a billion worldwide - living without access to clean drinking water, the need for such a filter is huge. When in mass production, the developers said they expect the teabag to cost just a few South African cents (under half a US cent and under a third of a euro cent). In addition to being inexpensive, Botes said, the filter is also easy to distribute to rural area and simple to use as it can be place in an adapter that fits on nearly any regular-sized plastic bottle. Each filter can clean one liter (one quart) of the most polluted water to the point where it is completely safe to drink. Once used, the filter can be disposed of and is biodegradable. African countries, led by Somalia, Mauritania and Sudan, were ranked to have the most vulnerable water supplies, according to a June report by UK-based risk consultancy firm Maplecroft. Decentralized use The filter's small size and light weight make it ideal for rural areas where other means of filtration do not exist, Cloete said. \"It is simply impossible to build purification infrastructure at every polluted stream,\" Cloete said. \"So we have to take the solution to the people. The water is cleaned right then and there when you drink from the bottle.\" The filter is now undergoing testing by the South African Bureau of Standards, after which Cloete and his team hope it can be rolled out to the United Nations and non-governmental organizations that have expressed interest in it by the end of the year. The project grew out of research into larger filters, according to Cloete. \"We were busy developing filters for larger applications, but when you do the tests in the labatory you do the tests on a much smaller scale,\" he said. \"The results we were getting on a smaller amount of water promoted me to think about a smaller application.\" Author: Joerg Poppendieck, Sean Sinico Editor: Anke Rasper",
+  "relations": [
+    [
+      "Marelize Botes",
+      "University of Stellenbosch",
+      "member_of"
+    ],
+    [
+      "University of Stellenbosch",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "University of Stellenbosch",
+      "South African",
+      "based_in0-x"
+    ],
+    [
+      "Eugen Cloete",
+      "University of Stellenbosch",
+      "head_of"
+    ],
+    [
+      "Eugen Cloete",
+      "Water Institute",
+      "head_of"
+    ],
+    [
+      "Eugen Cloete",
+      "University of Stellenbosch",
+      "member_of"
+    ],
+    [
+      "Eugen Cloete",
+      "Water Institute",
+      "member_of"
+    ],
+    [
+      "Water Institute",
+      "University of Stellenbosch",
+      "part_of"
+    ],
+    [
+      "South African",
+      "South Africa",
+      "gpe0"
+    ],
+    [
+      "Maplecroft",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "South African Bureau of Standards",
+      "South Africa",
+      "agency_of"
+    ],
+    [
+      "South African Bureau of Standards",
+      "South African",
+      "agency_of-x"
+    ],
+    [
+      "South African Bureau of Standards",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "South African Bureau of Standards",
+      "South African",
+      "based_in0-x"
+    ]
+  ]
+}

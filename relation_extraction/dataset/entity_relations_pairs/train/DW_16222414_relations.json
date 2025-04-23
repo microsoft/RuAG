@@ -1,0 +1,150 @@
+{
+  "content": "China criticizes EU solar dumping probe\nThe EU has decided to investigate allegations that Chinese solar firms are dumping their wares in Europe. China has promptly articulated its opposition to the move.\nChina expressed its “deep regret” on Thursday over the European Commission's decision to look into allegations that Chinese producers are guilty of solar panel dumping. Chinese Ministry of Commerce spokesman Shen Danyang passed comment after Brussels announced on Wednesday that the Commission would investigate the issue following complaints from European solar companies. \"China expresses deep regret\" about the move, Shen said in a statement published on the ministry's website. \"Restricting China's solar panel products will not only hurt the interests of both Chinese and European industry, it will also wreck the healthy development of the global solar and clean energy sector,\" said Shen, who called for negotiations to solve the dispute. A group of 25 European solar companies, including Germany's SolarWorld, first filed an anti-dumping complaint against China to the European Commission in July. They accuse their Chinese competitors, which receive subsidies worth billions from the Chinese government, of flooding the market with basement-price products. European solar companies are also heavily subsidized at home. Major Chinese companies in the solar panel industry, such as Yingli, Suntech, Trina and Canadian Solar had responded to the complaint by threatening a trade war. The conflict between the two sides was also a topic of conversation during German Chancellor Angela Merkel's visit to Beijing last week. China then called for negotiations in lieu of anti-dumping proceedings. The European Competition Authorities investigative forum now has 15 months to decide what, if any, punitive tariffs to impose on Chinese solar panel firms. sej/msh (Reuters, dpa)",
+  "relations": [
+    [
+      "Shen Danyang",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Shen Danyang",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Shen Danyang",
+      "Ministry of Commerce",
+      "member_of"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Ministry of Commerce",
+      "China",
+      "agency_of"
+    ],
+    [
+      "Ministry of Commerce",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "Ministry of Commerce",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Ministry of Commerce",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Commerce",
+      "China",
+      "ministry_of"
+    ],
+    [
+      "SolarWorld",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "SolarWorld",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Yingli",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Yingli",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Suntech",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Suntech",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Trina",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Trina",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Canadian Solar",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Canadian Solar",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ]
+  ]
+}

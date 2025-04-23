@@ -1,0 +1,220 @@
+{
+  "content": "Peru's ex-president Fujimori receives medical pardon\nPeru's president has pardoned jailed former president Alberto Fujimori after he was hospitalized. The 79-year-old was serving 25 years for rights abuses and corruption.\nPeruvian President Pedro Pablo Kuczynski announced Sunday that he granted a medical pardon to jailed ex-president Alberto Fujimori for \"humanitarian reasons.\" Fujimori was hospitalized on Saturday, prompting rumors that he could be handed a medical pardon. Fujimori's doctor said Peru's polarizing figure was transferred to Lima's Centenary Clinic after a \"sudden drop in [blood] pressure with marked arrhythmia.\" The transfer came after his daughter, Keiki Fujimori, who leads the opposition Fujimorist Popular Front party, failed in Congress last Thursday to amass enough votes to impeach Kuczynski. Nine opposition members, including the ex-president's youngest son Kenji, abstained in that vote, allowing Kuczynski to dodge censure. Political analysts questioned whether Fujimori's pardon could be a way for Kuczynski to pay off his political debt to Kenji Fujimori. Loathed and lauded Some Peruvians laud the former strongman, who governed Peru from 1990 to 2000, for defeating the Maoist Shining Path guerrillas and stabilizing Peru's economy. Other Peruvians loathe him for human rights violations carried out under his governance. Peruvian law provides that no person convicted of murder or kidnapping can receive a presidential pardon unless in the case of a terminal illness. In a statement Sunday, Kuczynski said a medical board had determined Fujimori \"suffers from a progressive, degenerative and incurable disease and that prison conditions mean a serious risk to his life, health and well-being.\" Three previous requests from Fujimori for pardons since 2013 were rejected after doctors said he did not suffer from incurable illness or severe mental disorder. cw, ipj/aw (AP, AFP)",
+  "relations": [
+    [
+      "Pedro Pablo Kuczynski",
+      "Peru",
+      "agent_of"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peru",
+      "citizen_of"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peruvian",
+      "citizen_of-x"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peruvians",
+      "citizen_of-x"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peru",
+      "head_of_state"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peruvian",
+      "head_of_state-x"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peruvians",
+      "head_of_state-x"
+    ],
+    [
+      "Alberto Fujimori",
+      "Peru",
+      "agent_of"
+    ],
+    [
+      "Alberto Fujimori",
+      "Peru",
+      "citizen_of"
+    ],
+    [
+      "Alberto Fujimori",
+      "Peruvian",
+      "citizen_of-x"
+    ],
+    [
+      "Alberto Fujimori",
+      "Peruvians",
+      "citizen_of-x"
+    ],
+    [
+      "Alberto Fujimori",
+      "Peru",
+      "head_of_state"
+    ],
+    [
+      "Alberto Fujimori",
+      "Peruvian",
+      "head_of_state-x"
+    ],
+    [
+      "Alberto Fujimori",
+      "Peruvians",
+      "head_of_state-x"
+    ],
+    [
+      "Alberto Fujimori",
+      "Kenji Fujimori",
+      "parent_of"
+    ],
+    [
+      "Alberto Fujimori",
+      "Keiki Fujimori",
+      "parent_of"
+    ],
+    [
+      "Kenji Fujimori",
+      "Alberto Fujimori",
+      "child_of"
+    ],
+    [
+      "Kenji Fujimori",
+      "Peru",
+      "citizen_of"
+    ],
+    [
+      "Kenji Fujimori",
+      "Peruvian",
+      "citizen_of-x"
+    ],
+    [
+      "Kenji Fujimori",
+      "Peruvians",
+      "citizen_of-x"
+    ],
+    [
+      "Peruvian",
+      "Peru",
+      "gpe0"
+    ],
+    [
+      "Lima",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Lima",
+      "Peruvian",
+      "in0-x"
+    ],
+    [
+      "Lima",
+      "Peruvians",
+      "in0-x"
+    ],
+    [
+      "Centenary Clinic",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Centenary Clinic",
+      "Lima",
+      "in2"
+    ],
+    [
+      "Keiki Fujimori",
+      "Alberto Fujimori",
+      "child_of"
+    ],
+    [
+      "Keiki Fujimori",
+      "Peru",
+      "citizen_of"
+    ],
+    [
+      "Keiki Fujimori",
+      "Peruvian",
+      "citizen_of-x"
+    ],
+    [
+      "Keiki Fujimori",
+      "Peruvians",
+      "citizen_of-x"
+    ],
+    [
+      "Popular Front",
+      "Peru",
+      "based_in0"
+    ],
+    [
+      "Popular Front",
+      "Peruvian",
+      "based_in0-x"
+    ],
+    [
+      "Popular Front",
+      "Peruvians",
+      "based_in0-x"
+    ],
+    [
+      "Congress",
+      "Peru",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "Peruvian",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "Peruvians",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "Peru",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "Peruvian",
+      "based_in0-x"
+    ],
+    [
+      "Congress",
+      "Peruvians",
+      "based_in0-x"
+    ],
+    [
+      "Peruvians",
+      "Peru",
+      "gpe0"
+    ],
+    [
+      "Shining Path",
+      "Peru",
+      "based_in0"
+    ],
+    [
+      "Shining Path",
+      "Peruvian",
+      "based_in0-x"
+    ],
+    [
+      "Shining Path",
+      "Peruvians",
+      "based_in0-x"
+    ]
+  ]
+}

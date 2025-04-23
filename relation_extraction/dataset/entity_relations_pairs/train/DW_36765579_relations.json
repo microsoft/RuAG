@@ -1,0 +1,115 @@
+{
+  "content": "Trash crisis forces Lebanon's environmental awakening\nWith Lebanon's garbage crisis in its second year, regular citizens are taking the problem of the ever-growing piles of trash into their own hands. This shift in consciousness represents a new reality for the government.\nWhen Kassem Kazak had the idea to start a recycling company with a friend in Lebanon, he didn't expect the extent to which his initiative would strike a nerve. Recycle Beirut, which Kazak launched at the end of 2014, was meant to provide an environmentally friendly alternative to conventional waste disposal, as well as create job opportunities for Syrian refugees in Lebanon. No one at Recycle Beirut had any experience in waste management; Kazak himself is an IT engineer. \"We became friends with the people who collect the trash at night,\" Kazak said. \"They showed us how waste management in Lebanon works.\" The team at Recycle Beirut quickly realized that the concept of recycling was little-known in Lebanon, and that recycling plants simply didn't exist in the country. \"There is not much sorting from the source, because there are not many efforts to collect the recycled trash. And this is where the problem lies,\" Kazak said. Here's where Recycle Beirut stepped in. Since early 2015, trucks from the company have driven through the streets of the Lebanese capital, collecting recycled waste from private households. The waste is collected in a warehouse and eventually brought to the individual waste processing plants. Kazak soon realized that, in addition to the logistical hurdles, their main challenge was to introduce recycling culture to Lebanon. Events in the summer of 2015, when trash began piling up on the streets, played a major part. Grassroots campaign Up until 2015, waste disposal was mainly taken care of by a private company, Sukleen. Collected waste was briefly processed, if at all, then dumped in a landfill near the city of Naameh, south of Beirut. Sukleen kept using the site near Naameh even after capacity was reached. When protesting residents managed to close the landfill in July 2015, Sukleen - in the absence of an alternative plan - simply stopped collecting garbage, and trash began piling up in the streets of Lebanon. A month later, the You Stink! grassroots movement brought more than 200,000 people to the streets to demand that the government come up with an economical and ecological plan to dispose of the waste. More than a year later, the government still hasn't found a solution. But this inaction has spurred citizens to act, and Recycle Beirut has consequently seen its business grow. Today, the company employs 17 Syrian refugees and sends out three trucks every day to pick up 2 to 3 tons of pre-sorted waste. This new focus on recycling is also reflected in the number of households who have signed up with Recycle Beirut, which has risen from a dozen to more than 1,100. Consciousness shift Journalist Kareem Chehayeb, who has actively participated in the garbage protests, has noticed increased awareness among the Lebanese population when it comes to environmental issues. This has been especially visible in the reactions from politicians. \"For the first time, we see politicians from both sides becoming active and discussing their solutions in the media,\" said Chehayeb. Another sign of the consciousness shift has been reflected in the business world. \"Every company brags about how green they are,\" he told DW. \"True or not, it shows that there is a demand.\" This new awareness is also reflected in the many environmental movements and nongovernmental organizations that have emerged in the course of the protests, especially at the universities. Chehayeb, however, is critical of this development. \"This commitment is nice, but a lot of NGOs do what the state should be doing,\" he pointed out. \"My concern is if more NGOs become active, they will do the job that the government should be doing. \"We pay taxes for it, and the taxes shouldn't channeled away from that. The government has a responsibility.\" Financial incentives bring about change Environmental engineer Ziad Abichaker has chosen to throw in his support with the community activists. With his organization, Cedar Environmental, he has been building recycling plants since 2009. \"The only way you can convince [the government] is with results, and showing that they make good financial sense for the municipality,\" he explained. In September, Cedar Environmental launched a new zero-waste facility in Beit Mery, 15 kilometers (around 9 miles) east of Beirut. The facility processes about a ton of municipal waste for $62 (around 58 euros); Sukleen processed the same amount for $130. \"We offered a solution where they not only get the garbage off the street, but also save 50 percent,\" said Abichaker. In the end, Lebanon's waste crisis has forced municipalities to introduce recycling. \"Nobody accepts the old practices any more,\" said Abichaker. Private citizens have woken up and discovered the alternatives - and the government will have to get used to this new reality.",
+  "relations": [
+    [
+      "Kassem Kazak",
+      "Lebanon",
+      "citizen_of"
+    ],
+    [
+      "Kassem Kazak",
+      "Lebanese",
+      "citizen_of-x"
+    ],
+    [
+      "Kassem Kazak",
+      "Recycle Beirut",
+      "founder_of"
+    ],
+    [
+      "Recycle Beirut",
+      "Lebanon",
+      "based_in0"
+    ],
+    [
+      "Recycle Beirut",
+      "Lebanese",
+      "based_in0-x"
+    ],
+    [
+      "Beirut",
+      "Lebanon",
+      "in0"
+    ],
+    [
+      "Beirut",
+      "Lebanese",
+      "in0-x"
+    ],
+    [
+      "Ziad Abichaker",
+      "Lebanon",
+      "citizen_of"
+    ],
+    [
+      "Ziad Abichaker",
+      "Lebanese",
+      "citizen_of-x"
+    ],
+    [
+      "Ziad Abichaker",
+      "Cedar Environmental",
+      "head_of"
+    ],
+    [
+      "Ziad Abichaker",
+      "Cedar Environmental",
+      "member_of"
+    ],
+    [
+      "Lebanese",
+      "Lebanon",
+      "gpe0"
+    ],
+    [
+      "Sukleen",
+      "Lebanon",
+      "based_in0"
+    ],
+    [
+      "Sukleen",
+      "Lebanese",
+      "based_in0-x"
+    ],
+    [
+      "Naameh",
+      "Lebanon",
+      "in0"
+    ],
+    [
+      "Naameh",
+      "Lebanese",
+      "in0-x"
+    ],
+    [
+      "You Stink!",
+      "Lebanon",
+      "based_in0"
+    ],
+    [
+      "You Stink!",
+      "Lebanese",
+      "based_in0-x"
+    ],
+    [
+      "Cedar Environmental",
+      "Lebanon",
+      "based_in0"
+    ],
+    [
+      "Cedar Environmental",
+      "Lebanese",
+      "based_in0-x"
+    ],
+    [
+      "Beit Mery",
+      "Lebanon",
+      "in0"
+    ],
+    [
+      "Beit Mery",
+      "Lebanese",
+      "in0-x"
+    ]
+  ]
+}

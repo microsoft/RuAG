@@ -1,0 +1,50 @@
+{
+  "content": "Love and Betrayal in the Animal Kingdom\nIn its latest major show, the German Hygiene Museum in Dresden is exploring the contradictory relationship between people and animals.\nWe love animals, but we also kill them. We cuddle them, but we also hunt them. We revere them, but we also use them. We mass produce livestock, we keep house pets, we go on luxury safaris and, at the same time, we protect endangered species. The list of incredible contradictions in the relationship between humans and the animal kingdom seems endless and is now the focus of a new exhibit at the German Hygiene Museum in Dresden titled, \"Man and Animals: Scenes from a Paradoxical Relationship\". The exhibit begins in a dimly-lit room. Loud speakers pipe out the sounds of many different types of animals. Hundreds of rubber animals are held in a case behind small Adam and Eve figures. It's clear from the beginning that the show's creators have also infused a dose of humor into a provocative and deep subject. Tough moral questions \"The exhibit is really about the self-image of humans,\" says curator Jasdan Joerges. \"What's so distinguishing about humans? What makes them human? Who wears the crown of creation? Will animals in the future need a bigger divide from humans? Do we need new ethics for an animal of the future? These are the kinds of questions this exhibit deals with.\" Animals are a central component of human culture and civilization. Without them, we humans never would have become what we are today. The first thematic block of the exhibit, under the title \"Beloved Animals,\" examines that motif. The wide-reaching exhibit covers everything from hunting as an existential necessity to killing for sport, to the exotic menageries kept by European dynasties to today's zoos, which have become the last refuges for some endangered species. From the everyday to the bizarre The Hygiene Museum also devotes considerable space to examining the complex relationship between humans and their pets. \"The rank of house pets as a social and economic factor is enormous,\" says Joerges. \"It's a billion euro industry. We show everything here from jars from Germany's first blood bank for dogs to animal coffins to wedding dresses for dogs to fish-flavored toothpaste for cats to a model used to teach mouth-to-snout CPR.\" The show brings together more than 750 artifacts including paintings, films, stuffed animals and everyday objects. It also includes its share of strange stuff, like a real elephant foot that was made into a trash can and given to former East German President Wilhelm Pieck on the occasion of his 80th birthday. All of the exhibits are displayed behind a wire-netting fence, which is meant to symbolize the border between humans and animals. A world divided The fence is omnipresent in the first three sections of the exhibit, signifying how humans have tinkered with animals and sought to perfect certain species over thousands of years. We've used genetic engineering to add ribs in order to produce more meat cutlets and we've devised technical equipment that guarantees the continued existence of breeding animals. But it also leaves you asking yourself exactly the questions the curators intended. How far should humans be able to go in their relationships with animals? Should humans be able to experiment with animals that the latest scientific discoveries show share most of our genes? The exhibit doesn't try to answer any of these questions -- it merely poses them. \"Man and Animal\" runs through August 10, 2003, at the Deutsches Hygiene Museum, located at Lingnerplatz 1 in Dresden.",
+  "relations": [
+    [
+      "Deutsches Hygiene Museum",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Man and Animals: Scenes from a Paradoxical Relationship",
+      "Jasdan Joerges",
+      "created_by"
+    ],
+    [
+      "Jasdan Joerges",
+      "Deutsches Hygiene Museum",
+      "head_of"
+    ],
+    [
+      "Jasdan Joerges",
+      "Deutsches Hygiene Museum",
+      "member_of"
+    ],
+    [
+      "Wilhelm Pieck",
+      "East German",
+      "citizen_of-x"
+    ],
+    [
+      "Wilhelm Pieck",
+      "East German",
+      "head_of_state-x"
+    ],
+    [
+      "Lingnerplatz",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lingnerplatz",
+      "Dresden",
+      "in2"
+    ]
+  ]
+}

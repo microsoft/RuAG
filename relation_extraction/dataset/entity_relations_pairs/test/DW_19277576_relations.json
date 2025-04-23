@@ -1,0 +1,40 @@
+{
+  "content": "A quarter of deaths caused by environmental degradation, says UN\nA new United Nations report warns that pollution and global warming are causing millions more deaths than conflicts. The UN's environment agency has called for an urgent roll-back on harmful substances and fossil fuels.\nIn its report \"Healthy Environment, Health People,\" the United Nations Environment Program (UNEP), the World Health Organization and several other environment organizations said that, in 2012, an estimated 12.6 million deaths were attributable to deteriorating environment conditions. The largest numbers of deaths took place in Southeast Asia and the Western Pacific regions, followed by sub-Saharan Africa, where around a quarter of deaths were likely caused byair pollution, chemicals, climate change and a lack of access to sanitation. \"By depleting the ecological infrastructure of our planet and increasing our pollution footprint, we incur an ever-growing cost in terms of human health and well-being,\" said UNEP Executive Director Achim Steiner. He added that humanity's life support systems had been compromised by globalization and powerful economic interests. The report was released during UN climate talks in the German city of Bonn which are drawing up rules pertaining to the Paris agreement, which seeks to lower carbon emissions. The document suggested that several drivers were responsible for the threat to human health, including ecosystem disruption, climate change, inequality, unhealthy and wasteful lifestyles, along with unsustainable consumption and production. Worsening effects UNEP estimated that an extra 250,000 deaths could occur each year between 2030 and 2050 as a result of climate change, leading to malnutrition, malaria, diarrhea and heat stress. Between them air pollution and a lack of access to clean water and sanitation cause almost 8 million premature deaths each year. Environmental impacts are responsible for the deaths of more than one quarter of all children under the age of five, the report states. UNEP called for governments to act to remove harmful substances from working environments, reduce the use of carbon fuels and rely instead on renewable energy, and change lifestyles to allow a more sustainable use of the world's resources. The report also called for a bigger investment to protect the planet's natural ecosystem. UNEP predicted a further increase in emerging zoonotic diseases (spread between animals and humans), and called on developing countries, in particular, to prioritize prevention methods. \"Never before have so many animals been kept by so many people - and never before have so many opportunities existed for pathogens to pass through the biophysical environment and wild animals to livestock and people,\" the report warned.",
+  "relations": [
+    [
+      "United Nations Environment Program",
+      "United Nations",
+      "institution_of"
+    ],
+    [
+      "United Nations Environment Program",
+      "United Nations",
+      "part_of"
+    ],
+    [
+      "World Health Organization",
+      "United Nations",
+      "institution_of"
+    ],
+    [
+      "World Health Organization",
+      "United Nations",
+      "part_of"
+    ],
+    [
+      "Achim Steiner",
+      "United Nations Environment Program",
+      "head_of"
+    ],
+    [
+      "Achim Steiner",
+      "United Nations Environment Program",
+      "member_of"
+    ],
+    [
+      "Bonn",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "content": "German lawmakers agree on inheritance tax compromise\nA parliamentary mediation committee has clinched a long-awaited deal on a required reform of Germany's inheritance tax system. The agreement ended a bitter political dispute that lasted almost two years.\nThe governing parties of Germany's grand coalition government on Thursday agreed to crack down on tax breaks for people inheriting companies. A parliamentary mediation committee representing both houses said heirs should in future still be able to get a 100-percent tax break, if they kept the firm going and preserved the previous employment level. But the committee made it clear that exemptions for businesses worth more than 90 million euros ($100 million) would be done away with, while preferential treatment for those worth more than 26 million euros would be reduced tangibly. The compromise deal is likely to be passed by the Bundestag lower house on September 29 and comes after the country's supreme court rules the previous inheritance tax regulations breached the principle of equal treatment. Not everyone is amused In December 2014, the Constitutional Court in Karlsruhe demanded tighter restrictions for small and medium-sized firms to qualify for generous tax breaks. Germany's DIHK Chambers of Commerce welcomed the compromise, saying it would give family-owned companies more security as they made investment and hiring decisions. It warned, though, that the tax burden for heirs of many bigger firms would rise significantly. With some of the stipulations in the deal leaving room for interpretation, the head of the Ifo economic think tank in Munich, Clemens Fuest, criticized the agreement, describing it as an \"employment program for tax consultants.\" hg/uhe (Reuters, dpa)",
+  "relations": [
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Constitutional Court",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Constitutional Court",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Constitutional Court",
+      "Karlsruhe",
+      "based_in2"
+    ],
+    [
+      "DIHK Chambers of Commerce",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DIHK Chambers of Commerce",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Clemens Fuest",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Clemens Fuest",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Clemens Fuest",
+      "Ifo",
+      "head_of"
+    ],
+    [
+      "Clemens Fuest",
+      "Ifo",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Karlsruhe",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Karlsruhe",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Ifo",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Ifo",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ifo",
+      "Munich",
+      "based_in2"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

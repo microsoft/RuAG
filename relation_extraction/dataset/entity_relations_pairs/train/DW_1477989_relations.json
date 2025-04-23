@@ -1,0 +1,375 @@
+{
+  "content": "Opinion: Bush's Second-Term Task\nPolitics is about power and persuasion. Getting the mix right is part of any president's challenge, particularly if a second term is involved, comments Jackson Janes on President Bush's State of the Union address.\nPresident Bush is beginning his second term with a lot of power. He won more votes than any other president. His party has control of both the Senate and the House of Representatives with larger majorities than during his first term. Yet his ability to persuade is more limited. He has a very low approval rating in a country which is very much divided over many issues and concerns. And second terms are famously full of examples where presidents have all too often gone wrong. That can be explained in part because of a feeling of hubris which another four years in the White House must generate. But there are also the unexpected, the uncontrolled, and the underestimated events which can sweep over the White House like a tsunami. Nixon's fate after Watergate, Reagan's Iran-Contra Affair, and Clinton's impeachment are all permanent warning signs for future presidents as well as the current one. None of that seemed to matter to President Bush as he delivered his fifth State of the Union speech. He appeared as a confident leader, convinced of his missions to make history. The State of the Union address has to be understood as the second part of his inauguration speech. When he took the oath of office on Jan. 20, he spoke about the world and what his vision of its future should be. On Wednesday, he spent more time on the agenda he envisions for the United States, focusing particularly on the future of social security. At the inauguration, he focused on international security and how the United States has a special obligation to itself and the world to provide the framework for achieving it. He stressed that the security of the United States was dependent on the security of the rest of the world. In the State of the Union speech, he argued that Americans individual social security should be less dependent on the state and more on their own decisions and choices. Focus on the future In both speeches, the president was talking about big ideas, whether it be spreading freedom around the globe or securing the future of social security at home. With those objectives in mind, he is not thinking about the next four years. He is thinking more about the next 40. George W. Bush is attacking his second term with a recipe for radical reform, at home and abroad. His decision to go into Iraq was driven as much by the mistaken belief that Saddam had weapons of mass destruction as by the belief that a change in Iraq was the key to changing the entire Middle East. This was radical surgery, even if it was elective. The Iraqi elections serve as clear evidence for the president that his decision was the right one. During the State of the Union speech, the symbolism of American security tied to establishing Iraqi democracy was dramatically demonstrated by an American woman whose sons was killed in Fallujah embracing an Iraqi woman who had just voted in her first election. If politics is also theater, that was the high point of the show. It has been President Bush's mantra that eliminating the threat of Saddam was central to the war against terrorism and to securing peace in the Middle East. He believes that setting the basis for long-term peace beginning with Iraq will be a generational task, similar to the task facing American leadership after World War II. He made that clear in his inauguration speech as well as in the State of the Union address. He will spend the next four years trying to persuade nervous Americans and the rest of the world that this is the right course, no matter how much it costs and what sacrifices are required. Difficulties ahead The president has also decided that his legacy will not only be shaped by Iraq but also by his efforts to reshape the parameters of American social security. Known as the third rail of American politics -- a dangerous issue to touch for any politicians hoping to avoid political electrocution -- social security is the keystone of the relationship between the government and the citizen. By recommending changes in this relationship, the president is again engaged in radical surgery. Like Iraq, he sees this as a necessary step for prevention and preemption of dangers in the future. And, as with Iraq, he will be facing four years of trying to persuade Americans that these dangers are imminent and threatening. It will not be an easy path and the results are unpredictable. President Bush has enormous power, but in a second term, without the possibility of being reelected, that power will gradually wane as the search for his successor begins. In order for the president to achieve even part of his agenda, he will have to rely increasingly on his power of persuasion well beyond his loyal supporters. Second terms do not make that task easy. In over half a century, only three presidents before Bush had the opportunity to try. During the first term, President Bush seemed more inclined to use power. During the second term, he will have to get along with more persuasion. Getting the mix right will be a challenge. Jackson Janes is executive director of the American Institute for Contemporary German Studies at the Johns Hopkins University in Washington, D.C.",
+  "relations": [
+    [
+      "George W. Bush",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "George W. Bush",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "George W. Bush",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "George W. Bush",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Senate",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Senate",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Senate",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Senate",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "House of Representatives",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "House of Representatives",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "House of Representatives",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "House of Representatives",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "House of Representatives",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "House of Representatives",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "State of the Union",
+      "United States",
+      "event_in0"
+    ],
+    [
+      "White House",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "United States",
+      "in0"
+    ],
+    [
+      "White House",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "White House",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Jackson Janes",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Jackson Janes",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Jackson Janes",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Jackson Janes",
+      "American Institute for Contemporary German Studies",
+      "head_of"
+    ],
+    [
+      "Jackson Janes",
+      "American Institute for Contemporary German Studies",
+      "member_of"
+    ],
+    [
+      "Jackson Janes",
+      "Johns Hopkins University",
+      "member_of"
+    ],
+    [
+      "Nixon",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Nixon",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Nixon",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Nixon",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Nixon",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Nixon",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Nixon",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Watergate",
+      "United States",
+      "event_in0"
+    ],
+    [
+      "Reagan",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Reagan",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Reagan",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Reagan",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Reagan",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Reagan",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Reagan",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Clinton",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Clinton",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Clinton",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Clinton",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Clinton",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Clinton",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Clinton",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Saddam",
+      "Iraq",
+      "agent_of"
+    ],
+    [
+      "Saddam",
+      "Iraq",
+      "citizen_of"
+    ],
+    [
+      "Saddam",
+      "Iraqi",
+      "citizen_of-x"
+    ],
+    [
+      "Saddam",
+      "Iraq",
+      "head_of_state"
+    ],
+    [
+      "Saddam",
+      "Iraqi",
+      "head_of_state-x"
+    ],
+    [
+      "Iraqi",
+      "Iraq",
+      "gpe0"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Fallujah",
+      "Iraq",
+      "in0"
+    ],
+    [
+      "Fallujah",
+      "Iraqi",
+      "in0-x"
+    ],
+    [
+      "Johns Hopkins University",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Johns Hopkins University",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Johns Hopkins University",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Johns Hopkins University",
+      "Washington, D.C",
+      "based_in2"
+    ],
+    [
+      "Washington, D.C",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington, D.C",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Washington, D.C",
+      "American",
+      "in0-x"
+    ]
+  ]
+}

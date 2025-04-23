@@ -1,0 +1,60 @@
+{
+  "content": "GM ditches Chevrolet in Europe to boost Opel, Vauxhall fortunes\nUS auto giant General Motors (GM) has unveiled plans to withdraw its Chevrolet brand from markets in Europe. The move aims to strengthen GM’s other struggling European brands, Opel in Germany and the UK’s Vauxhall.\nGeneral Motors (GM) will stop selling its Chevrolet models in European markets by 2015, Stephen Girsky, Vice Chairman at the US carmaker announced on Thursday. Speaking to investors in a conference call, Girsky said GM's decision came as part of efforts to focus resources on reviving the company's Opel brand. “We have growing confidence in the Opel and Vauxhall brands in Europe,” Girsky said. German carmaker Opel and its UK equivalent Vauxhall have competed against Chevrolet for customers ever since GM introduced smaller Chevrolet models to European markets in 2005. While Opel/Vauxhall secured a 6.7 percent market share on the continent in recent years, Chevrolet barely managed to reach 1 percent. Moreover, Chevrolet sales slumped 17 percent year-on-year to just 25,000 cars by September. “Basically we will shut down the 1-percent-share company in Europe. The financial results have been unacceptable,” Girsky said. The GM vice chairman also said that the US auto giant would set aside up to $1 billion (740 million euros) over the next two years to cover the costs arising from closing Chevrolets about 1,900 dealerships in Europe. The move forms the latest effort by GM to turn around its European operations amid the ongoing car slump on the crisis-hit continent. GM also announced that it would continue to sell its smaller Chevrolet models in Russia and other former Soviet markets. In Western Europe, however, Chevrolet would only be present with its iconic Corvette model after 2016. uhe/pfd (dpa, Reuters, AFP)",
+  "relations": [
+    [
+      "General Motors",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Chevrolets",
+      "General Motors",
+      "brand_of"
+    ],
+    [
+      "Stephen Girsky",
+      "General Motors",
+      "head_of"
+    ],
+    [
+      "Stephen Girsky",
+      "General Motors",
+      "member_of"
+    ],
+    [
+      "Opel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Opel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Opel",
+      "General Motors",
+      "brand_of"
+    ],
+    [
+      "Vauxhall",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Vauxhall",
+      "General Motors",
+      "brand_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Corvette",
+      "Chevrolets",
+      "product_of"
+    ]
+  ]
+}

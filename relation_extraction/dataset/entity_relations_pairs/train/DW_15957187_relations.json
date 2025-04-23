@@ -1,0 +1,190 @@
+{
+  "content": "Lyon win women's Champions League\nOlympique Lyon's women have won the Champions League final for the second time in a row, again beating German opposition, and again by a margin of 2-0. Lyon have further cemented their place as the best in the world.\nIt was the result observers of the women's game expected. Olympique Lyon went into Thursday's Champions League final in Munich as defending champions. They were also the champions of the French first division for the past five consecutive seasons, with a very real chance of making it six this year. The club is the highest-ranked in the women's game, and won the final at Munich's Olympic Stadium 2-0. German first division side FFC Frankfurt, meanwhile, finished a disappointing season in fourth place, and were something of a surprise entry in the final. Heavy favorites Lyon did the damage in the first half. Striker Eugenie Le Sommer opened the scoring from the penalty spot on 15 minutes. The French international stepped up and placed the ball calmly in the top-right corner. Abily scores in style Just before the half-hour mark, a poor bit of goalkeeping led to a sublime piece of attacking. Frankfurt goalie Desiree Schumann came out of her penalty area and sought to use her head to clear a dangerous long pass. Schumann's header, however, was weak; it fell to veteran French international Camille Abily, who side-footed a beautiful volleyed lob over the stricken Schumann and into the wide open net. Abily's impressive shot was taken from at least 25 meters out. Last season, Lyon dispatched Turbine Potsdam - German league champions for two consecutive seasons now - 2-0 in the final at Craven Cottage in London. An impressive 50,212 fans turned up to watch the match at the Olympic Stadium in Munich, Bayern Munich's former home before moving to the Allianz Arena. Last year's Champions League final drew a crowd of just 14,303. Women's football enjoys a loyal following in Germany - one of the traditional powerhouses of the sport. The 2011 World Cup, held in Germany, broke a string of all-time attendance records for the women's game. Author: Mark Hallam Editor: Charlotte Chelsom-Pill",
+  "relations": [
+    [
+      "Olympique Lyon",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Olympique Lyon",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Olympique Lyon",
+      "FFC Frankfurt",
+      "vs"
+    ],
+    [
+      "Olympique Lyon",
+      "Turbine Potsdam",
+      "vs"
+    ],
+    [
+      "Olympique Lyon",
+      "FFC Frankfurt",
+      "won_vs"
+    ],
+    [
+      "Olympique Lyon",
+      "Turbine Potsdam",
+      "won_vs"
+    ],
+    [
+      "Champions League",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Champions League",
+      "Munich",
+      "event_in2"
+    ],
+    [
+      "FFC Frankfurt",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "FFC Frankfurt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "FFC Frankfurt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "FFC Frankfurt",
+      "Olympique Lyon",
+      "vs"
+    ],
+    [
+      "Eugenie Le Sommer",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Eugenie Le Sommer",
+      "Olympique Lyon",
+      "member_of"
+    ],
+    [
+      "Eugenie Le Sommer",
+      "Olympique Lyon",
+      "player_of"
+    ],
+    [
+      "Desiree Schumann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Desiree Schumann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Desiree Schumann",
+      "FFC Frankfurt",
+      "member_of"
+    ],
+    [
+      "Desiree Schumann",
+      "FFC Frankfurt",
+      "player_of"
+    ],
+    [
+      "Camille Abily",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Camille Abily",
+      "Olympique Lyon",
+      "member_of"
+    ],
+    [
+      "Camille Abily",
+      "Olympique Lyon",
+      "player_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Olympic Stadium",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Olympic Stadium",
+      "Munich",
+      "in2"
+    ],
+    [
+      "Turbine Potsdam",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Turbine Potsdam",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Turbine Potsdam",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Turbine Potsdam",
+      "Olympique Lyon",
+      "vs"
+    ],
+    [
+      "Craven Cottage",
+      "London",
+      "in2"
+    ],
+    [
+      "Bayern Munich",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bayern Munich",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Allianz Arena",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Allianz Arena",
+      "German",
+      "in0-x"
+    ],
+    [
+      "2011 World Cup",
+      "Germany",
+      "event_in0"
+    ]
+  ]
+}

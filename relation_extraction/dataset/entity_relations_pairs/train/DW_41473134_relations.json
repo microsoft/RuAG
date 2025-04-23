@@ -1,0 +1,100 @@
+{
+  "content": "'The DFB has lost touch with the fans'\nThe DFB has introduced plenty of things to upset the fans: varying kickoff times, VAR and China's U20s playing in the country's fourth tier. Fan researcher Harald Lange told DW that the fans have every right to be angry.\nDW: Professor Lange, has the German football association (DFB) lost touch with the fans? Harald Lange: This has been true for some time now. This is because fans are not usually the center of attention for the league and club executives. They are perceived as paying customers, as consumers, rather than as passionate, proud fans who contribute to football's culture. Is the DFB actually after a different target audience than the supporters that one usually sees on the terraces? They have a very different view of the fans on the terraces. The DFB tends to perceive them as a disruptive factor, when they protest, when they cross the line, or because they just don't fit into their aesthetics. The belief is that when the fans that create the atmosphere stop attending games, others will replace them. But this won't work in the future. Two weeks ago, there was a meeting between DFB President Reinhard Grindel and representatives of Ultras and other fan groups. The DFB later stated that an open and frank discussion had taken place, but there was no comment from the fan groups. Is this a symptom of the problem? The fans are very distrusting. On the one hand, Mr. Grindel has made concessions and seems to have reached out to fans by doing things like suspending collective punishments. However, the fans don't know how to take this. They don't know whether the DFB has done this simply to curb the criticism of it that was seen in the stadiums in the first few games, or whether it is genuinely interested in building an idea of fan culture that is shared by supporters. The list of complaints against the DFB is long. For one thing, the fans complain about the changing game times and increasing prices. Isn't it understandable for the fans to be skeptical? Of course it is. The underlying question is: What is so special about our fan culture? And above all, who does football belong to? Everybody involved is claiming ownership. The fact of the matter is that without the fans, football as we know it wouldn't exist. You wouldn't be able to earn a single euro anymore, because without the fans you would not be able to attract advertizing. The DFB doesn't take this fact seriously. They think they can compensate by attracting spectators who are into events; people who would go to football one day, handball the next and to the opera the day after that. You've been able to observe this at national team games for the past several years. The atmosphere is staged, as DFB workers attempt to whip-up enthusiasm. However, whenever a match is close, the supporters of the German national team will always be out-sung by the fans of their opponents. That's because what's behind the national team's \"fan club\" is a highly commercialized aparatus that decides who gets into the stadium and how. This has nothing to do with fan culture. Let's talk more about the commercial side of things. The fans are also upset about the introduction of friendlies between Regionalliga Südwest sides and China's under-20 team. A meeting between the DFB and the fans was canceled because, according to the fans, the DFB refused to allow journalists to be present. Does this not demonstrate that the differences between the two sides are nearly impossible to overcome? The gap is so great because their basic positions are so far apart and there's no real attempt to mediate. Instead, they isolate themselves from each other. Journalism would be a great vehicle to find out: What is the fan thinking? How did fan culture develop into what it is today? Why is it different here from those in Spain, Italy or England? The DFB's general line is pretty well known, but a fundamental understanding does not exist. That's why there are these turf wars, both sides dig their heels in instead of opening up to each other. Another bone of contention in recent weeks has been the implementation of VAR (video assistant referees). The way decisions are being made is utterly opaque for the fans. Is this causing further alienation between the fans and the DFB? I think the system has failed so far,making football more complicated and opaque. You can't say that the fans are being played-off against the executives, but it certainly does not serve to highlight football at its core. Technology is pumped in from outside and then it takes a couple of minutes to find out: Was it a foul or not? Was it a goal or not? That is a killer for the atmosphere in a sport that lives on spontaneity. So even wrong decisions contribute to the atmposphere and the emotions. This is being reduced to some extent. Do you think football as we know it is in the process of dying? (Laughs) That's too extreme. But what you can say is that for years, football has been undergoing some very rapid changes. Depending on your position, you can see this as a good or bad thing. From the point of view of an economist, I would say football has turned into a wonderful business, and many people make a lot of money out of it. On the other hand, if you look at it from the perspective of the real fans who have deep ties to their club through tradition, their city or their region, they have lost a great deal, as others earn a lot of money using the object of their identity, their emotions and their commitment. They feel massively betrayed. That is the breeding ground for protests, but also for conflicts. Professor Harald Lange is the head of sports science at the University of Würzburg. He is an avid football fan and he established Germany's first institute for fan culture in 2012.",
+  "relations": [
+    [
+      "under-20 team",
+      "China",
+      "based_in0"
+    ],
+    [
+      "German football association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German football association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Reinhard Grindel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Reinhard Grindel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Reinhard Grindel",
+      "German football association",
+      "head_of"
+    ],
+    [
+      "Reinhard Grindel",
+      "German football association",
+      "member_of"
+    ],
+    [
+      "Harald Lange",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Harald Lange",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Harald Lange",
+      "University of Würzburg",
+      "head_of"
+    ],
+    [
+      "Harald Lange",
+      "University of Würzburg",
+      "member_of"
+    ],
+    [
+      "University of Würzburg",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Würzburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ultras",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Ultras",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Regionalliga Südwest",
+      "Germany",
+      "event_in0"
+    ]
+  ]
+}

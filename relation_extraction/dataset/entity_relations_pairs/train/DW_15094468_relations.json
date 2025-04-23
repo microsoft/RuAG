@@ -1,0 +1,155 @@
+{
+  "content": "Key European nations call for new sanctions against Belarus\nKey European nations are calling for new sanctions against Belarusian President Alexander Lukashenko as his regime continues to try and imprison former presidential candidates and opposition members.\nPoland, Germany and France have called on the European Union to impose sanctions against Belarusian President Alexander Lukashenko. The new round of sanctions would target 13 other individuals and possibly certain companies. Brussels has already placed sanctions against around 150 people associated with President Lukashenko. \"Not a general embargo, but something which will make life difficult for companies which finance the regime,\" said Polish Foreign Minister Radoslaw Sikorski. \"We will increase pressure on the Belarus regime as long as it does not change its politics.\" German Foreign Minister Guido Westerwelle said the sanctions would be designed to impact only the targeted officials. \"The sanctions will affect the regime, not the people,\" Westerwelle said. French Foreign Minister Alaine Juppe also hinted that he would back the sanctions. The EU's 27 foreign ministers are set to discuss Belarus when they meet in Brussels on Monday. Trials continue Belarusian courts continue to try and convict presidential candidates who ran against President Lukashenko in the election last December. Vladimir Neklyayev and Vitaly Rymashevsky were found guilty of organizing actions that violated public order. The sentences for both men were suspended by two years. Neklyayev credited his relatively soft sentence to support at home and abroad. \"If it was not for the support from the US and the European Union I would not be standing here in front of you but would rather be in prison answering the question about who I am spying for,\" he told reporters. \"This is (also) the result of people's solidarity.\" The convictions come after Lukashenko's main opponent during the December elections, Andrei Sannikov, was sentenced to five years in prison for organizing mass disturbances. Lukashenko won another term as president with 80 percent of the vote in an election in December condemned by the West as manipulated. Mass demonstrations erupted after the election, leading to a government crackdown in which hundreds of people were arrested. Author: Spencer Kimball (Reuters, AFP) Editor: Toma Tasovac",
+  "relations": [
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "head_of_state"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "head_of_state-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Vladimir Neklyayev",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Neklyayev",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Vitaly Rymashevsky",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Vitaly Rymashevsky",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Belarusian",
+      "Belarus",
+      "gpe0"
+    ],
+    [
+      "Polish",
+      "Poland",
+      "gpe0"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Poland",
+      "minister_of"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Polish",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Alaine Juppe",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Alaine Juppe",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Alaine Juppe",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Alaine Juppe",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Alaine Juppe",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "Andrei Sannikov",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Andrei Sannikov",
+      "Belarusian",
+      "citizen_of-x"
+    ]
+  ]
+}

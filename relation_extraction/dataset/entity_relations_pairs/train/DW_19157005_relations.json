@@ -1,0 +1,135 @@
+{
+  "content": "Europa League finalist Dnipro among three clubs handed European ban\nHaving defied all odds to reach the Europa League final last year, Ukrainian side Dnipro Dnipropetrovsk have now been banned from European competition over financial violations.\nLast year's Europa League finalist Dnipro Dnipropetrovsk of Ukraine has been named among three clubs banned from European competition by UEFA over financial issues. UEFA announced on Thursday that Dnipro, Azerbaijan's Inter Baku and Romania's Targu Mures would be excluded from the next European competition for which they qualify in the next three seasons. All three clubs had been ordered by UEFA to clear \"overdue payables\" and told they would be excluded from Europe unless they cleared those debts by January 31. \"I did not imagine this could have happened to the club that was playing in the Europa League final half a year ago,\" Dnipro head coach Myron Markevych, whose side knocked out Ajax and Napoli on route to the Europa League final last year, which they lost 3-2 to Sevilla, told the “Segodnya” newspaper. \"How could it happen? I am not aware of the president's plans and how he sees the future of the club. We've got new debts. I know the foreign players are making new complaints. We have not been paid for four months at all. \"This is very bad for us,\" Markevych added. \"We have been playing on the European stage for 10 years and now we have been kicked off for something which is not the fault of the players and coaches.” UEFA gave no statement on another Romanian club, Astra Giurgiu, which had been given the same January 31 deadline.",
+  "relations": [
+    [
+      "Dnipro Dnipropetrovsk",
+      "Europa League",
+      "appears_in"
+    ],
+    [
+      "Dnipro Dnipropetrovsk",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Dnipro Dnipropetrovsk",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Dnipro Dnipropetrovsk",
+      "Ajax",
+      "vs"
+    ],
+    [
+      "Dnipro Dnipropetrovsk",
+      "Napoli",
+      "vs"
+    ],
+    [
+      "Dnipro Dnipropetrovsk",
+      "Sevilla",
+      "vs"
+    ],
+    [
+      "Dnipro Dnipropetrovsk",
+      "Ajax",
+      "won_vs"
+    ],
+    [
+      "Dnipro Dnipropetrovsk",
+      "Napoli",
+      "won_vs"
+    ],
+    [
+      "Inter Baku",
+      "Azerbaijan",
+      "based_in0"
+    ],
+    [
+      "Targu Mures",
+      "Romania",
+      "based_in0"
+    ],
+    [
+      "Targu Mures",
+      "Romanian",
+      "based_in0-x"
+    ],
+    [
+      "Myron Markevych",
+      "Dnipro Dnipropetrovsk",
+      "coach_of"
+    ],
+    [
+      "Myron Markevych",
+      "Dnipro Dnipropetrovsk",
+      "member_of"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Ajax",
+      "Europa League",
+      "appears_in"
+    ],
+    [
+      "Ajax",
+      "Dnipro Dnipropetrovsk",
+      "vs"
+    ],
+    [
+      "Napoli",
+      "Europa League",
+      "appears_in"
+    ],
+    [
+      "Napoli",
+      "Dnipro Dnipropetrovsk",
+      "vs"
+    ],
+    [
+      "Sevilla",
+      "Europa League",
+      "appears_in"
+    ],
+    [
+      "Sevilla",
+      "Dnipro Dnipropetrovsk",
+      "vs"
+    ],
+    [
+      "Sevilla",
+      "Dnipro Dnipropetrovsk",
+      "won_vs"
+    ],
+    [
+      "Segodnya",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Segodnya",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Romanian",
+      "Romania",
+      "gpe0"
+    ],
+    [
+      "Astra Giurgiu",
+      "Romania",
+      "based_in0"
+    ],
+    [
+      "Astra Giurgiu",
+      "Romanian",
+      "based_in0-x"
+    ]
+  ]
+}

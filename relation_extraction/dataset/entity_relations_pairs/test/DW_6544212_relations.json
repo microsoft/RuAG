@@ -1,0 +1,20 @@
+{
+  "content": "Focus: 2011 Women's World Cup in Germany\nGermany is hosting the FIFA Women's World Cup, with kickoff in Berlin on June 26. Will the powerhouses of the women's game dominate, or can the up-and-coming nations cause an upset? Follow the action with Deutsche Welle.\nGermany is hosting the FIFA Women's World Cup, with kickoff in Berlin on June 26. Will the powerhouses of the women's game dominate, or can the up-and-coming nations cause an upset? Follow all the action with Deutsche Welle.",
+  "relations": [
+    [
+      "FIFA Women's World Cup",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ]
+  ]
+}

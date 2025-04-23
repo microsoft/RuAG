@@ -1,0 +1,80 @@
+{
+  "content": "Merkel praises Spain's bailout request\nAngela Merkel has spoken out in favor of Spain's requested bailout of its banking sector for the first time, adding that Spain will face different conditions than countries who received complete sovereign bailouts.\nFor the first time since Spain announced it would be seeking help from the European Union for its banking sector, German Chancellor Angela Merkel has commented on the move, saying Spain had made the right decision in applying for a recapitalization of its banks. However, Merkel was clear to say that any aid for Spain's banking sector would not come without strings attached. \"There will of course be conditions for Spain,\" Merkel said on Tuesday in Berlin at the economic council of her party, the Christian Democrats (CDU). \"Namely, a restructuring of its own banking system to make it fit for the future.\" Different conditions This would be, according to Merkel, different than conditions applied to countries that have sought bailouts to cover an entire sovereign economy, such as Greece, Ireland, or Portugal. In the case of Spain, the bailout only applies to the banking sector. Reflecting on the European Union as a whole, Merkel said the bloc must stick by the agreed reforms until the end to make sure they bear fruit. \"It would be fatal, now that some countries have started to move in the right direction, to stop halfway there,\" she said. The structural reforms, which would include a financial supervisory body at the European level, are seen by some European politicians as necessary to help get the eurozone out of its current crisis. \"If we need European institutions that keep a better eye on things, then we have to give up some of our national jurisdiction,\" Merkel said, referring to concessions that would have to be made to the EU should the reforms be put into place. More than just spending Meanwhile, French President Francois Hollande said in a speech to France's Social, Environmental, and Economic Council that spending alone would not be the only way to spur economic growth and bring about a European recovery. \"[Growth] will not be born of supplemental public spending,\" he said. \"It can emerge from our common European desire to put new instruments in place: eurobonds, financial instruments - we can think big.\" Merkel opposes the idea of \"eurobonds,\" which would be jointly-guaranteed eurozone government debt. She favors a mix of austerity and structural reforms to pull Europe back from the brink. mz/msh (AP, AFP, dpa)",
+  "relations": [
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Social, Environmental, and Economic Council",
+      "France",
+      "agency_of"
+    ],
+    [
+      "Social, Environmental, and Economic Council",
+      "French",
+      "agency_of-x"
+    ],
+    [
+      "Social, Environmental, and Economic Council",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Social, Environmental, and Economic Council",
+      "French",
+      "based_in0-x"
+    ]
+  ]
+}

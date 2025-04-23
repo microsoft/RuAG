@@ -1,0 +1,30 @@
+{
+  "content": "Former Barcelona coach Tito Vilanova loses battle with cancer\nFormer Barcelona coach Tito Vilanova has died from the cancer that forced him to retire from football at the end of last season. He was 45.\nThe Catalan club announced the death of its former bench boss in a statement posted on its website on Friday. \"FC Barcelona is in immense mourning. Tito Vilanova has died at the age of 45. May he rest in peace,\" the statement said. Vilanova had first been diagnosed with a tumor in a saliva gland in November 2011, while he was an assistant to then-Barcelona head coach Pep Guardiola. He had been battling against recurring cancer ever since and had been admitted to a Barcelona hospital last week. He led Barca to the Primera Liga title last season, his only campaign as head coach, when the Catalans earned a record-tying 100 points. Last July he stepped down due to his ongoing health problems. Vilanova is survived by his wife and two children, including a son who now plays in Barcelona's youth academy. pfd/lw (AP, dpa, AFP)",
+  "relations": [
+    [
+      "Tito Vilanova",
+      "FC Barcelona",
+      "coach_of"
+    ],
+    [
+      "Tito Vilanova",
+      "FC Barcelona",
+      "member_of"
+    ],
+    [
+      "FC Barcelona",
+      "Primera Liga",
+      "appears_in"
+    ],
+    [
+      "Pep Guardiola",
+      "FC Barcelona",
+      "coach_of"
+    ],
+    [
+      "Pep Guardiola",
+      "FC Barcelona",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "content": "Design spans generation gap in aging Germany\nWhat would their grandparents say? That's what design students from two German schools asked themselves. They found that designing everyday objects for the elderly is both a creative challenge and a smart career move.\n\"In 30 years, one third of the German population will be over 60 and will still hold a considerable purchasing power,\" explained Lilly Bozzo-Costa Wolf, the Leipzig architect who came up with the idea for a unique design project. \"I wanted to approach ageing with humour and this is something that young people can teach you best,\" said Bozzo-Costa Wolf, who got the Burg Giebichenstein University in Halle and the Academy for Applied Arts in Schneeberg on board, along with the Free University of Bozen in Italy. Named Über60 (Over 60), the project is an attempt to \"turn design for seniors into something appealing for the next generation of designers.\" The architect decided to collaborate with students after seeing a student exhibition which convinced her that eastern Germany is full of young design talent. Death is age's unwanted neighbor Markus Rossnagel and Robert Jähnen were two students who took on the challenge of putting themselves in the shoes of an elderly person. But their tutors were not impressed when the young men teamed up to create a gravestone. Rossnagel and Jähnen took an entrepreneurial approach. \"We were looking for some gaps in the market,\" they said. \"We talked with our grandmothers and discovered that it is a huge burden for old people when their spouse or relatives die. They have to pay a lot for a funeral and a gravestone.\" So the student designed a gravestone that is affordable and practical, but also stylish. Made of steel and hollow inside, the gravestone opens at the back to reveal a storage space. Rossnagel and Jähnen added a lock because they observed that cemetery visitors, mainly elderly women, are afraid that their grave decorations may get stolen. The front of the gravestone can be engraved using laser technology. Some people were shocked when they saw their piece, \"but the elderly people were very happy that we focused on this theme,\" said Rossnagel. \"The issue is there, you can't deny it: If no one wants to think about it, the circumstances won't improve,\" added Jähnen. Their entrepreneurial spirit was rewarded. \"I heard a man saying to his partner: If I die, buy me one of those,\" said Jähnen. The students are now working with a private investor who wants to launch a line of low-cost gravestones. They have also designed a light gardening trolley that can be used to transport water and gardening tools to maintain a grave. It also serves as a stool when the work becomes too strenuous. \"If two people meet with a trolley, they can have a seat and talk,\" said Rossnagel. Removing physical limitations Carolin Schultze, a student in wood and furniture design, came up with what she calls her \"mobile plant station\" when she understood that physical limitations are what keep her grandparents away from their biggest passion: gardening. The mobile plant station is a combination of a double shelf and a table on wheels, with holders for pots and gardening tools. It allows the gardeners to take care of their plants without having to lean and bend their knees as everything happens at waist height. Like many of her fellow students, she designed a multipurpose product. Place a salad bowl in the flowerpot hole and some champaign glasses in the tool holders and you have a portable picnic table. \"When you are old it is really important to have hobbies and to have a task. The elderly have a special relationship to plants, flowers and nature. I think that this relation with plants will grow for me as well,\" she said. A stick for any situation Paul Jacob was a carpenter before enrolling in design school, where he wants to learn how to give his products a creative edge. He has already established his own wood design label in Dresden. Like Schultze, he built his objects - an equipped wall and multipurpose walking sticks - with his own hands. Jacob realized that elderly people would not use a walking stick even if they need one because \"it makes you look old.\" He wanted to offer something different by designing curved walking sticks. Inspired by a friend who has a music instrument shop, he then inserted a bass chord in the curve of the cane. By using a door or a trash bin as sounding board, the stick transforms into an easy-to-play monochord bass. For those who are more interested in security then in tunes, another version of his curved sticks can be used for self-defense. Jacob wants to work for this growing market \"People who are in their 50s and 60s right now are in demand for useful and stylish objects,\" he said. For him, being old and feeling old are two different things: \"If you stay creative there will be the physical limitation but in the end you will still be young.\" Preparing for the worst During their first meeting in Halle in eastern Germany, the students visited nursing homes for dementia patients and talked with health and care professionals. Project director Bozzo-Costa Wolf asked the students to think about their \"aged self\" and think about what it might be like if they were sick, poor or lonely. Phillip Stingl took up the challenge to its extreme and imagined the life of an elderly homeless person in a dystopian future. \"Social systems will have collapsed and the elderly will have to use bins as living space,\" he theorized. The result was a common yellow trash bin transformed into a tiny apartment. While the upper part is still devoted to its original function of stacking trash, the body is one of the world's smallest flats. Stingl wanted to make it as livable as possible by adding a water container and emergency devices, but he also added decorations and a peephole to make it cozy and safe. His work was among those that excited the strongest reactions. Many didn't understand right away that he intended it as a critique of contemporary society. \"I learned that it is a huge matter how you communicate things, especially objects that are in between art and design. If it is placed in a museum people would take it immediately as art, but if they see it in a magazine, it's taken as a realistic house for tomorrow, which it is not,\" commented Stingl. In April, the students who participated in the Over60 project will go to Milan to exhibit their works at FuoriSalone, a series of exhibitions that take place during the major biggest furniture fair, il Salone del Mobile. Most of the students want to continue designing for the over-60 market. As Markus Rossnagel put it, \"I discovered that there is a lot more you can do besides designing stools and tables.\"",
+  "relations": [
+    [
+      "Burg Giebichenstein University",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Burg Giebichenstein University",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Burg Giebichenstein University",
+      "Halle",
+      "based_in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Leipzig",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Leipzig",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Halle",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Halle",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Academy for Applied Arts",
+      "Schneeberg",
+      "based_in2"
+    ],
+    [
+      "Free University of Bozen",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Milan",
+      "Italy",
+      "in0"
+    ],
+    [
+      "FuoriSalone",
+      "Italy",
+      "event_in0"
+    ],
+    [
+      "FuoriSalone",
+      "Milan",
+      "event_in2"
+    ]
+  ]
+}

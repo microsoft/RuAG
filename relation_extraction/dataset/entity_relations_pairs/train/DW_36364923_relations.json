@@ -1,0 +1,100 @@
+{
+  "content": "Vatican-backed Venezuela crisis talks to resume Friday\nVenezuelan government and opposition leaders prepared to resume talks on the country’s crisis Friday. Neither side is expecting a positive outcome.\nVenezuelan President Nicolas Maduro and opposition leaders will meet Friday to ease the political standoff and economic crisis gripping the South American nation. Neither Maduro nor Jesus Torrealba, Executive Secretary of Venezuela's coalition of opposition parties (MUD) seemed optimistic heading into the Vatican-backed talks. Both sides declared a delicate truce at the previous meeting on October 30, which required opposition leaders to suspend protests and moves to hold a political trial against Maduro, but insults lobbed by both sides continued. For dialogue to continue, the opposition is demanding the release of more than 100 activists in jail, access for international humanitarian assistance, and the naming of a new board of directors to the elections council. In response, Maduro demanded Congress respect a court sentence that effectively stripped the opposition of a super majority won last year, a sentence the opposition considers fraudulent. Government and opposition forces did not appear optimistic going into the talks scheduled for Friday afternoon. Torrealba has warned that his side will seek early elections, if Maduro refuses a referendum over a possible presidential recall. \"The MUD is seeking an electoral solution to this crisis through the negotiating table,” said Torrealba. \"Venezuela is a pressure cooker. The recall vote was an escape valve, and the government sealed it up.\" Torrealba added the truce was \"over.\" Analyst Luis Vicente Leon said he did not believe Maduro would go through with a referendum. \"The likelihood that the government, in negotiations, will accept a referendum or early elections is practically zero,\" said Leon. If Maduro agreed to a referendum, Leon said, it \"is absolutely certain that would mean handing (the opposition) his head.\" Venezuelan constitutional rules dictate the opposition must secure a referendum before January 10 if it wants to rid Maduro of his duties. If that does not happen, Maduro and his coalition will stay in power until 2019. Mediators at the talks include Vatican envoy Claudio Maria Celli and former Spanish prime minister Jose Luis Rodriguez Zapatero. \"We need a spirit of respect and coexistence. Dialogue is not only a means for reaching agreement - it is an end in itself,\" said Zapatero. There is a risk of violence surrounding the talks. Anti-government riots in 2014 left 43 dead. Protestors have taken to the streets in protest of Maduro in recent weeks. Maduro has low approval ratings according to recent polls. kbd/rc (AFP, Reuters)",
+  "relations": [
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "agent_of"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuelan",
+      "head_of_state-x"
+    ],
+    [
+      "MUD",
+      "Venezuela",
+      "based_in0"
+    ],
+    [
+      "MUD",
+      "Venezuelan",
+      "based_in0-x"
+    ],
+    [
+      "Congress",
+      "Venezuela",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "Venezuelan",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "Venezuela",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "Venezuelan",
+      "based_in0-x"
+    ],
+    [
+      "Jesus Torrealba",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Jesus Torrealba",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Jesus Torrealba",
+      "MUD",
+      "head_of"
+    ],
+    [
+      "Jesus Torrealba",
+      "MUD",
+      "member_of"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spanish",
+      "head_of_gov-x"
+    ],
+    [
+      "Venezuelan",
+      "Venezuela",
+      "gpe0"
+    ],
+    [
+      "Claudio Maria Celli",
+      "Vatican",
+      "agent_of"
+    ]
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "content": "Expert: Election Outcome Won't Hurt Bavaria's CSU\nBavaria's ruling Christian Social Union has dropped in the polls ever since 2003. But the party's fear of losing political clout after Sunday's election is unfounded, says a leading German political scientist.\nAhead of Sunday's state elections in Bavaria that could have implications for the strength of German Chancellor Angela Merkel's Christian Democratic Union (CDU), DW-WORLD.DE spoke to Heinrich Oberreuter, a political scientist at the University of Passau and director of the Academy for Civic Education in Tutzing, who is close to the Christian Social Union (CSU). DW-WORLD.DE: Bavaria is the wealthiest state in Germany, home to giants like BMW, Siemens and other high tech industries. Its school system is regarded as Germany's best. Since the 1960s, the CSU has governed Bavaria by an absolute majority. In the last elections, the party got over 60 percent of the vote, but the polls indicate that state premier Guenther Beckstein is slightly below the 50 percent threshold required for his party to maintain sole leadership. What accounts for this drop? Heinrich Oberreuter: First of all, the new leadership hasn't succeeded in getting across the message to voters that they really do have it good. Voters take that for granted, they see it as normal that they have it so good. Since the last elections, there was a turbulent period when the CSU lost some of its voter base, because of budget cuts or policies such as introducing university fees at public institutions or cutting the number of years devoted to secondary education (from 9 years to 8 years) without involving the public in a real public debate over the matter. Those who felt short changed are distancing themselves from the party, which was also hurt by the crisis in confidence caused by the Edmund Stoiber affair (in which the former premier mishandled allegations that an aide had snooped into the private affairs of another CSU politician). Stoiber however is a dynamic politician with magnetic appeal as was (late former Bavarian Premier Franz Josef) Strauss, a titan on the national and world stage. Their successors Beckstein and (CSU pary leader) Erwin Huber lack that kind of charisma and together they have not been able to excite voters or bring them together to support a fresh vision. Under the CSU leadership, Bavaria has become very modern in the high-tech sense, but the party still struggles with an image problem. It is perceived as clinging to traditional social values and Catholic Church doctrine in a Europe that has become increasingly secular. Can you give an example of this? One can say that the CSU took longer than the other parties to react to the trend that mothers are working outside the home -- that there is a demand for initiatives that enable women to combine careers with raising a family, which makes issues such as affordable day care paramount. This is something that the party supports and it is putting its money where its mouth is, but the CSU's public image hasn't caught up with that reality. What are some of the campaign issues? Let's look at educational policy, which is a state matter in Germany. There doesn't seem to be much of a difference between the CSU and the opposition parties (Social Democrats, Greens, Free Democrats), or is there? The only difference I see between them is a minor one, the age-old debate about how long pupils stay together in the primary school system, before they are tracked into the three different secondary paths (based on academic ability). The CSU says we should keep the status quo -- four years is enough and the opposition says let's prolong the primary years and make it six or seven years before the pupils are tracked. That is not a fundamental difference. What other campaign issues are there? The SPD opposition has brought up the issue of regional differences in economic development -- prosperous regions and not so prosperous ones. But one has to say in the last year or so that the CSU has truly made an effort to bridge the differences. They don't want big population shifts to the bigger cities where the jobs are. The unemployment rates are higher outside the metropolitan areas, but still lower than the federal average of 6.7 percent. Other Germans move to Bavaria, because that's where the jobs are. That's why there's been a huge wave of Germans from the (poorer) eastern states. Since so many Bavarian residents come from elsewhere, such as the former East Germany, does that mean that they don't have the same loyalty to the CSU party as native-born Bavarians do? Maybe that accounts for a drop in the polls? No, Germans from other regions -- from the east, north, wherever, cast their votes based on pocketbook issues, on which party contributes to their sense of well-being. On that basis, they have no reason not to vote for the CSU. But isn't the CSU party itself very strongly identified with what it means to be Bavarian? No, I'm not really convinced of that. The drop in the polls doesn't really have to do with identity issues, but with voters' perceptions of what a political party has done for them. This fear of falling just under this symbolic 50 percent threshold is based on the assumption that the CSU's political weight on the national and European level would be greatly diminished. But its weight won't really be diminished? I wouldn't attach too much importance to this 50 percent symbol-- it's only relevant in terms of the party's confidence in itself. The CSU would still have a broad mandate to govern. And even though Frau Merkel may not see it now -- when she wants to build her coalition without the support of the Social Democrats in the federal elections next year -- she can be thankful to every CSU deputy who comes from Bavaria. So if the CSU manages to capture 47 percent of Bavaria's voters, that's still good? Nowhere else in Europe has one single party been able to capture such a big swath of voters as the CSU in Bavaria. I still expect them being to be able to govern with an absolute majority. So what results do you anticipate on Sunday? For the CSU: 49-51 percent, the SPD around 20 percent, the Greens 8 percent, FDP 6-7 percent. According to the polls, the Free Voters' Party could capture 8 percent, but I doubt it and I don't see the Left Party, which is essentially a protest party for unhappy campers, (crossing the 5 percent hurdle for a seat in the state parliament). After all, no state in all of Germany has it better than Bavaria.",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democratic Union",
+      "head_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democratic Union",
+      "member_of"
+    ],
+    [
+      "Christian Democratic Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democratic Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democratic Union",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Free Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Free Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Free Democrats",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Franz Josef",
+      "Bavaria",
+      "agent_of"
+    ],
+    [
+      "Franz Josef",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Franz Josef",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Franz Josef",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Franz Josef",
+      "Bavaria",
+      "head_of_gov"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Heinrich Oberreuter",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Heinrich Oberreuter",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Heinrich Oberreuter",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Heinrich Oberreuter",
+      "Academy for Civic Education",
+      "head_of"
+    ],
+    [
+      "Heinrich Oberreuter",
+      "University of Passau",
+      "member_of"
+    ],
+    [
+      "Heinrich Oberreuter",
+      "Academy for Civic Education",
+      "member_of"
+    ],
+    [
+      "Bavaria",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bavaria",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Christian Social Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Social Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Social Union",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Christian Social Union",
+      "Bavaria",
+      "based_in1"
+    ],
+    [
+      "Guenther Beckstein",
+      "Bavaria",
+      "agent_of"
+    ],
+    [
+      "Guenther Beckstein",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guenther Beckstein",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guenther Beckstein",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Guenther Beckstein",
+      "Bavaria",
+      "head_of_gov"
+    ],
+    [
+      "Edmund Stoiber",
+      "Bavaria",
+      "agent_of"
+    ],
+    [
+      "Edmund Stoiber",
+      "Bavaria",
+      "head_of_gov"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DW-WORLD.DE",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW-WORLD.DE",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW-WORLD.DE",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "University of Passau",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Passau",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "University of Passau",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Academy for Civic Education",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Academy for Civic Education",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Academy for Civic Education",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Academy for Civic Education",
+      "Tutzing",
+      "based_in2"
+    ],
+    [
+      "Tutzing",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Tutzing",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Tutzing",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "BMW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "BMW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "BMW",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "BMW",
+      "Bavaria",
+      "based_in1"
+    ],
+    [
+      "Siemens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Siemens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Siemens",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Siemens",
+      "Bavaria",
+      "based_in1"
+    ],
+    [
+      "Bavarian",
+      "Bavaria",
+      "gpe1"
+    ],
+    [
+      "Erwin Huber",
+      "Christian Social Union",
+      "head_of"
+    ],
+    [
+      "Erwin Huber",
+      "Christian Social Union",
+      "member_of"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Greens",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bavarians",
+      "Bavaria",
+      "gpe1"
+    ],
+    [
+      "Free Voters' Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Free Voters' Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Free Voters' Party",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Free Voters' Party",
+      "Bavaria",
+      "based_in1"
+    ],
+    [
+      "Left Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Left Party",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Left Party",
+      "Bavaria",
+      "based_in1"
+    ]
+  ]
+}

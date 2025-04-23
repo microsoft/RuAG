@@ -1,0 +1,65 @@
+{
+  "content": "Vatican will take over Knights of Malta following condom row\nPope Francis requested Grand Master Matthew Festing to step down from the Knights of Malta. The decision comes during an ongoing argument between church liberals and conservatives over the use of condoms.\nGrand Master Matthew Festing is out of the Knights of Malta following a request by Pope Francis. \"The Grand Master was received on Tuesday by Pope Francis who requested his resignation, which the Grand Master agreed to,\" a spokesman for the Order told French press agency AFP. Festing's resignation still must be confirmed by the Knights of Malta's sovereign council, which is scheduled to convene on Saturday. The Vatican said a papal delegate would be named to lead the Order. Condoms at the forefront Grand Masters of the Knights of Malta are usually in the position for life, but the disagreement over the use of condoms to prevent the spread of AIDS, and the controversy following the removal of Knights' Grand Chancellor Albrecht Freiherr von Boeselager for allowing the distribution of condoms in the Order's humanitarian aid agency pushed Francis into action. Festing also claimed in a leaked letter that three Vatican appointees had a conflict of interest due to links to a Geneva-based fund the Order also had a stake in. It appears the defiance of papal authority was the final straw. Von Boeselager was health minister of the order when the Malteser International was found to have distributed condoms in Myanmar under his watch. The church forbids the use of condoms or other forms of artificial contraception. Von Boeselager said he shut down two programs in Myanmar but kept a third going as it was the only supplier of basic medical services for needy people. Liberals vs. conservatives Von Boeselager's dismissal is seen as being due to him being too liberal for Cardinal Raymond Burke, a conservative figure from the US and the Vatican. Burke has been outspoken in his views, which directly contrast with Pope Francis. Francis, as well as his predecessor Benedict XVI, said the use of condoms to preserve life is acceptable in AIDS-ravaged communities. The Knights of Malta was founded in Jerusalem in 1048 as a community of hospitals. After it was recognized by the pope in 1113, it now operates in 120 countries with 13,500 members and 100,000 employees and volunteers. kbd/rc (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "Matthew Festing",
+      "Knights of Malta",
+      "head_of"
+    ],
+    [
+      "Matthew Festing",
+      "Knights of Malta",
+      "member_of"
+    ],
+    [
+      "Albrecht Freiherr von Boeselager",
+      "Knights of Malta",
+      "head_of"
+    ],
+    [
+      "Albrecht Freiherr von Boeselager",
+      "Knights of Malta",
+      "member_of"
+    ],
+    [
+      "Raymond Burke",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Francis",
+      "Vatican",
+      "agent_of"
+    ],
+    [
+      "Francis",
+      "Vatican",
+      "head_of_state"
+    ],
+    [
+      "Francis",
+      "Vatican",
+      "head_of_state"
+    ],
+    [
+      "AFP",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Malteser International",
+      "Knights of Malta",
+      "part_of"
+    ],
+    [
+      "Benedict XVI",
+      "Vatican",
+      "agent_of"
+    ],
+    [
+      "Benedict XVI",
+      "Vatican",
+      "head_of_state"
+    ]
+  ]
+}

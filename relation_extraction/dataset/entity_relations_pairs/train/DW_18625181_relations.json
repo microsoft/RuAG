@@ -1,0 +1,45 @@
+{
+  "content": "EU climate envoy welcomes Obama's carbon plan\nA senior EU figure on climate change has hailed US President Obama's plan to limit the country's carbon emissions. Obama's announcement came ahead of a global climate summit in Paris.\nIn a series of statements on Twitter, the European Union's commissioner for climate action and energy, Miguel Arias Canete, praised the Clean Power Plan, which had been announced by US President Barack Obama on Monday. Canete (pictured) called the plan \"a positive step forward\" in efforts by the US - the world's second-biggest carbon polluter after China - to cut down on its emissions. UN leaders are due to gather in the French capital in four months time for a climate conference (COP21) with the aim of agreeing on measures to limit global temperature increases to 2 degrees Celsius (3.6 degrees Fahrenheit). The vast majority of scientists accept that climate change caused by human's creation of greenhouse gases is a grave threat to life on Earth. Obama's plan marked the first time power plants in the US have been targeted by mandatory regulations on carbon dioxide emissions. The measures force power plant owners to cut carbon dioxide emissions by 32 percent by 2030, compared to 2005 levels. \"We're the first generation to feel the impact of climate change and the last generation that can do something about it,\" Obama told a gathering of supporters at the White House. Member states of the European Union, which is the world's third largest carbon emitter, have already agreed to cut emissions by 40 percent from 1990 levels by the year 2030. se/sms (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Miguel Arias Canete",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ]
+  ]
+}

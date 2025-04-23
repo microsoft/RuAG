@@ -1,0 +1,40 @@
+{
+  "content": "UK economy picks up speed\nBritain's economy gathered momentum in the second quarter, fresh figures from the Office for National Statistics have revealed. But pundits believe further economic expansion could be marred by the Brexit vote.\nThe UK economy picked up during the second quarter that concluded with the nation's vote to leave the European Union. Q2 gross domestic product grew by 0.6 percent, up from 0.4 percent in the first three months of the year. Output in the three months to June was 2.2 percent higher than a year earlier, the Office for National Statistics (ONS) reported Wednesday. Crystal ball reading? But economists warned that this robust pace of growth might not last into the second half of the year, given the uncertainties over the medium and long-term impact of the country's pro-Brexit vote in the June 23 referendum. Recent data show unease across British factories, with confidence among UK manufacturers falling in July to its lowest level since early 2009. While consumer optimism tumbled in the aftermath of the Brexit vote, some private sector surveys suggest domestic demand has mostly held up, helped by a strong labor market. But the Confederation of British Industry reported Wednesday that retailers suffered the sharpest drop in sales in four years following the referendum. Orders placed with suppliers fell at the sharpest rate since March 2009 and were expected to decline rapidly in August too. hg/jd (Reuters, AFP)",
+  "relations": [
+    [
+      "Office for National Statistics",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "Office for National Statistics",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Office for National Statistics",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Office for National Statistics",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Confederation of British Industry",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Confederation of British Industry",
+      "British",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "content": "Astronomers discover Jupiter-like planet in a galaxy far, far away\nScientists have discovered a new planet 1,500 light years away. Moderately cool and roughly the size of Jupiter, CoRoT-9b is a gem for researchers studying planets outside our solar system.\nAstronomers are thrilled with a new discovery: a planet the size of Jupiter and similar in structure to some of those orbiting our sun. The new orb has been dubbed CoRoT-9b, and lies 1,500 light years away from our solar system, the German Aerospace Center (DLR) in Berlin told the DPA news agency Wednesday. The newly discovered planet – named after the CoRoT space telescope that first discovered it – takes about 95 days to orbit its star, CoRoT-9, in the Serpens constellation. By comparison, it takes Mercury 88 days to orbit our sun. \"It's the first extrasolar planet where we are quite sure it is fairly similar to one in our own solar system, and it's the first extrasolar planet where we can test models that we have developed for solar system planets,\" lead researcher Hans Deeg of the Institute of Astrophysics on Spain's Atlantic archipelago of the Canary Islands, told AFP. However, those hoping the newly discovered sphere is a small, rocky planet with a breathable atmosphere and potable water are out of luck. CoRoT-9b is a giant gas ball with a mass about 80 percent of Jupiter. There is good news. Most \"Gas Jupiters,\" as they are known, have surface temperatures that can reach up to 1,800 degrees Celsius, due to their proximity to their suns. CoRoT-9b, on the other hand, has a relatively cool surface temperature of between -20 and 160 degrees Celsius, research published by the journal Nature states. \"This is the first (exoplanet) whose properties we can study in depth,\" Claire Moutou, one of 60 astronomers who took part in the discovery, told the AFP news agency. She added that \"it is bound to become a Rosetta Stone in exoplanet research.\" Research continues Researchers will likely continue to gather information about the planet, as it is one of only 70 such exoplanets that transit directly between the star and the telescope. This allows the star's light to pass through the planet's atmosphere, transmitting the telescope information about the planet's size and chemical composition. Something already discovered from such planetary observation, Deeg said, is that the variation in the types of planets that orbit close to their star is quite large. \"For instance, Venus was probably apt for life in its early phases before a greenhouse effect set in and elevated temperatures by several hundred degrees,\" he said. With this new discovery, understanding of the chemistry of low temperatures may grow so much that it could open up a completely new research field on atmospherically cool and moderate planets, Didier Queloz, co-author of the study, told DPA. \"Our explorations have yielded more information about CoRoT-9b, than ever discovered about any other exoplanets,\" Queloz added. An exoplanet is the name scientists give to planets outside our solar system. The first such planet was discovered in 1995, with more than 400 others found in the years since. ad/dpa/afp Editor: Mark Mattox",
+  "relations": [
+    [
+      "German Aerospace Center",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Hans Deeg",
+      "Institute of Astrophysics",
+      "member_of"
+    ],
+    [
+      "Institute of Astrophysics",
+      "Spain",
+      "based_in0"
+    ]
+  ]
+}

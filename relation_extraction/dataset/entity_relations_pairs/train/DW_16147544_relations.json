@@ -1,0 +1,70 @@
+{
+  "content": "Curiosity lands on Mars to cheers on Earth\nNASA’s Mars rover has landed successfully after surviving a complicated landing dubbed the seven minutes of terror. It will spend one Mars year searching for evidence of life.\nAt 07:31 on August 6, Central European Time, after a journey of more than eight months and 500 million kilometers, NASA's Mars Science Laboratory (MSL) - also known as Curiosity - landed successfully on the Red Planet. Shouts of delight erupted simultaneously from the NASA live feed and inside the European Space Agency, the ESA's operations center, where scientists and researchers had gathered to witness the event. At NASA's request, the Mars Express, which is controlled by ESA in Darmstadt, had been moved into position to observe the landing. The spacecraft has remained in orbit around Mars since December 2003, when ESA's Beagle 2 landing failed. The Curiosity landing was dubbed the \"seven minutes of terror\" because ground control had to endure an agonizing seven minutes of radio communication silence after the craft entered the planet's atmosphere before it knew whether it had landed successfully. Mark McCaughrean, ESA's Head of Research and Science Support, explains that touchdown is the moment when everything can go horribly wrong - and has done for other missions in the past. \"Lots of money and lots of time have gone into trying to do as much testing as possible, but in the end it came down to those seven minutes,\" says McCaughrean. There is also a 14-minute delay relaying images back to earth, which meant that Curiosity had already been on the surface of Mars for seven minutes when NASA received the information that the landing capsule had entered the planet's atmosphere. It wasn't long, though, before Curiosity relayed its first thumbnail photo via NASA's Odyssey satellite - the first of many. The high definition picture shows the back of Curiosity, wheels down, with the horizon of Mars in the background. A second image shows the view in opposite direction, with Curiosity's shadow against the surface. Curiosity is NASA's most challenging planetary science mission to date. Weighing one ton, Curiosity is the biggest and best-equipped rover ever to head to another planet. It's packed with laboratory equipment and will spend the next 686 days - that's one Mars year - searching for evidence that there was once life on the Red Planet. Of all the planets, Mars is the most similar to Earth. But it has gained a reputation as the Bermuda Triangle of the solar system. The first attempt to explore Mars was made by the Soviets in 1960, and since then the US, Europe, Russia and Japan have between them launched a total of 40 missions. But more than half have crashed, malfunctioned, or simply disappeared. As ESA's Mark McCaughrean points out, this was a very challenging mission. \"Mars has eaten up lots of spacecraft in the past with even lower technology systems,\" says McCaughrean. \"I think we should be really proud of what they've done at NASA to put that system together, and I'm excited about what comes next, which is doing the science.\" Over the next two Earth-years, Curiosity will explore Gale Crater, its landing site, to determine whether the atmosphere on Mars was ever capable of sustaining life - or perhaps still is, even if only at a microbial level. The crater is 155 kilometers (96 miles) wide. Data supplied by Mars orbiters has led scientists to believe that the surface of Mars was shaped by flowing water, a prerequisite for the existence of life forms. The geology of Gale Crater with its erosion patterns also suggests traces of water. Thomas Reiter, ESA's Director for Human Spaceflight and Operations, says he believes it's just a question of time before they find evidence of life on Mars. \"Hopefully [it'll be] now, with Curiosity,\" says Reiter. \"But we can't be sure. It might be the next mission. Maybe ExoMars [ESA's own Mars exploration program] will bring the final evidence for it.\" Mars has two polar ice caps composed of frozen CO2 and frozen water. There are also indications that liquid water may also be present, as images from NASA's Phoenix lander have shown what appear to be droplets. Mark McCaughrean of ESA's research division says Curiosity's work at Gale Crater will be different from that of other Mars rovers - Spirit and Opportunity - which have operated in different locations. \"They've gone into a very exciting place with a lot of different geology in a very small area,\" says McCaughrean. \"Gale [Crater] has this kind of treasure chest of minerals. In the past, Spirit and Opportunity have been to locations where there was more or less one thing going on. Gale has a lot going on in one location.\" The new rover will be looking for organic compounds, as well as nitrogen, carbon, oxygen, hydrogen, sulfur and phosphorus. The scientists want to analyze isotopes and minerals on Mars to learn how the planet's atmosphere has developed over the past four billion years. McCaughrean says ESA scientists will be on the edge of their seats as they wait for the data to come in from NASA. \"We've seen some of the other pictures come back already this morning,\" he says. \"But when the science starts and the big main camera deploys and the first panoramas [come in], I think this is going to be something quite special.\" The rover is not due to move for another week. But Manfred Warhaut, Head of ESA's Mission Operations Department, believes the information Curiosity will eventually provide will bring the international space community closer together. \"Today is a very big day for space,\" Warhaut said, adding that ESA feels emotionally involved in NASA's success. \"We have successfully landed, but the data that we have received so far indicates that also the forthcoming science mission for the next 26 months will be more rewarding for NASA.\" Warhaut hopes the successful landing will encourage NASA to revive its cooperation with ESA's ExoMars program from which it withdrew earlier this year because of budgetary cuts. But as Curiosity has already cost far more than envisaged - at $2.5 billion (2.1 billion euros) - and it's likely that NASA will want to get its money's worth from the project before it shares the spoils.",
+  "relations": [
+    [
+      "Mars Science Laboratory",
+      "NASA",
+      "created_by"
+    ],
+    [
+      "NASA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "NASA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Mark McCaughrean",
+      "European Space Agency",
+      "head_of"
+    ],
+    [
+      "Mark McCaughrean",
+      "European Space Agency",
+      "member_of"
+    ],
+    [
+      "Thomas Reiter",
+      "European Space Agency",
+      "head_of"
+    ],
+    [
+      "Thomas Reiter",
+      "European Space Agency",
+      "member_of"
+    ],
+    [
+      "Manfred Warhaut",
+      "Mission Operations Department",
+      "head_of"
+    ],
+    [
+      "Manfred Warhaut",
+      "Mission Operations Department",
+      "member_of"
+    ],
+    [
+      "Mars Express",
+      "European Space Agency",
+      "created_by"
+    ],
+    [
+      "Odyssey",
+      "NASA",
+      "product_of"
+    ],
+    [
+      "Phoenix",
+      "NASA",
+      "product_of"
+    ],
+    [
+      "Mission Operations Department",
+      "European Space Agency",
+      "part_of"
+    ]
+  ]
+}

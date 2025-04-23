@@ -1,0 +1,115 @@
+{
+  "content": "US Soldier sentenced to jail for murdering Afghans\nThe first of five US soldiers charged with killing unarmed Afghan civilians has been sentenced to 24 years in prison. During the trial he pleaded guilty to murdering three villagers using illegally obtained weapons.\nCorporal Jeremy Morlock admits to murdering and helping to kill three Afghan men in Kandahar province in 2010. To make the victims look like enemy combatants, Morlock said he and his four co-accused staged the slayings with grenade blasts and rifle fire. \"I knew what I was doing was wrong, Sir,\" Morlock said at the trial, adding that his judgment hat not been impaired by drugs, though the 23-year old soldier admitted to having smoked hashish three or four times a week during his deployment in Afghanistan. Under the plea deal, which calls for a maximum sentence of 24 years, Morlock managed to avoid life imprisonment. His lawyer Frank Spinner says he will be eligible for parole in seven years. Morlock, who showed no emotion when given the sentence, will be dishonorably discharged from the Army. \"The plan was to kill people\" Morlock is the first soldier to face a court-martial out of five members of the infantry unit’s so-called \"kill team.\" Apart from the charges of the attempted murder of Afghan civilians, prosecutors have also charged the soldiers with dismembering the victims and collecting body parts from dead Afghans. Staff Sergeant Calvin Gibbs has been fingered by Morlock as the ringleader. Gibbs is said to have shown the men a stash of weapons he had illegally obtained in Afghanistan and led them in creating a plot to murder Afghan civilians in 2009. Without hesitation Morlock answered, \"the plan was to kill people,\" when asked if they were shooting to kill or to scare the civilians. Morlock has agreed to testify against his co-accused if called as a prosecution witness for their court-martial. At Gibbs' pre-trial hearing in November 2010, defense attorney Phillip Stackhouse had argued that his client had played no role in the killings and painted Morlock as a drug-addicted, mentally unstable, and fundamentally unreliable witness. The most serious prosecution The court-martial has taken place a few days after the German weekly, \"Der Spiegel,\" published several photos related to the killings. In them, Morlock poses with the corpses. They are said to be among dozens seized by investigators and sealed from public view by the army. The guilty plea and sentencing of Morlock marks a turning point in the most serious prosecution of alleged US military atrocities during the US’10 years of war in Afghanistan. The US Army had recently completed a top-to-bottom review of Morlock’s combat unit, the 5th Stryker Brigade, 2nd Infantry Division, in conjunction with the criminal investigation. The 500-page report was, however, not used as evidence in Morlock’s case. Author: Anggatira Gollmer (Reuters, Afp, ap) Editor: Sarah Berning",
+  "relations": [
+    [
+      "US Army",
+      "US",
+      "agency_of"
+    ],
+    [
+      "US Army",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Jeremy Morlock",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Jeremy Morlock",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Jeremy Morlock",
+      "US Army",
+      "member_of"
+    ],
+    [
+      "Calvin Gibbs",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Calvin Gibbs",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Calvin Gibbs",
+      "US Army",
+      "member_of"
+    ],
+    [
+      "Afghans",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Kandahar",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kandahar",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "Kandahar",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Frank Spinner",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Phillip Stackhouse",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "5th Stryker Brigade",
+      "US",
+      "agency_of"
+    ],
+    [
+      "5th Stryker Brigade",
+      "US",
+      "based_in0"
+    ],
+    [
+      "5th Stryker Brigade",
+      "US Army",
+      "part_of"
+    ],
+    [
+      "2nd Infantry Division",
+      "US",
+      "agency_of"
+    ],
+    [
+      "2nd Infantry Division",
+      "US",
+      "based_in0"
+    ],
+    [
+      "2nd Infantry Division",
+      "US Army",
+      "part_of"
+    ]
+  ]
+}

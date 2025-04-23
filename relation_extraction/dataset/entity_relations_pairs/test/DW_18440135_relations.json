@@ -1,0 +1,145 @@
+{
+  "content": "Unilateral Saudi cease-fire in Yemen to begin on May 12\nSaudi Arabia has announced a five-day humanitarian cease-fire in Yemen starting from next Tuesday. Meanwhile, US Secretary of State John Kerry has urged all parties to find a political solution to the conflict.\n\"We have made a decision that the cease-fire will begin this Tuesday, May 12, at 11.00 pm and will last for five days subject to renewal if it works out,\" Saudi Arabia's Foreign Minister Adel al-Jubeir told a meeting of Gulf ministers in Paris on Friday alongside US Secretary of State John Kerry. The minister added that the cease-fire could be extended depending on the response from Yemen's Shiite Houthi rebels. Al-Jubeir said he hoped the Iran-backed rebels would \"come to their senses\" and agree to the truce. He urged them to stop fighting. \"We hope the Houthis will come to their senses and realize the interests of Yemen and the Yemeni people should be the top priority for everyone,\" he said. It is unclear whether the Houthis would reciprocate the Saudi gesture. \"The cease-fire will end should Houthis or their allies not live up to the agreement - this is a chance for the Houthis to show that they care about their people and they care about the Yemen people,\" the Saudi foreign minister emphasized. At this point, US Secretary of State John Kerry said anyone who cared about Yemeni people \"should take clear notice of the fact that a human catastrophe is building,\" adding that a cease-fire was \"not peace\" and that all parties must find a political solution to end the conflict. Kerry urged all sides to hold talks immediately. Saudi ultimatum Hours before the cease-fire announcement, Saudi Arabia declared a Houthi stronghold along its southern border a \"military target,\" giving an ultimatum to the residents to leave the area, Saudi state-run TV reported. Lately, the northern Yemeni province of Saada has become a battleground for the Shiite rebels and the Saud-led coalition forces as the Houthis carried out border attacks on nearby Saudi cities. More than 50 airstrikes hit Saada overnight and in the early hours of Friday morning, Yemeni officials said. A Saudi-led coalition of Arab states launched an air campaign against the Houthis on March 26. Riyadh accuses Tehran of backing the rebels, who have made significant territorial gains in the impoverished Middle Eastern country, capturing the capital Sanaa and ousting internationally recognized President Abed Rabbo Mansour Hadi, who fled Yemen back in March. The Sunni Gulf states are wary of Iran's increasing influence in the region, and they see the Houthis' advance in Yemen as a move that threatens their regional and geopolitical interests. Over 1,200 people have been killed in Yemen since the start of the Saudi campaign, according to the United Nations. shs/bw (AFP, dpa, Reuters, AP)",
+  "relations": [
+    [
+      "Adel al-Jubeir",
+      "Saudi Arabia",
+      "agent_of"
+    ],
+    [
+      "Adel al-Jubeir",
+      "Saudi Arabia",
+      "citizen_of"
+    ],
+    [
+      "Adel al-Jubeir",
+      "Saudi",
+      "citizen_of-x"
+    ],
+    [
+      "Adel al-Jubeir",
+      "Saud",
+      "citizen_of-x"
+    ],
+    [
+      "Adel al-Jubeir",
+      "Saudi Arabia",
+      "minister_of"
+    ],
+    [
+      "Adel al-Jubeir",
+      "Saudi",
+      "minister_of-x"
+    ],
+    [
+      "Adel al-Jubeir",
+      "Saud",
+      "minister_of-x"
+    ],
+    [
+      "Houthis",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "Houthis",
+      "Yemeni",
+      "based_in0-x"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Saudi",
+      "Saudi Arabia",
+      "gpe0"
+    ],
+    [
+      "Yemeni",
+      "Yemen",
+      "gpe0"
+    ],
+    [
+      "Saada",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Saada",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Saud",
+      "Saudi Arabia",
+      "gpe0"
+    ],
+    [
+      "Riyadh",
+      "Saudi Arabia",
+      "in0"
+    ],
+    [
+      "Riyadh",
+      "Saudi",
+      "in0-x"
+    ],
+    [
+      "Riyadh",
+      "Saud",
+      "in0-x"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Sanaa",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Sanaa",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemeni",
+      "citizen_of-x"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemen",
+      "head_of_state"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemeni",
+      "head_of_state-x"
+    ]
+  ]
+}

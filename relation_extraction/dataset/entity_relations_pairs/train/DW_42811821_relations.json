@@ -1,0 +1,45 @@
+{
+  "content": "Vatican charges 78-year-old ex-bank chief with €50 million embezzlement\nThe former chief of the Vatican's bank and his 94-year-old lawyer allegedly scraped profits from property sales. Pope Francis has been cracking down on financial impropriety.\nThe former president of the Vatican bank and his lawyer have been charged with embezzlement for the loss of more than €50 million ($62 million). Angelo Caloia, 78, was president of the Institute for Works of Religion (IOR) from 1999 to 2009. His lawyer, Gabriele Liuzzo, 94, was also charged while a third person under investigation, former IOR director general Lelio Scaletti, died several years ago. Read more: Vatican court convicts ex-hospital head over luxury housing scandal The IOR said in a statement that the pair were charged with alleged acts of embezzlement and self-laundering between 2001 and 2008, when the bank offloaded \"a considerable part of its real estate assets.\" In December 2014 the Vatican's top prosecutor, Gian Piero Milano, froze accounts worth millions of euros held by the three men. He suspected the men of misrepresenting the sale prices of 29 buildings between 2001 and 2008 and pocketing the difference, according to a Reuters news agency report. The bank has been involved in various financial scandals over the past decades, with thousands of accounts being closed last year as part of a clean up effort by Pope Francis. The trial starts on March 15. aw/jlw (Reuters, AP) DW editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.",
+  "relations": [
+    [
+      "Angelo Caloia",
+      "Institute for Works of Religion",
+      "head_of"
+    ],
+    [
+      "Angelo Caloia",
+      "Institute for Works of Religion",
+      "member_of"
+    ],
+    [
+      "Institute for Works of Religion",
+      "Vatican",
+      "based_in0"
+    ],
+    [
+      "Francis",
+      "Vatican",
+      "agent_of"
+    ],
+    [
+      "Francis",
+      "Vatican",
+      "head_of_state"
+    ],
+    [
+      "Lelio Scaletti",
+      "Institute for Works of Religion",
+      "head_of"
+    ],
+    [
+      "Lelio Scaletti",
+      "Institute for Works of Religion",
+      "member_of"
+    ],
+    [
+      "Gian Piero Milano",
+      "Vatican",
+      "agent_of"
+    ]
+  ]
+}

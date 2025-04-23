@@ -1,0 +1,270 @@
+{
+  "content": "'Mad Men' creator, Audrey Tautou on Berlinale jury\nThe seven members of this year's Berlinale jury have been named. The experienced film celebrities will decide who will receive the prestigious Golden Bear in mid-February.\nThe American filmmaker Darren Aronofsky, who directed the 2014 blockbuster \"Noah,\" \"Black Swan\" and \"The Wrestler,\" among others, will preside over the jury. He will be accompanied by French actress Audrey Tautou (who rose to fame with her eccentric character in the global hit, \"Amélie\") and German actor Daniel Brühl (who played the lead role in \"Good Bye, Lenin!\"), as well as Matthew Weiner, the creator, executive producer and screenwriter of the hit US series \"Mad Men.\" Other jurors include Martha De Laurentiis (\"Hannibal\") and South Korean director Bong Joon-ho (\"Snowpiercer\"). The Peruvian filmmaker Claudia Llosa, who won the Golden Bear in 2009 with her film \"The Milk of Sorrow,\" is also on board. Festival director Dieter Kosslick pointed out during a press conference that this year's selection includes many films depicting \"strong women in extreme situations.\" Opening the festival is a film by Spanish director Isabel Coixet - \"Nobody Wants the Night\" - featuring French actress Juliette Binoche. It tells the story of Josephine Peary, who trekked across the tundra in Greenland in 1908 to rescue her missing husband. Werner Herzog's \"Queen of the Desert\" also highlights a forceful woman's biography, with Nicole Kidman portraying British explorer and spy Gertrude Bell. Another awaited premiere is Terrence Malick's latest feature, called \"Knight of Cups,\" and dissident Iranian director Jafar Panahi's \"Taxi.\" Altogether, 19 films are competing for the Golden Bear this year and 441 movies from 72 countries will be shown within 10 days. The Berlin International Film Festival, known as the Berlinale, will take place from February 5 to 15 in the German capital. eg/kbm (dpa, AFP)",
+  "relations": [
+    [
+      "Darren Aronofsky",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Darren Aronofsky",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Darren Aronofsky",
+      "Berlin International Film Festival",
+      "member_of"
+    ],
+    [
+      "Audrey Tautou",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Audrey Tautou",
+      "Berlin International Film Festival",
+      "member_of"
+    ],
+    [
+      "Audrey Tautou",
+      "Amélie",
+      "plays_in"
+    ],
+    [
+      "Berlin International Film Festival",
+      "German",
+      "event_in0-x"
+    ],
+    [
+      "Mad Men",
+      "Matthew Weiner",
+      "created_by"
+    ],
+    [
+      "Mad Men",
+      "Matthew Weiner",
+      "created_by"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Noah",
+      "Darren Aronofsky",
+      "created_by"
+    ],
+    [
+      "Noah",
+      "Darren Aronofsky",
+      "directed_by"
+    ],
+    [
+      "Noah",
+      "Darren Aronofsky",
+      "directed_by"
+    ],
+    [
+      "Black Swan",
+      "Darren Aronofsky",
+      "created_by"
+    ],
+    [
+      "Black Swan",
+      "Darren Aronofsky",
+      "directed_by"
+    ],
+    [
+      "Black Swan",
+      "Darren Aronofsky",
+      "directed_by"
+    ],
+    [
+      "The Wrestler",
+      "Darren Aronofsky",
+      "created_by"
+    ],
+    [
+      "The Wrestler",
+      "Darren Aronofsky",
+      "directed_by"
+    ],
+    [
+      "The Wrestler",
+      "Darren Aronofsky",
+      "directed_by"
+    ],
+    [
+      "Daniel Brühl",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Daniel Brühl",
+      "Berlin International Film Festival",
+      "member_of"
+    ],
+    [
+      "Daniel Brühl",
+      "Good Bye, Lenin!",
+      "plays_in"
+    ],
+    [
+      "Matthew Weiner",
+      "Berlin International Film Festival",
+      "member_of"
+    ],
+    [
+      "Martha De Laurentiis",
+      "Berlin International Film Festival",
+      "member_of"
+    ],
+    [
+      "Hannibal",
+      "Martha De Laurentiis",
+      "created_by"
+    ],
+    [
+      "Bong Joon-ho",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Bong Joon-ho",
+      "Berlin International Film Festival",
+      "member_of"
+    ],
+    [
+      "Snowpiercer",
+      "Bong Joon-ho",
+      "created_by"
+    ],
+    [
+      "Snowpiercer",
+      "Bong Joon-ho",
+      "directed_by"
+    ],
+    [
+      "Claudia Llosa",
+      "Golden Bear",
+      "award_received"
+    ],
+    [
+      "Claudia Llosa",
+      "Peruvian",
+      "citizen_of-x"
+    ],
+    [
+      "Claudia Llosa",
+      "Berlin International Film Festival",
+      "member_of"
+    ],
+    [
+      "The Milk of Sorrow",
+      "Claudia Llosa",
+      "created_by"
+    ],
+    [
+      "The Milk of Sorrow",
+      "Claudia Llosa",
+      "directed_by"
+    ],
+    [
+      "Dieter Kosslick",
+      "Berlin International Film Festival",
+      "head_of"
+    ],
+    [
+      "Dieter Kosslick",
+      "Berlin International Film Festival",
+      "member_of"
+    ],
+    [
+      "Isabel Coixet",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Nobody Wants the Night",
+      "Isabel Coixet",
+      "created_by"
+    ],
+    [
+      "Nobody Wants the Night",
+      "Isabel Coixet",
+      "directed_by"
+    ],
+    [
+      "Juliette Binoche",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Juliette Binoche",
+      "Nobody Wants the Night",
+      "plays_in"
+    ],
+    [
+      "Josephine Peary",
+      "Nobody Wants the Night",
+      "character_in"
+    ],
+    [
+      "Queen of the Desert",
+      "Werner Herzog",
+      "created_by"
+    ],
+    [
+      "Queen of the Desert",
+      "Werner Herzog",
+      "directed_by"
+    ],
+    [
+      "Nicole Kidman",
+      "Queen of the Desert",
+      "plays_in"
+    ],
+    [
+      "Gertrude Bell",
+      "Queen of the Desert",
+      "character_in"
+    ],
+    [
+      "Gertrude Bell",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Gertrude Bell",
+      "Nicole Kidman",
+      "played_by"
+    ],
+    [
+      "Knight of Cups",
+      "Terrence Malick",
+      "created_by"
+    ],
+    [
+      "Knight of Cups",
+      "Terrence Malick",
+      "directed_by"
+    ],
+    [
+      "Jafar Panahi",
+      "Iranian",
+      "citizen_of-x"
+    ],
+    [
+      "Taxi",
+      "Jafar Panahi",
+      "created_by"
+    ],
+    [
+      "Taxi",
+      "Jafar Panahi",
+      "directed_by"
+    ]
+  ]
+}

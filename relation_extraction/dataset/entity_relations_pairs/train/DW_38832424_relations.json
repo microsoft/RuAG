@@ -1,0 +1,105 @@
+{
+  "content": "China's new Silk Road summit opens with major funding vision\nAnnouncing billions of yuan in financing, China's president has promised to assist countries along the new Silk Road. The ambitious \"One Belt, One Road\" initiative aims to expand links between Asia, Europe and Africa.\nChinese President Xi Jinping on Sunday announced that Beijing will lend 380 billion yuan (50.37 billion euros, $55.09 billion) to support cooperation on its ambitious \"One Belt, One Road\" initiative to expand links between Asia, Africa and Europe. \"We should build an open platform of cooperation and uphold and grow an open world economy,\" said Xi during the opening of the two-day summit on the new Silk Road. \"We should jointly create an environment that will facilitate opening up and development - establish a fair, equitable and transparent system of international trade and investment rules,\" the Chinese president added. Xi said that Beijing will also contribute an additional 100 billion yuan to the Silk Road Fund, which aims to bankroll the country's plans to build the infrastructure network for improved intercontinental trade. The attendees included Turkish President Recep Tayyip Erdogan, Italian Prime Minister Paolo Gentiloni, Russian President Vladimir Putin and UN chief Antonio Guterres. Putin said at the conference that protectionism is a threat to the global economy amid a resurgence of isolationist rhetoric on the international stage. North Korea's shadow Despite the notable absence of Western leaders at China's biggest diplomatic event this year, Xi said all countries are welcome to cooperate on the project. The US embassy in Beijing expressed concern to China for its decision to invite North Korea, which has escalated tensions in the region through multiple missile test-launches since US President Donald Trump assumed office in January. However, China's foreign ministry said in a statement that it did \"not understand the situation.\" \"The Belt and Road initiative is an open and inclusive one. We welcome all countries' delegations to attend the Belt and Road Forum for International Cooperation,\" the foreign ministry said. Earlier on Sunday, North Korea launched a test missile believed to be a new model. The test launch prompted outrage from South Korea and Japan, saying it violated numerous UN resolutions and undermined international security. ls/rc (Reuters, AP, AFP, dpa)",
+  "relations": [
+    [
+      "Xi Jinping",
+      "China",
+      "agent_of"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Xi Jinping",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "head_of_state"
+    ],
+    [
+      "Xi Jinping",
+      "Chinese",
+      "head_of_state-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_gov-x"
+    ],
+    [
+      "Belt and Road Forum for International Cooperation",
+      "China",
+      "event_in0"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Paolo Gentiloni",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Paolo Gentiloni",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Antonio Guterres",
+      "UN",
+      "head_of"
+    ],
+    [
+      "Antonio Guterres",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ]
+  ]
+}

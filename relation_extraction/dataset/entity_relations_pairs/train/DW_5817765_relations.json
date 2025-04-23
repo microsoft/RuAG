@@ -1,0 +1,155 @@
+{
+  "content": "Studying in Goettingen: In the footsteps of Nobel winners\nIn Goettingen, you can study almost anything while balancing university and private life. The two campuses outside the city center house most of the university's institutes, but students aren't cut off from Goettingen.\nGeorg August University was opened in 1737. It is the largest and oldest still-surviving university in Lower Saxony. In the 2009-2010 winter semester, there were 24,000 students enrolled here. Since 2007, the university's concept for the future has been based on Germany's Initiative for Excellence. One important component of this is creating a connection between the university and other research institutes in the city. This involves the Goettingen Academy of Sciences, the five Max Planck institutes, the German Aerospace Center and the German Primate Center. Tradition and variety What was unusual at the time of the university's establishment is today the norm: thinking for yourself and doing your own research. The 13 faculties offer almost all courses of study except for engineering. Some of the main focus points in research include chemistry, solid-state physics, materials science, biodiversity and mathematics, as well as German language studies, oriental studies, archaeology and theology. The university places a lot of value on having a broad curriculum. Books, books, books A great treasure of the \"Georgia Augusta,\" as the university is sometimes called, are its books. The old library contains some of the most important collections of German science literature from the 18th and 19th centuries. The books are accessible to all students, although they cannot be borrowed. And while this library reflects the glory of the university's early years, the Goettingen State and University Library, located on the humanities campus, shows the university's modern side: well-arranged and spacious. The Nobel Prize wonder So far in history, 12 Nobel Prizes have been awarded to researchers who made outstanding discoveries during their time at Goettingen. Among them is Werner Heisenberg (1901-1976), who received the Nobel Prize in Physics in 1932 for his work in quantum mechanics. There is also Bert Sakmann (born in 1942), who received the Nobel Prize in Medicine in 1991 for his findings related to ionic channels within cells. Renowned abroad Goettingen University doesn't only enjoy a good reputation in Germany, but also abroad. This is why each year more than 2,500 foreign students come here to study. Most of them are from China, Poland and Turkey. Mathematics, forestry and philosophical subjects are especially popular among these students. Author: Anna Grabowski",
+  "relations": [
+    [
+      "Georg August University",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Georg August University",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Georg August University",
+      "Lower Saxony",
+      "based_in1"
+    ],
+    [
+      "Georg August University",
+      "Goettingen",
+      "based_in2"
+    ],
+    [
+      "Goettingen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Goettingen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Werner Heisenberg",
+      "Nobel Prizes",
+      "award_received"
+    ],
+    [
+      "Werner Heisenberg",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Werner Heisenberg",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bert Sakmann",
+      "Nobel Prizes",
+      "award_received"
+    ],
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lower Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Goettingen Academy of Sciences",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Goettingen Academy of Sciences",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Goettingen Academy of Sciences",
+      "Goettingen",
+      "based_in2"
+    ],
+    [
+      "Max Planck",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Max Planck",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Max Planck",
+      "Goettingen",
+      "based_in2"
+    ],
+    [
+      "German Aerospace Center",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Aerospace Center",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Aerospace Center",
+      "Goettingen",
+      "based_in2"
+    ],
+    [
+      "German Primate Center",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Primate Center",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Primate Center",
+      "Goettingen",
+      "based_in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Goettingen State and University Library",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Goettingen State and University Library",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Goettingen State and University Library",
+      "Goettingen",
+      "based_in2"
+    ],
+    [
+      "Goettingen State and University Library",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Goettingen State and University Library",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

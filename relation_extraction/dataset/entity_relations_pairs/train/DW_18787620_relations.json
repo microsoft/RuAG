@@ -1,0 +1,80 @@
+{
+  "content": "Germany's DFB admits 2005 FIFA payment, denies World Cup link\nThe German Football Federation (DFB) has said a payment it made to FIFA had nothing to do with the awarding of the 2006 World Cup to Germany. News magazine Der Spiegel claims a slush fund was used to secure votes.\nFootball's German governing body said on Friday it had found no \"irregularities\" in the awarding of football's showpiece event to Germany. \"Furthermore, there is no evidence that any of the delegates' votes were won illegally at any stage in the application process,\" a DFB statement said. However, the DFB said it had become aware of a 6.7 million euro payment - brought to light by an internal investigation. The sum was paid to FIFA in April 2005 from the organizational committee preparing the event in Germany. \"This payment was in no way linked to the awarding of the 2006 World Cup, which had been decided 5 years previously,\" said the statement, albeit acknowleding that the money might not have been used as intended. According to the DPA news agency, FIFA has said it will investigate the possible improper use of the payment. Swiss prosecutors are currently investigating accusations in the selection of Russia and Qatar as the venues for the 2018 and 2022 World Cups. Delegates 'bought off' News magazine Der Spiegel reported on Friday that the bid committee had set up a slush fund of 10.3 million Swiss francs ($10.8 million) to help it land the event. A report on the magazine's website on Friday said the money was used to secure the votes of four Asian FIFA delegates who were involved in awarding the World Cup. Der Spiegel said the money had come from Adidas boss Robert Louis-Dreyfus as a secret private donation. The magazine said the bid committee chief Franz Beckenbauer and the current DFB president Wolfgang Niersbach were aware that there was a fund. Germany narrowly pipped South Africa by 12 votes to 11 in the vote by the FIFA executive committee in 2009. Oceania's Charles Dempsey abstained from the ballot and said there had been huge pressure on him from undisclosed parties. Niersabach famously said in a German TV interview a few months ago that he did not know how Germany had won enough votes to tip the scales. The sum was said to have been sent to FIFA for a cultural event. In the end, that event was cancelled. The DFB has said it will look into a possible claim to potential repayment. FIFA, meanwhile, said it had forwarded the case to its audit and compliance commission. rc/msh (dpa, Reuters)",
+  "relations": [
+    [
+      "German Football Federation",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Football Federation",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Der Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wolfgang Niersbach",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Niersbach",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Niersbach",
+      "German Football Federation",
+      "head_of"
+    ],
+    [
+      "Wolfgang Niersbach",
+      "German Football Federation",
+      "member_of"
+    ],
+    [
+      "2006 World Cup",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "2022 World Cups",
+      "Qatar",
+      "event_in0"
+    ],
+    [
+      "Robert Louis-Dreyfus",
+      "Adidas",
+      "head_of"
+    ],
+    [
+      "Robert Louis-Dreyfus",
+      "Adidas",
+      "member_of"
+    ],
+    [
+      "Franz Beckenbauer",
+      "German Football Federation",
+      "member_of"
+    ],
+    [
+      "Charles Dempsey",
+      "FIFA",
+      "member_of"
+    ]
+  ]
+}

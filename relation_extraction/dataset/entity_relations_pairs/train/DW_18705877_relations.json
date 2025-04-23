@@ -1,0 +1,25 @@
+{
+  "content": "John Crocket: British clothing from Cologne\nBritish fashion from Germany? Believe it or not, it’s a winning concept. Thomas Schmitz from Cologne founded the label John Crocket back in 1987.\nHis store sells tweed jackets, shirts and cashmere sweaters made of Scottish wool.",
+  "relations": [
+    [
+      "John Crocket",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "John Crocket",
+      "Cologne",
+      "based_in2"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Thomas Schmitz",
+      "Cologne",
+      "citizen_of"
+    ]
+  ]
+}

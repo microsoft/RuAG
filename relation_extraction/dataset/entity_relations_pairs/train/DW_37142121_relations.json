@@ -1,0 +1,190 @@
+{
+  "content": "Contentious US-Korea missile defense system delayed\nChina has long campaigned against the deployment of the military system and some Korean politicians say it is not worth the trouble. It is a heated political issue in a country gripped by political instability.\nThe deployment of a controversial US missile defense system in South Korea designed to protect against North Korean aggression could be delayed, Seoul's defense ministry said on Monday. The Terminal High Altitude Area Defense (THAAD) system was due to be built on a golf course owned by the Lotte Group conglomerate in the Seongju region, southeast of South Korea's capital Seoul. \"The plan to go ahead with the exchange will be signed by mid-January, but there is a possibility it will be slightly delayed,\" South Korean ministry spokesman Moon Sang-gyun said. He said they were waiting on a meeting with Lotte directors to settle land use fees. South Korea and the US had said the THAAD deployment was to protect against North Korea's growing nuclear and ballistic capabilities. Heavy regional opposition But China strongly objected, saying its powerful radar could penetrate Chinese territory. This led to some South Korea opposition leaders to call for its delay or cancellation. They argued that the security benefits would be outweighed by worsened relations with China and Russia. China and Russia railed against the deployment, warning of unspecified retaliation and a sharp downturn in relations with Seoul if it went ahead. \"China believes it is a serious threat to China's security interests and for the region,\" Chinese Foreign Ministry spokesman Lu Kang said last week. \"I believe that as long as our country has legitimate security concerns, it is understandable that necessary measures be taken to safeguard such interests.\" Local landowners also protested against its use saying it would destroy melon crops and make the area a target for North Korea. Effect of political crisis South Korea is currently in the midst of a political crisis after lawmakers voted to impeach incumbent President Park Geun-hye over an influence-peddling scandal. If upheld by the Constitutional Court, the motion will trigger new presidential elections. Presidential hopeful Moon Jae-in said its deployment should wait until the next administration is elected. Potential rival candidate, former United Nations Secretary-General Ban Ki-moon, said on Sunday it was appropriate for THAAD to be deployed in the country. \"Since the reality is the Korean peninsula is in a quasi-war-like state, such action made by the government is appropriate,\" Ban was quoted by South Korea's Yonhap News Agency as saying. aw/rt (Reuters, AP)",
+  "relations": [
+    [
+      "Terminal High Altitude Area Defense",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Terminal High Altitude Area Defense",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "Lu Kang",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Lu Kang",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Lu Kang",
+      "Foreign Ministry",
+      "member_of"
+    ],
+    [
+      "Lu Kang",
+      "Foreign Ministry",
+      "spokesperson_of"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korea",
+      "agent_of"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korea",
+      "citizen_of"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korea",
+      "head_of_state"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korean",
+      "head_of_state-x"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "North Korean",
+      "North Korea",
+      "gpe0"
+    ],
+    [
+      "Seoul",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Seoul",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "Seongju",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Seongju",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "South Korean",
+      "South Korea",
+      "gpe0"
+    ],
+    [
+      "Moon Sang-gyun",
+      "South Korea",
+      "citizen_of"
+    ],
+    [
+      "Moon Sang-gyun",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Moon Sang-gyun",
+      "South Korea",
+      "member_of"
+    ],
+    [
+      "Moon Sang-gyun",
+      "South Korea",
+      "spokesperson_of"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "agency_of"
+    ],
+    [
+      "Foreign Ministry",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "ministry_of"
+    ],
+    [
+      "Constitutional Court",
+      "South Korea",
+      "agency_of"
+    ],
+    [
+      "Constitutional Court",
+      "South Korean",
+      "agency_of-x"
+    ],
+    [
+      "Constitutional Court",
+      "South Korea",
+      "based_in0"
+    ],
+    [
+      "Constitutional Court",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "Moon Jae-in",
+      "South Korea",
+      "citizen_of"
+    ],
+    [
+      "Moon Jae-in",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Yonhap News Agency",
+      "South Korea",
+      "based_in0"
+    ],
+    [
+      "Yonhap News Agency",
+      "South Korean",
+      "based_in0-x"
+    ]
+  ]
+}

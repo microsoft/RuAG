@@ -1,0 +1,180 @@
+{
+  "content": "Polish government survives second confidence vote after tape scandal\nPoland's center-right coalition has survived a vote of no confidence. The opposition had called for the government to resign after a tape was leaked in which the Polish foreign minister bashed US and British leaders.\nThe opposition Law and Justice party failed in its bid to oust Prime Minister Donald Tusk on Friday through a vote confidence, the second such vote since the publication of private conversations between high-ranking officials, referred to by some in Poland as \"Waitergate.\" Tusk withstood the opposition challenge by a wide margin of 236-155. The prime minister's Civic Platform party governs Poland in a center-right coalition with the Polish People's party. Last month, recordings of a private conversation between Foreign Minister Radoslaw Sikorski and then-Finance Minister Jacek Rostowski were published by the weekly magazine Wprost. During the conversation, Sikorski said the US-Polish alliance was \"worthless\" and British Prime Minister David Cameron's concessions to euroskeptics had shown his \"incompetence in EU affairs.\" Prior to the leak of the Sikorski recording, Wprost also published a tape in which central bank chief Marek Belka told Interior Minister Bartlomiej Sienkiewicz that he would only support the government's economic policy if Finance Minister Rostowski left his post. The secret recordings were reportedly made over several months, including at high end restaurants in Warsaw. Wprost says it received the tapes from a businessman. Immediately after the conversations were published, Tusk called his own vote of no confidence. His government survived that vote 237-203. slk/rc (AP, AFP, dpa)",
+  "relations": [
+    [
+      "Donald Tusk",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Donald Tusk",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Donald Tusk",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Tusk",
+      "Poland",
+      "head_of_gov"
+    ],
+    [
+      "Donald Tusk",
+      "Polish",
+      "head_of_gov-x"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Poland",
+      "minister_of"
+    ],
+    [
+      "Radoslaw Sikorski",
+      "Polish",
+      "minister_of-x"
+    ],
+    [
+      "Jacek Rostowski",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Jacek Rostowski",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Jacek Rostowski",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Jacek Rostowski",
+      "Poland",
+      "minister_of"
+    ],
+    [
+      "Jacek Rostowski",
+      "Polish",
+      "minister_of-x"
+    ],
+    [
+      "Polish",
+      "Poland",
+      "gpe0"
+    ],
+    [
+      "Law and Justice",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "Law and Justice",
+      "Polish",
+      "based_in0-x"
+    ],
+    [
+      "Civic Platform",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "Civic Platform",
+      "Polish",
+      "based_in0-x"
+    ],
+    [
+      "Polish People's party",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "Polish People's party",
+      "Polish",
+      "based_in0-x"
+    ],
+    [
+      "Wprost",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "Wprost",
+      "Polish",
+      "based_in0-x"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Marek Belka",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Marek Belka",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Bartlomiej Sienkiewicz",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Bartlomiej Sienkiewicz",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Bartlomiej Sienkiewicz",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Bartlomiej Sienkiewicz",
+      "Poland",
+      "minister_of"
+    ],
+    [
+      "Bartlomiej Sienkiewicz",
+      "Polish",
+      "minister_of-x"
+    ],
+    [
+      "Warsaw",
+      "Poland",
+      "in0"
+    ],
+    [
+      "Warsaw",
+      "Polish",
+      "in0-x"
+    ]
+  ]
+}

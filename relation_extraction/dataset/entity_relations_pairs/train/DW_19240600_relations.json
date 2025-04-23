@@ -1,0 +1,250 @@
+{
+  "content": "Berlin sees bad news as Davutoglu resigns in Turkey\nTurkish Prime Minister Ahmet Davutoglu was thought of as more than just a reliable partner to Germany's federal government. Many in Berlin see a reason for concern in his resignation.\nNorbert Röttgen, the leader of the Bundestag's foreign policy committee and a member of the Christian Democrats (CDU), called Ahmet Davutoglu's resignation announcement bad news for Europe and for Turkey. The prime minister also plans to step down from his position as Justice and Development Party (AKP) leader at a special party congress in two weeks' time. Davutoglu had taken over the position of head of the party and the government from Recep Tayyip Erdogan, who had been elected president in 2014. The 57-year-old Davutoglu was always considered to be a close and loyal confidant of Erdogan's. Now it seems he has fallen from grace: Tensions have risen between the two over the past couple of weeks as Davutoglu voiced opposition to his mentor's plans to introduce a new system that would expand the president's - that is Erdogan's - power. Erdogan's supporters accuse Davutoglu of attempting to undermine the president's authority. Germany is losing an important negotiating partner. Davutoglu led negotiations between the European Union and Turkey on a controversial deportations pact, and he and Chancellor Angela Merkel are seen as the architects of the EU-Turkey refugee plan that resulted. 'A warning' Katrin Göring-Eckardt, the parliamentary chair for the Greens, now sees Turkey's cooperation with the EU as threatened. \"Ultimately, Mr. Davutoglu was a reliable partner for the Europeans, and he was someone who sought to open Turkey toward Europe,\" she said Friday morning on German public television. \"Obviously the same cannot be said about Mr. Erdogan.\" The German federal government, however, played down the situation: Acting spokesman Georg Streiter said he assumed that constructive cooperation would continue. \"The EU-Turkey agreement stands,\" Streiter said, adding that the deal was made between the European Union and Turkey - not between the EU and Davutoglu. In a press statement released Thursday, Jürgen Hardt, foreign policy speaker for the CDU/Christian Social Union parliamentary group, wrote that Davutoglu's resignation \"increases fears that President Erdogan is intent on transforming Turkey's democracy into an authoritarian presidential state.\" He added that restrictions directed at the press and opposition as well as an increasing number of civilians enlisted in the fight against the Kurdish Workers' Party are \"a warning to all democratic and pro-European forces in Turkey.\" The Left warned that Turkey's democracy could descend into \"despotism\": \"It does not matter who is prime minister under Erdogan,\" said Sevim Dagdelen, the foreign policy speaker of the Left parliamentary group. \"This is about cementing Erdogan's absolute power. Davutoglu was always a willing facilitator to that end - but apparently not willing enough.\"",
+  "relations": [
+    [
+      "Justice and Development Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Justice and Development Party",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Justice and Development Party",
+      "head_of"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "head_of_gov"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkish",
+      "head_of_gov-x"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Justice and Development Party",
+      "member_of"
+    ],
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Norbert Röttgen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Norbert Röttgen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Norbert Röttgen",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Georg Streiter",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Georg Streiter",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "Greens",
+      "member_of"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Jürgen Hardt",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jürgen Hardt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jürgen Hardt",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Christian Social Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Social Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kurdish Workers' Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Kurdish Workers' Party",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Left",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Sevim Dagdelen",
+      "Left",
+      "member_of"
+    ]
+  ]
+}

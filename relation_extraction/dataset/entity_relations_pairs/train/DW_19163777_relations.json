@@ -1,0 +1,135 @@
+{
+  "content": "New clashes erupt between Armenia, Azerbaijan over Nagorno-Karabakh\nClashes between Azerbaijani and Armenian forces have killed at least 13 people in a third day of fighting over Nagorno-Karabakh. Turkey is backing Baku as the worst violence in decades hits the disputed territory.\nUS Secretary of State John Kerry spoke to Russian Foreign Minister Sergei Lavrov Monday to review efforts to stop the violence that has broken out along the Nagorno-Karabakh line of conflict and how to get Armenia and Azerbaijan to resume talks. Russia and the West have scrambled to call for an end to the fighting. But Turkish President Recep Tayyip Erdogan - a staunch ally of Azerbaijan - insisted that the Armenian-controlled region was rightfully part of Azerbaijan. \"Karabakh will one day return to its original owner. It will be Azerbaijan's,\" Erdogan said in televised remarks. Separatist authorities in Karabakh - which claim independence but are supported by Armenia - said three civilians and two more soldiers were killed in fierce shelling. And Azerbaijan said three of its troops were killed overnight when Armenian forces shelled its positions using mortars and grenade launchers. This comes as Armenia warns of a wider war against its neighbor. \"A further escalation of military actions could lead to unpredictable and irreversible effects, up to a widespread war,\" Armenian President Serzh Sargsyan said at a meeting with an envoy of the Organization for Security and Cooperation in Europe, the Interfax news agency reported. \"This will naturally affect the security and stability of not only the South Caucasus but also Europe,\" Sargsyan was quoted as saying. In an apparent reference to Erdogan's bullish statements, the Russian foreign ministry said: \"Lavrov and Kerry condemned attempts by certain external players to instigate confrontation around Karabakh.\" Decades of conflict in region Ethnic Armenian separatists backed by Armenia seized control of mountainous Nagorno-Karabakh - a majority ethnic Armenian region - during the twilight days of the Soviet Union. The foes have never signed a peace deal despite the 1994 ceasefire and some 30,000 people have lost their lives in the conflict. Energy-rich Azerbaijan, whose military spending exceeds Armenia's entire state budget, has repeatedly threatened to take back the breakaway region by force. jar/bw (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Serzh Sargsyan",
+      "Armenia",
+      "agent_of"
+    ],
+    [
+      "Serzh Sargsyan",
+      "Armenia",
+      "citizen_of"
+    ],
+    [
+      "Serzh Sargsyan",
+      "Armenian",
+      "citizen_of-x"
+    ],
+    [
+      "Serzh Sargsyan",
+      "Armenia",
+      "head_of_state"
+    ],
+    [
+      "Serzh Sargsyan",
+      "Armenian",
+      "head_of_state-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Azerbaijani",
+      "Azerbaijan",
+      "gpe0"
+    ],
+    [
+      "Armenian",
+      "Armenia",
+      "gpe0"
+    ],
+    [
+      "Baku",
+      "Azerbaijan",
+      "in0"
+    ],
+    [
+      "Baku",
+      "Azerbaijani",
+      "in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Interfax",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Interfax",
+      "Russian",
+      "based_in0-x"
+    ]
+  ]
+}

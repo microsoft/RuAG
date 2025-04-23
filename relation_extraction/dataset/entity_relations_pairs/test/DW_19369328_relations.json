@@ -1,0 +1,65 @@
+{
+  "content": "Lockdown lifted after active shooter false alarm at Andrews military base outside US capital\nA false report of an active shooter at Joint Base Andrews outside Washington, D.C., briefly put the facility on lockdown. The base hosts Air Force One, used by President Obama.\nAn active shooter exercise at Joint Base Andrews was mistaken for a real shooting situation on Thursday morning, triggering a lockdown at the military base that houses the president's aircraft. Joint Base Andrews outside Washington, D.C., issued a \"shelter in place\" order after an active shooter incident was reported at the Malcolm Grow Medical Facility at approximately 9 am local time. The base said on Twitter that there was an active shooter exercise scheduled, but a real active shooter situation was reported. It later cleared the facility. The lockdown delayed the travel of Vice President Joe Biden, who was scheduled to fly to Ohio for a campaign event. The Joint Base Andrews is located in Camp Springs, Maryland, just outside the US capital. The base serves as the home of Air Force One, the US president's aircraft, and is used by other senior government officials.",
+  "relations": [
+    [
+      "Joint Base Andrews",
+      "US",
+      "in0"
+    ],
+    [
+      "Maryland",
+      "US",
+      "in0"
+    ],
+    [
+      "Washington, D.C.",
+      "US",
+      "in0"
+    ],
+    [
+      "Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Malcolm Grow Medical Facility",
+      "US",
+      "in0"
+    ],
+    [
+      "Joe Biden",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Joe Biden",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Joe Biden",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Ohio",
+      "US",
+      "in0"
+    ],
+    [
+      "Camp Springs",
+      "US",
+      "in0"
+    ]
+  ]
+}

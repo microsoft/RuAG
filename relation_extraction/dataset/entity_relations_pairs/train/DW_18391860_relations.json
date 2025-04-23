@@ -1,0 +1,200 @@
+{
+  "content": "Mercedes' Hamilton secures pole for Bahrain Grand Prix\nDefending Formula One world champion Lewis Hamilton has claimed his fourth successive pole of the season in Bahrain. Mercedes teammate Nico Rosberg came third behind Ferrari's Sebastian Vettel.\nHamilton secured his first-ever time on pole in Bahrain after comprehensively outpacing all his rivals in qualifying for Sunday's Bahrain Grand Prix. The British driver, the series leader with two wins from three races, came in 0.411 seconds ahead of German Sebastian Vettel, and more than half a second up on teammate Rosberg, also from Germany. Hamilton, who has had seven previous unsuccessful attempts at pole in Bahrain, laid down a glittering final lap in one minute and 32.571 after setting fastest times in all the qualifying sessions and the day's final practice session. Finn Kimi Raikkonen came in fourth in the second Ferrari, followed by compatriot Valtteri Bottas and Brazilian Felipe Massa for Williams. 'Grateful for the beast' \"I feel great. I feel very happy,\" Hamilton said after the qualifying. \"Obviously coming in to the weekend that was the target to master the track and get the car into an area that I'm happy with. I'm really grateful to have this beast underneath me to attack these corners,\" he added. Saturday's pole is the 42nd of the 30-year-old driver's career. Red Bull's Daniel Ricciardo, Nico Huelkenberg in a Force India, Carlos Sainz Jr. in a Toro Rosso and Romain Grosjean in a Lotus make up the first ten for Sunday's race at the Bahrain International Circuit. tj/kms (dpa, AFP)",
+  "relations": [
+    [
+      "Nico Rosberg",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Nico Rosberg",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Nico Rosberg",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Nico Rosberg",
+      "Mercedes",
+      "member_of"
+    ],
+    [
+      "Nico Rosberg",
+      "Mercedes",
+      "player_of"
+    ],
+    [
+      "Lewis Hamilton",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Lewis Hamilton",
+      "Mercedes",
+      "member_of"
+    ],
+    [
+      "Lewis Hamilton",
+      "Mercedes",
+      "player_of"
+    ],
+    [
+      "Bahrain Grand Prix",
+      "Bahrain",
+      "event_in0"
+    ],
+    [
+      "Sebastian Vettel",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Sebastian Vettel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sebastian Vettel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sebastian Vettel",
+      "Ferrari",
+      "member_of"
+    ],
+    [
+      "Sebastian Vettel",
+      "Ferrari",
+      "player_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Kimi Raikkonen",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Kimi Raikkonen",
+      "Finn",
+      "citizen_of-x"
+    ],
+    [
+      "Kimi Raikkonen",
+      "Ferrari",
+      "member_of"
+    ],
+    [
+      "Kimi Raikkonen",
+      "Ferrari",
+      "player_of"
+    ],
+    [
+      "Valtteri Bottas",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Valtteri Bottas",
+      "Williams",
+      "member_of"
+    ],
+    [
+      "Valtteri Bottas",
+      "Williams",
+      "player_of"
+    ],
+    [
+      "Felipe Massa",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Felipe Massa",
+      "Brazilian",
+      "citizen_of-x"
+    ],
+    [
+      "Felipe Massa",
+      "Williams",
+      "member_of"
+    ],
+    [
+      "Felipe Massa",
+      "Williams",
+      "player_of"
+    ],
+    [
+      "Daniel Ricciardo",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Daniel Ricciardo",
+      "Red Bull",
+      "member_of"
+    ],
+    [
+      "Daniel Ricciardo",
+      "Red Bull",
+      "player_of"
+    ],
+    [
+      "Nico Huelkenberg",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Nico Huelkenberg",
+      "Force India",
+      "member_of"
+    ],
+    [
+      "Nico Huelkenberg",
+      "Force India",
+      "player_of"
+    ],
+    [
+      "Carlos Sainz Jr.",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Carlos Sainz Jr.",
+      "Toro Rosso",
+      "member_of"
+    ],
+    [
+      "Carlos Sainz Jr.",
+      "Toro Rosso",
+      "player_of"
+    ],
+    [
+      "Romain Grosjean",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Romain Grosjean",
+      "Lotus",
+      "member_of"
+    ],
+    [
+      "Romain Grosjean",
+      "Lotus",
+      "player_of"
+    ],
+    [
+      "Bahrain International Circuit",
+      "Bahrain",
+      "in0"
+    ]
+  ]
+}

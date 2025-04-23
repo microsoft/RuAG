@@ -1,0 +1,95 @@
+{
+  "content": "Growing momentum for electric cars\nThe present-day market share for electric vehicles is tiny but growing. Automotive expert Stefan Bratzel tells DW the Dieselgate scandal could give new impetus to e-mobility. But success will not come overnight.\nStefan Bratzel is director of the Center of Automotive Management (CAM) - an independent institute for empirical automotive and mobility research at the University of Applied Sciences (FHDW) in Bergisch Gladbach, Germany. Deutsche Welle: You have published the findings for the first half of this year of an international study of electric mobility. What are the main results? Stefan Bratzel: On the global level, it's a picture of growth. China is fast becoming the leading market. In the first six months, approximately 170,000 electric vehicles were sold there, including buses and light commercial vehicles. The US recorded a slight increase, but a total of only 66,000 electric cars were sold there. In Europe, there's still the major exception of Norway but not much else. For Germany, the record so far has been very sobering. The sales of purely electric vehicles fell as much as 6 percent in the first half. What about the market share for electric cars? How many e-vehicles are there compared with those with conventional internal combustion engines? The market shares is negligible. In Germany, there was a market share of 0.6 percent for electric cars among new car registrations - which could almost be a rounding error. In China, after all, we are already at a level of 1.5 percent. Although this is not much, the rate of increase is enormous - doubling within one year. But China should always be treated with caution, due to fraud and the often poor quality of the vehicles. France, too, is quite respectable, with 1.5 percent of new car registrations being electric cars. Although in some markets we can see there's been a certain amount of growth in market share, but it's still at, so to speak, homeopathic levels. Why haven't electric cars become widespread? I call it the RIP problem: range, infrastructure and price. The customers expect a minimum range of 400-500 kilometers (248-310 miles) from a car. But so far electric cars only cover distances of 150-180 kilometers - in the standard cycle. But, for example, if it's too hot outside and the air conditioning is turned on, that range drops to only 100 kilometers, which is completely insufficient and needs to be significantly increased. As for the infrastructure for charging electric cars, electric mobility is out of the question for anyone who doesn't have a garage with a power connection. Even people who do have a garage like this, but who want to travel a little bit farther, need a dense network of fast-charging stations along the way. While there are smaller efforts being made, including by the German government, they're not nearly enough to solve the problem. As far as price goes, electric cars are still significantly more expensive than comparable vehicles with internal combustion engines, and a lot still needs to happen there. The RIP formula is easy to remember - electric mobility will indeed \"rest in peace\" if these three problems are not solved. We talked about the needs of customers. How important are electric cars to manufacturers? Electric cars are becoming increasingly important for them, and I think this realization is taking hold among manufacturers. The Dieselgate scandal has made it clear that CO2 limits are increasingly difficult to reach. Not least because more and more gas-guzzling SUVs are being sold that emit a higher output of greenhouse gases than comparable vehicles. Manufacturers will not succeed in making their fleets meet ever more stringent air pollution limits without electrification. That's also why VW recently announced it planned to have purely electric vehicles make up one-quarter of its sales by 2025 - and that's only nine years away. Even one or two years ago no-one was thinking in terms of this magnitude, but now they're working on it. Whether these goals are achieved remains to be seen, but the path is at least leading in this direction. Those are ambitious targets. What do you predict will happen? I think in the next few years we will see only slight increases in market share - because of the problems I described. But from 2020 it should gain tremendous momentum. We expect that in 2025 the world every tenth, possibly every eighth vehicle will already be solely electrically powered, with the share increasing. Battery-powered electric mobility is therefore becoming increasingly important. In the long term, fuel cells could become relevant, but there are still much bigger problems to overcome with them. Interview: Klaus Ulrich",
+  "relations": [
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Stefan Bratzel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Stefan Bratzel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Stefan Bratzel",
+      "Center of Automotive Management",
+      "head_of"
+    ],
+    [
+      "Stefan Bratzel",
+      "Center of Automotive Management",
+      "member_of"
+    ],
+    [
+      "Center of Automotive Management",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Center of Automotive Management",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Center of Automotive Management",
+      "Bergisch Gladbach",
+      "based_in2"
+    ],
+    [
+      "Center of Automotive Management",
+      "University of Applied Sciences",
+      "part_of"
+    ],
+    [
+      "University of Applied Sciences",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Applied Sciences",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "University of Applied Sciences",
+      "Bergisch Gladbach",
+      "based_in2"
+    ],
+    [
+      "Bergisch Gladbach",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bergisch Gladbach",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "VW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "VW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

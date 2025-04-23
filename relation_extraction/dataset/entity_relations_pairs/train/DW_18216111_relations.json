@@ -1,0 +1,65 @@
+{
+  "content": "US jury convicts former CIA officer of leaking classified Iran nuclear details\nA United States federal court jury has found a former CIA officer guilty of leaking spy secrets to a journalist. Jeffrey Sterling was accused of leaking details of a failed operation to thwart Iran's nuclear ambitions.\nFollowing three days of deliberations, jurors on Monday convicted 47-year-old Jeffrey Sterling of all nine counts, most of which related to unauthorized disclosure of national defense information. Prosecutors had said Sterling's actions had put lives at risk as well as compromising efforts to deter Iran's contested nuclear plans. Earlier in the day the jurors had informed the judge that they could not reach a unanimous verdict, but they were urged by the judge to keep talking and a few hours later they delivered guilty verdicts. The central issue in the two-week trial was who had told James Risen, a reporter for the New York Times, about the top-secret mission. The plan involved using a CIA asset, a former Russian nuclear engineer nicknamed Merlin, to supply the Iranians with deliberately flawed plans for nuclear weapons, in the hope that Iran would spend years attempting to develop parts which stood no chance of working. The mission was outlined in Risen's 2006 book \"State of War.\" Sterling had been Merlin's case handler. Prosecutors had acknowledged a lack of direct evidence against Sterling, however said there was strong circumstantial evidence against him. They said Sterling believed he had been mistreated by his employer. Defense attorney Barry Pollack said it made more sense for a US congressional staffer at Capitol Hill to have leaked to Risen. The court case against Sterling was delayed for several years because prosecutors were trying to make Risen divulge his sources, which he refused to do. Iran has maintained its nuclear program is for peaceful purposes but the US and its Western allies fear it to be a front for producing nuclear weapons and had targeted Iran with heavy economic sanctions. Following a breakthrough in negotiations in late 2013 which led to an interim deal for limited sanctions relief in exchange for Iran curbing some aspects of its program, negotiations have been underway to reach a long-term agreement by June 30 this year. se/bw (AP, Reuters, dpa)",
+  "relations": [
+    [
+      "CIA",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Jeffrey Sterling",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Jeffrey Sterling",
+      "CIA",
+      "member_of"
+    ],
+    [
+      "Barry Pollack",
+      "Jeffrey Sterling",
+      "advisor_of"
+    ],
+    [
+      "Barry Pollack",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Merlin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "James Risen",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "James Risen",
+      "New York Times",
+      "member_of"
+    ],
+    [
+      "New York Times",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Iranians",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "State of War",
+      "James Risen",
+      "created_by"
+    ]
+  ]
+}

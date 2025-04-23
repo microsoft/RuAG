@@ -1,0 +1,70 @@
+{
+  "content": "Germany: Fire breaks out near train tracks in Siegburg, injuring dozens\nDozens of people were injured after a fire broke out near railroad tracks in the drought-hit town of Siegburg. Dry conditions helped the blaze spread quickly to nearby houses, with firefighters facing a \"wall of fire.\"\nHundreds of firefighters battled for hours on Tuesday to contain a fire that broke out in the western German town of Siegburg, located near the city of Bonn. The fire started in a grassy area near a key railway route, quickly spreading to nearby houses and shutting down rail traffic for several hours. Dozens injured in blaze: At least 28 people were injured in the fire, three of whom were in a serious condition, according to local officials. Among the injured were 20 local residents, three firefighters and five police officers. Over 520 firefighters took part in the operation, with emergency crews using a police water cannon vehicle and a helicopter to control the blaze. Nine houses were severely damaged, with pictures showing some attics caved in. Crews faced 'a wall of fire' The fire broke out near the train tracks in Siegburg, quickly spreading up a bone-dry, grassy embankment towards nearby houses. \"The first responders were basically faced with a wall of fire,\" one fire department spokesperson told news agency dpa. Investigations into the cause of the fire are still ongoing. Local officials earlier said they suspected that sparks from a train traveling on the tracks may have started the blaze, but later emphasized that other factors could have caused the fire. Train traffic halted: A high-traffic train track runs through Siegburg, servicing a busy, high-speed ICE train line that runs from the city of Cologne to Frankfurt. German rail company Deutsche Bahn told travelers in a statement that delays on the Cologne-Frankfurt route could last into Wednesday. Fire aided by drought conditions: An ongoing heat wave and drought in Germany and other areas of Europe contributed to the spread of the massive fire. The heat has hit farmers particularly hard, with numerous crops damaged and poor harvests expected. Temperatures reached 39 degrees Celsius (102 degrees Fahrenheit) in Siegburg on Tuesday with the area seeing little to no rainfall in weeks. \"When it's 39 degrees, these things can spread quickly,\" a fire department spokesperson said. rs/aw (AFP, dpa)",
+  "relations": [
+    [
+      "Siegburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Siegburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bonn",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bonn",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Deutsche Bahn",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Bahn",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "dpa",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "dpa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

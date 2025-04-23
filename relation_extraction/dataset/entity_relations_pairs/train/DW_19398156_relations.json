@@ -1,0 +1,175 @@
+{
+  "content": "Jailed mafia boss Bernardo Provenzano dies in prison, aged 83\nSicilian mafia boss Bernardo Provenzano has died after a long illness. He was considered to be Cosa Nostra's \"boss of bosses\" for years, prior to his 2006 arrest in Corleone.\nThe notorious mafia boss died in prison at the age of 83, the Italian news agency ANSA reported. \"Cosa Nostra\" boss Provenzano had been suffering from Parkinson's disease. He died at the San Paolo hospital in Milan, where he was being treated for bladder cancer. Bernardo Provenzano, 83, was arrested in 2006 in Sicily after spending 43 years on the run. At the time of his arrest he was considered to be one of Italy's most wanted criminals and was given several life sentences in prison. Provenzano, dubbed \"the bulldozer\" or \"the tractor\" for the manner in which he flattened opponents and rivals, was found responsible for multiple murders over the years. Bomb attacks ordered by the mafia boss resulted in the deaths of two top anti-mafia prosecutors in 1992, Giovanni Falcone and Paolo Borsellino. Provenzano was presumed to be the \"capo dei capi\" or the \"boss of bosses\" of the criminal organization, which he reportedly led until his arrest in 2006. A life on the run Provenzano was born in the Sicilian village of Corleone - which later became famed for being associated with the Sicilian mafia in the \"Godfather\" movie trilogy. He reportedly committed his first murder aged 25, when he killed a rival boss. Provenzano's criminal career saw him second-in-command to mafia leader \"Toto\" Riina, who presided over a series of killings of top judges that became a hallmark of Italian life in the 1980s. He became the uncontested head of \"Cosa Nostra\" after Riina was arrested in 1993. The Agence France Press news agency reported that Provenzano is thought to have been involved in arranging Riina's arrest. Under Provenzano's leadership in the 1990s, the group focused on infiltrating Italy's police force as well as getting involved in public works contracts in Sicily, gradually turning the mob into a white-collar industry of illegal activity, and this weakening its dependence on crimes like drug trafficking. The bounty on Provenzano's arrest was said to be some three billion lira at that time, or around 1.5 million euros ($1.65 million). By 2003, the price on his head had risen to 2.5 million euros. Sudden arrest and incarceration Provenzano was finally arrested in a farmhouse in his native village of Corleone near the Sicilian capital Palermo in 2006 after the police received information saying he had undergone an operation for prostate cancer in Marseille, France. A picture from a false ID document helped in leading the police to his hide-out. Provenzano had already been convicted in absentia of more than a dozen murders, including those of Sicily's top two anti-Mafia investigators, Giovanni Falcone and Paolo Borsellino. He was also convicted for a series of bombings which took place in 1993 in Rome, Milan and Florence, including one attack near the Uffizi art gallery. His lawyer Rosalba Di Gregorio cited Provenzano's increasing physical frailty and mental health in several failed attempts to ease the prison his conditions, especially after a failed suicide attempt in 2012. In one of the last pictures taken before his death, Provenzano's ill health was visible. However, Provenzano spent the last decade of his life under condition akin to solitary confinement in a bid to curb his influence from behind bars. Following his death, social media users started sharing the names of some of his victims. ss/msh (AFP, AP, dpa)",
+  "relations": [
+    [
+      "Paolo Borsellino",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Paolo Borsellino",
+      "Italian",
+      "agent_of-x"
+    ],
+    [
+      "Giovanni Falcone",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Giovanni Falcone",
+      "Italian",
+      "agent_of-x"
+    ],
+    [
+      "Bernardo Provenzano",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Bernardo Provenzano",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Bernardo Provenzano",
+      "Cosa Nostra",
+      "head_of"
+    ],
+    [
+      "Bernardo Provenzano",
+      "Cosa Nostra",
+      "member_of"
+    ],
+    [
+      "Cosa Nostra",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Cosa Nostra",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Sicily",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Sicily",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "\"Toto\" Riina",
+      "Cosa Nostra",
+      "head_of"
+    ],
+    [
+      "\"Toto\" Riina",
+      "Cosa Nostra",
+      "member_of"
+    ],
+    [
+      "Corleone",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Corleone",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "ANSA",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "ANSA",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "San Paolo",
+      "Italy",
+      "in0"
+    ],
+    [
+      "San Paolo",
+      "Milan",
+      "in2"
+    ],
+    [
+      "Milan",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Milan",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Agence France Press",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Palermo",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Palermo",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Palermo",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Marseille",
+      "France",
+      "in0"
+    ],
+    [
+      "Rome",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Rome",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Florence",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Florence",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Uffizi",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Uffizi",
+      "Italian",
+      "in0-x"
+    ]
+  ]
+}

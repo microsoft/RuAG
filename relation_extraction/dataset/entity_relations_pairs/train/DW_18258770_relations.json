@@ -1,0 +1,135 @@
+{
+  "content": "Yemen's alarming disintegration\nLong the poorest country in the Arabian Peninsula, Yemen is now in a deep crisis. The collapse of the state - a breeding ground for Islamist terror groups such as al-Qaeda - can no longer be ignored.\nGermany's foreign ministry is not mincing its words: \"Any Germans who may still be in Yemen are urged to leave,\" it said on its website. On Friday, Germany quietly closed its embassy in the capital Sanaa - following the lead of the US, UK, France and Italy. The situation in Yemen is extremely unstable, it said. Unloved new rulers Last week, Shiite Houthi rebels from the northwest of the country seized power in Sanaa. They announced they had deposed Interim President Abed Rabbo Mansur Hadi and dissolved parliament. But their coup lacks widespread support among Yemenis. On the contrary, many Sunnis are protesting loudly against the Houthis' actions, and are arming themselves and joining forces with the terrorist network al-Qaeda. UN Secretary General Ban Ki-moon warned that Yemen was breaking apart before the eyes of the world. The months-long mediation efforts of the United Nations finally appear to have failed. Yemen is facing many problems simultaneously. It is one of the least developed countries in the world. The population is growing rapidly, but most of its 25 million people are desperately poor. Illiteracy and unemployment are widespread and water scarcity is now taking on dramatic proportions. Since the forced resignation of longtime ruler Ali Abdullah Saleh in 2012, violence and serious political unrest have shaken Yemen. The Hadi government was supported by Saudi Arabia, but control of the country gradually slipped out of its grasp. In early 2014, the Houthi rebels launched an offensive, occupied the capital and expanded their control to the south of the country. Battle for supremacy The Houthis are fighting for a share of power. Since the civil war in the 1960s, Shiites have felt marginalized by the Sunni majority. Between 2004 and 2010, the Houthis battled, sometimes for months at a time, with the government forces of President Ali Abdullah Saleh. This was repeatedly followed by a ceasefire. But in the course of the Arab Spring, many tribes allied themselves with the Houthis, along with parts of the army, with many Sunni Islamists and with young people protesting against the president - at least temporarily. Saleh lost the presidency. But he remained in Yemen and was able to hold on to some of his supporters in the military and among the tribes. In the constitutional negotiations that followed, the interests of the Houthis and the formerly independent south were given short shrift. Instead, the Islamist Islah party prevailed. But Islah lost the support of the Saudis, who had turned against the Muslim Brotherhood, which in turn formed the Islah's core. The Shiite Houthis, on the other hand, are backed by Iran - a deeply troubling scenario for the Sunni-dominated Gulf States. Longing for the past The Houthis are now taking advantage of their opponents' weakness and making a bold statement with their advance toward the south. They are now supported by Saleh, who has fallen out with his successor and party comrade Hadi. Saleh hopes to return to power - or at least maintain his influence. For 33 years he was head of state, first of North Yemen, then of the united country. During that time, the situation in Yemen continued to deteriorate. But against the background of the current chaos, some Yemenis now want Ali Abdullah Saleh back.",
+  "relations": [
+    [
+      "Houthis",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "Houthis",
+      "Yemenis",
+      "based_in0-x"
+    ],
+    [
+      "Abed Rabbo Mansur Hadi",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Abed Rabbo Mansur Hadi",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Abed Rabbo Mansur Hadi",
+      "Yemenis",
+      "citizen_of-x"
+    ],
+    [
+      "Abed Rabbo Mansur Hadi",
+      "Yemen",
+      "head_of_state"
+    ],
+    [
+      "Abed Rabbo Mansur Hadi",
+      "Yemenis",
+      "head_of_state-x"
+    ],
+    [
+      "al-Qaeda",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "al-Qaeda",
+      "Yemenis",
+      "based_in0-x"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemenis",
+      "citizen_of-x"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemen",
+      "head_of_state"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemenis",
+      "head_of_state-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Sanaa",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Sanaa",
+      "Yemenis",
+      "in0-x"
+    ],
+    [
+      "Yemenis",
+      "Yemen",
+      "gpe0"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Arab Spring",
+      "Yemen",
+      "event_in0"
+    ],
+    [
+      "Islah",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "Islah",
+      "Yemenis",
+      "based_in0-x"
+    ],
+    [
+      "Saudis",
+      "Saudi Arabia",
+      "gpe0"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Yemenis",
+      "based_in0-x"
+    ]
+  ]
+}

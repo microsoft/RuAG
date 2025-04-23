@@ -1,0 +1,135 @@
+{
+  "content": "The search for the last Nazi henchmen\nIt's a race against time: Germany's Central Office for the Investigation of National Socialist Crimes is looking for more than 50 former concentration camp guards. Even 70 years later, it could still secure convictions.\nHans Lipschis lives in a small placid village in southern Germany. The 93-year-old with thick, horn-rimmed glasses does not like to talk about his past, but investigators believe he may have participated in unspeakable atrocities during World War II. Lipschis worked at the Auschwitz concentration camp between 1941 and 1945, possibly as a guard, and so may have been jointly responsible for thousands of deaths. Lipschis himself says he was only a cook, and had nothing to do with the murders. Over 50 former concentration camp guards are thought to be still alive, according to Germany's Central Office for the Investigation of National Socialist Crimes, and preliminary investigations are to be initiated against all of them. Kurt Schrimm, director of the office, says that investigators have been working on the case against Lipschis for some time, and they cannot give out further details on it because the file has been handed in to state prosecutors in Stuttgart. The office had already brought a case against Lipschis in the 1980s, but the charge of murder could not be proven. If the case comes to trial now, it will be the first time that a suspected concentration camp guard has faced justice since John Demjanjuk. New verdict The trial against Demjanjuk, who worked at the Sobibor death camp, is now seen as a legal turning point. It marked the first time that a non-German subordinate to the National Socialists was sent to court without proof of the defendant having committed any concrete wrongdoing. Nevertheless, a Munich court convicted the Ukrainian in 2011 for complicity in the murder of over 28,000 people. Proof that Demjanjuk had worked as a guard in the camp was enough for the prosecution to win the conviction. In the event, Demjanjuk did not serve his five-year sentence - he appealed, and died before a federal court could confirm the verdict. Now the Office for the Investigation of National Socialist Crimes wants to use that legal precedent to convict other guards, dozens of whom are thought to be still living in Germany. \"We are now working on the assumption that you no longer have to prove that a guard - so, a helper - was involved in the individual murders of one or more prisoners. You simply have to prove that his activities in a death camp helped the entire machinery of death there to function,\" said Schrimm. 'Ridiculous' judiciary But the search for individual henchmen is complicated and laborious. Schrimm's investigators have to sift through archives and old trial records. The office even searches for evidence such as travel documents in Eastern Europe and South America, since Nazi criminals often travelled with International Red Cross papers to escape justice. Not only that, but the office is pressed for time, for many of the suspects are extremely old, making a conviction unlikely. That is why journalist Beate Klarsfeld, who earned a reputation as a \"Nazi hunter\" in post-war Germany, is critical of the new investigations. \"It is making the judiciary ridiculous, because it had the chance to hold good trials,\" she said, adding that she believes it is more important to use memorials to maintain the memory of the crimes committed. Klarsfeld earned fame in 1968 when she slapped West German Chancellor Kurt Georg Kiesinger, a former member of the Nazi party, at a Christian Democratic Union conference and called him to step down as she was escorted away. Remembering the dead But for the relatives of those that died in the concentration camps, the investigations still carry moral weight. \"Justice is of great value, and if the prosecutors now see a chance to bring Lipschis to court, then they should and must do that,\" says Christoph Heubner, vice president of the International Auschwitz Committee. \"The atrocities of Auschwitz do not have a statute of limitations, and those of the camps don't either.\" He dismisses the argument that the perpetrators are too old to stand trial as \"cynical.\" \"No one cared about the age of the children taken to the ovens either,\" he told DW. Kurt Gutmann, a co-plaintiff in the Demjanjuk trial, agrees. \"It brings some satisfaction to live to see something being done, so that the dead aren't forgotten, that someone is still after the criminals even in their old age.\" But as yet it remains unclear if and when Lipschis will stand trial.",
+  "relations": [
+    [
+      "Central Office for the Investigation of National Socialist Crimes",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Central Office for the Investigation of National Socialist Crimes",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Central Office for the Investigation of National Socialist Crimes",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Central Office for the Investigation of National Socialist Crimes",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hans Lipschis",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hans Lipschis",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Kurt Schrimm",
+      "Central Office for the Investigation of National Socialist Crimes",
+      "head_of"
+    ],
+    [
+      "Kurt Schrimm",
+      "Central Office for the Investigation of National Socialist Crimes",
+      "member_of"
+    ],
+    [
+      "Nazi",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Nazi",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "World War II",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Stuttgart",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Stuttgart",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "National Socialists",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "National Socialists",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kurt Georg Kiesinger",
+      "West German",
+      "citizen_of-x"
+    ],
+    [
+      "Kurt Georg Kiesinger",
+      "West German",
+      "head_of_gov-x"
+    ],
+    [
+      "Christian Democratic Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democratic Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christoph Heubner",
+      "International Auschwitz Committee",
+      "head_of"
+    ],
+    [
+      "Christoph Heubner",
+      "International Auschwitz Committee",
+      "member_of"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

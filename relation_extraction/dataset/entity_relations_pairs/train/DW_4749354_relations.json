@@ -1,0 +1,150 @@
+{
+  "content": "Romania's shaky coalition government collapses\nRomania's center-left coalition government has collapsed after a group of Social Democrat ministers resigned in protest over the firing of the country's interior minister.\nAfter months of an uneasy cohabitation with its centrist Liberal Democrat (PDL) partners, left-leaning Social Democratic Party (PSD) leader Mircea Geoana said on Thursday that nine ministers from his party had quit the government \"in solidarity\" with Interior Minister, Dan Nica. The move ends the shaky nine-month tenure of a coalition consumed by bickering and corruption allegations just before presidential elections scheduled for November 22. Nica was fired by Prime Minister Emil Boc on Monday over comments he made about potential fraud in the run-up to the November poll. Nica's comments were widely interpreted as an accusation that Boc's Liberal Democrats might try to cheat to get President Traian Basescu re-elected. As an interim solution, Nica was replaced by Development Minister Vasile Blaga, who is the PDL campaign chief and a close ally of Basescu. Geoana has blamed the president for the crisis, saying \"nothing was sacred\" to him to ensure he wins another term in office. Coalition had a whole laundry list of problems Divisions between the PDL and PSD have festered since the beginning of the year after the Social Democrats accused President Basescu of interfering in the government decision-making process. Also in January, the PSD's interior minister, Gabriel Oprea, resigned in a dispute over the appointment of an intelligence officer considered too close to the coalition partners. In February, the newly appointed Liviu Dragnea quit the same post, citing insufficient funds allocated to his ministry. In September, Prime Minister Boc threatened to fire the leftist education minister unless she withdrew a controversial decision to allow political appointments in the education sector. Boc said the decision contradicted principles of newly adopted IMF-mandated legislation to reform the country's ailing education system. At the same time, the Social Democrats slammed massive job cuts planned by the government as part of a 20-billion-euro ($29 billion) IMF aid package, saying it would oppose the implementation of such a move. PSD support for parliamentary inquiries investigating PDL ministers Monica Iacob-Ridzi for fraud and Elena Udrea for abuse of power prompted the centrists to ask the PSD whether they wanted to be in government or in the opposition. As it stands now, with the presidential election in November, voters will have the option of sending a signal on which party should do what. gb/dpa/AFP/Reuters/AP Editor: Michael Lawton",
+  "relations": [
+    [
+      "Liberal Democrats",
+      "Romania",
+      "based_in0"
+    ],
+    [
+      "Social Democratic Party",
+      "Romania",
+      "based_in0"
+    ],
+    [
+      "Dan Nica",
+      "Romania",
+      "agent_of"
+    ],
+    [
+      "Dan Nica",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Dan Nica",
+      "Romania",
+      "minister_of"
+    ],
+    [
+      "Mircea Geoana",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Mircea Geoana",
+      "Social Democratic Party",
+      "head_of"
+    ],
+    [
+      "Mircea Geoana",
+      "Social Democratic Party",
+      "member_of"
+    ],
+    [
+      "Traian Basescu",
+      "Romania",
+      "agent_of"
+    ],
+    [
+      "Traian Basescu",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Traian Basescu",
+      "Romania",
+      "head_of_state"
+    ],
+    [
+      "Emil Boc",
+      "Romania",
+      "agent_of"
+    ],
+    [
+      "Emil Boc",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Emil Boc",
+      "Romania",
+      "head_of_gov"
+    ],
+    [
+      "Vasile Blaga",
+      "Romania",
+      "agent_of"
+    ],
+    [
+      "Vasile Blaga",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Vasile Blaga",
+      "Romania",
+      "minister_of"
+    ],
+    [
+      "Gabriel Oprea",
+      "Romania",
+      "agent_of"
+    ],
+    [
+      "Gabriel Oprea",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Gabriel Oprea",
+      "Romania",
+      "minister_of"
+    ],
+    [
+      "Liviu Dragnea",
+      "Romania",
+      "agent_of"
+    ],
+    [
+      "Liviu Dragnea",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Liviu Dragnea",
+      "Romania",
+      "minister_of"
+    ],
+    [
+      "Monica Iacob-Ridzi",
+      "Romania",
+      "agent_of"
+    ],
+    [
+      "Monica Iacob-Ridzi",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Monica Iacob-Ridzi",
+      "Romania",
+      "minister_of"
+    ],
+    [
+      "Elena Udrea",
+      "Romania",
+      "agent_of"
+    ],
+    [
+      "Elena Udrea",
+      "Romania",
+      "citizen_of"
+    ],
+    [
+      "Elena Udrea",
+      "Romania",
+      "minister_of"
+    ]
+  ]
+}

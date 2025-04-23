@@ -1,0 +1,65 @@
+{
+  "content": "Unnecessary protection? YouTube's 'LGBT filter'\nYouTube's \"restricted\" mode aims to keep children and young people from seeing inappropriate content. But harmless videos by members of the LGBT community are also being blocked.  \nThe British video blogger Rowan Ellis was one of the first to notice the problem. If you scroll down to the bottom of a page on YouTube and click on \"restricted mode,\" lots of videos dealing with gay, lesbian, bi- or transsexual issues are no longer visible. \"In that mode, there are 40 of my videos you can't see,\" she says. These include a video she made with her father in which he gives tips to other parents on how to support their lesbian, gay, bi- or transsexual child. YouTube introduced the \"restricted\" function in 2010. The company says it's intended primarily as an aid for institutions such as schools to help them control content. YouTube said in an official statement that, once the mode is activated, videos that are obscene or violent or deal with \"certain illnesses such as addiction or eating disorders\" should no longer be searchable. And it works - rather too well, unfortunately. Many videos labeled with the keywords \"gay,\" \"lesbian,\" \"transsexual\" or \"bisexual\" are also categorized as \"possibly inappropriate\" when the user is in restricted mode. Or, to put it another way: They can't be viewed. Only seven videos not blocked The German non-profit organization queerblick e.V. is among those affected. Only seven out of a total of 462 videos on the organization's channel are still available once the restricted mode has been activated. YouTube's algorithm evaluates as \"possibly inappropriate\" videos with titles such as \"Coming out as trans,\" \"Nic tells his story,\" or \"Pickled cucumbers and a liter of milk – Michelle on the interview couch.\" Paul Klammer, co-founder of the organization and a member of its board, only realized what was happening once the debate had kicked off in the US and Britain. \"It is quite a blow,\" he told DW. As for what makes the seven unblocked videos different from the other 455, he really couldn't say. Klammer, a science journalist, founded the organization in 2009 along with a couple of friends, with the aim of offering other young people some authentic role models. At the time, the number of LGBT videos available online was very limited, and co-founder Falk Steinborn, also a journalist and a media trainer, established as part of his PhD research that young LGBT people wished there were more videos online that addressed themes relevant to them. Honored by the Family Ministry - blocked by YouTube Their YouTube channel now has almost 38,000 subscribers, and the project has received numerous awards, most recently from the German Ministry for Family Affairs. The videos the organization publishes on its YouTube channel are all made under the guidance of professional media trainers. \"The videos address the worries and needs of young people that age, particularly people who are gay, lesbian, bi- or transexual,\" says Paul Klammer. The organization also broadcasts its videos on German television, on the local educational channel nrwision. However, as Klammer explains, YouTube is much more important when it comes to getting them out to a wider audience. YouTuber Rowan Ellis also emphasizes the importance of YouTube for people who are confused about their sexual identity. \"There are a lot of people, both young and old, who are very afraid and don't feel at home in their bodies. These people have often been helped by online videos, because they couldn't talk about it to anyone,\" Ellis told DW. Apology from YouTube Some 23,500 people have subscribed to Ellis's channel, and in Britain she's an official YouTube ambassador. \"I know they do take the issue of diversity seriously; a lot of people in the company have done a lot in this area,\" she says. However, it makes her furious that her videos have been blocked, yet at the same time extremely insulting comments are publicly visible underneath them when the filter is deactivated. \"I had to ask 10 guest moderators to help me as I couldn't get through the comments fast enough,\" she says. So far, the company has made hardly any comment. There was just one short blog entry on a blog aimed specifically at YouTube producers. In response to an enquiry from DW, the parent company, Google, confirmed that there have been no other statements on the subject so far. In the statement, YouTube admits that the function isn't working as it's supposed to: \"We're sorry, and we'll put that right,\" it said. However, several days have passed since that announcement and nothing has happened. The company has just removed a few selected videos from the restricted mode filter bubble. Hashtag: The YouTubeIsOverParty YouTube has said that only 1.5 percent of the videos watched on the channel are viewed in restricted mode – but that they understand this is \"a matter of principle.\" However, for YouTuber Rowan Ellis and many other users this admission is not enough. They've initiated the Twitter hashtag #YouTubeIsOverParty to call on people to work together to set up a new platform. Because, as Ellis points out, there isn't really an alternative to YouTube. \"It's not intended as a call for a boycott; it's more of a symbolic appeal,\" she says. \"And we'll keep saying it loud until YouTube makes some changes.\" Paul Klammer and his organization queerblick also say they don't want to take any action on this for the time being. \"YouTube is the platform that made LGBT bloggers and producers big in the first place, and it's always supported them,\" he said. Nonetheless, he too is demanding that the filter be revised: \"LGBT people are a part of the world we live in - whether or not they're ignored online.\"",
+  "relations": [
+    [
+      "YouTube",
+      "Google",
+      "part_of"
+    ],
+    [
+      "Rowan Ellis",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Rowan Ellis",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Paul Klammer",
+      "queerblick e.V.",
+      "head_of"
+    ],
+    [
+      "Paul Klammer",
+      "queerblick e.V.",
+      "member_of"
+    ],
+    [
+      "Ministry for Family Affairs",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Ministry for Family Affairs",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "queerblick e.V.",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Falk Steinborn",
+      "queerblick e.V.",
+      "head_of"
+    ],
+    [
+      "Falk Steinborn",
+      "queerblick e.V.",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "content": "In Argentina, red wine exports to balance Porsche imports\nAbout 100 Porsches are imported to Argentina each year. Now the country wants to keep a positive trade balance by having the value of the imported luxury cars matched by red wine exports.\nPorsche is currently enjoying record profits after a two-year downturn, but the export-reliant company has hit a pothole in Argentina. Buenos Aires-based Porsche importer Grupo Pulenta has signed an agreement obligating it to export several hundred bottles of red wine for each car it imports, the Argentine government announced Wednesday. Grupo Pulenta declined to comment when contacted by Deutsche Welle. Job creation During the past year, Argentina has held thousands of high-end vehicles in customs until companies agreed to export goods valued at the same amount. Most of those vehicles came from Germany. According to a spokeswoman for the Argentine embassy in Berlin, the country has been trying to safeguard domestic employment with a positive trade balance. \"Our government has negotiated with automakers to balance their imports of cars with an equivalent amount of exports,\" she told Deutsche Welle in a statement. \"Since March 2010 we have been working with the automakers and importers in order to increase local integration and reduce the trade deficit in this sector.\" Small market A Porsche spokesman said the company sells just short of 100 vehicles into Argentina each year. That compares to more than 40,000 sold worldwide during five months in 2010. \"For Porsche, Argentina is a rather small market,\" the spokesman told Deutsche Welle. \"Our importer, the Pulenta Group, also deals in wine. They have their own vineyards and export that wine. It has nothing to do with Porsche - we just have an import contract with them, and it seems they've found an individual solution with the Argentine government.\" Domestic production Volkswagen, which has an Argentine subsidiary producing the new \"Amarok\" pickup truck and transmissions, has thus far avoided mandatory exports. The company had reported an export surplus of 384 million euros ($545 million) for this year. Porsche's holding company owns 32.2 percent of Volkswagen, and the Porsche brand is intended to become integrated into Volkswagen's lineup. Daimler and BMW also have subsidiaries in Argentina. While Daimler produces its \"Sprinter\" there, BMW only imports to the country. According to the Argentine embassy in Berlin, the country has recently sought more domestic production by foreign car companies. Author: Gerhard Schneibel (dpa) Editor: John Blau",
+  "relations": [
+    [
+      "Grupo Pulenta",
+      "Argentina",
+      "based_in0"
+    ],
+    [
+      "Grupo Pulenta",
+      "Argentine",
+      "based_in0-x"
+    ],
+    [
+      "Grupo Pulenta",
+      "Buenos Aires",
+      "based_in2"
+    ],
+    [
+      "Buenos Aires",
+      "Argentina",
+      "in0"
+    ],
+    [
+      "Buenos Aires",
+      "Argentine",
+      "in0-x"
+    ],
+    [
+      "Argentine",
+      "Argentina",
+      "gpe0"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Volkswagen",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Amarok",
+      "Volkswagen",
+      "product_of"
+    ],
+    [
+      "Daimler",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "BMW",
+      "Argentina",
+      "based_in0"
+    ],
+    [
+      "BMW",
+      "Argentine",
+      "based_in0-x"
+    ],
+    [
+      "Sprinter",
+      "Daimler",
+      "product_of"
+    ]
+  ]
+}

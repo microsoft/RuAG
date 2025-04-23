@@ -1,0 +1,120 @@
+{
+  "content": "US to deploy hundreds of Marines to Afghanistan\nThe US will send 300 Marines to train Afghan forces in the embattled Helmand province, adding to nearly 10,000 US troops still in the country. The Taliban claimed most of the opium-making region after NATO withdrawal.\nThe troops are set to be deployed in spring of 2017 as a part of NATO's advise-assist mission, the US Marine Corps announced on Friday. A 300-person force, led by a brigadier general, would \"train and advise key leaders\" within Afghanistan's security forces in the southern Helmand region. Both the Afghan army and the police are struggling to contain the Taliban insurgency, which took large swaths of territory by storm after NATO ended combat missions in 2014. The Taliban currently hold around 85 percent of the Helmand province and launch attacks on the remaining districts. The region is known for its massive opium trade. \"The Marine Corps has an operational history in Afghanistan, particularly in Helmand province,\" the officials said in the statement, adding that the Marines \"will assist in preserving gains made together with the Afghans.\" Opium output grows Although no foreign troops are currently fighting the Taliban, the United States still keeps nearly 10,000 troops in the war-torn nation under the so-called Resolute Support mission. While the Obama administration made plans to reduce this number in 2017, the fate of the mission is unclear as US President-elect Donald Trump prepares to take office later this month. US officials believe that the Taliban cooperate with opium traffickers in the embattled province, with criminal networks aiding the insurgency. Last month, the chief US and NATO commander in Afghanistan, John Nicholson, stated that Kabul directly controls some 64 percent of the Afghan population, 4 percent less compared to his September estimate. The UN estimated that Afghanistan's opium production rose sharply during 2016. dj/sms (dpa, AFP)",
+  "relations": [
+    [
+      "Marine Corps",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Marine Corps",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghans",
+      "based_in0-x"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Helmand",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Helmand",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Helmand",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "Afghans",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Resolute Support",
+      "Afghanistan",
+      "event_in0"
+    ],
+    [
+      "Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "John Nicholson",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "John Nicholson",
+      "NATO",
+      "head_of"
+    ],
+    [
+      "John Nicholson",
+      "NATO",
+      "member_of"
+    ],
+    [
+      "Kabul",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kabul",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Kabul",
+      "Afghans",
+      "in0-x"
+    ]
+  ]
+}

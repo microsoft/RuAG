@@ -1,0 +1,100 @@
+{
+  "content": "Italy's navy to patrol with Libyan ships to curb human trafficking\nItaly wants to work more closely with Libya to limit the number of sea crossings by migrants and potential asylum seekers. But what are the consequences?\nItaly's prime minister, Paolo Gentiloni, does not want to wait any longer for EU countries to show solidarity in distributing asylum seekers throughout the bloc. On Thursday he announced in Rome that the Italian navy would be patrolling with Libyan ships just off the Libyan coastline. The aim, Gentiloni says, is to curb human trafficking and bring migrants back from the smugglers' boats to Libya. According to the Italian government's figures, 93,000 migrants have arrived in Italy so far this year. At least 2,000 have drowned in the attempt to cross the Mediterranean - the true figure is unknown. Italy has already threatened to stop allowing boats carrying rescued migrants to dock in Italian ports, or that it may issue migrants with documents that would allow them to travel on to other European countries. Rome has not yet implemented either policy, but the government has made clear that Italy will soon run out of options. The EU Commissioner for Migration Dimitris Avramopoulos acknowledged, again, in Brussels on Thursday that \"Europe continues to face high migratory pressures. And Italy more than (almost) any others.\" The European Commission issued a letter offering more aid and personnel to help manage migration better. Accommodation will soon be full The office of the UN High Commissioner for Refugees, Filippo Grandi, wrote at the beginning of July that \"Close to 200,000 accommodation places are available for refugees and migrants across [Italy], but are nearly all full.\" The High Commissioner referred particularly to the numbers of people dying when he warned, \"What is happening in front of our eyes in Italy is an unfolding tragedy.\" The United Nations anticipates that another 100,000 migrants will come to Italy via Libya before the end of this year. The number of arrivals is already 20 percent higher than last year; and the number of dead, those who could not be saved, would rise accordingly. According to UN estimates, the Mediterranean remains the \"deadliest\" refugee route in the world. Italian government statistics say that around 600,000 people have arrived in Italian ports since the start of the crisis in 2014. It is unclear how many have since traveled on to Austria, France or Switzerland. Once migrants are registered in Italy and accommodated in camps, they are not held there. If, however, they leave the accommodation without giving notice, they forfeit their claim to subsistence and social services. Most of the migrants are from African countries, and many try to travel on to France, for example. 300 people are currently sleeping on the beach in Ventimiglia, on the French border, hoping to take a bus or train to France. However, the border is being policed by French officials. Migrants who are caught are sent back to Italy. Austria has announced that it too will close its border with Italy if the number of migrants starts to rise. Repatriation and distribution are difficult Last year 120,000 new asylum applications were made in Italy. Around 50 percent of these are rejected. The asylum seekers are then supposed to leave the country. However, the process of people either returning voluntarily or being deported is very slow. The interior ministry has therefore announced that it will reinforce repatriation programs. The redistribution of asylum seekers from Italy, as agreed by the European Union, is well behind target. Two years ago the aim was to resettle 120,000 people. So far, only 24,676 people have been redistributed, the EU Commission said on Thursday: 7,873 from Italy, and 16,803 from Greece. The numbers are low not just because of the reluctance of other EU countries to take the refugees in, but also because of Italian delays in the registration of possible candidates. Asylum seekers from Eritrea are the most likely to fulfill the criteria for redistribution. Around 25,000 are currently living in Italy, but only 10,000 have been registered with the EU Commission and the European Asylum Support Office as possible candidates. Migration Commissioner Avramopoulos has announced that Italy will be given more help and logistical support in this area.",
+  "relations": [
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Paolo Gentiloni",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Paolo Gentiloni",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Paolo Gentiloni",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Paolo Gentiloni",
+      "Italy",
+      "head_of_gov"
+    ],
+    [
+      "Paolo Gentiloni",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Dimitris Avramopoulos",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Libyan",
+      "Libya",
+      "gpe0"
+    ],
+    [
+      "Rome",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Rome",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Filippo Grandi",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Filippo Grandi",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Ventimiglia",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Ventimiglia",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "European Asylum Support Office",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Asylum Support Office",
+      "European Union",
+      "part_of"
+    ]
+  ]
+}

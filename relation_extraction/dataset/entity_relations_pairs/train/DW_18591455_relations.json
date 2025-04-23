@@ -1,0 +1,50 @@
+{
+  "content": "Number of fake euros in Germany at all-time high\nNew data show an all-time high in the number of counterfeit euros in Germany. But it's still not a huge problem: The average German would have to live for 800 years to come into possession of a single fake banknote.\nThe German central bank, or Bundesbank, has released a report saying that about 50,500 fake banknotes with a total value of 2.2 million euros ($2.4 million) had been registered in the first half of 2015. That's an increase of 31 percent over the second half of 2014, and it's two and a half times as many bogus banknotes as were registered two years earlier, in the second half of 2013. Also on Friday, the European Central Bank (ECB) said that worldwide 454,000 fake euro banknotes had been withdrawn from circulation in the first six months of 2015 - the second highest amount since the introduction of the euro, but still less than in the first half of last year. The Bundesbank examines about 15 billion banknotes each year, searching for counterfeits. Statistically, given the number of counterfeit notes it finds, that means there are about 12 fake banknotes in circulation per 10,000 residents of Germany. The same data can be used to work out that an average German would have to live for eight centuries in order to happen across a single fake euro banknote, according to Carl-Ludwig Thiele, who is the chief of the Bundesbank's cash provision section. Nevertheless, the counterfeiting trend has been sharply upward over the past couple of years, and so the Eurosystem and the police are determined to increase their efforts to shut down counterfeiters, the Bundesbank reported. A key measure has been the introduction of new banknotes that are more difficult to counterfeit - a second series that replaces the banknotes the eurozone has used since the year 2000. Redesigned 5- and 10-euro banknotes are already in circulation; a new 20-euro banknote will come off the presses starting November 25. \"The 20- and 50-euro banknotes of the first series were counterfeited particularly often,\" Thiele said. The data show that 41 percent of all counterfeit notes were 20-euro notes, and 48 percent were 50-euro notes. The number of counterfeit coins, in contrast, has declined sharply recently. In the first half of 2015, about 14,500 fake coins were found; in the second half of 2014, about 26,000 had been found. How to check a banknote's authenticity The Bundesbank warns retailers and others who handle a lot of cash that they should screen for counterfeit notes before accepting payments, because there is no compensation for fake banknotes. \"The authenticity of a banknote can be tested by a procedure of 'feel-see-tilt' quite readily,\" said Thiele. In examining a banknote, several security features should be scanned, because the authenticity of euro banknotes can best be verified in the interplay of the various features: One can feel the texture of embossed lettering on their front side, as follows: In the older (first) euro banknote series, one finds the legend \"BCE ECB EZB EKT EKP\" at the top. In the newer banknotes, one finds the legend \"BCE ECB EЦБ EZB EKP EKT EKB BĊE EBC\" and additional stripes on the right and left edges. The watermarks can be seen in the unprinted area by holding a banknote up to the light. The hologram image changes when the banknote is tilted. On the back, pearly-sheened stripes (in denominations up to 20 euros) or shifting colors of the right value number (denominations from 50 euros upward) can be checked by tilting the banknote. In addition, the new \"Europe series\" euro banknotes have an \"emerald number\": By tilting the banknote, one can see the color change, and a bright bar is seen to move up or down. When examining a suspect banknote, it's helpful to compare it to an undoubtedly genuine banknote - in particular, one that was obtained by withdrawal from an ATM.",
+  "relations": [
+    [
+      "Bundesbank",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundesbank",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundesbank",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundesbank",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Carl-Ludwig Thiele",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Carl-Ludwig Thiele",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Carl-Ludwig Thiele",
+      "Bundesbank",
+      "head_of"
+    ],
+    [
+      "Carl-Ludwig Thiele",
+      "Bundesbank",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

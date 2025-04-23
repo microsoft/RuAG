@@ -1,0 +1,140 @@
+{
+  "content": "AmCham survey reveals investment worries\nThe American Chamber of Commerce in Germany has released its annual survey of US companies in Europe's largest economy. It shows US executives are satisfied with Germany, but don't see it as innovative as it could be.\nFord is the biggest US company in Germany based on sales, while McDonald's is the US company with the most employees in the country, a survey says. The auto maker did 17.5 billion euros ($19.6 billion) in German business last year, topping the American Chamber of Commerce in Germany (AmCham)'s annual Top 50 ranking of US companies active in Germany. While the names of companies like Ford, Apple and Amazon come as no surprise, there were some changes to the rankings that may have been unexpected. For example, the second-largest company in Germany based on sales revenue in 2014 is now General Motors, through its Opel division - a company it came close to selling in 2009. It moves up one position. Rounding out the top five are ExxonMobil, Amazon, and Phillips 66, which runs Jet service stations in Germany. American jobs for German workers McDonald's 60,000 employees earned the fast-food chain the leading position in the Top 30 list of US employers in the country. That was nearly three times as many employees as second-ranked Ford's 23,000. Opel, Manpower and UPS were the next biggest US employers in Germany, all only slightly behind Ford. Alongside the rankings is a survey on Germany as an investment location. The results suggest US companies are generally satisfied with Germany, ranking the investment climate very good - even slightly better than last year. \"The perception of Germany as a business location is good. However, the figures show that 2014 was a year of reluctance regarding investment,\" Bernhard Mattes, President of AmCham Germany, who is also chairman of the management board at Ford's European operations. \"Germany continues to be important for US companies. However, it also needs to remain ambitious and be open to changes in spite of its economic strength. We need innovation and progress. In order to achieve this, the German government has to create the right conditions for doing business, companies have to spur innovation and society needs to confront changes with interest.\" Worries about the future The survey, conducted in collaboration with management consultancy Accenture, said the most important factors in retaining Germany's attractiveness as a place to do business were securing a highly-qualified workforce (64 percent), accelerating the country's digital transformation (50 percent), concluding the TTIP free-trade negotiations (46 percent), and ensuring the future of the EU's single market. Eight out of ten respondents said they believe TTIP would have a positive impact on transatlantic research cooperation. Only 16 percent said it would have little effect. But innovation is an area of concern. Some 62 percent of the US companies surveyed said the US was the clear leader in innovation, compared to 28 percent for Germany and 4 percent for China. But they expected the US and China to stand on an equal footing in a decade's time.",
+  "relations": [
+    [
+      "American Chamber of Commerce in Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "American Chamber of Commerce in Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ford",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Ford",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "McDonald's",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "McDonald's",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Apple",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Apple",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Amazon",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Amazon",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "General Motors",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "General Motors",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Opel",
+      "General Motors",
+      "part_of"
+    ],
+    [
+      "ExxonMobil",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ExxonMobil",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Phillips 66",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Phillips 66",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jet",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Jet",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Manpower",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Manpower",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "UPS",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "UPS",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bernhard Mattes",
+      "American Chamber of Commerce in Germany",
+      "head_of"
+    ],
+    [
+      "Bernhard Mattes",
+      "American Chamber of Commerce in Germany",
+      "member_of"
+    ]
+  ]
+}

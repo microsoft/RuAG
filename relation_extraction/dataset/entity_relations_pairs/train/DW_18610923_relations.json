@@ -1,0 +1,90 @@
+{
+  "content": "Swedish military investigating report of Russian submarine wreck\nDivers have reportedly located the wreck of what could potentially be a Russian submarine off the east coast of Sweden. Authorities have reacted cautiously to the discovery and are examining footage of the wreck.\nThe Swedish military is examining video taken by shipwreck divers purporting to show the wreckage of a Russian submarine just off the eastern coast of Sweden, officials said Monday. The find comes less than a year after Swedish authorities tried unsuccessfully to locate a reported Russian submarine near the capital of Stockholm. The search marked the country's biggest military mobilization since the Cold War. Authorities reacted with caution to the discovery Monday, with Armed Forces spokesman Anders Kallin refusing to say whether the military believed the vessel was Russian. \"We choose not to comment on it before we have seen more material. We will continue the analysis together with the company in the coming days,\" Kallin said. Another military spokesman, Jesper Tengroth, said that it was also too early to say for sure if the find was indeed a submarine. He added that it was better \"to come back with facts rather than speculation,\" and that there was no particular hurry \"because the wreck was not going anywhere.\" Ocean X Team, the diving company that discovered the wreck said on its website the Cyrillic letters on the hull of the craft \"indicate that it is Russian.\" It is unclear how old the vessel is or how long it has been lying on the ocean floor. The vessel is about 20 meters long and 3.5 meters wide, according to Ocean X Team. Officials did not provide the exact location of the wreck, but the Expressen tabloid, which published images of the reported submarine on its website, said it was found about 2.8 kilometers off the east coast of central Sweden. The discovery comes amid renewed concerns about possible incursions by Russian submarines into Western territorial waters and as tensions with Moscow continue to rise over events in Ukraine. Sweden built up an anti-submarine force after a Soviet sub with nuclear weapons ran aground off its southern shores in 1981. Toward the end of the Cold War, the Nordic country sought to destroy suspected Soviet submarines and the Swedish navy periodically carried out searches in its waters. But since then, its anti-submarine program has gradually been dismantled. bw/lw (AP, Reuters, AFP)",
+  "relations": [
+    [
+      "Armed Forces",
+      "Sweden",
+      "agency_of"
+    ],
+    [
+      "Armed Forces",
+      "Swedish",
+      "agency_of-x"
+    ],
+    [
+      "Armed Forces",
+      "Sweden",
+      "based_in0"
+    ],
+    [
+      "Armed Forces",
+      "Swedish",
+      "based_in0-x"
+    ],
+    [
+      "Anders Kallin",
+      "Sweden",
+      "citizen_of"
+    ],
+    [
+      "Anders Kallin",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Anders Kallin",
+      "Armed Forces",
+      "member_of"
+    ],
+    [
+      "Anders Kallin",
+      "Armed Forces",
+      "spokesperson_of"
+    ],
+    [
+      "Swedish",
+      "Sweden",
+      "gpe0"
+    ],
+    [
+      "Stockholm",
+      "Sweden",
+      "in0"
+    ],
+    [
+      "Stockholm",
+      "Swedish",
+      "in0-x"
+    ],
+    [
+      "Jesper Tengroth",
+      "Sweden",
+      "citizen_of"
+    ],
+    [
+      "Jesper Tengroth",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Jesper Tengroth",
+      "Armed Forces",
+      "member_of"
+    ],
+    [
+      "Expressen",
+      "Sweden",
+      "based_in0"
+    ],
+    [
+      "Expressen",
+      "Swedish",
+      "based_in0-x"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ]
+  ]
+}

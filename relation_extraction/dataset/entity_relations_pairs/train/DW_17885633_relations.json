@@ -1,0 +1,205 @@
+{
+  "content": "Özel: 'Erdogan doesn't care about laws'\nRecep Tayyip Erdogan is going to meddle with Turkish domestic and foreign politics despite his role as president traditionally being a politically neutral one, says political scientist and columnist Soli Özel.\nDW: Why did Recep Tayyip Erdogan choose Ahmet Davutoglu as his successor as prime minister and chairman of his Justice and Development Party (AKP)? Soli Özel: It was Erdogan's goal to get rid of politicians who had their own power base within the AKP. Ahmet Davutoglu represents a \"new generation.\" He doesn't have even close to the standing in the party that would allow for an unchallenged position. You can rest assured that there was a deal between Erdogan and Davutoglu. Davutoglu is going to be a far weaker prime minister compared to Erdogan. Is Erdogan going to weaken his own party in the long run by appointing Davutoglu? It would be impossible for anyone to replace someone like Erdogan. As far as next year's parliamentary elections are concerned: Since Erdogan doesn't care about laws anyway, he is going to massively interfere in election campaigns and act as if he was still the AKP's chairman. How are the new Turkish government's policies going to differ from previous administrations? Erdogan will especially be able to exert his influence when it comes to foreign policy. If Hakan Fidan, the head of Turkey's intelligence service and one of Erdogan's closest allies, becomes foreign minister, Erdogan is also going to meddle with foreign affairs - there has never been something like that! [Turkey's] foreign policy of the past years is really nothing to be proud of. Just look at how [Turkey] deals with IS fighters. At least we are giving them a hard time now to a certain extent. When it comes to Israel, there had been efforts to approach one another again. But the Gaza conflict has destroyed these plans again. Relations with the United States are tense, but one has to say that the US probably doesn't have any other choice than to work closely with Turkey. Relations to Egypt are a different story: they will probably remain damaged for the long term. Has Turkey's recent foreign policy damaged Turkey's image abroad? You can see how badly Turkey's reputation has been damaged by looking at the guest list for the president's inauguration ceremony. It really isn't the vanguard of international politics. It will take a while until Erdogan can travel to other countries. In the end, he will of course do that. Countries have relations with one another, regardless of whether the heads of state like each other on a personal level. Erdogan has managed to get on the bad side of many Arab as well as European states. On the other hand, countries are going to have to receive him. As far as relations with the European Union are concerned: Turkey's reputation resembles more that of Hungary than that of Croatia. Do you think Turkey's international image is threatened in the long run? Turkey is quite fortunate and has a unique geographical position. That's one of its biggest advantages. That means as long as Turkey remains a NATO member, and as long as there are many problems in Turkey's neighboring countries, Turkey is going to play an important role. What does the Turkish opposition do in order to stand up to the AKP? The opposition doesn't do anything. And it won't do anything until next elections are over. Maybe it's going to pull itself together after the next elections. But Turkey's political landscape won't change in the long run. I'm referring particularly to the Republican People's Party (CHP) and the Nationalist Movement Party (MHP) - these institutionalized opposition parties. They simply don't have any meaning. How do you assess the role of the new pro-Kurdish People's Democratic Party (HDP)? The HDP is still limited in its political scope of action by its political roots. I think presidential candidate Selahattin Demirtas campaigned well. Despite the fact that he had very little financial resources, he managed to get almost 10 percent of the votes. That's quite impressive. This result is likely not going to be replicated in next year's parliamentary elections. But it showed that there is potential for a new political power in Turkey in the future. What do you make of the role of outgoing President Abdullah Gul in this political power game of the past months? He's missed a great chance to develop his own position in Turkey's political landscape. He is now being chased out of office in a very dishonorable way. Erdogan wanted to keep him from becoming prime minister. That's why this election was scheduled in a way that Gul wasn't able to participate, since he was still president. That's really a disrespectful treatment of a president. In the end, this only fuels my suspicion that Erdogan doesn't allow anyone who could potentially turn into a competitor near him. Soli Özel is a professor of international relations at Istanbul's Kadir Has University. He also works as a political advisor and has his own column in Turkey's daily \"Haberturk.\"",
+  "relations": [
+    [
+      "Republican People's Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Republican People's Party",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Justice and Development Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Justice and Development Party",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Nationalist Movement Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Nationalist Movement Party",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Soli Özel",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Soli Özel",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Soli Özel",
+      "Kadir Has University",
+      "member_of"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "head_of_gov"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkish",
+      "head_of_gov-x"
+    ],
+    [
+      "People's Democratic Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "People's Democratic Party",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Hakan Fidan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Hakan Fidan",
+      "Turkish",
+      "agent_of-x"
+    ],
+    [
+      "Hakan Fidan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Hakan Fidan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Selahattin Demirtas",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Selahattin Demirtas",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Istanbul",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Istanbul",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Kadir Has University",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Kadir Has University",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Kadir Has University",
+      "Istanbul",
+      "based_in2"
+    ],
+    [
+      "Haberturk",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Haberturk",
+      "Turkish",
+      "based_in0-x"
+    ]
+  ]
+}

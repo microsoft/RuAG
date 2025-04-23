@@ -1,0 +1,175 @@
+{
+  "content": "Opinion: Duterte presidency is a threat to democracy\nRodrigo Duterte's victory in the presidential election is a crushing defeat for the country's political establishment and poses a gargantuan challenge for democracy in the Philippines, writes DW's Thomas Latschan.\nSometimes politics in the Philippines can be an enigma: Less than two months ago, people were celebrating in the streets of Manila. In late February 2016, hundreds of thousands of Filipinos gathered at the Epifanio de los Santos Avenue, or EDSA for short. They commemorated the overthrow of the Marcos regime exactly 30 years ago, at the precise location, where the masses had revolted against dictatorship and the reign of violence. Today, again, people are celebrating on the streets of the island nation, hailing a 71-year old who calls himself \"the Punisher.\" He is someone who promises to wage a \"bloody war\" on crime and plans to hunt down and kill criminals. He promises easy solutions for the enormous and complex problems plaguing the country, while repeatedly stating that democratic values didn't count for him as long as he would achieve his goals. \"Forget the law and human rights,\" Rodrigo Duterte has shouted to his supporters. According to him, parliament has to be dissolved, if its members stand in his way. He would impose martial law instead and install a \"revolutionary government.\" But how could it come to this? Poverty, corruption and crime At the beginning of the campaign, nobody would have thought Duterte could win. Skillfully, he positioned himself as an outsider of the political establishment. The more blatant his remarks, the bigger the crowd attending his speeches became. Duterte's election victory is a rebuff for the ruling elites in Manila. That's because, in 30 years of democracy, they have failed to solve the biggest problems of the country - widespread poverty, rampant corruption and everyday crime. This failure fueled the people's longing for a strong man, a savior or, if salvation wouldn't come, a \"punisher.\" This outcome must be particularly painful for the outgoing President Benigno Aquino, under whose watch the country experienced rapid economic growth - averaging over six percent. But a majority of the population didn't benefit from the robust expansion. And the progress was too slow for them. At the same time, poverty remains widespread - with over a quarter of the population living on approximately a dollar a day. Aquino made progress in terms of reducing poverty. And World Bank President Jim Yong Kim described his government as the most zealous in fighting corruption. However, this resulted in corruption scandals being now discussed more openly and fervently than before. And it led to rising public anger and frustration at the ruling political class; and this popular disgust was tapped into by \"the punisher.\" In addition, the crime rate in the country has remained high under Aquino, while the judicial system continues to be weak and conviction rates remain low. And even the victims of the atrocities committed during the Marcos-era are still awaiting justice. In a country where the population is on average 23 years old, most people have no recollection of the horrors of the dictatorship. Instead, many have lost their confidence in the rule of law and democracy. Moreover, many young Filipinos - feeling deprived of economic opportunities - yearn for change. Only when seen through this lens can one explain why the people rest their hopes on a man who is even rumored to be working with death squads. It is this amalgam of everyday frustration combined with a lack of awareness of history, which turned an unelectable candidate into a socially acceptable figure. Threat of polarization That's why not all Filipinos are celebrating today, as only a segment of the electorate voted for the hardliner Duterte. The Philippine law allows him to declare victory and become president even though he won just 38 percent of the vote. But the majority is still against him, and the country faces the threat of a polarization of its society. A lot will ultimately depend on who wins the race for vice-president. In that contest, the liberal candidate Leni Robredo is leading her opponent, the son of the former dictator Marcos, by a tiny margin. Should Marcos still win, then two designated autocrats would be leading the country. Nevertheless, the coming years will prove to be a severe test for democracy and the rule of law in the Philippines. Have something to say? Add your comments below.This comment thread closes automatically in 24 hours.",
+  "relations": [
+    [
+      "Epifanio de los Santos Avenue",
+      "Philippines",
+      "in0"
+    ],
+    [
+      "Epifanio de los Santos Avenue",
+      "Manila",
+      "in2"
+    ],
+    [
+      "Rodrigo Duterte",
+      "Philippines",
+      "agent_of"
+    ],
+    [
+      "Rodrigo Duterte",
+      "Philippines",
+      "citizen_of"
+    ],
+    [
+      "Rodrigo Duterte",
+      "Filipinos",
+      "citizen_of-x"
+    ],
+    [
+      "Rodrigo Duterte",
+      "Philippine",
+      "citizen_of-x"
+    ],
+    [
+      "Rodrigo Duterte",
+      "Philippines",
+      "head_of_state"
+    ],
+    [
+      "Rodrigo Duterte",
+      "Filipinos",
+      "head_of_state-x"
+    ],
+    [
+      "Rodrigo Duterte",
+      "Philippine",
+      "head_of_state-x"
+    ],
+    [
+      "Benigno Aquino",
+      "Philippines",
+      "agent_of"
+    ],
+    [
+      "Benigno Aquino",
+      "Philippines",
+      "citizen_of"
+    ],
+    [
+      "Benigno Aquino",
+      "Filipinos",
+      "citizen_of-x"
+    ],
+    [
+      "Benigno Aquino",
+      "Philippine",
+      "citizen_of-x"
+    ],
+    [
+      "Benigno Aquino",
+      "Philippines",
+      "head_of_state"
+    ],
+    [
+      "Benigno Aquino",
+      "Filipinos",
+      "head_of_state-x"
+    ],
+    [
+      "Benigno Aquino",
+      "Philippine",
+      "head_of_state-x"
+    ],
+    [
+      "Thomas Latschan",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Manila",
+      "Philippines",
+      "in0"
+    ],
+    [
+      "Manila",
+      "Filipinos",
+      "in0-x"
+    ],
+    [
+      "Manila",
+      "Philippine",
+      "in0-x"
+    ],
+    [
+      "Filipinos",
+      "Philippines",
+      "gpe0"
+    ],
+    [
+      "Marcos",
+      "Philippines",
+      "agent_of"
+    ],
+    [
+      "Marcos",
+      "Philippines",
+      "citizen_of"
+    ],
+    [
+      "Marcos",
+      "Filipinos",
+      "citizen_of-x"
+    ],
+    [
+      "Marcos",
+      "Philippine",
+      "citizen_of-x"
+    ],
+    [
+      "Marcos",
+      "Philippines",
+      "head_of_state"
+    ],
+    [
+      "Marcos",
+      "Filipinos",
+      "head_of_state-x"
+    ],
+    [
+      "Marcos",
+      "Philippine",
+      "head_of_state-x"
+    ],
+    [
+      "Jim Yong Kim",
+      "World Bank",
+      "head_of"
+    ],
+    [
+      "Jim Yong Kim",
+      "World Bank",
+      "member_of"
+    ],
+    [
+      "Philippine",
+      "Philippines",
+      "gpe0"
+    ],
+    [
+      "Leni Robredo",
+      "Philippines",
+      "citizen_of"
+    ],
+    [
+      "Leni Robredo",
+      "Filipinos",
+      "citizen_of-x"
+    ],
+    [
+      "Leni Robredo",
+      "Philippine",
+      "citizen_of-x"
+    ]
+  ]
+}

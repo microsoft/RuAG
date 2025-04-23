@@ -1,0 +1,85 @@
+{
+  "content": "Tuaregs continue their advance in Mali\nTuareg fighters have now captured three major cities in Northern Mali and now control almost the entire region. The country's military seem powerless to halt the advance of these nomadic fighters.\nIssa Dicko runs a writing course in the Malian capital of Bamako. He is a native of Timbuktu, the ancient city 800 kilometers (498 miles) northeast of the nation's capital. Following Gao and Kidal, Timbuktu is the latest major city to be captured by Tuareg forces, the MNLA. Dicko says his people are fighting for more autonomy. \"The Tuaregs used to control the whole Sahara and were organized in confederations, each with its own government. Every organization was politically and socially autonomous,\" he said. With this unique form of self-governance and their traditional nomadic lifestyle, the Tuaregs have struggled for generations under the influence of the state, and the demands placed on them. The low point was the forced settlement of Tuaregs which started shortly after Mali achieved independence in 1960. A history of uprisings Tuaregs first rose up against the state in 1990. Back then the MNLA rebels were powerless against a much better equipped national army. Yehia Ag Mohamed Ali is the national coordinator of a German government-run project to develop the region around Timbuktu. He can remember those times well. \"Back then a peace pact was agreed with the military, but no actual conditions were put in place. In 2006 there was a second revolt. And now we have a new rebellion, the likes of which we haven't seen before.\" One thing seems clear about this new conflict, though - the Tuareg army is much stronger than Mali's military forces. In fact, the March military coup came about for exactly this reason. The soldiers were angry at being sent to the north as cannon fodder and turned on the government. The military also have obsolete equipment and are poorly trained. That isn't the case with the MNLA troops. Yehia Ag Mohamed Ali is uncertain who is giving the Tuaregs their financial backing. \"Does the money come from drug dealing? Does it come from the Libyan government? That's also possible,\" he thinks. The Tuaregs and al Qaeda Some even think the MNLA's financing could come from al Qaeda. Al Qaeda in the Islamic Maghreb (AQIM) is certainly increasing its presence in the Sahara. The group is believed to have kidnapped a number of Europeans last November. Still, Issa Dicko doesn't believe that there is a link between the two organizations. Mainly because their goals are so different. \"What benefits does al Qaeda get from partnering up with the Tuareg?\" he asks. \"The Tuareg are a nomadic people with camels and goats. The Tuaregs have never fought a battle to convert others to Islam.\" The overthrow of the Malian government could ultimately help the Tuaregs. Ousted Malian president Amadou Toumani Toure didn't pay much attention to the fate of this minority group, which makes up about one tenth of the country's population of 14 million. With the coup leaders now in power, the Tuaregs may well have more chance of getting what they want. After all, the new regime in Bamako is no doubt keen to see an end to the conflict. Author: Katrin Gänsler / al Editor: Susan Houlton / rm",
+  "relations": [
+    [
+      "Issa Dicko",
+      "Mali",
+      "citizen_of"
+    ],
+    [
+      "Issa Dicko",
+      "Malian",
+      "citizen_of-x"
+    ],
+    [
+      "Timbuktu",
+      "Mali",
+      "in0"
+    ],
+    [
+      "Timbuktu",
+      "Malian",
+      "in0-x"
+    ],
+    [
+      "Malian",
+      "Mali",
+      "gpe0"
+    ],
+    [
+      "Bamako",
+      "Mali",
+      "in0"
+    ],
+    [
+      "Bamako",
+      "Malian",
+      "in0-x"
+    ],
+    [
+      "Gao",
+      "Mali",
+      "in0"
+    ],
+    [
+      "Gao",
+      "Malian",
+      "in0-x"
+    ],
+    [
+      "Kidal",
+      "Mali",
+      "in0"
+    ],
+    [
+      "Kidal",
+      "Malian",
+      "in0-x"
+    ],
+    [
+      "Amadou Toumani Toure",
+      "Mali",
+      "agent_of"
+    ],
+    [
+      "Amadou Toumani Toure",
+      "Mali",
+      "citizen_of"
+    ],
+    [
+      "Amadou Toumani Toure",
+      "Malian",
+      "citizen_of-x"
+    ],
+    [
+      "Amadou Toumani Toure",
+      "Mali",
+      "head_of_state"
+    ],
+    [
+      "Amadou Toumani Toure",
+      "Malian",
+      "head_of_state-x"
+    ]
+  ]
+}

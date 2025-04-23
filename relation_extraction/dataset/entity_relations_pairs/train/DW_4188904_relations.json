@@ -1,0 +1,215 @@
+{
+  "content": "German Social Democrats pledge more money for low-income earners\nLeaders of Germany's Social Democratic Party (SPD) have unanimously approved an election manifesto ahead of September's federal poll, hoping the promise of more cash will win over voters.\nKey points of the center-left SPD's platform are tax cuts and state handouts for low-income groups and families with children. These promises would be partly financed by a tax on the rich and a levy on stock transactions. \"We know that crisis management is necessary, and that is the core of this program,\" the Social Democrats' candidate for the chancellery, Foreign Minister Frank-Walter Steinmeier, told journalists on Saturday, April 18. The SPD is seeking to distance itself from Chancellor Angela Merkel's conservative Christian Democrats (CDU) as Germany's two coalition partners gear up for a parliamentary election on Sept. 27. This year's election campaign is expected to be dominated by the fallout from the financial crisis, which has hit key sectors of German industry and put tens of thousands of workers on reduced hours with less pay. Other key issues for the SPD will be a move to ban the right-extremist National Democratic Party (NPD), as well as a complete phasing out of nuclear energy by 2021. The Social Democrats have also promised to prevent the privatization of Germany's national rail operator Deutsche Bahn until the next election. The much-disputed initial private offering planned for last year was put on hold due to the slide in global markets. Turn to the left? The party platform, which Steinmeier will officially unveil on Sunday, includes a 300-euro ($390) tax rebate for people on low wages, in return for not filing a tax return. The SPD says the plan will not just help low-income earners, but also help cut red tape. But the proposal has already generated ridicule from opposition parties on Thursday, when the German daily Sueddeutsche Zeitung leaked the plans. Chairman for the Christian Social Union party's association of small and medium businesses, Hans Michelbach, said the bonus would hinder rather than help. He said it would only complicate people's taxes, and labeled it \"the worst form of rip-off.\" Secretary-general from the business-oriented Free Democratic Party, Dirk Niebel, described the scheme as typically socialist. His deputy, Carl-Ludwig Thiele, said the rebate would give tax authorities the added task of monitoring whether taxpayers applying for the bonus were earning a secondary income. The Social Democrats are also proposing to reduce the lowest-income tax bracket by four points to a rate of 10 percent. Families with children would also receive a 200-euro tax break. The measures would be financed by an increase in the top tax bracket - raising it to 47 percent for people with incomes of 125,000 euros and more, as well as a half-percent levy on stock exchange transactions. The party estimates their economic plans would generate 5 billion euros in extra revenue. The campaign trail begins The Social Democrats currently share power with their main political rival, Chancellor Angela Merkel's Christian Democrats (CDU), in a right-left \"grand-coalition.\" Both sides, however, seem ready to sever ties after September's election, although influential voices in both camps argue that, especially in difficult times, the grand coalition is the most prudent option. The conservative CDU opposes tax increases on the wealthy and wants to lower income taxes after the poll. \"Tax increases during a time of economic crisis is simply irresponsible,\" CDU campaign manager Ronald Pofalla said last week. \"Tax increases are poison for the economy and would endanger jobs.\" The SPD currently trails the CDU by about eight percentage points.",
+  "relations": [
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "National Democratic Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "National Democratic Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democratic Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democratic Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "head_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Deutsche Bahn",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Bahn",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Sueddeutsche Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Sueddeutsche Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Social Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Social Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hans Michelbach",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hans Michelbach",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hans Michelbach",
+      "Christian Social Union",
+      "member_of"
+    ],
+    [
+      "Free Democratic Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Free Democratic Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dirk Niebel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Dirk Niebel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Dirk Niebel",
+      "Free Democratic Party",
+      "head_of"
+    ],
+    [
+      "Dirk Niebel",
+      "Free Democratic Party",
+      "member_of"
+    ],
+    [
+      "Carl-Ludwig Thiele",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Carl-Ludwig Thiele",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Carl-Ludwig Thiele",
+      "Free Democratic Party",
+      "head_of"
+    ],
+    [
+      "Carl-Ludwig Thiele",
+      "Free Democratic Party",
+      "member_of"
+    ],
+    [
+      "Ronald Pofalla",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ronald Pofalla",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ronald Pofalla",
+      "Christian Democrats",
+      "head_of"
+    ],
+    [
+      "Ronald Pofalla",
+      "Christian Democrats",
+      "member_of"
+    ]
+  ]
+}

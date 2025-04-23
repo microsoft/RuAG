@@ -1,0 +1,215 @@
+{
+  "content": "Press review: 'American god of arms insatiable'\nFollowing the mass shooting at a Connecticut primary school, most commentators in Europe agree that stricter gun laws are necessary in the United States. But they also agree that such changes are unlikely to happen soon.\n\"The American god of arms is insatiable,\" the Italian newspaper La Repubblica wrote, referring to the latest massacre in the United States: the shooting of 20 children and six adults at a primary school in Newtown in Connecticut. A \"shocking and horrifying\" event, according to The Guardian. \"The time and the place of these massacres inevitably catch us unawares.\" But, the British newspaper continued: \"The fact that another mass shooting has occurred is not shocking, any more than the last one was, or the next one will be.\" Americans, the Guardian wrote, \"are no more prone to mental illness or violence than any other people in the world. What they do have is more guns: roughly, 90 for every 100 people.\" And regions and states with higher rates of gun ownership have higher rates of homicides, the newspaper stressed. The London-based Economist agreed and drew the conclusion that the only effective gun control is \"no guns.\" For \"having few guns means that few people get shot.\" The Economist made a comparison with Great Britain where, following \"a couple of horrible mass shootings, handguns have been effectively banned.\" Firearms-ownership is onerous, involving a lot of paperwork, the Economist explained, and it's hard to get ammunition. The result: \"In 2008-2009, there were 39 fatal injuries from crimes involving firearms in England and Wales...In America, there were 12,000 gun-related homicides in 2008.\" “In the aftermath of every shooting, the debate (on more restrictive gun laws) reignites, but little will happen,\" the German newspaper Süddeutsche Zeitung lamented while pointing to the influence of the National Rifle Association (NRA), a \"powerful weapons' lobby.\" In order to safeguard its economic interests, the NRA \"frames the possession of weapons as a cultural singularity, which needs to be saved and defended.\" And kind of reform or criticism of existing laws \"is branded by the NRA as attack on civil liberties,\" the paper opined. The French newspaper Le Monde pointed out the fact that US President Barack Obama is unable to push for stricter laws without the support of Congress: \"Up to now, Republican opposition to federal laws regulating the sale of arms has made reforms impossible.\" Spain's El Mundo editorialized that the \"'inculture' of violence\" is deeply engrained in American society \"and fed by the arms' lobby which, let us be clear, has bought off three-quarters of the North American Congress, including a good handful of Democrats.\" The NRA is investing more money than ever, the newspaper wrote. \"The 'gunpowder lobby's' guns are well oiled and for nothing in the world would they allow that laws that aim to strengthen the control of arms turn into a hot topic.\" El Mundo ended with the bleak conclusion that \"nothing is going to change.\"",
+  "relations": [
+    [
+      "The Guardian",
+      "Great Britain",
+      "based_in0"
+    ],
+    [
+      "The Guardian",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Newtown",
+      "United States",
+      "in0"
+    ],
+    [
+      "Newtown",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Newtown",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "National Rifle Association",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "National Rifle Association",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "National Rifle Association",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Connecticut",
+      "United States",
+      "in0"
+    ],
+    [
+      "Connecticut",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Connecticut",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "La Repubblica",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "Great Britain",
+      "gpe0"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "London",
+      "Great Britain",
+      "in0"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Economist",
+      "Great Britain",
+      "based_in0"
+    ],
+    [
+      "Economist",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Economist",
+      "London",
+      "based_in2"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Le Monde",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Congress",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Republican",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Republican",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Republican",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "El Mundo",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Democrats",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Democrats",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Democrats",
+      "Americans",
+      "based_in0-x"
+    ]
+  ]
+}

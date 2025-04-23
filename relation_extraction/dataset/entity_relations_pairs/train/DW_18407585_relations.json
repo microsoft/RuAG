@@ -1,0 +1,85 @@
+{
+  "content": "Canadian judge grants bail to ex-Guantanamo detainee\nA Canadian judge has granted bail to a former Guantanamo inmate while he fights his conviction in a Washington court for war crimes, including killing a US soldier. Omar Khadr could get his next breath of freedom May 5.\nA Canadian court has granted bail pending appeal to the former Guantanamo detainee Omar Khadr. He was captured at the age of 15 in 2002 on a battlefield in Afghanistan and sent to the US prison on Cuban territory. Judge June Ross had ruled that Khadr had a strong basis for appealing the sentence that would otherwise last until 2018 and that keeping him behind bars would not serve the public interest. \"Omar is fortunate to be back in Canada, where we have real courts and real laws,\" Nate Whitling, one of Khadr's lawyers, said on Friday In 2010, after he had already spent eight years in prison, Khadr received an eight-year sentence from a US military commission after agreeing to a plea deal that stipulated that he would serve only one year of his sentence at the US naval base. He has since said he only pleaded guilty to get out of Guantanamo and return to Canada. The commission convicted Khadr on five counts, including throwing the grenade that killed a sergeant in the US Army during a 2002 firefight. Khadr was the first person since World War Two prosecuted in a war crimes tribunal for acts committed as a juvenile. His attorneys had requested bail pending an appeal before the US Court of Military Commission Review. Khadr's attorneys said his father, Ahmed Said Khadr - an alleged al Qaeda financier who once brought the family to stay with Osama bin Laden during Omar's childhood - had pushed the teenager into war. Egypt-born, Ahmed died with other Qaeda operatives in 2003. In February, a US commission overturned the terrorism conviction of an Australian inmate at Guantanamo. 'A normal life' Canada's government argues that Ross had no jurisdiction to hear Khadr's application. Giving him bail would undermine international relations and obligations, government attorneys argued. They added that Ross should have taken into account the fact that Khadr had pleaded guilty to serious offenses. Dennis Edney, one of Khadr's attorneys, told CBC that he and his wife invited Khadr to stay at their home in Edmonton. Edney and his wife have also offered to pay Khadr's tuition at a local Christian college. \"He will go to school,\" Edney told CBC on Friday. \"He will continue his education. He will probably find some part-time employment. He will live a normal life.\" The continued presence of the US military prison on Cuban territory has proved a troublesome point in negotiations between the two nations toward normalizing relations. mkg/sms (Reuters, AFP, AP)",
+  "relations": [
+    [
+      "Nate Whitling",
+      "Ahmed Said Khadr",
+      "child_of"
+    ],
+    [
+      "June Ross",
+      "Canada",
+      "agent_of"
+    ],
+    [
+      "June Ross",
+      "Canadian",
+      "agent_of-x"
+    ],
+    [
+      "Guantanamo",
+      "Cuban",
+      "in0-x"
+    ],
+    [
+      "Ahmed Said Khadr",
+      "al Qaeda",
+      "member_of"
+    ],
+    [
+      "Ahmed Said Khadr",
+      "Nate Whitling",
+      "parent_of"
+    ],
+    [
+      "Canadian",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "US Army",
+      "US",
+      "agency_of"
+    ],
+    [
+      "US Army",
+      "US",
+      "based_in0"
+    ],
+    [
+      "US Court of Military Commission Review",
+      "US",
+      "agency_of"
+    ],
+    [
+      "US Court of Military Commission Review",
+      "US",
+      "based_in0"
+    ],
+    [
+      "CBC",
+      "Canada",
+      "based_in0"
+    ],
+    [
+      "CBC",
+      "Canadian",
+      "based_in0-x"
+    ],
+    [
+      "Edmonton",
+      "Canada",
+      "in0"
+    ],
+    [
+      "Edmonton",
+      "Canadian",
+      "in0-x"
+    ]
+  ]
+}

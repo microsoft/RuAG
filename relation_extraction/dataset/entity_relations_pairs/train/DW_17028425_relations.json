@@ -1,0 +1,155 @@
+{
+  "content": "Muslim Brotherhood detainees die in Egypt prison convoy\nPolice have cracked down on inmates en route to an Egyptian prison, according to officials. Dozens of detainees were reported dead. Authorities said police were trying to stop an escape by Muslim Brotherhood followers.\nAn alleged prison break sparked a violent reaction from security forces, according to Egyptian media on Sunday evening. Police used force when inmates in a transfer convoy north of Cairo began rioting and attempting to escape, officials said. The official MENA news agency has reported that gunmen attempted to free prisoners during the transfer. Thirty-six Muslim Brotherhood members died in the clash, according to MENA, a figure later confirmed by police. The Interior Ministry said they had died through suffocation from tear gas as police tried to free an officer being held hostage in a van. However, one legal source told the news agency Reuters that the men had died of asphyxiationin cramped conditions during the journey. The news of violence against members of the Islamist group follows several days of police crackdowns on protesters in cities across Egypt. Supporters of ousted and detained President Mohammed Morsi have been demonstrating against the forced removal of protesters from sit-ins on Wednesday, which left more than 600 people dead. Since the crackdown began on Wednesday, some 800 people have died in clashes across Egypt. Police have arrested roughly 1,000 people in connection with this week's protests, according to state media. Of those, about 250 face charges of murder, attempted murder and terrorism. Pro-Brotherhood protesters calling for the release of Morsi took to the streets of Cairo, but were prevented from gathering outside the country's Constitutional Court as they had planned. Other marches took place across the country, including the central Fayyoum province and the Minya province in the south. The protests ended as a dusk-to-dawn curfew declared by the army went into force. At a gathering of military leaders on Sunday, Interim Defense Minister General Abdel-Fatah el-Sissi called for the inclusion of the former president's Islamist supporters in Egypt's political future. El-Sissi had led the July 3 coup that removed Mohammed Morsi from power. \"There is room for everyone in Egypt,\" el-Sissi said, according to the army's official Facebook page. However, the general also cautioned that \"we will not stand by silently watching the destruction of the country and the people or the torching of the nation and terrorizing of the citizens.\" kms,rc/ch (AP, AFP, Reuters)",
+  "relations": [
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "head_of_state"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egyptian",
+      "head_of_state-x"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "MENA",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "MENA",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Abdel-Fatah el-Sissi",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Abdel-Fatah el-Sissi",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Abdel-Fatah el-Sissi",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Abdel-Fatah el-Sissi",
+      "Egypt",
+      "minister_of"
+    ],
+    [
+      "Abdel-Fatah el-Sissi",
+      "Egyptian",
+      "minister_of-x"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "Cairo",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Cairo",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Egypt",
+      "agency_of"
+    ],
+    [
+      "Interior Ministry",
+      "Egyptian",
+      "agency_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Interior Ministry",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Egypt",
+      "ministry_of"
+    ],
+    [
+      "Constitutional Court",
+      "Egypt",
+      "agency_of"
+    ],
+    [
+      "Constitutional Court",
+      "Egyptian",
+      "agency_of-x"
+    ],
+    [
+      "Constitutional Court",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Constitutional Court",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Fayyoum",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Fayyoum",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Minya",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Minya",
+      "Egyptian",
+      "in0-x"
+    ]
+  ]
+}

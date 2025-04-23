@@ -1,0 +1,230 @@
+{
+  "content": "Schalke and Bremen limp into Champions League fixtures\nTwo of Germany's Champions League representatives are beginning to fray at the edges at home. Both Schalke and Werder lost last weekend, but they may have different approaches to European competition.\nThe Champions League is meant to separate the men from the boys. Football connoisseurs enjoy pointing out that it is superior in quality to the World Cup, and no less an authority than Real Madrid coach Jose Mourinho has said it is the best competition in the world. But then he would, seeing as how he’s won it twice. But in the group stages at least, the gulf between Europe's rich and poor leagues often belies this claim, and Germany's representatives in this season's Champions League seem to be finding Europe's best of the best a lot easier to cope with than unglamorous mid-table sides like Nuremberg. Bayern Munich, last season's Champion's League finalists, have only just broken into the top half of the table, but they are three from three in their easy European group. But it is Schalke, led by veteran coach Felix Magath and spear-headed on the pitch by Spanish star Raul, who are best at showing up what a questionable test the Champions League group stages really are. Schalke are second from bottom in the league, having scraped together six points from 10 games - the exact same total they have notched up in their three Champions League matches, thanks to routine wins against Portugal's Benfica and Israel's Hapoel Tel Aviv. Another win in Tel Aviv on Tuesday and they will be well on their way out of the group. Superficial glory But there are of course many other factors at play. As Magath never tires of pointing out, Schalke are struggling with new signings and a new system, and somehow the glamour and much-mooted 'magic' of Europe seems to lift veterans like Raul, the Champions League’s all-time top scorer. The short-term glory of a much-needed win in Europe is a balm for many sorrows. After Raul put two past Hapoel a couple of weeks ago, there was much optimistic talk of \"transferring\" that form to the league, but Saturday's 1-0 home defeat to local rivals Leverkusen ended with the players being booed off the pitch, and now Schalke face the real prospect of replacing their dead title dreams with a relegation battle. That is not much fun for internationally experienced stars like Manuel Neuer, Klaas-Jan Huntelaar and Christoph Metzelder, and Magath sounded pessimistic after the game. \"We have players who are used to playing for the top. That's why they can't cope with the situation,\" newspaper Bild quoted Magath as saying. \"The performance didn’t match our current position in the standings. We have to try to avoid a tight situation at the bottom of the table.\" Mid-table struggle For Werder Bremen, the problem is more subtle. Their league form is not good either, and they also just lost at home, to a solid but average Nuremberg. But their attacking line-up featuring the likes of Claudio Pizarro, Hugo Almeida, and Marko Marin are always good for a few goals, and they have at least consolidated mid-table status. In Europe, though, they face a scrap. Tuesday sees them host Dutch champions FC Twente, and the match is pretty much a do-or-die tie for both teams - they are both on two points, behind second-placed Tottenham Hotspur, who have four. A defeat would signify pretty much the end of the competition for Werder, and a draw does neither team much good. Werder's frame of mind going into the match is pessimistic. \"The only chance we still have is getting three points,\" Marin said after Saturday's game. \"But that will be difficult. The mood in the dressing room is not good.\" Team captain Torsten Frings was livid after the defeat on Saturday. \"We're just being too careless with the situation,\" he said, after railing against his team-mates as the final whistle went. But he does not see the Champions League match as a distraction, but a chance. \"It’s a good opportunity to take a big step forward,\" he said. The combination of having a fight on their hands, along with the fact that they will have something to prove to the Weserstadion faithful, means they may well pull off a win against Twente. Werder have more European experience, and home advantage should see them get past the Dutch side, whom they held to a 1-1 draw in the Netherlands. For Schalke, meanwhile, the Champions League needs to be an afterthought. Author: Ben Knight Editor: Matt Hermann",
+  "relations": [
+    [
+      "Hapoel Tel Aviv",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Hapoel Tel Aviv",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "Champion's League",
+      "appears_in"
+    ],
+    [
+      "Schalke",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Schalke",
+      "Hapoel Tel Aviv",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "Benfica",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "Hapoel Tel Aviv",
+      "won_vs"
+    ],
+    [
+      "Schalke",
+      "Benfica",
+      "won_vs"
+    ],
+    [
+      "Werder Bremen",
+      "Champion's League",
+      "appears_in"
+    ],
+    [
+      "Werder Bremen",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Werder Bremen",
+      "FC Twente",
+      "vs"
+    ],
+    [
+      "Felix Magath",
+      "Schalke",
+      "coach_of"
+    ],
+    [
+      "Felix Magath",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "FC Twente",
+      "Netherlands",
+      "based_in0"
+    ],
+    [
+      "FC Twente",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "FC Twente",
+      "Werder Bremen",
+      "vs"
+    ],
+    [
+      "Marko Marin",
+      "Werder Bremen",
+      "member_of"
+    ],
+    [
+      "Marko Marin",
+      "Werder Bremen",
+      "player_of"
+    ],
+    [
+      "Real Madrid",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Jose Mourinho",
+      "Real Madrid",
+      "coach_of"
+    ],
+    [
+      "Jose Mourinho",
+      "Real Madrid",
+      "member_of"
+    ],
+    [
+      "Nuremberg",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bayern Munich",
+      "Champion's League",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Raul",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Raul",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Benfica",
+      "Portugal",
+      "based_in0"
+    ],
+    [
+      "Benfica",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Tel Aviv",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Leverkusen",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Manuel Neuer",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Manuel Neuer",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Christoph Metzelder",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Christoph Metzelder",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Claudio Pizarro",
+      "Werder Bremen",
+      "member_of"
+    ],
+    [
+      "Claudio Pizarro",
+      "Werder Bremen",
+      "player_of"
+    ],
+    [
+      "Hugo Almeida",
+      "Werder Bremen",
+      "member_of"
+    ],
+    [
+      "Hugo Almeida",
+      "Werder Bremen",
+      "player_of"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ],
+    [
+      "Torsten Frings",
+      "Werder Bremen",
+      "member_of"
+    ],
+    [
+      "Torsten Frings",
+      "Werder Bremen",
+      "player_of"
+    ],
+    [
+      "Weserstadion",
+      "Germany",
+      "in0"
+    ]
+  ]
+}

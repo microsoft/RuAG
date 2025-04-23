@@ -1,0 +1,95 @@
+{
+  "content": "Merkel praises Franco-German cooperation a hundred years after Battle of Verdun\nGerman Chancellor Angela Merkel has hailed Franco-German cooperation ahead of the centenary commemorations of the Battle of Verdun. Merkel said that despite differences the two neighbors' policies align.\nMerkel said in her weekly podcast that the French invitation to attend the ceremonies honoring the dead from Battle of Verdun highlighted the degree of trust and cooperation between two neighbors that fought two bloody wars in the 20th century. \"To be invited to these commemorations shows the extent to which relations between France and Germany are good today,\" said Merkel, who will join French President Francois Hollande on Sunday at Verdun to remember the 350,000 killed in senseless fighting during one of the bloodiest battles of WWI. The German Chancellor said the Franco-German experience of working to build a united Europe showed that despite occasional differences of opinion compromises can be forged. She cited cooperation during the euro-crisis as an example. \"Again and again Germany and France have a common position,\" Merkel said. The comments come as France and Germany seek to tackle persistent economic woes, the bloc's border security, counter terrorism, and prevent a British exit from the EU, among other issues. \"Europe faces difficult tasks, there is no doubt about that,\" the German leader said. \"Europe has problems, but Europe has also done and achieved many things.\" cw/jm (AFP, dpa)",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Franco",
+      "France",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Hollande",
+      "Franco",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Francois Hollande",
+      "Franco",
+      "head_of_state-x"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Verdun",
+      "France",
+      "in0"
+    ],
+    [
+      "Verdun",
+      "Franco",
+      "in0-x"
+    ],
+    [
+      "Verdun",
+      "French",
+      "in0-x"
+    ]
+  ]
+}

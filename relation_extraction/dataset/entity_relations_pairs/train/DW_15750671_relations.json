@@ -1,0 +1,130 @@
+{
+  "content": "Thousands protest against neo-Nazis in Dresden\nMore than 6,000 people from across Germany gathered in the eastern city of Dresden on Saturday to protest a planned Neo-Nazi demonstration, which was canceled beforehand.\nThousands of protesters took part in an anti-neo-Nazi demonstration in the eastern German city of Dresden on Saturday. According to the organizers of the event, the left-wing group 'Nazi-free Dresden,' 10,000 people took to the streets. Police, who said the demonstrations were largely peaceful, said attendance was closer to 6,500. Protesters demanded that the right-wing NPD party be banned and that the police in the state of Saxony do more to bring neo-Nazis to book. Dresdencouncil had also organized an event at a separate location, which around 1,500 people attended, among them Saxony's state premier Stanislaw Tillich and Dresden mayor Dirk Hilbert. The demonstrations were originally intended to counteract a planned neo-Nazi march, which was called off after similar marches in 2010 and 2011 were successfully disrupted by anti-far-right protesters. An alternative neo-Nazi march in Gera, in eastern Thuringia, did not attract many demonstrators. Each February, Dresden commemorates the allied bombing and destruction of the city in World War II on February 13, 1945. Far-right groups from across Europe normally use the occasion to stage a march. Only in the last few years have they experienced large-scale organized resistance from groups like 'Nazi-free Dresden.' Dresden's mayor Hilbert said that it was no longer enough to commemorate in silence, but that it was crucial to also \"send a signal\" to the far-right. Sunday's demonstrations follow similar protests last Monday, when around 1,600 neo-Nazis gathered in Dresden. But the march had to be cut short because of massive counter-demonstrations. ng/ccp (epd, dpa)",
+  "relations": [
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Nazi-free Dresden",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Nazi-free Dresden",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Nazi-free Dresden",
+      "Dresden",
+      "based_in2"
+    ],
+    [
+      "Dirk Hilbert",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Dirk Hilbert",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Dirk Hilbert",
+      "Dresden",
+      "head_of_gov"
+    ],
+    [
+      "Dirk Hilbert",
+      "Dresden",
+      "mayor_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "NPD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "NPD",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "NPD",
+      "Saxony",
+      "based_in1"
+    ],
+    [
+      "Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Dresdencouncil",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresdencouncil",
+      "Dresden",
+      "in2"
+    ],
+    [
+      "Stanislaw Tillich",
+      "Saxony",
+      "agent_of"
+    ],
+    [
+      "Stanislaw Tillich",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Stanislaw Tillich",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Stanislaw Tillich",
+      "Saxony",
+      "head_of_gov"
+    ],
+    [
+      "Gera",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Gera",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Thuringia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Thuringia",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

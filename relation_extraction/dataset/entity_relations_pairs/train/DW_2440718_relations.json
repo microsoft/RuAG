@@ -1,0 +1,120 @@
+{
+  "content": "Goethe Institute Picks Up Long German Tradition in Latvia\nLatvia has traditionally had close ties to Germany, ever since its capital city Riga was founded by a German in 1201. Now the Goethe Institute is stepping up efforts to restore interest in learning the German language.\nThe kids clap their hands as Thomas Diekhaus is abruptly interrupted while reading \"Max and Moritz,\" a famous 19th century poem about the antics of two naughty boys. Their caps pulled down low on their heads, two real life boys dressed as Max and Moritz have snuck up onto the stage. Diekhaus directs the language department of the Goethe Institute in Riga, Latvia, and wants to encourage the children to learn German. There's lots of work to be done, he said, because the number of German learners has dropped by 10 percent to 11 percent every year since 2000. 800 years of common history Latvia's German connection is hundreds of years old. In 1201, Bishop Albert from Bremen founded the city of Riga, now the capital, where the Daugava River flows into the Baltic Sea. As a member of the Hanseatic League, many German traders came to Riga and the city flourished. It also became an important center of trade with Russia. When World War II broke out in 1939, most of the Germans living in Latvia moved to Germany. Even while under Soviet rule after the war, Latvia maintained strong connections with communist East Germany, and German continued to be taught as a foreign language. When the Iron Curtain collapsed and the Soviet Union dissolved, Latvian students found a renewed interest in the German language -- particularly when Russian stopped being offered in schools in 1991. Post-communist business boom Today, some 16 years after the fall of communism in Eastern Europe, Germany has become Latvia’s biggest trading partner. The newly opened Baltic region became an attractive investment location for numerous western companies. Just outside of Riga, the German company Knauf produces plasterboard that is sold throughout the Baltic region. All of the management personnel have to speak German, said Knauf manager Peter Rumer, since the Riga branch has daily contact with co-workers in Germany. \"In Latvia it’s not at all hard to find German-speakers -- and good ones at that,\" added Rumer. Shakespeare vs. Goethe According to the Latvian Ministry of Education, however, the trend is heading in the opposite direction. Since English was introduced 12 years ago on the recommendation of the school authorities, the number of high school students taking the advanced German exam has dropped by 50 percent. Unlike the Goethe Institute, the Ministry of Education doesn't see a need for action. \"The Ministry of Education values multilingualism, however the generally tendency in Latvia toward English as a first foreign language can’t be avoided,\" said Gundega Muceniece from the ministry. Meanwhile at the Goethe Institute, Max is smoking on stage. After the first cigarette he gets dizzy and can't get a single German word out of his mouth. Even without words, the children understand that Max and Moritz want to annoy Widow Bolte's proud rooster -- not an unusual pastime for the two pranksters. Catching up \"What people missed at school they have to catch up on at the Goethe Institute,\" said the institute's director Rudolf de Baey. \"That's good for business, but not for German-Latvian relations.\" Max has just promised his friend Moritz that he wants to start learning a few German vocabulary words. After all, both of them want to travel as soon as possible to all of the German-speaking countries in Europe.",
+  "relations": [
+    [
+      "Riga",
+      "Latvia",
+      "in0"
+    ],
+    [
+      "Riga",
+      "Latvian",
+      "in0-x"
+    ],
+    [
+      "Thomas Diekhaus",
+      "Goethe Institute",
+      "head_of"
+    ],
+    [
+      "Thomas Diekhaus",
+      "Goethe Institute",
+      "member_of"
+    ],
+    [
+      "Peter Rumer",
+      "Knauf",
+      "head_of"
+    ],
+    [
+      "Peter Rumer",
+      "Knauf",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bremen",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Latvian",
+      "Latvia",
+      "gpe0"
+    ],
+    [
+      "Knauf",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Knauf",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Knauf",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Education",
+      "Latvia",
+      "agency_of"
+    ],
+    [
+      "Ministry of Education",
+      "Latvian",
+      "agency_of-x"
+    ],
+    [
+      "Ministry of Education",
+      "Latvia",
+      "based_in0"
+    ],
+    [
+      "Ministry of Education",
+      "Latvian",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Education",
+      "Latvia",
+      "ministry_of"
+    ],
+    [
+      "Gundega Muceniece",
+      "Ministry of Education",
+      "member_of"
+    ],
+    [
+      "Rudolf de Baey",
+      "Goethe Institute",
+      "head_of"
+    ],
+    [
+      "Rudolf de Baey",
+      "Goethe Institute",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "content": "Building collapses in India, killing several people and trapping others\nAt least 14 workers have been killed after a building on a construction site in southern India collapsed. Dozens are feared trapped under the rubble, authorities say.\nA five-story building in the southern Indian state of Goa collapsed on Saturday, leaving at least 14 construction workers dead. Many more are believed to be trapped under the rubble, the local IANS news agency reported. Ten people are reported to have been pulled from the building alive overnight. Police Superintendent Shekhar Prabhudessai said it was not known how many people were working on the construction site in Canacona, a city about 70 kilometers (44 miles) south of the state capital Panaji, when it collapsed. Witnesses reported seeing about 40 workers at the site before the building collapsed. \"It was like an earthquake when the building fell,\" witness Ramesh Naik told the Associated Press news agency. \"You could not see what exactly had happened because of the dust.\" Bodies were pulled from the rubble by police and local residents, while fire-fighters and rescue personnel sifted through the debris searching for survivors. Around 20 construction workers were rescued, local police officer Abhay Naik told DPA. At least three of those were transferred by ambulance to a nearby hospital for treatment. \"The rescue operation will go on through the night. Cranes and bull-dozers [will be used] to remove the debris to rescue those trapped,\" Naik said. The cause of the building collapse had not been determined, Superintendant Prabhudessai said. Building collapses are comparatively common in India as a huge demand for housing and second-rate building regulations often encourages builders to use inappropriate materials or add additional floors. Sixty people died when an apartment building collapsed in the city of Mumbai in September. jlw/msh (dpa, AP, AFP)",
+  "relations": [
+    [
+      "Canacona",
+      "India",
+      "in0"
+    ],
+    [
+      "Canacona",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Abhay Naik",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Abhay Naik",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Shekhar Prabhudessai",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Shekhar Prabhudessai",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Goa",
+      "India",
+      "in0"
+    ],
+    [
+      "Goa",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "IANS",
+      "India",
+      "based_in0"
+    ],
+    [
+      "IANS",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "IANS",
+      "Goa",
+      "based_in1"
+    ],
+    [
+      "Panaji",
+      "India",
+      "in0"
+    ],
+    [
+      "Panaji",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Ramesh Naik",
+      "Canacona",
+      "citizen_of"
+    ],
+    [
+      "Mumbai",
+      "India",
+      "in0"
+    ],
+    [
+      "Mumbai",
+      "Indian",
+      "in0-x"
+    ]
+  ]
+}

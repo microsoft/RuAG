@@ -1,0 +1,125 @@
+{
+  "content": "Is 'racial profiling' illegal? Depends on where you live\nCologne police have been accused of racial profiling after targeting men of North African appearance on New Year's Eve. In the US racial profiling is illegal, but in Germany and the UK the law isn't as clear.\nThere is no law in Germany that explicitly prevents a police officer from stopping and checking someone for the way he or she looks. Police in Cologne have drawn some criticism for focusing their attention on men who looked as if they might come from North Africa this past New Year's Eve. They have denied the accusations of racial profiling, even though the practice isn't expressly forbidden in Germany. Racial profiling refers to procedures in which people are subjected to special checks by police or are detained on the basis of their ethnicity. Germany does have an anti-discrimination law. The general law of equal treatment (AGG) states that all people should be treated equally and not be disadvantaged because of their race, gender, age, religion, sexual orientation or a disability. Anti-discrimination law for private interactions When people feel they have been discriminated against, they can invoke the AGG and present instances where they allege that they were treated unfairly. The burden of proof then lies with the accused - they have to prove that they did not discriminate against the claimant. This law is not applicable in potential racial profiling cases, however, as it covers only interactions between two private parties: for example, between employers and employees. Interactions between the state - represented by police - and an individual do not fall under this law. In general, discrimination is prohibited in the German constitution, the \"Grundgesetz,\" but there is no equivalent to the strict AGG that specifically covers racial profiling by police. In many German states, police are in fact allowed to stop people and check their IDs without providing a specific reason. These \"event-unrelated controls\" were first introduced in Bavaria in 1996 and were instituted in all but three of Germany's 16 states by 2006. The legality of this legislation, however, was called into question by one court that ruled police cannot stop and ask people for ID based on their skin color. Driving while black In the United States, racial profiling has been at the center of heated debates for years. There's even a term for a driver being stopped by officers for no discernible reason other than his or her skin color: driving while black. Going by the letter of the law, racial profiling is illegal in the United States. In June 2003, the US Department of Justice issued its \"Guidance Regarding the Use of Race by Federal Law Enforcement Agencies,\" banning racial profiling by federal law enforcement officials. Back in February 2001, then-President George W. Bush had spoken out against the practice. \"Racial profiling is wrong, and we will end it in America,\" Bush said in an address to Congress. \"By stopping the abuses of a few, we will add to the public confidence our police officers earn and deserve.\" But since the deaths of black men like Michael Brown or Eric Garner at the hands of police, public confidence in law enforcement has suffered, the law against racial profiling notwithstanding. Search without suspicion In the UK, police officers are allowed to search an individual without reasonable suspicion under Section 60 of the Criminal Justice and Public Order Act. A senior police officer has to authorize the use of this policy in his or her district. Ministry of Justice statistics show that black and Asian people are more likely to be searched under Section 60 than white people are, which is why numerous British activists have been fighting the law for years. They accuse the police of racial profiling. But in January 2016 the UK Supreme Court ruled that Section 60 was in accordance with the law and did not need to be changed.",
+  "relations": [
+    [
+      "AGG",
+      "Germany",
+      "signed_by"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bavaria",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Department of Justice",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Department of Justice",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Criminal Justice and Public Order Act",
+      "UK",
+      "signed_by"
+    ],
+    [
+      "Ministry of Justice",
+      "UK",
+      "agency_of"
+    ],
+    [
+      "Ministry of Justice",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Ministry of Justice",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Ministry of Justice",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Justice",
+      "UK",
+      "ministry_of"
+    ],
+    [
+      "British",
+      "UK",
+      "gpe0"
+    ],
+    [
+      "Supreme Court",
+      "UK",
+      "agency_of"
+    ],
+    [
+      "Supreme Court",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Court",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Supreme Court",
+      "British",
+      "based_in0-x"
+    ]
+  ]
+}

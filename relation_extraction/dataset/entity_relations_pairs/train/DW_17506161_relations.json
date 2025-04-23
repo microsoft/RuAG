@@ -1,0 +1,75 @@
+{
+  "content": "Israel bombs Syrian military sites in Golan retaliation\nIsrael's military has launched airstrikes on the Syrian-held side of the Golan Heights. The strikes are in retaliation for a roadside bombing on Tuesday.\nAccording to statements from the Israeli military, the targets in Wednesday's air force attacks included a Syrian military center, a training facility and artillery batteries. \"The IDF [Israeli Defense Forces] targeted several Syrian army positions which aided and abetted the attack against IDF personnel yesterday,\" a statement said. Syria's military said the attack killed one soldier and injured seven. A statement from the military read \"these desperate attempts... endanger the security and stability of the region.\" Tuesday's bombing wounded four Israeli troops in the occupied Golan Heights. Prime Minister Benjamin Netanyahu said on Tuesday that Israel would act \"forcefully\" to defend itself against such an attack. A military spokesman said on Tuesday that Israel viewed \"the Syrian army as responsible for this incident,\" but could not confirm the involvement of Hezbollah, a militant group from Lebanon fighting alongside Syrian government troops. mz/jm (Reuters, AFP, AP)",
+  "relations": [
+    [
+      "Golan Heights",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Golan Heights",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Israeli Defense Forces",
+      "Israel",
+      "agency_of"
+    ],
+    [
+      "Israeli Defense Forces",
+      "Israeli",
+      "agency_of-x"
+    ],
+    [
+      "Israeli Defense Forces",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Israeli Defense Forces",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Hezbollah",
+      "Lebanon",
+      "based_in0"
+    ]
+  ]
+}

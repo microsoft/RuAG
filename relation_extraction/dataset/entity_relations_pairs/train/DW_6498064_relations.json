@@ -1,0 +1,35 @@
+{
+  "content": "My Berlin - Vacationing with a Tourist from Russia\nSergei Sorokin from Moscow is discovering Berlin on a bicycle. His route takes him to all the major attractions, including the Brandenburg Gate, the German parliament, the Berlin Wall Memorial and Potsdamer Platz.\nMore in Video on Demand.",
+  "relations": [
+    [
+      "Sergei Sorokin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Brandenburg Gate",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "German parliament",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Berlin Wall Memorial",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Potsdamer Platz",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ]
+  ]
+}

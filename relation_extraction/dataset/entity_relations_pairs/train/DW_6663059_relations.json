@@ -1,0 +1,110 @@
+{
+  "content": "Our guest on 20.11.2011 Jochen Zeitz, Manager\n“Talking Germany” – Presenter Peter Craven speaks to Jochen Zeitz about managers, movers and shakers and monks.\nJochen Zeitz grew up in Mannheim and graduated from secondary school in 1980. He began studying business in 1982 at the European Business School in Schloss Reichartshausen in the Rheingau. After completing his education, he began to work first at the consumer products company, Colgate-Palmolive in Hamburg in 1986. He then moved to Herzogenaurach in the Franconian countryside to work for sporting goods manufacturer Puma in 1988. From there, he rose rapidly though the ranks to become head of marketing in 1991 and vice president – international and head of the global marketing and sales department. At the age of 30, he became chairman of the board of Puma 1993, making him the youngest CEO of German firms with commercially traded stock. Zeitz shifted production to China and altered the brand’s image, transforming Puma into a lifestyle product. By 2005, his efforts led to a tripling of the company’s sales. Since then Zeitz has been said to be Germany’s best paid business executive. In addition, the businessman is also dedicated to improving society. Puma was one of the main supporters of the “Together for Africa” campaign. Zeitz has also established his own foundation in Africa to sponsor sustainable business initiatives. He’s lives in Nuremberg with his wife, Birgit Jöris, and since 2005 has been going as often as possible to his 200 square meter farm in Kenya, the place he calls his “home away from home.”",
+  "relations": [
+    [
+      "Jochen Zeitz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jochen Zeitz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jochen Zeitz",
+      "Puma",
+      "head_of"
+    ],
+    [
+      "Jochen Zeitz",
+      "Puma",
+      "member_of"
+    ],
+    [
+      "Jochen Zeitz",
+      "Colgate-Palmolive",
+      "member_of"
+    ],
+    [
+      "Jochen Zeitz",
+      "Birgit Jöris",
+      "spouse_of"
+    ],
+    [
+      "Mannheim",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Mannheim",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Schloss Reichartshausen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Schloss Reichartshausen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Colgate-Palmolive",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Colgate-Palmolive",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Colgate-Palmolive",
+      "Hamburg",
+      "based_in2"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Herzogenaurach",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Herzogenaurach",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Nuremberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Nuremberg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Birgit Jöris",
+      "Jochen Zeitz",
+      "spouse_of"
+    ]
+  ]
+}

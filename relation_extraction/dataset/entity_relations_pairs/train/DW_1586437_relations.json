@@ -1,0 +1,35 @@
+{
+  "content": "Globetrotting Behind Bars\nTraveling around the globe for a year and visiting 60 countries along the way might be a dream for many. But the \"hotels\" Jan de Cock stayed at during his trip would surely deter most people: prisons.\nSpending time in an overcrowded African prison is not something to aspire to. But for de Cock, it was an experience he had dreamt about for a long time. For the past 20 years, the Belgian has been interested in the fate of prisoners, who are often forgotten by the rest of society. \"Let me make clear that I'm for justice and for punishing criminals,\" he said. \"But it's not my right to condemn these men and women, these teenagers and children a second or third time. I want to show these people in a different light. They're people just like us.\" It wasn't easy for de Cock to convince officials to let him stay in a prison for a few days and nights just like regular inmates. It took him three years and hundreds of letters to embassies, ministries and prison directors to prepare for the journey. Sleeping with rats In the end, he received permission to stay at 66 prisons around the globe -- some in democratic countries, others run by dictatorial regimes. \"The first prison I slept at was in Kigali in Ruwanda,\" he said, adding that the prison, which was built for 2,000 inmates, housed 7,000 people. \"I was wedged between fellow inmates,\" he said. \"Below the beds, where I keep my slippers at home, lay three or four more prisoners. I remember that I woke up in the middle of the night because something was crawling through my hair. It was my first encounter with a giant rat.\" Choosing Benin over US De Cock said he does believe that prisons reflect a country's political system. \"You can tell the level of democracy that exists in a country by the way prisoners are dealt with,\" he said, adding that democracies don't always treat their prisoners more humanely. \"If you'd present me with a choice to stay in a clean prison in the US or under miserable conditions as is the case in (Benin's) Coutonou prison, where 250 people share a room built for 50, I think I'd choose the latter,\" he said. \"People keep each other alive if they can be together, even if the situation is horrible.\" Similarities despite regional differences Isolation is the worst kind of punishment, de Cock said, adding that Japan is especially harsh with prisoners. There, inmates are told in which position they have to sleep. They are not allowed to talk. They mustn't look guards in the eye. Scandinavian prisons on the other hand try to prepare prisoners for their re-entry into society. In Latin America, de Cock was surprised by the extreme corruption that exists in prisons there. But despite regional differences, prisoners resemble each other in many ways. \"The thing that hit me most was the extreme sense of abandonment felt by these people,\" he said. \"I remember the case of a women in a prison in Peru, Lima. When she was released after 27 years behind bars, she came back three days later and begged to be readmitted. She didn't know anyone on the outside any more.\" Learning from inmates De Cock heard many similar stories during his visits. In many cases, he was the first person to show any interest in inmates for years, he said. \"The more you enter this world, the more you realize that nice things happen there as well,\" he said. \"You realize that these people that have been condemned by society can teach us something as well -- about trust, about patience and solidarity.\" Trying to share his experiences with others, de Cock has written a book, \"Hotel Prison,\" about his book. He's also planning to continue his journey, he said. \"I'd like to take a look at Guantanamo Bay,\" he said, adding that Iraq's Abu Ghraib prison is also on his list.",
+  "relations": [
+    [
+      "Jan de Cock",
+      "Belgian",
+      "citizen_of-x"
+    ],
+    [
+      "Hotel Prison",
+      "Jan de Cock",
+      "created_by"
+    ],
+    [
+      "Kigali",
+      "Ruwanda",
+      "in0"
+    ],
+    [
+      "Coutonou",
+      "Benin",
+      "in0"
+    ],
+    [
+      "Lima",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Abu Ghraib",
+      "Iraq",
+      "in0"
+    ]
+  ]
+}

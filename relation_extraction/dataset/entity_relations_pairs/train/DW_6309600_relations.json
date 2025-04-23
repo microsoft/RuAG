@@ -1,0 +1,75 @@
+{
+  "content": "EU Commission caves in to Germany on coal subsidy deadline\nThe European Commission has caved in to German pressure over a 2014 deadline for subsidies for failing coal mines. The Commission said Wednesday it would delay the cancellation of subsidies until 2018.\nGermany has won concessions from the European Union on coal subsidies paid out to loss-making mines. The EU Commission said Wednesday it would push back a phase-out date on subsidies by four years to 2018. The Commission had said in July that failing mines would have to be closed by 2014, arguing that subsidies were bad for the environment and promoted unfair competition. But Germany fiercely protested, saying that the subsidies kept its coal industry afloat, and that a 2014 phase-out would endanger too many jobs. Job security for some 25,000 workers employed at five mines around Germany would have been threatened by a 2014 deadline. Berlin welcomed the Commission's decision as \"a great success,\" government spokesman Steffen Seibert said Wednesday. The extension of coal subsidies to 2018 would enable Germany to meet its social obligations to the country's miners, he added. The premier of Germany's Saarland state, which is home to one of the country's largest mines, welcomed the EU decision to yield to German pressure. Peter Mueller said the continuation of subsidies until 2018 was a \"socially acceptable solution for miners without redundancy deals.\" The four-year moratorium on mine closures should also be long enough to allow Germany to restructure its coal industry without sustaining considerable losses. Of the 26 other EU member states, only Romania and Spain will be directly affected by the new subsidies deadline. The deal is to set to be endorsed by EU competition ministers on Friday. Environmental group Greenpeace's energy policy expert, Frauke Thies, said that in 2008 the German government had subsidized each individual job in unprofitable coal mines to the tune of 235,000 euros ($311,000). Author: Darren Mara (dpa, Reuters) Editor: Susan Houlton",
+  "relations": [
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Steffen Seibert",
+      "Germany",
+      "member_of"
+    ],
+    [
+      "Steffen Seibert",
+      "Germany",
+      "spokesperson_of"
+    ],
+    [
+      "Peter Mueller",
+      "Saarland",
+      "agent_of"
+    ],
+    [
+      "Peter Mueller",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peter Mueller",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Mueller",
+      "Saarland",
+      "head_of_gov"
+    ],
+    [
+      "Frauke Thies",
+      "Greenpeace",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Saarland",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Saarland",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

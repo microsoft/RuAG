@@ -1,0 +1,185 @@
+{
+  "content": "Obama in Mexico for trade talks, calls for dialog in Venezuela and Ukraine\nUS President Barack Obama in Toluca for trade talks with Mexico and Canada proposed an expansion of trade agreements for the Americas into Asia. Obama also spoke out on the unrest in Venezuela and Ukraine.\nObama spent a day south of the US border with Mexican President Enrique Pena Nieto and Canadian Prime Minister Stephen Harper with a focus on trade discussions around the Trans-Pacific Partnership (TPP) trade bloc of 12 countries in the Americas, Asia and the Pacific. \"We are wanting to see and committed to seeing a good, comprehensive Trans-Pacific Partnership trade agreement. I think it's in all of our interests,\" Harper said. Obama said the North American partners must maintain their \"competitive advantage\" on trade, in part by expanding into the fast-growing Asia-Pacific region. Obama acknowledged that \"elements in my party\" oppose the TPP deal, but said: \"We'll get this passed if it's a good agreement.\" At issue between the US and Canada, has been the US review of the Keystone XL pipeline, which would carry oil from tar sands in western Canada over a thousand miles to Nebraska, where existing pipelines would then carry the crude to refineries on the Texas Gulf Coast. Environmental groups have opposed it, and Obama has said he won't approve it if it increases greenhouse gas emissions. For Mexico, the focus is on an overhaul of US immigration laws and Obama said immigration reform remained one of his highest priorities. But Republican opposition in Congress is likely to prevent new laws being passed this year. The North America Leaders' Summit - also known as the \"Three Amigos\" meeting - coincided with the 20th year of the North American Free Trade Agreement (NAFTA) among the three countries. A third of US exports go to Mexico and Canada and the trade supports 14 million jobs on US soil, US officials say. But NAFTA has been criticized within the US for its effect on jobs and environmental protection. Pena Nieto heralded the \"innovative spirit\" that spurred NAFTA and said new trade agreements were: \"bound to go beyond the progress that each one of our countries has made.\" Venezuela and Ukraine Speaking about unrest in Venezuela and Ukraine, Obama denounced the \"unacceptable violence in those two countries which the United States strongly condemns.\" Obama called on Venezuela's government to release protesters detained in recent demonstrations and address the \"legitimate grievances\" of its people. He said: \"along with the Organization of American States we call on the Venezuelan government to release protesters it has detained and engage in real dialogue.\" On Sunday, left-wing President Nicolas Maduro ordered the expulsion of three US diplomats, accusing them of meeting student leaders under the guise of offering them visas. On Ukraine, Obama gave a cautious welcome to the truce announced between government and opposition on Wednesday. \"My hope is at this point that a truce may hold but ... ultimately the government is responsible for making sure that we shift toward some sort of unity government, even if it's temporary, that allows us to move to fair and free elections so that the will of the Ukrainian people can be rightly expressed without the kinds of chaos we've seen on the streets,\" Obama said. jm / crh (AFP, AP)",
+  "relations": [
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "agent_of"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "head_of_state"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexican",
+      "head_of_state-x"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Barack Obama",
+      "is_meeting"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Stephen Harper",
+      "is_meeting"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "Enrique Pena Nieto",
+      "is_meeting"
+    ],
+    [
+      "Barack Obama",
+      "Stephen Harper",
+      "is_meeting"
+    ],
+    [
+      "Toluca",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Toluca",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Stephen Harper",
+      "Canada",
+      "agent_of"
+    ],
+    [
+      "Stephen Harper",
+      "Canada",
+      "citizen_of"
+    ],
+    [
+      "Stephen Harper",
+      "Canadian",
+      "citizen_of-x"
+    ],
+    [
+      "Stephen Harper",
+      "Canada",
+      "head_of_gov"
+    ],
+    [
+      "Stephen Harper",
+      "Canadian",
+      "head_of_gov-x"
+    ],
+    [
+      "Stephen Harper",
+      "Enrique Pena Nieto",
+      "is_meeting"
+    ],
+    [
+      "Stephen Harper",
+      "Barack Obama",
+      "is_meeting"
+    ],
+    [
+      "Mexican",
+      "Mexico",
+      "gpe0"
+    ],
+    [
+      "Canadian",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "Nebraska",
+      "Canada",
+      "in0"
+    ],
+    [
+      "Nebraska",
+      "Canadian",
+      "in0-x"
+    ],
+    [
+      "Texas",
+      "United States",
+      "in0"
+    ],
+    [
+      "Republican",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Venezuelan",
+      "Venezuela",
+      "gpe0"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "agent_of"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuelan",
+      "head_of_state-x"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ]
+  ]
+}

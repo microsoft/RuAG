@@ -1,0 +1,175 @@
+{
+  "content": "German ISAF general calls Wikileaks document release 'a crime'\nBrigadier General Josef Blotz has criticized the recent online leak of 92,000 mostly classified documents on the Afghan conflict. He said the information could put soldiers and civilians in danger.\nA top German general and ISAF spokesman blasted the whistle-blowing 'Wikileaks' website on Thursday for last week's publication of thousands of mostly classified files on the conflict in Afghanistan. \"I take this opportunity to criticize the release of these documents,\" Brigadier General Josef Blotz said in a video conference transmitted to journalists from Afghanistan to the Bundeswehr Operations Command Center near the German city of Potsdam. \"It was extremely irresponsible and, basically, it was a crime.\" Blotz didn't directly contradict earlier military statements suggesting that the documents would have little impact on current operations because they are all at least seven months old, but he did said that they could pose a danger to individual soldiers and civilians. \"The classified material - now made available to the general public - can indeed jeopardize the lives of our ISAF troops,\" he warned from the ISAF base in the Afghan capital Kabul. \"Moreover, they can endanger the lives of many ordinary Afghans who in some way or another have cooperated with ISAF forces or Afghan security troops, and whose names are explicitly mentioned in the documents.\" However, the general also insisted that the news value contained in the files was actually very limited, saying the information released \"would only bowl over people who hadn't picked up a newspaper for the past three years.\" Armed and ready? Blotz also praised the levels of equipment provided to German troops on the ground, saying provisions had improved markedly in the past couple of years and that only a few minor shortfalls remained. The general dismissed claims from the German parliament's commissioner for Bundeswehr affairs, Helmut Koenigshaus, that the equipment levels for German soldiers had become \"a drama.\" Koenigshaus spoke of shortfalls including furniture for the barracks, camp beds, as well as live and blank ammunition, saying some troops were feeling neglected. Blotz described this assertion as \"at least completely disproportionate,\" saying that while soldiers would always like more, the situation \"in no way warrants jumping to the kind of conclusions which I have seen in the newspapers in the past few days.\" However, the criticism has become reciprocal, with Koenigshaus' Free Democrat party coming to the defense of the man charged with fighting the Bundeswehr's corner in Berlin. \"The job of commissioner for Bundeswehr affairs is anchored in our constitution; it's to address the soldiers' concerns and make them common knowledge in parliament and in public,\" Free Democrat defense expert Elke Hoff said after the video conference. \"However, it is not part of ISAF's job to publicly criticize the commissioner's important work. Our defense minister (Karl-Theodor zu Guttenberg) should make this crystal clear, and should perhaps consider personal consequences.\" \"Deliberate progress\" Blotz also told reporters that the ISAF mission in Afghanistan was progressing well. Even if no major breakthroughs are currently on the horizon, he spoke of \"deliberate progress\", military terminology for piecemeal improvement, in the country. He also said the impression of a growing Taliban insurgency was somewhat artificial, because most of the attacks are sustained in highly hostile areas which the NATO-led forces didn't always patrol. \"We simply had to move into such areas, there was no alternative to it,\" Blotz said. \"And because you have more combat action now, the media often concludes that we're confronted with a Taliban offensive, but that's not the case.\" Blotz said the fighting had intensified in particular trouble-spots, with the country as a whole gradually pacifying. He pointed out that seven of every ten ISAF losses are incurred solely in the Kandahar province. In the long term, he said, the target is still to hand over security tasks to the Afghan military and police. \"Building up the Afghan security forces is without doubt the number-one priority for the ISAF command,\" he said. \"We need to be successful in this so we can prepare the withdrawal of our own troops. From what we see right now, it should be possible to complete this task by 2014, due to the remarkable progress already made in this field. However, Blotz added that the date 2014 was first floated by Afghan President Hamid Karzai, not ISAF, and also said that even after a security handover took place, some western troops would stay in Afghanistan for non-combat purposes. Author: Hardy Graupner (msh) Editor: Rob Turner",
+  "relations": [
+    [
+      "Josef Blotz",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Josef Blotz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Josef Blotz",
+      "ISAF",
+      "member_of"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Helmut Koenigshaus",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Helmut Koenigshaus",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Helmut Koenigshaus",
+      "Free Democrat",
+      "member_of"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Operations Command Center",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Potsdam",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kabul",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kabul",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Kabul",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "Afghans",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Free Democrat",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Elke Hoff",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Elke Hoff",
+      "Free Democrat",
+      "member_of"
+    ],
+    [
+      "Karl-Theodor zu Guttenberg",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Karl-Theodor zu Guttenberg",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghans",
+      "based_in0-x"
+    ],
+    [
+      "Kandahar",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kandahar",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Kandahar",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "agent_of"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghans",
+      "citizen_of-x"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "head_of_state"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghan",
+      "head_of_state-x"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghans",
+      "head_of_state-x"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "content": "Welcome into the world\nIt's not all bad news for the planet's plants and animals - while many species are going extinct, fresh ones are also being discovered. DW presents newcomers for 2016.\nFancy Indian crabs The discovery of five new species of colorful freshwater crabs in the Western Ghats, India, is certainly good news. The mountains are a biodiversity hotspot in the world, for their rich variety of animals and plants. Unfortunately, there are great threats against them. These freshwater crabs are characterized by bright colors: from silvery grey to luminous pink. As opposed to marine crabs, these species have adapted to terrestrial mode of life and only need a freshwater pool for breeding. Findings on the new crabs were published in the journal \"Zootaxa\" in February 2016. Pictured above, Gubernatoriana thackerayi - named after its discoverer - has especially unique coloration among its relatives. Scarlet embellishes its shell and walking legs, while a flashy orange is reserved for the two pinchers. Casper the octopus Some cephalopods can change the color of their skin as a camouflage technique. This ghostlike octopus, on its side, lacks pigment cells altogether. The new species was found near the Hawaiian island of Necker by zoologists from the National Oceanic and Atmospheric Administration (NOAA). Social media users couldn't pass up the comparison of the newly discovered animal, and its translucent appearance gained it the nickname Casper. Giant baby Rafflesia is a genus of parasitic plants, the flowers of which are known as the largest in the world and emit an overpowering smell of rotting flesh. Most of the - including the distantly related \"corpse flower\" - are found in southeastern Asia countries such as the Philippines, home to many rare and endangered species. Recently discovered Rafflesia consueloae, on the Philippine island of Luzon, is the smallest of the largest flowers in the world. So small, that it can \"only\" reach a diameter up to 12.7 centimeters when fully extended. It was described and illustrated in the journal PhytoKeys in February 2016. Something is shining over there In the 21st century, more than 100 new species of reptiles and amphibians have been found in India. A team of researchers from the United Kingdom and India - lead by David Gower from the Natural History Museum in London - has recently added a new name to the list. The \"Khaire's black shieldtail\" has been described in a paper published in the scientifc journal \"Zootaxa.\" In the wild, attractive colors are often linked to poisonous animals. However, despite its appearence, the newfound species belongs to a genus of non-venomous shieldtail snakes. Melanophidium khairei is the first species described in this genus for 144 years. 'Zorro' unmasked The cousin to piranhas pictured above is vegetarian, feeding on seeds, fruit and vegetation. Found in a tributary of the Amazon River, in western Brazil, the new fish has a length of about 45 centimeters. It has been named Myloplus zorroi, combining the names of the fictional black masked character Zorro and a renowned fish researcher. The finding was published in the scientific journal \"ZooKeys\" on March 7, 2016. Tarantula rock star Scientists in the United States have recently identified 14 new species of tarantula - among them, Johnny Cash. This spider has black hair, and was found near the prison were Cash recorded his famous song \"Folsom Prison Blues,\" in California. It was described in the scientific journal \"ZooKeys\" on February 4, 2016. In Australia, the recent discovery of an endemic spider has also attracted scientists. It uses water vibrations to move and trap aquatic prey such as fish or toads. Less high-profile than its glamorous relative, it has simply been named Brian. Widespread neighborhood More than 7,000 known species of amphibians exist worldwide. A thumbnail-sized frog and the Honnametti bush frog in India; the Asian litter frog in China; and a frog with yellow eyebrows in Colombia have been among the 2016 newcomers. To top it off, the identity of a rare tree frog - with a novel way of feeding its young - has been verified. It was rediscovered in north India after thought to be extinct for more than a century.",
+  "relations": [
+    [
+      "National Oceanic and Atmospheric Administration",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "National Oceanic and Atmospheric Administration",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "David Gower",
+      "United Kingdom",
+      "citizen_of"
+    ],
+    [
+      "David Gower",
+      "Natural History Museum",
+      "member_of"
+    ],
+    [
+      "Natural History Museum",
+      "United Kingdom",
+      "in0"
+    ],
+    [
+      "Natural History Museum",
+      "London",
+      "in2"
+    ],
+    [
+      "London",
+      "United Kingdom",
+      "in0"
+    ],
+    [
+      "Folsom Prison Blues",
+      "Johnny Cash",
+      "created_by"
+    ],
+    [
+      "California",
+      "United States",
+      "in0"
+    ]
+  ]
+}

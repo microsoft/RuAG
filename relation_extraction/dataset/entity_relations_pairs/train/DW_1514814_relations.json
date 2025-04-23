@@ -1,0 +1,135 @@
+{
+  "content": "Opinion: Transatlantic Rapprochement\nMarch 11, 2004 was a day of shock and horror for Spain and Europe. The al Qaeda bomb attacks which killed 192 showed that Europe was a target like the US. What has happened regarding the fight against terror since then?\nNo doubt about it, even the sharpest critics of US President George W. Bush had to realize on March 11 of last year that the al Qaeda terror network isn't just a threat to the United States, but to Europe's democracies as well. Indeed, it is important and even necessary to denounce the military invasion in Iraq, which had no basis in international law, or human rights violations such as those we see in Guantanamo. But some voices have gone much further, and they are especially vociferous in Europe. They consider Bush's challenge to the terrorists as only a pretext to cement the global supremacy of the United States and to secure it future sources of oil. The bloody attacks in Madrid, however, set many such twisted views straight. That is because the danger that Osama Bin Laden represents is real. His terror cells are not only in Europe, preparing -- as they did before Sept. 11, 2001 -- to carry out attacks in the US. They have also long had targets in Europe in their sights. Madrid is not the first case. Even before the catastrophes in New York and Washington, an al Qaeda bomb attack on a Christmas market in Strasbourg was narrowly prevented. Those who criticize Bush's method of fighting international terrorism should have another, better concept on hand to act against al Qaeda and similar terrorist organizations. However, the Europeans have had difficulties in this regard. While EU member states did decide shortly after Sept. 11, 2001 that they wanted to cooperate more closely and effectively, today their efforts have borne little fruit. The EUROPOL police organization, the Europe-wide legal authority EUROJUST and the much ballyhooed cooperation of various secret service agencies work much better in theory than in practice, largely due to stonewalling on the national level. Even the appointment of a special anti-terror commissioner -- a direct reaction to the Madrid attacks -- has changed very little on the ground. Projects like the European arrest warrant, which enjoyed some early enthusiasm, have since lost much of their vim and vigor. Change has taken place Still, the EU has changed since March 11, 2004. On the one hand, the once frequent calls against a strong European Union have been nearly silenced, since people have realized that it is only a Europe working together that can counter the threat of international terrorism. On the other hand, the deep fractures that broke open between those against the Iraq war and those favoring the US position have finally healed. That is quite remarkable really, since Spain's Bush-friendly president, Jose Maria Aznar, was voted out of office shortly after the March 11 attacks, punished by the electorate for using all his resources to place the blame for the bloodbath on Basque separatists. His successor, Jose Luis Zapatero, then made his first official act the removal of Spanish soldiers from Iraq, thereby putting him squarely in the anti-war camp along with Germany and France. A few months later, Poland made its own exit from the \"coalition of the willing.\" But all of that still didn't deepen the differences of opinion on either side of the Atlantic. On the contrary, both sides have come closer together. Despite its critique of the Bush administration, Germany has, for example, decided to step up its training programs for Iraqi security forces. The recognition that an instable Iraq provides fertile ground for terror organizations like al Qaeda is not new. But it did gain new prominence after March 11, 2004. And that's a good thing.",
+  "relations": [
+    [
+      "George W. Bush",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Madrid",
+      "Spain",
+      "in0"
+    ],
+    [
+      "Madrid",
+      "Spanish",
+      "in0-x"
+    ],
+    [
+      "Osama Bin Laden",
+      "al Qaeda",
+      "head_of"
+    ],
+    [
+      "Osama Bin Laden",
+      "al Qaeda",
+      "member_of"
+    ],
+    [
+      "New York",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Strasbourg",
+      "France",
+      "in0"
+    ],
+    [
+      "EUROPOL",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "EUROPOL",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "EUROJUST",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "EUROJUST",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Jose Maria Aznar",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Jose Maria Aznar",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Jose Maria Aznar",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Jose Maria Aznar",
+      "Spain",
+      "head_of_state"
+    ],
+    [
+      "Jose Maria Aznar",
+      "Spanish",
+      "head_of_state-x"
+    ],
+    [
+      "Jose Luis Zapatero",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Jose Luis Zapatero",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Jose Luis Zapatero",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Jose Luis Zapatero",
+      "Spain",
+      "head_of_state"
+    ],
+    [
+      "Jose Luis Zapatero",
+      "Spanish",
+      "head_of_state-x"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "Iraqi",
+      "Iraq",
+      "gpe0"
+    ]
+  ]
+}

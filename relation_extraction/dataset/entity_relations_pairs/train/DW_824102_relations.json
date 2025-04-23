@@ -1,0 +1,155 @@
+{
+  "content": "Flu-Like Disease Has European Business on Edge\nEuropean trade fair organizers, tourism companies brace for economic impact as SARS disease death toll rises.\nThe phones have been ringing off the hook at travel offices run by the German company Rewe. Ever since the first reports of deaths in Southwest Asia and Canada linked to the flu-like disease SARS in Februrary, Rewe travel offices and company spokesmen have been seeking to calm harried would-be tourists. Company spokeswoman Antje Günther said there have been some cancellations and re-bookings but many more questions. \"We don't want to give any predictions,\" Günther, a spokeswoman for the trading company's tourism wing. \"It's something we need to measure day to day, week to week. The sickness isn't simple. You can't say it will be cured tomorrow and then Monday everything will be back to normal.\" Scientists from the World Health Organization travelled to Hong Kong on Thursday to determine the origin and cause of the Severe Acute Respiratory Syndrome (SARS). So far, the disease has killed 80 people and infected more than 2,300 people in 18 different countries, including a 72-year-old German man who was reported on Thursday to be in stable condition. As Europe braces for a potentially devastating economic impact, everyone from soccer teams to trade fair organizers are on edge. Trade fair bars Asian exhibitors Switzerland's health authorities have barred around 400 Asian exhibitors from a watch and jewelry trade fair that opened in Basel on Thursday. A spokesman for Germany's international Hanover Fair, which begins on Monday, April 7, says it has no plans to do the same. \"We survive on our worldliness, and just because there's some sort of flu in Asia, that doesn't mean we're going to bar the Asians from Hanover,\" Eberhard Roloff, the Hanover Fair's spokesman, told DW-WORLD. Roloff said the Fair has had no cancellations from Asian exhibitors. In fact, the number of exhibitors from Asian countries has increased from 409 last year to 565 in 2003. \"Unpredictable\" sickness keeps visitors away Visitors to Asian countries, however, have begun rethinking their trips. The Everton soccer club, of England's Premier League, is mulling whether or not to cancel a two-game tour in China planned for May 25-26. Ditto for cycling's governing body, the UCI. The body is talking with International Olympic Committee on whether to cancel the for August planned track championships in the southern China province of Shenzhen. The Goethe Insitut, Germany's cultural outreach organization, has put staffers in Asia on high alert but has yet to pull anyone out. The German Foreign Office has posted travel warnings to Germans heading to Hong Kong and the southwest Guandong province. The warnings, added to already in-place warnings to Northern Africa and the Middle East, are likely to further dampen a travel industry that's already suffered by the outbreak of war in Iraq. Dutch airline KLM said this week that SARS has had a more dramatic effect on its passenger count than the Iraq war. A spokesman said that in particular business passengers have cancelled trips because of fears surrounding the virus. German flagship airline Lufthansa said it was grounding additional planes rather than face the possiblity of running empty flights to Asia. Günther is concerned the SARS scare could do more damage to the entire travel industry than Iraq ever could. \"The war in Iraq was predictable and in some way measurable,\" Günther said in an interview with DW-WORLD. \"This came as a complete surprise and nobody knows how long it's going to continue and how much it will spread.\"",
+  "relations": [
+    [
+      "Antje Günther",
+      "Rewe",
+      "member_of"
+    ],
+    [
+      "Eberhard Roloff",
+      "Hanover Fair",
+      "member_of"
+    ],
+    [
+      "Hanover Fair",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Rewe",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Rewe",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Rewe",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Hong Kong",
+      "China",
+      "in0"
+    ],
+    [
+      "Basel",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "DW-WORLD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW-WORLD",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW-WORLD",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Everton",
+      "Premier League",
+      "appears_in"
+    ],
+    [
+      "Premier League",
+      "England",
+      "event_in0"
+    ],
+    [
+      "Shenzhen",
+      "China",
+      "in0"
+    ],
+    [
+      "Goethe Insitut",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Goethe Insitut",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Goethe Insitut",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "German Foreign Office",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Foreign Office",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Foreign Office",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "German Foreign Office",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Foreign Office",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Foreign Office",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Guandong",
+      "China",
+      "in0"
+    ],
+    [
+      "KLM",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "Lufthansa",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Lufthansa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Lufthansa",
+      "Germans",
+      "based_in0-x"
+    ]
+  ]
+}

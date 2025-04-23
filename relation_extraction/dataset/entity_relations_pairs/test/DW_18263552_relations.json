@@ -1,0 +1,65 @@
+{
+  "content": "At least 18 people killed in Haiti Carnival mishap\nAt least 18 people are reported to have been killed in an accident during Carnival festivities in Haiti. Many others were wounded when the float they were traveling on made contact with a power line.\nOfficials in Port-au-Prince said the accident occurred as thousands of revelers filled the streets of the city center of the Haitian capital in the early hours of Tuesday. The Associated Press quoted witnesses at the scene who reported seeing somebody on one of the floats used a stick or pole to move a power line so that the vehicle could pass under it. Reuters cited a witness who reported seeing the head of a singer from the hip-hop band Barikad Crew make contact with the power line. Some of the victims were electrocuted instantly, while others jumped off the float, causing panic among the revelers who lined the street. Many of the at least 18 deaths came as a result of the ensuing panic, while at more than 40 others were injured, according to local authorities. There was some confusion about the number of fatalities, with the Associated Press putting it at 20, and AFP later reported that only around 10 had died. Haitian President Michel Martelly used his Twitter account to express his condolences to the injured and bereaved. \"My sincere sympathies to the victims of the serious incident that occurred this morning at the Champ de Mars (area in downtown Port-au-Prince),\" the president said. pfd/rc (AP, Reuters, AFP)",
+  "relations": [
+    [
+      "Port-au-Prince",
+      "Haiti",
+      "in0"
+    ],
+    [
+      "Port-au-Prince",
+      "Haitian",
+      "in0-x"
+    ],
+    [
+      "Haitian",
+      "Haiti",
+      "gpe0"
+    ],
+    [
+      "Barikad Crew",
+      "Haiti",
+      "based_in0"
+    ],
+    [
+      "Barikad Crew",
+      "Haitian",
+      "based_in0-x"
+    ],
+    [
+      "Michel Martelly",
+      "Haiti",
+      "agent_of"
+    ],
+    [
+      "Michel Martelly",
+      "Haiti",
+      "citizen_of"
+    ],
+    [
+      "Michel Martelly",
+      "Haitian",
+      "citizen_of-x"
+    ],
+    [
+      "Michel Martelly",
+      "Haiti",
+      "head_of_state"
+    ],
+    [
+      "Michel Martelly",
+      "Haitian",
+      "head_of_state-x"
+    ],
+    [
+      "Champ de Mars",
+      "Haiti",
+      "in0"
+    ],
+    [
+      "Champ de Mars",
+      "Port-au-Prince",
+      "in2"
+    ]
+  ]
+}

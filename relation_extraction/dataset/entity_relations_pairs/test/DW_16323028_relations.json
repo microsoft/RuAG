@@ -1,0 +1,40 @@
+{
+  "content": "Armstrong stripped of Tour de France titles\nCyclist Lance Armstrong has been stripped of his seven Tour de France titles and banned from cycling for life, in a much-anticipated ruling by the sport's international governing body.\nMonday's announcement by Pat McQuaid, the president of the International Cycling Union, ratified recommendations in an October report from the U.S. Anti-Doping Agency (USADA), which ordered Armstrong's Tour de France titles be wiped out. \"Lance Armstrong has no place in cycling,\" said McQuaid. Addressing his remarks to cyclists, McQuaid said the fight against doping was his priority. \"UCI is listening and is on your side. We’ve come too far in the fight against doping to return to our past. Cycling has a future and something like this must not happen again.\" The scathing USADA report included testimony from 11 former teammates, accusing Armstrong of running the \"most sophisticated\" doping program in the sport's history. The USADA said it had collected evidence to prove the seven-time Tour de France winner had engaged in the biggest doping conspiracy to date. Effect on cycling and sponsorship Monday's decision comes as the sport of cycling reels from Armstrong's well-documented fall from grace. Organizers of the Tour de France will be trying to move on from the scandal as the race prepares to celebrate its centenary next year. Sponsors have been deserting Armstrong and the sport in general. Last week, Nike - one of Armstrong's main corporate sponsors - said it was terminating its relationship with the cyclist and accused him of deception. Trek, the company that made the bicycles Armstrong rode to seven titles, announced on the same day it would terminate its sponsorship contract - as did the beer maker Anheuser-Busch. The Dutch institution Rabobank ended its association with professional cycling after the doping allegations came to light, leaving 17 riders in need of a sponsor. Last week Armstrong also announced he would step down from his own charity, the Lance Armstrong Foundation, also known as Livestrong, a move believed to have been intended to limit the damage to the organization from the USADA report. Armstrong appears Lance Armstrong spoke briefly to thousands of riders in Texas at a benefit organized by his charity, the day before UCI's decision. \"I've been better, but I've also been worse,\" he said. \"Obviously it has been an interesting and difficult couple of weeks.\" jr/rc (Reuters, AFP, AP)",
+  "relations": [
+    [
+      "Lance Armstrong",
+      "Tour de France",
+      "appears_in"
+    ],
+    [
+      "Lance Armstrong",
+      "Lance Armstrong Foundation",
+      "head_of"
+    ],
+    [
+      "Lance Armstrong",
+      "Lance Armstrong Foundation",
+      "member_of"
+    ],
+    [
+      "Lance Armstrong",
+      "Lance Armstrong Foundation",
+      "player_of"
+    ],
+    [
+      "Pat McQuaid",
+      "International Cycling Union",
+      "head_of"
+    ],
+    [
+      "Pat McQuaid",
+      "International Cycling Union",
+      "member_of"
+    ],
+    [
+      "Rabobank",
+      "Dutch",
+      "based_in0-x"
+    ]
+  ]
+}

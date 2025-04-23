@@ -1,0 +1,140 @@
+{
+  "content": "Bolshoi Theater replaces director Anatoly Iksanov\nThe head of Russia’s Bolshoi Theater has been replaced after a series of scandals including an acid attack against its artistic director. The attack uncovered bitter infighting within the institution.\nRussian Culture Minister Vladimir Medinsky announced at a press conference Tuesday that Anatoly Iksanov has been replaced as the Bolshoi's director, dismissing the suggestion that Iksanov had been fired. Iksanov, who had held the position for 13 years, sat beside the minister during the announcement. Vladimir Urin, the general director of the Stanislavsky Musical Theater, is to take his place. \"He (Urin) will be able to unite the troupe and continue the development of the best theater in the country and one of the best in the world,\" Medinsky told reporters. \"A difficult situation had developed around the theater and the troupe, and everything pointed to the need for renewal at the theater.\" Speaking to reporters after the announcement, Urin said: “I very much hope that the majority of people working in his theatre - talented, remarkable people - will be my allies,\" Urin said. \"Only together can we solve the problems that, like in any theatre, exist today in the Bolshoi Theater.\" The theater has been in turmoil since January when a masked man threw acid in the face of Sergei Filin, the Bolshoi's artistic director. Last month the Bolshoi said that despite 18 operations, the attack has left Filin blind in one eye and with only about 10 percent vision in the other. A top Bolshoi dancer, Pavel Dmitrichenko, later confessed to hiring two accomplices to attack Filin but said he had not expected acid to be thrown in his face. Theater in-fighting has plagued the Bolshoi Ballet throughout much of the company's history, which spans over 200 years. hc/pfd (Reuters, AFP)",
+  "relations": [
+    [
+      "Bolshoi Theater",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Bolshoi Theater",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Anatoly Iksanov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Anatoly Iksanov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Anatoly Iksanov",
+      "Bolshoi Theater",
+      "head_of"
+    ],
+    [
+      "Anatoly Iksanov",
+      "Bolshoi Theater",
+      "member_of"
+    ],
+    [
+      "Vladimir Urin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Urin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Urin",
+      "Bolshoi Theater",
+      "head_of"
+    ],
+    [
+      "Vladimir Urin",
+      "Stanislavsky Musical Theater",
+      "head_of"
+    ],
+    [
+      "Vladimir Urin",
+      "Bolshoi Theater",
+      "member_of"
+    ],
+    [
+      "Vladimir Urin",
+      "Stanislavsky Musical Theater",
+      "member_of"
+    ],
+    [
+      "Sergei Filin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Filin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Filin",
+      "Bolshoi Theater",
+      "head_of"
+    ],
+    [
+      "Sergei Filin",
+      "Bolshoi Theater",
+      "member_of"
+    ],
+    [
+      "Vladimir Medinsky",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Medinsky",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Medinsky",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Medinsky",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Vladimir Medinsky",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Stanislavsky Musical Theater",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Stanislavsky Musical Theater",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Pavel Dmitrichenko",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Pavel Dmitrichenko",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Pavel Dmitrichenko",
+      "Bolshoi Theater",
+      "member_of"
+    ]
+  ]
+}

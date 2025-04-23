@@ -1,0 +1,40 @@
+{
+  "content": "MSF says Ebola 'fast,' medics 'facing war-like scenario'\nThe medical charity MSF has warned that western Africa's Ebola crisis is \"moving faster\" than medics can cope with. Its warning follows a WHO admission that the epidemic requires \"extraordinary measures.\"\nThe head of Medicins Sans Frontieres (MSF), Joanne Liu -- fresh from a visit to western Africa -- said in Geneva on Friday that more experts were needed in the hard-hit region. \"It is deteriorating faster, and moving faster, than we can respond to,\" Liu told reporters. \"Like in a war time, we have a total collapse of infrastructure,\" she added. Lui said the world community needed to get the \"upper hand\" over the next six months. While the viral spread had been slowed in Guinea, concerns focused especially on Liberia. \"If we don't stabilize Liberia, we will never stabilize the region,\" Lui said. She was critical of the WHO for delaying its public health emergency warning until August 8. \"We need people with a hands-on operational mindset,\" to combat the outbreak, Liu told the Geneva news briefing. WHO - 'vastly underestimated' On Thursday, the World Health Organization (WHO) said the scale of the epidemic had been \"vastly underestimated\" and that \"extraordinary measures\" were needed to contain the contagious virus. The UN health agency said the death toll had climbed to 1,069 in four afflicted countries, spanning Guinea, Sierra Leone, Liberia and more recently Nigeria. Sierra Leone's chief medical officer Brima Kargbo disclosed on Thursday that at least 32 of the nation's nurses and doctors had died from the Ebola virus while performing their duties between May 24 and August 13. Local staff suffered stigma, despite saving lives, Kargbo said. \"We still have to break the chain of transmission to separate the infected from the uninfected.\" Youth Olympics also affected The mounting alarm coincided with an announcement Friday from the International Olympics Committee that three athletes from Ebola-hit countries had been barred from competing in pool events and combat sports at the Youth Olympics opening in China on Saturday. ipj/tj (AfP, Reuters)",
+  "relations": [
+    [
+      "World Health Organization",
+      "UN",
+      "institution_of"
+    ],
+    [
+      "World Health Organization",
+      "UN",
+      "part_of"
+    ],
+    [
+      "Joanne Liu",
+      "Medicins Sans Frontieres",
+      "head_of"
+    ],
+    [
+      "Joanne Liu",
+      "Medicins Sans Frontieres",
+      "member_of"
+    ],
+    [
+      "Brima Kargbo",
+      "Sierra Leone",
+      "agent_of"
+    ],
+    [
+      "Brima Kargbo",
+      "Sierra Leone",
+      "citizen_of"
+    ],
+    [
+      "Youth Olympics",
+      "China",
+      "event_in0"
+    ]
+  ]
+}

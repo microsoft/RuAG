@@ -1,0 +1,125 @@
+{
+  "content": "Japan's nuclear mishap underlines industry malaise\nJapan's nuclear energy sector is riven by poor management, is overly bureaucratic and staffed by people who no longer have any pride in their jobs. So accidents are inevitable, say critics. Julian Ryall reports.\nThe Japan Atomic Energy Agency (JAEA) issued a statement on Saturday, June 10, claiming that none of the five workers at a nuclear research facility that it had previously reported had suffered serious internal radiation exposure after an accident on June 7 have plutonium in their lungs. The agency's report contradicts the initial claim that one of the workers had suffered internal exposure to 22,000 Becquerels of plutonium after a canister that had been in a storage unit at the Oarai Research and Development Center for 26 years was opened and bags holding the material burst. Read: Workers exposed to radioactive material at Japan nuclear research institute The initial JAEA assessment said the worker who had been holding the canister and inhaled some of its contents could expect to have a total of 360,000 Becquerels of radioactivity in his blood, bones and organs, while the other men would have lower rates of exposure. And while the announcement that the men did not inhale plutonium will be more than welcome news to all those affected by the accident, critics say it is just another example of misunderstandings, poor decision-making and lax oversight that continue to plague Japan's nuclear energy industry. Six years after disaster And they say such problems should have been stamped out a long time ago. It's already been six years since Japan endured the second-worst nuclear disaster in history after three reactors at theFukushima Daiichi nuclear plant experienced a meltdown after the facility was hit by an earthquake and tsunami. Japan's Asahi Shimbun newspaper has described the JAEA as \"an organization that has been accused of gross bungling in the past\" and said the confusion over the workers' exposure was caused by high levels of plutonium on the men's skin, not in their lungs. Read: The illusion of normality at Fukushima \"It's just another example of poor management in these organizations,\" said Aileen Mioko Smith, an anti-nuclear campaigner with Kyoto-based Green Action Japan, an NGO. \"I think these organizations have become overly bureaucratic, there is no longer any pride among the workforce in what they are doing - either at these sites or in management - and far too much work is subcontracted out because that is the easiest way for them to save money,\" she told DW. As another example, she points to an accident that occurred in January at the Takahama nuclear power plant, just outside Kyoto, that attracted relatively little media attention. High winds caused a 112-meter crane arm to collapse on the roof of the building that houses spent nuclear fuel rods. People 'furious' \"People living nearby and the local authority were furious,\" Smith said. \"And the explanation that we got from the operator of the plant was that they had not listened to the weather forecast and they did not know that high winds were predicted. That's just stupid.\" The nuclear industry has long had a problem with its patchy reputation for safety - a situation brought into sharp relief in Fukushima, where multiple failures of management have since been identified, including ignoring recommendations that the seawall protecting the plant be built higher and strengthened. The sector's bad image has made it an even less appealing career choice for the Japanese. \"I don't think there are many people there any more who are dedicated to tackling Japan's nuclear energy problems, as there were in the past,\" Smith said. \"The industry has lost its vision and its visionaries of the past and now it has people who really don't care very much. \"And I find that very scary because we now have five reactors online again and they need to be watched very closely, while there are dozens more that now need to be decommissioned,\" she stressed. \"We need capable and experienced people to do that work and make sure there are no more mishaps.\" Accidents unavoidable? Yet Jun Okumura, a political analyst at the Meiji Institute for Global Affairs, says accidents are inevitable in any industry and that the nuclear sector is no different. \"Any organization with this many layers of subcontractors and procedures that require human judgment to be exercised is going to experience problems,\" he said. \"And this is what we have now in this latest incident,\" he added. \"I am sure there will be a government inquiry, the problems will be identified and new regulations will be introduced to make sure the same thing does not happen again.\" The expert agrees that Japan's nuclear energy industry is suffering from an image problem made worse by the events of 2011 and the subsequent revelations. \"The media has obviously been picking up on anything that goes wrong now,\" he said. For Smith, simply accepting that accidents are going to happen in the nuclear industry is unacceptable. Accidents in other heavy industries - shipbuilding, mining, engineering, construction - may happen, but the impact is generally restricted to a small number of people in the immediate vicinity of the incident. Fukushima has shown the Japanese people that it is not the case with nuclear energy. \"They told people nuclear power was the future of Japan, that it was necessary for this country,\" she said. \"People now know they had the wool pulled over their eyes.\"",
+  "relations": [
+    [
+      "Japan Atomic Energy Agency",
+      "Japan",
+      "agency_of"
+    ],
+    [
+      "Japan Atomic Energy Agency",
+      "Japanese",
+      "agency_of-x"
+    ],
+    [
+      "Japan Atomic Energy Agency",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Japan Atomic Energy Agency",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Aileen Mioko Smith",
+      "Green Action Japan",
+      "member_of"
+    ],
+    [
+      "Oarai Research and Development Center",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Oarai Research and Development Center",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Daiichi",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Daiichi",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Asahi Shimbun",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Asahi Shimbun",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Fukushima",
+      "Japan",
+      "in0"
+    ],
+    [
+      "Fukushima",
+      "Japanese",
+      "in0-x"
+    ],
+    [
+      "Kyoto",
+      "Japan",
+      "in0"
+    ],
+    [
+      "Kyoto",
+      "Japanese",
+      "in0-x"
+    ],
+    [
+      "Green Action Japan",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Green Action Japan",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Green Action Japan",
+      "Kyoto",
+      "based_in2"
+    ],
+    [
+      "Takahama",
+      "Japan",
+      "in0"
+    ],
+    [
+      "Takahama",
+      "Japanese",
+      "in0-x"
+    ],
+    [
+      "Japanese",
+      "Japan",
+      "gpe0"
+    ],
+    [
+      "Jun Okumura",
+      "Meiji Institute for Global Affairs",
+      "member_of"
+    ],
+    [
+      "Meiji Institute for Global Affairs",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Meiji Institute for Global Affairs",
+      "Japanese",
+      "based_in0-x"
+    ]
+  ]
+}

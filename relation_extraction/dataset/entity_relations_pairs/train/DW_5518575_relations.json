@@ -1,0 +1,115 @@
+{
+  "content": "Economic summit places euro recovery at heart of Greek bailout\nAt the Munich Economic Summit, the head of the ECB called for a strong sense of direction to lead Europe out of dire financial straits due to debt trouble in Greece.\nThe head of the European Central Bank (ECB), Jean-Claude Trichet, said the key to sparing other European nations from further collateral damage from Greece's financial troubles is getting a rescue package to Athens as soon as possible. \"What we need most at this time is a strong sense of direction,\" said Trichet in a speech at the Munich Economic Summit on Thursday. \"We need a sense of direction that can guide us on how we can emerge from these turbulent events and how we can return to the path of economic stability.\" Trichet added that returning stability to Greece depended on three steps. The first is the ongoing meetings in Athens between the Greek government, the European Commission, the International Monetary Fund (IMF) and the ECB. The goal of the meetings is to come up with a concrete plan for Greece to rein in its spending to help get its debt under control. The second step toward regaining financial stability in the eurozone and in Greece is a financial aid package of 45 billion euros ($60 billion) for Athens that is currently under debate in the German government. Germany is being asked to contribute 8.4 billion euros. Finally, Trichet called for \"a giant step forward in our own framework of surveillance, peer pressure and policy adjustment within the [European] monetary union.\" He added that he hoped Germany would play a leading role in policy surveillance and adjustment. 'Help to help themselves' German President Horst Koehler also spoke at the Munich summit, and echoed Trichet's sentiment that a financial lifeline should be thrown to Greece. \"Greece must take responsibility,\" said Koehler, referring to the ongoing negotiations to reduce the country's spending. \"But it's understandable if they expect help so they can help themselves. Germany should, in its own interest, do its part to contribute to stability.\" Many German politicians, including Chancellor Angela Merkel, cite protection of the euro as the main reason for contributing to a bailout for Greece. Koehler added his support for Europe's common currency. \"So far, the euro has served Europe well,\" he said. \"As long as we don't make any serious mistakes, it will continue to serve Europe well and provide an anchor of stability in the world monetary system.\" Regain the upper hand Regarding future financial policy in Germany and Europe, Koehler advocated tougher rules and more transparency in the banking sector. \"Government must win back the upper hand over the financial market,\" he said. \"Too much room with no rules was given to the interests of protagonists in the financial market. That's one of the reasons the financial crisis was able to happen in the first place. It also led to a situation where the government was backed into a corner during the crisis, and that must not be allowed to happen again.\" Koehler said banks and financial institutions can no longer become too big to fail, and should have enough capital on hand to cover all kinds of investments, including hedge funds. He also called for an end to the existence of \"shadow banking entities.\" mz/AFP/Reuters Editor: Susan Houlton",
+  "relations": [
+    [
+      "Jean-Claude Trichet",
+      "European Central Bank",
+      "head_of"
+    ],
+    [
+      "Jean-Claude Trichet",
+      "European Central Bank",
+      "member_of"
+    ],
+    [
+      "Horst Koehler",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Horst Koehler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Horst Koehler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Horst Koehler",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Horst Koehler",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Economic Summit",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Economic Summit",
+      "Munich",
+      "event_in2"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "content": "Boy on cruise ship racks up €12,000 roaming bill\nA German family received an unwelcome surprise after returning home from a family cruise to Norway. The son had used just under a half a gigabyte worth of data while at sea, and was billed more than €12,000 as a result.\nA German family is seeking legal counsel after they arrived back home from a family holiday, only to find a phone bill totaling more than €12,000 (around $14,000). The family had taken a short cruise from the northern German city of Kiel to the Norwegian capital of Oslo. It was during that trip that the 12-year-old son decided to unwind and watch some videos on his phone. The catch: He was connected to the cruise ship's own phone network, which connects to the internet via satellite. While anyone can join the network, it is generally only intended to be used by the ship's crew to communicate with other vessels. In fact, German mobile phone networks can demand as much as €30 per megabyte of data downloaded through a satellite connection. The EU's abolition of roaming charges does not apply at sea. Read more: Germany, land of woefully slow internet As a result, the family was ordered by their network provider to pay almost €12,500 for just 470 megabytes of data. Legal counsel sought The phone network did agree to reduce the bill, admitting it was clear the son had connected to the cruise ship's network without knowing. Nevertheless, it still demanded €5,000. The family has since employed a lawyer to try and settle what they consider to be an \"immoral\" bill. The Norwegian cruise line operator Color Line said it regretted the incident but that it was unable to help. Read more: Smartphone tariffs: Germany, US charge 'exorbitant' prices Tips for surfing and roaming at sea: Before setting off, ask your network provider what its fees are for making calls and roaming via satellite connection. These will almost certainly be far higher than usual and is almost always best avoided, unless it is an emergency. Before even reaching the port, be sure to disable mobile data usage. This will ensure you don't connect to a docked ship's phone network before you've even set off. Find out if the cruise operator you'll be travelling with offers internet access on board that's intended for travelers, and what the prices and conditions are. While it will be expensive, the pricing will at least be transparent.",
+  "relations": [
+    [
+      "Kiel",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Kiel",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Color Line",
+      "Norway",
+      "based_in0"
+    ],
+    [
+      "Color Line",
+      "Norwegian",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Norwegian",
+      "Norway",
+      "gpe0"
+    ],
+    [
+      "Oslo",
+      "Norway",
+      "in0"
+    ],
+    [
+      "Oslo",
+      "Norwegian",
+      "in0-x"
+    ]
+  ]
+}

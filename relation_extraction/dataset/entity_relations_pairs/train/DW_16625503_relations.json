@@ -1,0 +1,305 @@
+{
+  "content": "Austrian Christoph Waltz picks up second Oscar\nChristoph Waltz has won Best Supporting Actor at the 85th Annual Academy Awards, the second Oscar for the Austrian actor. Austria also won top honors in the foreign language film category with \"Amour.\"\nWaltz won for his role as a Dr. King Schultz, a German dentist-turned-bounty hunter, in Quentin Tarantino's slavery revenge fantasy \"Django Unchained\" at the 85th edition of the Academy Awards, held Sunday at the Dolby Theater in Los Angeles. It was Waltz's second time winning the award in as many nominations, having also brought an Oscar home for another Tarantino picture, \"Inglorious Basterds,\" in 2010. In that film, Waltz portrayed wicked Nazi officer Hans Landa. 56-year-old Waltz, who also holds German citizenship, beat out Hollywood names like Robert De Niro and Tommy Lee Jones to win, and choked as he accepted his award. \"We participated in a hero's journey, the hero being Quentin,\" he said. Prior to his US film career, Waltz worked for 30 years in German theater, TV and film. His win three years ago launched him to fame, and he has since established himself as one of Hollywood's top actors. Anne Hathaway won best supporting acress award for her role in \"Les Miserables.\" The award for best Foreign Language Film went to \"Amour\" of Austria, which tells the heart-wrenching tale of an elderly couple coping with the wife's debilitating stroke. The film, directed by German-born filmmaker Austrian Michael Haneke, had dominated the awards ceremonies for months. \"Thank you to my wife, she was a member of the crew,\" Haneke said when accepting the award. \"You are the center of my life.\" It is the second time an Austrian film has won the award after \"The Counterfeiters\" in 2008. Best film, best director CIA thriller \"Argo\" won best picture. Directed by and Starring Ben Affleck, it tells the story of Americans working at the US embassy in Tehran, Iran, who go into hiding during the 1979 Iranian Revolution. First Lady Michelle Obama made an unprecedented appearance from the White House to declare the film the top winner of the evening. Taiwanese born director Ang Lee won the award for best director for his film \"Life of Pi,\" a fantasy adventure based on the novel by Yann Martel, about an Indian boy who survives a shipwreck to find himself in a lifeboat with a Bengal tiger. Daniel Day-Lewis won a record third best actor award as President Abraham Lincoln in Steven Spielberg's historical drama, \"Lincoln.\" Jennifer Lawrence took home the best actress award for playing a young widow in \"Silver Linings Playbook.\" \"Searching for Sugar Man\" picked up the award for best documentary feature. The film follows the story of Sixto Rodriguez, a once-forgotten 1960's musician from Detroit who unknowingly rose to enormous fame in South Africa. dr,rg/jr (Reuters, AFP, AP)",
+  "relations": [
+    [
+      "Christoph Waltz",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Christoph Waltz",
+      "Best Supporting Actor",
+      "award_received"
+    ],
+    [
+      "Christoph Waltz",
+      "Austria",
+      "citizen_of"
+    ],
+    [
+      "Christoph Waltz",
+      "Austrian",
+      "citizen_of-x"
+    ],
+    [
+      "Christoph Waltz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Austrian",
+      "Austria",
+      "gpe0"
+    ],
+    [
+      "Amour",
+      "Foreign Language Film",
+      "award_received"
+    ],
+    [
+      "Amour",
+      "Michael Haneke",
+      "created_by"
+    ],
+    [
+      "Amour",
+      "Michael Haneke",
+      "directed_by"
+    ],
+    [
+      "Michael Haneke",
+      "Austria",
+      "citizen_of"
+    ],
+    [
+      "Michael Haneke",
+      "Austrian",
+      "citizen_of-x"
+    ],
+    [
+      "King Schultz",
+      "Django Unchained",
+      "character_in"
+    ],
+    [
+      "Django Unchained",
+      "Quentin Tarantino",
+      "created_by"
+    ],
+    [
+      "Django Unchained",
+      "Quentin Tarantino",
+      "directed_by"
+    ],
+    [
+      "Dolby Theater",
+      "US",
+      "in0"
+    ],
+    [
+      "Dolby Theater",
+      "Los Angeles",
+      "in2"
+    ],
+    [
+      "Los Angeles",
+      "US",
+      "in0"
+    ],
+    [
+      "Los Angeles",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Inglorious Basterds",
+      "Quentin Tarantino",
+      "created_by"
+    ],
+    [
+      "Inglorious Basterds",
+      "Quentin Tarantino",
+      "directed_by"
+    ],
+    [
+      "Hans Landa",
+      "Inglorious Basterds",
+      "character_in"
+    ],
+    [
+      "Anne Hathaway",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Anne Hathaway",
+      "Les Miserables",
+      "plays_in"
+    ],
+    [
+      "The Counterfeiters",
+      "Foreign Language Film",
+      "award_received"
+    ],
+    [
+      "The Counterfeiters",
+      "Michael Haneke",
+      "created_by"
+    ],
+    [
+      "The Counterfeiters",
+      "Michael Haneke",
+      "directed_by"
+    ],
+    [
+      "CIA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "CIA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "CIA",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Argo",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Argo",
+      "Ben Affleck",
+      "created_by"
+    ],
+    [
+      "Argo",
+      "Ben Affleck",
+      "directed_by"
+    ],
+    [
+      "Ben Affleck",
+      "Argo",
+      "plays_in"
+    ],
+    [
+      "Americans",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Iranian Revolution",
+      "Iran",
+      "event_in0"
+    ],
+    [
+      "Michelle Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Michelle Obama",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ],
+    [
+      "White House",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Ang Lee",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Life of Pi",
+      "Ang Lee",
+      "created_by"
+    ],
+    [
+      "Life of Pi",
+      "Ang Lee",
+      "directed_by"
+    ],
+    [
+      "Daniel Day-Lewis",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Abraham Lincoln",
+      "Lincoln",
+      "character_in"
+    ],
+    [
+      "Abraham Lincoln",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Abraham Lincoln",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Lincoln",
+      "Steven Spielberg",
+      "created_by"
+    ],
+    [
+      "Lincoln",
+      "Steven Spielberg",
+      "directed_by"
+    ],
+    [
+      "Jennifer Lawrence",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Jennifer Lawrence",
+      "Silver Linings Playbook",
+      "plays_in"
+    ],
+    [
+      "Searching for Sugar Man",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Sixto Rodriguez",
+      "Searching for Sugar Man",
+      "character_in"
+    ],
+    [
+      "Detroit",
+      "US",
+      "in0"
+    ],
+    [
+      "Detroit",
+      "Americans",
+      "in0-x"
+    ]
+  ]
+}

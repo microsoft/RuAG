@@ -1,0 +1,140 @@
+{
+  "content": "German Minister Urges Peace in Georgia's Separatist Regions\nGerman Foreign Minister Steinmeier has called for an end to the \"spiral of violence\" between the Georgian government in Tbilisi and its Russian-backed rebel regions and presented a three-stage plan to break the deadlock.\nSteinmeier issued the plea as he began a tour of the region to sponsor a new peace plan aimed at calming the simmering tensions over Georgia's separatist regions of Abkhazia and South Ossetia. \"This is my appeal to break out of the spiral of violence. A lack of dialogue is not an option for the future,\" he said after meeting with his Georgian counterpart Eka Tkeshelashvili. Steinmeier, who chairs the so-called Group of Friends of the United Nations' Secretary on Georgia, is proposing a three-phase peace plan based on a mutual declaration of non-violence and repatriation of about 25,000 ethnic Georgians expelled from Abkhazia in the 1990s. Negotiations over the status of the two rebel regions, which have enjoyed de facto autonomy since the end of a civil war in 1994, was reserved for the final phase of negotiations. Tkeshelashvili said, \"The plan has great potential for success,\" but added that the most difficult thing would be to convince Russia. Peace talks remain distant The threat of armed conflict in the region last month has given urgency to international pressure for renewed peace talks, but Tbilisi, Moscow and the Russian-backed regions remain far apart on the basic premises for restarting peace talks. Officials in Tbilisi oppose a treaty on the non-use of force without guarantees on the return of refugees and the withdrawal of Russian peacekeeping forces base in the region. Russia's Foreign Minister Sergei Lavrov was skeptical of peace efforts Thursday. \"Signing of a treaty on the return of Georgian refugees to Abkhazia is unreal now, because such a return requires a calm situation,\" Lavrov was quoted as saying by news agency RIA-Novosti. \"We think that signing a treaty on the non-use of force without any preconditions is an absolutely unavoidable first step,\" he added. Experts see little hope for Steinmeier's plan Analysts do not expect anything conclusive from Steinmeier's trip, pointing to intransigence on the part of the Abkhaz President Sergei Bagapsh, who said he would \"not consider the plan.\" \"We are not going to discuss Abkhazia's status with anyone. We are building an independent, democratic state,\" Bagapsh was quoted by Georgian news agencies as saying. Speaking to journalists ahead of the meetings Thursday, Steinmeier admitted: \"We don't have any illusions about simple answers, but we cannot stand by without acting on this conflict. That would be irresponsible.\" From Tbilisi, the German minister is to travel to the Black Sea city of Batumi for talks with Georgian President Mikhail Saakashvili and then to Abkhazia on Friday before ending his three-day tour in Moscow. Most citizens of the breakaway republics have been issued Russian passports and over 2,500 Russian peacekeeping troops patrol the region under a UN ceasefire agreement. In opposition to Georgia's bid to join the North Atlantic Treaty Organization, Russia moved to strengthen diplomatic ties with the breakaway regions sharply aggravating tensions with the Georgian leadership in recent months.",
+  "relations": [
+    [
+      "Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Steinmeier",
+      "Group of Friends of the United Nations' Secretary on Georgia",
+      "member_of"
+    ],
+    [
+      "Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Tbilisi",
+      "Georgian",
+      "in0-x"
+    ],
+    [
+      "Tbilisi",
+      "Georgians",
+      "in0-x"
+    ],
+    [
+      "Eka Tkeshelashvili",
+      "Georgia",
+      "agent_of"
+    ],
+    [
+      "Eka Tkeshelashvili",
+      "Georgia",
+      "citizen_of"
+    ],
+    [
+      "Eka Tkeshelashvili",
+      "Georgia",
+      "minister_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "Sergei Bagapsh",
+      "Abkhazia",
+      "agent_of"
+    ],
+    [
+      "Sergei Bagapsh",
+      "Abkhazia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Bagapsh",
+      "Abkhazia",
+      "head_of_state"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Abkhazia",
+      "Georgia",
+      "in0"
+    ],
+    [
+      "South Ossetia",
+      "Georgia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "RIA-Novosti",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "RIA-Novosti",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Batumi",
+      "Georgia",
+      "in0"
+    ],
+    [
+      "Mikhail Saakashvili",
+      "Georgia",
+      "agent_of"
+    ],
+    [
+      "Mikhail Saakashvili",
+      "Georgia",
+      "citizen_of"
+    ],
+    [
+      "Mikhail Saakashvili",
+      "Georgia",
+      "head_of_state"
+    ]
+  ]
+}

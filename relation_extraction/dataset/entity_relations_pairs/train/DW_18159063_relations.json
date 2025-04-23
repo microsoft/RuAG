@@ -1,0 +1,45 @@
+{
+  "content": "Happy New Year: Alcohol is a neurotoxin\nWe usually toast the New Year with sparkling wine or champagne - which even in small quantities has an impact on our health and brains. But what exactly happens in our body after we've enjoyed a drink?\nChampagne tastes good, lifts the mood, maybe makes you a bit talkative - and affects your brain and body. It starts being absorbed into the blood stream through the mucus membranes in your mouth before heading on into the small intestine. There it continues to be absorbed, and then passed from the blood system to the liver. \"The liver is the first main stop. It has enzymes that can break down the alcohol,\" Helmut K. Seitz, a German researcher from Heidelberg, said. The liver's job is to transport toxins out of the body, and alcohol is one of them. But alcohol's first pass through the liver it does not break it down completely - some reaches the other organs. \"This applies for example to the pancreas, muscles and bones - and leads to corresponding changes,\" Seitz said. Alcohol can worsen even cause more than 200 diseases. Rush to the head Too much alcohol in the body affects especially the brain: perception is distorted, judgment clouded, and ability to concentrate decreases. At the same time, inhibitions are lowered, and a pleasant carefree feeling may arise. But too much of a good thing can lead unconsciousness - especially excessive binge drinking reflects this. Depression and aggression become stronger. A sad fact from 2012: Worldwide alcohol abuse and accidents, and violence under the influence of alcohol, led to a person's death every 10 seconds: 3.3 million people died of alcohol. When alcohol circulates through the body, it takes about 6 minutes to arrive to the brain. \"Ethanol alcohol is a small molecule. It's in the blood, in all water - it is water soluble,\" Seitz said. \"The human body consists of 70 to 80 percent water. The alcohol is distributed throughout, and then goes into the brain.\" Alcohol affects the neurotransmitters, or substances that are transmitted via nerve endings in the central nervous system. Alcohol can lead to false or altered transmission, which can cause acute damage. If the situation is chronic - after excessive consumption of alcohol for years, or even decades - the damage becomes correspondingly worse. \"It disrupts vitamins and trace elements that play a large role in the central nervous system,\" Seitz said. For example, our brains require Vitamin B1. If it's missing, due to excessive alcohol consumption, this can lead to Wernicke-Korsakoff syndrome. \"In the brain, the effects of alcohol abuse can lead to dementia,\" Seitz warned. Carcinogenic In mouth and throat, alcohol affects the mucus membranes - for example in the esophagus. The body can no longer protect those against toxins. This can have significant consequences, Seitz said, like serious inflammation of the pancreas. \"Let's think about cancer: tumors of the oral cavity, pharynx, larynx and esophagus, as well as liver or breast cancer,\" Seitz said. We often forget that alcohol is a risk factor for breast cancer, and also for the colon.\" Then there's cirrhosis of the liver. AS alcohol is metabolized in the liver, toxins are produced, which damage the liver cells. Approximately twenty to thirty thousand people die due to liver cirrhosis in Germany every year. \"Alcohol is metabolized by the liver, and then you think the poison is gone,\" Seitz explained. \"But an intermediate metabolite can even cause hereditary defects.\" Alcohol around the world In Germany, almost 12 liters of pure alcohol are consumed per capita per year. This corresponds to the equivalent of 500 bottles of beer - per person. In the United Kingdom and Slovenia, this is only slightly less, at 11.6 liters. But people in Ireland and Luxembourg drink even more than Germans: 11.9 liters on average, according to a World Health Organization study. Belarus takes a questionable first place: 17.5 liters of pure alcohol are consumed there annually. Countries such as Pakistan, Kuwait, Libya and Mauritania are at the bottom of the scale, with 0.1 liters per person per year. A very different situation prevails in some Asian countries. About 40 percent of all Japanese, Korean and Chinese people are missing an enzyme that breaks down acetaldehyde, which is an important prerequisite for the reducing alcohol in the body. \"Alcohol is converted to acetaldehyde, and acetaldehyde to acetic acid. But if acetaldehyde is not converted to acetic acid, then acetaldehyde accumulates,\" Seitz said. Asians who cannot process alcohol due to their genetic disposition can get headache, nausea, vomiting and tremors - and their faces become red. But alcohol also has a good side: \"It has a favorable effect on atherosclerosis, or the hardening of the blood vessels.\" Seitz said. He recommended a glass of wine a day, especially for people at risk of heart attack or stroke. Even Paracelsus knew that: The physician, healer and theologian preached at the beginning of the 16th century: \"All things are poison and nothing is without poison; only the dose makes a thing not a poison.\" So, as with many things: alcohol in moderation.",
+  "relations": [
+    [
+      "Helmut K. Seitz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Helmut K. Seitz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Helmut K. Seitz",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Heidelberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Heidelberg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Heidelberg",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

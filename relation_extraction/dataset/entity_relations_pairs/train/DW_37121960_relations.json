@@ -1,0 +1,55 @@
+{
+  "content": "India's Spicejet in 'game-changing' deal with Boeing\nIndian budget airline Spicejet has said it's buying hundreds of Boeing planes as it seeks to hike its share of the world's fastest-growing passenger aviation market. It will be able to expand into long-haul flights.\nIndian low-cost airline Spicejet announced Friday it was buying up to 205 planes from Boeing in a deal worth $22 billion (20.6 billion euros). The carrier said the contract included 100 737 jets from Boeing's new Max family of aircraft, which it said would help reduce fuel costs by up to a fifth. The deal also included the option to buy 50 wide-body planes suitable for long-haul flights. Spicejet, which currently has just 49 planes, said the order would enable it to boost its domestic operations and potentially expand into long-haul international flights. \"This is the largest deal for Spicejet, it's one of the largest in Indian aviation and is the largest for Boeing in India,\" Spicejet Chairman Ajay Singh said in a statement. Changing environment India's aviation market is growing at double the pace of China's, as an emerging middle class takes to the skies. The latest industry figures from the International Air Transport Association (IATA) show India's domestic air traffic grew by 22.3 percent in November year on year, followed by Russia at 15.5 percent and China in third position at 14.9 percent. The deal with Boeing marks a turnaround for Spicejet, whose planes were briefly grounded in 2014 after suppliers refused to refuel them due to unpaid bills. Most of India's airlines are still making losses, while state carrier Air India has long relied on government support. But lower fuel prices and a rise in economic growth have boosted the sector and enhanced airlines' profit prospects. hg/jd (AFP, dpa)",
+  "relations": [
+    [
+      "Spicejet",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Spicejet",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Max",
+      "Boeing",
+      "product_of"
+    ],
+    [
+      "Ajay Singh",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Ajay Singh",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Ajay Singh",
+      "Spicejet",
+      "head_of"
+    ],
+    [
+      "Ajay Singh",
+      "Spicejet",
+      "member_of"
+    ],
+    [
+      "Air India",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Air India",
+      "Indian",
+      "based_in0-x"
+    ]
+  ]
+}

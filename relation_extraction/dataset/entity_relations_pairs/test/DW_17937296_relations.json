@@ -1,0 +1,55 @@
+{
+  "content": "Top NATO commander says Ukraine ceasefire is 'in name only'\nNATO's top military commander has called the truce between Ukraine's military and pro-Russia separatists a 'ceasefire in name only.' US General Philip Breedlove said Russian forces were still operating inside Ukraine.\nSpeaking to reporters after a meeting with NATO military chiefs in Lithuania's capital Vilnius on Saturday, US General Philip Breedlove expressed \"sincere hope\" about a renewed peace plan, agreed to earlier in the day in the Belarusian capital Minsk, by separatists and representatives from Ukraine's and Russia's governments. The new pact, including an artillery buffer zone, was a move to strengthen a peace plan signed earlier this month, also in Minsk. However, Breedlove said violence levels in Ukraine in recent days were as high as prior to the earlier ceasefire. \"The ceasefire is still there in name, but what is happening on the ground is quite a different story,\" Breedlove said, adding that Russian forces were still operating in Ukraine, although he could not pinpoint how many. \"The fluidity of movement of Russian forces and Russian-backed forces back and forth across that border makes it almost impossible to understand the numbers,\" he said. A convoy from Russia consisting of about 170 trucks arrived in Ukraine on Saturday, with a reported cargo of humanitarian aid. Previous aid convoys sent from Russia were met with outrage in Kyiv, as it was suspected they may have been used to provide support to the pro-Moscow separatists in eastern Ukraine. Russia has repeatedly denied such accusations. The separatists have said they want to break from Kyiv and have already declared \"people's republics'\" in Donetsk and Luhansk. This week Ukraine's parliament passed a bill which paves the way for more autonomy for those areas. While neither Russia nor Ukraine are members of NATO, both share borders with NATO countries. se/ksb (AP, AFP)",
+  "relations": [
+    [
+      "Philip Breedlove",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Philip Breedlove",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Vilnius",
+      "Lithuania",
+      "in0"
+    ],
+    [
+      "Minsk",
+      "Belarusian",
+      "in0-x"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Donetsk",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Luhansk",
+      "Ukraine",
+      "in0"
+    ]
+  ]
+}

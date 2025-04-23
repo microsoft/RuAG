@@ -1,0 +1,55 @@
+{
+  "content": "Haribo boss Hans Riegel dies aged 90\nHAns, RIegel, BOnn: now you know how Haribo got its name. The German candy giant was founded by the Riegel family and was synonymous with Hans Riegel since 1946. The long term leader has died aged 90.\nA spokesman for Haribo said that the business' chief executive, Hans Riegel, died on Tuesday. Riegel had undergone brain surgery to remove a benign tumor last year. Riegel and his younger brother, Paul, rebuilt their father's company together after the Second World War. Founder Johann Riegel was known as Hans, and had named his company after the first letters in Hans, Riegel, and the business's home city, Bonn. The business grew to be world-renowned for its wide array of candy and sugary treats, not least its Gummibärchen, or gummy bears. Under the Riegel brothers' leadership, the company went global – even exporting its memorable slogan effectively into the English language. \"Kids and grown-ups love it so, the happy world of Haribo\" is an exceedingly loose but rhythmically pleasing translation of the original \"Haribo macht Kinder froh, und Erwachsene ebenso.\" With a keen sense for promotion and marketing, Riegel secured domestic celebrities like extravagant game show host Thomas Gottschalk for prolonged television advertising campaigns. Riegel could be found at the company headquarters, Hans-Riegel-Strasse 1, on most days even into his old age. Haribo employs around 2,000 people and logged turnover of just under 620 million euros ($835 million) in 2011. Haribo's deceased patriarch was awarded The Order of Merit of the Federal Republic of Germany, first class, in 1994 for his social engagement and promotion of sports. Austria also honored Riegel with the golden order of merit for services rendered to the republic of Austria. msh/rg (AFP, dpa)",
+  "relations": [
+    [
+      "Haribo",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Johann Riegel",
+      "The Order of Merit of the Federal Republic of Germany",
+      "award_received"
+    ],
+    [
+      "Johann Riegel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Johann Riegel",
+      "Haribo",
+      "head_of"
+    ],
+    [
+      "Johann Riegel",
+      "Haribo",
+      "member_of"
+    ],
+    [
+      "Gummibärchen",
+      "Haribo",
+      "product_of"
+    ],
+    [
+      "Paul",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Paul",
+      "Johann Riegel",
+      "sibling"
+    ],
+    [
+      "Bonn",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Thomas Gottschalk",
+      "German",
+      "citizen_of-x"
+    ]
+  ]
+}

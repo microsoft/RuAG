@@ -1,0 +1,110 @@
+{
+  "content": "Bhopal Gas Leak: 25 Years on\nShortly after midnight on December 2, 1984, the Indian city of Bhopal witnessed the world’s worst industrial disaster. Toxic fumes escaped from a pesticide factory owned by the US firm Union Carbide Corporation and engulfed the homes of thousands of residents, killing many in their sleep. As many as 3,000 people died in a single night - over 22,000 in the days and years that followed. 25 years later, the catastrophe in Bhopal is far from over. While survivors still have to cope with the long-term effects of being exposed to the gas, the disaster also has consequences for the city's newer residents.\nA few kilometers away from the city centre in Bhopal, an abandoned factory lies in ruins. This factory, formerly owned by the US-based firm Union Carbide Corporation, gave off toxic fumes on the night of December 2, 1984 which killed over 3,000 people. Today the factory premises are unused. In 1989 a controversial court ruling cleared the firm of all liability with regard to the incident. For residents living in the slums nearby, the sight of the derelict factory is a constant reminder of the disaster that hit them on a dark night 25 years ago. Satinath Sarangi, the director of the Sambhavna Trust Clinic for gas victims, says the impact of the catastrophe is still there for all to see. “Today, in many ways the conditions are worse than how it was on the morning of the disaster. More than 100,000 people are suffering from chronic illnesses related to the toxic gas exposure. Then there are tens of thousands of children born to gas-exposed parents with a range of growth and developmental disorders. And also in the last 25 years people who lost their health also lost their ability to work and earn a livelihood, which has meant starvation conditions for thousands of families, because the government has not provided any kind of economic rehabilitation support.” Groundwater pollution But it is not just through the long-term effects of gas-exposure that the repercussions of the disaster are being felt. The Union Carbide Factory in Bhopal dumped thousands of tons of toxins at the site. The poison continues to pollute groundwater and thus expose the residents to still more danger. In an official statement on the disaster put up on its website, Union Carbide maintains that it has spent two million dollars on clean-up efforts at the site. Yet a study released on December 1 by an independent research organisation, the Centre for Science and Environment, shows that groundwater at and near the factory site contains almost 40 times more pesticides than the average for India. Soil and water samples taken in areas as far as 3 kilometres away from the site show harmful substances including heavy metals like mercury and chromium in high concentrations. The residents of nearby slums use hand pumps or bore wells to extract their drinking water from the ground. It is of course heavily contaminated and is having a negative impact on health, says Ram Bai, a resident of the area. “For 25 years we have been drinking this polluted water, we have no access to clean water,” says Ram Bai. “There are constant illnesses here. That is why we demand our right to clean water. We have lived most of our lives, but we want to secure a better future at least for the children now being born here.” Birth defects among newborns The high level of chemicals present in the water is leading to a rising number of birth defects in new-born children. This can be witnessed even among people who moved to Bhopal after the disaster and were not exposed to the harmful gas. According to Satinath Sarangi of Sambhavna Trust, more children are born with developmental defects in this area than in any other comparable population. Yet an alternate source of water is still not available. In 2004, the Supreme Court of India directed the state government in Madhya Pradesh to provide clean drinking water to the settlements near the factory site. Now a water pipeline has been built, but local activists say the water does not reach all of the settlements on a regular basis. Moreover, some of the slum-dwellers have been told it is a private water supply and that they have to pay to use it. Outside the premises of the Union Carbide factory, women have gathered to shout slogans in protest at the conduct of the Madhya Pradesh state government. A few days ahead of the 25th anniversary of the disaster, the state government went so far as to deny that there was any toxic contamination at the site. The women in these settlements now want the world to know that while the catastrophe may have occurred a long time ago, their struggle for basic rights like health care and clean drinking water is far from over. Author:Pia Chandavarkar(Bhopal) Editor: Grahame Lucas",
+  "relations": [
+    [
+      "Bhopal",
+      "India",
+      "in0"
+    ],
+    [
+      "Bhopal",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Union Carbide Corporation",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Satinath Sarangi",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Satinath Sarangi",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Satinath Sarangi",
+      "Sambhavna Trust Clinic",
+      "head_of"
+    ],
+    [
+      "Satinath Sarangi",
+      "Sambhavna Trust",
+      "head_of"
+    ],
+    [
+      "Satinath Sarangi",
+      "Sambhavna Trust Clinic",
+      "member_of"
+    ],
+    [
+      "Satinath Sarangi",
+      "Sambhavna Trust",
+      "member_of"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Union Carbide Factory",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Union Carbide Factory",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Union Carbide Factory",
+      "Bhopal",
+      "based_in2"
+    ],
+    [
+      "Ram Bai",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Ram Bai",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Supreme Court",
+      "India",
+      "agency_of"
+    ],
+    [
+      "Supreme Court",
+      "Indian",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Court",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Supreme Court",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Madhya Pradesh",
+      "India",
+      "in0"
+    ],
+    [
+      "Madhya Pradesh",
+      "Indian",
+      "in0-x"
+    ]
+  ]
+}

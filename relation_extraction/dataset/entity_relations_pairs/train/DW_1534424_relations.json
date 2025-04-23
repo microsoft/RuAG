@@ -1,0 +1,185 @@
+{
+  "content": "Schröder Under Attack for Remarks\nGerman Chancellor Gerhard Schröder has come under fire for saying that German corporate heads are failing to create new jobs in spite of business-friendly reforms initiated by his government.\nOn Tuesday, senior representatives of German industry denied Schröder's allegations, saying that investments in Germany would continue to be made although conditions were far from ideal. Opposition politicians accused the chancellor of trying to deflect attention from the fact that his economic policy was a shambles. The German chancellor has grown increasingly edgy in recent weeks: Two months before a crucial regional election, his center-left government is battered by political scandals, strategy blunders and an economic crisis that won't go away. Losing the election in the industrial state of North Rhine-Westphalia in May would severely hamper the chancellor's ability to act by giving the opposition sufficient clout to block his legislative moves. Now the chancellor has identified a scapegoat responsible for his troubles. German business leaders, he told Bild on Sunday newspaper, should stop moving jobs abroad and start investing in Germany again. He claimed that corporate conditions were now excellent after his government had slashed taxes and labor unions had made compromises on wages and working hours. Party backs Schröder On Tuesday, SPD leader Franz Müntefering joined the chancellor's criticism. \"We have taken various steps in recent years that have helped companies improve their competitiveness,\" he said. \"And many companies have been rather successful in this. But there are also bad examples of corporations moving thousands of job abroad and we are now calling on them to make greater efforts and start investing in Germany again.\" German corparate leaders, however, rejected Schröder's allegations and said blame-throwing wouldn't help in difficult times. Business leaders call for more reforms Ludwig Braun, the president of the German Chamber of Industry and Commerce, argued that investments in German industry were rising again in spite of the fact that conditions were hardly ideal here. The head of the German metal-working employers, Martin Kannegiesser, said the chancellor must come to understand that globalization requires a strong presence in foreign markets. Reducing Germany's 5.2 million unemployed people, he added, will take a long time and requires much more sweeping political reforms. Opposition leaders such as CDU general secretary Volker Kauder have been more stinging in their criticism of Schröder. \"This is just a ploy by the chancellor to deflect attention from his government's huge policy failures,\" he said. \"He wants to distract from the visa scandal involving foreign minister Joschka Fischer and his own inability to create conditions in Germany that are conducive to investments here.\" Matching words with deeds Christine Scheel, finance policy expert of Schröder's junior coalition partners in the government, the Greens, said the chancellor should match his words with deeds now. It can no longer be tolerated she said that German companies, for example, can even write off against taxes the costs associated with moving jobs abroad. \"I don't think that such behavior is alright,\" she said. \"It's become a really big problem that companies have moved jobs abroad. The fact that this is even fostered by tax write-offs is something no-one can understand.\" Schröder, who used to be dubbed \"Darling of the Bosses,\" now feels let down and betrayed by corporate leaders: A recent survey of the top 30 German corporations reveals that they eliminated a total of 35,000 jobs in Germany last year alone. At the same time more than 9,000 jobs have been created at their foreign subsidiaries. In view of record unemployment of 12.6 percent of the work force, the chancellor's political fortunes have slumped drastically making victory in general elections next year ever more unlikely.",
+  "relations": [
+    [
+      "Darling of the Bosses",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Darling of the Bosses",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Darling of the Bosses",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Darling of the Bosses",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Darling of the Bosses",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "SPD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "SPD",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Franz Müntefering",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Franz Müntefering",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Franz Müntefering",
+      "SPD",
+      "head_of"
+    ],
+    [
+      "Franz Müntefering",
+      "SPD",
+      "member_of"
+    ],
+    [
+      "Ludwig Braun",
+      "German Chamber of Industry and Commerce",
+      "head_of"
+    ],
+    [
+      "Ludwig Braun",
+      "German Chamber of Industry and Commerce",
+      "member_of"
+    ],
+    [
+      "Martin Kannegiesser",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Martin Kannegiesser",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "CDU",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "CDU",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Volker Kauder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Volker Kauder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Volker Kauder",
+      "CDU",
+      "head_of"
+    ],
+    [
+      "Volker Kauder",
+      "CDU",
+      "member_of"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Joschka Fischer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Joschka Fischer",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Christine Scheel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Christine Scheel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Christine Scheel",
+      "Greens",
+      "member_of"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

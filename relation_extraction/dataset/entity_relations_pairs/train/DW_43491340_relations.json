@@ -1,0 +1,70 @@
+{
+  "content": "Sieren's China: Economic growth better than expected\nDespite the threat of a trade war with the US, China's economic growth has exceeded expectations, allowing an opportunity to address certain problems, says DW's Frank Sieren. \nUS President Donald Trump was surely not pleased about the news, perhaps he even foamed at the mouth. According to the latest figures from Beijing, China's GDP between January and March this year grew by 6.8 percent more than during the same period in 2017. This is even more than the 6.7 percent that certain experts had predicted. It is also more than the government's original goal of 6.5 percent. The result comes after the closure of several factories that were harmful to the environment. The government also put a brake on loans and clamped down on shadow banking, stopped insurance speculation and slowed down the real estate boom. The message is that China can maintain robust growth even if it puts limits on itself. Of course, as always, one can question whether the figures from China are correct. The president probably does not even know whether the real figure is 6.6 or 6.7 percent. However, it is clear that the general trend of recent decades seems reliable. What is also clear is that in future, exports will play a smaller role for China's economy. Ten years ago, they made up 35 percent of China's GDP. Now, they comprise 18 percent. Growth in urban centers Consumption in China now makes up 77.8 percent of the economic growth, having increased by 20 percent since last year. Compared to the US, where it makes up 70 percent of the economy, there is still potential in China, which has at least four times as many inhabitants as the US and yet only now has attained the per capita income of Macedonia (GDP per capita: $15,200 in 2017). It is not totally off the wall to conceive that China could one day tell the US that it can no longer supply its market because it needs to meet its own domestic demand. Read more: Sieren's China: Stronger than presumed China is already producing more and more for its own market. Chinese consumers are buying more than ever, from make up to clothes to technical devices, after long having been considered people who preferred to save. In urban centers in particular the market for services and domestic consumption are driving the economy. Chinese people are buying more and more Chinese products. Ten years ago, there may have been no alternative to the iPhone, which is number four in China, but now there are many. Last year, the three top phones in China were made by Chinese companies. Innovation-driven boom The fact that Beijing invested in key industries of the future such as IT and artificial intelligence is already paying off. Online traders always know better what customers want. Apps made by Alibaba and WeChat are making it extremely easy to consume. Smartphone users can order vegetables, cinema tickets and train tickets by app; they can pay the rent, hire out bikes and much more. China at the same time has learned to produce in a more efficient way. In the first quarter of 2018, it produced 30 percent more industrial robots than in the year before and 139 percent more electric cars. Stricter rules for buying real estate apparently did not frighten away investors but simply increased trust in the market's stability. The real estate sector grew by 10.4 percent — more than in the past three years. Demand is high because people continue to migrate from rural areas to urban centers; and not only migrant workers but people who have already been successful in rural areas and want to do the same in the big cities. Consumer trust is higher than in the past three years this does not look set to change. Chinese families are generally not in debt — instead they are sitting on reserves. Domestic debt as a whole might be high but this is not an issue as long as China doesn't have any debts abroad and has access to huge currency reserves. Bad news for Donald Trump! US only plays a marginal role Even if trade were to completely stop between the US and China, it would only affect China's growth by between 0.3 and 0.6 percent according to the Beijing-based economy professor, Hu Xingdou. This is not likely to happen anyway. Thanks to its \"New Silk Road\" project, China is already creating new markets to sell its exports, in South Asia, Latin America and Africa for example. Therefore, the current dispute with the EU about transparent investment conditions will also only have a marginal impact. China's exchange of goods with ASEAN states alone has grown by 9 percent to $279 billion (€227 billion). When the Silk Road is finished, it will link 65 countries and unite some 40 percent of the global economy. Of course, the project is skewed in China's favor and it will get the biggest slice of the cake. It is also intentional that the US be marginalized. Of course, China has its weak points too. The gap between the rural and urban parts of the country remains a challenge for Beijing. This is reflected in the quarterly figures by slow retail figures in rural areas. The debts of state businesses and official budgets are also growing. Inefficient state companies that have high debts have to be reformed or closed and the overcapacity in state, cement and aluminum production has to be balanced. But with this good news for the economy, Beijing has a good base for solving such problems step by step. Frank Sieren has lived in Beijing for over 20 years.",
+  "relations": [
+    [
+      "Frank Sieren",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Alibaba",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Alibaba",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "WeChat",
+      "China",
+      "based_in0"
+    ],
+    [
+      "WeChat",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Hu Xingdou",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Hu Xingdou",
+      "Chinese",
+      "citizen_of-x"
+    ]
+  ]
+}

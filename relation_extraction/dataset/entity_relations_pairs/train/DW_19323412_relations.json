@@ -1,0 +1,215 @@
+{
+  "content": "Report: German MPs advised not to visit Turkey\nGermany's Foreign Ministry has advised lawmakers with a Turkish background to avoid going to Turkey in the near future. Politicians of Turkish origin are facing a backlash over a Bundestag vote on the Armenian genocide.\nAn internal assessment from the German Foreign Office said the safety of parliamentarians traveling to Turkey could not be guaranteed, news magazine \"Der Spiegel\" reported on Saturday. The warning followed Ankara's angry reaction to the Bundestag's adoption of an Armenian genocide resolution last week. Germany is the 26th country to recognize the massacre of up to 1.5 million Armenians at the hands of Ottoman forces in 1915-16 as genocide. Turkey rejects the term genocide and insists the Ottoman Empire had no plans to deliberately eliminate the Armenian minority. Following the vote, Turkish President Recep Tayyip Erdogan lashed out at the 11 politicians of Turkish descent from the CDU, SPD, Greens and the Left party who had backed the motion. He accused them of siding with the outlawed Kurdish militant PKK and suggested their blood was \"tainted.\" Threats to safety Green Party co-leader Cem Özdemir, who spearheaded the vote, has reported receiving dozens of death threats from Turkish nationalists. He is under police protection and has boosted security around his Berlin home. \"Der Spiegel\" said a number of Bundestag officials with Turkish heritage had canceled business trips to Ankara and summer vacation plans on the Bosphorus. Germany's Integration Commissioner Aydan Özoguz, of the Social Democratic Party, said the developments were unfortunate. \"It is indescribable knowing that it's not possible to fly there at the moment,\" he said. \"Erdogan needs to understand that we are not an extension of Turkey.\" Sevim Dagdelen, a Left party MP, called on the German government to take action. \"Merely issuing a travel warning to us deputies isn't enough,\" she told AFP, adding that the ruling coalition should hit Turkish officials behind attacks on German MPs with an entry ban. nm/bk (AFP, dpa)",
+  "relations": [
+    [
+      "Green Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Green Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democratic Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democratic Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "German Foreign Office",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Foreign Office",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Foreign Office",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Foreign Office",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Foreign Office",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Der Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "CDU",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "CDU",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Left party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "PKK",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "PKK",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Cem Özdemir",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Cem Özdemir",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Cem Özdemir",
+      "Green Party",
+      "head_of"
+    ],
+    [
+      "Cem Özdemir",
+      "Green Party",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Aydan Özoguz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Aydan Özoguz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Aydan Özoguz",
+      "Social Democratic Party",
+      "member_of"
+    ],
+    [
+      "Sevim Dagdelen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sevim Dagdelen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sevim Dagdelen",
+      "Left party",
+      "member_of"
+    ]
+  ]
+}

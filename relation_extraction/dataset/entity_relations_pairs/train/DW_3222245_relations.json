@@ -1,0 +1,45 @@
+{
+  "content": "Data Watchdog Questions EU's Controversial Fingerprint Plan\nA potential scandal over infringements on privacy rights has surfaced in Brussels after it was revealed that the EU is considering launching a fingerprinting drive which would involve citizens as young as six years old.\nThe plans to add fingerprints to the new European passports and store them in a centralized database was launched in Brussels on Oct. 18 by EU Justice, Freedom and Security Commissioner Franco Frattini, the just as European leaders gathered for an important summit in Lisbon, the dpa news agency reported. But after Peter Hustinx, the head of the European data protection watchdog [EDPS], announced the watchdog agency's concerns on Thursday, march 27, EU officials worked to calm fears over the potential for privacy infringements. Hustinx's main concerns focus on controversial plans to fingerprint children as young as 6 years old and elderly people who would be physically unable to provide theirs, as well as the creation of a centralized database, which would hold a copy of fingerprints belonging to all EU citizens. Civil liberties advocates fear that such a database could be violated and used for criminal purposes. EU defends plan to fingerprint children Frattini's office on Thursday rejected calls for the 6-year-old exemption limit to be raised to include children under the age of 14 so that it may be brought \"in line with international practice,\" arguing that the measure was needed to prevent child-trafficking. Officials also said they were willing to address Hustinx's concerns about the centralized database and respond within \"a matter of weeks.\" \"We have just received the comments, and we want to take them serious,\" said Friso Roscam Abbing, Frattini's spokesman. \"Creating big databases poses data-protection challenges, nobody will deny it. However, precisely because we are aware of those challenges we will do everything that is needed to address them ... and ensure that we are taking duly into consideration all legitimate data protection concerns.\" Brussels claims citizens no longer hold concerns Officials in Brussels also argued that a growing number of EU citizens no longer fear being likened to potential suspects simply because their fingerprints are taken, noting that biometric data of this kind has become increasingly common, for instance as an added security measure in laptops. Slovenian Interior Minister Dragutin Mate, whose country holds the rotating presidency of the EU, acknowledged to reporters that the proposal will likely encounter difficulties when it is due to be discussed by the European Parliament and by member states.",
+  "relations": [
+    [
+      "Franco Frattini",
+      "European",
+      "member_of"
+    ],
+    [
+      "European Parliament",
+      "European",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "European",
+      "part_of"
+    ],
+    [
+      "Peter Hustinx",
+      "European data protection watchdog",
+      "head_of"
+    ],
+    [
+      "Peter Hustinx",
+      "European data protection watchdog",
+      "member_of"
+    ],
+    [
+      "Friso Roscam Abbing",
+      "European",
+      "member_of"
+    ],
+    [
+      "Dragutin Mate",
+      "Slovenian",
+      "citizen_of-x"
+    ],
+    [
+      "Dragutin Mate",
+      "Slovenian",
+      "minister_of-x"
+    ]
+  ]
+}

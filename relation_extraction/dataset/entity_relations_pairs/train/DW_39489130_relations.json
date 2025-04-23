@@ -1,0 +1,155 @@
+{
+  "content": "Twitter's rainbow reaction to marriage equality vote in Germany\nGermany's historic same-sex marriage vote saw an outpouring of jubilation on social media. Hashtags like #MarriageEquality and #LoveWins were used to broadcast the news.\n\"Such a beautiful morning for Europe and the world,\" tweeted Dustin Lance Black, the American screenwriter and LGBTQ rights activist who won an Oscar for \"Milk\" (2008), the film tracing the life of the gay rights icon Harvey Milk. In the US, media outlets quickly took to Twitter to spread the news. Slate Magazine retweeted a picture of the German Green Party celebrating the yes vote by cutting a rainbow marriage cake crowned by two women. Meanwhile, the Stop Homophobia advocacy group urged its followers in Germany to \"Now go and get married!\" German author and journalist Carolin Emcke, winner of the Peace Prize of the German Book Trade in 2016, said that the \"feeling of happiness on this day cannot be damaged by all the slurs,\" referring to conservative politicians' statements against the vote. Feminist editor and author Teresa Bücker, also from Germany, was brought to tears. \"Cry and I cry with you. Thanks to all who have fought so long for this day!\" she tweeted. Some were disappointed that Angela Merkel voted against the bill. Berlin-based gay travel writer, Adam Groffman, set off a flurry of debate when he pointed out Merkel's no vote. With the vote on same-sex marriage happening early morning Berlin-time, Australians were among the first to receive the news (Australia is eight hours ahead) and quickly took to social media to register their rainbow-colored support. They included the Australian Sex Party, which has been contesting elections since 2009. Popular singer and TV host David Campbell quickly noted that Australia, which has still to legalize same-sex marriage, has fallen behind Germany. Advocacy group Australian Marriage Equality was quick to note that Germany was the 23rd country to sanction same-sex marriage. Finally, Conchita Wurst, Austrian winner of Eurovision in 2015, sent out a live congratulations on Twitter, calling it a \"wonderful day\" for the LGBTQ community in Germany.",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Dustin Lance Black",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Dustin Lance Black",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Dustin Lance Black",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Dustin Lance Black",
+      "Milk",
+      "created_by"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Harvey Milk",
+      "Milk",
+      "character_in"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Green Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Green Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Carolin Emcke",
+      "Peace Prize of the German Book Trade",
+      "award_received"
+    ],
+    [
+      "Carolin Emcke",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Carolin Emcke",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Teresa Bücker",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Teresa Bücker",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Australians",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Australian",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Sex Party",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Sex Party",
+      "Australians",
+      "based_in0-x"
+    ],
+    [
+      "Sex Party",
+      "Australian",
+      "based_in0-x"
+    ],
+    [
+      "Australian Marriage Equality",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Australian Marriage Equality",
+      "Australians",
+      "based_in0-x"
+    ],
+    [
+      "Australian Marriage Equality",
+      "Australian",
+      "based_in0-x"
+    ],
+    [
+      "Conchita Wurst",
+      "Austrian",
+      "citizen_of-x"
+    ]
+  ]
+}

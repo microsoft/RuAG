@@ -1,0 +1,135 @@
+{
+  "content": "EU appeals to members for more assets for Frontex\nFrontex says Greece and Hungary are buckling under an unprecedented influx of migrants. The EU's border agency wants nations to commit more vehicles and personnel.\nThe European Union made a fresh appeal Friday for member states to provide aircraft and other assets so that Frontex, the EU's border agency, can help states like Greece and Hungary cope with a fresh wave of migrants. A record 49,550 migrants tried to reach the European Union through Greece alone last month, more than had been recorded for all of 2014, Frontex said. According to the International Organization for Migration, more than 192,000 migrants have arrived in Europe by sea this year already. Over 2,000 migrants are believed to have died attempting the perilous Mediterranean crossing. \"Because of the short distance between Turkey and the Greek islands, the smugglers cram migrants onto small boats,\" Frontex said in a statement. \"As a result, border guards must deal with a large number of incidents.\" About 90 percent of the new arrivals are escaping Syria and Afghanistan, the agency said, while the remaining come from other conflict zones or are economic migrants. Many countries have already pledged to provide assets for short-term use, but Frontex spokeswoman Natasha Bertaud said more planes and \"technical assistance\" including personnel and patrol cars were necessary. Hungary's wall with Serbia Hungary is also facing a crisis as it has received an unprecedented 110,000 migrants this year, nearly all walking from neighboring Serbia. Hungarian Prime Minister Viktor Orban announced that a 4-meter (13-foot) high fence, currently under construction by the Hungarian military, would be in place by the end of the month. But Roberta Metsola, a leading European parliamentarian from Malta, called for \"a seismic shift\" in EU thinking in dealing with the influx. \"We cannot let history judge us as the generation who stood by and talked while people died,\" she said. Meanwhile, Greek Prime Minister Alexis Tsipras asked Europe to help as his heavily indebted country could not deal with them alone. \"The EU is being tested on the issue of Greece. It has responded negatively on the economic front - that's my view. I hope it will respond positively on the humanitarian front,\" he said Friday. UNHCR calls situation 'shameful' The Greek premier's comments came as the United Nations refugee agency (UNHCR) called on Greece to take control of the \"total chaos\" on Mediterranean islands, where thousands of migrants have landed. \"The level of suffering we have seen on the islands is unbearable. People arrive thinking they are in the European Union. What we have seen was not anything acceptable in terms of standards of treatment,\" Vincent Cochetel, UNHCR director for Europe said after visiting the Greek islands of Lesbos, Kos and Chios. \"I have never seen a situation like that. This is the European Union and this is totally shameful.\" jar/bk (AP, dpa)",
+  "relations": [
+    [
+      "Frontex",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "Frontex",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Natasha Bertaud",
+      "Frontex",
+      "member_of"
+    ],
+    [
+      "Natasha Bertaud",
+      "Frontex",
+      "spokesperson_of"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Hungarian",
+      "Hungary",
+      "gpe0"
+    ],
+    [
+      "Viktor Orban",
+      "Hungary",
+      "agent_of"
+    ],
+    [
+      "Viktor Orban",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Viktor Orban",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Viktor Orban",
+      "Hungary",
+      "head_of_gov"
+    ],
+    [
+      "Viktor Orban",
+      "Hungarian",
+      "head_of_gov-x"
+    ],
+    [
+      "Roberta Metsola",
+      "Malta",
+      "citizen_of"
+    ],
+    [
+      "Roberta Metsola",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greece",
+      "agent_of"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greece",
+      "head_of_gov"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greek",
+      "head_of_gov-x"
+    ],
+    [
+      "Vincent Cochetel",
+      "United Nations refugee agency",
+      "head_of"
+    ],
+    [
+      "Vincent Cochetel",
+      "United Nations refugee agency",
+      "member_of"
+    ],
+    [
+      "Lesbos",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Lesbos",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Kos",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Kos",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Chios",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Chios",
+      "Greek",
+      "in0-x"
+    ]
+  ]
+}

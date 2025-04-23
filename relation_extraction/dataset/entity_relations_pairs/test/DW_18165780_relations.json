@@ -1,0 +1,70 @@
+{
+  "content": "Italy's president Napolitano announces imminent resignation\nCiting his advanced age, Italy's President Giorgio Napolitano has announced his plan to resign. The 89-year-old did not say when exactly his resignation would take effect.\nCalling the move a personal decision, President Giorgio Napolitano made his announcement during an end-of-year speech on Wednesday. \"I'm about to step down, to resign as the constitution expressly allows,\" he said, adding. \"I've reached an age that brings with it growing limitations and difficulties for me to do my institutional duties, which are complex and very demanding.\" Though he did not say when his resignation would take effect, a potential date is January 13 when Italian Prime Minister Matteo Renzi is due to give up the country's rotating six-month presidency of the Council of the European Union. Renzi faces a political challenge in organizing a replacement for Napolitano, dubbed by Italian media as \"King George.\" The president has served as a key intermediary between political parties through numerous changes in government and other tricky political situations. Napolitano, a former communist respected by Europe and Washington, took office in 2006. At the end of his seven-year mandate in 2013, he was asked to stay on because parliament could not agree on his successor. At the time he warned he may not serve out the full term, given his age. In Italy, presidents have loosely-defined powers including the ability to nominate prime ministers, dissolve parliament and veto legislation, as well as use the moral authority of the office to influence politics. se/cmk (dpa, Reuters)",
+  "relations": [
+    [
+      "Giorgio Napolitano",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Giorgio Napolitano",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Giorgio Napolitano",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Giorgio Napolitano",
+      "Italy",
+      "head_of_state"
+    ],
+    [
+      "Giorgio Napolitano",
+      "Italian",
+      "head_of_state-x"
+    ],
+    [
+      "Matteo Renzi",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Matteo Renzi",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Matteo Renzi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Matteo Renzi",
+      "Italy",
+      "head_of_gov"
+    ],
+    [
+      "Matteo Renzi",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Council",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "Council",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ]
+  ]
+}

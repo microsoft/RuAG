@@ -1,0 +1,205 @@
+{
+  "content": "Israeli-Palestinian conflict rears its ugly head\nIsraeli troops have fired upon the Gaza Strip for the first time since November in retaliation for an attack from the Palestinian territories. It appears that Hamas is struggling to control splinter groups.\nThe heavily guarded border between Israel and the Gaza Strip had been largely calm for four months - until Tuesday night. For the first time since a ceasefire was brokered in November 2012, the Israeli Air Force targeted areas in the Gaza Strip. Rockets fired from the Palestinian territories preceded the Israeli strikes. On Wednesday, rockets were fired from Palestinian coastal regions into Israel. The exchange of fire has triggered concerns of a repeat of the eight-day war between Hamas and Israel last November. Six Israelis and 169 Palestinians died during that conflict. \"We will not allow shooting of any sort (even sporadic) towards our citizens and our forces,\" said Israel's new Defense Minister Moshe Yaalon. \"Israel has no intention of ignoring fire from Syria toward Israeli territory, incidental or not, and will respond with a firm hand,\" Yaalon added. A Palestinian Salafist group claimed responsibility for the initial rocket attack, although this could not be confirmed. The Israeli army routinely blames any attacks on Hamas, which, it believes, should be enforcing the territorial ceasefire. When US President Barack Obama visited Israel last month, a group of alleged Salafists violated the ceasefire by launching rockets on the Israeli city of Sderot. Hamas reportedly apprehended the attackers at that time. Hamas likely not involved Palestinian journalist Anis Muhsin of the Institute for Palestine Studies in Beirut ruled out a Hamas connection in the most recent attack. \"It's not in their interests. They're governing the Gaza Strip, and want the situation there to stay very quiet,\" Muhsin told DW. Hamas only recently established its new leadership and was thus seeking stability, Muhsin added. More likely, he said, the attackers were small factions with connections to other countries or to al Qaeda, and were seeking to shatter whatever fragile peace exists in the region. In effect, this was a blow to Hamas and its goals of controlling the area and preventing further attacks. Muhsin believes the most recent escalation could be linked to the death of a Palestinian prisoner in Israel. The Salafist group that claimed responsibility for the recent shelling allegedly sought to avenge the prisoner's death. Palestinian agencies had accused Israeli authorities of denying necessary treatment to the prisoner, Maysara Abu Hamdiyeh, who died of cancer aged 64 this past Tuesday. \"That made the Palestinian population and the political class angry,\" Muhsin said. Although Israeli prison authorities denied the accusations, around 5,000 Palestinian prisoners declared a hunger strike in solidarity with Hamdiyeh. Struggling to control radicals Israeli political scientist Yithak Reiter agrees that more radical Palestinian groups than Hamas have an interest in firing rockets at Israel in light of developments over the past months. After the ceasefire was declared in November, Israel and Hamas opened talks. The Islamist Palestinian organization was supposed to have stuck to its promise of preventing attacks from the coastal strip, while Israel's part of the deal was to ease its clampdown on the region. Reiter said delegations from both sides were currently meeting in Cairo in an effort to expedite that process - a move that militant groups could torpedo through violence. Whether the bloody cycle of violence and revenge will restart is not clear. Reiter said diplomacy still stood a chance, reflected by US Secretary of State John Kerry's Middle East tour and his attempts to mediate between Israel and Palestine. \"Only if these attempts result in a dead end, will we see more frustration and violence,\" Reiter concluded.",
+  "relations": [
+    [
+      "Israeli Air Force",
+      "Israel",
+      "agency_of"
+    ],
+    [
+      "Israeli Air Force",
+      "Israeli",
+      "agency_of-x"
+    ],
+    [
+      "Israeli Air Force",
+      "Israelis",
+      "agency_of-x"
+    ],
+    [
+      "Israeli Air Force",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Israeli Air Force",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "Israeli Air Force",
+      "Israelis",
+      "based_in0-x"
+    ],
+    [
+      "Moshe Yaalon",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Moshe Yaalon",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Moshe Yaalon",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Moshe Yaalon",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Moshe Yaalon",
+      "Israel",
+      "minister_of"
+    ],
+    [
+      "Moshe Yaalon",
+      "Israeli",
+      "minister_of-x"
+    ],
+    [
+      "Moshe Yaalon",
+      "Israelis",
+      "minister_of-x"
+    ],
+    [
+      "Hamas",
+      "Palestine",
+      "based_in0"
+    ],
+    [
+      "Hamas",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Hamas",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "Anis Muhsin",
+      "Palestine",
+      "citizen_of"
+    ],
+    [
+      "Anis Muhsin",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Anis Muhsin",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Anis Muhsin",
+      "Institute for Palestine Studies",
+      "member_of"
+    ],
+    [
+      "Yithak Reiter",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Yithak Reiter",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Yithak Reiter",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Maysara Abu Hamdiyeh",
+      "Palestine",
+      "citizen_of"
+    ],
+    [
+      "Maysara Abu Hamdiyeh",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Maysara Abu Hamdiyeh",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Palestinian",
+      "Palestine",
+      "gpe0"
+    ],
+    [
+      "Israelis",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Palestinians",
+      "Palestine",
+      "gpe0"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Sderot",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Sderot",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Sderot",
+      "Israelis",
+      "in0-x"
+    ],
+    [
+      "Institute for Palestine Studies",
+      "Beirut",
+      "based_in2"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "content": "Beginner: veteran German rappers are back\nThe hip-hop trio Beginner from Hamburg made their fans wait 13 years for a new album. The delay may have been Jan Delay, as he pursued a solo career. Now, Beginner have moved on to \"Advanced Chemistry\".\nAfter 25 years in the business, Beginner are anything but. The German rappers have built and held onto a cult following. Now, after pursuing solo ventures, they're back together. But the music scene has changed radically since their last album 13 years ago.",
+  "relations": [
+    [
+      "Beginner",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Beginner",
+      "Hamburg",
+      "based_in2"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Jan Delay",
+      "Beginner",
+      "member_of"
+    ],
+    [
+      "Advanced Chemistry",
+      "Beginner",
+      "created_by"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "content": "'We need the death penalty to deter criminals'\nThe latest statistics on the death penalty published by Amnesty International confirm that no country executes more people than China. Recent reforms are unlikely to change this any time soon.\nAmnesty International assumes that several thousands of people were executed in China last year - which is more than in all other countries, which all together, have carried it out 527 times. For the second year, the human rights watchdog refrains from publishing more precise figures or even estimates about the number of executions in China, which is a state secret. Many offenses can be punished by death in China, not only murder, but also corruption and other economic crimes. Widespread public support The official justification for this practice is that the death penalty is needed to deter criminals. And if one asks people in the streets of Beijing, many share the government's view. One man said, \"I think we need the death penalty. Otherwise our society would be too chaotic. Every country has its own particular situation, and China is no exception.\" Widespread corruption in particular makes people angry.\" Ordinary people hate nothing more than corruption,\" a woman said. \"Even if you shoot a corrupt official ten times over, this hatred won't go away. In fighting corruption, penalties can't be too harsh. They should all be put to death!\" Gradual changes Despite China's harsh penalties the attitude towards the death penalty has gradually changed since the opening of the country 30 years ago. For years, death-row inmates were paraded through the streets on the way to their public executions. But shooting criminals in public was banned in the late 1980s for harming the country's image. Today, executions take place in jails or special execution buses, reports the California-based rights organization Dui Hua Foundation. More and more, bullets are being replaced by lethal injections. Since 2007, the Supreme Court has had to confirm each death sentence, which has brought down the number of executions, says Liu Renwen, a law expert from the Chinese Academy of Social Sciences (CASS) in Beijing. \"This is meant to cause some restraint in the provinces in proclaiming death sentences, and to bring down their numbers further still.\" No precise figures known The exact number of death sentences remains a well guarded state secret. Chinese experts are cautious to talk about this topic publicly, fearing repercussions. Rights groups such as the Dui Hua Foundation assume that the number of annual executions stood at about 10,000 ten years ago, and has been halved in the meantime. Apparently the intention in Beijing is to further reduce the figure, but at the same time, the leadership believes that the time has not come for abolishing the death penalty altogether. Professor Liu Renwen, who openly opposes the death penalty himself, admits that the chances are slim at the moment. \"Laws must reflect the harmonious values of a society and the demands of the majority. So we can just cut down the death penalty step by step. It would be difficult to completely do away with it all of a sudden.\" China has launched at least a cautious reform of the death penalty a month ago. Previously, 68 offenses had been punishable by death, 13 of which are now set to be removed from the list. The maximum penalty will no longer be possible for criminals smuggling rare animals or looting archeological excavation sites, for example. But human rights groups think this will hardly affect the number of annual executions as many of these crimes, including VAT fraud, have not been punished by death for years. Author: Ruth Kirchner / tb Editor: Sarah Berning",
+  "relations": [
+    [
+      "Dui Hua Foundation",
+      "California",
+      "based_in1"
+    ],
+    [
+      "Chinese Academy of Social Sciences",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Chinese Academy of Social Sciences",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Chinese Academy of Social Sciences",
+      "Beijing",
+      "based_in2"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Supreme Court",
+      "China",
+      "agency_of"
+    ],
+    [
+      "Supreme Court",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Court",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Supreme Court",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Liu Renwen",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Liu Renwen",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Liu Renwen",
+      "Chinese Academy of Social Sciences",
+      "member_of"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ]
+  ]
+}

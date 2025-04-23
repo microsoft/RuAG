@@ -1,0 +1,115 @@
+{
+  "content": "Opinion: So much for a 'lame duck,' Obama's State of the Union\nIn his State of the Union address, US President Barack Obama confidently defied Republican leaders. Obama wants to give his policies one last push, says DW's Gero Schließ.\nThat was not the voice of a loser. It was the voice of a winner. Forget the Republicans, take no notice of them, they have given you nothing. The calls of many of the Democrats fearing an electoral defeat sounded almost like pleas to their president. But President Barack Obama didn't have to be told twice. The fact that his party had just suffered a crushing defeat in the midterm elections and had to address a completely Republican-controlled Congress for the first time seemed to be anything but a challenge for the US president. A reinvigorated Barack Obama was bursting with power, self-confident, and aggressive during his address to Congress. Taking Republicans into consideration was the last thing on his mind. With great gusto, he issued almost half a dozen veto threats - from the Republicans fight against the Obamacare health care reforms, to demands for further sanctions against Iran. Obama's message was clear: The United States has wandered through the valley of tears and is on top again. The economy is growing at record speed, unemployment is on the decline, prices on Wall Street are rising and oil prices are lower than they've been for some time - all factors which masses of people are set to profit from. But first, it's the president who's reaping the rewards. Obama is suddenly popular again. The good news has catapulted his popularity figures. Obama was in high spirits. He's pushing through his agenda - one could even say the left populist agenda of his party - more for the middle class, less for the rich. Whether it's taxes, education or social benefits, when it comes to Obama, it should be the middle and lower income groups who profit - and at the expense of the wealthy and the super-rich. Obama was in his element. You could almost feel an inner liberation. This president doesn't have much to lose anymore, certainly not after the defeat at the midterm elections. Instead, his party has so much to win - namely the 2016 presidential election. Although Obama can't run for presidency again himself, he wants to make sure that the next president - possibly even the first female president - is once again a Democrat and can continue his political legacy. In his speech, Obama did everything he could to lay the groundwork for a Democrat win in 2016 and to a certain extent used his address as a springboard into the election campaign. Obama's tax initiative is the spearhead of this strategy. Higher taxes on capital gains and inheritance - these are issues typically seen to affect traditional Republicans. Tax cuts for the middle class and social achievements, such as the American version of Germany's family allowance, however, are all factors which appeal to the middle class and lower income groups, who traditionally vote for Democrats. Few people expect any of these proposals to be implemented in Obama's remaining time in office. The Republicans have already expressed their resistance. But a theme for the looming election campaign has been set and the Republicans will have their work cut out in explaining why they're against tax relief. What Obama has put in motion with executive orders on immigration policy, climate protection or most recently with the historical rapprochement with Cuba, far exceeds the tailored package of tax relief and social benefits for the middle class. But that's not enough for election campaigning. That's where his initiatives for cyber security, a free Internet or a Pacific free trade agreement come into play. In his speech, the president was even good in areas which usually highlight his weaknesses, namely foreign policy. He combined his plea for a continued fight against Islamist terror with an address of solidarity with France and all countries that have been hit by terrorist attacks. His hesitation in dealing with Syria and Russian President Vladimir Putin has been forgotten. Obama could even turn those issues into victories for deliberate, measured diplomacy. In his remaining two years in office, Obama wants to give it a try one last time. There's a chance American politics are about to get exciting. But that doesn't mean that he will lose sight of all the challenges and conflict around him. The world, whether friend or foe, can prepare for a president who will remain faithful to his foreign policy agenda until the end of his term.",
+  "relations": [
+    [
+      "Democrats",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Democrats",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "State of the Union",
+      "United States",
+      "event_in0"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Republicans",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Republicans",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Gero Schließ",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Obamacare",
+      "United States",
+      "law_of"
+    ],
+    [
+      "Wall Street",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Wall Street",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ]
+  ]
+}

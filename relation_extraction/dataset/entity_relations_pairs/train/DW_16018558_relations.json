@@ -1,0 +1,100 @@
+{
+  "content": "German utilities demand compensation for nuclear exit\nGerman energy suppliers are demanding billions of euros in compensation for losses incurred by the phase-out of nuclear power, according to the daily Frankfurter Allgemeine Zeitung (FAZ).\nThe country's biggest utility, E.ON, alone wants at least 8 billion euros ($10 billion) in damages, the paper reported, a figure that has since been confirmed by a company spokesman in Dusseldorf. Altogether, the companies are seeking 15 billion euros ($18.7 billion) in compensation, the FAZ said. The Federal Constitutional Court in Karlsruhe will examine the compensation claims in the coming weeks. Its decision is not expected until late 2013, after Germany's next federal parliamentary election. Lengthy judicial appraisal It will first consult with both houses of the German parliament as well as 63 other organizations, including Greenpeace and the Federation of German Industry (BDI). The constitutional court must then decide whether Germany's exit from nuclear energy violated the constitution before civil courts can rule on possible damages. Both E.ON and its next biggest rival, RWE, have already filed complaints with the constitutional court about Germany's energy turnaround, citing a sharp fall in their profits. The large-scale shutdown of nuclear power plants is to be completed by 2022, with renewables such as power from wind turbines filing the gap in supply. E.ON has said the complaint was not about Germany's phase-out of nuclear power as such - a move that is widely supported by Germany's population - but about the lack of compensation for companies affected by the decision to abandon nuclear energy. Last year, Germany's center-right coalition stalled over a previously legislated phase-out of nuclear power, but went ahead after Japan's reactor catastrophe in Fukushima. Eight German nuclear plants were taken from the grid straight away, and the remaining nine in Germany have had their operating lifetimes considerably reduced. tj/ipj (AFP, Reuters)",
+  "relations": [
+    [
+      "Frankfurter Allgemeine Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Frankfurter Allgemeine Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "E.ON",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "E.ON",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Federation of German Industry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federation of German Industry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Federal Constitutional Court",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Constitutional Court",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Constitutional Court",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Constitutional Court",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Federal Constitutional Court",
+      "Karlsruhe",
+      "based_in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Dusseldorf",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dusseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Karlsruhe",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Karlsruhe",
+      "German",
+      "in0-x"
+    ],
+    [
+      "RWE",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "RWE",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Fukushima",
+      "Japan",
+      "in0"
+    ]
+  ]
+}

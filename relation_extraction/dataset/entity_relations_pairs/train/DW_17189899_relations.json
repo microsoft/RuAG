@@ -1,0 +1,245 @@
+{
+  "content": "Spain looks into whether US broke the law with NSA eavesdropping\nSpain has opened an investigation into US eavesdropping on telephone calls. The White House may stop eavesdropping on friendly foreign leaders as the US confronts a flood of revelations about its spying practices.\nSpain's probe comes amid outrage over revelations that the US snooped on the communications of millions in Europe, including leaders such as German Chancellor Angela Merkel. The probe aims to find signs that a criminal offense took place, which individuals prosecutors could hold accountable and whether any infractions fall within Spain's jurisdiction, a spokesman for the public prosecutor's office said on Tuesday. Spanish Foreign Minister Jose Manuel Garcia Margallo said that if the reported espionage proved true \"it could mean a break in the climate of trust that has traditionally reigned in relations between the two countries.\" On Monday, Spain's El Mundo newspaper published a classified document purportedly showing that the US security services tracked 60.5 million Spanish telephone calls in a single month as part of a worldwide espionage program that has enraged Europe. According to El Mundo, the National Security Agency (NSA) recorded the origin and destination of the calls and their duration but not the content. The newspaper printed a classified graph showing 30 days of monitoring through to January 8. The journalist Glenn Greenwald, who says he has access to previously secret documents obtained by former US intelligence contractor Edward Snowden, contributed to the article. Reports based on new leaks from the former NSA systems analyst indicate that the NSA listened to Merkel and 34 other foreign leaders. El Mundo urged prosecutors to charge the NSA with spying, calling monitoring of telephone calls without the proper judicial authority a criminal offense. Spain summoned the US ambassador Monday to the Foreign Ministry to discuss the spying allegations and called on Washington to provide \"all necessary information\" about the alleged phone tapping. 'Risks and rewards' On Monday, White House spokesman Jay Carney used a press conference to respond to criticism about the latest allegations of spying on European allies. Carney said monitoring electronic communications was a key part of protecting American citizens in a world that was becoming increasingly interconnected. \"If we're going to keep our citizens and our allies safe, we have to continue to stay ahead of these changes, and that's what our intelligence community has been doing extraordinarily well,\" Carney said. In light of outrage in Europe over reports that the NSA had tapped German Chancellor Merkel's phone, among other allegations, Carney conceded that the United States may have to rethink some of its intelligence activities. \"We ... need to ensure that our intelligence resources are most effectively supporting our foreign policy and national security objectives, that we are more effectively weighing the risks and rewards of our activities,\" he said. Meanwhile, Diane Feinstein, who chairs the US Senate's intelligence committee, has said that she would launch what she described as \"a major review into all intelligence collection programs.\" In a statement, the Democrat from California said that the White House had informed her that \"collection on our allies will not continue.\" mkg/rc (Reuters, AFP, dpa, AP)",
+  "relations": [
+    [
+      "National Security Agency",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "National Security Agency",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "National Security Agency",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "National Security Agency",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "El Mundo",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "El Mundo",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Jay Carney",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Jay Carney",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Jay Carney",
+      "White House",
+      "member_of"
+    ],
+    [
+      "Jay Carney",
+      "White House",
+      "spokesperson_of"
+    ],
+    [
+      "White House",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "United States",
+      "in0"
+    ],
+    [
+      "White House",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "Jose Manuel Garcia Margallo",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Jose Manuel Garcia Margallo",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Jose Manuel Garcia Margallo",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Jose Manuel Garcia Margallo",
+      "Spain",
+      "minister_of"
+    ],
+    [
+      "Jose Manuel Garcia Margallo",
+      "Spanish",
+      "minister_of-x"
+    ],
+    [
+      "Edward Snowden",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Edward Snowden",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Edward Snowden",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Edward Snowden",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Spain",
+      "agency_of"
+    ],
+    [
+      "Foreign Ministry",
+      "Spanish",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Spain",
+      "ministry_of"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Diane Feinstein",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Diane Feinstein",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Diane Feinstein",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Diane Feinstein",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Senate",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Senate",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Senate",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Democrat",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Democrat",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "California",
+      "United States",
+      "in0"
+    ],
+    [
+      "California",
+      "American",
+      "in0-x"
+    ]
+  ]
+}

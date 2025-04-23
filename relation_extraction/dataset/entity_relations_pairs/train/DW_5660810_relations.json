@@ -1,0 +1,105 @@
+{
+  "content": "Public sector workers in Spain strike against austerity measures\nIn a test of the Spanish government's resolve to push forward with tough austerity measures that include cuts to civil servant pay, about three-quarters of Spain's public sector workers have gone on strike.\nCivil servants in Spain began a one-day strike Tuesday to protest the government's plans to reduce the country's massive budget deficit by cutting their salaries. Strikers included workers in cleaning, postal and health services, educators, firefighters, doctors and transportation workers. Union sources put participation at around 75 percent of the country's approximately 2.3 million public employees, and said Spain's most recent austerity package, totaling 15 billion euros ($18 billion) would give civil servants a 5-percent wage cut in 2010 and a wage freeze in 2011, the first public wage reduction in 30 years. The government's aim is to reduce Spain's public deficit from 11.2 percent in 2009 to 6 percent in 2011. It hopes to reach the eurozone's 3-percent limit by 2013. Ignacio Fernandez Toxo, leader of the CCOO trade union, said Prime Minister Jose Luis Rodriguez Zapatero's government has \"uncritically\" accepted European Union recommendations, acting \"without any other horizon than cutting costs.\" Unions are typically close to Zapatero's Socialist Party, which has been losing popularity amid gloomy economic forecasts and 20 percent unemployment, the eurozone's highest. Labor market reform Tuesday's strike is a potential preview of a full-fledged general strike that unions are threatening if government plans to enact labor market reform curtail workers' rights. Unions, employers and government officials have been negotiating what the reform might entail for months. UGT union confederation leader Candido Mendez has called the discussions \"difficult.\" The government says it will enact the reforms by decree if it cannot reach an agreement through negotiations. The reform would loosen restrictions on severance pay for permanent workers, who have become prohibitively expensive to lay off. These conditions have created a two-tier labor market where about a quarter of workers are left with temporary contracts that provide few rights. Most economists agree that reforming the labor market - together with restructuring banks and reducing the deficit - is necessary to remedy Spain's chronic economic problems. Author: Andrew Bowen (dpa/AFP/AP/Reuters) Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spain",
+      "head_of_gov"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spanish",
+      "head_of_gov-x"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "Ignacio Fernandez Toxo",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Ignacio Fernandez Toxo",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Ignacio Fernandez Toxo",
+      "CCOO",
+      "head_of"
+    ],
+    [
+      "Ignacio Fernandez Toxo",
+      "CCOO",
+      "member_of"
+    ],
+    [
+      "CCOO",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "CCOO",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Socialist Party",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Socialist Party",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "UGT",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "UGT",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Candido Mendez",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Candido Mendez",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Candido Mendez",
+      "UGT",
+      "head_of"
+    ],
+    [
+      "Candido Mendez",
+      "UGT",
+      "member_of"
+    ]
+  ]
+}

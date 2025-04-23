@@ -1,0 +1,540 @@
+{
+  "content": "State of fear: The Republican debate after San Bernardino\nBan Muslims from entering the US; stop settling Syrian refugees; broaden NSA surveillance. The leading Republican candidates are calling for sweeping measures after the attacks in Paris and San Bernardino.\nEvents in Los Angeles set the tone for the debate among Republican presidential candidates. The superintendent at the second largest school district in the United States sent home 650,000 students after a bomb threat was made by email. Authorities have now said the threat was a hoax and that classes will resume on Wednesday. Hours after the massive school closure, 10 Republican presidential candidates gathered in Las Vegas to debate national security. The United States was already on edge after the terrorist attacks in Paris and a shooting by Islamist extremists in San Bernardino has created an atmosphere of fear not seen in 14 years. According to a New York Times/CBS poll, Americans are more concerned about terrorism than at anytime since the September 11, 2001, attacks. During Tuesday's debate, the three leading Republican candidates variously called for sweeping measures. They included a temporary ban on Muslims entering the US, suspending the settlement of Syrian refugees and a return of the National Security Agency's bulk metadata program. Trump: Ban Muslims, Restrict the Internet Donald Trump has surged in a national poll of Republican primary voters after calling for \"a total and complete shutdown of Muslims entering the United States.\" According to Monmouth University, the real estate mogul crushes his closest rival, Texas Senator Ted Cruz, with a 27 point lead. The billionaire's Republican competitors have condemned his plan against Muslims. Trump, however, was under no pressure to back down during the debate in Las Vegas. According to a Washington Post/ABC poll, nearly 60 percent of Republican voters agree with him. \"A month ago things changed,\" Trump said. \"Radical Islamic terrorism came into effect even more so than it has in the past. We've opened up a very big discussion that needed to be opened up.\" The Republican front-runner also defended his recent call for \"closing that Internet up in some way\" in order to prevent \"Islamic State\" from recruiting via social media. He sought to qualify his previous statements by saying the focus would be on users in Iraq and Syria. \"I would certainly be open to closing areas where we are at war with somebody,\" Trump said. \"I sure as hell don't want to let people that want to kill us and kill our nation use our Internet.\" On the war in Syria, Trump rejected regime change for the time being, saying the focus should be on fighting \"Islamic State.\" \"We can't be fighting Assad,\" Trump said. \"When you're fighting Assad, you're fighting Russia - you're fighting a lot of different groups.\" Cruz: No refugees for three years Senator Ted Cruz of Texas has edged out Trump in the early voting state of Iowa, despite being distant second place in the national polls. During the debate on Tuesday, Cruz distanced himself from Trump's call to ban Muslims from entering the United States, without directly condemning it. \"There are millions of peaceful Muslims across the world, in countries like India, where there is not the problems we are seeing in nations that...have territory controlled by Al Qaida or ISIS,\" Cruz said. The Texas senator has drafted legislation that would place a three-year moratorium on taking in refugees \"from countries where ISIS or Al Qaida control substantial territory.\" Cruz also defended his vote in the Senate to end the National Security Agency's bulk collection of metadata in the United States, saying surveillance should be targeted against \"bad guys.\" He called for a foreign policy that shuns regime change and sending weapons to \"mythical moderate rebels,\" pointing to the 2011 overthrow of Moammar Gadhafi. \"Well, the result is, Libya is now a terrorist war zone run by jihadists,\" Cruz said. Cruz doubled down on his call for \"carpet bombing\" Islamic State. When asked whether he would target urban centers with civilians such as Raqqa, Cruz said \"the object isn't to level a city.\" \"You would carpet bomb where ISIS is, not a city, but the location of the troops,\" he said. Rubio: More NSA surveillance Senator Marco Rubio of Florida, who is emerging as a new establishment favorite as the campaign of Former Governor Jeb Bush fails to gain traction, defended the National Security Agency's surveillance programs, which Congress voted to restrict in the aftermath of the Edward Snowden revelations. Rubio said the US needed more tools to fight Islamic State. \"This is not just the most capable, it is the most sophisticated terror threat we have ever faced,\" Rubio said. \"We are now at a time when we need more tools, not less tools. The metadata program, was a valuable tool that we no longer have at our disposal.\" Rubio, who is currently polling third nationwide, called for a broader coalition of Arab states to fight Islamic State from the air and on the ground. The senator said President Barack Obama's nuclear deal with Iran has discouraged Sunni countries from playing a larger role in the US-led coalition. \"One major reason why they have not been willing to be a broader part of the coalition, and that is they have lost complete trust and confidence in this president,\" Rubio said. \"This president cut a deal with their mortal enemy, the Shia, in Iran.\" Bush: Engage with Arab world Once tipped as the favorite for the nomination, Bush is now polling at just 3 percent nationally, despite having raised over $100 million for his campaign. Bush has condemned Trump's rhetoric against Muslims more forcefully than most of the other Republican candidates. While that might win him approval among the general American public, it won't do him much good with Republican primary voters. \"Look, this is not a serious proposal,\" Bush said of Trump's plan to ban Muslims from entering the United States. \"In fact, it will push the Muslim world, the Arab world, away from us at a time when we need to re-engage with them to be able to create a strategy to destroy ISIS.\" Though the former governor has rebuked Trump's rhetoric, he previously said the United States should focus on admitting Syrian refugees who can prove they are Christian.",
+  "relations": [
+    [
+      "Islamic State",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Islamic State",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Trump",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Trump",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "Ted Cruz",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Ted Cruz",
+      "Americans",
+      "agent_of-x"
+    ],
+    [
+      "Ted Cruz",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Ted Cruz",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Ted Cruz",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Ted Cruz",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Ted Cruz",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "Ted Cruz",
+      "Senate",
+      "member_of"
+    ],
+    [
+      "Republican",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Republican",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Republican",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "National Security Agency",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "National Security Agency",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "National Security Agency",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "National Security Agency",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "National Security Agency",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "National Security Agency",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Jeb Bush",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Jeb Bush",
+      "Americans",
+      "agent_of-x"
+    ],
+    [
+      "Jeb Bush",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Jeb Bush",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Jeb Bush",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Jeb Bush",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Jeb Bush",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "Marco Rubio",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Marco Rubio",
+      "Americans",
+      "agent_of-x"
+    ],
+    [
+      "Marco Rubio",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Marco Rubio",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Marco Rubio",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Marco Rubio",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Marco Rubio",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "Marco Rubio",
+      "Senate",
+      "member_of"
+    ],
+    [
+      "San Bernardino",
+      "United States",
+      "in0"
+    ],
+    [
+      "San Bernardino",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "San Bernardino",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Los Angeles",
+      "United States",
+      "in0"
+    ],
+    [
+      "Los Angeles",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Los Angeles",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Las Vegas",
+      "United States",
+      "in0"
+    ],
+    [
+      "Las Vegas",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Las Vegas",
+      "American",
+      "in0-x"
+    ],
+    [
+      "New York Times",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "New York Times",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "New York Times",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "CBS",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "CBS",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "CBS",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Monmouth University",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Monmouth University",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Monmouth University",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Texas",
+      "United States",
+      "in0"
+    ],
+    [
+      "Texas",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Texas",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Washington Post",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Washington Post",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Washington Post",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "ABC",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "ABC",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "ABC",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Iowa",
+      "United States",
+      "in0"
+    ],
+    [
+      "Iowa",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Iowa",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Senate",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Senate",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Senate",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Senate",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "head_of_state"
+    ],
+    [
+      "Raqqa",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Raqqa",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Florida",
+      "United States",
+      "in0"
+    ],
+    [
+      "Florida",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Florida",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Congress",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Edward Snowden",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Edward Snowden",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Edward Snowden",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Edward Snowden",
+      "National Security Agency",
+      "member_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ]
+  ]
+}

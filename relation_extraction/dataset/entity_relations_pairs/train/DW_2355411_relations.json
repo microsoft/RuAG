@@ -1,0 +1,115 @@
+{
+  "content": "Report: Baby Boom Will Push France Ahead of Germany\nAccording to a new study, Germany is set to concede its lead as Europe's largest economy to France by the mid 21st century. The reason? The country's declining birth-rate.\nFamily policy is topping the political agenda in Berlin once again, after German Family Minister Ursula von der Leyen sparked controversy within the ranks of her own Christian Democrat party (CDU) with proposals to make it easier for women to combine careers and family responsibilities. Her push to create more day-care facilities for the under-threes has drawn harsh criticism from conservatives who accuse von der Leyen of undermining family values. Others say the time has come to wake up to the realities of a changing world, and a new study carried out by the Institute for German Economics (IW) provides more evidence that Germany's failure to encourage women to start families has serious long-term repercussions for the economy. Slow-down While Germany's population decline is currently irreversible, France is seeing a population boost -- and if demographic predictions prove correct, this will put France well on track to become the continent's strongest economy by 2035. According to the experts, the discrepancy between German and French economic clout will become particularly acute between 2025 and 2035. \"The French economy will grow twice as fast as the German one in these years,\" IW expert Axel Plünnecke told the weekly Die Welt. This is when Germany's \"baby-boomer\" generation will reach retirement age and the country will start feeling the pinch of its ageing population and declining birth rate. \"The shortfall in the work-place will put a brake on the economy,\" Plünnecke said. France gets it right To many, the development is an obvious return on the French government's family-friendly policies. Since 2000, France has seen more births than Germany even though it has some 21 million fewer inhabitants. Last year, France registered 831,000 births compared to 675,000 in Germany, making it one of the most fertile countries in Europe. This robust reproduction rate is officially encouraged by government programs, including three-year paid parental leave with guaranteed job protection upon returning to the workforce; full-time pre-school starting at age three; subsidized day-care for the under-threes; stipends for in-home nannies and monthly child-care allowances that increase with the number of children per family. Germany, meanwhile, is still mired in a debate about whether women should be encouraged to work or encouraged to stay at home, with critics maintaining that von der Leyen's recent proposals create a false image that only women who go out to work are modern. \"If you want to give women the chance to work and have children too, you have to provide day care,\" said CDU parliamentary chief, Volker Kauder. \"But I want to emphasize that parents who stay home with their kids from birth until the age of three should not be regarded as belonging to the last century.\"",
+  "relations": [
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Christian Democrat party",
+      "member_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Institute for German Economics",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Institute for German Economics",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Axel Plünnecke",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Axel Plünnecke",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Axel Plünnecke",
+      "Institute for German Economics",
+      "member_of"
+    ],
+    [
+      "Christian Democrat party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrat party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Die Welt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Die Welt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Volker Kauder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Volker Kauder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Volker Kauder",
+      "Christian Democrat party",
+      "member_of"
+    ]
+  ]
+}

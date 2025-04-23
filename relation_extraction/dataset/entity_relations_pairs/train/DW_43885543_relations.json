@@ -1,0 +1,125 @@
+{
+  "content": "+++ Facebook's Mark Zuckerberg in EU Parliament: As it happened +++\nFacebook CEO Mark Zuckerberg faced a row of questions from the leaders of the European Parliament over the social media giant's privacy polices and a data leak scandal. Read how it unfolded here.\nFacebook head Mark Zuckerberg faced a barrage of questions from European Parliament leaders in a live-streamed meeting on Tuesday. Although Zuckerberg apologized for a data leak scandal and said Facebook will comply with the EU's tough new data protection law, he still left many specific questions unanswered, including on the use of targeted ads. MEPs appeared displeased with Zuckerberg's answers and the time limit on the meeting. All updates in Central European Summer Time 19:45 Verhofstadt pushed back against Zuckerberg's answers, saying that he hadn't delivered adequate answers. The Facebook CEO says he will follow up with a written response in the coming days before adjourning the meeting. Multiple MEPs voiced their dissatisfaction with Zuckerberg's responses. 19:43 Zuckerberg sidesteps MEPs calls for more concrete answers on their specific questions, asking: \"Are there any other themes that we should cover?\" 19:40 Addressing Farage's question about Facebook's alleged anti-conservative bias, Zuckerberg became more animated when he urged: \"We have never and will not make decisions about what content is allowed or how we do ranking on the basis of a political orientation.\" 19:37 On the EU's General Data Protection Regulation (GDPR), Zuckerberg says the site \"expects to be fully compliant\" when the law comes into effect on Friday. 19:33 Addressing Europe's staunch regulatory agencies, Zuckerberg said he wasn't necessarily opposed to increased regulation: \"I don't think the question here is whether there should be regulation, but what kind of regulation there should be.\" He also brushed off accusations that Facebook is a monopoly, saying the company needs to remain competitive. He also alleged that the platform enables small business to reach their customers. 19:30 Zuckerberg broke down the issue of fake news into three areas: Spammers, fake accounts, and people sharing false information. He says less than 1 percent of accounts on Facebook are fake. 19:26 Getting a chance to respond to questions, Zuckerberg first tackles the issue of \"inappropriate content\" on the platform — including hate speech, terrorism and bullying — saying they have \"no place on our services.\" \"We will never be perfect on this,\" he admits, but says Facebook is transitioning from community flagging to using artificial intelligence tools to identify content that violates the site's standards. 19:13 Zuckerberg takes a sip of water, looking more ashen and grave as the list of questions from EU lawmakers piles up in his notes as time ticks down on the session for his answers. Read more: Cambridge Analytica: The devil in the detail 19:10 Nigel Farage, the co-head of the euroskeptic Europe of Freedom and Direct Democracy party, alleged that Facebook is biased against conservative views, asking for more transparency in the process of removing flagged content and accounts. \"I'm beginning to wonder if we need a social media bill of rights,\" he said. 19:00 Along with asking what Facebook's concrete plans are for reducing the spread of \"fake news,\" a German member of the European United Left-Nordic Green Left, Gabi Zimmer, asked what Facebook will do to reduce violence against women — noting the site's beginnings as a \"hot or not\" rating site. Earlier, the head of the center-left Socialists and Democrats Group, Udo Bullmann, asked Zuckerberg what he plans on doing about the number of fake Facebook accounts, asking for concrete numbers. 18:52 Guy Verhofstadt, the leader of the liberal ALDE political group, delivered a fiery address, questioning Zuckerberg's sincerity in his pledge to adhere to the new EU data protection law. He noted that Facebook has now started transferring data to servers based outside of Europe, which would violate the new rules. \"I really think we have a big problem here,\" Verhofstadt said, asking if Zuckerberg wants to be remembered as an internet giant \"or a genius that has created a digital monster.\" 18:40 Manfred Weber, a German MEP who is the leader of the center-right European People's Party, told Zuckerberg: \"To apologize is a good thing ... you know this is not enough, but we need more action.\" He also asked Zuckerberg whether other firms other than Cambridge Analytica have abused Facebook user data. Weber also asked Zuckerberg \"to convince me\" why he shouldn't break up Facebook as a monopoly. 18:35 Zuckerberg vowed to make advertising \"more transparent\" on the site, including making it harder for fake news sites to profit from ads. He also said that Facebook plays an important role in elections, noting that he worked with the German government to prevent tampering during the 2017 general election. 18:31 In addressing the EU's tough new data protection law, Zuckerberg said that the social media company is going even further than the law — including letting people delete data gathered by the site. 18:29 Dressed again in a suit and tie, Zuckerberg addressed EU lawmakers — admitting that he's made \"mistakes.\" \"We haven't done enough to prevent these tools from being used for harm as well. We have not done enough to prevent misuse.\" 18:20 President Tajani opened the meeting sitting next to Zuckerberg, saying that EU citizens deserve a detailed explanation concerning the Cambridge Analytica data leak scandal. \"Democracy should never become a marketing operation where anyone who buys our data can buy political advantage,\" he said. 18:15 Zuckerberg has arrived in Brussels and shaken hands with European Parliament President Antonio Tajani. MEPs are taking their seats ahead of questioning the embattled head of the social media giant. German Green MEP Jan Philipp Albrecht and one of the driving forces behind the EU's new data privacy law will soon get his turn to question him.",
+  "relations": [
+    [
+      "Mark Zuckerberg",
+      "Facebook",
+      "head_of"
+    ],
+    [
+      "Mark Zuckerberg",
+      "Facebook",
+      "member_of"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "General Data Protection Regulation",
+      "Europe",
+      "signed_by"
+    ],
+    [
+      "Guy Verhofstadt",
+      "ALDE",
+      "head_of"
+    ],
+    [
+      "Guy Verhofstadt",
+      "European Parliament",
+      "member_of"
+    ],
+    [
+      "Guy Verhofstadt",
+      "ALDE",
+      "member_of"
+    ],
+    [
+      "Manfred Weber",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Manfred Weber",
+      "European People's Party",
+      "head_of"
+    ],
+    [
+      "Manfred Weber",
+      "European People's Party",
+      "member_of"
+    ],
+    [
+      "Nigel Farage",
+      "Europe of Freedom and Direct Democracy",
+      "head_of"
+    ],
+    [
+      "Nigel Farage",
+      "European Parliament",
+      "member_of"
+    ],
+    [
+      "Nigel Farage",
+      "Europe of Freedom and Direct Democracy",
+      "member_of"
+    ],
+    [
+      "Antonio Tajani",
+      "European Parliament",
+      "head_of"
+    ],
+    [
+      "Antonio Tajani",
+      "European Parliament",
+      "member_of"
+    ],
+    [
+      "Gabi Zimmer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gabi Zimmer",
+      "European United Left-Nordic Green Left",
+      "member_of"
+    ],
+    [
+      "Udo Bullmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Udo Bullmann",
+      "Socialists and Democrats Group",
+      "head_of"
+    ],
+    [
+      "Udo Bullmann",
+      "Socialists and Democrats Group",
+      "member_of"
+    ],
+    [
+      "Green",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jan Philipp Albrecht",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jan Philipp Albrecht",
+      "Green",
+      "member_of"
+    ]
+  ]
+}

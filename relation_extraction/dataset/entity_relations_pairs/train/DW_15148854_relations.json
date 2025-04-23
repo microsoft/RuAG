@@ -1,0 +1,100 @@
+{
+  "content": "IMF was target of major cyber attack, report says\nThe FBI has launched an investigation into reports the IMF was the target of a significant cyber attack. The dimensions of the attack on the global financial institution is still unknown, the New York Times has reported.\nReports emerged on Sunday that the International Monetary fund has become the latest known victim of a significant cyber attack. The New York Times reported that the alarm was raised after what one official described as a \"very major breach.\" Intruders are believed to have attempted to install software which would give a nation state \"digital insider presence,\" in a \"targeted attack,\" a cyber-security expert who has worked for both the IMF and the World Bank said. The IMF declined to reveal the scope and nature of the intrusion, but David Hawley, a spokesman of the fund, told the New York Times that the institution is now \"fully functional.\" \"I can confirm that we are investigating an incident,\" he added. Political dynamite The IMF manages financial crises around the world and is home to highly sensitive information about economic conditions in many nations, including those on the verge of fiscal collapse. The fund has recently been central to economic bailout programs for Portugal, Ireland and Greece. Confidential information concerning the terms of economic bailouts were described by one fund official as \"political dynamite in many countries.\" Reports suggest that the IMF's sister institution, the World Bank, was so concerned they cut the computer link which allowed the agencies to share non-public information. The decision was taken out of an \"abundance of caution,\" a World Bank spokesman said, even though the information shared over the link was \"non-sensitive.\" The World Bank has now also resumed all normal operations. Custom code The attack, which is thought to have taken place over several months, is the latest in a series of high-profile computer break-ins. In this case, cyber intelligence expert Tom Kellerman, who works for both the IMF and the World Bank, said the nature of the code used suggests that it was developed specifically for the attack. The list of recent attacks on companies and institutions include Lockheed Martin Corp, Sony Corp and Citigroup Inc. Experts say cyber threats are increasing worldwide. CIA Director Leon articulated concerns this week over the \"real possibility\" of an attack by hackers that could be crippling. The origin of the IMF attack is unknown, but according to a US Defense Department spokeswoman, the US Federal Bureau of Investigation has been brought on board the investigation. Suspicious file transfers The IMF board of directors were first told of the attack on Wednesday, the New York Times reported, and a memo was issued warning employees to be on their guard. \"Last week we detected some suspicious file transfers, and the subsequent investigation established that a Fund desktop computer had been compromised and used to access some Fund systems,\" said a June 8 e-mail to employees from Chief Information Officer Jonathan Palmer. The attack is thought to have taken place before former head, Dominique Strauss-Kahn, was arrested last month on charges of sexually assaulting a maid in a New York Hotel. The IMF is currently searching for a new leader following Strauss-Kahn's resignation. Author: Charlotte Chelsom-Pill (Reuters, dpa) Editor: Kyle James",
+  "relations": [
+    [
+      "Federal Bureau of Investigation",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Federal Bureau of Investigation",
+      "US",
+      "based_in0"
+    ],
+    [
+      "New York Times",
+      "US",
+      "based_in0"
+    ],
+    [
+      "CIA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Dominique Strauss-Kahn",
+      "International Monetary fund",
+      "head_of"
+    ],
+    [
+      "Dominique Strauss-Kahn",
+      "International Monetary fund",
+      "member_of"
+    ],
+    [
+      "David Hawley",
+      "International Monetary fund",
+      "member_of"
+    ],
+    [
+      "David Hawley",
+      "International Monetary fund",
+      "spokesperson_of"
+    ],
+    [
+      "Tom Kellerman",
+      "International Monetary fund",
+      "member_of"
+    ],
+    [
+      "Tom Kellerman",
+      "World Bank",
+      "member_of"
+    ],
+    [
+      "Lockheed Martin Corp",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Leon",
+      "CIA",
+      "head_of"
+    ],
+    [
+      "Leon",
+      "CIA",
+      "member_of"
+    ],
+    [
+      "Defense Department",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Defense Department",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Defense Department",
+      "US",
+      "ministry_of"
+    ],
+    [
+      "Jonathan Palmer",
+      "International Monetary fund",
+      "member_of"
+    ],
+    [
+      "New York",
+      "US",
+      "in0"
+    ]
+  ]
+}

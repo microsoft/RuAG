@@ -1,0 +1,115 @@
+{
+  "content": "Opinion: All Eyes on Germany's President\nNot from the political elite himself, German President Horst Köhler faces the politically charged decision of whether or not to dissolve parliament. DW's Wolter von Tiesenhausen looks at Köhler's first year in office.\nWhen he was elected to office last year Köhler promised to use his position to work on the problems facing Germany and not to let anyone influence his decisions as the country's head of state. It's a promise he's kept by speaking the truth -- even when many may not want to hear it. In the last 12 months, Köhler, who headed up the International Monetary Fund before returning to Germany last year, has not steered clear of controversy. In fact he's rubbed salt into many of Germany's open wounds by criticizing the German trait of not risking or changing anything and happily taking advantage of social services they do not need. President decides on new elections Most recently, he promised not to be influenced by German Chancellor Gerhard Schröder's wish for early elections. Now that the Bundestag, Germany's lower house of parliament, has followed Schröder's wish of a negative vote of confidence, it will be up to President Köhler to decide whether to dissolve the parliament. It would go against the many efforts Köhler has made for change in Germany not to approve the request from all of the country's major political parties and refusing to open the path to new elections a year ahead of time. On the other hand, he is also self-confident and independent enough to push through his own position if he thinks it's the right thing to do -- meaning the election guessing game's next round will now begin. The business-friendly president? Elected by Germany's conservative opposition, union leaders see Köhler to be too business-friendly but do not take into account the scathing remarks he has had for acquisitive businesses that have often shown a lack of corporate responsibility. If Köhler has been unable to remain neutral when it comes to Berlin's political wrangling, then it certainly hasn't hurt the public's view of him. That doesn't come as much of a surprise as his job affords him a high profile and limited authority: He's still near the top of public popularity polls, a position envied by just about every other German politician. Even with his limited powers, Horst Köhler has shown himself to be more than just a yes man who puts his stamp on everything that gets thrown his way. He has remained an influential figure with trips around the globe and continues to work to push Germany forward on the world stage -- work he will most likely continue regardless of who sits in the chancellor's seat this fall.",
+  "relations": [
+    [
+      "Horst Köhler",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Horst Köhler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Horst Köhler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Horst Köhler",
+      "International Monetary Fund",
+      "head_of"
+    ],
+    [
+      "Horst Köhler",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Horst Köhler",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "Horst Köhler",
+      "International Monetary Fund",
+      "member_of"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wolter von Tiesenhausen",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

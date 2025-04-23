@@ -1,0 +1,125 @@
+{
+  "content": "Long necks, fat bellies, shrill colors: How Florence's 16th-century artists saw people\nWe might not consider them beautiful, but Florence's Mannerism portraits were groundbreaking in art history. Some are being shown in Germany for the first time, at the Städel Museum in Frankfurt.\n\"Elegant, cultivated, artificial,\" is how curator Bastian Eclercy describes the style of a new generation of Florentine Mannerism artists in the early 16th century. They wanted to set themselves apart from the grand masters of the Renaissance, such as Leonardo, Michelangelo or Raffael. Shrill colors, disproportionate limbs, unusual forms and perspectives were the trademark of art works during this era. Bastian Eclercy calls them \"capricious and extravagant, at times bizarre.\" Numerous significant paintings, designs and sculptures of this era form part of the exhibition \"Maniera. Pontormo, Bronzino and the Florence of the Medici,\" curated by Bastian Eclercy in Frankfurt's Städel Museum. Bronzino's painting \"Portrait of a Lady in Red\" is both starting point and center piece of the exhibition. It's not only one of the most valuable works of art in the museum's possession , but also one of the key works of Florentine portrait painting. The portrait featuring a lady clad in a red dress and holding a small dog on her lap appears sublime and lofty. She looks down at her admirers with an aloof expression on her noble face - an effect purposefully created by Bronzino, the court painter of the Medici. Art on loan from all over the world Painters such as Rosso Fiorentino were more daring in the way in which they dealt with classical motives than, for example, Renaissance painter Raffael. That difference in approach becomes clearly discernible in the exhibition. Whereas Raffael created his work \"Madonna Esterházy\" (ca. 1507/08) with soft colors and a well organized and simple structure, Fiorentino's portrait of the Madonna, the child and John (ca. 1515) is more dynamic and cheeky: The facial traits of the two boys are almost reminiscent of a caricature, and the Madonna's transparent dress allows the beholder to sneak a peek at her breasts and belly button. The Städel Museum shows a total of 120 works from museums from all over the world, among them the Paris Louvre, New York's Metropolitan Museum of Art and the State Gallery in Stuttgart, with the aim of presenting the entire range of stylistic variety and the particular obstinacy of Florentine artists. Many of these impressive art works originate in Florence, the center of Mannerism. Jacopo Pontormo's \"Martyrdom of the Ten Thousand,\" which depicts human suffering in a very physical way, is a loan item from the Galleria Palatina. The portrait of \"The Duke Alessandro de' Medici\" by Giorgio Vasari, featuring the Florentine sovereign in a suit of armor, is part of the collection of the world-famous Uffizi Gallery in Florence. Medicis - obsessed with power and fond of culture In the exhibition, the paintings are presented in eight different parts, thus reflecting different chapters in the rich history of the city, while throwing light on the immense influence of the powerful Medici family on the world of art. Another central theme is also the widespread political unrest of the era, including the conquest of Rome by Charles V and the temporary expulsion of the Medici from Florence. Apart from paintings, designs and sculptures, curator Eclercy also made an effort to include architectural aspects of Mannerism in his exhibition. For that purpose, the Städel Museum constructed a copy of the vestibule of the Biblioteca Laurenziana with Michelangelo's famous staircase in a proportion of 1:3. That masterwork had once been commissioned by the Medici Pope Clement VII. How Mannerism got its name Giorgio Vassari was not only a blessed artist and the court painter of the Medicis, but has also gained particular significance for the study of art. That's why a whole chapter has been dedicated to him in the exhibition. The second edition of his main work \"Le Vite de' più eccellenti pittori, scultori, ed architettori\" (The Lives of the most Eminent Painters, Sculptors and Architects),written in 1568, has remained the first systematic description of art history which also contains the first theoretical debates on Mannerism. And Vassari also served as the eponym of this art style: \"Maniera\" (Italian for Mannerism), which is derived from \"mano\" (hand), means \"way\" or \"fashion,\" and describes the individual style of the Mannerists. The exhibition \"Maniera. Pontormo, Bronzino and the Florence of the Medici\" is shown in Frankfurt's Städel Museum from February 24 through June 5, 2016.",
+  "relations": [
+    [
+      "Städel Museum",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Städel Museum",
+      "Frankfurt",
+      "in2"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bastian Eclercy",
+      "Städel Museum",
+      "head_of"
+    ],
+    [
+      "Bastian Eclercy",
+      "Maniera. Pontormo, Bronzino and the Florence of the Medici",
+      "head_of"
+    ],
+    [
+      "Bastian Eclercy",
+      "Städel Museum",
+      "member_of"
+    ],
+    [
+      "Bastian Eclercy",
+      "Maniera. Pontormo, Bronzino and the Florence of the Medici",
+      "member_of"
+    ],
+    [
+      "The Lives of the most Eminent Painters, Sculptors and Architects",
+      "Giorgio Vassari",
+      "created_by"
+    ],
+    [
+      "Florence",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Florentine",
+      "Florence",
+      "gpe2"
+    ],
+    [
+      "Portrait of a Lady in Red",
+      "Bronzino",
+      "created_by"
+    ],
+    [
+      "Madonna Esterházy",
+      "Raffael",
+      "created_by"
+    ],
+    [
+      "Madonna, the child and John",
+      "Rosso Fiorentino",
+      "created_by"
+    ],
+    [
+      "Louvre",
+      "Paris",
+      "in2"
+    ],
+    [
+      "Metropolitan Museum of Art",
+      "New York",
+      "in2"
+    ],
+    [
+      "State Gallery",
+      "Germany",
+      "in0"
+    ],
+    [
+      "State Gallery",
+      "Stuttgart",
+      "in2"
+    ],
+    [
+      "Stuttgart",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Martyrdom of the Ten Thousand",
+      "Jacopo Pontormo",
+      "created_by"
+    ],
+    [
+      "Galleria Palatina",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "The Duke Alessandro de' Medici",
+      "Giorgio Vassari",
+      "created_by"
+    ],
+    [
+      "Uffizi Gallery",
+      "Florence",
+      "in2"
+    ],
+    [
+      "Rome",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Biblioteca Laurenziana",
+      "Italian",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "content": "Christmas market in Germany begs visitors to stop coming\nThousands of visitors caused chaos as they flocked to the idyllic forest market in Velen near the Dutch border, a village of only 75 people. Some 85 million people visit Germany's Christmas markets every year.\nA Christmas market in the German town of Velen has had to implore visitors to stop coming after a heavy influx of tourists descended on the tiny village near the Dutch border. \"As a result of the massive rush of visitors we must cancel this event!\" organizers from Velen's small hamlet of Landgut Krumme wrote on Facebook, \"the Christmas market in the forest remains a market for visitors from the area!\" The post asked that people from outside the region find another place to get their mulled wine and holiday handicrafts: \"Thank you for understanding.\" Tourists from all over Germany and neighboring countries, especially Belgium and the Netherlands, flock to the country's December markets to enjoy drinks, treats and the festive atmosphere. Looking at the pictures both on social media and those promoted by the tourism board of the state of North Rhine-Westphalia, where Velen lies, it is not difficult to see why people would converge on the community's Christmas market. Tucked inside an idyllic forest northwest of Dortmund, the market also boasted a \"living Nativity\" scene and locally-made delicacies. But this proved too popular for Landgut Krumme, which local newspaper Westdeutsche Allegemeine Zeitung wrote has only 75 inhabitants. On the first weekend of advent, thousands gathered in the hamlet, blocking the small streets for several kilometers in every direction. According to the Kölner Stadt-Anzeiger, a daily from Cologne – the site of Germany's most-visited Christmas markets – the number of foreign guests to the markets more than doubled over the past few years, and each year a total of about 85 million visitors make their way to the holiday staple. The tradition of Christmas markets in Germany-speaking countries dates back to the Middle Ages, with the oldest thought to have started in Vienna in 1298 and the most famous being Nuremberg's \"Christkindlmarkt.\"",
+  "relations": [
+    [
+      "Velen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Velen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Landgut Krumme",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Landgut Krumme",
+      "Velen",
+      "in2"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Dortmund",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dortmund",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Westdeutsche Allegemeine Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Westdeutsche Allegemeine Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Westdeutsche Allegemeine Zeitung",
+      "North Rhine-Westphalia",
+      "based_in1"
+    ],
+    [
+      "Kölner Stadt-Anzeiger",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Kölner Stadt-Anzeiger",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kölner Stadt-Anzeiger",
+      "Cologne",
+      "based_in2"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Nuremberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Nuremberg",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

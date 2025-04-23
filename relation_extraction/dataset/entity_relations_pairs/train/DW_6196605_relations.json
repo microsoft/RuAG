@@ -1,0 +1,175 @@
+{
+  "content": "On centennial of Tolstoy's death, exhibition reveals his ties to Germany\nA century ago, Leo Tolstoy - perhaps the greatest novelist of all time - died at a remote train station. He had embarked on a journey to find the simple life he believed in - partly due to early German influences.\n\"A light rose up within me,\" wrote Leo Tolstoy in German in his diary of his encounter with the German-Jewish author Berthold Auerbach in Berlin in 1861. It wasn't unusual for Tolstoy to express himself in a foreign language: Many of the Russian writer's handwritten notes were in German. Tolstoy's diaries, currently part of an exhibition at the Literaturhaus in Munich, bear testimony to his interest in the German language. \"There are German expressions throughout [the diary],\" said curator Johanna Doering-Smirnov. \"And the crazy thing is that 20 or 30 years later they turn out to be important for some of his works.\" Copies of Tolstoy's travel journals from 1857-1861, excerpts from correspondence with some of his 2,000 German readers and other valuable historical documents are on display at in Munich through January 2011. They reveal just how familiar the Russian literary legend was with Germany. \"He loved Germany: He loved German music, Beethoven, Bach, the philosophers and the German writers whose works he could read in German,\" explained Svetlana Novikova from the Tolstoy Museum in Moscow. Developing his character Tolstoy has his German tutor, Friedrich Roessl, to thank for his language competency. \"He was a deserted soldier and a cobbler - a relatively simple person,\" Doering-Smirnov said of the German tutor, \"but with traits that Tolstoy apparently picked up from him: compassion and empathy.\" It was another German who helped develop young Tolstoy's strong sense of justice while he was studying at Kazan University. Professor Meyer gave the then 17-year-old Tolstoy the assignment of comparing Russia's German-born Empress Catherine the Great to the 17th-century French Enlightenment philosopher Montesquieu. The latter is known for developing the theory of separation of power in government, prohibiting any one from having more power than the others. \"That impressed Tolstoy so much that he became a critic of the tsars,\" said Doering-Smirnov. \"But, most importantly, he learned about social responsibility from Meyer and that it's important not just to philosophize but that philosophy also has to be practically implemented.\" After dropping out of the university, Tolstoy returned to his family's estate in Yasnaya Polyana in central Russia and attempted to put his new ideas about ruling with a social conscience into practice. He was particularly interested in educating the peasant population. On later trips to Germany, he sought examples in vain and complained in his travel journals about the harsh discipline and rote learning he observed in German schools. Defining freedom from within Tolstoy's connection to Germany grew even stronger in 1862 when he married German-Russian Countess Sophia Andreyevna Behrs, 16 years his junior. They would have 13 children, five of whom died before reaching adulthood. The marriage is said to have begun strong but disintegrated when Tolstoy's beliefs became more radical and he chose to renounce his wealth and even his copyrights and lead a peasant life. At the age of 82, Tolstoy was unhappy with the strife at home and left, despite being in poor health. He died several days later, on November 20, 1910, at a train station not far from his home. According to his wishes, he was buried in an unmarked grave in his birth town, Yasnaya Polyana. \"What we can learn from him is that freedom is not something that is defined by external circumstances, but is an internal spiritual development,\" commented the director of Moscow's Tolstoy Museum, Vitaly Remizov. Author: Anila Shuka (kjb) Editor: Sean Sinico",
+  "relations": [
+    [
+      "Leo Tolstoy",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Leo Tolstoy",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Literaturhaus",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Literaturhaus",
+      "Munich",
+      "in2"
+    ],
+    [
+      "Johanna Doering-Smirnov",
+      "Literaturhaus",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Beethoven",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Beethoven",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bach",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Bach",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Svetlana Novikova",
+      "Tolstoy Museum",
+      "member_of"
+    ],
+    [
+      "Tolstoy Museum",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Tolstoy Museum",
+      "Moscow",
+      "in2"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Kazan University",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Kazan University",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Meyer",
+      "Kazan University",
+      "member_of"
+    ],
+    [
+      "Catherine the Great",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Catherine the Great",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Montesquieu",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Yasnaya Polyana",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Yasnaya Polyana",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Sophia Andreyevna Behrs",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sophia Andreyevna Behrs",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sophia Andreyevna Behrs",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sophia Andreyevna Behrs",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vitaly Remizov",
+      "Tolstoy Museum",
+      "head_of"
+    ],
+    [
+      "Vitaly Remizov",
+      "Tolstoy Museum",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "content": "Opposition says Egypt's roadmap to democracy not good enough\nEgypt's military council has presented its roadmap: the referendum on the constitution is scheduled for March 19. The parliament and the president will be elected in the summer. But the opposition opposes the roadmap.\nEgypt has been governed by the military council since February 11. The army leadership has now presented its roadmap, which schedules the referendum on the proposed amendments of the constitution for March 19. The new parliament is to be elected in June, the presidential elections would be held some six weeks later. Long debate The military council met with representatives of the 'Alliance of the Revolutionary Youth' for an overnight debate which lasted eight hours. The alliance is made up of several action groups which had initiated the protests against the Mubarak regime. The activists are not satisfied with the proposed roadmap. The date for new elections which had initially been set to take place two months later, they said, was too early for the opposition to have established proper party programs and to have launched nationwide campaigns. The only groups with a program and a good network, they said, were the Mubarak supporters and the Muslim brotherhood. An Egyptian judge in charge of the panel to change the constitution agreed that it is a \"short period to build mature, widespread and ideologically well-rounded parties that have strong grassroots support.\" But judge Tariq al-Bishri also told Reuters that \"political parties, when given the freedom to form, will grow faster and more effectively than in times of political stagnation like what we were in before.\" Protests continue on Tahrir Square Still, the revolutionaries planned to continue their protests on Tahrir Square in central Cairo. Another point they were criticizing is the fact that the army asked eight legal experts to write up the new draft constitution. \"Nobody elected this committee (the Supreme Council of the Egyptian Army) to state these amendments,\" said a demonstrator. \"They say that these amendments will be voted on by the Egyptian people, but I don't trust the army.\" The demonstrator said the army was currently heavily involved in the Egyptian economy and that it was therefore doubtful that military commanders would give up their interests. \"The Egyptian army is not going to do what we need,\" he said. Some hundred activists therefore put up their tents on Tahrir Square again. Mobile traders were selling souvenirs from the revolution to tourists who were amazed at the peaceful atmosphere there. \"Everybody's talking on the streets, there are crowds everywhere. They have never been allowed to demonstrate before and now they're free,\" a tourist from New Zealand said. \"Everyone has smiles on their faces. There's a great atmosphere of festivity.\" Changes 'merely cosmetic' But the demonstrators were hardly celebrating. They are rather trying to get their voices heard and to maintain pressure. The proposed amendments of the constitution would open up competition for the post of president which Hosni Mubarak held for 30 years, limit office holders to two four-year presidential terms and ensure judicial monitoring of elections. The state of emergency can only be proclaimed to last longer than six days if parliament has given its approval. These paragraphs are included in the amendments, but reformist politician Mohamed ElBaradei said the changes are merely cosmetic. \"The constitution is deformed,\" he said. \"It doesn't comply with democratic norms, not even with the amendments.\" He said the job of changing the constitution needed to be given to the people's representatives. \"We are now dealing with judicial corrections, but a constitution has more than judicial aspects, it has political aspects, too.\" 'Punishing Mubarak is not enough' The military council has imposed a travel ban on former president Mubarak and his family, who are no longer allowed to leave the country. His wife Suzanne and his son Gamal had planned to leave abroad from Sharm El-Sheikh with the family jet last Saturday. Airport staff said they stopped them from leaving. Legal experts say Mubarak could be arrested in the near future. But the revolutionaries on Tahrir Square said they want to achieve more than mere punishment for a handful of scapegoats. Authors: Juergen Stryjak/ Nina Haase (Reuters) Editor: Rob Mudge",
+  "relations": [
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "head_of_state"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egyptian",
+      "head_of_state-x"
+    ],
+    [
+      "Hosni Mubarak",
+      "Gamal",
+      "parent_of"
+    ],
+    [
+      "Hosni Mubarak",
+      "Suzanne",
+      "spouse_of"
+    ],
+    [
+      "Alliance of the Revolutionary Youth",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Alliance of the Revolutionary Youth",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Muslim brotherhood",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Muslim brotherhood",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "Tariq al-Bishri",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Tariq al-Bishri",
+      "Egyptian",
+      "agent_of-x"
+    ],
+    [
+      "Tariq al-Bishri",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Tariq al-Bishri",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Tahrir Square",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Tahrir Square",
+      "Cairo",
+      "in2"
+    ],
+    [
+      "Cairo",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Cairo",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Supreme Council of the Egyptian Army",
+      "Egypt",
+      "agency_of"
+    ],
+    [
+      "Supreme Council of the Egyptian Army",
+      "Egyptian",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Council of the Egyptian Army",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Supreme Council of the Egyptian Army",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Mohamed ElBaradei",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Mohamed ElBaradei",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Suzanne",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Suzanne",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Suzanne",
+      "Hosni Mubarak",
+      "spouse_of"
+    ],
+    [
+      "Gamal",
+      "Hosni Mubarak",
+      "child_of"
+    ],
+    [
+      "Gamal",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Gamal",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Sharm El-Sheikh",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Sharm El-Sheikh",
+      "Egyptian",
+      "in0-x"
+    ]
+  ]
+}

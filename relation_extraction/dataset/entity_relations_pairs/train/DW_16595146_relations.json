@@ -1,0 +1,80 @@
+{
+  "content": "Comcast to buy GE's stake in NBCUniversal\nComcast Corp. has agreed to buy the remaining 49 percent stake in NBCUniversal from its joint venture partner General Electric. The deal will give Comcast full control of the US media and entertainment behemoth.\n\"This is an exciting day for Comcast as we have agreed to accelerate the purchase of NBCUniversal,\" Comcast chief executive Brian Roberts said on Tuesday, ending the joint venture between his company and GE that was first created two years ago. Comcast, the largest cable TV operator in the US, now acquires full control of the NBC broadcast empire, cable networks, filmed entertainment, theme parks, regional sports networks and certain digital media properties. The deal calls for $16.7 billion (12.42 billion Euros) for the NBCU brand assets and another $1.4 billion in NBC's interest in the 30 Rockefeller Center office buildings in midtown New York City and CNBC's headquarters in Englewood Cliffs, New Jersey. Comcast bought a 51 percent stake in NBCUniversal in January 2011, leaving the remaining 49 percent to GE. Comcast had planned to take a larger stake in it over seven years, paying from operating cash, starting in 2014. The deal is seen as beneficial to both sides. GE will get cash for its stake earlier than expected and Comcast will benefit more from the rising price of the rights to sports and other TV programs. The deal \"allows us to significantly increase the cash we plan to return to shareholders in 2013, to approximately $18 billion, and to continue to invest in our industrial business,\" said GE chairman and CEO Jeff Immelt. \"For nearly 30 years, NBC - and later NBCUniversal - has been a great business for GE and our investors,\" Immelt added. \"We are proud of our stewardship of the business and our association with the NBCU brand.\" Comcast said it would finance the deal, which is expected to close by the end of March, with $11.4 billion of cash on hand, $4 billion in debt owed, $2 billion from its own credit lines and $725 million in preferred stock issued to GE. NBCUniversal is valued at around $34 billion, up from $30 billion when Comcast first acquired its 51 percent stake in the company two years ago. After the deal was announced, Comcast's stock jumped 6.4 percent to $41.46 per share, while GE shares rose 3.6 percent to $23.39. dr/jr (AP, AFP, dpa)",
+  "relations": [
+    [
+      "Comcast Corp.",
+      "US",
+      "based_in0"
+    ],
+    [
+      "NBCUniversal",
+      "US",
+      "based_in0"
+    ],
+    [
+      "General Electric",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Brian Roberts",
+      "Comcast Corp.",
+      "head_of"
+    ],
+    [
+      "Brian Roberts",
+      "Comcast Corp.",
+      "member_of"
+    ],
+    [
+      "Jeff Immelt",
+      "General Electric",
+      "head_of"
+    ],
+    [
+      "Jeff Immelt",
+      "General Electric",
+      "member_of"
+    ],
+    [
+      "NBC",
+      "US",
+      "based_in0"
+    ],
+    [
+      "30 Rockefeller Center",
+      "US",
+      "in0"
+    ],
+    [
+      "30 Rockefeller Center",
+      "New York City",
+      "in2"
+    ],
+    [
+      "New York City",
+      "US",
+      "in0"
+    ],
+    [
+      "CNBC",
+      "US",
+      "based_in0"
+    ],
+    [
+      "CNBC",
+      "Englewood Cliffs",
+      "based_in2"
+    ],
+    [
+      "Englewood Cliffs",
+      "US",
+      "in0"
+    ],
+    [
+      "New Jersey",
+      "US",
+      "in0"
+    ]
+  ]
+}

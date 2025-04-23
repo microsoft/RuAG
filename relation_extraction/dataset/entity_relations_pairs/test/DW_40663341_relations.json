@@ -1,0 +1,285 @@
+{
+  "content": "NFL stars defy Donald Trump's call for boycott\nBaltimore Ravens and Jacksonsville Jaguars players \"took a knee\" during the national anthem after Trump urged fans to boycott football matches. The kneeling protest, to highlight social injustice, has stepped up a gear.\nHundreds of National Football League (NFL) stars protested President Donald Trump's call for fans to boycott the league by refusing to stand for the US national anthem this weekend, starting Sunday's game between the Baltimore Ravens and Jacksonsville Jaguars. A number of other players locked arms in solidarity ahead of the game at Wembley Stadium in London. Jacksonville Jaguars' owner Shahid Khan, who last year donated one million dollars (840,000 euros) to the Trump campaign, locked his arms with players - a rare scene, as owners almost never take to the field. US media reported that about 200 players on Sunday sat, knelt or raised their fists in defiance of Trump's comments. In one of the most memorable moments, singer Rico LaVelle took a knee and held up a fist at the last line of the Star Spangled Banner ahead of the game between the Detriot Lions and Atlanta Falcons. The protest came in response to Trump's tweets on Sunday morning urging fans to boycott NFL games to pressure the league into firing or suspending players to kneel in protest during the national anthem. In an early morning tweet, Trump posted: \"If NFL fans refuse to go to games until players stop disrespecting our Flag and Country, you will see change take place fast. Fire or suspend!\" \"NFL attendance and ratings are WAY DOWN. Boring games yes, but many stay away because they love our country. League should back US,\" he added. Later, the president said that his rant \"has nothing to do with race,\" despite the fact that the origins of the protest are to do with police brutality against minorities, especially African Americans. Trump said his comments were instead about \"respect for our country and respect for our flag.\" Trump's spat with US professional sports began at a Republican rally in Alabama on Friday, when the president attacked activist NFL players for kneeling or sitting during the national anthem, labelling them as \"sons of bitches.\" \"Wouldn't you love to see one of these NFL owners, when somebody disrespects our flag, to say, 'Get that son of a bitch off the field right now... he is fired'?\" Trump told a crowd of cheering supporters. That day, basketball star Stephen Curry, the top player for California's Golden State Warriors, announced that he would not be attending a traditional White House reception honoring the National Basketball Association champions. The kneeling protest was started by former San Francisco 49ers quarterback Colin Kaepernick who refused to stand for the anthem back in 2016. Kaepernick's gesture came amid a spate of deadly police shootings of black men and was aimed at drawing more attention to treatment of minorities in the US. However, Kaepernick has since become a free agent, after failing to be signed by a new team for the new NFL season. NFL executives decry Trump's calls Trump also drew the ire of senior NFL executives and team owners. Responding to Trump's tweets, Ravens owner Steve Bisciotti, said he \"100 percent\" supported his players' decision to kneel during the anthem. Robert Kraft, the owner of the Super Bowl champion New England Patriots, who is also a close friend of Trump, said in a statement on Sunday that he was deeply disappointed by the president's comments in Alabama. Kraft defended players' rights to \"peacefully affect social change and raise awareness in a manner that they feel is most impactful,\" and said that sports were a unifying force in the US. \"Our political leaders could learn a lot from the lessons of teamwork and working together toward a common goal,\" he said. NFL Commissioner Roger Goodell, who has taken much of the heat for Kaepernick's failure to find a new team, was also quick to condemn Trump's comments. Read more: NFL player's refusal to stand for national anthem ignites online controversy \"The NFL and our players are at our best when we help create a sense of unity in our country and our culture,\" Goodell said. \"There is no better example than the amazing response from our clubs and players to the terrible natural disasters we've experienced over the last month.\" Denouncing Trump's remarks, Goodell said: \"Divisive comments like these demonstrate an unfortunate lack of respect for the NFL, our great game and all of our players, and a failure to understand the overwhelming force for good our clubs and players represent in our communities.\" But Trump hit back later on Sunday at a worsening furore, saying the row \"has nothing to do with race.\" Instead, he said: \"This has to do with respect for our country, and respect for our flag.\" At least seven NFL team owners donated at least $1 million each to Trump's presidential campaign last year. They include the owners of the New York Jets, New England Patriots, Dallas Cowboys, Washington Redskins, Jacksonville Jaguars, Houston Texans, Los Angeles Rams and Tampa Bay Buccaneers. dm,mm,es/kl (AP, Reuters)",
+  "relations": [
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Donald Trump",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "Baltimore Ravens",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Baltimore Ravens",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Baltimore Ravens",
+      "Jacksonsville Jaguars",
+      "vs"
+    ],
+    [
+      "Jacksonsville Jaguars",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Jacksonsville Jaguars",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Jacksonsville Jaguars",
+      "Baltimore Ravens",
+      "vs"
+    ],
+    [
+      "National Football League",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Colin Kaepernick",
+      "San Francisco 49ers",
+      "member_of"
+    ],
+    [
+      "Colin Kaepernick",
+      "San Francisco 49ers",
+      "player_of"
+    ],
+    [
+      "Robert Kraft",
+      "New England Patriots",
+      "head_of"
+    ],
+    [
+      "Robert Kraft",
+      "New England Patriots",
+      "head_of"
+    ],
+    [
+      "Robert Kraft",
+      "New England Patriots",
+      "member_of"
+    ],
+    [
+      "Roger Goodell",
+      "National Football League",
+      "head_of"
+    ],
+    [
+      "Roger Goodell",
+      "National Football League",
+      "member_of"
+    ],
+    [
+      "Wembley Stadium",
+      "London",
+      "in2"
+    ],
+    [
+      "Shahid Khan",
+      "Jacksonsville Jaguars",
+      "head_of"
+    ],
+    [
+      "Shahid Khan",
+      "Jacksonsville Jaguars",
+      "member_of"
+    ],
+    [
+      "Detriot Lions",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Detriot Lions",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Detriot Lions",
+      "Atlanta Falcons",
+      "vs"
+    ],
+    [
+      "Atlanta Falcons",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Atlanta Falcons",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Atlanta Falcons",
+      "Detriot Lions",
+      "vs"
+    ],
+    [
+      "Republican",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Alabama",
+      "US",
+      "in0"
+    ],
+    [
+      "Stephen Curry",
+      "Golden State Warriors",
+      "member_of"
+    ],
+    [
+      "Stephen Curry",
+      "Golden State Warriors",
+      "player_of"
+    ],
+    [
+      "California",
+      "US",
+      "in0"
+    ],
+    [
+      "Golden State Warriors",
+      "National Basketball Association",
+      "appears_in"
+    ],
+    [
+      "Golden State Warriors",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Golden State Warriors",
+      "California",
+      "based_in1"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ],
+    [
+      "National Basketball Association",
+      "US",
+      "based_in0"
+    ],
+    [
+      "San Francisco 49ers",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Steve Bisciotti",
+      "Baltimore Ravens",
+      "head_of"
+    ],
+    [
+      "Steve Bisciotti",
+      "Baltimore Ravens",
+      "member_of"
+    ],
+    [
+      "Super Bowl",
+      "US",
+      "event_in0"
+    ],
+    [
+      "New England Patriots",
+      "US",
+      "based_in0"
+    ],
+    [
+      "New York Jets",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "New York Jets",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Dallas Cowboys",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Dallas Cowboys",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Washington Redskins",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Washington Redskins",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Houston Texans",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Houston Texans",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Los Angeles Rams",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Los Angeles Rams",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Tampa Bay Buccaneers",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Tampa Bay Buccaneers",
+      "US",
+      "based_in0"
+    ]
+  ]
+}

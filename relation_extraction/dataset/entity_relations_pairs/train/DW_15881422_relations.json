@@ -1,0 +1,45 @@
+{
+  "content": "Learning the safety lessons of the Titanic\nEven 100 years after the Titanic, there's still no such thing as an unsinkable ship. Modern cruise-liners are in fact more vulnerable to capsizing, but there is much that engineers can do to make ships safer.\nThe Titanic was famously said to be \"unsinkable\" – a boast that was exposed as an illusion in an accident that cost the lives of around 1,500 people. It was a disaster that shook the governments of the world's most important countries to take action, and in direct response, they adopted the International Convention for the Safety of Life at Sea (SOLAS) in 1914. The building and operating of ships still adheres to SOLAS today, and the agreement has been continually updated to keep up with the technology. But the problems of ship-building have remained the same. Ship disasters generally have one of three causes. Either the ship collides with something - an iceberg or it runs aground where the hull is breached and water floods in. Or there is a fire or an explosion on board. Or a huge wave capsizes or damages the ship. Double-hull For all three scenarios there is one main solution - the consequences can only be brought under control if the ship has been divided into as many different closed, water-tight compartments as possible. If the hull is torn open, this means the flooding can be limited. \"That means dividing the ship lengthwise, from side-to-side, and vertically, effectively creating a double-hull, which is absolutely necessary,\" says Peter Bronsart, professor of ship-building at the University of Rostock. Between the individual divisions, there need to be doors and gates, so-called bulkheads, but these have to be centrally controllable from the bridge. There were 15 bulkheads on the Titanic, and so 16 separate compartments. The front five were flooded in the collision with iceberg. Since the ship began sinking at the bow, and the separating walls were not built high enough, the water got into the other compartments. This separation of the ship's hull into various compartments also helps to prevent the spread of fire. \"You divide the ship into individual fire zones, which helps organize fire extinguishing and evacuation operations,\" says Bronsart. Despite the now standard sub-division of ships, there are still many weak points in modern vessels, says Olle Rutgersson of the Chalmers University in Gothenburg, Sweden. His biggest concern is the danger of capsizing. \"My personal opinion is that the cruise-liners we have today are probably not as well-built and safe as the Titanic was,\" he says. \"But of course, on the Titanic they made the big mistake of not building the separating walls higher. If they had done what is done today, it would probably have survived the accident.\" Panorama windows or safety? But he says the case of the Costa Concordia, which hit rocks in the Mediterranean on January 13 and capsized, shows that modern cruise-liners are more unstable than the Titanic was. \"But as we saw, cruise-liners also have difficulty surviving a breach in the hull,\" says Rutgersson. \"If fact, the [Costa Concordia] sank much quicker and in a more dangerous way than the Titanic, because it capsized.\" Rutgersson is appealing for ship's sides to be built higher, and for the outer sides of ships to be made of detachable, floating units. But economic interests certainly stand in the way of such a plan. Shipping companies want plenty of rooms with large, panorama windows on the outside of their cruise-liners. And on cargo ships, they fear such plans would reduce capacity. Shipping safety begins a long time before an accident even happens. Because of modern navigation technology, and global weather predictions, ships usually don't even get into dangerous situations anymore. Indeed, ships are considered among the safest means of transport there are. According to Bronsart's estimate, around 80 percent of accidents are down to human error. Computer-aided safety systems Dirk Dreissig, of the Rostock-based Engineers Society for Maritime Safety Technique and Management (MARSIG), is developing a computer system to help officers and crews make the right decisions in an emergency. It collates information from various sensors, cameras and measuring devices throughout the ship and calculates what is likely to happen next after an accident. \"What do we do when there is a fire in the machine room? Or a fire in the storeroom? Or on the car-deck?\" says Dreissig. \"There are modules that calculate the stability of the ship when the body of the ship has been damaged – if this or that compartment is opened and water gets in, what happens to my ship? Then there are modules for evacuation. Which way should people run?\" The computer system then passes on the advice to the bridge, but only the captain can make the final decision to start a sprinkler, or alert passengers to an evacuation, or to close the bulkheads. \"International maritime law dictates that the captain always has ultimate authority on board,\" says Dreissig. \"He has to decide everything and carries the final responsibility if the decision goes wrong afterwards.\" Author: Fabian Schmidt / bk Editor: Gregg Benzow",
+  "relations": [
+    [
+      "Peter Bronsart",
+      "University of Rostock",
+      "member_of"
+    ],
+    [
+      "Olle Rutgersson",
+      "Chalmers University",
+      "member_of"
+    ],
+    [
+      "Engineers Society for Maritime Safety Technique and Management",
+      "Rostock",
+      "based_in2"
+    ],
+    [
+      "Dirk Dreissig",
+      "Engineers Society for Maritime Safety Technique and Management",
+      "member_of"
+    ],
+    [
+      "University of Rostock",
+      "Rostock",
+      "based_in2"
+    ],
+    [
+      "Chalmers University",
+      "Sweden",
+      "based_in0"
+    ],
+    [
+      "Chalmers University",
+      "Gothenburg",
+      "based_in2"
+    ],
+    [
+      "Gothenburg",
+      "Sweden",
+      "in0"
+    ]
+  ]
+}

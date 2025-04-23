@@ -1,0 +1,155 @@
+{
+  "content": "Storms lash western France, southern England\nBad weather overnight to Sunday left thousands of homes in the French region of Brittany without power. In the English Channel, a cargo ship and its crew were rescued after it hit a barge. \nStrong winds that lashed France's western and northwestern coast overnight to Sunday left nearly 70,000 homes without power, according to the national electricity grid Enedis. France's national weather agency, Meteo France, said winds that reached up to 160 kilometers (100 miles) per hour battered the Breton peninsula and the Normandy coast, and that two other regions also remained under a storm alert. Power was off in the morning hours in 33,000 homes in Normandy, 18,700 in Brittany and 16,500 in the Loire-Atlantique region south of Brittany, according to Enedis. Local officials said a woman suffered serious injuries when she ran into a fallen tree in her car in Brittany's Cote d'Armor department. Meteo France said the stormy conditions resulted from a rare combination of bad weather in the northeastern Atlantic and a strong airstream directed at northwestern France. The winds were expected to die down on Monday. Media reports said that many trees and roofs were torn down in the violent winds. Ship in distress On the other side of the English Channel, a storm affecting England's south coast has brought a cargo ship into difficulty, British coast guards said on Sunday. The Maritime and Coastguard Agency said the 650-foot (200-meter) vessel, carrying 23 people, lost power near the southern port city of Dover, causing it to drift into a rock-laden barge. The agency said a tug was being sent to tow the leaking ship to safety, and that 11 crew members were evacuated by helicopter. Local media reported the name of the ship as the Saga Sky. The storm, called Angus, is the first big one of the autumn-winter season in Britain. Forecasters said the southern coast had been hit by 110 kph winds, with one offshore gust reaching 156 kph. The government issued at least 20 flood warnings. The port of Dover earlier said ferry movements had been temporarily suspended owing to \"very high winds.\" Weather warning in Germany The German Weather Service (DWD) issued a level 2 significant weather warning for the north and northwest of the country valid for Sunday evening and early Monday. DWD warned of squalls packing winds of between 85 and 110 kilometers per hour in parts of Lower Saxony and Schleswig Holstein, as well as the city states of Bremen and Hamburg. On the coastal islands and inlets of the Wadden Sea, the DWD issued a level 3 severe weather warning with wind gusts of up to 100 kilometers an hour. tj/jlw (AP, AFP, Reuters)",
+  "relations": [
+    [
+      "Brittany",
+      "France",
+      "in0"
+    ],
+    [
+      "Brittany",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Meteo France",
+      "France",
+      "agency_of"
+    ],
+    [
+      "Meteo France",
+      "French",
+      "agency_of-x"
+    ],
+    [
+      "Meteo France",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Meteo France",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Maritime and Coastguard Agency",
+      "England",
+      "agency_of"
+    ],
+    [
+      "Maritime and Coastguard Agency",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Maritime and Coastguard Agency",
+      "England",
+      "based_in0"
+    ],
+    [
+      "Maritime and Coastguard Agency",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Angus",
+      "England",
+      "event_in0"
+    ],
+    [
+      "Angus",
+      "France",
+      "event_in0"
+    ],
+    [
+      "Angus",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "German Weather Service",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Weather Service",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Enedis",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Enedis",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Breton",
+      "Brittany",
+      "gpe1"
+    ],
+    [
+      "Normandy",
+      "France",
+      "in0"
+    ],
+    [
+      "Normandy",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Loire-Atlantique",
+      "France",
+      "in0"
+    ],
+    [
+      "Loire-Atlantique",
+      "French",
+      "in0-x"
+    ],
+    [
+      "British",
+      "England",
+      "gpe0"
+    ],
+    [
+      "Dover",
+      "England",
+      "in0"
+    ],
+    [
+      "Dover",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Schleswig Holstein",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ]
+  ]
+}

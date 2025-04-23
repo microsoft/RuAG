@@ -1,0 +1,70 @@
+{
+  "content": "Probe blames Cypriot president for deadly munitions blast\nAn official investigation into a deadly blast on Cyprus which killed 13 people and badly damaged the country's economy has found the Cypriot president bore \"serious\" personal responsibility for the incident.\nThe president of Cyprus was blamed Monday by an official investigator for negligence leading to a huge explosion that killed 13 people in July. The blast triggered a government crisis and led to talk that the island may need an EU bailout. Speaking on national television, investigator Polys Polyviou told a news conference that President Demetris Christofias bore a \"serious and very heavy personal responsibility\" for the accident. The explosion occurred when nearly 100 containers of seized Iranian munitions being stored at the Evangelos Florakis Naval base in Mari blew up. The explosion severely damaged a nearby major power plant, causing electricity shortages to about half the country. Experts predicted it would take at least one year to fix at a cost of more than 1 billion euros ($1.3 billion). Polyviou said the manner in which the decaying munitions were stored was \"completely irresponsible,\" adding that the president was responsible for allowing and keeping the cargo in Cyprus and for approving its storage near the base. Unexpected result The outcome of the probe was surprising considering it had been ordered by Christofias himself. Many had expected the inquiry to clear the head of state of any wrongdoing. Cyprus's defense and foreign ministers have already resigned over the affair. Christofias, meanwhile, has rejected responsibility for the explosion. The crisis sparked rounds of protests outside the presidential palace in which thousands were calling for the president to step down. 'Making a stand' The issue has dominated headlines on the divided island for months. There's been a lot of interest in the case because so many people were affected by it. \"It's a very small island, so lots of people were close to the explosion and saw the knock on effects of it,\" pointed out Chris Yearley, a journalist at the local English-language daily Famagusta Gazette. Yearley said there was a sense of surprise across the island that the finger of blame has been pointed so clearly at the president. \"I think that when we discovered that the president had arranged for the investigation to take place, we were expecting for him to come off scot-free. That hasn't happened, and personally, I'm quite shocked by this and it will be interesting to see what happens next.\" Many commentators predict Christofias will stand down before the end of the year. Author: Nathan Morley, Nicosia, Cyprus / dfm Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Demetris Christofias",
+      "Cyprus",
+      "agent_of"
+    ],
+    [
+      "Demetris Christofias",
+      "Cyprus",
+      "citizen_of"
+    ],
+    [
+      "Demetris Christofias",
+      "Cypriot",
+      "citizen_of-x"
+    ],
+    [
+      "Demetris Christofias",
+      "Cyprus",
+      "head_of_state"
+    ],
+    [
+      "Demetris Christofias",
+      "Cypriot",
+      "head_of_state-x"
+    ],
+    [
+      "Chris Yearley",
+      "Famagusta Gazette",
+      "member_of"
+    ],
+    [
+      "Evangelos Florakis Naval base",
+      "Cyprus",
+      "in0"
+    ],
+    [
+      "Evangelos Florakis Naval base",
+      "Mari",
+      "in2"
+    ],
+    [
+      "Cypriot",
+      "Cyprus",
+      "gpe0"
+    ],
+    [
+      "Mari",
+      "Cyprus",
+      "in0"
+    ],
+    [
+      "Mari",
+      "Cypriot",
+      "in0-x"
+    ],
+    [
+      "Famagusta Gazette",
+      "Cyprus",
+      "based_in0"
+    ],
+    [
+      "Famagusta Gazette",
+      "Cypriot",
+      "based_in0-x"
+    ]
+  ]
+}

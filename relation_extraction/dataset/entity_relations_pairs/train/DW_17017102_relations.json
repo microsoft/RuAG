@@ -1,0 +1,145 @@
+{
+  "content": "Israel releases Palestinian prisoners ahead of peace talks\nIsrael has begun the process of releasing 26 Palestinian prisoners ahead of a round of peace negotiations. The Palestinians, though, remain outraged by fresh Israeli plans to build settlement homes.\nNews agencies reported that vehicles carrying the inmates had left the Ayalon prison near Tel Aviv late on Tuesday. Under the planned release, some of the 26 were to be taken from Ayalon to Gaza Strip, while the rest were to be taken from the Ofer military prison to the West Bank. Celebrations were planned in the Palestinian territories and President Mahmoud Abbas planned to receive some of them at his headquarters in Ramallah. The group is meant to be just the first of 104 Palestinian prisoners to be released by Israel under a deal brokered by US Secretary of State John Kerry to get the Palestinians to return to peace negotiations after they had been stalled for the past three years. Most of the prisoners being released are reported to have been convicted of killings, with victims including Israeli civilians, or attempted murder or kidnapping. The release began after Israel's supreme court rejected an appeal earlier in the day, which had been launched by the families of people killed by some of the prisoners. More settlement home construction The Palestinians agreed to the deal despite the fact that Israel refused to halt all settlement construction, something they had long demanded as a pre-condition for talks. Over the past several days though, the Israeli's have approved the construction of hundreds of new homes in settlements on land captured during the 1967 war, which the Palestinians want to make part of a future state. On Tuesday, Israel approved the construction of around 900 housing units in a settlement in east Jerusalem. This followed Israel's announcement on Sunday, that it had approved of plans for 1,200 settlement homes in both east Jerusalem and the West Bank. Israeli plans to build more settlement homes have enraged the Palestinians, particularly as they've come in the lead-up to the first peace talks in years. \"If the Israeli government believes that every week they're going to cross a red line by settlement activity ... what they're advertising is the unsustainability of the negotiations,\" the head of the Palestinian negotiating team, Saeb Erekat, said following Sunday's announcement. Peace talks still a go US Secretary of State Kerry took great pains on Tuesday to stress that the peace talks, to begin at the King David Hotel in Jerusalem on Wednesday, were still on track, despite the tensions over settlements. \"I'll be talking to President Abbas today ... and he is committed to continuing to come to the negotiation because he believes that negotiation is what will resolve this issue,\" Kerry told a press conference in the Brazilian capital, Brasilia. \"But, that said, [Israeli] Prime Minister Benjamin Netanyahu was completely up front with me and with President Abbas that he would be announcing some additional building in places that will not affect the peace map, that will not have any impact on the capacity to have a peace agreement,\" Kerry said. He added, though, that \"the policy of the United States with respect to all settlements, is that they are illegitimate.\" pfd/ccp (Reuters, dpa, AP)",
+  "relations": [
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "head_of_state-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "head_of_state-x"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "minister_of"
+    ],
+    [
+      "Ayalon",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Ayalon",
+      "Tel Aviv",
+      "in2"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Tel Aviv",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Tel Aviv",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Ofer",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Ofer",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Ramallah",
+      "Palestinian",
+      "in0-x"
+    ],
+    [
+      "Ramallah",
+      "Palestinians",
+      "in0-x"
+    ],
+    [
+      "Jerusalem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jerusalem",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Saeb Erekat",
+      "Palestinian",
+      "agent_of-x"
+    ],
+    [
+      "Saeb Erekat",
+      "Palestinians",
+      "agent_of-x"
+    ],
+    [
+      "King David Hotel",
+      "Israel",
+      "in0"
+    ],
+    [
+      "King David Hotel",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Brasilia",
+      "Brazilian",
+      "in0-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_gov-x"
+    ]
+  ]
+}

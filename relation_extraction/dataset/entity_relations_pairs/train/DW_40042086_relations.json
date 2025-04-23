@@ -1,0 +1,110 @@
+{
+  "content": "Athletics: Norovirus makes these 'no ordinary world championships'\nThe outbreak of a stomach virus at the IAAF World Championships in London has officials scrambling to contain it. The German team and delegation are among those taking great pains to try to prevent it from spreading.\nGermany's athletics team and staff have been among the hardest hit by the outbreak of the stomach virus at the world athletics championships in London, however, their medical staff on Thursday said the worst may be over. \"We have no new case,\" Dr. Andrew Lichtenthal told the DPA news agency. He added that only one German athlete remained in quarantine - of a total of seven athletes and six support staff who have been infected by what appears to be the norovirus, although only two cases have been confirmed in London. The outbreak has caused the delegation to go to extraordinary lengths to try to contain the outbreak at a track meet that has become \"no ordinary world championships,\" as the German athletics federation's (DLV) head coach, Idriss Gonschinska, put it. For one thing, German athletes and staff arriving after the outbreak are being put up at different hotels from the one near London's Tower Bridge, where it was detected. These include a couple of Germany's biggest medal hopes, javelin throwers Johannes Vetter and Thomas Röhler. At the same time, the hygienic measures in place at the main team hotel have been stepped up. Limited personal contact Speaking to German public broadcaster ARD, Gonschinska said that due to how contagious the virus is, everything possible was being done to limit physical personal contact between members of the team and staff. Athletes and staff have been told to avoid contact with their counterparts from other hotels, where the virus may or may not be present. \"Then the next step was to ban all treatment except for emergencies, because we know that any personal contact raises the risk of infection,\" Gonschinska said. \"Physiotherapy is only being given in the case of emergencies, so de facto it isn't happening\" Telephone, Skype, Whatsapp He also said that the coaches are primarily communicating with each other and the athletes through electronic media - and that they hadn't and wouldn't hold any team meetings, as they normally would. There will be no joint training, including between members of the relay teams. \"I will be just happy if we can get a relay team to the starting line,\" Gonschinska said. The athletes have also been instructed to wash their hands regularly and avoid hugging each other or even shaking hands. Eating fruit that is left out for them at the facilities is also a no-go area. As Rebekka Haase put it after her heat in the 200-meter dash:\"We are only allowed to high-fives with our elbows.\" \"This wasn't the sort of situation we had expected when we were on our way to London, but this applies to the other teams as well,\" Gonshinska concluded.",
+  "relations": [
+    [
+      "IAAF World Championships",
+      "London",
+      "event_in2"
+    ],
+    [
+      "German athletics federation",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German athletics federation",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Idriss Gonschinska",
+      "German athletics federation",
+      "coach_of"
+    ],
+    [
+      "Idriss Gonschinska",
+      "German athletics federation",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DPA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Tower Bridge",
+      "London",
+      "in2"
+    ],
+    [
+      "Johannes Vetter",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Johannes Vetter",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Johannes Vetter",
+      "German athletics federation",
+      "member_of"
+    ],
+    [
+      "Johannes Vetter",
+      "German athletics federation",
+      "player_of"
+    ],
+    [
+      "Thomas Röhler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thomas Röhler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas Röhler",
+      "German athletics federation",
+      "member_of"
+    ],
+    [
+      "Thomas Röhler",
+      "German athletics federation",
+      "player_of"
+    ],
+    [
+      "ARD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ARD",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Rebekka Haase",
+      "German athletics federation",
+      "member_of"
+    ],
+    [
+      "Rebekka Haase",
+      "German athletics federation",
+      "player_of"
+    ]
+  ]
+}

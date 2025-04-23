@@ -1,0 +1,55 @@
+{
+  "content": "European court overturns law requiring German-language skills for spouse visas\nThe European Court of Justice has overturned a German law requiring foreign spouses from certain non-EU countries to take a language test before receiving a visa. The ruling primarily affects Germany's Turkish minority.\nThe European Union's highest court on Thursday ruled in favor of a Turkish citizen, who was denied a visa to live in Germany with her husband, because she was illiterate and therefore unable to demonstrate basic German-language skills. According to the court, a lack of language skills shouldn't automatically lead to the rejection of an entry visa application. Instead, Germany must consider the unique circumstances of each individual case. The court went on to say that quickly granting visas for spouses improves the quality of life and promotes the integration of foreign residents. Specifically addressing the case of the Turkish plaintiff, the court ruled that the rejection of her visa had violated a bilateral treaty between Turkey and the EU. In 1970, Brussels and Ankara agreed not to tighten their residency laws for each other's citizens. Law only applies to some In 2007, Germany introduced the requirement that spouses from certain non-EU countries must demonstrate a basic grasp of German before being granted a visa to live in Germany with their husbands or wives. Spouses affected by the law are required to obtain a basic language certificate from recognized centers, such as Germany's Goethe Institute, proving that they have an A1 level, or \"Beginning German\" language ability. The German government claims that the goal of the language requirement is to prevent forced marriages as well as marriages made simply for the sake of obtaining a visa. Citizens of European Free Trade Association (EFTA) member states are exempt from the language requirement. That includes Iceland, Lichtenstein, Norway and Switzerland. In addition, citizens of Australia, Canada, Israel, Japan, New Zealand, South Korea and the United States also don't have to demonstrate German-language skills. slk/xx (AFP, AP, dpa, KNA)",
+  "relations": [
+    [
+      "European Court of Justice",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Court of Justice",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Goethe Institute",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Goethe Institute",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Goethe Institute",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Goethe Institute",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ]
+  ]
+}

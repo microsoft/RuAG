@@ -1,0 +1,45 @@
+{
+  "content": "UN chief warns Nepal parties over instability\nThe UN Secretary General has voiced disappointment over the failure of divided parties to meet a deadline to draw up a constitution. Security forces are on high alert amid fears of unrest.\nUN leader Ban Ki-moon expressed \"deep regret\" on Monday that political leaders had failed to make progress on a constitution in Nepal, expressing concern about instability within the country. Security forces were put on high alert, with riot police patrolling streets after calls by the opposition for the resignation of Maoist Prime Minister Baburam Bhattarai. \"Nepal has entered an uncertain constitutional and political period,\" Ban warned in a statement read by his spokesman Martin Nesirky. \"The government and the political leaders, as well as leaders of various communities, need to demonstrate the courage and wisdom to come together to address the challenges the nation faces,\" the statement added. Repeated deadlines expired Politicians were to have agreed upon a new framework for the country's political future by Sunday. However, the representation of ethnic minorities and castes within a federal structure has proved a major sticking point in efforts to draw up a secular constitution. Bhattarai on Sunday said that parliament, elected in 2008 after a decade of civil war, would be disbanded after repeated deadlines had been broken. New elections are due to be held in November, but the opposition has criticized the premier's unilateral decision to call the poll. The country's Hindu monarchy, which ruled for centuries, was abolished after Maoist rebels gave up arms and won elections in 2008. Some 16,000 people died in the civil war between 1996 and 2006. rc/msh (AFP, AP)",
+  "relations": [
+    [
+      "Ban Ki-moon",
+      "UN",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Baburam Bhattarai",
+      "Nepal",
+      "agent_of"
+    ],
+    [
+      "Baburam Bhattarai",
+      "Nepal",
+      "citizen_of"
+    ],
+    [
+      "Baburam Bhattarai",
+      "Nepal",
+      "head_of_gov"
+    ],
+    [
+      "Martin Nesirky",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Martin Nesirky",
+      "Ban Ki-moon",
+      "member_of"
+    ],
+    [
+      "Martin Nesirky",
+      "Ban Ki-moon",
+      "spokesperson_of"
+    ]
+  ]
+}

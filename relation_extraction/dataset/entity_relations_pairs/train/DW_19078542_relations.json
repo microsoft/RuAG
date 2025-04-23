@@ -1,0 +1,70 @@
+{
+  "content": "Two deadly explosions rock Mogadishu\nTwo explosions have rocked the center of Mogadishu. A Somali police official confirmed that gunmen have also forced their way into a prestigious hotel in the Somali capital.\nEyewitnesses reported that the first of the two blasts could be heard 15 kilometers (10 miles) outside of the city on Friday. It reportedly took place at a central hotel in the city and was accompanied by heavy gunfire. A second explosion was later confirmed by a government employee. Residents reported a large plume of smoke rising above the city. Police said a suicide bomber had rammed his car into the SYL hotel's entrance at 7:45 p.m. local time (1645 GMT) and that a number of gunmen had then entered the premises after an exchange of gunfire with hotel guards. There was no definitive information on casualties but the German news agency dpa reported that at least 20 people had died, citing a local government spokesman. Several more were wounded, it said. Police Major Ahmad Ismail told the Reuters news agency that it remained unclear whether the fighters were still inside the hotel. Al-Shabab claims responsibility The SYL hotel, also known as the Somali Youth League hotel, is located across from the presidential palace in Mogadishu and is frequented by government officials and business executives. The Islamic extremist al-Shabab group, which is affiliated with the al Qaeda terrorist network, claimed responsibility for the attack. Earlier this month, the group attempted to bomb a Daallo airlines flight en route from Mogadishu to Djibouti. The blast tore a gaping hole to the plane's fuselage and sucked the attacker out of the plane. Al-Shabab carries out attacks government facilities in Mogadishu on a regular basis, seeking to establish an Islamist state in Somalia. ss/sms (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "Mogadishu",
+      "Somalia",
+      "in0"
+    ],
+    [
+      "Mogadishu",
+      "Somali",
+      "in0-x"
+    ],
+    [
+      "al-Shabab",
+      "Somalia",
+      "based_in0"
+    ],
+    [
+      "al-Shabab",
+      "Somali",
+      "based_in0-x"
+    ],
+    [
+      "Somali Youth League",
+      "Somalia",
+      "based_in0"
+    ],
+    [
+      "Somali Youth League",
+      "Somali",
+      "based_in0-x"
+    ],
+    [
+      "Somali Youth League",
+      "Mogadishu",
+      "based_in2"
+    ],
+    [
+      "Somali",
+      "Somalia",
+      "gpe0"
+    ],
+    [
+      "dpa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ahmad Ismail",
+      "Somalia",
+      "agent_of"
+    ],
+    [
+      "Ahmad Ismail",
+      "Somali",
+      "agent_of-x"
+    ],
+    [
+      "Ahmad Ismail",
+      "Somalia",
+      "citizen_of"
+    ],
+    [
+      "Ahmad Ismail",
+      "Somali",
+      "citizen_of-x"
+    ]
+  ]
+}

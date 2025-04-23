@@ -1,0 +1,205 @@
+{
+  "content": "Jewelry found at Sobibor could be linked to Anne Frank: researchers\nA Jewish girl's necklace found at the former Sobibor Nazi death camp has led researchers to speculate she may have known the famous diarist Anne Frank. The pendant belonged to Karoline Cohn, also of Frankfurt.\nIsrael's Yad Vashem Holocaust memorial said Karoline Cohn's necklace with a triangular pendant was unearthed at the former death camp by researchers, who believe it fell between floorboards when taken off on the way to the gas chambers. The museum issued an appeal Sunday, urging anyone or surviving relatives who knew more about Cohn to make contact with Yad Vashem. The necklace - engraved with three small Stars of David, the date July 3, 1929, and the word \"Frankfurt\" - appeared to closely resemble one that belonged to Anne Frank, who perished at Bergen-Belsen, east of Hannover, in early 1945, aged 15. Frank and Cohn were both born in Frankfurt in 1929. Necklace unearthed at Sobibor More than 250,000 Jews were killed in Sobibor in then-Nazi-occupied Poland during World War Two, as the Hitler regime carried out its systematic murder of 6 million Jews across Europe. The excavations at Sobibor, involving researchers from Poland, the Netherlands and Israel's Antiquities Authority and conducted since 2007, have so far uncovered the gas-chamber foundations and train platform used by the Nazis. On the pendant were also the Hebrew letter \"heh,\" symbolizing God, and the word \"Mazal Tov,\" literally translated as \"good luck,\" but used as an expression of congratulations for a joyous or significant occurrence. Ex-guard Demjanjuk One of the guards at Sobibor, John Demjanjuk, was convicted in 2011 by a Munich court of being an accessory to the murders of more than 28,000 Jews on the sole ground that he been present at the death camp. His conviction set a belated landmark legal precedent for German courts, which had previously argued that the top Nazi leadership was mainly to blame. Demjanjuk, a former autoworker in the US state of Ohio, died in 2012 before his appeal application was heard. He had denied serving at Sobibor. Ministry shielded ex-Nazi jurists A recent German Justice Ministry study compiled by historians and published last October found that Germany's immediate post-war justice system was infested with ex-Nazis who shielded each other. Current German Justice Minister Heiko Maas said the study helped explain why post-war German courts convicted only around 6,650 ex-Nazis, a tiny fraction of the membership in Hitler's NSDAP party. \"The Nazi-era lawyers went on to cover up old injustice rather than to uncover it, and thereby created new injustice,\" said Maas. Jurists who survived the war in exile or joined the anti-Nazi resistance remained largely unemployed by the ministry. ipj/tj (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "John Demjanjuk",
+      "Sobibor",
+      "member_of"
+    ],
+    [
+      "Karoline Cohn",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Karoline Cohn",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sobibor",
+      "Poland",
+      "in0"
+    ],
+    [
+      "Anne Frank",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Anne Frank",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Heiko Maas",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Heiko Maas",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Heiko Maas",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Heiko Maas",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Heiko Maas",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Yad Vashem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Bergen-Belsen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bergen-Belsen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hannover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hannover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "World War Two",
+      "Poland",
+      "event_in0"
+    ],
+    [
+      "World War Two",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Hitler",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Hitler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hitler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hitler",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Hitler",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "Antiquities Authority",
+      "Israel",
+      "agency_of"
+    ],
+    [
+      "Antiquities Authority",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Nazis",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Nazis",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Ohio",
+      "US",
+      "in0"
+    ],
+    [
+      "Justice Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Justice Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Justice Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Justice Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Justice Ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "NSDAP",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "NSDAP",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

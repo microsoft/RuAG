@@ -1,0 +1,180 @@
+{
+  "content": "Italy Rejects Easing Assisted Fertility\nA boycott call spearheaded by the Roman Catholic Church has trounced an attempt to relax Italy's stringent fertility and bioethics law, after voter turnout failed to reach the 50 percent needed to validate the ballot.\nThere was no escaping the mood of election apathy on Monday, when voters merely trickled into polling stations to have their say on the issue of whether or not Italy is ready to embrace a change in its bioethics law. Only around a quarter of Italian voters turned out to have their say in the referendum. Following Sunday's poor result, which saw just 18.7 percent casting ballots, Monday's papers wrote as if it were a foregone conclusion that the referendum would fail. \"Few vote, referendum drowns,\" headlined the Corriere della Sera daily. Analysts pointed at voter apathy but also at the appeal of Italian cardinals who, backed by newly-elected Pope Benedict XVI, urged predominantly Roman Catholic Italians to abstain from voting on moral grounds. \"The church exults,\" wrote Orazio Petrosillo, Vatican expert in Il Messaggero, while Turin's La Stampa daily said \"Catholics could return the slap in the face they received by the abortion and divorce law,\" approved in referendums despite church opposition in the 1970s. \"Te Deum\" praise of thanks Although top prelates and the Vatican kept a low profile as the voting continued, Father Gianni Baget Bozzo, a priest linked to Prime Minister Silvio Berlusconi, said he was preparing a \"Te Deum\" hymn of thanksgiving. Infuriated and embittered supporters of change accused the church of outstepping its sphere. \"Those who are sensitive to the influence of the pope let themselves be conditioned and gave up their right to free choice,\" lamented Michele Fasanella, an arts student from the southern Italian city of Potenza. \"There was such a brainwashing campaign by the church with the elderly, even the pope spoke out, so the result couldn't have been any different,\" said Renato, a Roman typographer, who voted to loosen the 2004 law along with 14 of his relatives on Sunday. General apathy But the result was also due to the \"indifference and laziness of those who do not vote regardless of the issue at stake,\" said political analyst Giulio Anselmi. None of the five referendums of the past decade succeeded in reaching the quorum. Equal Opportunities Minister Stefania Prestagiacomo refused to give up hope early Monday, saying that there was still a chance for the quorum to be reached. If not, Italy will have to \"keep a backward law, that jeopardizes the health of women,\" the minister was quoted as saying in Corriere della Sera. \"Good luck to us!\" quipped the minister, who spearheaded the campaign for change. Vow to continue Lawmakers backing change said they would not give up and would try to modify the law in parliament. Italy was deeply divided over the referendum, which asked people to authorize medical research on embryos, scrap a reference to the embryo as a full human being and give people with hereditary diseases access to medically-assisted procreation, currently permitted only to sterile couples. The referendum also asked voters whether to abolish current restrictions which only allow couples to create three embryos that must all be implanted at the same time, and without checking whether they carry genetic diseases. Opponents say the proposed changes go against what the pope has called the \"inviolability of human life from conception,\" while supporters say the current law puts women's health in danger, risks leaving Italy in the dark ages of medical research, and could lead to a recriminalization of abortion.",
+  "relations": [
+    [
+      "Gianni Baget Bozzo",
+      "Roman Catholic Church",
+      "member_of"
+    ],
+    [
+      "Stefania Prestagiacomo",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Stefania Prestagiacomo",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Stefania Prestagiacomo",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Stefania Prestagiacomo",
+      "Italians",
+      "citizen_of-x"
+    ],
+    [
+      "Stefania Prestagiacomo",
+      "Italy",
+      "minister_of"
+    ],
+    [
+      "Stefania Prestagiacomo",
+      "Italian",
+      "minister_of-x"
+    ],
+    [
+      "Stefania Prestagiacomo",
+      "Italians",
+      "minister_of-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Corriere della Sera",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Corriere della Sera",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Corriere della Sera",
+      "Italians",
+      "based_in0-x"
+    ],
+    [
+      "Benedict XVI",
+      "Roman Catholic Church",
+      "head_of"
+    ],
+    [
+      "Benedict XVI",
+      "Roman Catholic Church",
+      "member_of"
+    ],
+    [
+      "Italians",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Il Messaggero",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Il Messaggero",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Il Messaggero",
+      "Italians",
+      "based_in0-x"
+    ],
+    [
+      "Turin",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Turin",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Turin",
+      "Italians",
+      "in0-x"
+    ],
+    [
+      "La Stampa",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "La Stampa",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "La Stampa",
+      "Italians",
+      "based_in0-x"
+    ],
+    [
+      "La Stampa",
+      "Turin",
+      "based_in2"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italians",
+      "citizen_of-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "head_of_gov"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italians",
+      "head_of_gov-x"
+    ],
+    [
+      "Potenza",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Potenza",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Potenza",
+      "Italians",
+      "in0-x"
+    ]
+  ]
+}

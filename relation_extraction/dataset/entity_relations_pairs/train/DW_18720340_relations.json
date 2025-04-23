@@ -1,0 +1,145 @@
+{
+  "content": "UK spy chief warns of terrorist threat, seeks more surveillance powers\nIn the first ever live interview by the chief of a UK spy agency, MI5 head Andrew Parker has appealed for more surveillance powers. He said Britain's security forces had thwarted six plots in the past year.\nThe head of the UK's domestic intelligence agency is pushing for expanded government surveillance powers to respond to a rising homegrown terrorism threat. MI5 Director General Andrew Parker said in an interview with BBC Radio 4 on Thursday that terrorists were increasingly using advanced technology and social media to plan attacks and spread propaganda for the self-styled \"Islamic State\" (IS). \"They are using secure apps and Internet communication to try to broadcast their message and incite and direct terrorism amongst people who live here who are prepared to listen,\" Parker told the \"Today Programme.\" The British government estimates that at least 700 of its citizens have joined IS in Syria and Iraq, prompting the government last year to raise its security threat level to \"severe.\" The designation, the second highest, means authorities consider a terrorist attack to be highly likely. Parker said the terrorist threat was \"continuing to grow largely because of the situation in Syria and how that affects our security.\" However, the record number of refugees fleeing conflict for Europe is not \"the main focus of where the threat is coming from,\" Parker said. The spy chief said security services had thwarted six terrorist plots in the past 12 months, while last week British police carried out a record number of arrests on suspected terrorists. British Prime Minister David Cameron's government plans to introduce new laws to strengthen police and intelligence agencies' surveillance powers, but the measures face stiff opposition from human rights and privacy groups - and quite probably from new opposition Labour Party leader Jeremy Corbyn. Opposition to government surveillance has mounted following revelations from NSA whistleblower Edward Snowden showing the US and British governments cooperated in conducting mass surveillance. Parker, however, brushed aside fears the government would conduct mass surveillance against ordinary citizens. \"We're focused on the people who mean us harm,\" he said.\"We're not about browsing through the private lives of the citizens of this country. We do not have population-scale monitoring or anything like that.\" cw/msh (AP, Reuters)",
+  "relations": [
+    [
+      "Islamic State",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Islamic State",
+      "Iraq",
+      "based_in0"
+    ],
+    [
+      "Andrew Parker",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Andrew Parker",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Andrew Parker",
+      "MI5",
+      "head_of"
+    ],
+    [
+      "Andrew Parker",
+      "MI5",
+      "member_of"
+    ],
+    [
+      "MI5",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "MI5",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "MI5",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "MI5",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "BBC Radio 4",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "BBC Radio 4",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "David Cameron",
+      "Britain",
+      "agent_of"
+    ],
+    [
+      "David Cameron",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "David Cameron",
+      "Britain",
+      "head_of_gov"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Labour Party",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Labour Party",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Jeremy Corbyn",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Jeremy Corbyn",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Jeremy Corbyn",
+      "Labour Party",
+      "head_of"
+    ],
+    [
+      "Jeremy Corbyn",
+      "Labour Party",
+      "member_of"
+    ],
+    [
+      "NSA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "NSA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Edward Snowden",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Edward Snowden",
+      "NSA",
+      "member_of"
+    ]
+  ]
+}

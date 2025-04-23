@@ -1,0 +1,315 @@
+{
+  "content": "High expectations for Germany's new president\nJoachim Gauck's election as new German presidant was no surprise. But politicians and religious leaders are optimistic that his term in office will be marked by honesty and tolerance.\nThere was a strong sense of satisfaction and relief in Berlin after Joachim Gauck was voted in as Germany's new president on Sunday. Politicians from almost all parties where pleased with the result - Chancellor Angela Merkel said she was glad that Gauck received an overwhelming majority in the Federal Assembly. Her conservative Christian Democrats initially had been hesitant to back Gauck as a candidate but eventually did throw their weight behind him. Merkel said that Gauck's acceptance speech made it clear he'd be a president with the people's concerns at heart. But also that he held high respect for politicians. \"I think, we'll be working together very well,\" Merkel said. Germany's image abroad The chancellor said she'd be in dialogue with Gauck just as she'd been with his predecessors. And should there be disagreements, that'd just be something that will strengthen democracy, she added. Foreign Minister Guido Westerwelle was optimistic that Gauck would improve the image of Germany abroad. He told DW that it was especially Gauck's personal history and his struggle against the East German communist regime that could play a vital part in this. Gauck's story, Westerwelle said, was his struggle for freedom and the sense of responsibility borne from that. The new president could therefore become an example for those around the world who are still struggling for freedom and liberation. President, not king The opposition Social Democrats (SPD) and the Greens had already backed Gauck in the previous presidential poll in 2010. \"Gauck is the right man at the right time,\" SPD parliamentary leader and former Foreign Minister Frank-Walter Steinmeier said. He said that Gauck, who is not affiliated with any of the political parties, might not always be an easy president to get along with, in that he would not hesitate to stand up to the political mainstream. But he certainly would be a president who'd be honest and independent. Jürgen Trittin of the Greens said that while he expected differences in opinion between his party and the future president , he still looked forward to constructive debates and discussions with Gauck. The president is not a king, Trittin said, adding that \"if you're president of Germany, you don't have to compromise your opinion just to please others.\" Other candidates It was just the Left party that remained more hesitant to welcome the new president. The party had fielded their own candidate, Beate Klarsfeld. Left party floor leader Gesine Lötzsch cautioned that Gauck might have a lot to learn to fill his new post and might have to alter some of his views. But she conceded she was impressed that he did pay the Left party a visit to talk to the parliamentarians. Ahead of the vote, the government had explicitly excluded the Left party from talks on who to nominate. The Left party is still seen in association with its predecessor, the communist party of former East Germany. Religious tolerance Religious leaders also sent their congratulations to Gauck who himself was once a Lutheran pastor. The head of Germany's Lutheran community, Nikolaus Schneider, said he was looking forward to fresh impulses coming from Gauck. After the scandals and criticism surrounding his predecessor, Christian Wulff, Gauck was expected to lead the presidency back into calmer waters. The head of the Catholic bishops' conference, Robert Zollitsch, said Gauck was marked by a high level of credibility and broad acceptance among the population. Germany's Muslim community also congratulated Gauck, expressing hope that he would work towards more acceptance and tolerance for Muslims in Germany. The head of the Central Council of Jews in Germany, Dieter Graumann, said he hoped Gauck would take a strong stance against racism and anti-Semitism. First comments Gauck himself said after the vote that he'd be cautious about the high expectations that the public had about him taking office. \"People have to accept me the way I am. I am a person with rough edges.\" He said he was happy about the overwhelming result of the vote and about the fact that he's the first president from what used to be communist East Germany. His first trip abroad is scheduled for neighboring Poland, a country which shared his experience of the struggle against dictatorship. The new president dismissed accusations that his concept of freedom was one-dimensional, only formed by his experiences in East Germany but not informed by current social problems in modern-day Germany. Social justice was a central concern for him, Gauck said. Yet the new president did not go into too much detail on politics in his comments after the vote. His first major speech is expected at his swearing-in ceremony next Friday. Author: Bettina Marx / ai Editor: Darren Mara",
+  "relations": [
+    [
+      "Joachim Gauck",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Joachim Gauck",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Joachim Gauck",
+      "East Germany",
+      "citizen_of"
+    ],
+    [
+      "Joachim Gauck",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Joachim Gauck",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Joachim Gauck",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "head_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Federal Assembly",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Assembly",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Assembly",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Assembly",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Beate Klarsfeld",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Beate Klarsfeld",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jürgen Trittin",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jürgen Trittin",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jürgen Trittin",
+      "Greens",
+      "member_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Left",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Gesine Lötzsch",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gesine Lötzsch",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gesine Lötzsch",
+      "Left",
+      "head_of"
+    ],
+    [
+      "Gesine Lötzsch",
+      "Left",
+      "member_of"
+    ],
+    [
+      "Nikolaus Schneider",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Nikolaus Schneider",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Nikolaus Schneider",
+      "Lutheran",
+      "head_of"
+    ],
+    [
+      "Nikolaus Schneider",
+      "Lutheran",
+      "member_of"
+    ],
+    [
+      "Christian Wulff",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Christian Wulff",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Christian Wulff",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Christian Wulff",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Christian Wulff",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "Central Council of Jews in Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Central Council of Jews in Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dieter Graumann",
+      "Central Council of Jews in Germany",
+      "head_of"
+    ],
+    [
+      "Dieter Graumann",
+      "Central Council of Jews in Germany",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "content": "UN: Cyprus reunification talks to resume\nThe leaders of ethnically-split Cyprus have agreed to restart peace talks in a bid to reunify the island. The election of a moderate leftist Turkish Cypriot has raised hopes of a breakthrough after 40 years of division.\nA United Nations envoy said the leaders planned to resume the stalled talks on Friday May 15, seizing a \"unique opportunity\" for peace on an island that's been divided along ethnic lines since 1974. Diplomat Espen Barth Eide made the announcement after hosting a dinner between Greek Cypriot President Nicos Anastasiades and newly-elected Turkish Cypriot leader Mustafa Akinci. \"They agreed it was important to use the momentum created and opportunity to move forward without delay,\" Eide told journalists in the capital Nicosia. It was the first meeting between the two leaders since Akinci, a moderate leftist and reunification advocate, defeated veteran nationalist Dervis Eroglu in elections last month. It's believed the leadership change could give new momentum to reunification efforts. Eide, a former foreign minister for Norway, said Friday's talks would involve a \"general exchange of views\" and address the structure of future negotiations. \"I think this is a unique opportunity that will be grasped and it's truly rewarding to work with two leaders with such a strong commitment to seeing a shared challenge that can only be solved through shared effort.\" Four-decade split The Mediterranean island split into a Turkish North and a Greek-supported South in 1974, when the Turkish army invaded, itself in response to a coup seeking a union with Greece. Since then, there have been a number of failed attempts at peace. In October, Greek Cypriots walked away from UN-brokered talks in protest of Turkish exploration of the island's offshore oil and gas reserves. Although the rival sides agree that there should be a two-state federation, negotiations have stalled on issues such as territorial adjustments, security, property rights of internally displaced people, and power sharing. Turkey supports Northern Cyprus militarily and financially, and is the only country to recognize it as a separate state. The Greek Cypriot leadership theoretically represents the whole island in the European Union, although it technically only governs the south. nm/msh (Reuters, AP, AFP)",
+  "relations": [
+    [
+      "Espen Barth Eide",
+      "Norway",
+      "citizen_of"
+    ],
+    [
+      "Espen Barth Eide",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Nicos Anastasiades",
+      "Cyprus",
+      "agent_of"
+    ],
+    [
+      "Nicos Anastasiades",
+      "Cyprus",
+      "citizen_of"
+    ],
+    [
+      "Nicos Anastasiades",
+      "Cypriot",
+      "citizen_of-x"
+    ],
+    [
+      "Nicos Anastasiades",
+      "Cyprus",
+      "head_of_state"
+    ],
+    [
+      "Nicos Anastasiades",
+      "Cypriot",
+      "head_of_state-x"
+    ],
+    [
+      "Nicos Anastasiades",
+      "Mustafa Akinci",
+      "is_meeting"
+    ],
+    [
+      "Mustafa Akinci",
+      "Northern Cyprus",
+      "agent_of"
+    ],
+    [
+      "Mustafa Akinci",
+      "Northern Cyprus",
+      "citizen_of"
+    ],
+    [
+      "Mustafa Akinci",
+      "Northern Cyprus",
+      "head_of_state"
+    ],
+    [
+      "Mustafa Akinci",
+      "Nicos Anastasiades",
+      "is_meeting"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Cypriot",
+      "Cyprus",
+      "gpe0"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Nicosia",
+      "Cyprus",
+      "in0"
+    ],
+    [
+      "Nicosia",
+      "Cypriot",
+      "in0-x"
+    ],
+    [
+      "Dervis Eroglu",
+      "Northern Cyprus",
+      "agent_of"
+    ],
+    [
+      "Dervis Eroglu",
+      "Northern Cyprus",
+      "citizen_of"
+    ],
+    [
+      "Dervis Eroglu",
+      "Northern Cyprus",
+      "head_of_state"
+    ]
+  ]
+}

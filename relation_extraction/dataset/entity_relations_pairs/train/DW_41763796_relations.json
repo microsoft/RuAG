@@ -1,0 +1,100 @@
+{
+  "content": "Bangladeshi man faces state and federal terror charges in New York\nThe suspect was the only person seriously injured in the blast, but he is expected to appear in court. Meanwhile President Donald Trump seized on the attack to call for stricter immigration rules.\nNew York City police and federal prosecutors on Tuesday charged a Bangladeshi man with terrorism, in connection with his attempt to blow himself up inside the city's crowded subway network during Monday morning's rush hour. Police charged 27-year-old Akayed Ullah with supporting an act of terrorism, making a terrorist threat and criminal possession of a weapon. These charges fall under New York state law. Federal prosecutors charged him with providing material support to terrorists and using weapons of mass destruction. Ullah is accused of detonating a crudely made pipe bomb that was strapped to his body. The blast occurred in an underground warren of pedestrian tunnels that connect the Port Authority Bus Terminal with the subway network. Four people were injured in the blast but only Ullah was seriously wounded. The three wounded victims had relatively minor complaints such as ringing in their ears and headaches. Ullah was hospitalized with burns to his hands and stomach but he is expected to appear in court to answer the charges. The blast, which clearly did not have the lethal effect that was intended, nonetheless created short term panic and snarled public transit traffic as key subway stations were temporarily closed off during the morning rush. Mayor Bill de Blasio called the blast an attempted terrorist attack, and officials said it appeared to be a rare if not unprecedented attempt at suicide bombing on U.S. soil. Trump seizes on attack Law enforcement officials said they had found evidence that Ullah was inspired by the \"Islamic State\" (IS). Ullah had no direct contact with IS, but police said they had found evidence that he watched IS propaganda online. Ullah taunted US President Donald Trump on his Facebook page Monday, writing, \"Trump you failed to protect your nation.\" Ullah entered the country legally in 2011, based on a visa program based on family connections in the US. Trump seized on the news to renew his call for greater immigration restrictions. \"Today's terror suspect entered our country through extended-family chain migration, which is incompatible with national security,\" Trump said in a statement that called for various changes to the immigration system. Earlier, White House spokeswoman Sarah Huckabee Sanders said Trump's proposed policies \"could have prevented this.\" Meanwhile, police in Bangladesh have questioned Ullah's wife, according to multiple officials who declined to give their names as they were not permitted to discuss the matter publicly. \"We have found his wife and in-laws in Dhaka. We are interviewing them,\" said one local police official. Ullah last visited Bangladesh in September to see his wife and newborn baby. bik/msh (AP, Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "Donald Trump",
+      "U.S.",
+      "citizen_of"
+    ],
+    [
+      "New York City",
+      "U.S.",
+      "in0"
+    ],
+    [
+      "New York City",
+      "U.S.",
+      "in0"
+    ],
+    [
+      "Akayed Ullah",
+      "Bangladesh",
+      "citizen_of"
+    ],
+    [
+      "Akayed Ullah",
+      "Bangladeshi",
+      "citizen_of-x"
+    ],
+    [
+      "Bangladeshi",
+      "Bangladesh",
+      "gpe0"
+    ],
+    [
+      "Port Authority Bus Terminal",
+      "U.S.",
+      "in0"
+    ],
+    [
+      "Port Authority Bus Terminal",
+      "New York City",
+      "in2"
+    ],
+    [
+      "Bill de Blasio",
+      "U.S.",
+      "citizen_of"
+    ],
+    [
+      "Bill de Blasio",
+      "New York City",
+      "head_of_gov"
+    ],
+    [
+      "Bill de Blasio",
+      "New York City",
+      "mayor_of"
+    ],
+    [
+      "Facebook",
+      "U.S.",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "U.S.",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "U.S.",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "U.S.",
+      "in0"
+    ],
+    [
+      "Sarah Huckabee Sanders",
+      "U.S.",
+      "agent_of"
+    ],
+    [
+      "Sarah Huckabee Sanders",
+      "U.S.",
+      "citizen_of"
+    ],
+    [
+      "Dhaka",
+      "Bangladesh",
+      "in0"
+    ],
+    [
+      "Dhaka",
+      "Bangladeshi",
+      "in0-x"
+    ]
+  ]
+}

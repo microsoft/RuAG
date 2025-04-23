@@ -1,0 +1,265 @@
+{
+  "content": "European Press Review: It’s All Greek To Me\nEuropean newspaper editors led on Friday with editorials on the EU’s Thessaloniki summit and the growing problems American and British forces are having maintaining order in Iraq.\nWith the leaders of the European Union meeting at a major summit, newspapers in European capitals on Friday commented on the major political issues being discussed at in Thessaloniki, Greece, as well as the hangover facing U.S. and British troops in Iraq. London’s Financial Times looked at British Prime Minister Tony Blair’s proposals for EU immigration policies and noted: “Back in 1999 EU states set themselves the goal of creating a common system of asylum, now a common European approach is being attempted towards some of the roots of the refugee problem which of course lie outside the Union.” And who is leading the approach, the paper asked? “It is none other than Britain which during the 1990s in the name of national sovereignty fought German efforts to bring the EU into asylum policy.” According to the paper, the reason for the switch was obvious: “Britain has replaced Germany as the largest single EU destination for asylum seekers.” France’s Le Figaro focused on the first formal talks on a European constitution taking place at the Greek summit. “An EU constitution will make the cooperation between member states much easier in many fields,” the paper said. It also saw a further opportunity arising out of the summit, suggesting: “After the conflict about the war in Iraq not only do transatlantic relations have to be redefined, it is even more important for the EU states to formulate a common position towards Washington.” Commenting on claims that the U.S. and Britain exaggerated the threat posed by Saddam Hussein’s weapon’s arsenal before the war, the Italian daily Corriere Della Sera noted that the opponents of the war also made mistakes. “They predicted millions of refugees and hundreds of thousands of dead,” the paper wrote, “they spoke of legions of guerrilla fighters who would join Hussein’s Republican Guards and they repeatedly predicted that the ordinary people would rise up.” But none of these fears ever came true, the paper pointed out. The Munich-based Süddeutsche Zeitung noted that there was one aspect that might endanger the Bush administration even more than Saddam’s vanished weapons of mass destruction – and that is Iraqi resistance that is leading to the murder of American soldiers almost every day. “First, American troops are to be worn down and therefore provoked to take ill-considered actions against civilians. Secondly, back in the U.S., doubts are to be planted about why young American men and women must risk their lives for a people that seems to be so ungrateful,” the paper wrote. Finally, the paper said the Iraqi resistance was pursuing a third goal: It wants to keep alive fear of Saddam and the revenge he will take if he returns. “It is not a coincidence,” the paper concluded, “that the resistance carries the name “Al Auda” – the return.” The editors of Strasbourg’s La Derniere Nouvelles D’Alsace had an altogether different take. The resistance, they concluded, is not pursuing any precise military goals; nor is it comprised of fanatic adherents to Saddam’s Baath Party. Instead, the paper wrote, the attacks by Iraqi resistance fighters against U.S. troops is merely a result of the prevailing anarchy in the country and the hostility of the Iraqi population toward the occupying powers.",
+  "relations": [
+    [
+      "Thessaloniki",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Thessaloniki",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Saddam Hussein",
+      "Iraq",
+      "agent_of"
+    ],
+    [
+      "Saddam Hussein",
+      "Iraq",
+      "citizen_of"
+    ],
+    [
+      "Saddam Hussein",
+      "Iraqi",
+      "citizen_of-x"
+    ],
+    [
+      "Saddam Hussein",
+      "Baath Party",
+      "head_of"
+    ],
+    [
+      "Saddam Hussein",
+      "Iraq",
+      "head_of_state"
+    ],
+    [
+      "Saddam Hussein",
+      "Iraqi",
+      "head_of_state-x"
+    ],
+    [
+      "Saddam Hussein",
+      "Baath Party",
+      "member_of"
+    ],
+    [
+      "Le Figaro",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Thessaloniki summit",
+      "Greece",
+      "event_in0"
+    ],
+    [
+      "Thessaloniki summit",
+      "Thessaloniki",
+      "event_in2"
+    ],
+    [
+      "American",
+      "U.S.",
+      "gpe0"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "London",
+      "Britain",
+      "in0"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Financial Times",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Financial Times",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Financial Times",
+      "London",
+      "based_in2"
+    ],
+    [
+      "Tony Blair",
+      "Britain",
+      "agent_of"
+    ],
+    [
+      "Tony Blair",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Tony Blair",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Tony Blair",
+      "Britain",
+      "head_of_gov"
+    ],
+    [
+      "Tony Blair",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "U.S.",
+      "in0"
+    ],
+    [
+      "Washington",
+      "U.S.",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Corriere Della Sera",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Republican Guards",
+      "Iraq",
+      "agency_of"
+    ],
+    [
+      "Republican Guards",
+      "Iraqi",
+      "agency_of-x"
+    ],
+    [
+      "Republican Guards",
+      "Iraq",
+      "based_in0"
+    ],
+    [
+      "Republican Guards",
+      "Iraqi",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "Munich",
+      "based_in2"
+    ],
+    [
+      "Bush",
+      "U.S.",
+      "agent_of"
+    ],
+    [
+      "Bush",
+      "U.S.",
+      "citizen_of"
+    ],
+    [
+      "Bush",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Bush",
+      "U.S.",
+      "head_of_state"
+    ],
+    [
+      "Bush",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Iraqi",
+      "Iraq",
+      "gpe0"
+    ],
+    [
+      "Al Auda",
+      "Iraq",
+      "based_in0"
+    ],
+    [
+      "Al Auda",
+      "Iraqi",
+      "based_in0-x"
+    ],
+    [
+      "Strasbourg",
+      "France",
+      "in0"
+    ],
+    [
+      "La Derniere Nouvelles D’Alsace",
+      "France",
+      "based_in0"
+    ],
+    [
+      "La Derniere Nouvelles D’Alsace",
+      "Strasbourg",
+      "based_in2"
+    ],
+    [
+      "Baath Party",
+      "Iraq",
+      "based_in0"
+    ],
+    [
+      "Baath Party",
+      "Iraqi",
+      "based_in0-x"
+    ]
+  ]
+}

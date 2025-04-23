@@ -1,0 +1,220 @@
+{
+  "content": "Turkish economy on shaky ground\nTurkey's tainted image in the wake of its crackdown on opponents after the failed putsch in the country has had a negative impact on the economy and development prospects. Daniel Heinrich reports from Istanbul.\nHasan Selamat is perplexed. For 35 years, he's run a small jewelry shop in a backstreet near a bazaar in Istanbul. He's never experienced anything like the present situation some months after the failed coup in mid-July. \"In the first days after the putsch, it hadn't been so obvious at all,\" he said. \"But in the process, we witnessed more and more customers staying away. I can personally understand the tourists as many live in fear and do not want to travel to Istanbul because of the recent political events.\" Tourism accounts for roughly 13 percent of Turkey's gross domestic product (GDP). Since the beginning of 2016, revenues from the sector have shrunk by 40 percent, also hitting Hasan Selamat. \"My business is ruined,\" he said. \"In a cautious estimate, my revenues have declined by 80 percent, compared with last year's figures.\" The Turkish economy is hurting. GDP decreased by 1.8 percent in the third quarter, marking the first contraction since 2009. According to US ratings agency Moody's, the domestic economy will only grow by 2.7 percent in the next three years, way below the average 5.5 percent logged between 2010 and 2014. Red herring policy A half-hour ride from the bazaar, Turkish Deputy Prime Minister Mehmet Simsek is welcoming reporters in one of Istanbul's poshest hotels. He wants to talk about the country's economic prospects. But he starts with a broadside against the EU. \"From a distance, our European friends are advising us to do this and do that,\" He said. \"But they never come here and listen to us to understand the traumatic events we've been going through; they just keep talking about raids and arrests. He said that was an outrageous behavior as the Europeans insinuated there were no legal controls in place in the country anymore. Omnipresent putsch attempt Even Istanbul's stock exchange has stopped being a place of sobriety where numbers rule. Two people lost their lives in the night of the failed coup, with a memorial stone commemorating the victims. In Turkey, you cannot simply separate economic and political events, said the stock exchange's chairman, Himmet Karadag. \"The Istanbul Stock Exchange had been infiltrated by the Gülen movement long before the attempted coup.\" What about the lira's downward spiral? What about consumption shrinking by 3 percent? Karadag prefers to skirt all those issues and keeps lashing out at the Gülen supporters. And he had this to add. \"Just look at the PKK terrorists and their Syrian sister organization YPG,\" he said. \"There's no justification whatsoever that the European Union keeps viewing a terror organization like the PKK as an alternative cooperation partner.\" Europe most important partner? Ege Yazga, an economics professor at Bilgi University in Istanbul, doesn't think much of such talk. He's more concerned about the halving of foreign direct investment (FDI) in Turkey in the first six months of the year. \"Europe is Turkey's most important export market and plays a huge role as a financial hub,\" he said. \"Turkey badly needs more foreign investment as we can't plug all the holes on our own.\" Carmaker not worried Despite all the problems at hand, carmaker Ford Otosan tries to look on the bright side of life. The company belongs in equal parts to the Koc holding firm and US automaker Ford. The Gölcük facility west of Istanbul is the biggest producer of the Ford Transit globally. Everything in here is export-oriented. Although overall Turkish exports dropped by 7 percent in the first half of the year, Deputy Managing Director Oguz Toprakoglu seems unfazed. \"We aren't worried at all about the political situation in the country,\" he said. \"Some 80 percent of our cars go to Europe. And we're the market leader when it comes to producing light and heavy duty vehicles; that's why we shouldn't be too concerned about the domestic market either.\" \"We had a bumper year in 2015 when we produced 1 million vehicles, and the odds are we'll be able to achieve the same again this year,\" he added. Presidential system a blessing? Such optimism is alien to Hasan Selamat near the bazaar in the old city center. Since the summer months, 600 of a total of 2,000 stores have had to close down. Selamet deplores that the West's media coverage of events in Turkey has been so negative. \"I'm not saying our government isn't making any mistakes; I'm a Social Democrat and have not voted for it,\" he said. \"But I expect Europe to treat us fairly; and as soon as our image improves, tourists are bound to come back in droves.\" Meanwhile in that posh hotel, Mehmet Simsek insists that political stability is what matters most. \"I think we'll win back stability with a presidential system.\" Simsek argued such a system would strengthen the executive powers as the president would be able to act independently of any parliamentary infighting. At the same time, he came out in favor of abolishing the 10-percent hurdle in parliament to ensure fair representation of all groups of the population. Analysts at Moody's have long made it abundantly clear what they make of the recent developments, sending Turkey's creditworthiness down to junk level, based on the political response to the failed coup.",
+  "relations": [
+    [
+      "Istanbul",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Istanbul",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Hasan Selamat",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Hasan Selamat",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Mehmet Simsek",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Mehmet Simsek",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Mehmet Simsek",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Mehmet Simsek",
+      "Turkey",
+      "minister_of"
+    ],
+    [
+      "Mehmet Simsek",
+      "Turkish",
+      "minister_of-x"
+    ],
+    [
+      "Himmet Karadag",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Himmet Karadag",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Himmet Karadag",
+      "Istanbul Stock Exchange",
+      "head_of"
+    ],
+    [
+      "Himmet Karadag",
+      "Istanbul Stock Exchange",
+      "member_of"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Moody's",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Istanbul Stock Exchange",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Istanbul Stock Exchange",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Istanbul Stock Exchange",
+      "Istanbul",
+      "based_in2"
+    ],
+    [
+      "PKK",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "PKK",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "YPG",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Ege Yazga",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Ege Yazga",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Ege Yazga",
+      "Bilgi University",
+      "member_of"
+    ],
+    [
+      "Bilgi University",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Bilgi University",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Bilgi University",
+      "Istanbul",
+      "based_in2"
+    ],
+    [
+      "Ford Otosan",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Ford Otosan",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Ford Otosan",
+      "Koc",
+      "part_of"
+    ],
+    [
+      "Ford Otosan",
+      "Ford",
+      "part_of"
+    ],
+    [
+      "Koc",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Koc",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Ford",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Gölcük",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Gölcük",
+      "Istanbul",
+      "in2"
+    ],
+    [
+      "Ford Transit",
+      "Ford",
+      "product_of"
+    ],
+    [
+      "Oguz Toprakoglu",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Oguz Toprakoglu",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Oguz Toprakoglu",
+      "Ford Otosan",
+      "head_of"
+    ],
+    [
+      "Oguz Toprakoglu",
+      "Ford Otosan",
+      "member_of"
+    ],
+    [
+      "Social Democrat",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Social Democrat",
+      "Turkish",
+      "based_in0-x"
+    ]
+  ]
+}

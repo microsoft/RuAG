@@ -1,0 +1,150 @@
+{
+  "content": "From stem cells to physics fraudulent science results are plenty but hard to find\nA Japanese stem cell scientist who fabricated research has agreed to retract two of her papers. But many other mistakes, sloppy or even fraudulent results in science may never be exposed.\nHaruko Obokata at the Riken Center for Developmental Biology in Kobe, Japan, claimed to have discovered an easy and straightforward way to reprogramme adult cells to become stem cells. Soon after publication in \"Nature\" in January, problems and accusations arose with fellow scientists saying they could not replicate the results. Obokata was accused of having plagiarized passages of text and of having used duplicated images. The Riken Research Center urged her to retract the papers. Obokata refused - until this week. No surprise \"Couldn't we see that this news would follow when we first read the news of the discovery?\" a reader writes in a forum at German news magazine \"Spiegel Online.\" Indeed: the results were too good to be true. Especially where stem cells are concerned, sudden miracles tend to fall flat when they are checked rigorously by peers. The story of South Korean veterinarian Hwang Woo-suk is similar. In 2006 he claimed to have created human embryonic stem cells by cloning, but was later dismissed from Seoul National University when it was revealed that he had faked his results. And in the field of physics, a German researcher called Jan Hendrik Schön became prominent with his groundbreaking experiments on semiconductors, until 2002 when it turned out his results were a fraud. The case produced one true result: the emergence of a new saying. German scientists can now often be heard talking about \"Ergebnisse schönen\" - which basically means \"to buff your results.\" It's a nod to the fraudster's surname \"Schön,\" which means beautiful, nice, pretty or good, and perhaps also an acknowledgement of the fact that buffing results happens quite a lot. The exception proves the rule But be careful if you are tempted to \"schön\" your results. The German research funding organization \"Deutsche Forschungsgemeinschaft\" (DFG) has a central committee for whistleblowers. It's a place where researchers can report colleagues whom they suspect of misconduct or fraud. \"Faking results is not a mass phenomenon,\" says Marco Finetti, a DFG spokesperson. In 15 years the committee has dealt with 500 suspected cases. Most cases involve sloppy or wrong citation, or plagiarism. Finetty says, \"hard data manipulation is an exception.\" It does happen, though. Haymo Ross, an editor with the journals \"Angewandte Chemie\" and \"European Journal of Organic Chemistry,\" says he often finds faults in the experimental sections of papers submitted for publication. \"As recently as last week I received two manipulated spectra,\" Ross says. \"That happens quite often. Authors delete unwanted signals out of them.\" But given that he receives about 10,000 manuscripts every year, Ross says this is indeed an exception. You just have to be clever enough If, when challenged, an author cannot explain why his results seem strange or manipulated, the journal may reject the paper. And if the fraud is very serious, \"we might ban the author from publishing with us for a certain time,\" says Ross. At least two reviewers check each paper before publication. There is also software that can check pictures and graphics for any peculiarities or anomalies. \"But those who really want to deceive will find a way to do it,\" he says. Sometimes frauds only become apparent when other researchers try to reproduce the results, the DFG's Finetti says. Facing the paper stress So why do researchers fake results? The reasons are plenty. Eva Wille, vice president and executive director of Global Chemistry with the publisher Wiley-VCH, says one reason is the growing pressures that scientists face within the academic community. \"Funders and politicians can build up a lot of pressure because they want to see a quick return of investment on their money.\" Especially in Asia, the pressure can be enormous, she says. \"To complete a PhD, scientists need at least three publications in respected journals\" - showing good results. Some researchers - particularly the more ambitious one - will find it hard to cope, or easier to cheat. Wille says the situation in Germany is a bit better. But the country is far from pure. A 35-year-old German biochemist, who wants to remain anonymous, has told DW that he has experienced a lot of pressure while doing his PhD. The fact that he doesn't want to be named is a reflection of how sensitive the issue of fraudulent science is. \"Scientists are evaluated entirely based on the number of the papers they publish and in which journals they appeared,\" he says. \"That put my boss and my whole research group under a great strain.\" Publication means money A long list of publications in well-known journals can help secure research funds. And without a long, credible list, a scientist's whole career may even fail to get off the ground. So some scientists will be tempted to spice up their results. The biochemist we spoke to says this has never happened in his group. \"We have avoided the pressure,\" he says, by choosing projects that have resulted in a lot of papers in a comparably short amount of time, and by avoiding \"riskier\" projects. But there is one thing that no professor has time for these days, the biochemist says, and that is time to teach their students. Perhaps also about ethics. \"It is a nuisance for many professors,\" he says. \"Because they need their precious time to push their own research further.\" Wiley-VCH's Eva Wille agrees. Professors are always on the run, she says, flying from one conference to the next. \"They don't train their people any more,\" says Wille. And they don't have the time to check the results of their researchers in detail. \"And that's when things happen like at the Riken Institute [with Haruko Obokata's research].\" It is important, she adds, to teach students about ethics in science even as early as during their first semester. Sometimes, however, it may just come down to a personal craving for recognition that generates these amazing but wrong results. And no amount of ethics is going to change that.",
+  "relations": [
+    [
+      "Haruko Obokata",
+      "Japan",
+      "citizen_of"
+    ],
+    [
+      "Haruko Obokata",
+      "Japanese",
+      "citizen_of-x"
+    ],
+    [
+      "Haruko Obokata",
+      "Riken Center for Developmental Biology",
+      "member_of"
+    ],
+    [
+      "Jan Hendrik Schön",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jan Hendrik Schön",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Deutsche Forschungsgemeinschaft",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Forschungsgemeinschaft",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Riken Center for Developmental Biology",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Riken Center for Developmental Biology",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Riken Center for Developmental Biology",
+      "Kobe",
+      "based_in2"
+    ],
+    [
+      "Haymo Ross",
+      "Angewandte Chemie",
+      "head_of"
+    ],
+    [
+      "Haymo Ross",
+      "European Journal of Organic Chemistry",
+      "head_of"
+    ],
+    [
+      "Haymo Ross",
+      "Angewandte Chemie",
+      "member_of"
+    ],
+    [
+      "Haymo Ross",
+      "European Journal of Organic Chemistry",
+      "member_of"
+    ],
+    [
+      "Marco Finetti",
+      "Deutsche Forschungsgemeinschaft",
+      "member_of"
+    ],
+    [
+      "Eva Wille",
+      "Global Chemistry",
+      "head_of"
+    ],
+    [
+      "Eva Wille",
+      "Global Chemistry",
+      "member_of"
+    ],
+    [
+      "Eva Wille",
+      "Wiley-VCH",
+      "member_of"
+    ],
+    [
+      "Japanese",
+      "Japan",
+      "gpe0"
+    ],
+    [
+      "Kobe",
+      "Japan",
+      "in0"
+    ],
+    [
+      "Kobe",
+      "Japanese",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Spiegel Online",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Spiegel Online",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hwang Woo-suk",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Hwang Woo-suk",
+      "Seoul National University",
+      "member_of"
+    ],
+    [
+      "Seoul National University",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

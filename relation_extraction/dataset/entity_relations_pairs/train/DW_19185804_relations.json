@@ -1,0 +1,65 @@
+{
+  "content": "Böhmermann: How a German satirist sparked a freedom of speech debate\nHow free is speech in Germany? After a satirical TV show targeting Turkey's President Erdogan, German comedian Jan Böhmermann faces legal action - and has sparked a massive debate on freedom of speech in Germany.\nIn the ZDF television show, \"Neo Magazin Royale,\" Jan Böhmermann recently presented a snide, satirical poem in which he criticized Turkish President Recep Tayyip Erdogan's limitations on freedom of speech in Turkey, while also making personal jabs at the president, including references to child pornography and sex with animals. As a result, Erdogan has filed a defamation claim against Böhmermann. The case has stirred up discourse over the state of freedom of speech in both Germany and Turkey and the boundaries of satire. Click through the articles and videos below for background on the case, opinions and reactions.",
+  "relations": [
+    [
+      "Jan Böhmermann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jan Böhmermann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Neo Magazin Royale",
+      "ZDF",
+      "product_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "ZDF",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ZDF",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ]
+  ]
+}

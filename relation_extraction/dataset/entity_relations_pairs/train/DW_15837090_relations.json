@@ -1,0 +1,60 @@
+{
+  "content": "Lukashenko protesters return to Belarusian streets\nOver 2,000 people staged a protest in the Belarusian capital, Minsk, on Sunday, in the first opposition demonstration since Alexander Lukashenko banned such gatherings following his disputed election win in 2010.\nParticipants waving the red-and-white flags of the historical republic as well as flags of the European Union gathered under the watchful eyes of a large contingent of riot police, singing songs and holding up signs with names of opposition figures who have been imprisoned. No arrests were reported in the protest that was unexpectedly allowed to take place by authorities. The march took place on Belarus's 'Day of Freedom,' an unofficial holiday that marks the day an independent state of Belarus was created in 1918. A number of prominent leaders from the opposition were on hand for the demonstration, including Vital Rymasheuski, who ran in the 2010 presidential election. \"The Lukaschenko regime has only one weapon: fear,\" he said at the rally, adding a call to boycott the next election. Relations between the EU and Belarus have reached a new low point because of continuing repression in the country, and the EU has been trying for years to step up pressure on the regime in Minsk through sanctions. On Friday, the EU agreed to expand these sanctions by freezing the assets of more companies and expanding a list of officials who are banned from entering the EU. Lukashenko has led the country since 1994, and has retained Soviet-style control, cracking down on opposition politicians and independent media. mz/tj (AFP, dpa)",
+  "relations": [
+    [
+      "Minsk",
+      "Belarus",
+      "in0"
+    ],
+    [
+      "Minsk",
+      "Belarusian",
+      "in0-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "head_of_state"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "head_of_state-x"
+    ],
+    [
+      "Day of Freedom",
+      "Belarus",
+      "event_in0"
+    ],
+    [
+      "Belarusian",
+      "Belarus",
+      "gpe0"
+    ],
+    [
+      "Vital Rymasheuski",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Vital Rymasheuski",
+      "Belarusian",
+      "citizen_of-x"
+    ]
+  ]
+}

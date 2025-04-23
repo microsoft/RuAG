@@ -1,0 +1,100 @@
+{
+  "content": "Vaccination timetable unclear as swine flu spreads\nFailing to reach agreement over funding the German government's plan to launch mass vaccinations remains riddled with uncertainties. Experts point to the new drugs' unknown side effects as another problem.\nThe number of swine flu cases in Germany has risen by several hundred since the beginning of the week and now stands at close to 15,000 the Robert-Koch Institute reported on Wednesday. The institution officially in charge of recording the outbreak in Germany added that most new infections were caught by people travelling abroad. Faced with the growing extent of the swine flu outbreak in Germany, the federal government last week decided to launch the largest mass immunization program in the nation's history. Vaccinations are expected to start in October when sufficient serum is available, a Health Ministry spokeswoman said. Federal and state governments are aiming at obtaining a total of 50 million doses from drug company GlaxoSmithKline. Since every person has to be vaccinated twice, this would be sufficient for 25 million people. Delays due to unclear funding But, state health ministers, who have failed to reach agreement on how to pay for it, have not yet been able to place necessary additional orders, as planned. Public health funds will foot half the bill estimated at about one billion euros ($1.45 billion), but states and the federal government have not decided on how to split the remainder between them. As a result, vaccinations for all but the most vulnerable groups, such as children and pensioners, will only start in late fall. Health ministers are planning to hold a special meeting in Berlin in two weeks before placing the additional orders stalled so far. Side effects feared Experts are concerned about yet another problem due to the massive extent of the operation and the short time available for drug companies to develop and test substances against swine flu. \"We may have to reckon with a larger number of previously unknown side effects\", warned the Germany Association of Pediatricians (BKJV). A federal medical institute also pointed out that side effects like headaches or swellings may be more likely with vaccines against swine flu compared to those against seasonal flu viruses. The Health Ministry does not deny this and Minister Ulla Schmidt last week said she would not recommend vaccinating children until all medical studies have been completed. Another risk lies in the different methods of developing substances in Europe and the US, Wolfgang Becker-Brüser told the German newspaper \"Muenchner Merkur\". The Munich-based medical journal editor said that US labs use common flu vaccines and adapt them to deal with the new virus. \"This method is safer compared to what the Europeans and Germany are doing\", he added. The latter's substances are based on the much less tested vaccine against bird flu. rri/Reuters/AP/dpa/epd Editor: Mark Mattox",
+  "relations": [
+    [
+      "Germany Association of Pediatricians",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Germany Association of Pediatricians",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ulla Schmidt",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Ulla Schmidt",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ulla Schmidt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ulla Schmidt",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Ulla Schmidt",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Health Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Health Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Health Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Health Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Health Ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Muenchner Merkur",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Muenchner Merkur",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "content": "New EU prosecutors to fight fraud\nThe European Union loses a lot of money each year through corruption and subsidy fraud. Now, a new institution is supposed to clamp down on the problem and prosecute offenders across EU borders.\n\"The bigger, the better,\" is what some Austrian farmers seem to have thought when they simply declared some unused fields as an agricultural area. For two years they cashed in with farm subsidies from the EU. At the end of 2012, the scam was discovered and since then, the EU is demanding that Austria pay back the subsidies totaling some 64 million euros. Normally, it is the EU member states themselves which are supposed to prosecute such scams, explains Dominik Brodowski, a German attorney. But members in past years \"have shown on several occasions that they are not that eager to prosecute crimes in which the EU is the target,\" he told Deutsche Welle. This was in part because the various countries' national authorities are organized differently, but also because EU subsidies are EU funds and not part of any individual national budget. EU authority to coordinate The EU is no longer prepared to put up with this and, in the 2007 Lisbon treaty, decided to set up an EU prosecutors office. This authority is now ready to tackle cross-border prosecutions, if there are crimes or other misconduct committed at the expense of the EU. Justice commissioner Viviane Reding on Monday (15.07.2013) introduced a new bill to that end in the EU parliament. According to the draft, EU prosecutors would handle EU-wide infractions, while the state prosecutors of EU members would continue pursuing cases based on their respective national laws. An EU prosecutor-general would be chosen for an eight-year term with four deputies and would work closely with at least one prosecutor in each member state. The decentralized setup is based on a recent proposal made by German Justice Minister Sabine Leutheusser-Schnarrenberger. 500 million euros each year Justice Commissioner Reding announced a zero-tolerance policy in fighting crime. She also pointed out that, so far, there was only a 42 percent success rate when it came to prosecuting fraud cases with EU funds. This must change, she said, if for no other reason than the EU simply does not have the money to tolerate such crimes. Last year, at least 500 million euros was lost to fraud and corruption, Reding said. The damage done is not only financial, but also tarnishes the EU's reputation. It boosts the arguments of euroskeptics and helps them mobilize anti-EU support. Furthermore, EU money comes from EU taxpayers, Reding emphasized. She called on EU member states and the EU parliament to come to a quick decision on the EU prosecutors office so that it could become operational by early 2015. Not everyone on board The Association of German Judges has welcomed the draft. Board member, Peter Schneiderhan, told German public radio that an EU prosecutor would mostly ensure that crimes could be prosecuted under the same conditions across the EU. Attorney Brodowski called the move \"a necessary step.\" The new prosecutors office still has some hurdles to take, however. Denmark and Britain do not want to be part of it. Brodowski pointed out that the plans, in fact, would certainly affect the sovereignty of member states. In future, there would no longer be national prosecutors to press charges, but instead one European authority. Brodowski also wonders whether the European position would work well with the authorities in individual countries, \"or whether there will be difficulties like we have seen with other international authorities, like [the international courts] in The Hague?\"",
+  "relations": [
+    [
+      "Dominik Brodowski",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Viviane Reding",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Austrian",
+      "Austria",
+      "gpe0"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Sabine Leutheusser-Schnarrenberger",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sabine Leutheusser-Schnarrenberger",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Association of German Judges",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Peter Schneiderhan",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Schneiderhan",
+      "Association of German Judges",
+      "head_of"
+    ],
+    [
+      "Peter Schneiderhan",
+      "Association of German Judges",
+      "member_of"
+    ]
+  ]
+}

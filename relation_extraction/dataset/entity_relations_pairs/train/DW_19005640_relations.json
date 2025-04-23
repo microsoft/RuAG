@@ -1,0 +1,105 @@
+{
+  "content": "German youth ditch enviro interests for economic woes\nGermany's position as an eco-pioneer could be under threat. A new government survey has found that the country's current generation of 14- to 25-year-olds are less worried about the environment than their elders were.\nYoung Germans are losing interest in environmental issues as they fear for their economic security, according to a government study released on Tuesday. Good living standards and opportunities for self-development are more important to young people than sustainable ecology, according to a report produced by the UBA, Germany's main environmental protection agency, in collobaration with the Environment Ministry. Only 21 percent of 14- to 25-year-olds consider an \"intact environment\" or the \"chance to enjoy nature\" important to living a good life, according to the study, which was based on a survey and focus group interviews. More important factors for a good life include belonging to a family or a community (71 percent), a high standard of living (48 percent) and having the chance to express oneself (39 percent). \"Young people are interested in the environment and do consider an intact nature also important for a good life, but not to the same extent as older people,\" UBA President Maria Krautzberger said, suggesting that branded clothing and electronic products are of more interest to young people. Apathy mixed with worry Despite the newfound eco-apathy, young people's lifestyles are more likely to be environmentally friendly than older people's - whether by accident or design. \"They move around the city and the country in an intelligent way,\" said Krautzberger. \"They use the bike, bus and train, or go on foot; cars don't play nearly as big a role as for adults.\" \"Of course the environment is very important, and I agree that we should try to preserve it, but the fact is that it isn't the highest priority for a lot of people,\" one 15-year-old told the researchers. \"I think it's somehow natural that things like happiness and health for example are more important than some aspects of the environment.\" Though young people rank the environment as low on their list of priorities, it seems that they are aware that the environment is in a bad state - particularly in the rest of the world. Some 94 percent of young people said that the state of the environment worldwide was either \"bad\" or \"very bad,\" while only 30 percent said this of the environment in Germany. Young people are also aware that the lifestyles of people in industrialized nations have an effect on the environment in the rest of the world: Some 84 percent said that high-consumption lifestyles such as those enjoyed in many European countries are at least partly responsible for environmental problems in poorer nations. This appears to have given many a pessimistic outlook. \"It'll probably become more negative in the future,\" one 16-year-old told the study. \"It's true that humanity is getting more conscious of the fact that it's getting worse, and is always looking for alternatives, for example to fossil fuels. But it'll always be a fifty-fifty situation, because something will make it worse, and something else will come along that will make it a bit better, but then it'll get worse again.\" \"I'm aware that my prosperity is based on the exploitation of the environment or the exploitation of other people,\" a respondent said. Economic anxiety Anxiety about the future economy clearly weighs heavier on the minds of young Germans than ecology - and apparently there is also an increased awareness of market pressures. \"The environment and nature do not play a significant role in young people's everyday lives,\" the study concluded. \"Increased pressure to perform, educational pressure and uncertain career perspectives are more pressing challenges.\" But, balanced with worries about prosperity, there was also a concern about the environmental impact of continual economic growth. A majority (69 percent) agreed with the statement, \"When I see that our economy continuing to grow year by year, I wonder: how long can that go well?\" But at the same time, nearly half - 49 percent - also believed that economic growth would actually be necessary to combating climate change. In other words, the study found that young German are stuck between twin anxieties. \"Young people are caught in a dilemma between skepticism toward economic growth and concerns about prosperity,\" the study concluded. \"They display an average level of skepticism toward growth combined with greater-than-average concerns about prosperity. In addition, among young people there is a widespread conviction that ecological and social challenges can only be overcome with growth and prosperity.\"",
+  "relations": [
+    [
+      "UBA",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "UBA",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "UBA",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "UBA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "UBA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "UBA",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Environment Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Environment Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Environment Ministry",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Environment Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Environment Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Environment Ministry",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Environment Ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Maria Krautzberger",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Maria Krautzberger",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Maria Krautzberger",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Maria Krautzberger",
+      "UBA",
+      "head_of"
+    ],
+    [
+      "Maria Krautzberger",
+      "UBA",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

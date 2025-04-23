@@ -1,0 +1,70 @@
+{
+  "content": "Thailand charges 72 in human trafficking crackdown\nThai prosecutors are to indict 72 people on human trafficking charges, including state officials. It comes after thousands of Rohingya Muslims were stranded at sea trying to flee Myanmar via Thailand.\nA spokesman for the Office of the Attorney General (OAG) said on Friday it had issued an order to charge 72 people on 16 counts, mostly over human trafficking, including more than a dozen state officials of all levels. Arrest warrants have been issued for at least 45 others, who remain at large. \"We will not let influential people rise above justice,\" Wanchai Roujanavong told reporters at a press conference in Bangkok. Among the suspects is Lieutenant General Manas Kongpan, charged with being a major smuggling kingpin. The charges include human trafficking, involvement in international crimes, taking and bringing illegal migrants and malfeasance. The court must now decide whether to take up the cases. Thailand has long been criticized for not doing more to combat the lucrative human trafficking business in the country. Until a major Thai crackdown in May, the trade had flourished, as thousands of mainly Rohingya Muslims from Myanmar were being smuggled to their preferred destination, Malaysia, via Thailand's southern provinces. During their investigation - Thailand's biggest according to police - the authorities discovered vast smuggling rings, leading traffickers to abandon boats crammed with thousands of migrants at sea, attracting widespread international attention. Thai police say they have now successfully dismantled the trafficking network through the kingdom. But rights groups are waiting for the end of the monsoon season in a few months to see if the crackdown has worked. Around 4,500 Rohingya as well as Bangladeshi migrants were stranded in Southeast Asian waters in recent months, ping-ponged between countries reluctant to accept them until finally landing ashore on Malaysian, Indonesian, Bangladeshi, Myanmar and Thai soil. As part of the crackdown, investigators also discovered 26 bodies in graves buried deep in a jungle near the border with Malaysia. Last June, the United States downgraded Thailand one of its oldest allies in Asia, to the lowest \"Tier 3\" status in its 2014 Trafficking in Persons (TIP) Report, for not meeting the minimum standards for combating the illicit trade. The status would normally trigger sanctions, but they have not been imposed. On Monday, the US will release its latest TIP report. ng/jil (Reuters, AP, AFP)",
+  "relations": [
+    [
+      "Office of the Attorney General",
+      "Thailand",
+      "agency_of"
+    ],
+    [
+      "Office of the Attorney General",
+      "Thai",
+      "agency_of-x"
+    ],
+    [
+      "Office of the Attorney General",
+      "Thailand",
+      "based_in0"
+    ],
+    [
+      "Office of the Attorney General",
+      "Thai",
+      "based_in0-x"
+    ],
+    [
+      "Thai",
+      "Thailand",
+      "gpe0"
+    ],
+    [
+      "Wanchai Roujanavong",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Wanchai Roujanavong",
+      "Thai",
+      "citizen_of-x"
+    ],
+    [
+      "Wanchai Roujanavong",
+      "Office of the Attorney General",
+      "member_of"
+    ],
+    [
+      "Bangkok",
+      "Thailand",
+      "in0"
+    ],
+    [
+      "Bangkok",
+      "Thai",
+      "in0-x"
+    ],
+    [
+      "Manas Kongpan",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Manas Kongpan",
+      "Thai",
+      "citizen_of-x"
+    ],
+    [
+      "Malaysian",
+      "Malaysia",
+      "gpe0"
+    ]
+  ]
+}

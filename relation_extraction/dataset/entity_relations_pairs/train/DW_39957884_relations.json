@@ -1,0 +1,65 @@
+{
+  "content": "Oscar Pistorius taken to hospital with chest pains, reports say\nOscar Pistorius has been taken to hospital for overnight observation. The South African athlete, who is serving a six-year jail term for the murder of his girlfriend Reeva Steenkamp, was reportedly suffering chest pains.\nJailed Paralympic champion Oscar Pistorius was taken from Pretoria's Atteridgeville prison to a medical facility for checks, a spokesman for the South African Department of Correctional Services said Thursday. \"This morning he went for a medical examination and he was scheduled to return back (to jail), but he will now be kept overnight for observation,\" the spokesman, Logan Maistry, said, without elaborating on Pistorius's condition. Local media reported that the 30-year-old double-amputee was suffering from chest pains and was taken by ambulance to the emergency department at Kalafong Hospital. This is the second time Pistorius has left prison for medical treatment. Last August he was taken to hospital with wrist injuries, which prison authorities said he sustained after falling in his cell. Pistorius is one year into a six-year jail sentence for the 2013 shooting death of his girlfriend Reeva Steenkamp. The Paralympic athlete has always maintained that he mistook Steenkamp for an intruder when he fired multiple times at her through a locked toilet door at his Pretoria home. Sometimes dubbed the \"Blade Runner,\" Pistorius soared to international fame after becoming the first amputee to compete against able-bodied athletes in the 2012 Olympic Games. nm/kms (AP, AFP, dpa)",
+  "relations": [
+    [
+      "Oscar Pistorius",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Oscar Pistorius",
+      "Reeva Steenkamp",
+      "spouse_of"
+    ],
+    [
+      "Reeva Steenkamp",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Reeva Steenkamp",
+      "Oscar Pistorius",
+      "spouse_of"
+    ],
+    [
+      "Logan Maistry",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Logan Maistry",
+      "Department of Correctional Services",
+      "member_of"
+    ],
+    [
+      "Logan Maistry",
+      "Department of Correctional Services",
+      "spokesperson_of"
+    ],
+    [
+      "Pretoria",
+      "South African",
+      "in0-x"
+    ],
+    [
+      "Atteridgeville",
+      "Pretoria",
+      "in2"
+    ],
+    [
+      "Department of Correctional Services",
+      "South African",
+      "agency_of-x"
+    ],
+    [
+      "Department of Correctional Services",
+      "South African",
+      "based_in0-x"
+    ],
+    [
+      "Kalafong Hospital",
+      "South African",
+      "in0-x"
+    ]
+  ]
+}

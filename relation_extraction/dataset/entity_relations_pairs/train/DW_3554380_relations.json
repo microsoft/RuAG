@@ -1,0 +1,115 @@
+{
+  "content": "German Criminal Police Chief Warns of Possible Terrorist Attacks\nIslamic militants trained in Pakistan and Afghanistan are planning attacks in Germany, although there is no evidence of any imminent threat, the country's top police officer was quoted as saying on Sunday.\nJoerg Ziercke, head of the Federal Criminal Police (BKA), told Der Tagesspiegel newspaper that more than 50 militants had traveled from Germany to training camps in Pakistan and Afghanistan run by the Taliban, al Qaeda and the Islamic Jihad Union (IJU). When asked by the German daily if it was safe for the nation to breathe easy again, Ziercke said that he was unable to sound the all clear, as Germany has repeatedly eluded catastrophe by a mere hair's breadth. \"Considering the statements from al Qaeda and the IJU, we are convinced it has been decided to mount attacks in Germany,\" he said. \"However, there is currently no concrete evidence of imminent strikes.\" 900 Hezbollah supporters The interview with Ziercke came on the heels of a secret report release by the BKA saying that the Lebanese-based Hezbollah movement has the capacity to undertake damaging attacks in Germany. The German weekly Focus reported that the militia had the logistics to carry out wide-scale attacks on physical and human targets. The BKA is reported to number Hezbollah supporters in Germany at around 900. Focus pointed to the case of a 29-year-old medical student at Germany's Goettingen University, who was detained in Israel last month. It reported the man was suspected of making contact with Hezbollah supporters in Germany and of having received $20,000 (13,300 euros) for espionage work. Germany untouched so far In contrast to European neighbors such as Spain or Britain, Germany has not suffered a major recent attack on its own soil. But Ziercke said German investigators had foiled seven plots, including attacks planned by three men arrested in the western Sauerland region last year who authorities believe were targeting US installations in Germany. Altogether, there are currently 200 investigations linked to Islamic terrorism being conducted by the BKA, Ziercke told Tagesspiegel, saying that the danger has therefore in no way diminished. \"A single-digit number of militants had returned to Germany from the training camps and were among around 100 suspects considered a threat,\" he said.",
+  "relations": [
+    [
+      "Der Tagesspiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Tagesspiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Joerg Ziercke",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Joerg Ziercke",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Joerg Ziercke",
+      "Federal Criminal Police",
+      "head_of"
+    ],
+    [
+      "Joerg Ziercke",
+      "Federal Criminal Police",
+      "member_of"
+    ],
+    [
+      "Taliban",
+      "Pakistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "al Qaeda",
+      "Pakistan",
+      "based_in0"
+    ],
+    [
+      "al Qaeda",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Islamic Jihad Union",
+      "Pakistan",
+      "based_in0"
+    ],
+    [
+      "Islamic Jihad Union",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Federal Criminal Police",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Criminal Police",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Criminal Police",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Criminal Police",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Hezbollah",
+      "Lebanese",
+      "based_in0-x"
+    ],
+    [
+      "Focus",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Focus",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Goettingen University",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Goettingen University",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

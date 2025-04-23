@@ -1,0 +1,100 @@
+{
+  "content": "Trump vows to undo Iran deal, NATO funding at AIPAC meeting\nLeading US Republican presidential candidate Donald Trump has received a lukewarm response from pro-Israeli advocates. The mogul toned down his fiery rhetoric for the annual AIPAC conference.\nIn a speech to an influential pro-Israel lobby on Monday, Republican presidential candidate Donald Trump vowed to take apart the Iran nuclear deal and strengthen ties with Jerusalem. At the meeting of the American Israel Public Affairs Committee (AIPAC), Trump also promised to push back against United Nations interference in Israeli interests. \"My number one priority is to dismantle the disastrous deal with Iran,\" said the Republican front-runner. In a change from his usual firebrand off-the-cuff speeches, Trump made the unconventional decision to read from a teleprompter at Monday's event. According to DW's Richard Walker, the real estate mogul's assertion that he had studied the Iran deal more than anyone else garnered a degree of derision from spectators, but they warmed to him when he promised to revoke the agreement. \"I have been in business a long time. I know deal making. And let me tell you, this deal is catastrophic. For America, for Israel and for the whole of the Middle East,\" Trump said. He then reaffirmed his commitment to side with Israel in peace negotiations with Palestine, promising to resist UN attempts to pressure Israel. \"The Palestinians must come to the table knowing that the bond between the United States and Israel is unbreakable,\" he said. Trump: US can't afford NATO Shortly before addressing the AIPAC event, Trump told an CNN interviewer that he would also move the US embassy to Jerusalem and cut American funding to NATO. \"The fact is I would like to see it moved, I would like to see it in Jerusalem,\" the Republican candidate said. Both Palestine and Israel consider the ancient city their capital, prompting most nations, including the US, to station their missions in the less controversial Tel Aviv. Furthering questioning long-standing Washington policy, Trump also swore to reduce spending to defense organization NATO if elected. \"We are paying disproportionately. It's too much and frankly it's a different world than it was when we originally conceived of the idea,\" he said. \"We have to reconsider. Keep NATO, but maybe we have to pay a lot less toward NATO itself.\" Trump even went so far as to say he'd work closer with Russian President Vladimir Putin, whose authoritarian policies in eastern Ukraine have seen tensions with NATO reach their most dire level since the end of the Cold War.",
+  "relations": [
+    [
+      "Donald Trump",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Trump",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "Republican",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Republican",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Jerusalem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jerusalem",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Richard Walker",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Palestinians",
+      "Palestine",
+      "gpe0"
+    ],
+    [
+      "CNN",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "CNN",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Tel Aviv",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Tel Aviv",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ]
+  ]
+}

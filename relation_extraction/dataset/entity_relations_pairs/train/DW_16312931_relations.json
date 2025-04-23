@@ -1,0 +1,20 @@
+{
+  "content": "Greece steps closer to fresh bailout money\nInternational creditors working with Greece to come up with reforms necessary to secure the next batch of bailout loans say they have struck an agreement on the most important measures.\nThe clock is ticking for Greece and the international troika of the European Union, the European Central Bank, and the International Monetary Fund to reach an agreement on austerity measures needed to secure the next loan for Greece. Without the next instalment of bailout money, Greece risks defaulting on its loans and possibly exiting the eurozone. But Wednesday's progress was a sign that, at least in the near future, Greece's reforms were still on track. Greece needs to come up with an additional 13.5 billion euros ($17.7 billion) in spending cuts on top of previous austerity measures that are putting the squeeze on Greeks suffering from high unemployment and an economy that has been in recession for five years. The exact details of the deal between Greece and the troika have yet to be determined, but the two sides have agreed on most policy issues. Sources close to the negotiations say the final remaining sticking point is labor reform. Representatives from the troika left Greece on Wednesday and are scheduled to update European leaders at a two-day EU summit that kicks off on Thursday. Greece is likely to dominate the talks even though the country isn't officially the focus of the discussion. mz/jm (Reuters, AP, AFP)",
+  "relations": [
+    [
+      "European Central Bank",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Central Bank",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Greeks",
+      "Greece",
+      "gpe0"
+    ]
+  ]
+}

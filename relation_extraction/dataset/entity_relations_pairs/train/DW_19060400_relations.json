@@ -1,0 +1,90 @@
+{
+  "content": "Polish Nobel Laureate Lech Walesa admits to 'mistake' after spy accusations\nFormer Polish President Lech Walesa has denied cooperating with Communist intelligence agencies during the Soviet era. He did, however, admit to making a \"mistake.\"\nIn an entry on his blog on Friday, Lech Walesa denied all accusations of working with security agencies while Poland was a Soviet satellite state. \"I did not cooperate with the security agency. I did not take any money,\" Walesa wrote, adding that he had made a \"mistake.\" He added that he would not reveal details of the \"mistake.\" \"There is a person - a perpetrator, who is still alive who should reveal the truth and I'm counting on it. I had a soft heart,\" the Nobel Laureate said in his microblog. Walesa's comments came a day after Lukasz Kaminski, director of Poland's National Remembrance Institute (IPN), reported about a secret service document signed by Walesa. The IPN is responsible for prosecuting Communist-era crimes. The paper included a commitment to provide information from 1970-1976 and had been signed by Walesa under the codename \"Bolek.\" However, IPN's Kaminski said on Thursday that every historical document had to be verified and an authentic intelligence agency document did not necessarily mean that its content was true. Walesa, currently on a trip to Venezuela, admitted he had signed a commitment to be an informant during the 1970s, but said he never acted on it. A special court cleared him of charges of collaboration 16 years ago. The 72-year-old leader is best known for launching the workers' party Solidarity in 1980, against the wishes of the Communist regime. He served as Poland's first post-Communist president from 1990 to 1995. The leader is still politically active and launched a scathing attack against the government last year, calling for early elections. mg/sms (dpa, AP, AFP)",
+  "relations": [
+    [
+      "Lech Walesa",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Lech Walesa",
+      "Nobel",
+      "award_received"
+    ],
+    [
+      "Lech Walesa",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Lech Walesa",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Lech Walesa",
+      "Poland",
+      "head_of_state"
+    ],
+    [
+      "Lech Walesa",
+      "Polish",
+      "head_of_state-x"
+    ],
+    [
+      "National Remembrance Institute",
+      "Poland",
+      "agency_of"
+    ],
+    [
+      "National Remembrance Institute",
+      "Polish",
+      "agency_of-x"
+    ],
+    [
+      "National Remembrance Institute",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "National Remembrance Institute",
+      "Polish",
+      "based_in0-x"
+    ],
+    [
+      "Lukasz Kaminski",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Lukasz Kaminski",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Lukasz Kaminski",
+      "National Remembrance Institute",
+      "head_of"
+    ],
+    [
+      "Lukasz Kaminski",
+      "National Remembrance Institute",
+      "member_of"
+    ],
+    [
+      "Polish",
+      "Poland",
+      "gpe0"
+    ],
+    [
+      "Solidarity",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "Solidarity",
+      "Polish",
+      "based_in0-x"
+    ]
+  ]
+}

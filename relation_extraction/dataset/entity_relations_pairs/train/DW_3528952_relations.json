@@ -1,0 +1,75 @@
+{
+  "content": "War Crimes Suspect Karadzic Appears at UN Tribunal\nFormer Bosnian Serb leader Radovan Karadzic has made his first appearance before a UN war crimes tribunal to answer genocide charges. He opted to delay his plea for 30 days and announced he would conduct his own defense.\nKaradzic, who was no longer sporting the beard and long hair that helped him conceal his identity for over a decade, waived his right to representation during the hearing on Thursday, July 31. When Judge Alphons Orie noted that he was alone, the wartime leader smiled and responded, \"I have an invisible adviser, but I have decided to defend myself.\" Orie, who said he expected the trial to last for many months, gave Karadzic 30 days to decide a plea at the initial hour-long hearing of the International Criminal Tribunal for the Former Yugoslavia. The trial was adjourned until Aug. 29. Repeat performance? Karadzic said that -- like his former ally -- he intends to defend himself throughout the rest of the trial. Slobodan Milosevic, who was accused of crimes against humanity for his role in the Bosnian wars, used this as a delaying tactic to drag out his trial at the criminal tribunal in The Hague for years, dying in 2006 before it ended. Karadzic, who is the most prominent Balkans war crimes suspect to be arrested after Milosevic, said on Thursday that he would also reveal \"numerous irregularities\" related to his presence at the hearing. \"I will inform the court of the many mistakes and irregularities, like the mistaken date of my arrest,\" the 63-year-old said. He claimed that under the Dayton Accord, which ended the Bosnian war and brokered by former US Assistant Secretary of State Richard Holbrooke, an agreement was made that he would not be brought to trial if he withdrew from public life. Orie interrupted the former Bosnian Serb leader when he tried to read a prepared four-page statement about this, and said he should send the information to the court in writing. Chief prosecutor Serge Brammetz said lessons had been learned from the Milosevic case. \"Of course, it will take some months before the prosecution and defense will be ready to start,\" he told reporters. \"It will be a complex trial, but we are fully aware of the importance of being efficient.\" Some observers say he is likely to use the trial to illuminate claims that a shady deal with the West helped him avoid detention for so long. \"This is a political man, a former poet, he likes being the center of attention,\" international justice expert Heikelina Verrijn Stuart told AFP news agency. Charges include siege and massacre atrocities During Thursday's hearing, Orie read out the 11 war crimes charges that were first leveled against Karadzic in 1995. The majority of the charges against Karadzic focus on his role in the siege of Sarajevo and the Srebrenica massacre. Some 8,000 Muslim men and boys were killed in the UN safe haven of Srebrenica, while the siege of Sarajevo, which lasted over three years, is estimated to have left some 10,000 people dead. If convicted of the crimes, Karadzic faces life imprisonment.",
+  "relations": [
+    [
+      "International Criminal Tribunal for the Former Yugoslavia",
+      "The Hague",
+      "based_in2"
+    ],
+    [
+      "International Criminal Tribunal for the Former Yugoslavia",
+      "UN",
+      "institution_of"
+    ],
+    [
+      "International Criminal Tribunal for the Former Yugoslavia",
+      "UN",
+      "part_of"
+    ],
+    [
+      "Radovan Karadzic",
+      "Bosnian",
+      "citizen_of-x"
+    ],
+    [
+      "Radovan Karadzic",
+      "Serb",
+      "citizen_of-x"
+    ],
+    [
+      "Radovan Karadzic",
+      "Bosnian",
+      "head_of_state-x"
+    ],
+    [
+      "Radovan Karadzic",
+      "Serb",
+      "head_of_state-x"
+    ],
+    [
+      "Slobodan Milosevic",
+      "Serb",
+      "citizen_of-x"
+    ],
+    [
+      "Slobodan Milosevic",
+      "Serb",
+      "head_of_state-x"
+    ],
+    [
+      "Alphons Orie",
+      "International Criminal Tribunal for the Former Yugoslavia",
+      "member_of"
+    ],
+    [
+      "Richard Holbrooke",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Richard Holbrooke",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Richard Holbrooke",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Serge Brammetz",
+      "International Criminal Tribunal for the Former Yugoslavia",
+      "member_of"
+    ]
+  ]
+}

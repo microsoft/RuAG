@@ -1,0 +1,205 @@
+{
+  "content": "SPD denies 'green light' for new German government, but keeps options open\nSocial Democratic Party leader Martin Schulz has refuted reports that his party was ready to start coalition talks with Chancellor Merkel's conservatives. But he stopped short of a categorical no. \nA visibly irritated Social Democratic chairman Martin Schulz took to the podium in Berlin on Friday to deny that his party was ready to officially begin talks with conservatives toward forming a new grand coalition government. \"I can completely repudiate the rumor that any green light has been given,\" Schulz said. \"It is simply false and unacceptable. The way that erroneous reports are circulated destroys trust.\" Schulz's statement came the day after he met with conservative Chancellor Angela Merkel, Bavarian conservative leader Horst Seehofer and German President Frank Walter Steinmeier to discuss the possibilities for a new German government. Germany's Bild newspaper and the news agencies Reuters and DPA reported earlier on Friday that a deal had been reached to pursue the grand coalition option. Read more: AnotherMerkel-led grand coalition in Germany: What you need to know Schulz said reports to that effect were the result of leaks from the conservative sources, adding that he had called Merkel to complain about the confidentiality of Thursday's meeting being violated. At the same time, he didn't slam any doors on the eventuality that Germany's two largest parties could form another new partnership. \"There was a broad consensus about not closing down any options concerning the formation of a new government,\" Schulz told reporters. Earlier on Friday, SPD politicians said they would not be rushed into joining a new grand coalition. Speaking after Schulz's statement, CDU chief executive Klaus Schüler said his party respected what the SPD chairman had to say and would wait for the Social Democrats to make a decision about whether to officially pursue talks. Lots of opposition to talks within the SPD The unusually testy tone Schulz struck is a reflection of the differences between conservatives and Social Democrats not just over the policies of a possible grand coalition, but whether even to try to form one at all. Merkel would have few problems getting her parliamentary group to go along with talks about extending their current collaboration with the Social Democrats, as there is broad consensus among conservatives that a grand coalition is the only way forward. But for the SPD the situation isn't nearly as clear. On September 24, the Social Democrats under Schulz took only 20.5 percent of the vote. It was their worst-ever election performance in post-war German history, and many Social Democrats blamed the compromises the party made as part of the grand coalition that has governed Germany for the past four years. Opinion surveys suggest that the SPD rank-and-file have decidedly mixed feeling about a new edition of the grand coalition, and the party's youth organization, the Jusos, are dead set against it. By contrast, Steinmeier — himself a former SPD leader — is known to favor the grand coalition option. Schulz said the SPD executive committee would continue to discuss the party's options next week. He added that all alternatives would be left on the table at the Social Democrats' party conference from December 7 to 9 in Berlin. A renewal of the grand coalition that currently forms the caretaker government emerged as the most likely path to a new German government after the Free Democrats (FDP) withdrew from talks about forming a three-way coalition with conservatives and the Greens. The other options would be for the conservatives to form a minority government or for Germany to hold a snap election. But both are considered extremely problematic.",
+  "relations": [
+    [
+      "Free Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Free Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Martin Schulz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Martin Schulz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Martin Schulz",
+      "Social Democratic Party",
+      "head_of"
+    ],
+    [
+      "Martin Schulz",
+      "Social Democratic Party",
+      "member_of"
+    ],
+    [
+      "Social Democratic Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democratic Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Frank Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank Walter Steinmeier",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Frank Walter Steinmeier",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Horst Seehofer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Reuters",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Reuters",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DPA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "CDU",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "CDU",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Klaus Schüler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Klaus Schüler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Klaus Schüler",
+      "CDU",
+      "head_of"
+    ],
+    [
+      "Klaus Schüler",
+      "CDU",
+      "member_of"
+    ],
+    [
+      "Jusos",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Jusos",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jusos",
+      "Social Democratic Party",
+      "part_of"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

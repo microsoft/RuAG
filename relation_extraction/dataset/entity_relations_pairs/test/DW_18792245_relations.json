@@ -1,0 +1,235 @@
+{
+  "content": "Trudeau declares victory in Canada as Harper resigns\nJustin Trudeau of the Liberal Party has been elected Canada's new prime minister. Stephen Harper has stepped down as leader of the Conservatives after nine years in the top job.\nCanadian Prime Minister Stephen Harper resigned as Conservative Party leader on Tuesday after the Liberals, led by Justin Trudeau, emerged victorious in legislative elections. \"I have spoken to Prime Minister Stephen Harper, and he has instructed me to reach out to the newly elected parliamentary caucus to appoint an interim leader,\" Conservative Party president John Walsh said in a statement. \"The people are never wrong,\" Harper said of his defeat. \"The disappointment is my responsibility and mine alone,\" Harper said, adding that he had called Trudeau to congratulate him. Trudeau calls for hopeful, diverse future In electing Trudeau, the charismatic son of a former popular prime minister, Canadian voters illustrated the growing discontent with nine years of Conservative rule that saw lowering of corporate taxes, avoidance of climate change legislation and disagreement with the Obama administration over the controversial Keystone XL pipeline. \"Canadians have spoken,\" Trudeau said, adding that he would be the man to lead the \"hopeful, positive\" country \"with a vision\" that they had asked for. In his victory speech, Trudeau said his government \"believed deeply in the diversity of our country,\" striking a contrast with the strain of nativism that had become apparent under Conservative rule. \"We beat fear with hope,\" said Trudeau, a 43-year-old former teacher. Liberals blow past projected results Projections ahead of the elections had Harper and Trudeau in a dead heat, but as polls closed on Monday night it became clear that the Liberals had won an outright majority, with a projected 175 of parliament's 338 seats. This represented a huge leap from four years ago when Liberals were handed their most crushing defeat in history with a mere 34 seats. Harper will stay on as a member of Parliament for his constituency, public broadcaster CBC reported, as he was re-elected to his seat. The left-leaning New Democratic Party had hoped to capitalize on its second-place finish in 2011, but only managed to come in third with CBC estimating that the party had garnered 32 seats. es/cmk (AP, Reuters) Have something to say? Add your comments below. Discussion is closed after 24 hours.",
+  "relations": [
+    [
+      "Conservative Party",
+      "Canada",
+      "based_in0"
+    ],
+    [
+      "Conservative Party",
+      "Canadian",
+      "based_in0-x"
+    ],
+    [
+      "Conservative Party",
+      "Canadians",
+      "based_in0-x"
+    ],
+    [
+      "Liberal Party",
+      "Canada",
+      "based_in0"
+    ],
+    [
+      "Liberal Party",
+      "Canadian",
+      "based_in0-x"
+    ],
+    [
+      "Liberal Party",
+      "Canadians",
+      "based_in0-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Canada",
+      "agent_of"
+    ],
+    [
+      "Justin Trudeau",
+      "Canada",
+      "citizen_of"
+    ],
+    [
+      "Justin Trudeau",
+      "Canadian",
+      "citizen_of-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Canadians",
+      "citizen_of-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Canada",
+      "head_of_gov"
+    ],
+    [
+      "Justin Trudeau",
+      "Canada",
+      "head_of_gov"
+    ],
+    [
+      "Justin Trudeau",
+      "Canadian",
+      "head_of_gov-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Canadians",
+      "head_of_gov-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Liberal Party",
+      "member_of"
+    ],
+    [
+      "Stephen Harper",
+      "Canada",
+      "agent_of"
+    ],
+    [
+      "Stephen Harper",
+      "Canada",
+      "citizen_of"
+    ],
+    [
+      "Stephen Harper",
+      "Canadian",
+      "citizen_of-x"
+    ],
+    [
+      "Stephen Harper",
+      "Canadians",
+      "citizen_of-x"
+    ],
+    [
+      "Stephen Harper",
+      "Conservative Party",
+      "head_of"
+    ],
+    [
+      "Stephen Harper",
+      "Canada",
+      "head_of_gov"
+    ],
+    [
+      "Stephen Harper",
+      "Canadian",
+      "head_of_gov-x"
+    ],
+    [
+      "Stephen Harper",
+      "Canadians",
+      "head_of_gov-x"
+    ],
+    [
+      "Stephen Harper",
+      "Conservative Party",
+      "member_of"
+    ],
+    [
+      "New Democratic Party",
+      "Canada",
+      "based_in0"
+    ],
+    [
+      "New Democratic Party",
+      "Canadian",
+      "based_in0-x"
+    ],
+    [
+      "New Democratic Party",
+      "Canadians",
+      "based_in0-x"
+    ],
+    [
+      "Canadian",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "John Walsh",
+      "Canada",
+      "citizen_of"
+    ],
+    [
+      "John Walsh",
+      "Canadian",
+      "citizen_of-x"
+    ],
+    [
+      "John Walsh",
+      "Canadians",
+      "citizen_of-x"
+    ],
+    [
+      "John Walsh",
+      "Conservative Party",
+      "head_of"
+    ],
+    [
+      "John Walsh",
+      "Conservative Party",
+      "member_of"
+    ],
+    [
+      "Canadians",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "Parliament",
+      "Canada",
+      "agency_of"
+    ],
+    [
+      "Parliament",
+      "Canadian",
+      "agency_of-x"
+    ],
+    [
+      "Parliament",
+      "Canadians",
+      "agency_of-x"
+    ],
+    [
+      "Parliament",
+      "Canada",
+      "based_in0"
+    ],
+    [
+      "Parliament",
+      "Canadian",
+      "based_in0-x"
+    ],
+    [
+      "Parliament",
+      "Canadians",
+      "based_in0-x"
+    ],
+    [
+      "CBC",
+      "Canada",
+      "agency_of"
+    ],
+    [
+      "CBC",
+      "Canadian",
+      "agency_of-x"
+    ],
+    [
+      "CBC",
+      "Canadians",
+      "agency_of-x"
+    ],
+    [
+      "CBC",
+      "Canada",
+      "based_in0"
+    ],
+    [
+      "CBC",
+      "Canadian",
+      "based_in0-x"
+    ],
+    [
+      "CBC",
+      "Canadians",
+      "based_in0-x"
+    ]
+  ]
+}

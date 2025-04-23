@@ -1,0 +1,265 @@
+{
+  "content": "EU adopts broad economic sanctions against Russia\nThe EU has for the first time adopted new sanctions against Russian oil companies, banks and defense firms over the Kremlin's support of separatist violence in Ukraine. Similar measures from the US could soon follow.\nEuropean Union governments imposed broad economic sanctions against Russia on Tuesday, intending to strongarm Moscow into reducing its role in the conflict in Ukraine. Aimed at Russia's energy, finance and defense sectors, the new measures will include an arms embargo, a ban on exports of some sensitive technologies and a ban on the sale of bonds and equities by state-owned Russian banks in European capital markets, diplomats in Brussels told reporters. The sanctions, designed to make Moscow's support of pro-Russian rebels in eastern Ukraine uneconomical, are expected to come into force onThursday. Shortly after the EU's announcement, US Secretary of State John Kerry said Washington was also drawing up its own round of fresh sanctions against Russia. A White House spokesman said the US' response could be unveiled later in the day on Tuesday. \"We have made it clear that additional sanctions and additional costs could be imposed on Russia,\" spokesman Josh Earnest said. A 'strong warning' After months of hesitation, the EU finally issued what the body's president, Herman Van Rompuy, hoped was a \"strong warning\" that would make Russia reconsider its current course. German Chancellor Angela Merkel said the decision to impose sanctions was \"inevitable\" after European leaders repeatedly made clear to Moscow that its annexation of Crimea and financial and material support to Ukrainian separatists were unacceptable. \"It is now up to the leadership in Russia to decide whether they want to go the way of de-escalation and cooperation,\" Merkel said in a brief statement. \"The EU sanctions can be reviewed but further steps are also possible.\" Businesses take a tougher stance While the measures approved go beyond the EU-wide asset freezes and visa bans the bloc had imposed until now on confidants of Russian President Vladimir Putin, European diplomats noted that eight more names had also been added to that list. Those earlier measures had also targeted companies and other entities believed to have either facilitated or profited from the fighting in Ukraine. Many EU countries have close economic ties with Russia, a reality that had made Brussels reluctant to come down too heavily on Moscow. However, the alleged downing of Malaysia Airlines flight MH17 by pro-Russian rebels using a Russian-made surface-to-air missile persuaded major business lobbies, notably in Germany, to come out in favor of tougher economic sanctions. That support made it more politically feasible to push harsher sanctions to the top of the EU agenda. Putin's last chance Speaking to reporters after meeting with Ukraine's new foreign minister, Pavlo Klimkin, Kerry said he had raised the issue of Moscow's role in the Ukrainian conflict in a Tuesday phone call with his Russian counterpart, Sergei Lavrov. \"The Russians and their so-called volunteers are continuing to ship arms and funds and personnel across the border,\" he said. \"We see this. There is clear evidence of it.\" He was referring to satellite imagery released over the weekend of Russian artillery firing into Ukraine from across the border. Such images, as well as reports that international investigators are being prevented from accessing the site where the Malaysian airliner went down more than a week ago, have driven Western relations with Russia to their lowest point since the Cold War. The United States has indicated that there has been \"no shred of evidence\" that Russia is willing to lend the international community a hand in ending separatist violence in Ukraine, but Kerry did suggest that Putin still had the chance to reverse course and avoid a new round of punitive action from Washington. cjc/kms (AFP, Reuters, AP)",
+  "relations": [
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russians",
+      "head_of_state-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Herman Van Rompuy",
+      "European Union",
+      "head_of"
+    ],
+    [
+      "Herman Van Rompuy",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "minister_of"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "Kremlin",
+      "Russians",
+      "agency_of-x"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russians",
+      "based_in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russians",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russians",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "White House",
+      "United States",
+      "in0"
+    ],
+    [
+      "Josh Earnest",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Josh Earnest",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Crimea",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Crimea",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Malaysia Airlines",
+      "Malaysian",
+      "based_in0-x"
+    ],
+    [
+      "Pavlo Klimkin",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Pavlo Klimkin",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Pavlo Klimkin",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Pavlo Klimkin",
+      "Ukraine",
+      "minister_of"
+    ],
+    [
+      "Pavlo Klimkin",
+      "Ukrainian",
+      "minister_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russians",
+      "minister_of-x"
+    ],
+    [
+      "Russians",
+      "Russia",
+      "gpe0"
+    ]
+  ]
+}

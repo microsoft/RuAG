@@ -1,0 +1,75 @@
+{
+  "content": "South Sudan expels UN aid coordinator\nThe United Nations has announced the expulsion of one of its deputies from South Sudan. Authorities have offered no official explanation, but the UN has pointed to the aid coordinator's critique of the government.\nThe South Sudanese government has decided to expel Toby Lanzer, the outspoken deputy chief of the United Nations mission to the country, UN officials said Monday. The announcement came after Lanzer was refused entry into South Sudan as he tried to return to wrap up official business ahead of the end of his assignment there later this month. Authorities in Juba have not offered an official explanation for the decision, but the UN has suggested that it stems from Lanzer's critique of the government and the rebels over the recent increase in sectarian fighting. \"Mr. Lanzer has been instrumental in addressing the increasing humanitarian needs of conflict-affected communities in the country and ensuring that life-saving humanitarian assistance reaches the most vulnerable,\" said a UN statement. UN Secretary General Ban Ki-moon called on Juba to immediately rectify the situation by allowing Lanzer to finish his work in the country before he is replaced by Eugene Owusu of Ghana at the end of the month. Humanitarian crisis rapidly escalating In May, Lanzer released a statement noting his dismay after fighting in the Unity and Upper Nile states forced 100,000 people to flee their homes in the course of a single week. Following the advance of the South Sudanese army on the rebel-held town of Leer, Lanzer argued that the military operations had \"devastated countless lives\" after witnesses told him tales of rape and civilian murders. On social media last week, Lanzer tweeted: \"4.6 million people in South Sudan will be severely, yes severely, food insecure by July. That is 800,000 more than in July of last year.\" Lanzer is due to take up his new post as UN regional humanitarian coordinator for the Sahel in a matter of weeks. es/cmk (AFP, dpa)",
+  "relations": [
+    [
+      "Toby Lanzer",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "South Sudanese",
+      "South Sudan",
+      "gpe0"
+    ],
+    [
+      "Juba",
+      "South Sudan",
+      "in0"
+    ],
+    [
+      "Juba",
+      "South Sudanese",
+      "in0-x"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Eugene Owusu",
+      "Ghana",
+      "citizen_of"
+    ],
+    [
+      "Eugene Owusu",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Unity",
+      "South Sudan",
+      "in0"
+    ],
+    [
+      "Unity",
+      "South Sudanese",
+      "in0-x"
+    ],
+    [
+      "Upper Nile",
+      "South Sudan",
+      "in0"
+    ],
+    [
+      "Upper Nile",
+      "South Sudanese",
+      "in0-x"
+    ],
+    [
+      "Leer",
+      "South Sudan",
+      "in0"
+    ],
+    [
+      "Leer",
+      "South Sudanese",
+      "in0-x"
+    ]
+  ]
+}

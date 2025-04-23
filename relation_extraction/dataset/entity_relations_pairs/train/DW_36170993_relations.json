@@ -1,0 +1,25 @@
+{
+  "content": "Click on the Link - Ep 03: Looking for Clues!\nThe police suspect Matu of stabbing his girlfriend Zawadi. But the victim’s best friend, Kendi, thinks otherwise.\nKendi has started her own investigation. She’s asked Tembo, an IT expert who works at the police station, to help her. Together, they take a closer look at Zawadi’s social media page.",
+  "relations": [
+    [
+      "Zawadi",
+      "Ep 03: Looking for Clues!",
+      "character_in"
+    ],
+    [
+      "Kendi",
+      "Ep 03: Looking for Clues!",
+      "character_in"
+    ],
+    [
+      "Tembo",
+      "Ep 03: Looking for Clues!",
+      "character_in"
+    ],
+    [
+      "Matu",
+      "Ep 03: Looking for Clues!",
+      "character_in"
+    ]
+  ]
+}

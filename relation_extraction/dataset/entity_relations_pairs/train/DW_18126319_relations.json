@@ -1,0 +1,145 @@
+{
+  "content": "British air traffic disrupted by computer glitch\nFlights in an out of London have been disrupted by a computer failure at an air traffic control center in southern England. Aviation officials, however, have said the problem has been resolved.\nThe National Air Traffic Service, (NATS) announced on Friday evening that a technical problem, which had forced it to briefly shut down the airspace over the British capital, had been fixed and service was returning to normal. NATS also said the problem had been caused by a computer failure at its air traffic control center at Swanwick in the south of England (pictured above). \"We apologise for any delays and the inconvenience this may have caused,\" a statement posted on the NATS website said. It also advised passengers planning to fly in or out of London on Friday evening to contact their airline for the status of their flight before making their way to the airport. Heathrow Airport, which is Europe's busiest air travel hub in terms of volume of passenger traffic, reported that no flights were landing or taking off while the airspace over London was shut down. Later, the flight-tracking service FlightAware reported that it had noticed some delays but few cancellations at Heathrow. Service was also briefly shut down at London's other four airports, Gatwick, Stansted, London City and Luton. Airports beyond Greater London were not affected by the problem and both Manchester and Birmingham declared that they were prepared to receive diverted flights. No details of the nature of the computer failure that caused the disruption were immediately available. However, Reuters news agency citied an unnamed British government source who said it did not appear to be related to a security threat. Swanwick no stranger to computer glitches The Swanwick air traffic control center has experienced problems in the past. Last December, the night-operating system at Swanwick failed to properly switch over to daytime mode, causing delays for thousands of passengers. Computer problems at the Swanwick center also grounded scores of flights and inconvenienced thousands of travelers in incidents in 2004 and 2008. In the aftermath of the latest glitch, British Transport Secretary Patrick McLoughlin released a statement saying that he had demanded an explanation for what he termed \"simply unacceptable\" disruption. \"Any disruption to our aviation system is a matter of the utmost concern, especially at this time of year in the run up to the holiday season,\" he said. \"I also want to know what steps will be taken to prevent this happening again,\" he added. pfd/sms (Reuters, AP, dpa)",
+  "relations": [
+    [
+      "Heathrow Airport",
+      "England",
+      "in0"
+    ],
+    [
+      "Heathrow Airport",
+      "London",
+      "in2"
+    ],
+    [
+      "National Air Traffic Service",
+      "England",
+      "agency_of"
+    ],
+    [
+      "National Air Traffic Service",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "National Air Traffic Service",
+      "England",
+      "based_in0"
+    ],
+    [
+      "National Air Traffic Service",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Swanwick",
+      "England",
+      "in0"
+    ],
+    [
+      "Swanwick",
+      "British",
+      "in0-x"
+    ],
+    [
+      "British",
+      "England",
+      "gpe0"
+    ],
+    [
+      "London",
+      "England",
+      "in0"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Gatwick",
+      "England",
+      "in0"
+    ],
+    [
+      "Gatwick",
+      "London",
+      "in2"
+    ],
+    [
+      "Stansted",
+      "England",
+      "in0"
+    ],
+    [
+      "Stansted",
+      "London",
+      "in2"
+    ],
+    [
+      "London City",
+      "England",
+      "in0"
+    ],
+    [
+      "London City",
+      "London",
+      "in2"
+    ],
+    [
+      "Luton",
+      "England",
+      "in0"
+    ],
+    [
+      "Luton",
+      "London",
+      "in2"
+    ],
+    [
+      "Manchester",
+      "England",
+      "in0"
+    ],
+    [
+      "Manchester",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Birmingham",
+      "England",
+      "in0"
+    ],
+    [
+      "Birmingham",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Patrick McLoughlin",
+      "England",
+      "agent_of"
+    ],
+    [
+      "Patrick McLoughlin",
+      "England",
+      "citizen_of"
+    ],
+    [
+      "Patrick McLoughlin",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Patrick McLoughlin",
+      "England",
+      "minister_of"
+    ],
+    [
+      "Patrick McLoughlin",
+      "British",
+      "minister_of-x"
+    ]
+  ]
+}

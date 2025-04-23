@@ -1,0 +1,115 @@
+{
+  "content": "New Italian Law Grants Immunity to Premier Berlusconi\nItaly's lower house of parliament has passed a bill that will grant immunity to Premier Silvio Berlusconi, who has had his share of run-ins with the law over corruption allegations in connection with his media empire.\nThe bill got 309 yes votes from lawmakers, with 236 opposed and 30 abstentions. The adoption of the new law is a victory for Berlusconi, who began his third round as prime minister in April. The bill gives legal immunity from prosecution to the president, prime minister and the speakers of the two chambers of parliament while in office, and is now expected to become law in record time when it advances to the Senate in late July. Judges and much of Italy's left-wing opposition opposed the law, which will suspend any statute of limitations to a case until the defendant leaves office. Italian Justice Minister Angelino Alfano said that the bill was a \"response to the need of those in the highest positions of state to work in serenity.\" Opposition leader Walter Veltroni, whose Democratic Party voted against the bill, commented last month that \"Berlusconi is in a big hurry on these matters,\" while the billionaire's lawyer Niccolo Ghedini said the prime minister was \"under constant attacks by judges.\" Long list of allegations Berlusconi, a self-made billionaire, has faced charges including corruption, tax fraud, false accounting and illegally financing political parties, but he has never been definitively convicted. On Friday parliamentarians will also vote on a bill to suspend thousands of trials for a year as a means of speeding Italy's notoriously slow justice system for the most serious cases languishing on the books. That law would keep the media tycoon out of the dock this month in a trial on charges of giving $600,000 dollars (380,000 euros) to his British lawyer David Mills in exchange for giving false testimony. Berlusconi is also seeking strict curbs on the use of wiretaps in judicial investigations and stiffer penalties for the publication of their transcripts.",
+  "relations": [
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "head_of_gov"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Senate",
+      "Italy",
+      "agency_of"
+    ],
+    [
+      "Senate",
+      "Italian",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Senate",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Angelino Alfano",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Angelino Alfano",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Angelino Alfano",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Angelino Alfano",
+      "Italy",
+      "minister_of"
+    ],
+    [
+      "Angelino Alfano",
+      "Italian",
+      "minister_of-x"
+    ],
+    [
+      "Walter Veltroni",
+      "Democratic Party",
+      "head_of"
+    ],
+    [
+      "Walter Veltroni",
+      "Democratic Party",
+      "member_of"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Democratic Party",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Democratic Party",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Niccolo Ghedini",
+      "Silvio Berlusconi",
+      "advisor_of"
+    ],
+    [
+      "David Mills",
+      "Silvio Berlusconi",
+      "advisor_of"
+    ],
+    [
+      "David Mills",
+      "British",
+      "citizen_of-x"
+    ]
+  ]
+}

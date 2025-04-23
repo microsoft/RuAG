@@ -1,0 +1,60 @@
+{
+  "content": "Cloudy Skies Ahead for German Growth\nA group of leading economic experts have given a less-than-sunny forecast for Germany's economic growth, as the high euro and surging oil prices dampen the modest recovery in the euro zone's biggest economy.\nIn their widely watched autumn report, the German government's so-called \"Five Wise Men\" -- independent economic advisors -- said they were expecting the country's gross domestic product (GDP) to expand by just 1.4 percent next year, compared with an anticipated 1.8 percent this year. Those figures fall far short of the government's official forecasts that put growth at 1.8 percent this year and 1.7 percent next year. Coupled with a stark decline in domestic consumer spending and a growing dependency on exports, the slower economic growth rate will further burden the already critical state of Germany's public finances. High euro, low domestic spending to blame The runaway strength of the euro against the dollar is partially to blame for the downturn in the German economy, which is heavily dependent on exports, the experts said. \"A further rise in the euro would result in risks for growth momentum next year,\" said the report, which was published on Wednesday. The panel of experts, which actually comprises four men and one woman, said that strong export growth this year had \"enabled Germany to break out of a three-year period of economic stagnation.\" \"But the weakening in growth since this autumn emphatically illustrates the vulnerability of a recovery driven primarily by external economic factors,\" the experts said. \"While global economic developments remain robust, they will be slowed by the rise in oil prices and it is therefore decisive that domestic investment and private consumption get on a better footing in Germany,\" they diagnosed. A modest upturn in equipment spending in the second half of this year provided the \"first encouraging sign\" for a possible improvement in domestic demand. \"Our prognosis for next year is a gradual revival in domestic demand coupled with fundamentally positive impulses from the global economy.\" Nevertheless, \"we're still a long way from seeing a sweeping upturn in the domestic economy,\" the experts said. The modest pace of growth will remain more or less unchanged in 2004 and 2005, the report estimated. Public finances at risk The absence of a stronger pick-up in the economy also spelled bad news for Germany's public finances. \"The state of Germany's public finances remains critical,\" the experts wrote, predicting that the German public deficit would breach EU budget rules for the fourth year in a row next year. Under the terms of the European Stability and Growth Pact, drawn up in 1997 largely at Germany's behest, euro zone countries are prohibited from running up public deficits in excess of 3.0 percent of GDP. But the German deficit already breached that level in 2002 and 2003, and is expected to do so again this year. German Finance Minister Hans Eichel has pledged to bring the deficit back below the 3.0 percent ceiling in 2005. However, the \"Five Wise Men\" predicted the deficit ratio would remain at 3.5 percent again in 2005. In a sign that the government has acknowledged, if not accepted, the cloudy forecast, Chancellor Gerhard Schröder said it \"won't be easy\" to bring the public deficit back under 3.0 of GDP next year.",
+  "relations": [
+    [
+      "Hans Eichel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Hans Eichel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hans Eichel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hans Eichel",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Hans Eichel",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

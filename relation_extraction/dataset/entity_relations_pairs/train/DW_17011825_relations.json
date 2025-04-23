@@ -1,0 +1,100 @@
+{
+  "content": "Keita and Cisse face off in Mali presidential election runoff\nTwo candidates made large gains in Mali's July 28 polls, but neither has won a majority. Polls have now reopened in a runoff vote that Malians hope will produce a president who can lead the country away from turmoil.\nThe ballot in Sunday's presidential election sharply reduces voters' choice from the original 27 candidates to only two frontrunners: former Prime Minister Ibrahim Boubacar Keita (pictured above, left), and former Finance Minister, Soumaila Cisse (pictured above, right). Ex-Prime Minister Keita is favored to win in the runoff vote on Sunday. Not only did he capture roughly 40 percent of the vote late last month, but he has also gained the backing of Mali's religious leaders and military. In the days leading up to the final stage of the election, Keita pledged to move the country toward a peaceful resolution with separatist groups in the country's north. \"My first priority would be the reconciliation of the country ... after the trauma that it has suffered, a new start is needed,\" Keita told supporters at a speech last week, adding that they should give him a \"clear and clean majority.\" Although Mali's largest political party, ADEMA, has endorsed Cisse, the former finance minister won only 20 percent of the vote in the late-July election. However, he expressed confidence in his chances to win the presidency while speaking to the news agency AFP. \"It is not about adding to the votes from the first round. There will be new votes, it is a new election. Everything restarts from zero,\" Cisse told AFP. Voters hope the country's new president can help restabilize the government and protect them from further violence from northern separatists. An interim government and 12,600-strong UN peacekeeping mission now oversee the country. Unrest began in early 2012 with a military coup which led to the ouster of then President Amadou Toumani Toure. The weakened state allowed the Tuareg separatist National Movement for the Liberation of Azawad (MNLA) to gain control in the country's north. Al Qaeda-linked Islamist groups helping the ethnic separatist group gradually exercised their own influence over the region and imposed an extreme version of Islamic law. In January, the government in Bamako asked France to lead a military intervention to halt a rebel-led march toward the capital city. Thousands more troops, mainly from the Economic Community of West African States (ECOWAS) joined the effort. The UN deployed a 12,600 peacekeeping force to Mali at the beginning of July. A successful vote on Sunday should allow the new government to unlock 4 billion euros ($5.34 billion) needed to help re-stabilize Mali. Mali wants a strong leader Keita has run on the campaign slogan of returning honor to Mali. His popularity stems from his reputation as a firm leader who has political experience as a prime minister, finance minister and speaker of the National Assembly. \"He has this reputation as somebody who is strict. He doesn't shy away from a fight,\" Mali expert Bruce Whitehouse, who teaches at the Lehigh University in the US state of Pennsylvania, told the Associate Press news agency. \"He's this sort of old-school politician who knows how to get things done, and knows how to build alliances. I don't think anybody sees him as any kind of visionary or innovator but he may just be the sort of man who can hold things together in some basic way,\" said Whitehouse. Both Keita and Cisse ran against the last president, Amadou Toumani Toure, in 2002. Five years later, Keita attempted to oust the incumbent president again, but only gained 19 percent of the vote. The latest delay in forming a government signals hope for the country's future, according to a Malian journalist. \"The fact that there's a runoff vote is a victory for democracy in Mali,\" the journalist Ramata Diaore told the news agency DPA. \"It shows that religious leaders and the armed forces ... didn't succeed in pushing through their preferred candidate, Keita. Now everything is up in the air,\" Diaore said. The new president will face the task of reaching an agreement with the MLNA and allied groups in the north who want autonomy from Bamako. Earlier this week, the MLNA signed an agreement with Tuareg and related umbrella groups to work together for more independence from the Malian government. kms/lw (AP, AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Ibrahim Boubacar Keita",
+      "Mali",
+      "agent_of"
+    ],
+    [
+      "Ibrahim Boubacar Keita",
+      "Mali",
+      "citizen_of"
+    ],
+    [
+      "Ibrahim Boubacar Keita",
+      "Mali",
+      "head_of_gov"
+    ],
+    [
+      "Soumaila Cisse",
+      "Mali",
+      "agent_of"
+    ],
+    [
+      "Soumaila Cisse",
+      "Mali",
+      "citizen_of"
+    ],
+    [
+      "Soumaila Cisse",
+      "Mali",
+      "minister_of"
+    ],
+    [
+      "ADEMA",
+      "Mali",
+      "based_in0"
+    ],
+    [
+      "National Movement for the Liberation of Azawad",
+      "Mali",
+      "based_in0"
+    ],
+    [
+      "Bruce Whitehouse",
+      "Lehigh University",
+      "member_of"
+    ],
+    [
+      "AFP",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Amadou Toumani Toure",
+      "Mali",
+      "agent_of"
+    ],
+    [
+      "Amadou Toumani Toure",
+      "Mali",
+      "citizen_of"
+    ],
+    [
+      "Amadou Toumani Toure",
+      "Mali",
+      "head_of_state"
+    ],
+    [
+      "Bamako",
+      "Mali",
+      "in0"
+    ],
+    [
+      "National Assembly",
+      "Mali",
+      "agency_of"
+    ],
+    [
+      "National Assembly",
+      "Mali",
+      "based_in0"
+    ],
+    [
+      "Lehigh University",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Lehigh University",
+      "Pennsylvania",
+      "based_in1"
+    ],
+    [
+      "Pennsylvania",
+      "US",
+      "in0"
+    ]
+  ]
+}

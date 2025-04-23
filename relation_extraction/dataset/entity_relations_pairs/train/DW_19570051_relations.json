@@ -1,0 +1,95 @@
+{
+  "content": "Ivory seizure demonstrates challenge of protecting elephant populations\nAuthorities in New York have seized $4.5 million (4 million euros) worth of illicit elephant ivory in one of the largest busts in the state's history. This comes as southern African countries want the total ban lifted.\nLaw enforcement officials put seized ivory contraband on display with scores of statuettes, a carved column, two pairs of tusks and a chess set carved from the tusks of a dozen slain elephants. \"We are going to dry up... a market that only fuels the slaughter of elephants,\" New York City's chief prosecutor Cy Vance told reporters Thursday. \"It is inexcusable, it is immoral.\" New York City is a hub of illegal elephant ivory trade, ahead of California and Hawaii, said Basil Seggos, head of the state's Department of Environmental Conservation which cooperated in the investigation that involved undercover officers posing as buyers at a Manhattan art and antiquities shop. \"This type of behavior will no longer be tolerated,\" Seggos said. It is illegal to sell elephant ivory without a special license. But New York's rules were tightened so much in 2014 that they effectively banned ivory sales except under extremely limited circumstances. The US and China, among the world's biggest ivory consumers, have agreed to enact near-total bans on their domestic markets. A ban on the international ivory trade was enshrined in law under the UN's Convention on International Trade in Endangered Species (CITES) signed in 1989. But even as poaching of endangered elephants for their tusks persists at dangerous levels, some African states are seeking a partial overturn of the global ban. In Namibia, where villagers and elephants are competing for scarce water in remote parts the country, the government is part of a host of countries pushing for the right to sell millions of dollars' worth of ivory at a CITES annual summit that opens this weekend. \"We at times have to go without water when the elephants are at the water points and wells the whole day,\" villager Iningirua Musaso told the Namibia Press Agency this month. Namibia is one of several southern African countries that want to sell their ivory stockpiles argue that it's OK to profit from elephants so that their people see wildlife as a natural resource worth protecting. Cash-strapped Zimbabwe has a 70 ton ivory stockpile worth $35 million. It says ivory trade is the only way to pay for protecting its elephants and to give rural communities an economic incentive for living near the animals which it argues that in some places populations are increasing. But they are opposed by about 30 nations that want to tighten an international ban on the ivory trade, including leading ivory consumer China which says it will close its domestic market. Conservationists alarmed \"We do recognize that Zimbabwe and Namibia's elephants populations are in better shape than those elsewhere in Africa,\" said Susan Lieberman, vice president for International Policy at the Wildlife Conservation Society. \"But it's rather short-sighted and a bit selfish for them to request to sell their ivory, knowing full well that it will further stimulate poaching and trafficking from other populations. The global community needs to see this as an Africa-wide issue.\" Frank Pope, operations manager at Save the Elephants, a Kenya-based group, says it's vital that protections for elephants are not watered down which he predicts would undermine the success of international cooperation in clamping down on poaching. \"If one of the nations that wants to sell ivory decides to sell ivory and manages to put that onto the market, that creates a smoke screen for an illegal trade to flourish across the whole of the rest of the continent,\" he said. The countries' formal request to sell stockpiles, collected through seizures of contraband, natural mortality in the wild and the shooting of problem animals, will be considered at a meeting of the UN's CITES meeting in Johannesburg from September 24 to October 5. jar/jil (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "Convention on International Trade in Endangered Species",
+      "UN",
+      "law_of"
+    ],
+    [
+      "New York City",
+      "US",
+      "in0"
+    ],
+    [
+      "Basil Seggos",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Basil Seggos",
+      "Department of Environmental Conservation",
+      "head_of"
+    ],
+    [
+      "Basil Seggos",
+      "Department of Environmental Conservation",
+      "member_of"
+    ],
+    [
+      "Cy Vance",
+      "New York City",
+      "agent_of"
+    ],
+    [
+      "Cy Vance",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "California",
+      "US",
+      "in0"
+    ],
+    [
+      "Hawaii",
+      "US",
+      "in0"
+    ],
+    [
+      "Department of Environmental Conservation",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Department of Environmental Conservation",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Iningirua Musaso",
+      "Namibia",
+      "citizen_of"
+    ],
+    [
+      "Namibia Press Agency",
+      "Namibia",
+      "based_in0"
+    ],
+    [
+      "Susan Lieberman",
+      "International Policy",
+      "head_of"
+    ],
+    [
+      "Susan Lieberman",
+      "International Policy",
+      "member_of"
+    ],
+    [
+      "Frank Pope",
+      "Save the Elephants",
+      "head_of"
+    ],
+    [
+      "Frank Pope",
+      "Save the Elephants",
+      "member_of"
+    ],
+    [
+      "Save the Elephants",
+      "Kenya",
+      "based_in0"
+    ]
+  ]
+}

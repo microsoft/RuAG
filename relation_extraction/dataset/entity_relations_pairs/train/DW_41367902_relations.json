@@ -1,0 +1,230 @@
+{
+  "content": "Venezuela meets international creditors as debt default looms\nFollowing months of violent protests, Venezuela is meeting with creditors to discuss ways out of what seems to be inevitable default. Meanwhile, the EU slapped a new set of sanctions on the South American nation.\nVenezuela started meeting a host of its creditors in Caracas to discuss government proposals to restructure at least 60 billion dollars of junk bonds in a bid to ease the country's massive debt burden. Some investors have, however, expressed concern in advance that the meeting was only a ruse for President Nicolas Maduro to seek longer repayment periods for the bonds. This could lead to Venezuela's eventual debt default, with the country's total debt estimated to be at least $150 billion (€130 billion). Maduro said that 414 investors and representatives of investment banks, which amounted to 91 percent of holders of Venezuelan bonds, would attend the meeting near the presidential palace. However, there had been earlier reports that some of the creditors would not be able to attend the meeting amid concern that the delegation of Venezuelan negotiators could include people who are presently under US sanctions. Venezuela has been in a massive recession since Maduro succeeded the late president Hugo Chavez in 2013. A drop in oil prices has contributed to a galloping shortage of basic goods in the cash-strapped country, where inflation is expected to reach 1,000 percent this year. Meanwhile, a default declaration of the PDVSA state oil company is seen as almost inevitable. The committee of the Internal Swaps and Derivatives Association (ISDA), has agreed to reconvene on Tuesday to determine PDVSA's fate. Persona non grata The head of the committee charged with negotiating a deal, Vice President Tareck El Aissami, is one of the politicians targeted by US sanctions, with Washington accusing El Aissami of drug trafficking. To encourage attendance, Venezuela has reportedly said that Vice President El Aissami won't physically attend the meeting — despite being put in charge of the restructuring the country's debt. It was unclear whether Venezuelan Finance Minister Simon Zerpa, another individual targeted by US sanctions for alleged corruption, would be present. The prospects for reaching any agreement are complicated by the sanctions imposed on Venezuela and on many senior officials, which prohibit any US person or bank from buying the country's debt. About 70 percent of Venezuelan bondholders are North American, according to government figures, while China and Russia also hold a considerable share. During his weekly television speech on Sunday, President Nicolas Maduro insisted his country would \"never\" default on the country's debt, adding that Venezuela's strategy is to \"renegotiate and refinance all the debt.\" He highlighted talks with allies China and Russia — Venezuela owes China $28 billion and Russia $8 billion. Russia has already agreed to restructure $3 billion in loans. EU sanctions The meeting started just after the European Union adopted its own set of targeted sanctions earlier in the day targeting \"those involved in the non-respect of democratic principles or the rule of law.\" The sanctions include a ban on arms sales as well as travel restrictions and asset freezes on individuals deemed to be in violation of human rights. Caracas has meanwhile criticized the sanctions as \"illegal\" and \"absurd.\" The EU sanctions came after the bloc declared that it would not recognize Venezuela's Constituent Assembly, a chamber of loyalists appointed by Maduro in August designed to usurp parliamentary powers. The EU said that its creation had \"further eroded the democratic and independent institutions.\" Amid all the international pressure, thousands of Venezuelans have fled to neighboring countries and more than 120 people have been killed in anti-government protests so far this year. ss/dv (AP, AFP, dpa, Reuters, EFE)",
+  "relations": [
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "agent_of"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuelans",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Maduro",
+      "Constituent Assembly",
+      "head_of"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuela",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuelan",
+      "head_of_state-x"
+    ],
+    [
+      "Nicolas Maduro",
+      "Venezuelans",
+      "head_of_state-x"
+    ],
+    [
+      "Nicolas Maduro",
+      "Constituent Assembly",
+      "member_of"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuela",
+      "agent_of"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuelans",
+      "citizen_of-x"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuela",
+      "minister_of"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuelan",
+      "minister_of-x"
+    ],
+    [
+      "Tareck El Aissami",
+      "Venezuelans",
+      "minister_of-x"
+    ],
+    [
+      "Caracas",
+      "Venezuela",
+      "in0"
+    ],
+    [
+      "Caracas",
+      "Venezuelan",
+      "in0-x"
+    ],
+    [
+      "Caracas",
+      "Venezuelans",
+      "in0-x"
+    ],
+    [
+      "Venezuelan",
+      "Venezuela",
+      "gpe0"
+    ],
+    [
+      "Hugo Chavez",
+      "Venezuela",
+      "agent_of"
+    ],
+    [
+      "Hugo Chavez",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Hugo Chavez",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Hugo Chavez",
+      "Venezuelans",
+      "citizen_of-x"
+    ],
+    [
+      "Hugo Chavez",
+      "Venezuela",
+      "head_of_state"
+    ],
+    [
+      "Hugo Chavez",
+      "Venezuelan",
+      "head_of_state-x"
+    ],
+    [
+      "Hugo Chavez",
+      "Venezuelans",
+      "head_of_state-x"
+    ],
+    [
+      "PDVSA",
+      "Venezuela",
+      "based_in0"
+    ],
+    [
+      "PDVSA",
+      "Venezuelan",
+      "based_in0-x"
+    ],
+    [
+      "PDVSA",
+      "Venezuelans",
+      "based_in0-x"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Simon Zerpa",
+      "Venezuela",
+      "agent_of"
+    ],
+    [
+      "Simon Zerpa",
+      "Venezuela",
+      "citizen_of"
+    ],
+    [
+      "Simon Zerpa",
+      "Venezuelan",
+      "citizen_of-x"
+    ],
+    [
+      "Simon Zerpa",
+      "Venezuelans",
+      "citizen_of-x"
+    ],
+    [
+      "Simon Zerpa",
+      "Venezuela",
+      "minister_of"
+    ],
+    [
+      "Simon Zerpa",
+      "Venezuelan",
+      "minister_of-x"
+    ],
+    [
+      "Simon Zerpa",
+      "Venezuelans",
+      "minister_of-x"
+    ],
+    [
+      "Constituent Assembly",
+      "Venezuela",
+      "agency_of"
+    ],
+    [
+      "Constituent Assembly",
+      "Venezuelan",
+      "agency_of-x"
+    ],
+    [
+      "Constituent Assembly",
+      "Venezuelans",
+      "agency_of-x"
+    ],
+    [
+      "Constituent Assembly",
+      "Venezuela",
+      "based_in0"
+    ],
+    [
+      "Constituent Assembly",
+      "Venezuelan",
+      "based_in0-x"
+    ],
+    [
+      "Constituent Assembly",
+      "Venezuelans",
+      "based_in0-x"
+    ],
+    [
+      "Venezuelans",
+      "Venezuela",
+      "gpe0"
+    ]
+  ]
+}

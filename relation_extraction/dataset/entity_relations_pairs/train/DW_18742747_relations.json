@@ -1,0 +1,120 @@
+{
+  "content": "Neymar has millions in assets frozen in Brazil\nA Brazilian court has accused international football star Neymar of evading millions of dollars in taxes. Now the Barcelona Forward could face fines worth even more than that.\nThe judge accused 23-year-old Neymar of tax evasion on Friday, freezing 188.8 million reals ($47 million, 42 million euros) of his assets. The Sao Paulo-born star forward, now with FC Barcelona in Spain, is suspected of evading taxes worth 63.6 million reals. Carlos Muta, the Brazilian judge who made the ruling, said he had frozen three times the amount Neymar has been accused of not paying in order to cover potential interest and fines, according to a document released by the court. The alleged evasion dates back to 2011-2013, before Neymar's move to last year's Champions League winners, when he starred for top-flight Brazilian club Santos. The player will still have access to his bank accounts and liquid assets, but will not be able to sell any of his assets before the case comes to a close. Because the fines amount to more than 30 percent of Neymar's total declared assets -- about 244 million real ($61 million, 54.5 million euros) -- Brazilian authorities also froze assets belonging to his family. Prosecutors allege that the player purposefully omitted sources of income from abroad, including FC Barcelona. This isn't the first time Neymar has been embroiled in a tax-related scandal. In 2014, Barcelona's Sandro Rosell resigned as president of the club following allegations that he had failed to report the full cost of Neymar's transfer to the Spanish club from Santos. Afterward, FC Barcelona paid Spanish tax authorities a total of 13.5 million euros. blc/msh (Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "Neymar",
+      "Brazil",
+      "citizen_of"
+    ],
+    [
+      "Neymar",
+      "Brazilian",
+      "citizen_of-x"
+    ],
+    [
+      "Neymar",
+      "FC Barcelona",
+      "member_of"
+    ],
+    [
+      "Neymar",
+      "Santos",
+      "member_of"
+    ],
+    [
+      "Neymar",
+      "FC Barcelona",
+      "player_of"
+    ],
+    [
+      "Neymar",
+      "Santos",
+      "player_of"
+    ],
+    [
+      "Carlos Muta",
+      "Brazil",
+      "agent_of"
+    ],
+    [
+      "Carlos Muta",
+      "Brazilian",
+      "agent_of-x"
+    ],
+    [
+      "Carlos Muta",
+      "Brazil",
+      "citizen_of"
+    ],
+    [
+      "Carlos Muta",
+      "Brazilian",
+      "citizen_of-x"
+    ],
+    [
+      "FC Barcelona",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "FC Barcelona",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "FC Barcelona",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Brazilian",
+      "Brazil",
+      "gpe0"
+    ],
+    [
+      "Sao Paulo",
+      "Brazil",
+      "in0"
+    ],
+    [
+      "Sao Paulo",
+      "Brazilian",
+      "in0-x"
+    ],
+    [
+      "Santos",
+      "Brazil",
+      "based_in0"
+    ],
+    [
+      "Santos",
+      "Brazilian",
+      "based_in0-x"
+    ],
+    [
+      "Sandro Rosell",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Sandro Rosell",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Sandro Rosell",
+      "FC Barcelona",
+      "head_of"
+    ],
+    [
+      "Sandro Rosell",
+      "FC Barcelona",
+      "member_of"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ]
+  ]
+}

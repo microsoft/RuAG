@@ -1,0 +1,190 @@
+{
+  "content": "Quirks and firsts of the Nobel Prize\nDeceased winners, double laureates and famous refusals: With the 2013 Nobel Prizes set to be awarded, it's worth taking a look back at 112 years of award history. Just don't die before you're nominated...\nWhen Swedish inventor Alfred Nobel specified in his will that his fortune be used to create a foundation, his relatives were outraged - even trying to contest his decision in court. It wasn't until 1901, five years after Nobel's death, that the first Nobel prize was actually awarded. This year's Nobel Prize laureates will be announced by October 14. The award, which includes prizes in the categories of chemistry, literature, physics, physiology and medicine - as well as the Nobel Peace Prize - has had a rich history since 1901. A prize for the deceased Officially, you can't be nominated for a Nobel Prize if you're dead. But Swedes Dag Hammarskjöld, who won the Nobel Peace Prize in 1961 and Erik Axel Karlfeldt, who won in 1931, were honored posthumously anyway, since they both passed away after being nominated, but before the winners had been announced. The practice was banned in 1974, only for the rule to be broken in 2011. When the Nobel Prize committee announced that Ralph Steinmann was to be honored with the Nobel Prize in Medicine, they didn't know that Steinmann had passed away three days before. In Steinmann's case, the committee made an exception and his heirs accepted the prize in his place. Second time's a charm So far, four scientists have managed to win two Nobel Prizes. John Bardeen of the US won the Nobel Prize in Physics twice - once for his discovery of the transistor effect in 1956 and a second time in 1972 for his theory of superconductivity. British biochemist Frederick Sanger was honored twice as well, once in 1958 and again in 1980. The Nobel Prize in Chemistry was awarded to him first for discovering the structure of insulin and again for discovering the method for sequencing DNA molecules. US chemist Linus Pauling received an unusual combination of awards. In 1954 he won the Nobel Prize for Chemistry, which was followed up by a Nobel Peace Prize in 1962 for his ardent opposition to nuclear weapons testing. Women underrepresented Marie Curie is probably the most well known female Nobel Prize winner. She, too, won two Nobel Prizes. The first time, she was awarded a prize in Physics for her research on radioactivity in 1903. The second time she won the prize in Chemistry for her discovery of the chemical elements polonium and radium. Thus far, the Nobel Prize has gone to a woman just 44 times. In the three scientific categories, that number falls to 16, or less than five percent. Two women have won the Nobel Prize in Physics, and four have won in Chemistry. The Nobel Prize in Physiology or Medicine has gone to ten women. Famous refusals To date, one winner of the Nobel Peace Prize and one winner of the Nobel Prize in Literature have refused to accept the award. Le Duc Tho rejected the Peace Prize in 1973 because of the then-current situation in Vietnam, while Jean-Paul Sartre, who was awarded the literary accolade in 1964, simply rejected all public honors. In the scientific categories, the Nobel Prize has never been refused. Under Adolf Hitler, however, German scientists were not allowed to accept the prize. The rule affected the winners Richard Kuhn (Chemistry, 1938), Adolf Butenandt (Chemistry, 1939) and Gerhard Domagk (Medicine, 1939). All three accepted the Nobel diploma and medal after the Second World War ended, but they missed out on the prize money. Which nation has been the most successful? The United States has won the most Nobel Prizes in the scientific disciplines: 43 percent of all prize winners for the physics, chemistry and the physiology and medicine categories are Americans. In physics and chemistry, Germany has taken the second most number of prizes. Great Britain ranks third, with the ranking reversed in physiology and medicine. France ranks fourth in all three categories. When are Nobel Prize winners typically born? May 21 and February 28 are the most frequent birthdays for Nobel Prize winners. How old are the winners? The average age of a Nobel Prize winner across all the categories is 59. It's slightly lower in the scientific disciplines. When they accept their prize, chemistry and physics winners have an average age of 57. In medicine, they're only 55 on average. The youngest Nobel Prize winner was physicist Lawrence Bragg. He was 25 years old when he won in 1915. In the scientific categories the oldest winner was the physicist Raymond Davis Jr. When his prize was awarded in 2002, he was 88. Two winners of the Nobel Prize in the economic sciences, Leonid Hurwicz and Lloyd, were even older: 90 and 89 years old respectively.",
+  "relations": [
+    [
+      "Alfred Nobel",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Alfred Nobel",
+      "Swedes",
+      "citizen_of-x"
+    ],
+    [
+      "Ralph Steinmann",
+      "Nobel Prize in Physiology or Medicine",
+      "award_received"
+    ],
+    [
+      "Dag Hammarskjöld",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Dag Hammarskjöld",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Dag Hammarskjöld",
+      "Swedes",
+      "citizen_of-x"
+    ],
+    [
+      "Erik Axel Karlfeldt",
+      "Nobel Prizes",
+      "award_received"
+    ],
+    [
+      "John Bardeen",
+      "Nobel Prize in Physics",
+      "award_received"
+    ],
+    [
+      "John Bardeen",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "John Bardeen",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "British",
+      "Great Britain",
+      "gpe0"
+    ],
+    [
+      "Frederick Sanger",
+      "Nobel Prize for Chemistry",
+      "award_received"
+    ],
+    [
+      "Frederick Sanger",
+      "Great Britain",
+      "citizen_of"
+    ],
+    [
+      "Frederick Sanger",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Linus Pauling",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Linus Pauling",
+      "Nobel Prize for Chemistry",
+      "award_received"
+    ],
+    [
+      "Linus Pauling",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Linus Pauling",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Marie Curie",
+      "Nobel Prize for Chemistry",
+      "award_received"
+    ],
+    [
+      "Marie Curie",
+      "Nobel Prize in Physics",
+      "award_received"
+    ],
+    [
+      "Le Duc Tho",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Jean-Paul Sartre",
+      "Nobel Prize in Literature",
+      "award_received"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Richard Kuhn",
+      "Nobel Prize for Chemistry",
+      "award_received"
+    ],
+    [
+      "Richard Kuhn",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Richard Kuhn",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Adolf Butenandt",
+      "Nobel Prize for Chemistry",
+      "award_received"
+    ],
+    [
+      "Adolf Butenandt",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Adolf Butenandt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Domagk",
+      "Nobel Prize in Physiology or Medicine",
+      "award_received"
+    ],
+    [
+      "Gerhard Domagk",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerhard Domagk",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Lawrence Bragg",
+      "Nobel Prize in Physics",
+      "award_received"
+    ],
+    [
+      "Raymond Davis Jr",
+      "Nobel Prize in Physics",
+      "award_received"
+    ],
+    [
+      "Leonid Hurwicz",
+      "Nobel Prizes",
+      "award_received"
+    ],
+    [
+      "Lloyd",
+      "Nobel Prizes",
+      "award_received"
+    ]
+  ]
+}

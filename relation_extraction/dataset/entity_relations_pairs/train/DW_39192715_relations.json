@@ -1,0 +1,85 @@
+{
+  "content": "German Chancellor Angela Merkel urges swift Brexit talks after UK vote\nAngela Merkel says she does not expect a major delay in Brexit talks following the unexpected result in the British election. EU officials are anxious about the UK's lack of mandate to negotiate its exit from the bloc.\nGerman Chancellor Angela Merkel said she was hopeful that Britain would stick to the Brexit plan following the snap general election that saw the ruling Conservative Party lose some of its parliamentary seats. The talks about Britain's exit from the 28 member European Union are scheduled for June 19 but the election results have cast doubts about them. British Prime Minister Theresa May had hoped to win a bigger mandate in the snap vote and improve her position in negotiations with the EU on Brexit. After the Labor Party's surge in the general election, its leader Jeremy Corbyn said Prime Minister May did not have the clear mandate to carry forward Brexit talks with the EU. Merkel optimistic \"On our side we are ready to negotiate and prepared,\" Merkel said Friday in Mexico City after talks with President Enrique Pena Nieto, adding that she hoped Britain was also interested in sticking to the agreed negotiating schedule. \"I assume that Britain, from what I heard from the prime minister today, wants to stick to its negotiating plan,\" Merkel told a news conference alongside President Nieto. \"We want to negotiate quickly, we want to negotiate in the agreed timeframe,\" Merkel added. So far, May has not hinted at any deviation from the plan. - Opinion: Theresa May's devastating miscalculation - When European politicians bet big - and lost The German chancellor pointed out that regardless of Britain's imminent exit from the EU, the country will remain a good partner with the bloc. \"Britain is a member of NATO, so we have a lot of shared challenges to deal with, and that's the spirit we want to carry out these negotiations in. But obviously while also asserting the interests of the 27 member states that will make up the European Union in future,\" she underlined. shs/jm (dpa, AFP, Reuters)",
+  "relations": [
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Theresa May",
+      "Britain",
+      "agent_of"
+    ],
+    [
+      "Theresa May",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Theresa May",
+      "Britain",
+      "head_of_gov"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Conservative Party",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Conservative Party",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Labor Party",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Labor Party",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Jeremy Corbyn",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Jeremy Corbyn",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Jeremy Corbyn",
+      "Labor Party",
+      "head_of"
+    ],
+    [
+      "Jeremy Corbyn",
+      "Labor Party",
+      "member_of"
+    ]
+  ]
+}

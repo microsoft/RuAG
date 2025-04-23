@@ -1,0 +1,50 @@
+{
+  "content": "Opinion: The biggest loser of the polls is Europe itself\nEurope has voted and not even half of the electorate bothered to cast their vote. That's shameful. So little commitment for the only democratically-elected institution of the European Union is alarming.\nThe supranational parliament of 27 states is unparalleled in the world. But this unique chance doesn't seem to matter at all to most Europeans. It's not just lazy voters who are to blame for the debacle, European politicians are also largely to blame. As is normally the case, 27 national election campaigns were fought, with little evidence of any specific European election campaigns. At home politicians tend to lay into those politicians in Brussels, although they often share responsibility for decisions taken at EU level. In Eastern Europe's younger democracies the situation is even worse. There seems to be no comprehension of how important the European Parliament is in all areas of daily life. As in previous EU elections, governments are punished with only a few exceptions. The results of the European elections themselves point towards continuity. Victory for the conservative and center-right parties. The Socialists remain the second strongest force and the liberals stay the third strongest block. The Euro-sceptics and right-wing extremists might have caused uproar in a few countries, but they do not play a large role in the general make-up of the European Parliament. Even if they were to form into a parliamentary grouping, they do not have any major influence. EU Commission President Jose Manuel Barroso has even reason to celebrate. The conservative politician can remain in office for another five years, because it's usually the case that the Commission President comes from the same political family as the majority party represented in parliament. In the largest EU member state, Germany, it was the same story as in the rest of the EU. National topics dominated the scene. The election winners from the conservative CDU, the Left Party, the liberal FDP and the Greens declared the election a test for the federal polls in September. The election losers, the Social Democrats, though, dismiss any idea that Sunday’s outcome will affect the national vote. It's the same old story after every election. But because of the exceptionally low electoral turnout it is indeed hard to make a reliable prediction for Germany's upcoming national elections. One thing's for certain: The election loser is Europe, because far too many voters are not interested in European politics. Author: Bernd Riegert Editor: Andreas Illmer",
+  "relations": [
+    [
+      "European Parliament",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Jose Manuel Barroso",
+      "European Union",
+      "head_of"
+    ],
+    [
+      "Jose Manuel Barroso",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "CDU",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "FDP",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ]
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "content": "Iran calls for end to Saudi air campaign, as US warns Tehran over Yemen\nIran's president has called for an end to Saudi-led airstrikes on Houthi rebels in Yemen. This came after the United States warned Tehran against its alleged involvement in the conflict in Yemen.\nIranian President Hassan Rouhani used an address broadcast live on national television on Thursday to call on the coalition led by Saudi Arabia to immediately halt its campaign of air strikes on the Shiite Houthi rebels seeking to overthrow Yemeni President Abd Rabbu Mansour Hadi. Shiite Iran is widely thought to be supporting the rebels, while Sunni Saudi Arabia supports President Hadi, who fled to the Saudi capital, Riyadh over a week ago, as Houthi forces approached his southern Yemen stronghold of Aden. Earlier, Iran's naval commander announced that two war ships were being deployed to the Gulf of Aden, in a move seen as raising tensions in the region. Habibollah Sajjari, though, said in remarks reported by Iran's official Islamic Republic News Agency that the redeployment was meant only to protect commercial shipping lanes from the threat of attack by pirates. Meanwhile, the United States has warned Tehran against meddling in the conflict in Yemen. US Secretary of State John Kerry told the American public broadcaster PBS on Wednesday that Washington would stand by its allies in the Middle East, who in light of the current conflict in Yemen felt threatened by Iran. \"We're not looking for confrontation, obviously, but we're not going to step away from our alliances and our friendships and the need to stand with those who feel threatened as a consequence of the choices that Iran might be making,\" Kerry said. Situation in Aden 'nearly catastrophic' Meanwhile, heavy fighting was reported on Wednesday between forces loyal to President Hadi and the Houthi rebels who are still trying to take control of the southern port of Aden, which relief workers have warned is facing a humanitarian catastrophe. A spokesperson of for the International Committee of the Red Cross (ICRC) in Yemen told the Reuters news agency that the situation in Aden was \"nearly catastrophic.\" \"Shops are closed, so people cannot get food, they cannot get water. There are still dead bodies in the street. Hospitals are extremely exhausted,\" Marie Claire Feghali said. Another aid organization, Medecins Sans Frontieres (MSF), though, said a ship carrying 2.5 tonnes of medicine had docked in Aden's port on Wednesday, marking the first medicinal aid shipment since the fighting broke out in the city three weeks ago. The ICRC also said that a surgical team had arrived by boat in Aden. pfd/jil (Reuters, dpa, AP)",
+  "relations": [
+    [
+      "Houthi",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "Houthi",
+      "Yemeni",
+      "based_in0-x"
+    ],
+    [
+      "International Committee of the Red Cross",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "International Committee of the Red Cross",
+      "Yemeni",
+      "based_in0-x"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "John Kerry",
+      "United States",
+      "minister_of"
+    ],
+    [
+      "John Kerry",
+      "American",
+      "minister_of-x"
+    ],
+    [
+      "Abd Rabbu Mansour Hadi",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Abd Rabbu Mansour Hadi",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Abd Rabbu Mansour Hadi",
+      "Yemeni",
+      "citizen_of-x"
+    ],
+    [
+      "Abd Rabbu Mansour Hadi",
+      "Yemen",
+      "head_of_state"
+    ],
+    [
+      "Abd Rabbu Mansour Hadi",
+      "Yemeni",
+      "head_of_state-x"
+    ],
+    [
+      "Saudi",
+      "Saudi Arabia",
+      "gpe0"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Tehran",
+      "Iranian",
+      "in0-x"
+    ],
+    [
+      "Iranian",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "Hassan Rouhani",
+      "Iran",
+      "agent_of"
+    ],
+    [
+      "Hassan Rouhani",
+      "Iran",
+      "citizen_of"
+    ],
+    [
+      "Hassan Rouhani",
+      "Iranian",
+      "citizen_of-x"
+    ],
+    [
+      "Hassan Rouhani",
+      "Iran",
+      "head_of_state"
+    ],
+    [
+      "Hassan Rouhani",
+      "Iranian",
+      "head_of_state-x"
+    ],
+    [
+      "Yemeni",
+      "Yemen",
+      "gpe0"
+    ],
+    [
+      "Riyadh",
+      "Saudi Arabia",
+      "in0"
+    ],
+    [
+      "Riyadh",
+      "Saudi",
+      "in0-x"
+    ],
+    [
+      "Aden",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Aden",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Islamic Republic News Agency",
+      "Iran",
+      "agency_of"
+    ],
+    [
+      "Islamic Republic News Agency",
+      "Iranian",
+      "agency_of-x"
+    ],
+    [
+      "Islamic Republic News Agency",
+      "Iran",
+      "based_in0"
+    ],
+    [
+      "Islamic Republic News Agency",
+      "Iranian",
+      "based_in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "PBS",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "PBS",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "PBS",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "PBS",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Marie Claire Feghali",
+      "International Committee of the Red Cross",
+      "member_of"
+    ],
+    [
+      "Marie Claire Feghali",
+      "International Committee of the Red Cross",
+      "spokesperson_of"
+    ]
+  ]
+}

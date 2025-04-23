@@ -1,0 +1,150 @@
+{
+  "content": "On the spot: Paulo Guerrero\nNow a regular starter at Hamburg, the Peruvian striker spent two years on Bayern's bench. Guerrero hasn't made Hamburg fans forget club legend Uwe Seeler, but he doesn't put much stock in older role models.\nDWTV: Whose posters did you have in your room as a boy? Paulo Guerrero: I didn't like posters. DWTV: Stickers maybe? Paulo Guerrero: No. But I am a big fan of Zinedine Zidane, Thierry Henry and Ronaldo. They always fascinated me. They're my role models. DWTV: Hopefully you won't cut your hair like Ronaldo. Paulo Guerrero: No, everyone has their own look Guerrero not only has the hair, he's got the game too. He showed that by scoring five goals in his first four games for Bayern back in 2004. But he's never really managed to match that fantastic form since. Known as a shy and reserved player, he says the key to finding the net is confidence. Paulo Guerrero: I had already scored 21 goals for Bayern Munich's amateur side. I was very proud of that. So I came into those games with a lot of confidence, and the goals just happened. My coach Felix Magath always told me: Score your goal, score your goal! That's all he asked, for me to score a goal. And I believed in myself so I always scored one or two. DWTV: At the age of 18 you joined a squad full of stars like Michael Ballack, Lucio, Ze Roberto and Roy Makaay. Was that more intimidating or inspiring? Paulo Guerrero: They inspired me. They were very good players technically. I wanted to play at their level and get better. That also gave me the confidence to play alongside them. DWTV: You didn't start for Bayern so you went to Hamburg. But you had trouble there at first? Why was that? Paulo Guerrero: It was very hard for me to leave Bayern. It was very difficult after four years. I left my son and many of my friends behind. The first year in Hamburg was very hard. In my mind, I was still in Munich. I kept asking myself: \"Why did you come here?\" It was hard to get used to a new city so my first year at Hamburg wasn't that successful. DWTV: Was coach Thomas Doll part of the problem? Paulo Guerrero: No, definitely not. It wasn't the coach's fault. It was mine. I didn't have enough experience. I was only 22. It was hard, but that's in the past. Now I'm living in the present and I'm very happy in Hamburg. 2007/8 was Guerrero's breakthrough season. He scored 9 league goals and 5 in the UEFA Cup. And this time around his sights are set even higher. DWTV: Can Hamburg win the league this season? Paulo Guerrero: Most of our players are young and hungry for success. They want to get the job done. A lot of players here have attracted attention to themselves and play at a high level. In my opinion, we could win the title this year. DWTV: Do you have a clear target for the UEFA Cup? Paulo Guerrero: Of course. Last season we almost made the final and we put up a good fight in the Bundesliga too. We get along well as a team. We've got players with potential and we're hungry for success. Even as a teenager, Guerrero played for the national side in his native Peru. His first goal came as a substitute, but he's been a consistent member of the squad. DWTV: So what's more important to you, club or country? Paulo Guerrero: It's very different playing for Peru than playing for a club. You're not allowed to lose. I don't want to lose with Hamburg either, but when I put on the Peruvian jersey it's very different. Those are my people, my stadium. It's great playing in front of the crowd in Lima. What player doesn't want to play for his national side? DWTV: A lot of Latin American players dream of coming to Europe, something you did as a youngster. Wouldn't you have liked to play professionally in Peru as well? Paulo Guerrero: Of course, I would have, but Peruvian football isn't doing so well. There's no progress in the management, infrastructure and organization. In Europe, the situation is the opposite. So my parents always though I should go to Europe as soon as I got an offer.",
+  "relations": [
+    [
+      "Paulo Guerrero",
+      "Peru",
+      "citizen_of"
+    ],
+    [
+      "Paulo Guerrero",
+      "Peruvian",
+      "citizen_of-x"
+    ],
+    [
+      "Paulo Guerrero",
+      "Hamburg",
+      "member_of"
+    ],
+    [
+      "Paulo Guerrero",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Paulo Guerrero",
+      "Peru",
+      "member_of"
+    ],
+    [
+      "Paulo Guerrero",
+      "Hamburg",
+      "player_of"
+    ],
+    [
+      "Paulo Guerrero",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Paulo Guerrero",
+      "Peru",
+      "player_of"
+    ],
+    [
+      "Hamburg",
+      "UEFA Cup",
+      "appears_in"
+    ],
+    [
+      "Hamburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Peruvian",
+      "Peru",
+      "gpe0"
+    ],
+    [
+      "Uwe Seeler",
+      "Hamburg",
+      "member_of"
+    ],
+    [
+      "Uwe Seeler",
+      "Hamburg",
+      "player_of"
+    ],
+    [
+      "Felix Magath",
+      "Bayern Munich",
+      "coach_of"
+    ],
+    [
+      "Felix Magath",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Michael Ballack",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Michael Ballack",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Lucio",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Lucio",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Ze Roberto",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Ze Roberto",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Roy Makaay",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Roy Makaay",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Thomas Doll",
+      "Hamburg",
+      "coach_of"
+    ],
+    [
+      "Thomas Doll",
+      "Hamburg",
+      "member_of"
+    ],
+    [
+      "Peru",
+      "Peru",
+      "based_in0"
+    ],
+    [
+      "Peru",
+      "Peruvian",
+      "based_in0-x"
+    ],
+    [
+      "Lima",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Lima",
+      "Peruvian",
+      "in0-x"
+    ]
+  ]
+}

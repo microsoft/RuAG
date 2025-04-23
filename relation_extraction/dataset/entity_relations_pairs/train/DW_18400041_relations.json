@@ -1,0 +1,80 @@
+{
+  "content": "Merkel: Mediterranean deaths 'incompatible with EU values'\nGerman politicians have urged better financing for sea rescues and fair distribution of refugees across the EU. EU leaders are set to discuss how to stop migrant tragedies in the Mediterranean at a special summit.\nWednesday's discussion in the Bundestag, the lower house of German parliament, began with representatives standing in a gesture of mourning for the hundreds of people who drowned in the Mediterranean Sea over the weekend. In a cabinet session earlier Wednesday, German Chancellor Angela Merkel made clear that \"images of drowned people are incompatible with the values of the European Union,\" deputy government spokeswoman Christiane Wirtz said in Berlin, adding that the EU's first priority must be saving human lives. European leaders have faced criticism this week for their policies towards people from Africa, Asia and the Middle East embarking on perilous journeys to reach Europe - fleeing conflict, persecution and poverty. An estimated 800 people drowned Sunday when the overcrowded boat they were in sank off the coast of Libya. According to the International Organization for Migration, more than 1,750 people have drowned so far this year in the Mediterranean Sea, trying to get to EU territory. The discussion in the Bundestag comes ahead of a special EU meeting called for Thursday in Brussels, where member states' leaders will discuss a 10-point plan including expanding sea rescue efforts, action against people smugglers and how to better distribute refugees across the EU for resettlement. Warning against expecting quick solutions German Foreign Minister Frank-Walter Steinmeier told the Bundestag that Europe could not shirk its responsibility to the migrants, while at the same time warning against expecting quick solutions. \"Effort, time and investment\" were necessary to stabilize the situation in transit countries such as Libya, he said. He also pointed to the need for greater efficiency in tackling criminal bands of people smugglers. He said it was right for the EU to double its current emergency sea rescue operations. German Interior Minister Thomas de Maiziere also considered the sea rescues as an urgent priority, reacting positively to the suggestion of doubling the funding for sea rescues. \"It could also be tripled,\" he said, adding that \"migration is not allowed to become a question of life and death.\" Tripling the budget for the Triton border protection program would bring it close to - but not quite equal to - the former funding level of Mare Nostrum, the Italian sea rescue operation. That rescue program was launched in response to mass migrant deaths off the island of Lampedusa in October 2013. Mare Nostrum, however, was canceled late last year as some politicians said it created an incentive for migrants to take to unseaworthy vessels and risk their lives crossing the Mediterranean. The current EU mission, called Triton, has been billed as its partial replacement for Mare Nostrum, but its mandate was more limited in scope and centered on border protection, not rescue. De Maiziere also discussed measures for destroying what he called the \"deadly boats\" used by people smugglers. He also called for refugees to be distributed more evenly across the 28-member EU. Opposition Green party whip Katrin Göring-Eckardt called for means to enable people to flee legally to Europe so people smugglers would not be needed. \"We need safe corridors,\" she said. se/sms (AFP, dpa, epd)",
+  "relations": [
+    [
+      "Thomas de Maiziere",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Christiane Wirtz",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Christiane Wirtz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Green",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "Green",
+      "head_of"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "Green",
+      "member_of"
+    ]
+  ]
+}

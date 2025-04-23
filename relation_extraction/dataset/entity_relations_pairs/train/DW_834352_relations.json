@@ -1,0 +1,190 @@
+{
+  "content": "More Money than the Nobel Prize\nGermany is well-known for its many past scientific achievements, but today it struggles to keep up with international research. But two new science awards are leading researchers back to German labs.\nTen years ago German immunologist Joachim Schultze started working at Harvard Medical School in Boston. Like many top German scientists, he had been lured to the United States because of the good conditions for research including excellent funding. And Schultze likely would have stayed at Harvard if he hadn’t been awarded one of 43 research stipends worth a total of around €36 million ($39 million). Now he’s back in Germany carrying on with his cancer research at the University of Cologne. Schultze and others have profited from two new German research prizes: the Wolfgang Paul award for scientists from abroad and the Sofja Kovalevskaja award for young scientists. Both were awarded for the first and only time in the autumn of 2001. The money for the awards came from the sale of German third-generation moblie phone licenses in 2000, which added €50.5 billion to the government's coffers. The Alexander von Humboldt Foundation and the German Federal Ministry for Education and Research awarded the stipends, which were meant to finance years of scientific research in Germany. Individual prize-winners received up to €2.3 million, twice the amount that Nobel prize-winners take home. Aims met Expectations were particularly high for the prize-winners, said Humboldt Foundation spokesman Florian Krebs. He said the first year and a half had been very successful. Russian physicist and Wolfgang Paul award laureate Alexei Khokhlov has also pleased with the results. The award has fulfilled its aim of introducing new prospects for research at German universities, he told DW-WORLD. With his prize-money Khokhlov has been able to establish a project dealing with research into polymer physics -- which deals with materials made up of large molecules -- at the University of Ulm. Khokhlov says one of Germany’s weaknesses in science is that universities can’t pick and choose their students. Instead institutions of higher learning, the vast majority of which are public, are obliged to accept any applicant with a German high school diploma. Undeserved reputation Germany doesn’t deserve its reputation as a bad place for science, said immunologist Schultze. But changes are necessary. For one, universities need not all have the same capacities, he says. He recommends the development of \"centers of excellence\" like in the United States with world-class universities like Harvard, Stanford and Yale. And Schultze points out that German scientists still have to learn a lesson their American colleagues figured out long ago: it pays to advertise. He said scientists should start using public relations to draw attention to their own high level research. Though Germany may never be able to compete with the United States for research funding, the new awards may just convince a few more scientists like Schultze to leave Boston for the likes of Cologne.",
+  "relations": [
+    [
+      "Joachim Schultze",
+      "Wolfgang Paul",
+      "award_received"
+    ],
+    [
+      "Joachim Schultze",
+      "Sofja Kovalevskaja",
+      "award_received"
+    ],
+    [
+      "Joachim Schultze",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Joachim Schultze",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Joachim Schultze",
+      "University of Cologne",
+      "member_of"
+    ],
+    [
+      "Joachim Schultze",
+      "Harvard Medical School",
+      "member_of"
+    ],
+    [
+      "University of Cologne",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Cologne",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "University of Cologne",
+      "Cologne",
+      "based_in2"
+    ],
+    [
+      "Alexei Khokhlov",
+      "Wolfgang Paul",
+      "award_received"
+    ],
+    [
+      "Alexei Khokhlov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Alexei Khokhlov",
+      "University of Ulm",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Harvard Medical School",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Harvard Medical School",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Harvard Medical School",
+      "Boston",
+      "based_in2"
+    ],
+    [
+      "Boston",
+      "United States",
+      "in0"
+    ],
+    [
+      "Boston",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Harvard",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Harvard",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Federal Ministry for Education and Research",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Ministry for Education and Research",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Ministry for Education and Research",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Ministry for Education and Research",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Federal Ministry for Education and Research",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Florian Krebs",
+      "Alexander von Humboldt Foundation",
+      "member_of"
+    ],
+    [
+      "DW-WORLD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW-WORLD",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "University of Ulm",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Ulm",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Stanford",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Stanford",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Yale",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Yale",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

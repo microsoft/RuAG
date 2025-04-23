@@ -1,0 +1,245 @@
+{
+  "content": "China may not be the EU's answer to US protectionism\nThere is currently tension in the triangle of globalization powerhouses as the EU, US and China try to maintain cooperative growth amid US protectionism and Chinese ambition. Healthy competition hangs in the balance.\nAt the G20 finance ministers meeting in Germany on Friday, March 17, finance ministers from the world's largest economies were struggling to find consensus on free trade and protectionism for their final communiqué due to be released Saturday. German Finance Minister Wolfgang Schäuble told reporters that \"It's possible that we explicitly exclude the topic of trade in Baden-Baden and say that can only be resolved at the summit of the state and government leaders.\" And in a phone conversation on Thursday, German Chancellor Angela Markel and Chinese President Xi Jinping, both expressed concern about the direction of US trade policy. Last year, China surpassed the US as Germany's largest trading partner. The uncertainty at the G20 and the handshaking between Berlin and Beijing are in response to an anticipated US turn to protectionism under President Donald Trump's \"America First\" economic rhetoric and statements from Trump threatening import duties on Chinese and German goods. In February, Reuters reported that the EU was preparing an \"early\" summit in April or May with China to \"promote free trade and international cooperation\" in the face of protectionism from Washington. The report suggests that China wants to reemphasize President Xi Jinping's performance at the World Economic Forum in Davos where he championed China as a bastion of globalization. But behind diplomatic assurances of cooperation and open markets between China and the EU vis á vis a new tone in Washington, the US and the EU share concerns that if China becomes the leader in key global industries, they will able to form their own protectionist policies and cut out western companies in favor of domestic enterprises. A great wall of innovation The EU Chamber of Commerce in China recently released a report criticizing Beijing's plan \"Made in China 2025,\" which calls for a giant increase in Chinese domestic production in key industries like transportation, robotics and renewable energy. They argue that eventually China will be able to discriminate against foreign companies, or pressure foreign businesses to give up technology in return for near-term market access. Unlike in the EU and US, China is more able to manipulate its domestic market with government subsidies of preferred companies instead of allowing market competition to determine which enterprises succeed. European and American companies would find it hard to compete with government-supported Chinese firms. \"A decision to continue to use industrial policy to set market share targets for both China's domestic and international markets instead of allowing the market to determine who wins would come at Europe's expense,\" Lance Noble, policy and communications manager at the European Union Chamber of Commerce in China, told DW. \"If they are allowed to compete on an even playing field, European firms with advanced knowhow and products can make an important contribution to this process,\" added Noble. Mirjam Meissner, head of the economy and technology program at the Berlin-based Mercator Institute of China Studies (MERICS) told DW that, in general, China wouldn't grow at Europe's expense, but that government intervention in industries would lead to market conditions that discriminate against foreign companies on the Chinese market. \"In those sectors that have been identified by the Chinese government as strategic industries, this potentially leads to a painful decrease of market share for European companies within a few years,\" said Meissner. Growth is good China's aim to liberalize its markets and become a global innovator is a positive thing for the global economy, but for observers, the question remains how they go about growing key industries at the will of market mechanisms free of government subsidies. \"Government intervention in the market and state steering of investment, both in China and Europe, is an integral part of the 2025 initiative,\" said Noble. \"Unfortunately, governments are not well placed to pick winners or to determine which industries will drive future development.\" But there are many indications that China is developing a large number of dynamic and innovative companies using a less direct form of government intervention. \"While the 'old' model of creating markets with the help of massive government funding still exists and poses a certain risk for the success of the strategy, the methods of government intervention have become subtler and more diversified in the past few years,\" said Meissner, adding that the government would use a \"fine-tuned\" system of policy measures to steer the economy and market players into the direction it is aiming at. The eagle and the dragon In the US, a report recently released by the Washington-based technology and innovation think tank, the Information Technology and Innovation Foundation (ITIF) took a much more direct tone regarding Chinese industrial ambitions under Made in China 2025 than the EU report. The report stated clearly that Chinese \"mercantilism\" was a direct threat to the US economy and the global trading system. Robert Atkinson, economist and president of the ITIF, told DW that the US would need to work with allies in the EU to \"constructively push back\" against Chinese \"innovation mercantilism.\" \"The United States will have to lead this coalition but European nations will have to be willing to participate and not sit on the sidelines in the hope that the US plays the role of 'bad cop' while they sit back and enjoy 'good' relations with China,\" said Atkinson. \"Chinese firms are heavily dependent on government support, and taking advantage of foreign firms, in developing local champions in these sectors,\" added Atkinson. \"No doubt there are pockets of genuine innovation and competitiveness in some high-tech sectors in China, but the vast majority of the activity we see happening in these high-tech sectors is driven by the government, which leads to ineffective policies and wasteful spending.\" \"If the Chinese government wanted to significantly curb its innovation mercantilist policies and actions it could easily do so. They simply chose not to do so because they want to gain global market share in advanced industries,\" said Atkinson. Can everyone work together? The balance between the world's three economic powerhouses is in a state of continual flux as each player tries to gain influence, maintain dominance or ensure stability. Whether the EU or the US constructively participate in China's growth and increasing gravity in a globalized economy depends on identifying common goals and common outcomes, which can benefit enterprise while being politically palatable for each region. \"China will improve economic governance and transparency, but its understanding of both substantially differs from what we would assume in Europe,\" said Meissner at MERICS. \"We should not expect China to turn into a liberal market economy based on our standards of economic governance and transparency. Instead, China is about to develop its own model of economic governance and it is highly likely that this will provide a strong basis for fast industrial development.\"",
+  "relations": [
+    [
+      "Donald Trump",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Donald Trump",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Information Technology and Innovation Foundation",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Information Technology and Innovation Foundation",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Information Technology and Innovation Foundation",
+      "Washington",
+      "based_in2"
+    ],
+    [
+      "Mercator Institute of China Studies",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Mercator Institute of China Studies",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Mercator Institute of China Studies",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Robert Atkinson",
+      "Information Technology and Innovation Foundation",
+      "head_of"
+    ],
+    [
+      "Robert Atkinson",
+      "Information Technology and Innovation Foundation",
+      "member_of"
+    ],
+    [
+      "Mirjam Meissner",
+      "Mercator Institute of China Studies",
+      "head_of"
+    ],
+    [
+      "Mirjam Meissner",
+      "Mercator Institute of China Studies",
+      "member_of"
+    ],
+    [
+      "Lance Noble",
+      "European Union Chamber of Commerce in China",
+      "head_of"
+    ],
+    [
+      "Lance Noble",
+      "European Union Chamber of Commerce in China",
+      "member_of"
+    ],
+    [
+      "European Union Chamber of Commerce in China",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Union Chamber of Commerce in China",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Baden-Baden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Baden-Baden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Angela Markel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Markel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Markel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Markel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Markel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "agent_of"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Xi Jinping",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "head_of_state"
+    ],
+    [
+      "Xi Jinping",
+      "Chinese",
+      "head_of_state-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "World Economic Forum",
+      "Davos",
+      "event_in2"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

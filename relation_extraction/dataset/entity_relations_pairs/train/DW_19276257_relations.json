@@ -1,0 +1,100 @@
+{
+  "content": "Opinion: Without Mullah Mansour things will get worse\nThe United States is presumably hoping that a moderate Taliban leader will step into the shoes of the hard-liner Mullah Mansour. That hope is based more on desperation than calculation, DW's Florian Weigand writes.\nThe United States has just provided confirmation that talking to the Taliban about peace is impossible right now. Early Sunday, they tried to kill the Taliban leader Mullah Akhtar Mansour with a drone attack - successfully, it seems, according to reports from Afghanistan's government. The only way this attack makes any sense is if any readiness to talk has been completely ruled out and Washington is hoping for a successor who is more open. Peace talks have been going on for months now, with a group of four - the US, China, Pakistan and Afghanistan - at the table. However, the Taliban's chair has always remained empty, in spite of both attempts to win them over and background pressure from the intelligence services. Mullah Mansour's undoing was presumably that he was, from the Taliban's point of view, very successful and able to reject talks without turning a hair. He was covertly pulling the strings even before he officially took over the leadership in the summer of 2015. By then, his predecessor, the infamous Mullah Omar, had been dead for two years: His death was kept secret to give Mullah Mansour time to establish himself fully. His leadership, once it became official, had a spectacular beginning. Last autumn, some two years after the withdrawal of German troops, the Taliban succeeded in capturing the former German army base in Kunduz for several days. It was only with difficulty, and with the support of specialist units and the US Air Force, that the Afghan military was able to recapture this symbolically important position. Taliban march on The Taliban are gaining ground elsewhere in Afghanistan, too. They claim to be active in 70 percent of the country. This is sure to be unconfirmed propaganda, but it may still be closer to the truth than the airbrushed reports of the government in Kabul. It is certainly the case that NATO is, once again, having to intervene more and more often in the fighting, and that its mandate will be extended beyond 2017. Even if the reports should turn out to be incorrect - as happened a few months ago - Kabul and Washington will not rest until they have hunted down Mullah Mansour. Will it then really be possible to start over with a more moderate Taliban leader? That's certainly the hope in Kabul, Washington and Islamabad. Diplomats and intelligence agencies will be sure to try to lever a more balanced dialog partner into position. Pakistan in particular is needed for this - the country has a long reputation of being very close to the Taliban. The strategy is unlikely to pay off, though. In the fight for succession, potential candidates will have to make their mark in the eyes of their followers - and the only way to do that is with spectacular terrorist attacks or conquests. The splendor of the Mullah Mansour era is the benchmark they will have to surpass. Experience has shown that the Taliban are able to score local successes even without central leadership. Its fighters know what their goal is, and they don't need orders from on high to tell them: the overthrow of the government in Kabul and the withdrawal of all foreign troops, followed by an Islamic state, as they had before, in the 1990s. These are not good prospects for a negotiated peace. The United States, Kabul and Islamabad may fervently wish for something different, but the Taliban may be more likely to elect an even more uncompromising leader: They already see themselves on the path to victory. The attack on Mullah Mansour was more an act of desperation than the cool calculation of the possibility of making a new start with a new leader. Do you have something to say? Add your comments below. The thread is open for 24 hours.",
+  "relations": [
+    [
+      "Mullah Akhtar Mansour",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Mullah Akhtar Mansour",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Mullah Akhtar Mansour",
+      "Taliban",
+      "head_of"
+    ],
+    [
+      "Mullah Akhtar Mansour",
+      "Taliban",
+      "member_of"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Florian Weigand",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Mullah Omar",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Mullah Omar",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Mullah Omar",
+      "Taliban",
+      "head_of"
+    ],
+    [
+      "Mullah Omar",
+      "Taliban",
+      "member_of"
+    ],
+    [
+      "Kunduz",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kunduz",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "US Air Force",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "US Air Force",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Kabul",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kabul",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Islamabad",
+      "Pakistan",
+      "in0"
+    ]
+  ]
+}

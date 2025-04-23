@@ -1,0 +1,75 @@
+{
+  "content": "Credit rating agency slaps Italy with negative forecast\nStandard & Poors has slapped Italy with a negative forecast, raising the prospect that the credit rating of the eurozone's third-largest economy could be slashed.\nThe credit rating agency Standard & Poors has downgraded its forecast for Italy from \"stable\" to \"negative,\" citing a weak economy and poor prospects for reducing Rome's massive debts. The negative forecast implies that there is a one-and-three chance Italy's credit rating could be downgraded within the next 24 months. A downgrade of Rome's credit rating may raise fear among investors that the debt crisis which has gripped Greece, Ireland and Portugal will spread to Italy, the eurozone's third largest economy. \"In our view, Italy's current growth prospects are weak and the political commitment for productivity-enhancing reforms appears to be faltering,\" Standard & Poors said in a statement. \"Potential political gridlock could contribute to fiscal slippage. As a result, we believe Italy's prospects for reducing its general government debt have diminished.\" Italy reacts The Italian Department of the Treasury strongly criticized Standard & Poors, saying that data on its economic growth and public accounts had \"constantly been better than expected.\" The treasury went on to say that major international organizations such as the Organization for Economic Cooperation and Development (OECD), the International Monetary Fund (IMF) and the European Commission have given \"very different\" assessments of Italy's economy. The negative forecast comes after Italian Prime Minister Silvio Berlusconi, who faces a string of corruption and sex trials, suffered a major setback in local elections in his hometown Milan. Author: Spencer Kimball (AP, Reuters) Editor: Toma Tasovac",
+  "relations": [
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "head_of_gov"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Rome",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Rome",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Department of the Treasury",
+      "Italy",
+      "agency_of"
+    ],
+    [
+      "Department of the Treasury",
+      "Italian",
+      "agency_of-x"
+    ],
+    [
+      "Department of the Treasury",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Department of the Treasury",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Milan",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Milan",
+      "Italian",
+      "in0-x"
+    ]
+  ]
+}

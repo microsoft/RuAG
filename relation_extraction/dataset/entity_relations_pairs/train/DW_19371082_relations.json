@@ -1,0 +1,110 @@
+{
+  "content": "Alpine 'Crypto Valley' pays with Bitcoins\nThe town of Zug in Switzerland wants to become the center of a Swiss \"Crypto Valley.\" Residents can now pay their fees in Bitcoin, and Fintech companies in the region are closely watching this experiment.\nZug's mayor, Dolfi Müller, was surprised by the considerable media response. The city council was simply looking for a creative way to grease Zug's economy, \"With Bitcoin, we're sending a message: We in Zug want to get out in front of future technologies,\" he told DW. The council only realized in hindsight that their decision would make history. Zug is the first locality in the world to accept the digital currency. It's a humble start; payments are limited to the equivalent of 200 Swiss francs. Müller wanted to keep risk low while Zug tests the waters, he's aware of the controversy surrounding Bitcoin. Some argue the digital currency isn't secure enough for civilian use. Bitcoin's market price is volatile and scammers are still all too common. To mitigate this insecurity, all Bitcoin payments in Zug are immediately converted into the Swiss currency. \"That's what the stock exchange is for,\" says Müller, \"it saves us from losing huge amounts in nanoseconds.\" Feline micro-finance with Bitcoin Zug is a picturesque Swiss town complete with a lake and panoramic views of the Alps. The taxes are low, but rent is through the roof. The population is international. Maybe that's why Bitcoin enjoys near universal approval among Zug's residents. There were few complaints as to the opacity of the origins of Bitcoins. On the contrary, many people find Bitcoin transactions refreshing because they cut out a middleman - the banks. One woman is organizing a project to castrate stray cats on the island of Santorini. To expect to receive large donations for this project is naïve, she says. Instead, she's turning to micro-finance, which Bitcoin is perfect for because it skirts banks fees. Bitcoins at the dentist However, Bitcoin still hasn't found its way into day-to-day transactions. Hotels, stores and restaurants don't accept the currency. Abbas Hussain-Probst is the exception. The dentist offers his patients the opportunity to rid themselves of toothache with Bitcoins instead of francs. But according to the dentist, public trust in Bitcoin is still low. Only a handful of his patients have paid with Bitcoin in the past year, and all of them work in IT. Of course, these are the people Zug's city council had in mind when they began accepting the digital currency. Moving toward a 'Crypto Valley' About 20 fintech companies have recently settled in Zug and neighboring Baar, including Bitcoin Suisse. The company has servers up in the Alps that run highly complex mathematical functions to mine new Bitcoins. To help popularize Bitcoins, the company also runs a number of Bitcoin-ATMs. One stands in Kafi Schoffel, a restaurant in Zürich. In exchange for francs or euros, the machine spits out a nondescript strip of paper with a QR code on it. This code, when scanned by a smartphone, can be used as payment. Kafi Schoffel customers use them to buy cappuccinos. Niklas Nikolajsen, CEO of Bitcoin Suisse, predicts it will still take a number of years before digital currencies enjoy widespread use. But he's sure the day will come when everyone buys their cappuccinos with Bitcoins. Nikolajsen says digital currencies reduce barriers to the global economy, \"A taxidriver in Nairobi might be unable to accept credit cards because of high fees, but all he has to do is buy a five-dollar smartphone to accept Bitcoins.\"",
+  "relations": [
+    [
+      "Zug",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Zug",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Dolfi Müller",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Dolfi Müller",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Dolfi Müller",
+      "Zug",
+      "head_of_gov"
+    ],
+    [
+      "Dolfi Müller",
+      "Zug",
+      "mayor_of"
+    ],
+    [
+      "Niklas Nikolajsen",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Niklas Nikolajsen",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Niklas Nikolajsen",
+      "Bitcoin Suisse",
+      "head_of"
+    ],
+    [
+      "Niklas Nikolajsen",
+      "Bitcoin Suisse",
+      "member_of"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ],
+    [
+      "Abbas Hussain-Probst",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Abbas Hussain-Probst",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Baar",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Baar",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Bitcoin Suisse",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Bitcoin Suisse",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Kafi Schoffel",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Kafi Schoffel",
+      "Zürich",
+      "in2"
+    ],
+    [
+      "Zürich",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Zürich",
+      "Swiss",
+      "in0-x"
+    ]
+  ]
+}

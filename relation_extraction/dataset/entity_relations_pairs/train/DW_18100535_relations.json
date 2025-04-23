@@ -1,0 +1,100 @@
+{
+  "content": "German football president Niersbach wants FIFA spot\nGermany's most powerful football chief wants to become a key decision-maker at FIFA. The world's governing body continues to go under serious scrutiny around ongoing corruption allegations.\nIt's official: Wolfgang Niersbach, the president of the German Football Association (DFB), wants to be Europe's next representative on FIFA's executive committee when current board member Theo Zwanziger steps down next year. Zwanziger, Niersbach's predecessor at the DFB, will step down on May 24, 2015 at the FIFA Congress in Zurich. Niersbach will need to gain the support of UEFA's member countries in March to be then put forward as Europe's voice on the Executive Committee. \"I'm standing for this election because I want to defend the European position (in FIFA) and I'm convinced that German football should not lose its voice on the most important decisions,\" the 63-year-old said in a statement on Friday. Niersbach, though, will not challenge Sepp Blatter for the main post at FIFA and Michel Platini, the president of Europe's governing association UEFA, has declined to stand against Blatter too. Loud German voice Several German football officials have been criticial of the bidding process for the 2018 and 2022 World Cup, which has come under scrutiny over allegations of potential corruption and the handling of Michael Garcia's report. Niersbach has previously spoken in favor of a public release of the report, while Reinhard Rauball, president of the organization responsible for running Germany's top two divisions, the DFL, has suggested World Cup boycotts and even a potential split between UEFA and FIFA. \"He (Niersbach) can be the one to fight here for transparency and clearing everything up,\" Rauball said. \"He has outstanding international contacts and enjoys the full backing of German football.\" Delay the maiden Arab Cup On Friday, Zwanziger told German newspaper \"Rheinische Post\" that the 2022 tournament should be cancelled and spread around various Arab nations four years later in the winter. \"The United Arab Emirates, Oman and Qatar: it's a larger area and it could be held in winter from the start,\" he told the paper. \"That is what I would consider to be an acceptable solution, as it allows for society in the Gulf region to undergo a change.\" Zwanziger believes \"world football will not come to peace\" unless the small, oil-rich country Qatar is stripped of its right to host the tournament in 2022. rd/al (AP, dpa, Reuters)",
+  "relations": [
+    [
+      "German Football Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Football Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wolfgang Niersbach",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Niersbach",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Niersbach",
+      "German Football Association",
+      "head_of"
+    ],
+    [
+      "Wolfgang Niersbach",
+      "German Football Association",
+      "member_of"
+    ],
+    [
+      "Theo Zwanziger",
+      "FIFA",
+      "head_of"
+    ],
+    [
+      "Theo Zwanziger",
+      "FIFA",
+      "member_of"
+    ],
+    [
+      "Sepp Blatter",
+      "FIFA",
+      "head_of"
+    ],
+    [
+      "Sepp Blatter",
+      "FIFA",
+      "member_of"
+    ],
+    [
+      "Reinhard Rauball",
+      "DFL",
+      "head_of"
+    ],
+    [
+      "Reinhard Rauball",
+      "DFL",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Executive Committee",
+      "FIFA",
+      "part_of"
+    ],
+    [
+      "Michel Platini",
+      "UEFA",
+      "head_of"
+    ],
+    [
+      "Michel Platini",
+      "UEFA",
+      "member_of"
+    ],
+    [
+      "World Cup",
+      "Qatar",
+      "event_in0"
+    ],
+    [
+      "Rheinische Post",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Rheinische Post",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

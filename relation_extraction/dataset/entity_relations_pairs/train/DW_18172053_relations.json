@@ -1,0 +1,185 @@
+{
+  "content": "Germans take to the streets to protest anti-Islamization movement\nAnti-Islamist 'Pegida' supporters have had to cancel their appearance in Cologne, where thousands of demonstrators showed solidarity with migrants. However, thousands of anti-Islamists showed up in the city of Dresden.\n20,000 residents in Cologne and neighboring areas gathered on the streets to demonstrate against the anti-immigrant movement, Pegida. Overwhelming support for immigrants and asylum seekers in Cologne led to the Pegida demonstrators cancelling their appearance. Citizens in Cologne shouted out in jubilation, the sole goal of their demonstration being to prevent the Kögida- the name of the anti-Islam movement in Cologne- from marching in their city. Lights out in Cologne Bridges over the Rhine in Cologne and the Cologne Cathedral were plunged into darkness as demonstrators of the anti-Islamic movement gathered to protest the influx of refugees into Germany. People displayed banners saying \"We are the people\" and \"Nazis, out!\" \"We will not let a racist mob run free on Cologne's streets,\" a pamphlet said, referring to the march and rioting by the group \"Hooligans against Salafists\" last October in Cologne. Around 5,000 protesters gathered in a Berlin neighborhood, calling for more tolerance. Berlin's integration leder Dilek Kolat of the Social Democrats called the Pegida- an acronym for Patriotic Europeans against the Islamization of the West- \"an attack on peaceful co-existence in our society.\" Citizens in Munich and Stuttgart also came out into the streets. Around 1,000 people gathered in Munich's Sendlinger Tor to voice their displeasure against the anti-immigrant movement. Pegida still strong in Dresden Germany's eastern city of Dresden witnessed a strong presence of the anti-Islamists with around 18,000 Pegida supporters, who gather on Mondays, rallying against what they considered a threat to German and European values. Anti-Pegida activists in Dresden offered concrete proposals for negotiation to Pegida demonstrators for the first time on Monday. mg/bw (dpa, EPD)",
+  "relations": [
+    [
+      "Patriotic Europeans against the Islamization of the West",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Patriotic Europeans against the Islamization of the West",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Patriotic Europeans against the Islamization of the West",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresden",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Dresden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Kögida",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Kögida",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Kögida",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kögida",
+      "Cologne",
+      "based_in2"
+    ],
+    [
+      "Cologne Cathedral",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne Cathedral",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Cologne Cathedral",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Dilek Kolat",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Dilek Kolat",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Dilek Kolat",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Dilek Kolat",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Stuttgart",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Stuttgart",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Stuttgart",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Sendlinger Tor",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Sendlinger Tor",
+      "Munich",
+      "in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

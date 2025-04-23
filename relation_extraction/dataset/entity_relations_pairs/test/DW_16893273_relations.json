@@ -1,0 +1,90 @@
+{
+  "content": "UK lawmakers propose jail sentences for reckless bankers\nA British parliamentary commission has completed its work on the overhaul of the domestic banking sector. Among other things, it proposed jail terms for bankers displaying grave malpractice and causing huge damage.\nMembers of the UK's Parliamentary Commission on Banking Standards agreed Wednesday that Britain needed a radical overhaul of its scandal-hit lenders. The panel, which was mostly composed of lawmakers, concluded in its final report that senior bankers must be made personally responsible for malpractice through the introduction of a new criminal offence of reckless misconduct. It would carry a prison sentence. The reputation of the country's banking sector had been damaged in recent years by a string of scandals, including Libor rate-rigging, credit insurance mis-selling and a controversy over staff behavior and bonuses in the run-up to the 2008 global financial crisis. The level of malpractice had been \"shocking and widespread,\" said the commission's chairman, Conservative party lawmaker Andrew Tyrie. RBS cut in two? \"Taxpayers and customers have lost out, and the economy has suffered,\" the 500-page report said. \"Under our recommendations, senior bankers who seriously damage their banks or put taxpayers' money at risk can expect to be fined, banned from the industry or in the worst cases go to jail.\" The commission called for bankers to sign up to a new code of conduct under which all key responsibilities within a bank would be assigned to specific senior officials who would be held responsible. The panel also proposed that more remuneration for bankers should be deferred for longer periods of up to ten years in order to \"reflect the longer run balance between business risks and rewards.\" The commission recommended that the government consider splitting the state-rescued Royal Bank of Scotland (RBS) into a good bank and a bad one mopping up toxic assets. The report was published ahead of a key speech by Finance Minister George Osborne on his bank reform plans. hg/ipj (AFP, Reuters)",
+  "relations": [
+    [
+      "Parliamentary Commission on Banking Standards",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "Parliamentary Commission on Banking Standards",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Parliamentary Commission on Banking Standards",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Parliamentary Commission on Banking Standards",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Royal Bank of Scotland",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Royal Bank of Scotland",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Conservative",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Conservative",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Andrew Tyrie",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Andrew Tyrie",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Andrew Tyrie",
+      "Conservative",
+      "member_of"
+    ],
+    [
+      "George Osborne",
+      "Britain",
+      "agent_of"
+    ],
+    [
+      "George Osborne",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "George Osborne",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "George Osborne",
+      "Britain",
+      "minister_of"
+    ],
+    [
+      "George Osborne",
+      "British",
+      "minister_of-x"
+    ]
+  ]
+}

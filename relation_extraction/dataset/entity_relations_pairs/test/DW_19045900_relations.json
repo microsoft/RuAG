@@ -1,0 +1,110 @@
+{
+  "content": "Opinion: The pope's impossible mission in Mexico\nPope Francis's trip to Mexico is a dangerous mission - a diplomatic as well as political balancing act, one that brings with it enormous expectations. Francis won't be able to meet them, says DW's Astrid Prange.\nDead prisoners, disappearing students, refugees shot dead and murdered priests. Mexico has lived through one violent episode after the other. The mood in the nation is explosive. And now this: just a day before the pope is set to arrive, more than 50 people died in the largest prison revolt in the country's history. What meaning does the pope's presence hold on such an occasion? Only one thing is certain: Francis won't be able to resolve the problems of the world's second largest Catholic nation in just a five-day trip. The unrealistic demands placed on him are not something he can fill. Yet the pope carries with him an important message: you don't have to love your enemies but you do need to speak with them. And he's living the example himself by meeting with the Russian Orthodox Patriarch Kirill on a stopover in Cuba on his way to Mexico. Cuba all over again It's sensational! Bannings and mutual ex-communications are ancient history. Nearly a millennium after the split, the head of the Roman Catholic Church and the head of the Russian Orthodox Church are speaking to each other. It's not as if the two will become friends - their positions are far too different. Yet their centuries-old enmity feels out of place and in view of the massive worldwide persecution of Christians, almost unchristian. And both of these church leaders know this. In Mexico, efforts to stem the polarizing forces at play in society have not been successful. The extreme differences between rich and poor are dividing Mexican society. President Enrique Peña Nieto has prioritized economic growth over dialogue with his critics - a group which includes students as well as teachers and union members who regularly protest against government policies. They demand an end to lawlessness and corruption. The presumed murder of 43 teaching students in Iguala in September 2014, a crime which remains unsolved, stands as a symbol of the lawlessness sweeping Mexico. The recent mutiny in a Monterrey jail serves as further proof of the country's shortcomings in regard to human rights and the rule of law. With a visit to Ciudad Juarez and the largest prison in Mexico, Francis will only make that deficiency more transparent. Even the pope of peace has enemies. The route he's chosen to take on his travels through the country has displeased the staunchly Catholic president. A meeting with the relatives of the Iguala victims is therefore hush-hush and participation in a holy mass remains secret. Considering the tense situation in the country, it's still possible that the pope's route will change once again. The church in the pillory Even within his own church, Francis has met with opposition. A meeting he requested with victims from the church's abuse scandal will not take place - a bitter disappointment for many former seminarians who were abused by Marcial Maciel, the founder of the Legion of Christ, and members of his order. It's just one example of how impunity continues even within the church itself. None of the perpetrators have yet to answer for their crimes in court. It appears as though the pope has accomplished more on the world stage than he has brought on reforms to the Vatican. Despite the revolutionary coming together of Cuba and the US and the revolutionary meeting with Patriarch Kirill, the revolution in Rome has yet to materialize. Do you have something to say? Add your comments below. The thread to this editorial closes in 24 hours.",
+  "relations": [
+    [
+      "Francis",
+      "Vatican",
+      "agent_of"
+    ],
+    [
+      "Francis",
+      "Roman Catholic Church",
+      "head_of"
+    ],
+    [
+      "Francis",
+      "Vatican",
+      "head_of_state"
+    ],
+    [
+      "Francis",
+      "Roman Catholic Church",
+      "member_of"
+    ],
+    [
+      "Astrid Prange",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Kirill",
+      "Russian Orthodox Church",
+      "head_of"
+    ],
+    [
+      "Kirill",
+      "Russian Orthodox Church",
+      "member_of"
+    ],
+    [
+      "Mexican",
+      "Mexico",
+      "gpe0"
+    ],
+    [
+      "Enrique Peña Nieto",
+      "Mexico",
+      "agent_of"
+    ],
+    [
+      "Enrique Peña Nieto",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Enrique Peña Nieto",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Enrique Peña Nieto",
+      "Mexico",
+      "head_of_state"
+    ],
+    [
+      "Enrique Peña Nieto",
+      "Mexican",
+      "head_of_state-x"
+    ],
+    [
+      "Iguala",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Iguala",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Monterrey",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Monterrey",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Ciudad Juarez",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Ciudad Juarez",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Marcial Maciel",
+      "Legion of Christ",
+      "head_of"
+    ],
+    [
+      "Marcial Maciel",
+      "Legion of Christ",
+      "member_of"
+    ]
+  ]
+}

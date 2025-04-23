@@ -1,0 +1,30 @@
+{
+  "content": "YouTube beefs up policing of extremist content\nThe video-sharing website has come under fire for failing to identify and remove offensive videos and comments. YouTube's CEO has said the company will change that.\nGoogle will try to increase the number of its employees who police extreme content across its internet services to over 10,000, the head of Google-owned YouTube has said. \"We are also taking aggressive action on comments, launching new comment moderation tools and in some cases shutting down comments altogether,\" Susan Wojcicki said in a blog post. \"We will continue the significant growth of our teams into next year, with the goal of bringing the total number of people across Google working to address content that might violate our policies to over 10,000 in 2018.\" Read more — Angela Merkel takes to YouTube to woo young voters In an interview with the British daily newspaper, The Daily Telegraph, Wojcicki said \"bad actors\" had used YouTube to \"mislead, manipulate, harass or even harm\" others. The company, she said, has developed \"computer-learning\" technology that can identify videos with extremist content or content that risked the safety of child users. The move is part of a broader effort by the company to improve its protection of users and rid the video-sharing website of extremist or offensive content after widespread criticism of its policing policies. Last week, it removed 150,000 videos featuring children, after users posted lewd comments about the kids. Read more — Alphabet earnings marred by EU fine amp/msh (Reuters, AFP)",
+  "relations": [
+    [
+      "YouTube",
+      "Google",
+      "part_of"
+    ],
+    [
+      "Google",
+      "Alphabet",
+      "part_of"
+    ],
+    [
+      "Susan Wojcicki",
+      "YouTube",
+      "head_of"
+    ],
+    [
+      "Susan Wojcicki",
+      "YouTube",
+      "member_of"
+    ],
+    [
+      "The Daily Telegraph",
+      "British",
+      "based_in0-x"
+    ]
+  ]
+}

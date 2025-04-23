@@ -1,0 +1,70 @@
+{
+  "content": "Nigeria declares state of emergency\nNigerian President Goodluck Jonathan has announced a state of emergency in the country's northeast. He said the government would do everything to put an end to the terrorist attacks.\nNigeria put its northeast states of Borno, Yobe and Adamawa under a state of emergency amid an increase of terrorist activity from the Islamist insurgent group Boko Haram in recent weeks. \"These actions amount to a declaration of war and a deliberate attempt to undermine the authority of the Nigerian state and threaten [its] territorial integrity,\" said President Jonathan in a live broadcast Tuesday night. \"As a responsible government, we will not tolerate this.\" The president said the terrorist activities were a \"threat to [Nigeria's] national unity\" and a \"systematic effort\" to destabilize the country. Jonathan ordered troops to help stem the insurgency in the country's northeast where some towns have reportedly fallen under the control of Boko Haram. The state politicians will retain the powers of the offices they hold despite the military deployment to the region. Boko Haram, whose name means, \"Western education is sacrilege,\" in the Hausa language has been calling for shariah law to be imposed across Nigeria. Muslims comprise about half of Nigeria's population of 175 million. About 40 percent of its citizens are Christian. Since launching their insurgency against the central government in 2010, Boko Haram and splinter groups have staged numerous terrorist attacks on security forces and civilians, in which at least 1,600 people were killed. Late last week, 200 heavily armed gunmen staged a coordinated attack on a police station and prison in Borno state in a bid to free inmates. At least 55 people died in the siege. kms/msh (AP, AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Goodluck Jonathan",
+      "Nigeria",
+      "citizen_of"
+    ],
+    [
+      "Goodluck Jonathan",
+      "Nigerian",
+      "citizen_of-x"
+    ],
+    [
+      "Goodluck Jonathan",
+      "Nigeria",
+      "head_of_state"
+    ],
+    [
+      "Goodluck Jonathan",
+      "Nigerian",
+      "head_of_state-x"
+    ],
+    [
+      "Boko Haram",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Nigerian",
+      "Nigeria",
+      "gpe0"
+    ],
+    [
+      "Borno",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Borno",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Yobe",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Yobe",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Adamawa",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Adamawa",
+      "Nigerian",
+      "in0-x"
+    ]
+  ]
+}

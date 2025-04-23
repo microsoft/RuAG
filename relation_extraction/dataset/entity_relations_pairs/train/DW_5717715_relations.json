@@ -1,0 +1,170 @@
+{
+  "content": "India to push US to extradite former Union Carbide chief\nA ministerial panel has presented several recommendations to the government after a court sentenced former Union Carbide employees to only two years in jail earlier this month, prompting widespread public outrage.\nEver since a lenient verdict on the 1984 Bhopal disaster earlier this month, the Indian government has faced mounting criticism. Victims and activists called the Bhopal ruling a travesty of justice because of the paltry sentences, the long delay in bringing justice and the inadequate clean-up of the disaster site. On Monday, a group of survivors from the Bhopal gas tragedy staged a demonstration in front of India's Home Ministry in New Delhi demanding adequate compensation for the victims. So as to mitigate people's anger, which has been exacerbated by the fact that the current ruling party was already in power when the world's worst industrial disaster happened, the government had formed a panel of senior ministers to draw up recommendations for fresh action. Panel urges government to make great efforts In its report, presented on Monday, the panel recommends that the government make strong efforts to seek the extradition of the ex-Union Carbide chief Warren Anderson, who has been classified as an absconder. \"India will make vigorous efforts\" to have Anderson extradited, the Indian Minister for Urban Development, Jaipal Reddy, told the AFP news agency. Anderson, who is now retired, was arrested after the gas leak but he then fled the country. Opposition parties accused the ruling party of letting Anderson escape Bhopal on a government plane. Repeated requests by the Indians for his extradition turned out to be in vain. Enhanced compensation for victims and relatives The ministerial panel has also finalized a package worth rupees 1,500 crore, or nearly 325 million US dollars, for enhancing compensation for the relatives of those who died and those who were debilitated by the disaster. The gas leak at the Union Carbide plant in Bhopal claimed an estimated 15,000 lives. Many thousands were permanently disabled or are still suffering from critical ailments. According to Reddy, as cited by AFP, the government has recommended the setting up of a federal medical research facility in Bhopal to monitor the health conditions of survivors and newborns. The ministers have also recommended that the government help clean up the site and bury toxic material. Home Minister Palaniappan Chidambaram said the panel's report would be discussed at a cabinet meeting on Friday. du/AFP/Reuters/PTI Editor: Anne Thomas",
+  "relations": [
+    [
+      "Union Carbide",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Bhopal",
+      "India",
+      "in0"
+    ],
+    [
+      "Bhopal",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Bhopal",
+      "Indians",
+      "in0-x"
+    ],
+    [
+      "Warren Anderson",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Warren Anderson",
+      "Union Carbide",
+      "head_of"
+    ],
+    [
+      "Warren Anderson",
+      "Union Carbide",
+      "member_of"
+    ],
+    [
+      "Jaipal Reddy",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Jaipal Reddy",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Jaipal Reddy",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Jaipal Reddy",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "Jaipal Reddy",
+      "India",
+      "minister_of"
+    ],
+    [
+      "Jaipal Reddy",
+      "Indian",
+      "minister_of-x"
+    ],
+    [
+      "Jaipal Reddy",
+      "Indians",
+      "minister_of-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Home Ministry",
+      "India",
+      "agency_of"
+    ],
+    [
+      "Home Ministry",
+      "Indian",
+      "agency_of-x"
+    ],
+    [
+      "Home Ministry",
+      "Indians",
+      "agency_of-x"
+    ],
+    [
+      "Home Ministry",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Home Ministry",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Home Ministry",
+      "Indians",
+      "based_in0-x"
+    ],
+    [
+      "Home Ministry",
+      "India",
+      "ministry_of"
+    ],
+    [
+      "New Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "New Delhi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "New Delhi",
+      "Indians",
+      "in0-x"
+    ],
+    [
+      "Indians",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Palaniappan Chidambaram",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Palaniappan Chidambaram",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Palaniappan Chidambaram",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Palaniappan Chidambaram",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "Palaniappan Chidambaram",
+      "India",
+      "minister_of"
+    ],
+    [
+      "Palaniappan Chidambaram",
+      "Indian",
+      "minister_of-x"
+    ],
+    [
+      "Palaniappan Chidambaram",
+      "Indians",
+      "minister_of-x"
+    ]
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "content": "Russia and Japan Expand Energy Ties\nRussia and Japan agreed on a series of energy deals during Prime Minister Vladimir Putin’s visit this week. This includes a key pact on civilian nuclear co-operation. But the two sides once again failed to resolve their long-running diplomatic dispute.\nJapan and Russia have been locked in a territorial dispute for decades. It focuses on a chain of islands between the two countries which are called the Northern Territories by the Japanese and the Southern Kurils by the Russians. The islands were occupied by Soviet army in the last days of World War II and are claimed by both sides. During a recent meeting between Russian Prime Minister Vladimir Putin and his Japanese counterpart Taro Aso in Tokyo this week, both sides said they would study all options to end the row, but fell short of announcing any breakthrough. The two countries also reaffirmed that they want to bolster bilateral co-operation and engage in joint energy projects. \"Russia-Japanese relations have been worrying for years, including the cold-war period. But in recent years things have changed rapidly. And I think economic relations have become more important for them,\" explains Professor Nobuo Shimotomai, an expert on Japan-Russia relations at Tokyo's Hosei University. Nuclear pact One of the major highlights of the Putin-Aso meeting was a nuclear energy pact. The agreement will allow the transfer of Japanese technology to Russia. In return, Japan will get the much-needed nuclear fuel. It will also pave the way for joint uranium mining in Russia, a crucial step for the Russian uranium and nuclear industries, says Marcel Viëtor, an expert on energy policy at the German Council of Foreign Relations in Berlin: \"The Russian uranium and nuclear industries have been in a critical situation for almost two decades. They are in dire need of new contracts to develop power plants and they are looking for international partners. And now it seems they have found one in Japan. And if it is ratified by both parliaments, this will be a wonderful deal for the Russian nuclear sector.\" Co-operation in gas sector Japanese and Russian energy companies have also agreed to jointly develop two major oil fields in eastern Siberia. The project is likely to cost over 150 million dollars. A Memorandum of Understanding was signed between Russian energy giant Gazprom and its Japanese partners to explore ways to process natural gas near the Pacific city of Vladivostok. Gazprom CEO Alexei Miller told the media in Tokyo that a 2,000-kilometre pipeline from Sakhalin island to Vladivostok was likely to be completed by 2011, which could possibly supply natural gas to consumers in the Asia-Pacific region as well, including Japan. Energy expert Viëtor says the move, if successful, would considerably help Japan, which is currently heavily relying on Middle Eastern oil. \"Until today the Japanese get their oil and gas imports from the Middle East. But of course they are cautious about the political developments there and if, for whatever reasons, the shipments of oil and gas from the Middle East are interrupted, the Japanese industries will suffer. So they are very much looking forward to establishing other transportation routes and since Russia is close to Japan, it will suit the Japanese industries very well.\" In February Russia opened its first Liquefied Natural Gas or LNG plant on the Pacific coast. The plant supplies Japan also with millions of tonnes of gas annually. Author: Disha Uppal Editor: Grahame Lucas",
+  "relations": [
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_gov"
+    ],
+    [
+      "Vladimir Putin",
+      "Russians",
+      "head_of_gov-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_gov-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Taro Aso",
+      "is_meeting"
+    ],
+    [
+      "Taro Aso",
+      "Japan",
+      "agent_of"
+    ],
+    [
+      "Taro Aso",
+      "Japan",
+      "citizen_of"
+    ],
+    [
+      "Taro Aso",
+      "Japanese",
+      "citizen_of-x"
+    ],
+    [
+      "Taro Aso",
+      "Japan",
+      "head_of_gov"
+    ],
+    [
+      "Taro Aso",
+      "Japanese",
+      "head_of_gov-x"
+    ],
+    [
+      "Taro Aso",
+      "Vladimir Putin",
+      "is_meeting"
+    ],
+    [
+      "Nobuo Shimotomai",
+      "Japan",
+      "citizen_of"
+    ],
+    [
+      "Nobuo Shimotomai",
+      "Japanese",
+      "citizen_of-x"
+    ],
+    [
+      "Nobuo Shimotomai",
+      "Hosei University",
+      "member_of"
+    ],
+    [
+      "Alexei Miller",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Alexei Miller",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Alexei Miller",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Alexei Miller",
+      "Gazprom",
+      "head_of"
+    ],
+    [
+      "Alexei Miller",
+      "Gazprom",
+      "member_of"
+    ],
+    [
+      "Marcel Viëtor",
+      "German Council of Foreign Relations",
+      "member_of"
+    ],
+    [
+      "Japanese",
+      "Japan",
+      "gpe0"
+    ],
+    [
+      "Russians",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Tokyo",
+      "Japan",
+      "in0"
+    ],
+    [
+      "Tokyo",
+      "Japanese",
+      "in0-x"
+    ],
+    [
+      "Hosei University",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Hosei University",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Hosei University",
+      "Tokyo",
+      "based_in2"
+    ],
+    [
+      "German Council of Foreign Relations",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Siberia",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Siberia",
+      "Russians",
+      "in0-x"
+    ],
+    [
+      "Siberia",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Memorandum of Understanding",
+      "Gazprom",
+      "signed_by"
+    ],
+    [
+      "Gazprom",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Gazprom",
+      "Russians",
+      "based_in0-x"
+    ],
+    [
+      "Gazprom",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Vladivostok",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Vladivostok",
+      "Russians",
+      "in0-x"
+    ],
+    [
+      "Vladivostok",
+      "Russian",
+      "in0-x"
+    ]
+  ]
+}

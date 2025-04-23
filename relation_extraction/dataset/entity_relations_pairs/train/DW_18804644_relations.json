@@ -1,0 +1,80 @@
+{
+  "content": "Anti-Islamist protests, counter-protests staged in Cologne\nPolice in the western German city of Cologne are bracing for potential violence as seven demonstrations take place. The rallies are being staged by anti-Islamist, extreme leftist and Carnival groups, among others.\nSunday's demonstrations center around a protest planned by the so-called Hooligans Against Salafists (HoGeSa) group, an anti-Islam organization that last year caused riots in the city at a similar demonstration. The Cologne chapter of \"anti-Islamization\" movement PEGIDA, which has its base in the eastern city of Dresden, is also expected to stage a rally. At the same time, a number of counter-protesters opposing the anti-Islam, anti-immigration stance of such groups have also gathered in the inner city. They include radical leftist \"autonomous\" demonstrators carrying banners with the slogan: \"Germany, keep your mouth shut!\" Other counter-demonstrators come from the city's vibrant Carnival scene. DW's Milan Gagnon is reporting from Cologne. Some 3,500 police have been deployed to try to keep the peace in Cologne, with around 23,000 people from the competing sides expected to take to the streets. Several water cannons are also on hand, and a helicopter is surveilling the city from above. Police tried to have the HoGeSa demonstration banned in the days leading up to the demonstration, citing last year's violence on October 26 in which at least 44 police were injured. But a court on Wednesday ruled against prohibiting the rally, stipulating only that it had to take place at a fixed location rather than include a march through the streets. Police did, however, manage to have the HoGeSa demonstration moved from last year's location at the main railway station to the other side of the river in the Deutz district. tj/cmk (AFP, dpa)",
+  "relations": [
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hooligans Against Salafists",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Hooligans Against Salafists",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "PEGIDA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "PEGIDA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "PEGIDA",
+      "Dresden",
+      "based_in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Milan Gagnon",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Deutz",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Deutz",
+      "Cologne",
+      "in2"
+    ]
+  ]
+}

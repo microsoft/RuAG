@@ -1,0 +1,205 @@
+{
+  "content": "Swiss politician threatens to expose German officials over tax-dodging\nA Swiss parliamentarian said he would aim to expose German public figures over alleged tax manipulations, if Berlin goes ahead with plans to buy stolen data on tax-evaders with Swiss bank accounts.\nAlfred Heer of the right-wing Swiss People's Party (SVP) told the German daily Bild on Saturday that he and his party would aim to have the law changed so that names can be published. According to the Heer, financial sources in the Alpine republic have evidence that politicians and judges from Germany keep accounts in Switzerland and Liechtenstein for the purposes of evading tax. \"If Germany buys stolen bank data, we will work for a change in the law so that the complete Swiss accounts of German people holding public office have to be disclosed,\" he said. Heer is head of the right-wing SVP in the canton of Zurich and president of the Switzerland's taxpayers' federation. Thousands of names Switzerland is concerned about Germany's intent to buy a stolen disc containing names of 1,500 people with Swiss accounts who may have evaded German taxation. German Finance Minister Wolfgang Schaeuble said at the beginning of February that Germany was prepared to pay 2.5 million euros ($3.5 million) for the disc. The German state of Baden-Wuerttemberg has been offered a second disc containing 2,000 names, which according to German daily newspaper Frankfurter Rundschau includes information from bank groups UBS and Credit Suisse. Rising tension The tax data affair has soured relations between Germany and its Alpine neighbor, which sees the purchasing of the disc as another attack on its cherished banking secrecy. \"Here we have a new form of bank robbery,\" Swiss lawmaker Pirmin Bischof told Germany's Deutschlandfunk radio earlier this month. \"Before, you had to go to the bank and get hold of the money with a weapon. Today you can do it electronically by stealing data.\" But Schaeuble has said that the government would be legally justified in buying the stolen data. Chancellor Angela Merkel is also in favor of acquiring the CD. \"In principle, the decision was made two years ago,\" Schaeuble told the Augsburger Allgemeine newspaper, referring to a similar case in 2007, when the government handed over as much as five million euros for stolen tax data from Liechtenstein. rc/AFP/Reuters/dpa/AP Editor:Toma Tasovac",
+  "relations": [
+    [
+      "Swiss People's Party",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Swiss People's Party",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Alfred Heer",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Alfred Heer",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Alfred Heer",
+      "Swiss People's Party",
+      "head_of"
+    ],
+    [
+      "Alfred Heer",
+      "Swiss People's Party",
+      "member_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Zurich",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Zurich",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Baden-Wuerttemberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Baden-Wuerttemberg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Frankfurter Rundschau",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Frankfurter Rundschau",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "UBS",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "UBS",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Credit Suisse",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Credit Suisse",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Pirmin Bischof",
+      "Switzerland",
+      "agent_of"
+    ],
+    [
+      "Pirmin Bischof",
+      "Swiss",
+      "agent_of-x"
+    ],
+    [
+      "Pirmin Bischof",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Pirmin Bischof",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Deutschlandfunk",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutschlandfunk",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Augsburger Allgemeine",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Augsburger Allgemeine",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

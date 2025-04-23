@@ -1,0 +1,125 @@
+{
+  "content": "Parents of US hostage Kayla Jean Mueller issue appeal to 'IS' captors\nThe parents of a US humanitarian aid worker who her captors claim was killed in a Jordanian airstrike have said they are hopeful that she is still alive. They have also asked their daughter's captors to contact them.\nCarl and Marsha Mueller, the parents of 26-year-old Kayla Jean Mueller, released a statement on Friday in which they appealed to \"Islamic State\" (IS) militants, who have claimed to be holding their daughter, to contact them privately. The statement came after the jihadis claimed earlier in the day that Kayla Jean Mueller had been killed in an airstrike by Jordanian fighter jets on the building where she was being held captive in the Syrian city of Raqqa. \"This news leaves us concerned, yet, we are still hopeful that Kayla is alive,\" the parents said in the statement. Addressing directly \"those in positions of responsibility for holding Kayla,\" the parents said: \"You told us that you treated Kayla as your guest, as your guest her safety and well-being remains your responsibility.\" Mueller, of the US state of Arizona, had been working for a humanitarian aid organization when she was seized by IS militants while leaving a hospital in the northern Syrian city of Aleppo in August 2013. No US confirmation US officials said on Friday that they were unable to confirm the IS claim that Mueller had been killed. \"We are obviously deeply concerned by these reports. We have not at this time seen any evidence that corroborates ISIL's claim,\" National Security Council spokeswoman Bernadette Meehan said, referring to the IS by an acronym that they previously used. Jordan, meanwhile, questioned the jihadist group's claim. The country's foreign minister, Nasser Judeh, used his Twitter account to reject the claim as \"an old and sick trick used by terrorists and despots for decades: claiming that hostages human shields held captive are killed by air raids.\" Jordan, a member of the US-led coalition involved in an air campaign against IS militants in Syria and northern Iraq, stepped up its air strikes on IS after the jihadists posted a video on the Internet earlier this week showing captured Jordanian pilot Muath al-Kasseasbeh being burned alive in a cage. pfd/sms (Reuters, AFP)",
+  "relations": [
+    [
+      "Kayla Jean Mueller",
+      "Carl",
+      "child_of"
+    ],
+    [
+      "Kayla Jean Mueller",
+      "Marsha Mueller",
+      "child_of"
+    ],
+    [
+      "Kayla Jean Mueller",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Raqqa",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Raqqa",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Bernadette Meehan",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Bernadette Meehan",
+      "National Security Council",
+      "member_of"
+    ],
+    [
+      "Bernadette Meehan",
+      "National Security Council",
+      "spokesperson_of"
+    ],
+    [
+      "Jordanian",
+      "Jordan",
+      "gpe0"
+    ],
+    [
+      "Carl",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Carl",
+      "Kayla Jean Mueller",
+      "parent_of"
+    ],
+    [
+      "Marsha Mueller",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Marsha Mueller",
+      "Kayla Jean Mueller",
+      "parent_of"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Arizona",
+      "US",
+      "in0"
+    ],
+    [
+      "Aleppo",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Aleppo",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Nasser Judeh",
+      "Jordan",
+      "agent_of"
+    ],
+    [
+      "Nasser Judeh",
+      "Jordan",
+      "citizen_of"
+    ],
+    [
+      "Nasser Judeh",
+      "Jordanian",
+      "citizen_of-x"
+    ],
+    [
+      "Nasser Judeh",
+      "Jordan",
+      "minister_of"
+    ],
+    [
+      "Nasser Judeh",
+      "Jordanian",
+      "minister_of-x"
+    ],
+    [
+      "Muath al-Kasseasbeh",
+      "Jordan",
+      "citizen_of"
+    ],
+    [
+      "Muath al-Kasseasbeh",
+      "Jordanian",
+      "citizen_of-x"
+    ]
+  ]
+}

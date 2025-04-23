@@ -1,0 +1,175 @@
+{
+  "content": "Every country fends for itself in the fight against Boko Haram\nBoko Haram terrorists have become a threat beyond Nigeria's borders. The governments of the affected states say they have joined forces to combat the extremist group, but their cooperation leaves a lot to be desired.\n\"There is total panic\" is how Danjuma Hamina from Achigachia describes what is happening in her home town in northern Cameroon. Fighters from the terrorist group Boko Haram had taken control of the town, she said, and \"even hoisted their flag.\" Together with dozens of others, Hamina boarded a train and fled to Cameroon's capital Yaounde. Boko Haram members have been raiding villages near the border between northern Cameroon and Nigeria for several months. But this time things were different, the eyewitness told DW. \"We have not seen an attack like this since the whole Boko Haram thing started,\" she exclaimed. According to the Cameroonian military, more than 1,000 terrorists have attacked several places in the border area in the past few days. They killed numerous civilians and soldiers. After heavy fighting on Sunday (29.12.2014), they briefly seized a military base in Achigachia. Only after Cameroon launched its first-ever air strikes against the terrorist group, did the military succeed in retaking the base. It is still unclear how many people died in the attacks, the Cameroonian military said. But what has become abundantly clear by now is that Boko Haram not only poses a threat to northern Nigeria, but to the neighboring states as well. The Islamists have been carrying out bloody attacks for five years, most of them in the Nigerian states of Borno, Yobe and Adamawa. They even control large swathes of the country's northeast, where they have proclaimed the establishment of a caliphate in line with their radical Islamist ideology. They have killed several thousand people and driven between 700,000 and 1.5 million from their homes. Joint declaration of war, but no consequences In the past months Boko Haram has been expanding its activities into neighboring Cameroon, Chad and Niger. For some time now, experts say, the extremists have maintained bases on both sides of various borders as havens to which they can retreat if attacked. The terrorists are recruiting fighters in the neighboring countries as well. Several high-ranking leaders of the group reportedly come from Chad and Niger. While the extremists have again proven that they are capable of cross-border attacks, each of the affected countries has by and large been responding to them on its own. In May 2014, the heads of state of Nigeria and neighboring Niger, Chad, Cameroon and Benin had declared a \"war\" against Boko Haram. At a summit hosted by French President Francois Hollande, they agreed on measures to tackle the terrorist threat, including pooling intelligence, joint border surveillance and an intervention force. But very little has happened since. Not long ago Cameroon again declared that it would cooperate more closely with Chad, Niger and Nigeria, according to Jesper Cullen, a security analyst for the British consultancy Risk Advisory Group. \"But just [now] the Cameroonian government said one of the problems they're really facing is that the limit of their military is the border with Nigeria, and as soon as Boko Haram crosses over, Boko Haram are free to run around pretty much as they want.\" This shows that there is no coordination between the two armies, the expert said. Distrust between intelligence agencies Niger's south has also been massively affected by Boko Haram violence. The president of Diffa's regional parliament says his region has already accepted more than 120,000 refugees from northern Nigeria. \"More come every day,\" Mahirou Malam Ligari said in an interview with DW. The government of Niger, one of the poorest countries in the world, was doing all it could, Ligari said. \"But we need more help,\" he stressed. The wave of refugees is not only a social challenge. Along with the refugees, Boko Haram fighters enter the country. Niger's security forces had already arrested several suspected terrorists, Ligari said. But he warned that the threat of attacks in the border region remained high. Although they have a common enemy, there is distrust among the affected countries. Nigerian media have repeatedly accused Chad's leaders of supporting Boko Haram. Cameroon also suspects that the terrorists are receiving help in other countries. \"You have to ask yourself how a movement like this, whose supply lines have been cut, can continue to cause damage on this scale,\" Cameroonian military spokesman Didier Badjeck told DW. \"This means that behind the scenes strange things are happening with respect to Boko Haram.\" The security forces and the governments in the region do not accuse each other openly. But the massive distrust between them also manifests itself in the lack of cooperation between their intelligence agencies, according to a statement given by Comfort Ero, Africa director for the International Crisis Group, to the news agency AP. \"None of the sides is willing to share information with the other,\" Ero said.",
+  "relations": [
+    [
+      "Boko Haram",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Chad",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Niger",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Benin",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Danjuma Hamina",
+      "Achigachia",
+      "citizen_of"
+    ],
+    [
+      "Mahirou Malam Ligari",
+      "Diffa",
+      "agent_of"
+    ],
+    [
+      "Mahirou Malam Ligari",
+      "Niger",
+      "citizen_of"
+    ],
+    [
+      "Mahirou Malam Ligari",
+      "Diffa",
+      "head_of_gov"
+    ],
+    [
+      "Comfort Ero",
+      "International Crisis Group",
+      "head_of"
+    ],
+    [
+      "Comfort Ero",
+      "International Crisis Group",
+      "member_of"
+    ],
+    [
+      "Achigachia",
+      "Cameroon",
+      "in0"
+    ],
+    [
+      "Achigachia",
+      "Cameroonian",
+      "in0-x"
+    ],
+    [
+      "Yaounde",
+      "Cameroon",
+      "in0"
+    ],
+    [
+      "Yaounde",
+      "Cameroon",
+      "in0"
+    ],
+    [
+      "Yaounde",
+      "Cameroonian",
+      "in0-x"
+    ],
+    [
+      "Cameroonian",
+      "Cameroon",
+      "gpe0"
+    ],
+    [
+      "Nigerian",
+      "Nigeria",
+      "gpe0"
+    ],
+    [
+      "Borno",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Borno",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Yobe",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Yobe",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Adamawa",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Adamawa",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Jesper Cullen",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Jesper Cullen",
+      "Risk Advisory Group",
+      "member_of"
+    ],
+    [
+      "Risk Advisory Group",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Diffa",
+      "Niger",
+      "in0"
+    ],
+    [
+      "Didier Badjeck",
+      "Cameroon",
+      "agent_of"
+    ],
+    [
+      "Didier Badjeck",
+      "Cameroonian",
+      "agent_of-x"
+    ],
+    [
+      "Didier Badjeck",
+      "Cameroon",
+      "citizen_of"
+    ],
+    [
+      "Didier Badjeck",
+      "Cameroonian",
+      "citizen_of-x"
+    ]
+  ]
+}

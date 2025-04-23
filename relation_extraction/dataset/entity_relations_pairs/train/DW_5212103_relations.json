@@ -1,0 +1,85 @@
+{
+  "content": "Pakistan Submits Preliminary Report on Mumbai Attacks\nA senior Pakistani official has admitted for the first time that last year's attacks in the Indian city of Mumbai were partly planned in Pakistan.\nInterior Ministry chief Rehman Malik said that several suspects are now being held and a case has been filed which may lead to their prosecution. At least 173 people were killed in November's attacks. Tensions between between India and Pakistan rose after Delhi said all 10 gunmen were from Pakistan. Pakistan denied any responsibility in the immediate aftermath of the attacks, but later it admitted that the sole gunman captured alive was a Pakistani national.",
+  "relations": [
+    [
+      "Mumbai",
+      "India",
+      "in0"
+    ],
+    [
+      "Mumbai",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Rehman Malik",
+      "Pakistan",
+      "agent_of"
+    ],
+    [
+      "Rehman Malik",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Rehman Malik",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Rehman Malik",
+      "Pakistan",
+      "minister_of"
+    ],
+    [
+      "Rehman Malik",
+      "Pakistani",
+      "minister_of-x"
+    ],
+    [
+      "Pakistani",
+      "Pakistan",
+      "gpe0"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Interior Ministry",
+      "Pakistan",
+      "agency_of"
+    ],
+    [
+      "Interior Ministry",
+      "Pakistani",
+      "agency_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "Pakistan",
+      "based_in0"
+    ],
+    [
+      "Interior Ministry",
+      "Pakistani",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Pakistan",
+      "ministry_of"
+    ],
+    [
+      "Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "Delhi",
+      "Indian",
+      "in0-x"
+    ]
+  ]
+}

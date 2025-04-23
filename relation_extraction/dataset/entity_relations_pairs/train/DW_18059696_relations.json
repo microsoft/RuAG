@@ -1,0 +1,65 @@
+{
+  "content": "Opinion: Juncker takes the bull by the horns\nEU Commission president Jean-Claude Juncker regrets Luxembourg's tax-saving tricks for big business and wants to put a stop to them. That won't do much for his credibility, says Christoph Hasselbach.\nJean-Claude Juncker has gone on the offensive, but he left it very late. Juncker went into hiding for days, leaving his spokesperson to represent him, but he now admits it was a mistake not to comment on last week's accusations of tax evasion by multinational firms in his home country. He also regrets the tax advantages themselves. Now, suddenly, after the pressure continued to mount, the Commission is proposing an automatic exchange of information about these sorts of tax arrangements, and a uniform basis for assessment. In other words, the system Juncker spent more than twenty years building up in his homeland as prime minister and finance minister of Luxembourg is now to be combated at the European level. The initiative comes across as a clumsy attempt to draw a veil over Juncker's previous role. Entire country as a tax-saving scheme It clearly took the wily politician far too long to grasp the explosive potential of the affair, perhaps because it had become so normal. Using complicated financial constructs, Luxembourg has ensured that international firms have been able to save taxes that apparently amount to billions of euros. As Juncker was the country's finance minister for 20 years and prime minister of the Grand Duchy for almost as long - mostly simultaneously - he was intimately involved in the country's development into a financial center. The fact that the entire country functioned as a tax-saving scheme for rich foreigners and international companies contributed in large part to Luxembourg having by far the highest per capita income in the EU. But Luxembourg is not an isolated case. Ireland and the Netherlands have also made big tax concessions to big businesses. And all the governments knew it. Just a few days ago around 50 states, including Luxembourg, signed an agreement on the mutual exchange of information on bank customers. Such resolve is however still lacking where company taxation is concerned. Ordinary citizens make up the shortfall The Commission did initiate inspections of Ireland, the Netherlands, and Luxembourg in 2013; but these looked into questions of competition, not whether such tax deals were in themselves illegal. Yet this is precisely where the problem lies. Even Juncker now admits that just because something is legally permissible it doesn't follow that it is morally acceptable. If one EU country attracts business by offering incomparably low levels of taxation, it is living at the expense of others who can't afford to, or don't want to accept the loss of income. In the end, it is always ordinary citizens who have to make up the shortfall, with their taxes. This, and the fact that Europe has until now tolerated this ruinous competition, is the real scandal. It is grist to the mills of those who want to destroy the European idea. No wonder the French far-right leader Marine le Pen was the first to call for Juncker's resignation. She and all those of a similar political persuasion all over Europe are going to have a field day. Resignation unlikely Nonetheless, Juncker will almost certainly stay on as president of the Commission. The majority of his supporters in the Council of Europe and in the European Parliament will make sure of that. His election process was protracted and complicated; many other personnel decisions also depended on it, and party-political and geographical aspects had to be taken into account. Starting all over again now would open a huge can of worms. Besides, his resignation could well intensify the widespread public sense that the European elite are failing. In view of the current mood of rampant euroskepticism, Juncker spoke of \"Europe's last chance\" when he presented the new Commission. It must, then, have been clear to him what was at stake. What he clearly underestimated was the his personal role in whether the \"last chance\" will be seized or lost. One can only hope that this affair has shaken the EU awake, and that it really will put an end to minimal taxation for big businesses. It's a move that would be certain to win public approval.",
+  "relations": [
+    [
+      "Jean-Claude Juncker",
+      "Grand Duchy",
+      "agent_of"
+    ],
+    [
+      "Jean-Claude Juncker",
+      "Grand Duchy",
+      "citizen_of"
+    ],
+    [
+      "Jean-Claude Juncker",
+      "European Parliament",
+      "head_of"
+    ],
+    [
+      "Jean-Claude Juncker",
+      "Grand Duchy",
+      "head_of_gov"
+    ],
+    [
+      "Jean-Claude Juncker",
+      "European Parliament",
+      "member_of"
+    ],
+    [
+      "Jean-Claude Juncker",
+      "Grand Duchy",
+      "minister_of"
+    ],
+    [
+      "Council of Europe",
+      "European",
+      "institution_of"
+    ],
+    [
+      "Council of Europe",
+      "European",
+      "part_of"
+    ],
+    [
+      "Marine le Pen",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "European Parliament",
+      "European",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "European",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "European",
+      "part_of"
+    ]
+  ]
+}

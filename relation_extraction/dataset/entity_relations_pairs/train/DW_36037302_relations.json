@@ -1,0 +1,230 @@
+{
+  "content": "Thailand faces uncertain political future after king's death\nWith the death of King Bhumibol, Thailand's fragile political truce could fast unravel. The military junta will no doubt seek a quick succession, but a possible revival of pro-democracy activism has unnerved the markets.\nThe king, who had been the world's longest-reigning monarch and who died in Bangkok on Thursday aged 88, was widely seen to have been a key legimational figurehead overseeing the often fragile political truce in Thailand since the advent of the pro-democracy movement at the start of the decade. Revered as semi-divine by many in the country, the figure of Bhumibol held together an often fractious coalition of Bangkok business elites, a new middle class and its Thai Democrat party, and the royalist military to prevent the return of exiled former Prime Minister Thaksin Shinawatra or the electoral dominance of his party. Experts on the Thai royal family note that the country's strict lese-majeste laws muffle detailed discussion of the sensitive succession issue. \"We maybe shouldn't read too much into (the delay),\" David Streckfuss, an expert on the Thai monarchy, told the AFP news agency. \"But we have already departed from what should have been a normal succession process. An element of ambiguity has been injected into the situation.\" Tens of thousands pay last respects Meanwhile, throngs of Thai citizens lined the streets of the capital Bangkok Friday as a royal procession carried the late monarch from Siriraj Hospital to the Grand Palace. Many people had secured their positions on footpaths along the route the night before, shortly after the king's death was announced, and camped out there overnight. They were sitting on mats, with many holding small yellow flags bearing the king's emblem. The convoy, which included heir apparent Prince Maha Vajiralongkorn, moved slowly through Bangkok's ancient quarter past mourners dressed in black, many of them holding aloft portraits of the king. Woraporn Jukkhom said she travelled to Bangkok from Lampang province, 600 kilometers (372 miles) north, as soon as she heard the news. \"I just had to be here,\" she told the DPA news agency. \"This is our last chance to say goodbye.\" Tradition calls for the bodies of Thai royals to be placed in a golden urn. But in a nod to modernity, palace officials said the tradition was no longer upheld and the king's body would be placed in a coffin with a symbolic royal urn near it. Military looks to cement its political role The military - which seized power in a May 2014 coup after months of street demonstrations against the elected government - will likely retain a firm grip over the country in the immediate term to ensure that the royal succession proceeds smoothly and does not become politicized. It has promised an election in 2017 and pushed through a constitution this year to ensure its oversight of civilian governments, but few hold their breath. The last election, in February 2014, was blocked by anti-government groups, and former Prime Minister Yingluck Shinawatra was removed from office by the Constitutional Court. Popular among rural voters who supported her brother - former Prime Minister Thaksin Shinawatra - she led protests in 2013 against a bill that intended to absolve Thaksin, a billionaire tycoon-turned-politician, of corruption charges. The urban middle class and royalist elite have resisted ceding control after Thaksin drew rural voters to the polls. It's all about succession All eyes are now on the succession, after the junta leader said Thursday that Vajiralongkorn had asked for time before being officially proclaimed the next monarch. Vajiralongkorn, 64, does not command the same respect that his father earned over a lifetime on the throne, but Thailand's laws limiting public discussion leave little room for public debate. Vajiralongkorn was named the heir apparent in 1972 by the king, and according to the constitution should ascend the throne as the constitutional monarch after approval by the National Assembly, which is a formality under the constitution. Since Bhumibol's reign began in 1946, Thailand has fluctuated between military backed bureaucratic authoritarianism and brief periods of constitutional semi-democracy. After a coup in 1957 by the nationalist General Sarit Thanarat, the monarchy was rehabilitated in the shape of Bhumibol as the symbolic focus of Thai Buddhist loyalty. Market indicators unclear The Bangkok stock market and baht currency have fallen in the last few days and some analysts predict further jitters. \"The death of Thailand's highly revered king will plunge the country into a state of mourning, and also deep political uncertainty,\" Capital Economics said in a note. \"The period of (relative) political calm since the 2014 coup has helped the economy recover... But renewed political instability could quickly derail this recovery.\" The Thai government declared Friday a national holiday of mourning, although the stock exchange and other financial institutions were to stay open as usual. OANDA said in a statement said that although the Thai baht and the stock exchange index will remain under pressure, much of the uncertainty premium is already built into the price of both, thus losses will be limited. jbh,jar/rc (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "Maha Vajiralongkorn",
+      "Bhumibol",
+      "child_of"
+    ],
+    [
+      "Maha Vajiralongkorn",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Maha Vajiralongkorn",
+      "Thai",
+      "citizen_of-x"
+    ],
+    [
+      "Bhumibol",
+      "Thailand",
+      "agent_of"
+    ],
+    [
+      "Bhumibol",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Bhumibol",
+      "Thai",
+      "citizen_of-x"
+    ],
+    [
+      "Bhumibol",
+      "Thailand",
+      "head_of_state"
+    ],
+    [
+      "Bhumibol",
+      "Thai",
+      "head_of_state-x"
+    ],
+    [
+      "Bhumibol",
+      "Maha Vajiralongkorn",
+      "parent_of"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thailand",
+      "agent_of"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thai",
+      "citizen_of-x"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thailand",
+      "head_of_gov"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thai",
+      "head_of_gov-x"
+    ],
+    [
+      "Bangkok",
+      "Thailand",
+      "in0"
+    ],
+    [
+      "Bangkok",
+      "Thai",
+      "in0-x"
+    ],
+    [
+      "Thai Democrat",
+      "Thailand",
+      "based_in0"
+    ],
+    [
+      "Thai Democrat",
+      "Thai",
+      "based_in0-x"
+    ],
+    [
+      "Thai",
+      "Thailand",
+      "gpe0"
+    ],
+    [
+      "Siriraj Hospital",
+      "Thailand",
+      "in0"
+    ],
+    [
+      "Siriraj Hospital",
+      "Bangkok",
+      "in2"
+    ],
+    [
+      "Grand Palace",
+      "Thailand",
+      "in0"
+    ],
+    [
+      "Grand Palace",
+      "Bangkok",
+      "in2"
+    ],
+    [
+      "Woraporn Jukkhom",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Woraporn Jukkhom",
+      "Thai",
+      "citizen_of-x"
+    ],
+    [
+      "Lampang",
+      "Thailand",
+      "in0"
+    ],
+    [
+      "Lampang",
+      "Thai",
+      "in0-x"
+    ],
+    [
+      "Yingluck Shinawatra",
+      "Thailand",
+      "agent_of"
+    ],
+    [
+      "Yingluck Shinawatra",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Yingluck Shinawatra",
+      "Thai",
+      "citizen_of-x"
+    ],
+    [
+      "Yingluck Shinawatra",
+      "Thailand",
+      "head_of_gov"
+    ],
+    [
+      "Yingluck Shinawatra",
+      "Thai",
+      "head_of_gov-x"
+    ],
+    [
+      "Constitutional Court",
+      "Thailand",
+      "agency_of"
+    ],
+    [
+      "Constitutional Court",
+      "Thai",
+      "agency_of-x"
+    ],
+    [
+      "Constitutional Court",
+      "Thailand",
+      "based_in0"
+    ],
+    [
+      "Constitutional Court",
+      "Thai",
+      "based_in0-x"
+    ],
+    [
+      "National Assembly",
+      "Thailand",
+      "agency_of"
+    ],
+    [
+      "National Assembly",
+      "Thai",
+      "agency_of-x"
+    ],
+    [
+      "National Assembly",
+      "Thailand",
+      "based_in0"
+    ],
+    [
+      "National Assembly",
+      "Thai",
+      "based_in0-x"
+    ],
+    [
+      "Sarit Thanarat",
+      "Thailand",
+      "agent_of"
+    ],
+    [
+      "Sarit Thanarat",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Sarit Thanarat",
+      "Thai",
+      "citizen_of-x"
+    ],
+    [
+      "Sarit Thanarat",
+      "Thailand",
+      "head_of_state"
+    ],
+    [
+      "Sarit Thanarat",
+      "Thai",
+      "head_of_state-x"
+    ]
+  ]
+}

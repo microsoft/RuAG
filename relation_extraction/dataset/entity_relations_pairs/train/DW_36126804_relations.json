@@ -1,0 +1,160 @@
+{
+  "content": "Saudi-led warplanes pound Yemen after ceasefire ends\nThe Saudi Arabia-led coalition has resumed airstrikes in Sanaa, hours after a three-day truce expired in Yemen. The ceasefire was declared in order to supply crucial humanitarian aid to civilians.\nYemen's government continued to blame Shiite Houthi rebels for not upholding the 72-hour truce, forcing the Saudi-led coalition to strike targets in the capital, Sanaa. \"The [Houthi] coup militias deliberately thwarted the truce, and that further convinced our military and political leadership of their unwillingness to accept peace,\" Yemen's army chief of staff Mohammed Ali al-Miqdashi told reporters. Airstrikes were reported from military sites near Sanaa, in the Hafa camp towards the east and the Nahdein area in the south. Planes also targeted the Houthi-controlled city of Hodeida and Taiz, the Reuters news agency reported residents as saying. Fierce fighting was also reported in the country's northern regions along the border with Saudi Arabia. Ten rebels and four Yemeni soldiers were killed over the weekend, media agencies reported. The strikes occurred hours before UN Special Envoy for Yemen, Ismail Ould Cheikh Ahmad, arrived in Sanaa for talks with Houthi representatives. Ahmad had earlier appealed for an extension of the truce to enable humanitarian aid to reach war-ravaged areas. \"We noted over the last days that food and humanitarian supplies were provided to several affected neighborhoods and that UN personnel were able to reach areas that were previously inaccessible,\" Ahmad said on Saturday. He had appealed to parties to extend the ceasefire, which began on Wednesday, for another 72 hours. But Yemeni Foreign Minister Abdulmalek al-Mekhlafi said the call was \"useless\" because rebels were ignoring the truce. \"We respect the UN envoy's call for an extension, but in effect, there was no truce due to the violations\" by the rebels, Mekhlafi told the Agence France-Presse news agency. Nearly 7,000 people have died since early last year, when Saudi Arabia formed a coalition to prevent Iran-backed Shiite Houthi rebels from deposing President Abd Rabbo Mansour Hadi and taking over the country. Hadi is now in exile in Riyadh. The war has plunged the country into chaos, with millions facing starvation and an acute shortage of medical supplies. mg/jlw (AFP, Reuters)",
+  "relations": [
+    [
+      "Sanaa",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Sanaa",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Ismail Ould Cheikh Ahmad",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Abdulmalek al-Mekhlafi",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Abdulmalek al-Mekhlafi",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Abdulmalek al-Mekhlafi",
+      "Yemeni",
+      "citizen_of-x"
+    ],
+    [
+      "Abdulmalek al-Mekhlafi",
+      "Yemen",
+      "minister_of"
+    ],
+    [
+      "Abdulmalek al-Mekhlafi",
+      "Yemeni",
+      "minister_of-x"
+    ],
+    [
+      "Abd Rabbo Mansour Hadi",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Abd Rabbo Mansour Hadi",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Abd Rabbo Mansour Hadi",
+      "Yemeni",
+      "citizen_of-x"
+    ],
+    [
+      "Abd Rabbo Mansour Hadi",
+      "Yemen",
+      "head_of_state"
+    ],
+    [
+      "Abd Rabbo Mansour Hadi",
+      "Yemeni",
+      "head_of_state-x"
+    ],
+    [
+      "Saudi",
+      "Saudi Arabia",
+      "gpe0"
+    ],
+    [
+      "Houthi",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "Houthi",
+      "Yemeni",
+      "based_in0-x"
+    ],
+    [
+      "Mohammed Ali al-Miqdashi",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Mohammed Ali al-Miqdashi",
+      "Yemeni",
+      "agent_of-x"
+    ],
+    [
+      "Mohammed Ali al-Miqdashi",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Mohammed Ali al-Miqdashi",
+      "Yemeni",
+      "citizen_of-x"
+    ],
+    [
+      "Hafa",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Hafa",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Nahdein",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Nahdein",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Hodeida",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Hodeida",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Taiz",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Taiz",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Yemeni",
+      "Yemen",
+      "gpe0"
+    ],
+    [
+      "Riyadh",
+      "Saudi Arabia",
+      "in0"
+    ],
+    [
+      "Riyadh",
+      "Saudi",
+      "in0-x"
+    ]
+  ]
+}

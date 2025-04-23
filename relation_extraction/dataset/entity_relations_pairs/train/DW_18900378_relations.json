@@ -1,0 +1,80 @@
+{
+  "content": "Suspect charged in London Tube stabbing\nA man has been charged with attempted murder after injuring two people in a knife attack at a London Underground station. Officers have also discovered images associated with the \"Islamic State\" on his phone.\nThe suspect in Saturday's knife attack in a London Underground metro station appeared in court on Monday after being charged with attempted murder by counterterrorism officers. Muhaydin Mire, 29, spoke in London's Westminster Magistrates' Court only to confirm his age, name and address. Witnesses said Mire brandished a knife at the East London station of Leytonstone on Saturday and shouted \"This is for Syria\" while attacking a man. \"It was a violent, sustained and unprovoked attack during which the victim was punched, knocked to the ground and repeatedly kicked on the ground,\" said prosecutor David Cawthorne. Police detained the assailant at the scene after using a stun gun. Prosecutors also announced on Monday that images of flags connected to the so-called militant group \"Islamic State\" (IS) were found on the suspect's cellphone. They alleged that the attack was an act of terrorism. Two men were injured during the attack, with one 56-year-old man suffering a 12-centimeter (5-inch) neck wound. The injury was serious but not life-threatening, and the man is recovering after five hours of surgery. The second man, a 33-year-old, was lightly injured. \"It's obviously a hideous attack, and we've all seen pictures about it and read about it,\" British Prime Minister David Cameron told reporters on Monday. \"Full credit to the person and people who took on this attacker and full credit to the very brave police officers who managed to subdue him.\" Mire is set to appear in London's central criminal court on Friday. #YouAintNoMulsimBruv The aftermath of the attack was recorded by bystanders and published on several social media sites. One onlooker shouted the phrase: \"You ain't no Muslim, bruv! You're no Muslim, bruv! You ain't no Muslim!\" It has since become a trending hashtag on social media. Cameron also praised the bystander, saying: \"Some of us have dedicated speeches and media appearances and sound bites and everything to this subject, but 'you ain't no Muslim, bruv' said it all much better than I could have done.\" In response to Saturday's attack, police in London have increased patrols in the Underground system to \"identify and deter terrorism.\" Increased patrols will \"involve both uniformed and plain-clothed officers, supported by other resources, such as armed officers, police dogs, a network of CCTV cameras and the thousands of rail staff we work alongside,\" said Mark Newton, a transport police spokesman. \"We ask the public to remain calm and carry on using public transport as normal.\" The attack comes just days after the British Parliament approved airstrikes on IS targets in Syria. rs/cmk (AP, AFP, Reuters)",
+  "relations": [
+    [
+      "London Underground",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "London Underground",
+      "London",
+      "based_in2"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Muhaydin Mire",
+      "Islamic State",
+      "member_of"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Westminster Magistrates' Court",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Westminster Magistrates' Court",
+      "London",
+      "based_in2"
+    ],
+    [
+      "Westminster Magistrates' Court",
+      "London",
+      "in2"
+    ],
+    [
+      "East London",
+      "London",
+      "in2"
+    ],
+    [
+      "Leytonstone",
+      "London",
+      "in2"
+    ],
+    [
+      "David Cawthorne",
+      "Westminster Magistrates' Court",
+      "member_of"
+    ],
+    [
+      "Mark Newton",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "British Parliament",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "British Parliament",
+      "British",
+      "based_in0-x"
+    ]
+  ]
+}

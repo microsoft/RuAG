@@ -1,0 +1,160 @@
+{
+  "content": "German Cup preview: Bayern set to beat Stuttgart\nBayern Munich is set to crown a spectacular season by bagging a third title in addition to their Bundesliga and Champions League wins. They face Stuttgart in Berlin for the final of the German Cup.\n\"It is more than a trophy we can win. We can write history,\" said Bayern midfielder Thomas Müller. It's true: no German team has ever managed to win the Bundesliga, the German Cup and the Champions League in one season. Bayern are one win away from becoming the first. Bayern are going into the Cup final as the clear favorites, even though they have to do without their Brazilian defender Dante and midfielder Luis Gustavo, who have been called to play for their national team this week. But Stuttgart is not planning to let Bayern have free reign of the pitch. Coach Bruno Labbadia's team has played a disappointing season, ending up in twelfth place. But now they are set to clinch a Europa League spot simply by having reached the final. It has been 16 years since Stuttgart last won the German Cup, but coach Labbadia is optimistic. \"We have our own talents which we can use cleverly against Bayern,\" said the 47-year-old Labbadia, who has been on contract with Stuttgart since 2010 and has quite a bit to show for: He fought off relegation twice and managed to get Stuttgart into the Europa League for two seasons. Coaches eye the same prize As a player with Kaiserslautern, Labbadia won the German Cup in 1990, and as a coach with Leverkusen he reached the final in 2009 – and lost. In that respect he and Bayern's Jupp Heynckes are on the same level: Heynckes has also only won the Cup as a player – 1973 with Mönchengladbach – but never as a coach. Both teams stand to gain financially. Champions League and Bundesliga winners Bayern Munich have already made 9 million euros (11.7 million) in marketing fees for the three live matches they have played this season in the Cup competition. Only one of Stuttgart's matches was broadcast live so far, but that still gave them 3,7 million euros. There is still more money to come from the marketing of TV rights, advertising, and last but not least, ticket sales. Both teams get a bonus of two million euros for having reached the final – and the winner receives 300,000 euros on top of that.",
+  "relations": [
+    [
+      "Jupp Heynckes",
+      "Bayern Munich",
+      "coach_of"
+    ],
+    [
+      "Jupp Heynckes",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Jupp Heynckes",
+      "Mönchengladbach",
+      "member_of"
+    ],
+    [
+      "Jupp Heynckes",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Jupp Heynckes",
+      "Mönchengladbach",
+      "player_of"
+    ],
+    [
+      "Bayern Munich",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bayern Munich",
+      "Stuttgart",
+      "vs"
+    ],
+    [
+      "Stuttgart",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Stuttgart",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Stuttgart",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Bruno Labbadia",
+      "Stuttgart",
+      "coach_of"
+    ],
+    [
+      "Bruno Labbadia",
+      "Leverkusen",
+      "coach_of"
+    ],
+    [
+      "Bruno Labbadia",
+      "Stuttgart",
+      "member_of"
+    ],
+    [
+      "Bruno Labbadia",
+      "Kaiserslautern",
+      "member_of"
+    ],
+    [
+      "Bruno Labbadia",
+      "Leverkusen",
+      "member_of"
+    ],
+    [
+      "Bruno Labbadia",
+      "Stuttgart",
+      "player_of"
+    ],
+    [
+      "Bruno Labbadia",
+      "Kaiserslautern",
+      "player_of"
+    ],
+    [
+      "Bruno Labbadia",
+      "Leverkusen",
+      "player_of"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Thomas Müller",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Thomas Müller",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Dante",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Dante",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Luis Gustavo",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Luis Gustavo",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Kaiserslautern",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Leverkusen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Mönchengladbach",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "content": "Close Relationship Between China and Iran\nThe five permanent members of the United Nations Security Council agree that Iran should not be allowed to develop nuclear weapons. The West is ready to impose strict sanctions but Russia and China disagree. They want to use diplomacy. China, which holds the rotating presidency in January, is a strong supporter of the regime in Tehran. However, Chinese dissidents are showing their support of the opposition movement on the Internet.\nChina thinks that the nuclear row with Iran can be resolved with dialogue and negotiations. It says more time and more patience is needed. Moreover, it seems less certain than the West about Tehran’s nuclear intentions. Beijing believes that the nuclear programme is only being developed for civilian purposes, says German Iran expert Udo Steinbach. “China does not share the international community’s dramatic interpretation of the programme,” he says, “which presumes that Iran is working on a bomb.” Three UN resolutions against Iran However, to prevent Tehran from building a bomb in the future, Beijing has already supported three UN resolutions against Iran. These allow sanctions to be imposed on organisations and individuals that develop nuclear weapons. But China does not support stricter sanctions. China has massive economic interests in Iran, from which the energy-hungry country imports some 15 percent of its oil. Chinese companies have invested millions to tap into the country’s oil and gas reserves. The two regimes are also linked by a similar attitude to the international community. Neither government likes it when the West interferes with what they call their domestic affairs. They are both extremely intolerant of opposition and ready to use repression to keep it under control. “We can assume that the Chinese leadership approves the Iranian government’s measures against the demonstrators,” says Steinbach. “The Beijing system is still prepared to beat down any resistance.” The Iranian opposition website www.rahesabz.net, which translates as the Green Path, thinks that the Chinese government is actively helping the Iranian authorities to repress protests by providing weapons and vehicles. Bloggers have posted photos to illustrate these allegations, which Tehran has rejected as being Western fakes. Chinese dissidents support Iranian opposition Whilst the regimes are thought to be working together, dissidents in both countries are also connected by the Internet. The Iranian opposition movement has received many messages of support via the Twitter-based “China4Iran” group for example. “Since June, we’ve been following really closely because we feel the Iranian people are in a similar position as the Chinese,” explains one activist, who refused to be named. “What they did is very courageous -- they showed us courage by being willing to stand up to the regime and demand what they actually want. They want to be fully represented in this country. That’s what we want here exactly in China.“ A spokesperson from the Chinese foreign ministry said at the beginning of China’s UN Security Council presidency that the government hoped Iranian society would remain unified and stable. In January, there is likely to be little talk about international negotiations on Iran’s nuclear programme. Tehran has more pressing things to attend -- it hopes to get Iran's opposition movement under control. Author: Christoph Ricking/Anne Thomas Editor: Thomas Bärthlein",
+  "relations": [
+    [
+      "Udo Steinbach",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "www.rahesabz.net",
+      "Iran",
+      "based_in0"
+    ],
+    [
+      "www.rahesabz.net",
+      "Iranian",
+      "based_in0-x"
+    ],
+    [
+      "Security Council",
+      "United Nations",
+      "institution_of"
+    ],
+    [
+      "Security Council",
+      "United Nations",
+      "part_of"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Tehran",
+      "Iranian",
+      "in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Iranian",
+      "Iran",
+      "gpe0"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "content": "German media: indication that German co-pilot 'rehearsed' crashing the plane\nThe co-pilot of the Germanwings plane had put the aircraft into an unnecessary descent on the way to Barcelona, before the doomed flight back to Düsseldorf, a German newspaper says. The crash killed 150 people.\nAhead of Wednesday's expected release of an interim report on the Germanwings crash, German mass-circulation newspaper Bild reported that flight data from the day of the deadly plane crash suggested that the young co-pilot had practiced downing the aircraft. The 27-year old co-pilot, Andreas Lubitz, allegedly put the plane into a \"controlled, technically unjustified dive, which lasted several minutes\" while traveling to Barcelona on the day of the crash, the newspaper said, citing sources close to the French BEA agency, which is in charge of investigating aviation accidents. He is suspected of intentionally flying the plane with 150 people on board into a mountainside in France during the return flight on March 24. The newspaper also speculated that the dive might not have been just a practice run, and that the co-pilot might have wanted to crash the plane on the way to Barcelona. A BEA spokeswoman confirmed to the DPA news agency that an interim report on the accident is set to be published online Wednesday, but did not immediately comment on the content. Signed off sick Lubitz had suffered from severe depression and received treatment for \"suicidal tendencies\" before obtaining his pilot's license, German authorities have said. Although doctors had no indication that the co-pilot intended to harm himself or others, he was signed off sick from work a number of times, including on the day of the crash. He apparently decided to cover that up. In addition, German investigators found that he had researched methods of suicide and ways of blocking the cockpit door online. The captain is heard no the audio from the flight unsuccessfully trying to force his way back in after briefly leaving the cabin. All the 150 people in the aircraft were killed in the crash. dj/kms (dpa, Reuters)",
+  "relations": [
+    [
+      "Germanwings",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Düsseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Andreas Lubitz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Andreas Lubitz",
+      "Germanwings",
+      "member_of"
+    ],
+    [
+      "BEA",
+      "France",
+      "agency_of"
+    ],
+    [
+      "BEA",
+      "French",
+      "agency_of-x"
+    ],
+    [
+      "BEA",
+      "France",
+      "based_in0"
+    ],
+    [
+      "BEA",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

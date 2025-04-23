@@ -1,0 +1,55 @@
+{
+  "content": "Gunman kills three in shooting at South Korean store\nPolice in South Korea say a gunman killed three people at a convenience store then set it on fire before fleeing. He was later found dead from an apparent self-inflicted gunshot wound to the head.\nAuthorities say the man shot and killed a 74-year-old man and his 50-year-old son connected to the store's owners, as well as another 52-year-old man, in the attack on Wednesday. The shop is located in Sejong City, around 120 kilometers (75 miles) from the South Korean capital Seoul. Many of the country's government offices are located in the area. In a news conference, the head of the Sejong Police Agency, Lee Ja-ha, stated that the 50-year-old gunman's body was discovered on a nearby riverbank, in an apparent suicide. One shotgun was found on the man, and another in his car. Lee described the attack as \"a pre-meditated crime caused by a combination of spurned affection and a row over how to divide property.\" The daughter of the eldest victim told police she had been living with the gunman before ending the relationship around 18 months ago. They had recently fought over financial issues, with him claiming he had a stake in the store. The woman had since moved in with the 52-year-old victim. She was not present at the time of the shootings. The assailant had taken the guns from a police station in the nearby city of Gongju in central South Korea, about two hours before the shooting took place. South Korean citizens can acquire licenses for weapons used to hunt animals, but these must be stored in police stations during the off-season. Lee confirmed that the shotguns used in the killings belonged to the man, who had obtained the required licenses for them last year. Sejong police said the suspect shot the son as he sat in a car in front of the store, then went into a house next door and killed the father. Once he entered the store he gunned down the other man before pouring paint thinner on the floor, and setting it alight. The Asian nation's level of gun crime is extremely low, with strict laws around gun possession. Wednesday's shootings received wide coverage across news agencies nationwide. In recent years there have been several shooting deaths among soldiers, including an incident in June last year where five members of one unit were killed and seven wounded, in an attack near the border with North Korea. Under South Korean law all men have to serve two years in the military. an/sms (AP, AFP, DPA)",
+  "relations": [
+    [
+      "Sejong City",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Sejong City",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "Lee Ja-ha",
+      "Sejong Police Agency",
+      "head_of"
+    ],
+    [
+      "Lee Ja-ha",
+      "Sejong Police Agency",
+      "member_of"
+    ],
+    [
+      "South Korean",
+      "South Korea",
+      "gpe0"
+    ],
+    [
+      "Seoul",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Seoul",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "Gongju",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Gongju",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "Sejong",
+      "Sejong City",
+      "gpe2"
+    ]
+  ]
+}

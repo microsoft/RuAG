@@ -1,0 +1,110 @@
+{
+  "content": "The Netherlands Opens Up Labor Market to Recent EU Members\nThe Netherlands has now opened its borders fully to workers from countries that joined the European Union in 2004. It joins eight other EU nations which have already benefited from the same move.\nThe Netherlands has dismantled its barriers one at a time. The first move was lifting restrictions on the number of workers allowed to migrate to the nation from countries that joined the EU; a total of 22,000 workers were formerly permitted entry. In June 2006, the government freed employers in 23 different sectors from the obligation of first having to search for qualified Dutch or other people from old member states before hiring, say, someone from Poland. In December last year, 16 other sectors of the labor market were added to the list. Polish supermarkets in The Hague Tens of thousands of Polish, Czech and Hungarians workers have meanwhile settled in the Netherlands. \"The Hague now has a slew of Polish supermarkets,\" said Günther Gülker of the German-Dutch Chamber of Commerce and Industry. Yet the Netherlands' borders did not open completely until March 1, 2007. Since then, workers from new EU-member states are welcome to work everywhere. There are over 250,000 jobs up for grabs in a country with just four percent unemployment. The construction industry in particular is desperate. \"There's an acute shortage in that area,\" said Gülker. The Dutch government and employers' associations are convinced that the influx of new workers is boosting economic growth, which reached 2.9 percent in 2006. \"Opening up the employment market can certainly have a positive impact on the economy,\" said Paul de Beer, an economics professor at the University of Amsterdam. Economic sectors which have a shortage of workers can anticipate growth, he said. Equal pay for equal work There's a flip side too, however. In the long term, liberalization can push wages down. \"Many workers migrating to the Netherlands are willing to work for lower pay,\" de Beer said. \"That's going to have consequences.\" Yet the Dutch government has taken steps to protect domestic workers. Dutch law requires employers to pay newly arrived, foreign workers the same wages as their Dutch colleagues. In addition, employment agencies are to locate jobs for foreign workers. Employers have also obliged themselves to finding proper accommodation for the workers. Furthermore, a supervisory agency has also been established to handle complaints or infringements. Germany and Austria lagging behind The Netherlands isn't the first country to open up its labor market. Great Britain, Ireland and Sweden did not even impose limits following the EU's eastern enlargement. Finland, Greece, Italy, Portugal and Spain have already abolished entry restrictions. Belgium, Denmark, France and Luxembourg will follow suit in 2009. Only Germany and Austria want maintain their liberalization phase in transition until 2011. Those countries argue that their geographical location put their employment markets at risk: their proximity to the new EU-member states Bulgaria and Romania would make them even more vulnerable to foreign workers migration. Studies by the European Commission confirm Austria's fears. The number of citizens from \"new\" EU countries in Austria has doubled in the past three years -- to 1.4 percent. In Germany, however, the number has increased only slightly -- to 0.7 percent. The Munich-based economic research institute Ifo confirmed the figures. In 2004 and 2005, around 24,000 Eastern Europeans moved to Austria to work; only 12,000 moved to Germany. Positive economic effects The number of \"new\" EU citizens migrating to \"old\" EU countries has remained stable following expansion. Interestingly, figures should that the effects of foreign worker migration are positive: employees from eastern Europe did their part in filling the demand for qualified workers in other markets, the European Commission said. Jörg Lackenbauer, an economist at the Center for European Policy in Freiburg, agreed. More than 450,000 people have migrated to Great Britain from the EU-acceding countries. \"The effect on domestic employees was minimal. \"But the economy benefited from the effects of migration in that the potential for production and the gross domestic product rose,\" he said. In Germany, the debate about liberalizing the employment market for migrants has quieted. But it could get louder soon: the Czech Republic has announced it will focus on liberalization during its EU presidency beginning in January 2009. Without the current transitional periods for liberalization for countries like Germany and Austria, the EU's gross domestic product would currently be up to one percent higher,\" said Lackenbauer. \"Besides, liberalization of the employment market is one of the basic tenants of the single European market,\" he said. \"The treaty for establishing the European Community clearly dictates its implementation,\" he said.",
+  "relations": [
+    [
+      "Günther Gülker",
+      "German-Dutch Chamber of Commerce and Industry",
+      "member_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Jörg Lackenbauer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jörg Lackenbauer",
+      "Center for European Policy",
+      "member_of"
+    ],
+    [
+      "Paul de Beer",
+      "Netherlands",
+      "citizen_of"
+    ],
+    [
+      "Paul de Beer",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "Paul de Beer",
+      "University of Amsterdam",
+      "member_of"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ],
+    [
+      "Polish",
+      "Poland",
+      "gpe0"
+    ],
+    [
+      "The Hague",
+      "Netherlands",
+      "in0"
+    ],
+    [
+      "The Hague",
+      "Dutch",
+      "in0-x"
+    ],
+    [
+      "Czech",
+      "Czech Republic",
+      "gpe0"
+    ],
+    [
+      "University of Amsterdam",
+      "Netherlands",
+      "based_in0"
+    ],
+    [
+      "University of Amsterdam",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Ifo",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Ifo",
+      "Munich",
+      "based_in2"
+    ],
+    [
+      "Center for European Policy",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Center for European Policy",
+      "Freiburg",
+      "based_in2"
+    ],
+    [
+      "Freiburg",
+      "Germany",
+      "in0"
+    ]
+  ]
+}

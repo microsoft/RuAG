@@ -1,0 +1,215 @@
+{
+  "content": "Moscow and Ankara fueling the fire from downed plane\nTurkish President Erdogan said he wanted to talk \"face to face\" with Russia's Putin about the downing of the Russian plane. The two countries continue to trade blame, with Moscow preparing to retaliate economically.\nThe deadly incident was an \"automatic response to the airspace violation,\" Turkish President Recep Tayyip Erdogan said in a speech on Friday. \"Turkey did not deliberately [shoot] down the Russian warplane,\" he said. Ankara says that the bomber entered Turkish airspace and ignored multiple warnings, while Moscow says that the Turkish forces fired at the aircraft above Syria, without warning. Russian President Vladimir Putin has accused Ankara of a \"planned provocation,\" and a \"stab in the back.\" On Friday, Erdogan described Putin's criticism as \"unacceptable\" and asked Russia to prove its \"grave and unfair\" accusations. Erdogan calling for a Paris meet The Turkish president also blamed the Kremlin for backing the regime of \"murderer\" President Bashar al-Assad in Syria, likening this to \"playing with fire.\" Speaking to his supporters in northeast Turkey, Erdogan said he \"would like to meet [Putin] face to face in Paris,\" during the upcoming climate meet. \"There is a summit in Paris, I believe he will also attend. We could sit and talk there,\" Erdogan said. \"I would like to bring the issue to a reasonable point. We are disturbed that the issue has been escalated.\" 'Simply apologize' The Kremlin has received Erdogan's request, said Putin's spokesman Dmitri Peskov. However, Peskov did not clarify whether Moscow had accepted or refused the offer. \"The president has been told about this request... That's all I can say,\" he told reporters. Putin had refused Erdogan's earlier attempts at contact, because Turkey was not ready to apologize, according to Putin's aide Yuri Ushakov. \"We see Turkey's unwillingness to simply apologize for the incident with the plane,\" Ushakov told reporters. Also on Friday, the Russian Foreign Minister Lavrov said that Moscow has decided to suspend visa-free travel with Turkey, in addition to economic retaliatory measures. Ankara \"risks putting Turkey in a most severe situation, with respect to both its long-term national interests and the situation in the region,\" according to Lavrov. \"We believe that the Turkish leadership has crossed the line of what is acceptable,\" he said. Assad and 'IS' to profit Turkish Prime Minister Ahmet Davutoglu called for unity against the \"Islamic State\" and argued that the shooting of the plane was not directed at Russia. \"The downing of an unidentified jet in Turkish airspace was not - and is not - an act against a specific country,\" he wrote in an article published in the Friday edition of The Times of London. \"The international community must not turn on itself. Otherwise the only victors will be Daesh... and the Syrian regime,\" he said, using an Arabic term for IS jihadists. dj/msh (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ],
+    [
+      "Lavrov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Lavrov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Lavrov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Lavrov",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Lavrov",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "Dmitri Peskov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Dmitri Peskov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Dmitri Peskov",
+      "Vladimir Putin",
+      "member_of"
+    ],
+    [
+      "Dmitri Peskov",
+      "Vladimir Putin",
+      "spokesperson_of"
+    ],
+    [
+      "Yuri Ushakov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Yuri Ushakov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Yuri Ushakov",
+      "Vladimir Putin",
+      "member_of"
+    ],
+    [
+      "Yuri Ushakov",
+      "Vladimir Putin",
+      "spokesperson_of"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkey",
+      "head_of_gov"
+    ],
+    [
+      "Ahmet Davutoglu",
+      "Turkish",
+      "head_of_gov-x"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ]
+  ]
+}

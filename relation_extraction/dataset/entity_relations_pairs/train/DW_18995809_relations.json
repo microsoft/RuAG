@@ -1,0 +1,105 @@
+{
+  "content": "Germany, Britain back Lagarde for second term as IMF head\nGermany has joined Great Britain in backing Christine Lagarde for a second term at the head of the International Monetary Fund. Lagarde herself, however, is not ready to commit to seeking the job again.\nA statement from Germany's Finance Ministry on Thursday lent support to the idea of keeping Christine Lagarde in her position at the head of the International Monetary Fund for another term. \"Ms. Lagarde was a prudent and effective crisis manager in the difficult times after the financial crisis,\" the statement read from Finance Minister Wolfgang Schäuble's office read. \"At the same time, she managed to bundle the interests of IMF stakeholders and to further increase the efficiency of the IMF.\" British Finance Minister George Osborne issued a similar statement on Thursday saying, \"At a time when the world faces what I've called a dangerous cocktail of risks, I believe Christine has the vision, energy and acumen to help steer the global economy through the years ahead.\" Lagarde took part in a panel discussion at the World Economic Forum in Davos, Switzerland, on Thursday and briefly addressed the idea of second term at the IMF. \"I'll be waiting before I say anything about that,\" she said. Lagarde's term is set to run out in July. She has served as the IMF head since July 2011. mz/sms (AP, dpa)",
+  "relations": [
+    [
+      "Christine Lagarde",
+      "International Monetary Fund",
+      "head_of"
+    ],
+    [
+      "Christine Lagarde",
+      "International Monetary Fund",
+      "member_of"
+    ],
+    [
+      "World Economic Forum",
+      "Switzerland",
+      "event_in0"
+    ],
+    [
+      "World Economic Forum",
+      "Davos",
+      "event_in2"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "George Osborne",
+      "Great Britain",
+      "agent_of"
+    ],
+    [
+      "George Osborne",
+      "Great Britain",
+      "citizen_of"
+    ],
+    [
+      "George Osborne",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "George Osborne",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "George Osborne",
+      "Great Britain",
+      "minister_of"
+    ],
+    [
+      "George Osborne",
+      "Britain",
+      "minister_of-x"
+    ],
+    [
+      "George Osborne",
+      "British",
+      "minister_of-x"
+    ],
+    [
+      "Britain",
+      "Great Britain",
+      "gpe0"
+    ],
+    [
+      "Finance Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Finance Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Finance Ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "British",
+      "Great Britain",
+      "gpe0"
+    ],
+    [
+      "Davos",
+      "Switzerland",
+      "in0"
+    ]
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "content": "Opinion: Yet another crisis for Merkel\nA summery turquoise blazer and fresh makeup could not hide the fact that Angela Merkel was \"not amused.\" Now she is needed as a champion in the fight against populist forces, DW's Kay-Alexander Scholz writes.\nBritain-EU divorce proceedings will probably last about two years. Until then, the status quo must be maintained, German Chancellor Angela Merkel emphasized in her press statement. If she is no longer chancellor after the upcoming parliamentary elections in 2017, then others will have to live with the consequences of Brexit. But that is not what she is actually thinking. It is not coincidental that foreign ministers and government leaders are visiting Berlin in the coming days. They want to discuss how things will continue. Berlin, under Merkel's chancellorship, has become a center of power outside of Brussels. Difficult international politics The Brexit decision has disrupted Europe's equilibrium. Germany has lost an important ally on European issues related to economic growth and budgetary discipline. Now, France presumably will be the next to raise its voice against Maastricht Treaty criteria. If the Netherlands and Denmark also decide to leave the EU, Germany will become isolated, as Eastern Europe is not as tight with Germany as it once was. Poland now plays a key role for the Balkan nations and the Visegrad Group (Poland, Hungary, Czech Republic and Slovakia). And Poland is still annoyed about Merkel's refugee policy. What about Germany's populists? They're giddy with glee as they feel that their anti-establishment policies have been validated. They are teaching potential AfD (Alternative for Germany) voters a lesson: \"Here, have a look: it's possible. There is always an alternative. Vote for us!\" Those are exactly the words that protest voters want to hear. Germany's AfD has forged ties with other right-wing parties in Vienna, Paris, The Hague and London. They are all pursuing a \"European\" plan to gain power. The recent Austrian presidential election was significant, as the populist candidate lost by a very narrow margin; in fact, the final election results are still undecided as they are being contested. The Brexit vote was also triggered by populist powers. Domestically difficult Many populists believe that the stronger populism becomes - no matter where - the more advantages there would be for individual parties of their persuasion. Many would also like to see Donald Trump as US president. That is how AfD may become even stronger in Germany, which also means that political majorities would fluctuate even more. Will there be enough seats after the next election for a Christian Democrat and Green coalition, or will yet another grand coalition made up of Christian Democrats and Social Democrats be formed? Can Angela Merkel change course? Can she counter the trend with a new political model in Europe and Germany? Or do we stand on the edge of a new era, a \"political revolution,\" as the AfD calls it? Until now, Europe has survived attacks on its currency (euro crisis), the principle of peaceful coexistence (Crimea crisis) and its open borders policy (refugee crisis). Merkel deserves credit for defending these values, despite mistakes that have been made along the way. The outcome of the Brexit crisis is, however, still open. Have something to say? Add your comments below.",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Alternative for Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Alternative for Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kay-Alexander Scholz",
+      "DW",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Vienna",
+      "Austrian",
+      "in0-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "The Hague",
+      "Netherlands",
+      "in0"
+    ],
+    [
+      "London",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Green",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Green",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

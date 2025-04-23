@@ -1,0 +1,155 @@
+{
+  "content": "South Africa's ANC 'must end corruption' to win back voters\nThe ruling party has published a policy paper calling for an end to internal squabbles, poor governance and corruption. The report predicts that more voters will desert the party if it fails to reform.\nAn ANC policy document released on Sunday warned that the party, which has ruled virtually unopposed since the end of apartheid in 1994, now faced \"declining fortunes.\" The paper, produced by the party's leadership, blamed \"internal squabbles, money politics, corruption and poor performance in government\" adding that they had all conspired \"to undermine its legitimacy in the eyes of the broader public.\" The report also warned that the party must deliver on promises to tackle poverty, in a country where about 35 percent of the labor force is unemployed or has given up looking for work. The ANC suffered its worst-ever results in local polls last August, losing its grip on cities including Pretoria and Johannesburg, amid a slew of corruption allegations against President Jacob Zuma. The party's policy chief Jeff Radebe acknowledged that the party was \"increasingly losing trust of the people.\" Win back trust \"The organization must act urgently to restore its moral character to win back the trust of the people,\" he told a meeting at the ANC's Johannesburg headquarters. More than two decades after the ANC ended white-minority rule with Nelson Mandela at its helm, inequality festers in South Africa. Black people make up 80 percent of the 54 million population, yet the white minority control the lion's share of the economy in terms of ownership of land and companies. The paper contained few specific policies but is to form the basis of debates at the party's national conference which kicks off on June 30, party officials said. Zuma tries to shore up support Zuma called this month for the constitution to be changed so white-owned land could be redistributed to black South Africans without compensation for owners. He has also called for a public expenditure boost to fund a \"radical economic transformation,\" at the same time as his Finance Minister Pravin Gordhan is trying to tackle graft and uncontrolled spending. Zuma's term as ANC leader ends at the end of the year, and a new leader will be picked at the June conference. Analysts said factional fighting over who should replace Zuma, who has governed since 2009, has seen the ANC government take its eye off much-needed policy implementation. The party's constitution does not bar him from standing for a third term, but he has repeatedly said he will not. mm/jm (AFP, Reuters)",
+  "relations": [
+    [
+      "ANC",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "ANC",
+      "South Africans",
+      "based_in0-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africans",
+      "citizen_of-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "head_of_state"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africans",
+      "head_of_state-x"
+    ],
+    [
+      "Pretoria",
+      "South Africa",
+      "in0"
+    ],
+    [
+      "Pretoria",
+      "South Africans",
+      "in0-x"
+    ],
+    [
+      "Johannesburg",
+      "South Africa",
+      "in0"
+    ],
+    [
+      "Johannesburg",
+      "South Africans",
+      "in0-x"
+    ],
+    [
+      "Jeff Radebe",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Jeff Radebe",
+      "South Africans",
+      "citizen_of-x"
+    ],
+    [
+      "Jeff Radebe",
+      "ANC",
+      "head_of"
+    ],
+    [
+      "Jeff Radebe",
+      "ANC",
+      "member_of"
+    ],
+    [
+      "Nelson Mandela",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Nelson Mandela",
+      "South Africans",
+      "citizen_of-x"
+    ],
+    [
+      "Nelson Mandela",
+      "ANC",
+      "head_of"
+    ],
+    [
+      "Nelson Mandela",
+      "ANC",
+      "member_of"
+    ],
+    [
+      "South Africans",
+      "South Africa",
+      "gpe0"
+    ],
+    [
+      "Finance",
+      "South Africa",
+      "agency_of"
+    ],
+    [
+      "Finance",
+      "South Africans",
+      "agency_of-x"
+    ],
+    [
+      "Finance",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "Finance",
+      "South Africans",
+      "based_in0-x"
+    ],
+    [
+      "Finance",
+      "South Africa",
+      "ministry_of"
+    ],
+    [
+      "Pravin Gordhan",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Pravin Gordhan",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Pravin Gordhan",
+      "South Africans",
+      "citizen_of-x"
+    ],
+    [
+      "Pravin Gordhan",
+      "South Africa",
+      "minister_of"
+    ],
+    [
+      "Pravin Gordhan",
+      "South Africans",
+      "minister_of-x"
+    ]
+  ]
+}

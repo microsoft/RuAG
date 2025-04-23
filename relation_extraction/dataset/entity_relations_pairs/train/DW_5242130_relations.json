@@ -1,0 +1,90 @@
+{
+  "content": "Cologne considers emergency plan for Rose Monday holiday\nJust over a year since the collapse of the Cologne archives building, authorities have expressed concern over ongoing underground subway work in the city, German media says.\nConcerns over underground subway work in the western German city of Cologne prompted city authorities there to consider evacuation plans for the upcoming Rose Monday public holiday festivities, German media reports. The precautions come less than a year after the Cologne City Archives building collapsed into the ground, along with an apartment building, killing two people. The collapse occurred during building work aimed at expanding Cologne's underground train network. The buildings were above one of the construction sites. However, city manager Guido Kahlen said party-goers and locals were safe on Cologne's streets during the carnival festival. \"There is no danger of collapse,\" Kahlen told a news conference on Friday. \"Even during the festivities, we will be able to react quickly.\" The Rose Monday festival see hundreds of thousands of Germans descend upon Cologne, placing a huge strain on the city's streets and public transportation network. Extra precautions Cologne public prosecutors said they had communicated their concerns over the upcoming public holiday to the city's public transport authority, the KVB, which is overseeing the ongoing underground work, German newsmagazine Der Spiegel reported. City chiefs then reportedly consulted specialists to create an emergency plan for the area around Cologne's Waidmarkt tram stop. However, after further examination of the danger posed by the mass crowds the plan was reportedly dropped. Meanwhile, Cologne city authorities said Thursday they had learned that less than one-fifth of the steel brackets purchased for the underground line beneath the Heumarkt tram stop were in place, the daily Koelner Stadt-Anzeiger reported. The paper said that upon investigation it was found that 83 percent of the brackets, purchased to reinforce the concrete walls of the underground tunnels, were used during construction. Der Spiegel reported that the site's foreman and several employees were believed to have stolen many of the brackets and sold them to a scrap metal merchant. dfm/dpa/AFP Editor: Rob Turner",
+  "relations": [
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Cologne",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Rose Monday",
+      "Cologne",
+      "event_in2"
+    ],
+    [
+      "Guido Kahlen",
+      "Cologne",
+      "agent_of"
+    ],
+    [
+      "Guido Kahlen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Kahlen",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "KVB",
+      "Cologne",
+      "agency_of"
+    ],
+    [
+      "KVB",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "KVB",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "KVB",
+      "Cologne",
+      "based_in2"
+    ],
+    [
+      "Cologne City Archives",
+      "Cologne",
+      "in2"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Der Spiegel",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Waidmarkt",
+      "Cologne",
+      "in2"
+    ],
+    [
+      "Heumarkt",
+      "Cologne",
+      "in2"
+    ],
+    [
+      "Koelner Stadt-Anzeiger",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Koelner Stadt-Anzeiger",
+      "Germans",
+      "based_in0-x"
+    ]
+  ]
+}

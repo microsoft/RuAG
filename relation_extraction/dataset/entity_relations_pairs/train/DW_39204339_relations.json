@@ -1,0 +1,190 @@
+{
+  "content": "'Dear Evan Hansen' takes home most statuettes at 71st Tony Awards\nMore unpredictable than in recent years with many strong contenders vying for the theater prizes, Kevin Spacey, who won a Tony himself, hosted the awards show. \"Dear Evan Hansen\" did well.\nWhat started as an open field for theater's biggest night became Evan Hansen's big celebration. \"Dear Evan Hansen\" took home six statuettes at Sunday night's Tony Awards, including best musical. The show depicts a lonely teenager, Evan Hansen, who makes up a previous friendship with a classmate who just committed suicide. Hansen eventually gains the family's acceptance until the truth is discovered. Song writers Benj Pasek and Justin Paul won best original score for their work on the musical. Pasek and Paul also won an Oscar earlier this year for writing the lyrics to film musical \"La La Land.\" Ben Platt, who plays the anxious Hansen, won best performance by an actor in a leading role in a musical. Platt also starred in the \"Pitch Perfect\" movies and \"The Book of Mormon.\" Oslo best play \"Oslo\" won the best play award. The play goes through the 1993 meetings between Israeli and Palestinian diplomats, which led to the Oslo Accords and handshake between Israel Prime Minister Yitzhak Rabin and Palestine Liberation Organization (PLO) Chairman Yasser Arafat. Actor Michael Aronov won the Tony for best actor in a featured role in the play. \"Natasha, Pierre and the Great Comet of 1812\" had 12 nominations, which was more than any other Broadway production. It came away with two Tony awards for best set and lighting. Dolly may never go away again The classic \"Hello, Dolly!\" came back to Broadway to thunderous applause. The musical won four Tonys, including best musical revivla and Bette Midler taking home her first statuette as best actress in a musical. Midler said she had a \"very tough schedule\" but the experience had been \"life-affirming and life-changing.\" \"It's more than I deserve,\" said Midler. Kevin Spacey hosted the show. A two time Oscar winner, Spacey was involved in some of the musical numbers and did impressions. He won a Tony Award in 1991 for his role in \"Lost in Yonkers.\" Spacey currently plays ruthless politician Frank Underwood in the Netflix series \"House of Cards.\" James Earl Jones, most well known for the voice of Darth Vader from the \"Star Wars\" franchise, received a lifetime achievement award. kbd/jm (AP, dpa, Reuters)",
+  "relations": [
+    [
+      "Palestine Liberation Organization",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Dear Evan Hansen",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Evan Hansen",
+      "Dear Evan Hansen",
+      "character_in"
+    ],
+    [
+      "Evan Hansen",
+      "Ben Platt",
+      "played_by"
+    ],
+    [
+      "Benj Pasek",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Benj Pasek",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Justin Paul",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Justin Paul",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Ben Platt",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Ben Platt",
+      "Dear Evan Hansen",
+      "plays_in"
+    ],
+    [
+      "Ben Platt",
+      "Pitch Perfect",
+      "plays_in"
+    ],
+    [
+      "Ben Platt",
+      "The Book of Mormon",
+      "plays_in"
+    ],
+    [
+      "Bette Midler",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Bette Midler",
+      "Hello, Dolly!",
+      "plays_in"
+    ],
+    [
+      "Kevin Spacey",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Kevin Spacey",
+      "Lost in Yonkers",
+      "plays_in"
+    ],
+    [
+      "Kevin Spacey",
+      "House of Cards",
+      "plays_in"
+    ],
+    [
+      "Oslo",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Yasser Arafat",
+      "Palestine Liberation Organization",
+      "head_of"
+    ],
+    [
+      "Yasser Arafat",
+      "Palestine Liberation Organization",
+      "member_of"
+    ],
+    [
+      "Michael Aronov",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Michael Aronov",
+      "Natasha, Pierre and the Great Comet of 1812",
+      "plays_in"
+    ],
+    [
+      "Natasha, Pierre and the Great Comet of 1812",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Hello, Dolly!",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "Frank Underwood",
+      "House of Cards",
+      "character_in"
+    ],
+    [
+      "Frank Underwood",
+      "Kevin Spacey",
+      "played_by"
+    ],
+    [
+      "House of Cards",
+      "Netflix",
+      "created_by"
+    ],
+    [
+      "James Earl Jones",
+      "Tony Awards",
+      "award_received"
+    ],
+    [
+      "James Earl Jones",
+      "Star Wars",
+      "plays_in"
+    ],
+    [
+      "Darth Vader",
+      "Star Wars",
+      "character_in"
+    ],
+    [
+      "Darth Vader",
+      "James Earl Jones",
+      "played_by"
+    ]
+  ]
+}

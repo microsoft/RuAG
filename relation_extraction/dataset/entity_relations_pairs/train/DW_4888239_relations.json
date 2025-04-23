@@ -1,0 +1,105 @@
+{
+  "content": "German students protest university reforms\nStudents throughout Germany are protesting reforms to the country's university system. But Germany's education minister says the changes will go ahead as planned - preferably sooner rather than later.\nGerman university students staged demonstrations across the country on Thursday to protest recent reforms to the country's degree system and tuition fees. They also complain that colleges are underfunded and understaffed. By 2010, Germany will follow the Bachelor-Master-Doctorate format as part of the Council of Europe's Bologna reforms, aimed at synchronizing Europe's higher education standards. But critics say the new system will be too intense, as the time to complete one's degree will be shorter. \"The students are protesting against the workload that results from this more condensed course and fear that a bachelor's degree will not be enough when entering the job market,\" said Susanne Schilden, a spokeswoman for the German Rectors Conference, a group representing 265 of the country's 300 universities. Demonstrators, who occupied lecture halls in 20 German cities, including Berlin, Hamburg and Munich, also said they want tuition fees to be scrapped. Police evicted around 200 protesters from a university lecture hall in Tuebingen. Inspiration from Austria Since 2005, German universities have been allowed to charge tuition fees, which now run between 100 to 500 euros ($150 to $750) per semester. \"No one can force an academic reform against the will of the students,\" a statement from the Munich students said. \"Therefore we call for rights of co-determination for all decision-making processes that affect studies at the university.\" Education Minister Annette Schavan has called for Germany's 16 states to quickly implement the planned reforms. \"The students need a clear signal that the corrections that have been decided are being incorporated into the academic system,\" Schavan told broadcaster Suedwestrundfunk. The demonstrations began on Wednesday. They were inspired by student protests in Austria that have been underway for the past three weeks. There, too, the students are protesting against the Bologna reforms as well as plans to introduce tuition fees and to limit admissions to certain courses of study. vj/AFP/dpa Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Annette Schavan",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Annette Schavan",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Annette Schavan",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Annette Schavan",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Annette Schavan",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Bologna reforms",
+      "Germany",
+      "signed_by"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Susanne Schilden",
+      "German Rectors Conference",
+      "member_of"
+    ],
+    [
+      "German Rectors Conference",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Rectors Conference",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Tuebingen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Tuebingen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Suedwestrundfunk",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Suedwestrundfunk",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

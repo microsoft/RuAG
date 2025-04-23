@@ -1,0 +1,80 @@
+{
+  "content": "Threat of the Punjabi Taliban is growing\nDeutsche Welle talks to Pakistani political expert Hasan Askari Rizvi about the growing ties between militants in northwest Pakistan and Punjab province.\nAt least four gunmen disguised in police uniforms raided a hospital in Pakistan's eastern city of Lahore on Monday night, claiming at least five lives. Local officials said the gunmen were trying to free a militant, who was being treated there after being captured during attacks on two mosques last Friday. The police said the gunfight at Jinnah Hospital had lasted around 45 minutes but the gunmen had managed to flee. Friday's twin attacks on the minority Ahmadi community left more than 90 people dead. They were claimed by a group, which identified itself as the Punjabi wing of the Taliban. Deutsche Welle spoke to political expert Hasan Askari Rizvi in Lahore, where there has been a wave of violence in recent days. DW: Who are the \"Punjabi Taliban\"? It is a kind of a pejorative term, which includes a host of groups. Initially in Punjab, you had two types of militancy: One, the groups that focussed mainly on Indian-administered Kashmir and there were other types of groups that focussed on Pakistan. Those were the sectarian groups targeting mainly the Shias, and there were some Shia groups targeting the Sunni leadership. Over the years a lot of factions have broken away from these groups and these small entities are functioning more or less autonomously. They have trainings in the tribal areas because these are secured for them and certain parts are not under Pakistani control so these groups go there. They operate with the Pakistani Taliban based in tribal areas against the Pakistani troops in the region. They also have an autonomous agenda, which they pursue in Punjab, as they have been doing in the past days. These groups also play host or are a kind of a local link to Taliban suicide bombers who come into the main part of Pakistan from the tribal areas (let's say to Punjab). If they have to target some place, they park themselves with these Punjab groups, and then do it. All these factions and groups that have broken away from traditional militant groups and are functioning in close collaboration with tribal area Taliban are often described as the \"Punjabi Taliban\". Why do you think these militants are resurfacing now? They have always existed here and there and generally the trend is that they undertake a couple of operations, one after the other. Then the government comes in and takes action against them. Then they just disappear or become sleeping groups and suddenly after a couple of months they resurface. That's the standard pattern. The last major incident in Lahore was in the first week of March. Then there was nothing in April and now towards the end of May you have this kind of incident. Do you think the government should have taken stronger action against them? They should have but the problem is that the Punjab government has a kind of ambiguous approach and I think there is some element of denial within the leadership also. These groups also have some sympathy if not support at the societal level and that makes it difficult for the government to go against them openly. They need to work together and to emphasise to the people that they are terrorists. They use different names and Islam but actually their agenda is terrorism. Somehow the government of Punjab has been rather confused and ambiguous regarding these groups. Interview: Disha Uppal Editor: Anne Thomas",
+  "relations": [
+    [
+      "Hasan Askari Rizvi",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Hasan Askari Rizvi",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Taliban",
+      "Pakistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Pakistani",
+      "based_in0-x"
+    ],
+    [
+      "Punjabi",
+      "Punjab",
+      "gpe1"
+    ],
+    [
+      "Pakistani",
+      "Pakistan",
+      "gpe0"
+    ],
+    [
+      "Punjab",
+      "Pakistan",
+      "in0"
+    ],
+    [
+      "Punjab",
+      "Pakistani",
+      "in0-x"
+    ],
+    [
+      "Lahore",
+      "Pakistan",
+      "in0"
+    ],
+    [
+      "Lahore",
+      "Pakistani",
+      "in0-x"
+    ],
+    [
+      "Jinnah Hospital",
+      "Pakistan",
+      "in0"
+    ],
+    [
+      "Jinnah Hospital",
+      "Lahore",
+      "in2"
+    ],
+    [
+      "Kashmir",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Disha Uppal",
+      "Deutsche Welle",
+      "member_of"
+    ],
+    [
+      "Anne Thomas",
+      "Deutsche Welle",
+      "member_of"
+    ]
+  ]
+}

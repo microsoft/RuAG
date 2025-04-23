@@ -1,0 +1,150 @@
+{
+  "content": "Russian court sentences Ukrainian pilot Nadezhda Savchenko to 22 years for murder\nThe Ukrainian pilot received her sentence a day after being found guilty by a Russian court over the killing of two journalists. Savchenko has been at the center of the conflict between Kyiv and pro-Moscow separatists.\nThe 34-year-old Savchenko was sentenced to 22 years in jail after the court found her guilty of giving the coordinates used in an attack that killed two journalists who worked for the Russian state TV broadcaster VGTRK. Savchenko has become one of the most famous faces of the ongoing conflict in Ukraine after she was taken into custody by pro-Moscow rebels in June 2014. Following her arrest, Kyiv granted her diplomatic immunity by appointing her as a representative to the Council of Europe. However, Moscow argued she still had to stand trial, as the alleged crime occurred after the appointment was made. She has denied any wrongdoing, and Ukrainian President Petro Poroshenko has called on Moscow to return her to the country. Russian officials have suggested they are open to handing Savchenko over as part of a prisoner swap. The pilot responded to the sentencing in court by singing aloud the Ukrainian national anthem. Complicit in murder Savchenko was also found guilty of illegally crossing the Russian border. On Monday, the Russian court declared that Savchenko, \"having skills of military training, and experience in military actions in Iraq, while on a holiday, on her own choice in order to participate in the armed conflict in Ukraine's southeast, came to the Aidar batallion under commander Sergey Melnichuk, which was located in the town of Schastye in the Luhansk region.\" The court said Melnichuk was primarily responsible for the killings, and that he'd supplied the pilot with the gear and equipment. Savchenko has called the accusations a \"lie,\" something also echoed by both Brussels and Washington, who believe the pilot was abducted by pro-Moscow rebels and falsely charged. Russia has been accused of backing the rebellion in the eastern part of the country, which erupted after demonstrators forced President Viktor Yanukovich out of office in February 2014. The ensuing conflict has led to the deaths of more than 9,000 people, according to the UN. blc/msh (AP, AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Nadezhda Savchenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Nadezhda Savchenko",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "VGTRK",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "VGTRK",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukrainian",
+      "head_of_state-x"
+    ],
+    [
+      "Sergey Melnichuk",
+      "Aidar",
+      "member_of"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Kyiv",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Aidar",
+      "Ukraine",
+      "agency_of"
+    ],
+    [
+      "Aidar",
+      "Ukrainian",
+      "agency_of-x"
+    ],
+    [
+      "Aidar",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Aidar",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Schastye",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Schastye",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Luhansk",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Luhansk",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Viktor Yanukovich",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Viktor Yanukovich",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Viktor Yanukovich",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Viktor Yanukovich",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Viktor Yanukovich",
+      "Ukrainian",
+      "head_of_state-x"
+    ]
+  ]
+}

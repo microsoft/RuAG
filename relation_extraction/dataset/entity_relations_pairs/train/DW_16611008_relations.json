@@ -1,0 +1,100 @@
+{
+  "content": "ICC weighs war crimes case on Ivorian ex-president Gbagbo\nThe International Criminal Court is weighing the prosecution’s case against the former president of the Ivory Coast. Laurent Gbagbo faces four counts of crimes against humanity for post-election violence in 2010-2011.\nFormer Ivorian president Laurent Gbagbo faced the International Criminal Court (ICC) in The Hague for a pre-trial hearing on Tuesday, making him the first former head of state to appear before the world's permanent war crimes tribunal. A three-judge panel is considering whether or not the case against Gbagbo is enough to send the ex-president to trial. The judges have until February 28 to make their decision. Gbagbo faces four counts of crimes against humanity – including rape and murder – for allegedly fomenting violence after he refused to concede a November 2010 presidential election to his opponent Alassane Ouattara. Four months of fighting followed the contested election, leaving some 3,000 people dead. Gbagbo was ultimately ousted by French forces, UN peacekeepers and pro-Ouattara forces. Allegations of massacres The prosecutors argued that Gbagbo tried to “stay in power by all means…through carefully planned, sustained and deadly attacks” against perceived supporters of Ouattara. They accused Gbagbo forces of massacring at least 80 people in Yopougon – a suburb of the capital, Abidjan – one day after the ex-president was arrested in April 2011. But the defense called for the case to be declared inadmissible, arguing for Gbagbo to face trial in the Ivory Coast. The ICC is a court of last resort, intervening only when the local judiciary proves either unable or unwilling to prosecute war crimes and crimes against humanity. “Ivory Coast is neither unable nor unwilling to prosecute President Gbagbo,” defense lawyer Dov Jacobs told the judges on Tuesday. Victor's justice? Some 300 Gbagbo supporters gathered outside of the court in The Hague, calling for the former president to be freed. “We're here today because President Gbagbo is to appear before the ICC even though he's a democratically elected president and the charges against him should be for Alassane Ouattara,” Hubert Seka, who travelled from Italy, told the AFP news agency. Although the New York-based Human Rights Watch (HRW) praised the proceedings against Gbagbo, the group also expressed concern that investigations against pro-Ouattara forces were not moving fast enough. “Holding Gbagbo to account is a critical step for victims in [Ivory Coast],”Param-Preet Singh, senior international justice counsel at HRW, said in a release. “But the slow pace of investigations against pro-Ouattara forces feeds the perception that the ICC is going along with victor's justice.” slk/dr (AP, AFP)",
+  "relations": [
+    [
+      "Human Rights Watch",
+      "New York",
+      "based_in2"
+    ],
+    [
+      "International Criminal Court",
+      "The Hague",
+      "based_in2"
+    ],
+    [
+      "Laurent Gbagbo",
+      "Ivory Coast",
+      "agent_of"
+    ],
+    [
+      "Laurent Gbagbo",
+      "Ivory Coast",
+      "citizen_of"
+    ],
+    [
+      "Laurent Gbagbo",
+      "Ivorian",
+      "citizen_of-x"
+    ],
+    [
+      "Laurent Gbagbo",
+      "Ivory Coast",
+      "head_of_state"
+    ],
+    [
+      "Laurent Gbagbo",
+      "Ivorian",
+      "head_of_state-x"
+    ],
+    [
+      "Alassane Ouattara",
+      "Ivory Coast",
+      "agent_of"
+    ],
+    [
+      "Alassane Ouattara",
+      "Ivory Coast",
+      "citizen_of"
+    ],
+    [
+      "Alassane Ouattara",
+      "Ivorian",
+      "citizen_of-x"
+    ],
+    [
+      "Alassane Ouattara",
+      "Ivory Coast",
+      "head_of_state"
+    ],
+    [
+      "Alassane Ouattara",
+      "Ivorian",
+      "head_of_state-x"
+    ],
+    [
+      "Ivorian",
+      "Ivory Coast",
+      "gpe0"
+    ],
+    [
+      "Yopougon",
+      "Ivory Coast",
+      "in0"
+    ],
+    [
+      "Yopougon",
+      "Abidjan",
+      "in2"
+    ],
+    [
+      "Abidjan",
+      "Ivory Coast",
+      "in0"
+    ],
+    [
+      "Abidjan",
+      "Ivorian",
+      "in0-x"
+    ],
+    [
+      "AFP",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Param-Preet Singh",
+      "Human Rights Watch",
+      "member_of"
+    ]
+  ]
+}

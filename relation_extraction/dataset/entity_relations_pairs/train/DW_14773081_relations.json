@@ -1,0 +1,170 @@
+{
+  "content": "Return of 'Baby Doc' Duvalier adds further confusion in Haiti\nFormer Haitian dictator Jean-Claude Duvalier is back in Haiti after a quarter century of French exile. Deutsche Welle looks back at his past and explores what his return could mean for the troubled island nation.\nDuvalier arrived back in his homeland on Sunday and Haitian media were immediately dominated by the news of his return. Duvalier has not said much about his motivation other than a few scarcely audible statements on Haitian radio to the effect that he wants to help. A press conference was repeatedly postponed and has been rescheduled for Tuesday. His return came as something of a surprise, but supporters were informed in advance and turned out in droves at Port-au-Prince's airport to greet and cheer the former dictator. \"It's a victory, almost exactly 25 years after he left the country,\" one of them told reporters. \"According to our constitution, he should only have spent 10 years in exile. He waited longer than that, but now he's back again.\" Duvalier was overthrown by a popular uprising in 1986. And large numbers of Haitians - as well the vast majority of the international community - are not at all enthused about Baby Doc's return. Dark chapter of history In particular, human rights organizations are appalled by the thought of Duvalier once again playing a role in Haitian politics. 'Baby Doc,' as the former dictator is nicknamed, and his father Francois 'Papa Doc' Duvalier are thought to have committed numerous human rights offenses, including the murder of tens of thousands of Haitians, between 1957 and 1986 when they ruled the country. \"During [Jean-Claude Duvalier's] regime, there was torture, people were imprisoned for political reasons, opposition figures were murdered or disappeared, and women were raped,\" said Gerardo Ducas, a Haiti expert at Amnesty International. \"There's a long list of human rights violations for which Jean-Claude Duvalier should be called to answer for in front of a Haitian court.\" But the Haitian judiciary has yet to move against the former dictator. And given the chaotic situation in Haiti at present, it is hard to imagine any concerted efforts being made toward his arrest. Not only is the country still trying to recover from the devastating effects of last year's earthquake. Haitian politics are also in turmoil since an inconclusive and possibly corrupt election in late November. No final results from that vote have been published, nor any date set for a run-off election, leaving current president Rene Preval in office for the foreseeable future. Rampant speculations At present, no one knows why, or at whose behest, Duvalier chose this particular moment to return to Haiti. According to an article in Mother Jones magazine, Haitian media as well as ordinary people on the street think his return was engineered by France and the United States, as a means of putting pressure on Preval. Journalist Amy Wilentz, who spent time in Haiti under the Baby Doc regime, also thinks the timing of his return is anything but arbitrary. \"I don't think this man should have anything to do with Haitian politics,\" Wilentz said. \"Merely by setting foot in the country he raises a lot of political questions. Somebody let him back in; somebody gave him the okay. It seems inconceivable that he's coming home to retire. So he's coming home to exert some kind of political influence.\" But others believe that Baby Doc has only returned to Haiti to secure his family fortune. And there's even a rumor that he returned solely to renew his passport and that he already has a return ticket to Paris, booked for the end of this week. The coming days and weeks will tell what political agenda, if any, Duvalier is pursuing. One thing, however, is certain. His return has added an extra bit of political confusion at a time when Haiti can ill afford any potentially incendiary distractions. Author: Martin Polansky (jc) Editor: Rob Mudge",
+  "relations": [
+    [
+      "Jean-Claude Duvalier",
+      "Haiti",
+      "agent_of"
+    ],
+    [
+      "Jean-Claude Duvalier",
+      "Haiti",
+      "citizen_of"
+    ],
+    [
+      "Jean-Claude Duvalier",
+      "Haitian",
+      "citizen_of-x"
+    ],
+    [
+      "Jean-Claude Duvalier",
+      "Haitians",
+      "citizen_of-x"
+    ],
+    [
+      "Jean-Claude Duvalier",
+      "Haiti",
+      "head_of_state"
+    ],
+    [
+      "Jean-Claude Duvalier",
+      "Haitian",
+      "head_of_state-x"
+    ],
+    [
+      "Jean-Claude Duvalier",
+      "Haitians",
+      "head_of_state-x"
+    ],
+    [
+      "Rene Preval",
+      "Haiti",
+      "agent_of"
+    ],
+    [
+      "Rene Preval",
+      "Haiti",
+      "citizen_of"
+    ],
+    [
+      "Rene Preval",
+      "Haitian",
+      "citizen_of-x"
+    ],
+    [
+      "Rene Preval",
+      "Haitians",
+      "citizen_of-x"
+    ],
+    [
+      "Rene Preval",
+      "Haiti",
+      "head_of_state"
+    ],
+    [
+      "Rene Preval",
+      "Haitian",
+      "head_of_state-x"
+    ],
+    [
+      "Rene Preval",
+      "Haitians",
+      "head_of_state-x"
+    ],
+    [
+      "Haitian",
+      "Haiti",
+      "gpe0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Port-au-Prince",
+      "Haiti",
+      "in0"
+    ],
+    [
+      "Port-au-Prince",
+      "Haitian",
+      "in0-x"
+    ],
+    [
+      "Port-au-Prince",
+      "Haitians",
+      "in0-x"
+    ],
+    [
+      "Haitians",
+      "Haiti",
+      "gpe0"
+    ],
+    [
+      "Francois 'Papa Doc' Duvalier",
+      "Haiti",
+      "agent_of"
+    ],
+    [
+      "Francois 'Papa Doc' Duvalier",
+      "Haiti",
+      "citizen_of"
+    ],
+    [
+      "Francois 'Papa Doc' Duvalier",
+      "Haitian",
+      "citizen_of-x"
+    ],
+    [
+      "Francois 'Papa Doc' Duvalier",
+      "Haitians",
+      "citizen_of-x"
+    ],
+    [
+      "Francois 'Papa Doc' Duvalier",
+      "Haiti",
+      "head_of_state"
+    ],
+    [
+      "Francois 'Papa Doc' Duvalier",
+      "Haitian",
+      "head_of_state-x"
+    ],
+    [
+      "Francois 'Papa Doc' Duvalier",
+      "Haitians",
+      "head_of_state-x"
+    ],
+    [
+      "Gerardo Ducas",
+      "Amnesty International",
+      "member_of"
+    ],
+    [
+      "Mother Jones",
+      "Haiti",
+      "based_in0"
+    ],
+    [
+      "Mother Jones",
+      "Haitian",
+      "based_in0-x"
+    ],
+    [
+      "Mother Jones",
+      "Haitians",
+      "based_in0-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ]
+  ]
+}

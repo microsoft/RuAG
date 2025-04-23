@@ -1,0 +1,95 @@
+{
+  "content": "'A decision in the name of sport itself'\nThe IOC has decided Russian athletes will be allowed to participate in the Rio Olympics. André Hahn from the Left Party considers this a fair outcome.\nDW: Mr. Hahn, what do you think of the IOC's decision to allow the Russian team to participate in the Rio Games subject to certain conditions? André Hahn: I think the IOC has made a fairly wise decision. Unlike some critical voices I believe it's the IOC's responsibility to protect the competitiveness of clean athletes and make sure they can participate in the Olympics. There are surely numerous athletes in Russia who have never doped and would therefore have suffered most from a blanket ban. My personal credo has always been to punish all those linked with doping, including athletes, doctors and officials, but not an entire nation as long as there is not sufficient evidence. You can't, for example, simply ban innocent Russian archers only because there were cases of doping in the Russian track and field or weightlifting squads. Therefore I believe the IOC has made a decision in the interest of sport itself. A blanket ban would have distorted the competition in many other disciplines that are largely free from doping, and I don't think that would have been a fair decision either. But the McLaren report concluded that an \"institutionalized, government-run doping program\" existed in Russia. Moreover, 14 national anti-doping organizations urged the IOC to fully ban the Russian Olympics team. Is it justified simply to ignore this? First of all, I found this recommendation quite problematic, as it was made before the publication of the McLaren report. I don't think this was an appropriate way to proceed. I fully understand the demand to implement harsh drug tests in every country. But this does not solely apply to Russia. The current issue must be handled on a case-by-case basis, and those who have doped should of course be banned from the Olympics. The preconditions imposed by the IOC make sense: Every athlete must provide a negative drug test conducted abroad by international authorities. It seems likely quite a few athletes will fail to do so and will therefore not participate in Rio. Russian athletes will travel to Rio within the next couple of days. Some of them may then be forced to return to their home country if they are unable to meet the criteria. Isn't this a problematic - or even \"chaotic\" situation, as some have stated? The chaos you are mentioning primarily stems from the IOC's failure to deal with the situation sooner. The Olympics will start just a few days from now, multiple athletes have already travelled to Rio in order to settle in, which was impossible to prevent. However, I am certain the Russian Olympic Committee knows who has been doping. As a result, I expect the number of Russian athletes nominated for the Olympics to decrease significantly. I strongly assume there are enough responsible coaches as well as officials in Russia who will make sure their Olympic squad is free of doping. \"I genuinely hope Russia will now seriously commit to eradicate doping\" So you do believe there is a serious commitment in Russia to eradicate doping? Well, at least I genuinely hope Russia will now seriously commit to eradicate doping in the near future, for this apparently has not been the case in the past. We've heard grave accusations linked to the Sochi games in 2014, declared by witnesses who we should trust since they were part of the system. This is a very serious issue. The key question now is whether we impose a collective ban against every single athlete or revert to the principle of solely punishing those who are proven guilty. I prefer the latter. As far as I know the Court of Arbitration for Sport will be responsible for determining that all legal criteria are met by the athletes. In my opinion this is the right approach. There are, however, other voices. Some of them claim that while imposing a blanket ban would have been unjust towards certain athletes, the decision not to do so has severely damaged the Olympic idea. What do you think is more important? The right of an athlete to be treated on a case-by-case basis or the need to restore the IOC's reputation? The fact the IOC has a negative image is far from surprising, due to doping and several other factors. Over the last few years the Olympic idea has suffered due to things like increasing commercialization and the skyrocketing cost of hosting major sports events. Doping is just another factor contributing to the IOC's bad reputation. In this context it is vital we can count on a fully independent World Anti-Doping Agency (WADA) which has not always been the case. For example, WADA's former president served as vice president of the IOC at the same time, which I regards as problematic. Moreover, we have to make sure there are sufficient numbers of independent anti-doping labs. There is a clear lack of those facilities in many regions around the world. Furthermore no positive drugs tests should ever again be withheld from the public, which used to be common practice in cycling. There were a number of prominent cyclists - from the US as well as from Germany - who were eventually found guilty of doping and individually punished. Nobody, however, ever entertained the idea of banning all German or American cyclists from major competitions including the Olympics. But once we were dealing with the Russians, there were calls they for be banned altogether. Dr. André Hahn, who was born in the former East Germany, has been a member of the German Bundestag representing the Left Party since 2013. He currently serves as his party's spokesperson on issues regarding sports.",
+  "relations": [
+    [
+      "André Hahn",
+      "East Germany",
+      "citizen_of"
+    ],
+    [
+      "André Hahn",
+      "Left Party",
+      "member_of"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Left Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Russian Olympic Committee",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Russian Olympic Committee",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Russian Olympic Committee",
+      "Russians",
+      "based_in0-x"
+    ],
+    [
+      "Sochi",
+      "Russia",
+      "event_in0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Russians",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

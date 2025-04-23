@@ -1,0 +1,60 @@
+{
+  "content": "Hotel offers a year of free beer to unidentified Dortmund hero\nThere's no love lost between football teams Schalke 04 and Borussia Dortmund. But now there seems to be a prank war on between the two sides' fans: one with potentially mouth-watering rewards.\nA hotel bar in the western German city of Dortmund has offered a year's worth of free beer to an unknown fan of the Borussia Dortmund soccer team. According to a report in the German tabloid Bild, an unidentified man climbed to the top of archrival team Schalke's stadium - currently under construction - where he placed the Dortmund flag. \"This act must be rewarded,\" said Christoph Andruszewski of the Hotel Specht in Dortmund, referring to the desecration of the Veltins Arena in Gelsenkirchen. \"Our hotel is a meeting place for Borussia fans, so we are offering the unknown hero free beer for a year and a box seat in front of our projection screen,\" he told the paper. Bild has offered to act as a go-between, putting the Dortmund hero in contact with the bar if he or she can prove he put up the flag. Meanwhile, former Dortmund player and fan liaison Alfred \"Aki\" Schmidt is convinced that the flag attack was an act of revenge. In 2006, a 41-meter (135-foot) Dortmund banner went missing, allegedly stolen by Schalke fans. The case remains unsolved even to this day. Author: David Levitz Editor: Sean Sinico",
+  "relations": [
+    [
+      "Borussia Dortmund",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hotel Specht",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hotel Specht",
+      "Dortmund",
+      "based_in2"
+    ],
+    [
+      "Schalke 04",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dortmund",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christoph Andruszewski",
+      "Hotel Specht",
+      "member_of"
+    ],
+    [
+      "Veltins Arena",
+      "Gelsenkirchen",
+      "in2"
+    ],
+    [
+      "Gelsenkirchen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Alfred \"Aki\" Schmidt",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Alfred \"Aki\" Schmidt",
+      "Borussia Dortmund",
+      "player_of"
+    ]
+  ]
+}

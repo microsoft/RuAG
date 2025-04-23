@@ -1,0 +1,80 @@
+{
+  "content": "IMF warns global recovery 'too slow, too fragile'\nInternational Monetary Fund (IMF) chief Christine Lagarde has ramped up her calls for stronger policies by the world's economies to boost growth, warning that downside risks would only increase without decisive action.\nIn a speech at the Goethe University in Frankfurt, Germany, on Tuesday, Christine Lagarde outlined specific policy actions to spur global growth, warning that the recovery from the 2008-2009 financial crisis \"remains too slow, too fragile.\" \"Let me be clear: We are on alert, not alarm. There has been a loss of growth momentum,\" Lagarde said, adding that if policymakers across the world would act together to confront the challenges, \"the positive effects on global confidence will be substantial.\" The IMF chief urged the United States to raise its minimum wage, expand tax credits for the working poor and improve family leave benefits. She also called on European countries to implement better training and employment-matching policies to help reduce unemployment among young people. Moreover, emerging economies should cut fuel subsidies and boost social spending, she demanded, while countries with high and growing debts and elevated borrowing costs should pursue further fiscal consolidation. Risks mounting Her remarks come less than two weeks before senior ministers, central bankers and other policymakers from the IMF's 188 member countries gather in Washington for the IMF and World Bank spring meetings to assess the health of the world economy. The global emergency lender has already indicated it will cut its current 2016 global growth forecast of 3.4 percent next week when it publishes fresh forecasts at the meeting in Washington. During her speech in Frankfurt, Largarde said weak global growth was \"exacerbated\" by China's relative economic slowdown, lower commodity prices and the prospect of financial tightening for many countries. \"Emerging markets had largely driven the recovery and the expectation was that the advanced economies would pick up the 'growth baton.' This has not happened,\" she said, adding that other risks, such as uncertainties from terrorist attacks or \"the silent threat of global epidemics\" were also a factor. Lagarde also warned against resorting to protectionist policies, as the US presidential candidates publicly questioned free trade agreements and Europe sought to rein in free movement in response to the refugee crisis. \"To some, the answer is to look inward ... to close borders and to retreat into protectionism,\" she observed. \"But history has told us - time and again - this would be a tragic course.\" Greek debt crisis re-emerges In her remarks, Lagarde did not mention negotiations between the IMF, European lenders and Greece for a new bailout program for the heavily indebted eurozone country. After the whistleblowing Web site Wikileaks published an apparent transcript of a controversial IMF conference call over the weekend, Lagarde denied on Monday that IMF staff might threaten to pull out of the Greek bailout as a negotiating tactic to force more European debt relief for Greece. The issue forced the German government to again rule out debt relief for Greece in an effort to rally skeptical members of chancellor Angela Merkel's conservative party behind the third Greek bailout package worth 86 billion euros ($97 billion). uhe/cjc (dpa, AFP, Reuters)",
+  "relations": [
+    [
+      "Christine Lagarde",
+      "International Monetary Fund",
+      "head_of"
+    ],
+    [
+      "Christine Lagarde",
+      "International Monetary Fund",
+      "member_of"
+    ],
+    [
+      "Goethe University",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Goethe University",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Goethe University",
+      "Frankfurt",
+      "based_in2"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ]
+  ]
+}

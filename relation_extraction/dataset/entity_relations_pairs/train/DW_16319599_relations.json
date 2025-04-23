@@ -1,0 +1,70 @@
+{
+  "content": "November sees first pan-Iberian anti-austerity strike\nSpanish trade unionists have called a general strike against Madrid's austerity program. The protests will coincide with a similar strike in neighboring Portugal to make it the first concerted Iberian labor action.\nThe Spanish trade union confederation CCOO called Friday for a general strike for November 14, saying it would be directed at Prime Minister Mariano Rajoy's recent austerity policies. The labor action will coincide with a general strike in neighboring Portugal, prompting organizers to speak of the first joint Iberian workers protest. \"The strike has good chances of spreading to other European countries, especially in the south,\" CCOO representative Fernando Leczano told reporters in Madrid. Leczano insisted that all EU countries that have applied austerity measures have become worse for it and said the strike in November was aimed at forcing governments to modify their economic and budgetary policies. Government not amused In a first response to the announcement, Spanish Prime Minister Mariano Rajoy said the strike would not improve the image of his country abroad. Though he acknowledged that people are concerned about the government's harsh cuts, Rajoy insisted that the measures are required to wriggle out of recession. \"We do it because it must be done, and because it will create the basis for economic recovery,\" Rajoy said on the sidelines of an EU reform summit in Brussels. Madrid had announced the toughest budget cuts in decades in a bid to reduce public deficit from 9.4 percent of gross domestic product last year to 6.3 percent in 2012. Spain has slipped into recession for the second time in three years. The government's reforms aim to convince investors that the country can pull itself up by its bootstraps without a full-blown sovereign bailout by European lenders. hg/mkg (dpa, AP)",
+  "relations": [
+    [
+      "CCOO",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "CCOO",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spain",
+      "head_of_gov"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spanish",
+      "head_of_gov-x"
+    ],
+    [
+      "Fernando Leczano",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Fernando Leczano",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Fernando Leczano",
+      "CCOO",
+      "member_of"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "Madrid",
+      "Spain",
+      "in0"
+    ],
+    [
+      "Madrid",
+      "Spanish",
+      "in0-x"
+    ]
+  ]
+}

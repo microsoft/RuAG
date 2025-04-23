@@ -1,0 +1,70 @@
+{
+  "content": "Berlin's art scandals combust spontaneously\nWhen a Berlin artist 'vandalizes' his own painting or steals his own sculpture, does it cause a scandal? DW's Berlin insider Jan Kage explores the recipe for artistic provocation in a city known for rebellion.\n\"Can you please come for Jim's performance tomorrow morning,\" a journalist from television broadcaster Arte asked me after we finished an interview about Berlin artist Jim Avignon, who'd curated a show in my art space and who's been a friend of mine for many years now. \"I need another picture of you in a different setting. It won't take long.\" \"I don't think so,\" I answered honestly. \"We have an opening tonight and tomorrow morning I have to take care of my baby.\" \"Oh, bring her, too! That'd be an awesome picture.\" \"Never! I can't have my little girl on TV. She can decide on that herself later,\" I replied. \"Well, we don't have to show her face. Or we'll just shoot you and have her waiting on the side.\" Sometimes honest answers only prolong things, so I shifted to making vague promises: \"Sure, I'll try my best!\" Repainting the Berlin Wall Jim had planned a scandalous performance for that Saturday morning. He wanted to repaint the piece of the East Side Gallery that he had painted in 1990. The East Side Gallery is the last remaining part of the Berlin Wall. Right after it came down in 1989, a lot of artists painted the two kilometers of Wall between the Ostbahnhof train station and the bridge, Oberbaumbrücke. Although most of the results were pretty kitschy, they all carried the spirit of those days marking the end of the Cold War. A couple of nice ones are to be found as well of course - like Jim's and Thierry Noire's, for example. They both come from West Berlin's 80s scene and made a name for themselves as new pop artists in the 90s. Back then, Jim decorated a whole lot of techno parties in their illegally squatted venues. Posters and cardboard installations were quickly drawn and cheaply installed. It was art for the here-and-now that you could dance within, and in the morning when the party was over you could take it home with you. Jim had this philosophy of \"better a thousand pictures for one dollar than one for a thousand.\" This popularized his art to the degree that most people in the scene had a piece of his at home. But also to the degree that the market is so flooded with his work that the price will probably never go up. Commenting on the present Back at the East Side Gallery, Jim and his helpers were planning to repaint the strip within just a couple of hours so they wouldn't get caught by the cops. The Gallery is not only a protected monument - a status which is taken very seriously in Germany - but also was renovated four years ago for a million euros so that tourists can forever enjoy the pictures that were painted on it 24 years ago. Jim Avignon didn't like the \"forever\" part of this concept. He had depicted the celebration of East Germany's self-liberation in 1989 as a picture of its time, with nitty-gritty politicians showing their teeth and tanks, and opposed to those happy people joyously running towards each other and hugging. Now he wanted to address the state of the city as he finds it today: failed investments and speculations on the house market, gentrification, and the like. But Jim's blatant repainting proved to be a true scandal, especially with the other artists. They felt provoked and feared that everybody could now paint on the Wall whenever they wanted. Another outcry concerning the East Side Gallery happened earlier this year when an investor had pieces of the Wall temporarily removed so trucks could enter his construction site, where he's building a fancy apartment complex. People didn't like both the expensive apartment and the removal of parts of the Wall. French street artist JR was in town at the time, working on the Berlin edition of his \"Wrinkles of the City\" project and responded by putting up wooden boards into the hole in the Wall, gluing posters with his photography onto it. The newspapers reported intensively on this - especially since one of the security guards got attacked that same night. But that must have been other people - not JR and his crew. \"What do you think about Jim repainting the Wall?\" the Arte journalist asked me. \"Why not? I don't see why the paintings that were once drawn should be preserved forever.\" I said. \"Art in the streets is bound to vanish. Also, most of the painters were not the best - or best-known - artists in the first place. They were just people who took the chance to paint it right after the Wall came down, which is great. But nobody promotes the idea of preserving the graffiti that was on the west side of the Wall either. So, I guess things change.\" 'Stolen' art Repainting his work was not Jim's first illegal action when it comes to presenting his art in public. Twelve years ago, a local tabloid asked Jim to paint one of the Buddy Bears - a rather kitschy series of hundreds of bear sculptures positioned in public spaces all over town. A bear is part of the city's coat of arms and it's a kind of local mascot. Jim hesitated because he didn't love the sculpture, but since it was for charity reasons and the paper promised to take it off Kurfürstendamm (one of Berlin's most famous boulevards) after six months to auction it off for a good cause, he agreed to paint one. Six months and three weeks later, however, the bear was still standing in the street, so Jim called the paper. The editor he spoke to was kind of ambiguous. He told Jim the same thing the TV journalist told me when I was not sure I'd make it to the performance: \"But that's good promotion for you!\" Jim didn't buy that answer. Instead, he rented a van and drove to the bear at night with a couple of friends and some screwdrivers. They unscrewed the sculpture, heaved it into the van, and took the bear to a place where he could \"hibernate\" for the winter. Suddenly, the tabloid was alarmed. \"Jim Avignon's Bear Stolen,\" the headlines read. They went looking around for it, but the bear was nowhere to be found. And it stayed in hiding for a whole decade. Rebirth of a non-scandalous bear Jim's bear was finally resurrected for last year's Art Village, which is the art space I curate during the annual Berlin Festival music event. We rented a van and brought the bear back to the city. Then we put him on top of the five containers that served as the entrance to the Art Village at old, historic Tempelhof Airport. That was around the same time that the three members of the Russian band Pussy Riot were on trial in Moscow for their political dissidence. The case was a shock to all of us who grew up with punk rock and egalitarian ideals - but also stimulating to learn that one can still provoke the powers that be with a punky performance. So as a sign of solidarity and deference, we had an old lady crochet a bright yellow Pussy Riot ski mask for the bear's head. Unfortunately neither the bringing back of the bear nor the ski mask produced any kind of tabloid scandal. But it sure was loved by everybody who saw it. And that proves one point: You can't really plan a scandal. They just happen, depending on how relevant the topic is at the moment and how spot-on the timing is. And there may be two or three other parameters involved that I'm still investigating so that maybe I can plan the next one myself after all.",
+  "relations": [
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Jim Avignon",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "JR",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Ostbahnhof",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Kurfürstendamm",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Kurfürstendamm",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Art Village",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin Festival",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Berlin Festival",
+      "Berlin",
+      "event_in2"
+    ],
+    [
+      "Tempelhof Airport",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Pussy Riot",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ]
+  ]
+}

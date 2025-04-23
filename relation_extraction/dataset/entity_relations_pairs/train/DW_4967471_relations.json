@@ -1,0 +1,65 @@
+{
+  "content": "Climate activists receive Alternative Nobel Prizes\nAn award for activism, dubbed the \"alternative Nobel prize\" has been awarded to four individuals for their work in fields such as climate change, medicine and preventing deforestation.\nFour activists were awarded the 2009 Right Livelihood award in the Stockholm parliament on Friday for \"offering practical and exemplary answers to the most urgent challenges facing us today.\" The so-called \"Alternative Nobels\" have been awarded since 1980. David Suzuki of Canada won an honorary award for \"his lifetime advocacy of the socially responsible use of science,\" as well as his contributions to highlighting the issue of climate change. He expressed concerns before the awards ceremony that the imminent Copenhagen conference would result in a contract emphasizing economics over the environment. \"The worst possible thing would be a half-hearted agreement,\" he told the dpa news agency, saying it was better to work for a better deal next year. \"We have partied as if there is no tomorrow, using things up and throwing them away without regard to the future,\" Suzuki said on Thursday. \"Well, the party's over and we have to sober up, clean up our mess, assess our situation and get on with acting for a future.\" He also admitted doubting the Canadian government's commitment to dealing with climate change, saying that Ottawa \"would try to prevent any hard targets and time frames and enforcement mechanisms.\" Prize winning activism Other laureates honored were Rene Ngongo, of the Democratic Republic of Congo, who won for his courage in establishing conservation efforts for the rainforests of the Congo. \"Climate change is the biggest threat our planet has to face right now,\" Ngongo said. \"The world must act now - if not, we risk suffering from growing and irreversible disturbances that will exceed our capacities to adapt.\" New Zealand's Alyn Ware won for his work promoting peace education and campaigns against nuclear weapons. In Ethiopia, Australian-born Catherine Hamlin, was awarded the prize for her 50 years of work dedicated to treating obstetric fistula patients. Co-winners Ware, Hamlin and Ngongo are to receive 50,000 euros ($73,000) in prize money. sjt/dpa/AP Editor: Sean Sinico",
+  "relations": [
+    [
+      "Rene Ngongo",
+      "Alternative Nobel Prizes",
+      "award_received"
+    ],
+    [
+      "Rene Ngongo",
+      "Democratic Republic of Congo",
+      "citizen_of"
+    ],
+    [
+      "David Suzuki",
+      "Alternative Nobel Prizes",
+      "award_received"
+    ],
+    [
+      "David Suzuki",
+      "Canada",
+      "citizen_of"
+    ],
+    [
+      "David Suzuki",
+      "Canadian",
+      "citizen_of-x"
+    ],
+    [
+      "Alyn Ware",
+      "Alternative Nobel Prizes",
+      "award_received"
+    ],
+    [
+      "Alyn Ware",
+      "New Zealand",
+      "citizen_of"
+    ],
+    [
+      "Catherine Hamlin",
+      "Alternative Nobel Prizes",
+      "award_received"
+    ],
+    [
+      "Catherine Hamlin",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Canadian",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "Ottawa",
+      "Canada",
+      "in0"
+    ],
+    [
+      "Ottawa",
+      "Canadian",
+      "in0-x"
+    ]
+  ]
+}

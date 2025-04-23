@@ -1,0 +1,110 @@
+{
+  "content": "Greece's woes reveal a 'democracy crisis' in Europe: political scientist Jürgen Neyer\nPolitical scientist Jürgen Neyer sees parliamentary democracy in a crisis of its own, with two different concepts of democracy crashing into each other. The financial misery in Greece is making this visible, he told DW.\nDW: What light is being shed on democracy right now in Europe by the debt crisis? The debt crisis is drawing attention to fundamentally different ideas of democracy that exist in Europe. We have the old or classical concept, which identifies democracy with the traditional sense of sovereignty of a people. We can still see this within Greece, where a society decides on its own via a democratic election how it should live. This idea is simply not viable in contemporary Europe. We have a plurality of societies existing simultaneously that are beginning to develop and grow together on account of the central institutional system. The main question now doesn't necessarily concern Greek debt or how Athens is going to repay its bills, but rather the extent to which Greece is ready to cooperate and follow the rules in this European system. Which concept of democracy prevails in the European Union? The societies are holding to their own rights for self-determination in their own politics. This means that the Germans don't decide on their own anymore, the French don't decide on their own anymore, the Greeks don't decide on their own anymore, because they have to take into consideration how the rules that have been agreed to will affect each nation. This hinders national sovereignty drastically. What role do institutions such as the European Central Bank play? There are portions of politics that are simply removed from the parliamentary process. For competition policy, the European Commission is responsible, and for financial and currency policy the European Central Bank is the main player. We confer responsibility to so-called independent agencies, which means we give influence to the \"experts.\" This is extremely difficult to merge with the classical understanding of democracy. And I must say that the current crisis in Greece has been integral in exposing this. How should this institutional and political apparatus change to favor more democracy? The question is initially whether the societies in Europe even want more sovereignty. If they do want this, then they will have to part, to a certain extent, with the shared European rules. And if 28 different societies want to both co-exist and decide for themselves how to live, you can imagine how hard it would be to come up with shared rules. There must be an array of options on the table. Does Europe want to move in the direction of a federal republic and treat Greece, for example, like Mecklenburg-Western Pomerania and the Saarland, as a kind of federal welfare state? Or does Europe want to become a collection of national states? Or would a third concept work better? This kind of fundamental discussion about political order is not exactly taking place at the moment. Do political parties like the Alternative for Germany (AfD) or the leftist Podemos in Spain or Syriza in Greece have an important function? These are indeed very important. I am not a sympathizer with any of these kinds of parties, but at the same time, it must be said that they are the ones sticking their finger into the sore spot of the European integration process. And this process needs urgent political attention. Jürgen Neyer teaches at the European University Viadrina in Frankfurt (Oder). His area of concentration is the institutional order of the European Union. This interview was conducted by Andreas Gorzewski.",
+  "relations": [
+    [
+      "Alternative for Germany",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Jürgen Neyer",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Jürgen Neyer",
+      "European University Viadrina",
+      "member_of"
+    ],
+    [
+      "DW",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Athens",
+      "Greeks",
+      "in0-x"
+    ],
+    [
+      "Greeks",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Mecklenburg-Western Pomerania",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Saarland",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Podemos",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Syriza",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Syriza",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Syriza",
+      "Greeks",
+      "based_in0-x"
+    ],
+    [
+      "European University Viadrina",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "European University Viadrina",
+      "Frankfurt (Oder)",
+      "based_in2"
+    ],
+    [
+      "Frankfurt (Oder)",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Andreas Gorzewski",
+      "DW",
+      "member_of"
+    ]
+  ]
+}

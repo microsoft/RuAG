@@ -1,0 +1,120 @@
+{
+  "content": "Indo-Pakistani author Aatish Taseer’s journey to the Islamic world\nWhat does it mean to be a Muslim? The question made the British journalist Aatish Taseer undertake a journey through the Islamic world. In his book “Strangers to History”, Aatish Taseer has penned down his experiences on this journey. But it is also about his unusual Indo-Pakistani family history.\n\"When the past could be seen as a whole, when my father could cast painful bridges over history, I felt a great sympathy as I watched the man I had judged so harshly for not facing his past when it came to me. Muse on the pain of history in this country. And maybe this was all that the Gods had wished me to see, the grimace on my father's face, and for us both in our own ways, strangers to history, to be together on the night when Benazir Bhutto was killed.\" 30 year old Aatish Taseer describes his complicated relationship with his father in his book \"Strangers to History\". Encounter with his father Aatish was born in 1980 in Delhi out of an affair between Salman Taseer, the current governor of Pakistan's Punjab province, and India's renowned journalist Tavleen Singh. After Aatish's birth Salman returned back to Pakistan to his wife and three children. Aatish was brought up by the Sikh family of his mother. In 2005 Aatish, meanwhile a journalist in London, received a letter from his father, in reaction to an article he had written about the 7/7 terrorist attacks. His father accused him of spreading anti-Muslim propaganda and having very superficial knowledge of the Pakistani ethos. \"It was a very strong reaction, very forceful,\" Aatish recalls. \"He as a Muslim was very upset by what I had written and it was interesting to me, because my father was no Muslim at all - by his own admission, he wasn't. And although I wasn't able to formulate it at that point, but the thing that was really at the back of my mind was the question of what despite his lack of faith made him a Muslim.\" His father's stature made the understanding of the historical and political attitudes, as he puts it, all the more important for him. Understanding Islam His quest took him to Iran, Turkey, Syria, Saudi Arabia and finally to Pakistan, where he met his father. For Aatish, it was extremely important to understand Islam, because without the knowledge of it he could not get close to his father. It turned out to be not an easy task. Aatish Taseer went on the pilgrimage to Mecca; in Istanbul, a young theologist explained to him that being a Muslim means to stand above history; and in Syria, he experienced the controversy over the Danish cartoons of the prophet Mohammad. \"Slowly the understanding began to develop of being a cultural Muslim, which I had always taken to be a benign term, a term that I thought it was just adhering to festivals, wearing a certain kind of dress, perhaps liking Urdu poetry,\" he says. \"I didn't think of it as having the kind of meaning that it later showed itself to have; that it was these issues – this stuff that was contained in cultural Islam – that were more important than the faith itself.\" Aatish Taseer's book has found a wide global audience and was recently also published in a German translation. Author: Isha Bhatia Editor: Thomas Baerthlein",
+  "relations": [
+    [
+      "Aatish Taseer",
+      "Salman Taseer",
+      "child_of"
+    ],
+    [
+      "Aatish Taseer",
+      "Tavleen Singh",
+      "child_of"
+    ],
+    [
+      "Aatish Taseer",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Strangers to History",
+      "Aatish Taseer",
+      "created_by"
+    ],
+    [
+      "Salman Taseer",
+      "Punjab",
+      "agent_of"
+    ],
+    [
+      "Salman Taseer",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Salman Taseer",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Salman Taseer",
+      "Punjab",
+      "head_of_gov"
+    ],
+    [
+      "Salman Taseer",
+      "Aatish Taseer",
+      "parent_of"
+    ],
+    [
+      "Indo",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Pakistani",
+      "Pakistan",
+      "gpe0"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "Delhi",
+      "Indo",
+      "in0-x"
+    ],
+    [
+      "Punjab",
+      "Pakistan",
+      "in0"
+    ],
+    [
+      "Punjab",
+      "Pakistani",
+      "in0-x"
+    ],
+    [
+      "Tavleen Singh",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Tavleen Singh",
+      "Indo",
+      "citizen_of-x"
+    ],
+    [
+      "Tavleen Singh",
+      "Aatish Taseer",
+      "parent_of"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Mecca",
+      "Saudi Arabia",
+      "in0"
+    ],
+    [
+      "Istanbul",
+      "Turkey",
+      "in0"
+    ]
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "content": "Report: Torture is a European problem too\nA day after Amnesty International published a report on Europe's collusion with the CIA's torture program, the Council of Europe published its own shocking survey of abuse in detention centers across the continent.\nPrison guards in several European countries carried out reprisals against detainees who talked to the Council of Europe's Committee for the Prevention of Torture (CPT), the new CPT report has revealed. The council considers this a violation of the spirit of cooperation between the CPT and the Council of Europe's member states. According to the CPT's 24th General Report, released on Wednesday, reprisals were carried out against prisoners in Armenia, Azerbaijan, Bulgaria, Greece, Hungary, Moldova, Russia, Spain, the former Yugoslav Republic of Macedonia, and Ukraine. \"Intimidation or retaliation against persons the CPT has interviewed may not only violate their human rights but also strikes a blow to the preventive mechanism established by the European Convention for the Prevention of Torture,\" CPT President Letif Hüseynov said in a statement. \"I urge national authorities to respect their obligation to prevent, investigate and punish such actions.\" The report also highlighted several problems with the detention of juveniles around Europe, and proposed a series of practical measures to protect young people's rights when detained. Ad hoc visits The little-known CPT, now 25 years old, represents a unique approach to international torture prevention. A team of specialists make roughly 180 visits a year to all kinds of detention centers (including prisons, police stations, holding centers for immigration detainees, psychiatric hospitals, and even social care homes) all across the 47-member Council of Europe - one of the few international blocs that offer platforms for dialogue with Eastern European regimes considered to have poor human rights records, such as Russia, Azerbaijan, and Ukraine. The method combines the carrot of talks with government officials and the stick of ad hoc visits, which all members are committed to allowing into their prisons. Once inside, the CPT also has the right to interview any detainees it chooses - in private, though of course the detainees have the right to refuse. \"The first thing to say is how important the CPT is,\" said Carla Ferstman, director of Redress, a UK-based organization that helps torture survivors. \"As a result of their boot work over a very long period of time, the UN has set up a global system which in many ways mirrors the approach of the CPT.\" But given that the committee has no powers to enforce its proposals to governments, there are question marks over its effectiveness. \"In the report, they complain about how some of the recommendations they've made have not been implemented,\" said Ferstman. \"It's a sign that they're a little bit frustrated.\" But in the long run, she maintains, the CPT has more than proved its value. \"The dialogue that they are able to have is really important,\" she said. \"Looking long-term, they have been very effective.\" CIA collusion, asylum seekers The CPT's report comes a day after Amnesty International released its own report on European collusion with the CIA's torture program. While the CPT's report examines more prosaic day-to-day mistreatment, rather than mass rendition of terrorist suspects at the behest of the US, there are obvious links between the two, since some countries - such as Poland, Macedonia, and the UK - are highlighted in both reports. \"What is finally coming out in all of this is that the Europeans, despite all the criticism of the Bush and Obama administrations on the use of torture - so many of them connived,\" said Judy Dempsey, senior associate at Carnegie Europe. \"It's really a double standard. This report is quite damning and quite shameful, and it follows the Amnesty International one as well.\" The CPT's work also mentions the mistreatment of asylum seekers, a problem increasingly afflicting European countries that take in the largest number of asylum seekers - particularly Spain, Italy, and Greece. \"With Greece there are two things to remember,\" Dempsey told DW. \"A - the appalling situation of the prison system, and B - the lack of training among police of how to deal with asylum seekers. Awful things have happened. Parallel to this is the illegal detention centers. There have been lots of cases of terrible mistreatment over the last several years.\" \"Immigration detention is a growing issue,\" added Ferstman. \"In the UK, there was a whole parliamentary inquiry into one immigration detention center, where some of the women alleged that guards propositioned them in order to get quick treatment on their claims. Each country has its own history of torture.\"",
+  "relations": [
+    [
+      "Committee for the Prevention of Torture",
+      "Council of Europe",
+      "part_of"
+    ],
+    [
+      "Carla Ferstman",
+      "Redress",
+      "head_of"
+    ],
+    [
+      "Carla Ferstman",
+      "Redress",
+      "member_of"
+    ],
+    [
+      "Judy Dempsey",
+      "Carnegie Europe",
+      "head_of"
+    ],
+    [
+      "Judy Dempsey",
+      "Carnegie Europe",
+      "member_of"
+    ],
+    [
+      "CIA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Letif Hüseynov",
+      "Committee for the Prevention of Torture",
+      "head_of"
+    ],
+    [
+      "Letif Hüseynov",
+      "Committee for the Prevention of Torture",
+      "member_of"
+    ],
+    [
+      "Redress",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Bush",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Bush",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Bush",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Obama",
+      "US",
+      "head_of_state"
+    ]
+  ]
+}

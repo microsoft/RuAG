@@ -1,0 +1,125 @@
+{
+  "content": "UN expert: Torture and abuse 'widespread' in Turkey following July coup bid\nThe UN's Nils Melzer has said that torture and other forms of ill-treatment seem to have been widespread following the failed coup attempt. The findings echo previous claims from leading rights groups.\nThe UN's special rapporteur on torture, Nils Melzer, told reporters in Ankara on Friday that measures taken in Turkey following the July coup attempt had created an \"environment conducive to torture.\" \"Testimonies received from inmates and their lawyers suggest that in the days and weeks following the failed coup torture and other forms of ill treatment were widespread,\" he said. Melzer's made the comments after a six-day tour of Turkey to investigate allegations of torture. His visit comes one month after US watchdog Human Rights Watch (HRW) accused Turkish police of torturing detainees arrested in connection with coup attempt. The UN rapporteur also cautioned that Turkey's prisons and holding cells were often overcrowded: \"Most facilities visited were overcrowded, with occupancy ranging from 125 to more than 200 per cent of the actual capacity.\" However, Melzer also noted that, after visiting facilities in Ankara, Diyarbakir, Sanliura and Istanbul, the overall conditions were generally satisfactory. Recent legislation and statutory decrees passed by Turkish President Recep Tayyip Erdogan had created a \"climate of intimidation,\" he said, discouraging victims from filing complaints or speaking out about their abuse. \"Holding cells, currently keeping individuals for up 30 days without any access to fresh air, are not suitable to detain anyone for more than 48 hours,\" Melzer said. Sweeping security measures adopted as part of Turkey's state of emergency, which was extended by 12 weeks in October, mean that people are held in custody without judicial review for up to 30 days and without access to a lawyer for five days, according to Melzer. \"Worldwide experience shows us that it is precisely in the first hours and days after arrest that the risk of abuse, including torture and other forms of ill-treatment, is highest,\" he said, urging the Turkish government to live up its declared \"zero-tolerance\" policy on torture. Turkey's post-coup crackdown Since July, more than 100,000 people in the judiciary, military, media, civil service and education sector have been detained, dismissed or suspended. Most of them are accused of some connection to the coup attempt, which the government blames on followers of Fethullah Gulen, a US-based preacher. Around 37,000 people remain under arrest, some of whom claim to have been tortured, according to human rights groups. Just over a week after the coup bid, human rights NGO Amnesty International said it had \"credible evidence\" of detainees suffering abuses and torture. \"Ahead of the coup we were already receiving very serious reports of torture and ill-treatment, mostly in the southeast of Turkey,\" Amnesty International's Turkey researcher, Andrew Gardner, said. \"But what we saw after the violent coup attempt of July 15 was an explosion in the number of cases.\" There is also concern that opposition groups are being targeted, including Kurdish groups and independent media outlets. Erdogan has justified the purge as targeting terrorism. Concerns over human rights abuses have damaged relations with the European Union. In November, the European Parliament voted in favor of freezing membership talks with Turkey. Turkey's Ministry of Justice did not immediately respond to Melzer's comments. However, last month it responded to the HRW report, saying \"there is not even a small doubt that all the allegations of maltreatment or torture are being actively investigated by an independent and objective judiciary.\" Other Turkish officials have dismissed allegations made by rights groups as propaganda. dm/msh (AP, dpa, AFP)",
+  "relations": [
+    [
+      "Nils Melzer",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Human Rights Watch",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Diyarbakir",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Diyarbakir",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Sanliura",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Sanliura",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Istanbul",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Istanbul",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Andrew Gardner",
+      "Amnesty International",
+      "member_of"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Ministry of Justice",
+      "Turkey",
+      "agency_of"
+    ],
+    [
+      "Ministry of Justice",
+      "Turkish",
+      "agency_of-x"
+    ],
+    [
+      "Ministry of Justice",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Ministry of Justice",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Justice",
+      "Turkey",
+      "ministry_of"
+    ]
+  ]
+}

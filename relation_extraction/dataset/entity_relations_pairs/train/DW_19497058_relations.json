@@ -1,0 +1,85 @@
+{
+  "content": "'Infrastructure can drive up disaster vulnerability' says UN climate expert\nCollapsed bridges, unsafe power grids, interrupted water supply: Weak infrastructure can turn natural hazards into disasters. In an interview with DW, UN expert Matthias Garschagen talks about the 2016 World Risk Report.\nEach year, the World Risk Report (WRR) and its World Risk Index (WRI) analyze vulnerability of over 170 countries to natural hazards. They do so to identify disaster hotspots and risk indicators. The United Nations University's Institute for Environment and Human Security publishes the report jointly with German NGO Bündnis Entwicklung Hilft and in cooperation with the University of Stuttgart. Now in its sixth edition, the annual report and index highlight several key areas: level of exposure (likelihood of a natural disaster), vulnerability (level of susceptibility), how well a society can cope (resilience) and what preventive measures can be taken. DW spoke to scientific lead Matthias Garschagen about the newest developments and why a reliable infrastructure is vital to a country's capacity to cope with hazards. The interview was conducted by Anke Rasper. Deutsche Welle: How high is the risk for disasters at this moment in time? Matthias Garschagen: That's a tricky question. In principle, particular parts of countries have a higher risk of suffering from disasters related to natural hazards. In the past days and weeks, we were able to see this in several parts of the world where we have floods and storms - also here in Europe. These risks are also increasing with regional environmental degradation and issues like climate change. The risk is also changing globally due to the role of vulnerabilities. It's not only about assessing the intensity of natural hazards but how susceptible societies are when being hit by those events. And the short-term and long-term capacity of those societies to deal with them. What are the global hotspots for risk at the moment? It's clearly sub-Saharan Africa, East Asia as well as, to a certain extent, South Asia and Latin America. If you were to decompose risk into its main components of the hazard exposure on the one hand and societal vulnerability on the other, the hotspots would shift to a certain degree. As you said, sub-Saharan Africa remains one of the world regions with a tremendous amount of risk and vulnerability. Can you talk about a few countries as examples? Mainly Western Africa - countries like Togo, Benin and Nigeria - countries with a high exposure to floods and droughts and, to a certain level, sea-level rise. They are also facing high vulnerability. They have many development challenges, like healthcare, infrastructure, quality of the environment, which drive up the vulnerability. Speaking of infrastructure: That's the emphasis of this year's report. What role do logistics and infrastructure play for risk and vulnerability? Infrastructure plays a key role for the question of whether a hazard turns into a disaster. This can go along two lines. On the one hand, infrastructure is of key importance for relief and response work. In the case of a flood, for example, you need reliable streets, bridges and airports in order to get support and relief into the right places quickly. Infrastructure also plays an increasing role for vulnerability in the first place. Can you give an recent example where infrastructure played an important role? The Nepal earthquake is a good one. Kathmandu's international airport was not up to dealing with the quantity of incoming aid. That was the main transport nodal point to get the relief work going. And the many damaged streets and bridges also hindered the flow of items from the airport. Would a rich country been in a better position to recover faster? Yes, and better able to cope with the impacts in the first place. If you compare Nepal to Switzerland, for example, the data clearly shows that Switzerland has, per capita and per square kilometer, a higher number of paved roads and bridges. It also has more helicopters and alternate airports and airstrips. All of this helps with short-term disaster response. Having economic buffers also makes a huge difference in terms of recovery. Can infrastructure in poorer countries be improved in ways that make it less susceptible to disasters? There are several ways. What is helpful is to look at the different dimensions of risk, which we also propose in the report. To start with exposure: Infrastructure development is done in non-exposed areas. In other words, if you do future planning for a new airport or power plant, you ought to think about flood scenarios in the context of climate change - not just in the present, but 10 or 20 years in the future. Or if you build a new nuclear power plant, you have to plan for the next 50 years. Could it be exposed to floods in 20 years? That is the first step. The second step is susceptibility, in terms of the fragility of a building. Are there building codes in place in order for buildings to withstand earthquakes? And, even more importantly, are those building codes enforced? In the Sichuan earthquake in China, the major problem was not a lack of building codes but that they were not adhered to due to corruption and poor enforcement. That's why a lot of the school buildings caved in, which massively contributed to the high death toll among school children. Thirdly, how can infrastructure cope with certain situations? Hospitals are increasingly aware of alternate evacuation routes in the event of a major flood, even here in Central Europe. Right now those topics are on the agenda, but more conceptually than practically. What are you hoping to achieve with the report? The World Risk Report has two main objectives. The first one is to raise awareness among the next generation of risk managers, politicians, etc., that disaster risk also encompasses building regulations, law enforcement, the level of corruption and so forth. All these things can drive up vulnerability and susceptibility towards these hazards. Secondly, we give recommendations as to what can be done for long-term risk reduction. One key recommendation is to be aware that infrastructure is much more than the technical solutions. It's also about institutions and the humans who run it. This cannot be stressed enough. Too often we focus on the export of technology and know-how in the international community, not so much on the institutions around them. Did you select the infrastructure and logistics emphasis because Habitat, the United Nations Conference on Housing and Sustainable Urban Development, is coming up in October? That's part of it - transportation and communications nodal points are often located in cities. Plus humanity is increasingly living in cities and increasingly depends on infrastructure. To understand the interface with disaster risks is quite timely and important. What role do disasters and infrastructure play in urban settings? Infrastructure does not only play a large role for cities themselves but for societies at large. If communication nodal points or service stations go down in urban areas, where between 50 percent and two-thirds of societies live, the rest of the country will be affected as well. A power outage can hinder the flow of relief items to remote villages. One other key thing is that we should not to pin our hopes too much on technology. Smartphones, drones, social media and the like can do a lot, but what's most needed is basic infrastructure like a functioning road network, bridges and airports. Without these in place, no smartphone in the world can help you to get the right relief to remote places affected by landslides and floods. This interview was condensed for clarity. Dr. Matthias Garschagen is the scientific lead of the 2016 World Risk Report. He is the head of vulnerability assessment, risk management and adaptive planning, at the United Nations University's Institute for Environment and Human Security in Bonn, Germany.",
+  "relations": [
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Matthias Garschagen",
+      "UN",
+      "member_of"
+    ],
+    [
+      "World Risk Report",
+      "UN",
+      "created_by"
+    ],
+    [
+      "World Risk Index",
+      "UN",
+      "created_by"
+    ],
+    [
+      "Institute for Environment and Human Security",
+      "United Nations University",
+      "part_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bündnis Entwicklung Hilft",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bündnis Entwicklung Hilft",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "University of Stuttgart",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Stuttgart",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Anke Rasper",
+      "Deutsche Welle",
+      "member_of"
+    ],
+    [
+      "Kathmandu",
+      "Nepal",
+      "in0"
+    ],
+    [
+      "Sichuan",
+      "China",
+      "in0"
+    ],
+    [
+      "Bonn",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bonn",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

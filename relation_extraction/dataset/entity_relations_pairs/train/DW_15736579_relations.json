@@ -1,0 +1,50 @@
+{
+  "content": "Still a long way to go for Greece\nAs Greece prepares to accept new austerity measures, questions have arisen about the ECB's methods. A controversial bond swap is intended to cut Greek debt, but could be a subsidy in disguise.\nThe measures promised by Greece in order to save an additional 3.3 billion euros ($4.3 billion) appear rather drastic at first glance. Salaries are to be frozen for several years, the minimum wage is to be reduced by 22 percent and the defense budget is to be cut by 300 million euros. Soldiers, police officers, judges, state doctors, and diplomats will face wage cuts as of July, and 15,000 civil servants will be axed at the end of 2012. Large shares of state-owned gas and oil companies, the state lottery, and the waterworks for the Athens and Thessaloniki region are to be sold off by the beginning of July. The Greek parliament is to endorse the new austerity package on Sunday. But even if eurozone finance ministers approve further funding in return, Greece is far from saved. It is still unclear whether Greece's private creditors will agree to a 70 percent haircut on Greek government bonds, currently valued at 205 billion euros. Downward trend continues Moreover, the downturn of Greece's economy has accelerated with production and employment nose-diving, according to the national statistics office. The jobless rate currently stands at about 21 percent and industrial production slumped by 11 percent in December compared to the previous month. The eurozone and IWF bailout hinged on Greece boosting its tax revenue in January by around 9 percent compared to the same period last year. In reality, it dropped by seven percent and revenues from sales tax even plummeted by 19 percent - a clear sign of a deepening recession. Officially eurozone countries are adamant the second bailout won't exceed the 130 billion euros they dangled at the end of October in 2011. But it's likely this won't be enough. Several reports suggest that some in the European Central Bank (ECB) board are meanwhile prepared to reduce Greek debt by a further 13 billion euros. The ECB would only have to pass on its Greek bonds, which it bought at a discount, to the European crisis fund EFSF. Experts believe the ECB is holding Greek bonds to the tune of 50 billion euros. ECB to the rescue? That's why after the ECB board meeting on Thursday many journalists were asking ECB President Mario Draghi whether the bank is involved in rescheduling Greek debt, such as through the sale of Greek government bonds to the EFSF rescue fund. \"It depends - if you make a loss on the sales, that is monetary financing,\" Draghi replied. But that is something the ECB is not allowed to do. Conversely, however, Draghi's statement could be interpreted to mean that the ECB does not see the bond exchange with the EFSF as forbidden state monetary financing if it doesn't lose money doing so. Commerzbank chief economist Jörg Krämer considers this \"remarkable.\" Many media outlets reported that the ECB would sell its Greek bonds to the EFSF at 75 percent of their nominal value and receive EFSF bonds in return. A debt swap of this kind would mean that 25 percent less money would flow back to the ECB on maturity than if the Greek bonds were serviced completely. \"That means 25 percent more central bank money remains in circulation\", Krämer told Deutsche Welle. \"That really would be state monetary financing.\" But because the ECB could avoid pro forma book losses, \"the probability has increased significantly that in the end they will indeed be helping to reduce Greece's debt.\" Author: Rolf Wenkel / sb Editor: Andreas Illmer",
+  "relations": [
+    [
+      "Mario Draghi",
+      "European Central Bank",
+      "head_of"
+    ],
+    [
+      "Mario Draghi",
+      "European Central Bank",
+      "member_of"
+    ],
+    [
+      "Jörg Krämer",
+      "Commerzbank",
+      "head_of"
+    ],
+    [
+      "Jörg Krämer",
+      "Commerzbank",
+      "member_of"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Thessaloniki",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Thessaloniki",
+      "Greek",
+      "in0-x"
+    ]
+  ]
+}

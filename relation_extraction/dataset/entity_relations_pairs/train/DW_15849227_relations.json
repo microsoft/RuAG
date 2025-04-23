@@ -1,0 +1,90 @@
+{
+  "content": "Fuel prices weigh heavily on German spending\nRetail sales in Germany fell for the fifth consecutive month in February - against expectations of a rise on the back of positive economic data. But year-on-year figures remain fine.\nFebruary retail sales data for Germany showed a drop of 1.1 percent compared with the previous month, according to figures published by the federal statistics office, Destatis, on Friday. It's the fifth consecutive month that saw sales drop and has surprised analysts, who had expected an increase of 1.2 percent for February in a survey carried out by Dow Jones Newswires. Annalisan Piazza, an analyst for Newedge Strategy, says the drop is only a \"sign of caution\" in the current, uncertain retail environment - rather than a \"symptom\" of German domestic demand actually \"collapsing.\" Compared with figures from February 2011, Destatis says German retail sales rose by 1.7 percent. Confidence vs. concern German consumer confidence has edged higher since the beginning of 2012, supported by a strong labor market and signs that the Germany economy is picking up speed again. But rising oil prices are \"taking their toll\" and diminishing \"spending power,\" according to Stefan Schilbe, an analyst with HSBC Trinkhaus. \"Concern over higher fuel prices will continue for a while because the Easter holidays will definitely bring higher prices again,\" he added. Christian Schulz of Berenberg Bank says sluggish retail activity can also be attributed to Germans not being \"convinced that the eurozone debt crisis is over.\" Combined with higher prices at the pump, Schulz says ongoing fears about the debt crisis will weigh heavily on people's willingness to spend. According to indicators published by market research group GfK earlier this week, consumer confidence in Germany is expected to stagnate next month due to high oil prices. But it is thought that household spending will be robust enough to prevent Europe's biggest economy from falling into recession. uhe/za (Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "Annalisan Piazza",
+      "Newedge Strategy",
+      "member_of"
+    ],
+    [
+      "Stefan Schilbe",
+      "HSBC Trinkhaus",
+      "member_of"
+    ],
+    [
+      "HSBC Trinkhaus",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "HSBC Trinkhaus",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "HSBC Trinkhaus",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Christian Schulz",
+      "Berenberg Bank",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Destatis",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Destatis",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Destatis",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Destatis",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Destatis",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Destatis",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Berenberg Bank",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Berenberg Bank",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berenberg Bank",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "content": "Union: Alitalia closes on cash injection to stay in the skies\nTrade union officials have said Italian airline Alitalia is approaching a half-billion-euro cash injection, after reports that the company was days from bankruptcy. Alitalia came close to the brink as recently as 2008.\nUnion representatives met with Alitalia management in Rome on Wednesday, discussing the future of an airline that's thought to need around 500 million euros ($675 million) in fresh capital to stay afloat. Claudio Tarlazzi of the UIL Trasporti union said after the talks that stakeholders were considering a capital increase of 300 million euros, coupled with a loan of 200 million euros, to raise the funds. Tarlazzi said Alitalia would seek half its capital injection from a public sector investor, and half from company shareholders. Another union representative said a public investor like Fintecna, a public holding in property and shipyards, might prove a viable investor. \"Alitalia is desperately seeking help before it fails,\" Franco Nasso from the Filt Cgil union said. \"Either the continuity of the company is assured within 48 hours by deciding which public sector subject should be brought in or we have to accept a bankruptcy steered by Paris.\" Alitalia's most pressing immediate concern is an outstanding bill for around 30 million euros payable to its fuel supplier, Eni. Chief executive Paolo Scaroni has said that kerosene supplies will be shut off on Saturday, because Eni \"cannot provide credit to a company whose future seems no longer assured.\" Further emergency talks are scheduled on Thursday, and Friday if necessary, for the Italian flagship carrier that employs roughly 14,000 people. Still almost all-Italian, but at what cost? Alitalia has not made an annual operating profit since its privatization and restructuring - itself a rescue mission for the once state-owned carrier - was completed in 2009. Under the terms of that deal, Air France-KLM acquired a 25-percent share in the company. Air France-KLM this week announced a restructuring plan of its own affecting at least 2,800 employees. Italy's prime minister at the time, Silvio Berlusconi, rejected the French-Dutch carrier's attempts to buy a controlling stake. German giant Lufthansa had also expressed an interest in the early stages of talks. One of Berlusconi's campaign promises in 2008 had been to save the airline, and to keep it Italian. It took a change in Italy's bankruptcy laws to entice domestic investors to purchase only those elements of the business with a chance at survival. The airline's liabilities and debts were turned into a \"bad company\" that remained in state and taxpayer hands. A classified US diplomatic cable on the topic, sent from the embassy in Rome and released in 2011, was given the subject-line: \"Alitalia still flies under the Italian flag but at a high cost to Italy.\" The same cable concluded that the \"new Alitalia,\" officially called Cai (Compagnia Aerea Italia), \"still faces an uphill battle to return to profitability and to convince ordinary Italians and opposition politicians that the cost was worth it.\" Prime Minister Enrico Letta at the weekend described Berlusconi's handling of Alitalia's last escape from bankruptcy, finalized late in 2008 ahead of a January 2009 official relaunch, as an error \"that we are paying for today.\" msh/lw (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Compagnia Aerea Italia",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Compagnia Aerea Italia",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Compagnia Aerea Italia",
+      "Italians",
+      "based_in0-x"
+    ],
+    [
+      "Compagnia Aerea Italia",
+      "UIL Trasporti",
+      "is_meeting"
+    ],
+    [
+      "Compagnia Aerea Italia",
+      "Filt Cgil",
+      "is_meeting"
+    ],
+    [
+      "Claudio Tarlazzi",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Claudio Tarlazzi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Claudio Tarlazzi",
+      "Italians",
+      "citizen_of-x"
+    ],
+    [
+      "Claudio Tarlazzi",
+      "UIL Trasporti",
+      "member_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italians",
+      "citizen_of-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italy",
+      "head_of_gov"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italians",
+      "head_of_gov-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Rome",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Rome",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Rome",
+      "Italians",
+      "in0-x"
+    ],
+    [
+      "UIL Trasporti",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "UIL Trasporti",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "UIL Trasporti",
+      "Italians",
+      "based_in0-x"
+    ],
+    [
+      "UIL Trasporti",
+      "Compagnia Aerea Italia",
+      "is_meeting"
+    ],
+    [
+      "UIL Trasporti",
+      "Filt Cgil",
+      "is_meeting"
+    ],
+    [
+      "Fintecna",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Fintecna",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Fintecna",
+      "Italians",
+      "based_in0-x"
+    ],
+    [
+      "Franco Nasso",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Franco Nasso",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Franco Nasso",
+      "Italians",
+      "citizen_of-x"
+    ],
+    [
+      "Franco Nasso",
+      "Filt Cgil",
+      "member_of"
+    ],
+    [
+      "Filt Cgil",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Filt Cgil",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Filt Cgil",
+      "Italians",
+      "based_in0-x"
+    ],
+    [
+      "Filt Cgil",
+      "Compagnia Aerea Italia",
+      "is_meeting"
+    ],
+    [
+      "Filt Cgil",
+      "UIL Trasporti",
+      "is_meeting"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Paolo Scaroni",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Paolo Scaroni",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Paolo Scaroni",
+      "Italians",
+      "citizen_of-x"
+    ],
+    [
+      "Paolo Scaroni",
+      "Eni",
+      "head_of"
+    ],
+    [
+      "Paolo Scaroni",
+      "Eni",
+      "member_of"
+    ],
+    [
+      "Lufthansa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Italians",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Enrico Letta",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Enrico Letta",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Enrico Letta",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Enrico Letta",
+      "Italians",
+      "citizen_of-x"
+    ],
+    [
+      "Enrico Letta",
+      "Italy",
+      "head_of_gov"
+    ],
+    [
+      "Enrico Letta",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Enrico Letta",
+      "Italians",
+      "head_of_gov-x"
+    ]
+  ]
+}

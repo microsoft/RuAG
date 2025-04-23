@@ -1,0 +1,170 @@
+{
+  "content": "Gang battle in Mexico as US' John Kelly visits\nA gunbattle between drug gangs in northern Mexico has left 14 people dead. It's the latest in a series of turf wars. Smuggling has prompted a visit to Mexico City by US Homeland Security Secretary John Kelly.\nProsecutors said the remote town of Las Varas in Chihuahua state was the scene of Wednesday's battle between affiliates of the Ciudad Juarez cartel and a gang from the state of Sinaloa. Police said fighting escalated when patrols arrived. Fourteen people were found dead; 12 others were hospitalized. Grenades, launchers and rifles were found. The mountainous region is used as a corridor for smuggling into the US. El Chapo effect Chihuahua security commissioner Oscar Alberto Aparicio said a Black Hawk helicopter was called in as police chased surviving gang members through the area known for marijuana and opium poppy production. Two police officers had been killed in a \"cowardly\" way in the area a week ago, he said. In a similar incident last Friday, 17 gunmen were killed during a shootout with police on a highway in Sinaloa, Mexico's northwestern state. Sinaloa was the home base of Joaquin \"El Chapo\" Guzman, whose extradition to the US in January apparently left gangsters in a struggle for control of criminal syndicates. Homicides have surged in recent months, with the number of persons killed in May put at 2,186, the highest since the collection of such statistics began 20 years ago. Nieto and Kelly to talk In Mexico City Wednesday, President Enrique Pena Nieto's office said he and visiting US Homeland Security Secretary John Kelly had discussed how to rein in organized crime groups. \"Shared responsibility\" must become the focus of transnational efforts, Kelly said. Narcotics smuggling into the US has become a multibillion-dollar (multibillion-euro) business for Mexican drug cartels. Mexico in turn wants the US to throttle demand for narcotics and the supply of illegal weapons to Mexico cartels. Pena Nieto and US President Donald Trump, who wants a border wall, are schedule to meet Friday on the sidelines of the G20 summit in Hamburg, Germany. ipj/ng (AP, AFP, dpa)",
+  "relations": [
+    [
+      "John Kelly",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kelly",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kelly",
+      "Enrique Pena Nieto",
+      "is_meeting"
+    ],
+    [
+      "John Kelly",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Las Varas",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Las Varas",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Las Varas",
+      "Chihuahua",
+      "in1"
+    ],
+    [
+      "Joaquin \"El Chapo\" Guzman",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Joaquin \"El Chapo\" Guzman",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "agent_of"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "head_of_state"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexican",
+      "head_of_state-x"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "John Kelly",
+      "is_meeting"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Donald Trump",
+      "is_meeting"
+    ],
+    [
+      "Mexico City",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Mexico City",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Chihuahua",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Chihuahua",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Ciudad Juarez",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "Ciudad Juarez",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Sinaloa",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Sinaloa",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Oscar Alberto Aparicio",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Oscar Alberto Aparicio",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Mexican",
+      "Mexico",
+      "gpe0"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "G20",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "G20",
+      "Hamburg",
+      "event_in2"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ]
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "content": "US duo shares Nobel Prize for Economics\nUS researcher Elinor Ostrom is the first woman to win the Nobel prize for economics since it was created in 1968. She will share the prestigious award with US compatriot Oliver Williamson.\nThe jury from the Royal Swedish Academy of Sciences said the Americans' research had shown how \"economic analysis can shed light on most forms of social organization.\" Ostrom, a professor at Indiana University, was honored for her \"analysis of economic governance,\" especially in relation to the management of common property or property under common control. The political scientist's work challenges the widely accepted belief that common property is poorly managed and should be either regulated by central authorities or privatized, it added. She carried out numerous studies showing how self-organization and local-level management work to keep common resources viable. Her studies included both natural resources, such as forests, and artificial structures, for example police forces. Ostrom told Swedish television that she felt \"great surprise and appreciation\" and was \"in shock\" about being the first woman to win the prize. The pros and cons of big firms In his work, co-prizewinner Oliver Williamson, of University of California, Berkeley, examines why large corporations tend to arise - and why they do not - based on the cost and complexity of transactions, according to the Nobel committee. \"He has taught us to regard markets, firms, associations, agencies, and even households from the perspective of their contribution to the resolution of conflict,\" the jury said. Williamson authored 'The Economic Institutions of Capitalism' in 1975, a landmark text of the 'new institutional economics' movement that questioned the idea of firms as simple profit-making machines. Last but not least The Nobel prize for economics is the only Nobel award that was not created by the will of Swedish industrialist Alfred Nobel in 1896. It was actually founded by the Swedish central bank, the Sverige Riksbank, to celebrate its tri-centenary a year earlier. It was awarded for the first time in 1969 under its official name: the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel. But although it was the last \"Nobel prize\" to be created and the last to be announced each year, the prize is not a poor relation in monetary terms. Winners of the awards for peace, literature, medicine, physiology, chemistry and physics all receive 10 million Swedish crowns (969,000 euros). A good year for women This year was a record year for women laureates. German-Romanian writer Herta Mueller won the Nobel Prize for Literature. Australian-American Elizabeth Blackburn and Carol Greider of the United States were awarded the prize for medicine. And Ada Yonath of Israel was one of three scientists recognized for her work in chemistry. Americans more or less swept the board this year. Nine of the 11 laureates were US citizens. The most prominent of those was US President Barack Obama, who won the Nobel Peace Prize for his \"extraordinary efforts to strengthen international diplomacy and cooperation between peoples.\" jg/AFP/dpa/Reuters Editor: Sam Edmonds",
+  "relations": [
+    [
+      "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+      "Sverige Riksbank",
+      "created_by"
+    ],
+    [
+      "Elinor Ostrom",
+      "Nobel prize",
+      "award_received"
+    ],
+    [
+      "Elinor Ostrom",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Elinor Ostrom",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Elinor Ostrom",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Elinor Ostrom",
+      "Indiana University",
+      "member_of"
+    ],
+    [
+      "Oliver Williamson",
+      "Nobel prize",
+      "award_received"
+    ],
+    [
+      "Oliver Williamson",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Oliver Williamson",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Oliver Williamson",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Oliver Williamson",
+      "University of California",
+      "member_of"
+    ],
+    [
+      "Royal Swedish Academy of Sciences",
+      "Swedish",
+      "based_in0-x"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Indiana University",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Indiana University",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Indiana University",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "University of California",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "University of California",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "University of California",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "University of California",
+      "Berkeley",
+      "based_in2"
+    ],
+    [
+      "Berkeley",
+      "United States",
+      "in0"
+    ],
+    [
+      "Berkeley",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Berkeley",
+      "American",
+      "in0-x"
+    ],
+    [
+      "The Economic Institutions of Capitalism",
+      "Oliver Williamson",
+      "created_by"
+    ],
+    [
+      "Alfred Nobel",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Sverige Riksbank",
+      "Swedish",
+      "agency_of-x"
+    ],
+    [
+      "Sverige Riksbank",
+      "Swedish",
+      "based_in0-x"
+    ],
+    [
+      "Herta Mueller",
+      "Nobel Prize for Literature",
+      "award_received"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Elizabeth Blackburn",
+      "Nobel prize",
+      "award_received"
+    ],
+    [
+      "Carol Greider",
+      "Nobel prize",
+      "award_received"
+    ],
+    [
+      "Carol Greider",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Carol Greider",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Carol Greider",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Ada Yonath",
+      "Nobel prize",
+      "award_received"
+    ],
+    [
+      "Ada Yonath",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ]
+  ]
+}

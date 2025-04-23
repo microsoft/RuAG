@@ -1,0 +1,40 @@
+{
+  "content": "Air India to cut cost amid industry turbulence\nThe Indian airliner has announced plans to slash staff and cut costly routes amid increasing pressure from cut-rate competitors. The move comes as the company eyes a possible turn-around after a long spell of losses.\nIndia's state-owned aviation giant Air India announced late on Sunday that it plans to cut costs by 14 billion rupees (195 million euros, $227 million), or about 6 percent of its total outlays, in the next financial year. The announcement comes after the government asked the loss-making carrier to improve its fiscal health. The airline said that it would identify \"surplus staff,\" freeze contractual hiring and discontinue loss-making routes, in a move meant to reduce its variable spending of 140 billion rupees by a tenth. \"The ministry of civil aviation has directed that a 10 percent cut must be imposed,\" the company's chairman and managing director Robit Nandan said in a circular to senior staff. The company has also restricted staff travel, while pilots and cabin crew must stay in hotels near airports to cut transport costs. In addition, the circular said, \"wage increases for local staff... will not be entertained.\" Stiff competition The move comes as Air India faces cut-throat competition from cheaper, private-sector rivals. The country's former aviation monopoly now controls just a fifth of the domestic market and hasn't turned an annual profit since 2007. In 2012, the government handed the flat-lining carrier a 300-billion-rupee bailout package, which was to be administered over a nine-year period, despite opposition from several ministers. The state run airline has reduced its losses over the last two fiscal years, with total year-on-year revenue rising by 6.5 percent in December 2014. All but one of India's major carriers have seen earnings nosedive, due to high operation costs and some of the lowest fare prices in the world. pad/uhe (AFP, PTI, Reuters)",
+  "relations": [
+    [
+      "Air India",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Air India",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Robit Nandan",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Robit Nandan",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Robit Nandan",
+      "Air India",
+      "head_of"
+    ],
+    [
+      "Robit Nandan",
+      "Air India",
+      "member_of"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ]
+  ]
+}

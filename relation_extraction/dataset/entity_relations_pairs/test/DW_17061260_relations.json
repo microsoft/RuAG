@@ -1,0 +1,190 @@
+{
+  "content": "Slovaks accused of spying in Iran released\nSix Slovak paragliders detained in Iran since May on suspicion of spying have been released. They were originally arrested for taking photographs of restricted areas.\nSlovak citizens detained by the Iranian authorities on suspicion of taking photographs out of bounds have returned home, said Slovakian Prime Minister Robert Fico. Eight people in total were arrested in May after taking photographs of restricted areas. A Slovakian news website said the group was detained near the central city of Isfahan, where Iran has nuclear facilities. The six that have been freed attended a news conference held by Prime Minister Fico in the capital, Bratislava on Sunday. Fico told reporters that the government was working to secure the release of the remaining two paragliders who are stiil in custody. \"Negotiations were fair and their result is the release of six out of eight detainees,\" Fico was quoted as saying on the government's website. He added that Slovakia had not made any \"financial commitments\" in the negotiation process. Detainees 'unaware' of rule-breaking One of the released paragliders, Vladislav Frigo, said the group did not break any rules it was aware of. \"We had information that there was a ban on taking photographs below the height of 2,300 metres. We were taking pictures from higher (altitudes),\" said Frigo. He added that the detainees were well treated, had access to television, a refrigerator and could cook for themselves as well as getting regular meals. Foreign nationals accused of spying In recent years, Iran has levelled accusations of espionage against both foreign nationals and Iranians. Two U.S. citizens - Josh Fattal and Shane Bauer - were sentenced to eight years in jail for spying after being arrested while hiking along the Iraq-Iran border in 2009. They denied espionage - neighbouring Oman helped secure their release in 2011 by posting bail of 1-million US dollars (756,000 euros). Last year, Iranian-American Amir Hekmati was sentenced to death for spying for the CIA, but judges overturned the decision and ordered a retrial. lw/ipj (Reuters, dpa)",
+  "relations": [
+    [
+      "Robert Fico",
+      "Slovakia",
+      "agent_of"
+    ],
+    [
+      "Robert Fico",
+      "Slovakia",
+      "citizen_of"
+    ],
+    [
+      "Robert Fico",
+      "Slovaks",
+      "citizen_of-x"
+    ],
+    [
+      "Robert Fico",
+      "Slovak",
+      "citizen_of-x"
+    ],
+    [
+      "Robert Fico",
+      "Slovakian",
+      "citizen_of-x"
+    ],
+    [
+      "Robert Fico",
+      "Slovakia",
+      "head_of_gov"
+    ],
+    [
+      "Robert Fico",
+      "Slovaks",
+      "head_of_gov-x"
+    ],
+    [
+      "Robert Fico",
+      "Slovak",
+      "head_of_gov-x"
+    ],
+    [
+      "Robert Fico",
+      "Slovakian",
+      "head_of_gov-x"
+    ],
+    [
+      "Isfahan",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Isfahan",
+      "Iranian",
+      "in0-x"
+    ],
+    [
+      "Isfahan",
+      "Iranians",
+      "in0-x"
+    ],
+    [
+      "Vladislav Frigo",
+      "Slovakia",
+      "citizen_of"
+    ],
+    [
+      "Vladislav Frigo",
+      "Slovaks",
+      "citizen_of-x"
+    ],
+    [
+      "Vladislav Frigo",
+      "Slovak",
+      "citizen_of-x"
+    ],
+    [
+      "Vladislav Frigo",
+      "Slovakian",
+      "citizen_of-x"
+    ],
+    [
+      "Slovaks",
+      "Slovakia",
+      "gpe0"
+    ],
+    [
+      "Slovak",
+      "Slovakia",
+      "gpe0"
+    ],
+    [
+      "Iranian",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "Slovakian",
+      "Slovakia",
+      "gpe0"
+    ],
+    [
+      "Bratislava",
+      "Slovakia",
+      "in0"
+    ],
+    [
+      "Bratislava",
+      "Slovaks",
+      "in0-x"
+    ],
+    [
+      "Bratislava",
+      "Slovak",
+      "in0-x"
+    ],
+    [
+      "Bratislava",
+      "Slovakian",
+      "in0-x"
+    ],
+    [
+      "Iranians",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "Josh Fattal",
+      "U.S.",
+      "citizen_of"
+    ],
+    [
+      "Josh Fattal",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Shane Bauer",
+      "U.S.",
+      "citizen_of"
+    ],
+    [
+      "Shane Bauer",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "American",
+      "U.S.",
+      "gpe0"
+    ],
+    [
+      "Amir Hekmati",
+      "U.S.",
+      "citizen_of"
+    ],
+    [
+      "Amir Hekmati",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Amir Hekmati",
+      "CIA",
+      "member_of"
+    ],
+    [
+      "CIA",
+      "U.S.",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "CIA",
+      "U.S.",
+      "based_in0"
+    ],
+    [
+      "CIA",
+      "American",
+      "based_in0-x"
+    ]
+  ]
+}

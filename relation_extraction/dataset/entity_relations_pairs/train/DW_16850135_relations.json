@@ -1,0 +1,45 @@
+{
+  "content": "Uganda lifts ban on Daily Monitor newspaper and two radio stations\nUganda's government has ordered police to allow journalists to return to the premises of a newspaper, which had been shut down for 10 days amid widespread criticism. DW spoke to the Daily Monitor's managing director.\nPolice shut down the Daily Monitor and another paper after they printed a confidential memo by a senior general alleging that President Yoweri Museveni was grooming his son to succeed him. Independent newspaper Daily Monitor faced pressure to reveal how it obtained the letter in which Gen. David Sejusa urged the internal security service to investigate reports that high-ranking officials opposed to the political rise of the president's son were at risk. Sejusa, who is in London at the time and faces arrest if he were to return to Uganda, has said he himself might be targeted. The newspaper has resisted efforts to forward a copy of Sejusa's letter to the police, saying it goes against press freedom. DW: Before the internal affairs minister agreed to withdraw the police cordon around your premises, you had to agree not to publish stories that would cause insecurity or disturb law and order. Such conditions are obviously open to a very broad interpretation and could be easily abused. How worried are you that government interference in the media will continue? Alex Assimwe: What I can say is that we shared our editorial policy guidelines with them which they were not privy to. And in these guidelines they found a breath of fresh air in terms of the journalistic standards we have decided to uphold. And that's the only document that we did share. We did not sign any other undertakings. What exactly was in this memo written by Gen. David Sejusa that made it so sensitive apart from the allegation of nepotism at the highest level? Well from what I do remember is that it that they did say it was an internal security document. I think there were some assassination claims in this letter that Gen. Sejusa wrote to his internal security chief and he acknowledged that it was his letter. So I think their reasoning and understanding is that it touched on national security and they were probably worried that it would create security issues and divisions in the army. How serious is the financial impact of the ten-day closure on your paper? It was serious and it's been serious, but you have to look at the silver lining. To me I think this has come to a close sooner than later; it could have gone on for a longer period. I'm just appreciative that we are now open. I have received so many messages of good will, so much media coverage. The closure of your paper was criticized by the United Nations, the European Union, and various international media watchdogs. Can you assess how much impact this pressure had on the Uganda government? I would never be able to determine accurately how much each of their efforts - or their efforts collectively - what they have done. We appreciate them standing with us and I think it has been useful. The other thing that is that actually sitting down with the government side we did recognize that in spite of the action we had seen outside, there was a very reasonable candid and objective discussion that was going on. But even our wildest fears in terms of them demanding certain things that we are certainly not going to accept - we found a bit less of that. Alex Asiimwe is the Daily Monitor's Managing Director.",
+  "relations": [
+    [
+      "Daily Monitor",
+      "Uganda",
+      "based_in0"
+    ],
+    [
+      "Yoweri Museveni",
+      "Uganda",
+      "agent_of"
+    ],
+    [
+      "Yoweri Museveni",
+      "Uganda",
+      "citizen_of"
+    ],
+    [
+      "Yoweri Museveni",
+      "Uganda",
+      "head_of_state"
+    ],
+    [
+      "David Sejusa",
+      "Uganda",
+      "agent_of"
+    ],
+    [
+      "David Sejusa",
+      "Uganda",
+      "citizen_of"
+    ],
+    [
+      "Alex Assimwe",
+      "Uganda",
+      "citizen_of"
+    ],
+    [
+      "Alex Assimwe",
+      "Daily Monitor",
+      "member_of"
+    ]
+  ]
+}

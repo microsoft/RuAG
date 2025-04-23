@@ -1,0 +1,75 @@
+{
+  "content": "Ukraine activist Bulatov reveals details of alleged kidnapping\nUkraine activist Dmytro Bulatov has shed light on his alleged kidnapping, and has told reporters he had begged his captors to kill him. Bulatov said he was so desperate to end the ordeal he made false confessions.\nBulatov fronted a press conference in Vilnius, Lithuania on Thursday to outline the details of his ordeal, which began with his abduction on January 22. He was discovered eight days later, bloodied and claiming he was tortured by his captors. Bulatov was one of the leaders of the group Automaidan, which uses vehicles to blockade streets in protection of protest groups. He had been active in the anti-government protests gripping Ukraine, with President Viktor Yanukovych under pressure after electing not to sign an association agreement with the European Union in November. False confession Bulatov is one of several prominent activists said to have been abducted, and said his captors repeatedly asked him who was funding the protests. He said he had falsely confessed to having received $50,000 (36,800 euros) from a United States ambassador in an attempt to stop the torture. \"They cut my ear, I couldn't feel how much they cut off my ear. They took the piece of my ear and touched my face with it,\" he told reporters. \"The only thing I wanted was for this to stop … I said whatever they wanted.\" \"On the last day they put me on my knees. They said, 'We are going to crucify you.' I was asking them to kill me because I was unable to stand this any more,\" he added \"Some time later they came and put a bag on my head and took me somewhere. I was hoping my suffering was finished.\" Bulatov flew to Lithuania for further medical treatment, and told news agency Reuters he would not return to Ukraine unless he received guarantees he would not be prosecuted. Constitutional change sought Ukraine's opposition parties are continuing their push to return the constitution to its 2004 form - a move that would shift several powers from the president to parliament. Yanukovych has rejected the proposal, but a spokesman from the president's Party of the Regions said leaders of all parliamentary groups are set to meet in the coming days to discuss a bill. \"Next week, we should take a decision - maybe on Tuesday, Wednesday - to consider this draft law,\" Party of the Regions' speaker Volodymyr Rybak told lawmakers. Speaking on Wednesday, EU foreign policy chief Catherine Ashton called for political action to end the turmoil, saying a potential aid package from the US and EU would be more than simply monetary assistance. ph/dr (Reuters, dpa)",
+  "relations": [
+    [
+      "Dmytro Bulatov",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Dmytro Bulatov",
+      "Automaidan",
+      "head_of"
+    ],
+    [
+      "Dmytro Bulatov",
+      "Automaidan",
+      "member_of"
+    ],
+    [
+      "Vilnius",
+      "Lithuania",
+      "in0"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Party of the Regions",
+      "member_of"
+    ],
+    [
+      "Party of the Regions",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Automaidan",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Volodymyr Rybak",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Volodymyr Rybak",
+      "Party of the Regions",
+      "member_of"
+    ],
+    [
+      "Volodymyr Rybak",
+      "Party of the Regions",
+      "spokesperson_of"
+    ],
+    [
+      "Catherine Ashton",
+      "European Union",
+      "member_of"
+    ]
+  ]
+}

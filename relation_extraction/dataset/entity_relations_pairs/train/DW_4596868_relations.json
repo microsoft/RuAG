@@ -1,0 +1,140 @@
+{
+  "content": "Berlin continues to spin its wheels over Opel's future\nThe tug-of-war over European carmaker Opel seems set to continue after talks between Opel's troubled parent company General Motors and the German government ended inconclusively on Tuesday.\nGeneral Motors' chief negotiator, John Smith, was in Berlin Tuesday to talk about the future of Opel. GM reportedly used the meeting to assure the German government Tuesday that it still may sell Opel, an unnamed German government source told the Associated Press. Yet other media reports that GM is looking for ways to hold onto Opel after all. The Wall Street Journal said that General Motors' new board of directors has ordered management to consider new options for Opel, including finding three billion euros ($4.3 billion) in funding to overhaul GM's European operations rather than sell them. The newspaper cited three unnamed sources familiar with the matter as saying that GM Chief Executive Frederick \"Fritz\" Henderson had been instructed to prepare a new financial plan ahead of the US carmaker's next board meeting in early September. Meanwhile, The Financial Times reports that GM is exploring ways of securing funding from the British, Spanish and US governments in a deal its source described as \"feasible if complex\". A leading German labor representative said he hopes General Motors will make a decision about the future of Opel by Wednesday morning. Armin Schild, the leader of the IG Metall union in the state of Hesse, where Opel has its headquarters, said the fact that GM's options for Opel had come to light ahead of an official announcement means that they may be under serious consideration. \"I see that as a bad sign for the future of Opel,\" Schild told German public television station ZDF. Magna rejection The reports follow a meeting last Friday in which GM's board rejected Henderson's recommendation that Opel be sold to a consortium consisting of Canadian auto parts manufacturer Magna, Russian state-owned lender Sberbank and Russian carmaker GAZ. The move was an embarrassment to the German government, which has offered to throw 4.5 billion euros ($6.4 billion) worth of financial support behind the Magna bid. Lawmakers and unions fear that the rival offer from Belgian-based investment group RHJ International could lead to widespread job losses in Germany, which is home to about half of GM's 55,000-strong European workforce. But GM's board is reported to be wary of the Magna deal because it could see valuable technological know-how end up in the hands of its Russian competitors. Meanwhile, the absence of a foothold in Europe could harm the GM in the long run by leaving the company overly dependent on North American and Chinese markets. Sale or no sale, German Finance Minister Peer Steinbrueck suspects that GM favors the RHJ bid because managers in Detroit aim to maintain control of Opel in the long term. \"My impression is that some people at the heart of GM management prefer the RHJ International offer because it would make it easier to buy back Opel in a few years time,\" Steinbrueck told the Handelsblatt financial newspaper. \"Magna, in our view, has a clear industrial strategy, not just a plan for short-term gain and that is why the government will not give any financial aid to RHJ,\" he said. \"Aid will only be given to Magna.\" sje/dpa/AP/Reuters Editor: Chuck Penfold/Trinity Hartman",
+  "relations": [
+    [
+      "Opel",
+      "General Motors",
+      "part_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "RHJ International",
+      "Belgian",
+      "based_in0-x"
+    ],
+    [
+      "John Smith",
+      "General Motors",
+      "member_of"
+    ],
+    [
+      "Frederick \"Fritz\" Henderson",
+      "General Motors",
+      "head_of"
+    ],
+    [
+      "Frederick \"Fritz\" Henderson",
+      "General Motors",
+      "member_of"
+    ],
+    [
+      "Armin Schild",
+      "IG Metall",
+      "head_of"
+    ],
+    [
+      "Armin Schild",
+      "IG Metall",
+      "member_of"
+    ],
+    [
+      "Peer Steinbrueck",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Peer Steinbrueck",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peer Steinbrueck",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peer Steinbrueck",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Peer Steinbrueck",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "IG Metall",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "IG Metall",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hesse",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hesse",
+      "German",
+      "in0-x"
+    ],
+    [
+      "ZDF",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ZDF",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Magna",
+      "Canadian",
+      "based_in0-x"
+    ],
+    [
+      "Sberbank",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "GAZ",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Detroit",
+      "US",
+      "in0"
+    ],
+    [
+      "Handelsblatt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Handelsblatt",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

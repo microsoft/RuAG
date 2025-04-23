@@ -1,0 +1,205 @@
+{
+  "content": "Is Afghanistan's friendship with India imperiling security?\nAfter a spate of recent deadly bombings, the Afghan capital Kabul still remains in shock. Experts believe Afghanistan's increasingly close ties with India are a reason for the uptick in violence.\n\"As soon as you step into the city you can sense that there is only fear and horror,\" says Sirajuddin Yuldash, a resident of Kabul. \"People are even scared of police cars and try to hide from them as soon as they see them to avoid the next suicide bombing, which can happen anytime.\" Violence has never been absent in the Afghan capital, and the recent incidents are just another episode of suicide attacks and bombings that have rocked the city. Still, the increasing brutality and high number of casualties have left many Afghans shaken. On September 5, twin blasts carried out by the Taliban insurgent group followed by a 11-hour standoff with Afghan security forces killed at least 41 people, including senior government officials, and left over 100 people wounded. And a couple of weeks ago, 16 people lost their lives when militants stormed the American University of Afghanistan in Kabul. The insurgents, however, are targeting not just the capital, but also provinces such as Uruzgan and Helmand. Reports suggest that the capital of Uruzgan, Tarin Kowt, is on the verge of falling to the Taliban, as militants have fought their way to within a few kilometers of the city over the past several days. Ever since the Taliban was toppled from power in 2001 by US-led NATO forces, the militant group has been engaged in an armed struggle to dislodge the Western-backed government in Kabul. But some observers believe Afghanistan's increasingly close ties with India are a reason for the recent uptick in violence. India increases military aid New Delhi has had close ties to Kabul since the fall of the Taliban regime, and emerged as one of Afghanistan's major donors, underwriting an array of development projects in the impoverished nation. Furthermore, military cooperation between the two sides has been on the rise, with India recently gifting four Mi-25 attack helicopters to bolster the Afghan Air Force's ability to help ground troops fighting Taliban militants. India also trains hundreds of Afghan soldiers each year in its military academy. In its first public response to Indian military aid, the Taliban recently urged New Delhi to stop giving defense equipment to the Afghan government, condemning it as a \"clear hostility\" towards the war-ravaged nation. \"We call on India to stop exporting items of killing and destruction to Afghanistan and to stop efforts of prolonging the lifespan of this corrupt regime with its military aid,\" Zabihullah Mujahid, the spokesperson for the Taliban, said in a statement released on Sunday, September 4. \"Taking recent Taliban statements into account, it becomes obvious that the Jihadists are identifying India not only as a partner of US interests in Afghanistan but also as an increasing successor in military terms and subsequently as a primary target,\" says Siegfried O. Wolf, a South Asia analyst at the University of Heidelberg. \"As such, the last Taliban attacks in Kabul are not only directed against the Afghan government but are also a signal towards New Delhi to stay out of the country, that India - like the US - is identified as hostile foreign influence,\" he told DW. New Delhi replaces Washington? The deepening of the bilateral military cooperation comes at a time when the US is looking to gradually back away from Afghanistan. Many say the US has already named New Delhi its \"successor\" to take over Washington's role in Afghanistan, citing US Secretary of State John Kerry's recent announcement on an Afghanistan-India-US trilateral dialogue in New York next month. The announcement has been met with dismay in Pakistan, which has so far been the go-to partner on Afghan security issues. Islamabad's military-intelligence establishment has traditionally maintained close ties with the Taliban, and Afghan officials have accused Pakistan of providing safe harbor to the militant group's leadership on its territory. Haroon Mir, a political analyst at the think tank Afghanistan Center for Research Policy Studies, is convinced that the trilateral talks and the exclusion of Pakistan have definitely had an impact on Islamabad's actions towards Kabul. \"These attacks are a threat to Afghanistan's government. Pakistan has warned Kabul before that they are able to have an impact on the situation in Afghanistan and they have now proved it by using the Taliban.\" Choosing between Pakistan and India Both New Delhi and Islamabad have wrestled for influence in Kabul in recent decades. But the strengthening of ties between New Delhi and Kabul has sparked fears of a possible proxy war in Afghanistan between India and Pakistan, a historic backer of the Taliban. \"Closer ties between Kabul and New Delhi are not only an outcome of decades-long friendship between the two countries but also a logical consequence of Pakistan's approach towards Afghanistan,\" underlined Wolf. \"Pakistan's double game of officially supporting the international 'war on terror' and covered state-sponsorship for Jihadists is an obvious contradiction to Islamabad's public rhetoric of being interested in a stable, peaceful and prosperous Afghanistan.\" Nevertheless, Afghanistan is economically dependent on Pakistan. Experts say both countries have to cooperate regionally and work towards a normalization of their bilateral relations. If the two countries fail to improve their relations, they will face not only economic disaster but also armed conflict, Wolf said. Against this backdrop, Afghans are increasingly concerned about the severe impact the geopolitical struggle involving Afghanistan, Pakistan and India is having on their lives and security. Additional reporting by Masood Saifullah.",
+  "relations": [
+    [
+      "Kabul",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kabul",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Kabul",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghans",
+      "based_in0-x"
+    ],
+    [
+      "Siegfried O. Wolf",
+      "University of Heidelberg",
+      "member_of"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Sirajuddin Yuldash",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Sirajuddin Yuldash",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Sirajuddin Yuldash",
+      "Afghans",
+      "citizen_of-x"
+    ],
+    [
+      "Afghans",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "American University of Afghanistan",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "American University of Afghanistan",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "American University of Afghanistan",
+      "Afghans",
+      "based_in0-x"
+    ],
+    [
+      "American University of Afghanistan",
+      "Kabul",
+      "based_in2"
+    ],
+    [
+      "Uruzgan",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Uruzgan",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Uruzgan",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "Helmand",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Helmand",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Helmand",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "Tarin Kowt",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Tarin Kowt",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Tarin Kowt",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "New Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "Afghan Air Force",
+      "Afghanistan",
+      "agency_of"
+    ],
+    [
+      "Afghan Air Force",
+      "Afghan",
+      "agency_of-x"
+    ],
+    [
+      "Afghan Air Force",
+      "Afghans",
+      "agency_of-x"
+    ],
+    [
+      "Afghan Air Force",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Afghan Air Force",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Afghan Air Force",
+      "Afghans",
+      "based_in0-x"
+    ],
+    [
+      "Zabihullah Mujahid",
+      "Taliban",
+      "member_of"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ],
+    [
+      "New York",
+      "US",
+      "in0"
+    ],
+    [
+      "Islamabad",
+      "Pakistan",
+      "in0"
+    ],
+    [
+      "Haroon Mir",
+      "Afghanistan Center for Research Policy Studies",
+      "member_of"
+    ]
+  ]
+}

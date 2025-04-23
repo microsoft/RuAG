@@ -1,0 +1,45 @@
+{
+  "content": "Second Chord Sounds in 639-Year Long Concert\nA new chord sounded Thursday in the world's slowest and longest lasting concert of a piece of music that is taking a total 639 years to perform in its entirety.\nThe abandoned Buchardi church in Halberstadt, eastern Germany, is the venue for a mind-boggling 639-year long performance of a piece of music by US experimental composer John Cage (1912-1992). Entitled \"organ2/ASLSP\" (or \"As SLow aS Possible\"), the performance began on September 5, 2001 and is scheduled to last until 2639. The first year and half of the performance was total silence, with the first chord -- G-sharp, B and G-sharp -- not sounding until February 2, 2003. Then in July 2004, two additional Es, an octave apart, were sounded and are scheduled to be released later this year on May 5. New chord will be held down by weights for years But on Thursday, the first chord progressed to a second -- comprising A, C and F-sharp -- and is to be held down over the next few years by weights on an organ being built especially for the project. Cage originally conceived \"ASLSP\" in 1985 as a 20-minute work for piano, subsequently transcribing it for organ in 1987. But organizers of the John Cage Organ Project decided to take the composer at his word and stretch out the performance for 639 years, using Cage's transcription for organ. The enormous running time was chosen to commemorate the creation of Halberstadt's historic Blockwerk organ in 1361 -- 639 years before the current project started. That original organ, built by Nikolaus Faber for Halberstadt's cathedral, was the first organ ever to be used for liturgical purposes, ringing in a new era in which the organ has played a central role in church music ever since. New pipes added in time for new notes As part of Halberstadt's John Cage Organ Project, a brand-new organ is being built specially, with new pipes added in time for when new notes are scheduled to sound. Cage was a pupil of one of the 20th century's most influential composers, Arnold Schönberg (1874-1951). Cage's avant-garde oeuvre includes works such as the notorious \"4'33\", a piece for orchestra comprising four minutes and 33 seconds of total silence, all meticulously notated. The organizers of the John Cage Organ Project say the record-breaking performance in Halberstadt also has a philosophical background -- to \"rediscover calm and slowness in today's fast-changing world.\"",
+  "relations": [
+    [
+      "As SLow aS Possible",
+      "John Cage",
+      "created_by"
+    ],
+    [
+      "Halberstadt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "John Cage",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Buchardi",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Buchardi",
+      "Halberstadt",
+      "in2"
+    ],
+    [
+      "John Cage Organ Project",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "John Cage Organ Project",
+      "Halberstadt",
+      "event_in2"
+    ],
+    [
+      "Blockwerk",
+      "Nikolaus Faber",
+      "created_by"
+    ]
+  ]
+}

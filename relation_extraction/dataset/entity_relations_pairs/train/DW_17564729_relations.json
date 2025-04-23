@@ -1,0 +1,20 @@
+{
+  "content": "Submarine to be deployed in search for missing Malaysian Airlines plane\nAustralian officials have said they will deploy a submarine to search for any wreckage of missing flight MH370 on the seafloor. The move will bring the search underwater 38 days after the plane disappeared.\nSearch crews will, for the first time, send an autonomous submarine to determine whether signals detected by sound-locating equipment are from the missing plane's black boxes, the Australian head of search Angus Houston said at a news conference Monday. \"Ocean Shield will cease searching with the towed pinger locator later today and deploy the autonomous underwater vehicle Bluefin-21 as soon as possible,\" Houston said. The sub can create a sonar map of the area to chart any debris on the ocean floor, but Houston warned the submarine will not automatically \"result in the detection of the aircraft wreckage. It may not.\" He also said it would be \"a slow and painstaking process,\" because canvassing the area with sub could take six weeks to two months. Over the past two weeks, crews have picked up a series of underwater 'pings' in the southern Indian Ocean consistent with an aircraft's black box, which has helped narrow the area of the search. The batteries in the plane's flight data recorders are now two weeks past their 30-day expected shelf life with the last 'ping' signal logged six days ago. \"Despite the lack of further detections, the four signals previously acquired taken together constitute the most promising lead we have in the search for MH370,\" Houston added. Recovering the plane's black box is essential for investigators to try to figure out what happened to Flight 370, which vanished March 8 while en route from Kuala Lumpur to Beijing with 239 people on board. Houston also said an oil slick was detected in the current search area, which is about 2,200 kilometers (1,400 miles) northwest of Perth. Several liters of the oil were retrieved for testing but results will still not be available for several days. A visual search for debris was also planned for Monday over 47,600 square kilometers (18,400 square miles) of ocean. hc/av (Reuters, AP)",
+  "relations": [
+    [
+      "Angus Houston",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Perth",
+      "Australian",
+      "in0-x"
+    ],
+    [
+      "Kuala Lumpur",
+      "Malaysian",
+      "in0-x"
+    ]
+  ]
+}

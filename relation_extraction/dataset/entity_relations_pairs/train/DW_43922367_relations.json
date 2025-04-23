@@ -1,0 +1,70 @@
+{
+  "content": "Canada: Bomb blast injures over a dozen at Indian restaurant\nAt least 15 people were injured in an explosion at an Indian restaurant outside of Toronto. Police are searching for two men suspected of setting off the bomb in the Bombay Bhel restaurant before fleeing the scene.\nSeveral people were injured during a blast at an Indian restaurant in the Canadian city of Mississauga on Thursday night, local authorities said. Two men are suspected of setting off an explosive device in the restaurant, with authorities asking for information about their identities and whereabouts. What we know so far: The blast took place around 10:30 p.m. local time (0230 UTC) at the Bombay Bhel restaurant in Mississauga, Canada. Paramedics took 15 people to the hospital — three sustained critical injuries while the others were less severely injured. Police sealed off the shopping plaza where the explosion took place. Authorities said there were no indications that the bombing was an act of terrorism or a hate crime. Two suspects on the run Peel Regional Police said on Twitter that they were looking for two male suspects who are believed to have set off an \"improvised explosive device within the restaurant.\" Both were wearing dark zip-up hoodies and one appeared to be carrying an object. Both men were described as having light or fair skin, with one of them believed to be in his mid-20s. \"We have no indication to call it a hate crime or any kind of terrorism act,\" Peel Region Sergeant Matt Bertram said. \"Nothing was said by these individuals,\" Peel Region Sergeant Matt Bertram said. \"It appears they just went in, dropped off this device, and took off right away.\" Where did the blast take place? Mississauga is Canada's sixth-largest city, located around 20 miles (32 kilometers) west of Toronto. The three people who were critically wounded were taken to a trauma center in Toronto. Shortly after Toronto attack: Thursday night's blast comes one month after a man drove a white rental van into a lunch-time crowd in Toronto, killing 10 people and injuring 15. Although police have not disclosed a motive, the attacker referenced a misogynistic online community in social media posts prior to the attack. Most of the victims were women. rs/sms (dpa, Reuters)",
+  "relations": [
+    [
+      "Toronto",
+      "Canada",
+      "in0"
+    ],
+    [
+      "Toronto",
+      "Canadian",
+      "in0-x"
+    ],
+    [
+      "Bombay Bhel",
+      "Canada",
+      "based_in0"
+    ],
+    [
+      "Bombay Bhel",
+      "Canadian",
+      "based_in0-x"
+    ],
+    [
+      "Bombay Bhel",
+      "Mississauga",
+      "based_in2"
+    ],
+    [
+      "Mississauga",
+      "Canada",
+      "in0"
+    ],
+    [
+      "Mississauga",
+      "Canadian",
+      "in0-x"
+    ],
+    [
+      "Matt Bertram",
+      "Peel Regional Police",
+      "member_of"
+    ],
+    [
+      "Canadian",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "Peel Regional Police",
+      "Canada",
+      "agency_of"
+    ],
+    [
+      "Peel Regional Police",
+      "Canadian",
+      "agency_of-x"
+    ],
+    [
+      "Peel Regional Police",
+      "Canada",
+      "based_in0"
+    ],
+    [
+      "Peel Regional Police",
+      "Canadian",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "content": "Gambian refugees in Germany react to crisis at home\nGambian refugees across the world are following the political crisis in their home country with both apprehension and hope. DW's Daniel Pelz met some of them in Germany's capital Berlin. \nGeneral's hands were glued to his smartphone, even when he spoke. \"I am so scared. I am always thinking about Gambia, about what's happening next,\" the 30-year-old refugee from The Gambia said in a fast-paced voice. Like many of the estimated 14,500 Gambians in Germany, he has been anxiously waiting for a peaceful end to the political crisis at home. General is not his real name. While he sat in a small cafe in Berlin's Kreuzberg district, his thoughts always wandered back to his family at home. \"I call my brother every day after waking up to ask if everything is okay. And at night I go online and read what news is there. Sometimes I don't even sleep. I just have to read what is happening,\" he said. His younger brothers have already fled The Gambia. Like some 45,000 other Gambians, they have crossed the border into neighboring Senegal. WhatsApp connections General showed me a video on his smartphone where people are standing beside a country road, clapping and shouting while armored vehicles drive by. It's said to show Senegalese troops entering The Gambia, but that's impossible to verify. Messages kept popping up on his screen. Through WhatsApp, Gambians like General are struggling to stay in touch with friends and relatives. Even some Gambian soldiers he went to school with are sending him messages. \"I just wonder what's next. We have never experienced war. We never had a situation like this since I was born,\" he said. \"Everybody is very excited. They all hope that change will finally come,\" said Brigitta Varadinek. She's the founder of Bantabaa, an association which provides legal advice, training courses and German language classes for Gambian refugees in Berlin. Even after the Gambian President Yahya Jammeh backtracked on his original promise to accept defeat after elections last December prompting the current stand-off, many of the Gambian refugees in Germany have remained hopeful, Varadinek said. \"We were very afraid and pessimistic about what would happen next, but they remained optimistic and said now he has to step down. Of course they were afraid for their families, but they kept being optimistic. I think in the end they will be right, change will come,\" she said. Hope remains That's what 42-year-old Carlos (not his real name) also desperately has been hoping for. \"I tried to call my family yesterday and also this morning and did not get them. I was very confused,\" Carlos said as he clinched his left fist. \"I am so afraid, because Jammeh does not want to step down.\" Three years ago he fled Gambia because of President Jammeh's draconian regime. \"You could not say what you wanted to say, you could not do, what you wanted to do. Whatever you do, the government would come to you, beat you, put you into prison. It was very hard for me. I do not like this government of Jammeh,\" he said. More messages have arrived from The Gambia. Some people there were already celebrating because they were convinced that the ECOWAS troops would oust President Jammeh. On another video, a crowd cheered and clapped in front of the chief of staff of Gambia's army. He was announcing that the army would not fight against the foreign soldiers. But Carlos could not breathe easily just yet. \"I am still afraid, until I hear that they have caught Jammeh or that he is gone. When I hear that Jammeh has gone or Jammeh has been caught, I will be happy for that,\" he said.",
+  "relations": [
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Yahya Jammeh",
+      "The Gambia",
+      "agent_of"
+    ],
+    [
+      "Yahya Jammeh",
+      "The Gambia",
+      "citizen_of"
+    ],
+    [
+      "Yahya Jammeh",
+      "Gambian",
+      "citizen_of-x"
+    ],
+    [
+      "Yahya Jammeh",
+      "Gambians",
+      "citizen_of-x"
+    ],
+    [
+      "Yahya Jammeh",
+      "The Gambia",
+      "head_of_state"
+    ],
+    [
+      "Yahya Jammeh",
+      "Gambian",
+      "head_of_state-x"
+    ],
+    [
+      "Yahya Jammeh",
+      "Gambians",
+      "head_of_state-x"
+    ],
+    [
+      "Brigitta Varadinek",
+      "Bantabaa",
+      "founder_of"
+    ],
+    [
+      "Gambian",
+      "The Gambia",
+      "gpe0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Daniel Pelz",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Gambians",
+      "The Gambia",
+      "gpe0"
+    ],
+    [
+      "Kreuzberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Kreuzberg",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Senegalese",
+      "Senegal",
+      "gpe0"
+    ],
+    [
+      "Bantabaa",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bantabaa",
+      "Berlin",
+      "based_in2"
+    ]
+  ]
+}

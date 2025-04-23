@@ -1,0 +1,145 @@
+{
+  "content": "Indian government tells Supreme Court Rohingya pose 'serious threat'\nAfter an appeal from two Rohingya, India's top court is considering PM Narendra Modi's plan to deport some 40,000 Rohingya in India. The government said intelligence data showed links between some Rohingya and terrorism.\nPrime Minister Narendra Modi's government told the Supreme Court of India on Monday that the Rohingya were \"illegal\" immigrants. The hearing is taking place as Rohingya face severe violence in their native Myanmar. More than 400,000 Rohingya have fled to Bangladesh in the past few weeks to escape military and civilian reprisals that the United Nations has described as \"ethnic cleansing.\" Later on Monday, Myanmar's national security advisor said that his government was willing to welcome the refugees who had fled to Bangladesh back to their native Rakhine state, but that the details of the process still had to be worked out. \"We will make sure that everybody who left their home can return to their home but this is a process we have to discuss,\" Thaung Tun told Reuters news agency after a meeting with British Foreign Secretary Boris Johnson on the sidelines of the UN General Assembly. It was unclear how this would affect the estimated 40,000 Rohingya believed to have settled in India, including 16,000 of whom are registered with the UN's refugee agency. Read more: Myanmar's Rohingya - A history of forced exoduses The Indian government told the court that it had intelligence data that showed links between some Rohingya Muslims and Pakistan-based terror groups and other international terror organizations. It argued that such links made them a \"serious threat to national security.\" The government also said there was a \"serious possibility of eruption of violence against Buddhists in India by radicalized Rohingya.\" Lawyer Colin Gonsalves, who in a separate case is representing about 7,000 Rohingya living in the northern Indian city of Jammu, countered the government's assertions. \"We just want to know: 40,000 people have been here, many of them for the last five years. Have you [the government] filed a single charge sheet, is anyone being prosecuted in the criminal court for being a terrorist? The answer is: no,\" he told DW. The court has adjourned the hearing in the matter to October 3. Lack of evidence India says it is not bound by the UN convention on refugees as it is not a signatory to the accord, but human rights activists disagree. \"The principle of non return of a person to a place where he will be executed or tortured has become a principle of customary international law which India follows,\" Gonsalves told DW. \"And it has attained the status of 'jus cogens,' which is a principle of law that no country can say is not applicable to it, such as torture and genocide.\" In a communication sent to all states in August, the Home Ministry [interior ministry] said the illegal migrants were more susceptible to terrorist recruitment efforts. But an investigation by Indian broadcaster NDTV found \"little evidence of the government claim.\" The investigation that was carried out at major Rohingya settlements in the country showed little involvement in criminal wrongdoing by the refugees. Lack of any evidence to support the government claim has led to speculations that the Rohingya were being targeted for their religion by Prime Minister Narendra Modi's Hindu-nationalist government. \"It is really unfortunate that the government is going back on its commitment to refugees which it has reiterated several times in the past merely because these Rohingyas are Muslims,\" said lawyer Prashant Bhushan, who filed the plea on behalf of two Rohingya men. \"I mean this is clearly a case of religious discrimination and an attempt to arouse a sort of feeling of... an anti-Muslim feeling or try and communalise the situation,\" he told reporters outside the courthouse. The UN's human rights chief last week deplored Indian government's move to deport Rohingya refugees. \"India cannot carry out collective expulsions, or return people to a place where they risk torture or other serious violations,\" Zeid Ra'ad al-Hussein said. The Rohingya are an Indo-Aryan people, the vast majority of whom are Muslims. They usually migrate to India through a rather porous border to escape persecution in their native Rakhine state in Myanmar, where they have been denied citizenship rights. They are viewed by the local authorities as illegal immigrants from Bangladesh. Myanmar's Buddhist majority is often accused of subjecting them to discrimination and violence. Read more: Rohingya people in Myanmar – What you need to know The ongoing violence follows an insurgent attack on security forces on August 25 in Rakhine state that sparked off a brutal military counteroffensive. Hundreds of people, the majority of them Rohingya, have been killed in the violence that has seen many homes destroyed and several villages burned down. Myanmar's government maintains the crackdown is part of a counter-terrorism drive, while the UN's al-Hussein has said that it \"seems a textbook example of ethnic cleansing.\"",
+  "relations": [
+    [
+      "Rohingyas",
+      "India",
+      "present_in0"
+    ],
+    [
+      "Supreme Court",
+      "India",
+      "agency_of"
+    ],
+    [
+      "Supreme Court",
+      "Indian",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Court",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Supreme Court",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Colin Gonsalves",
+      "Rohingyas",
+      "advisor_of"
+    ],
+    [
+      "interior ministry",
+      "India",
+      "agency_of"
+    ],
+    [
+      "interior ministry",
+      "Indian",
+      "agency_of-x"
+    ],
+    [
+      "interior ministry",
+      "India",
+      "based_in0"
+    ],
+    [
+      "interior ministry",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "interior ministry",
+      "India",
+      "ministry_of"
+    ],
+    [
+      "Zeid Ra'ad al-Hussein",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "head_of_gov"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "head_of_gov-x"
+    ],
+    [
+      "Rakhine",
+      "Myanmar",
+      "in0"
+    ],
+    [
+      "Boris Johnson",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Boris Johnson",
+      "British",
+      "minister_of-x"
+    ],
+    [
+      "General Assembly",
+      "United Nations",
+      "institution_of"
+    ],
+    [
+      "General Assembly",
+      "United Nations",
+      "part_of"
+    ],
+    [
+      "Jammu",
+      "India",
+      "in0"
+    ],
+    [
+      "Jammu",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "NDTV",
+      "India",
+      "based_in0"
+    ],
+    [
+      "NDTV",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Prashant Bhushan",
+      "Rohingyas",
+      "advisor_of"
+    ]
+  ]
+}

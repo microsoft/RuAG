@@ -1,0 +1,130 @@
+{
+  "content": "Estonian couple arrested for giving secrets to Russia\nA husband and wife duo was arrested in Estonia under suspicion of delivering state secrets to Russia over a period of several years.\nA man who worked for many years in Estonia's security police was arrested along with his wife on Wednesday for allegedly turning over state secrets to Russia. Aleksei and Viktoria Dressen were arrested at Tallinn Airport as they prepared to board a flight for Moscow. Aleksei Dressen has worked in Estonia's counter-espionage and anti-terrorism force for nearly 20 years. As a member of the security police, Dressen had access to state secrets, but prosecutors did not say what those may have been. \"Dressen is suspected of collecting classified information for years and was caught with evidence,\" state prosecutor Norman Aas told reporters in the capital Tallinn. \"His wife was also arrested Wednesday morning at Tallinn airport as the couple planned to board a Tallinn-Moscow flight.\" Dressen's wife does not work for the government but allegedly acted as a courier, brining classified documents to agents with the Russian security agency, the FSB. According to prosecutors, the 44-year-old Aleksei Dressen could face a prison sentence of three to 15 years in prison if found guilty of treason. Tensions between Russia and the former Soviet satellite are tense. After gaining its independence in 1991 following 50 years of rule from Moscow, Estonia joined the European Union and NATO in 2004. In 2009, Estonian Herman Simm was convicted of treason and sentenced to twelve and a half years in prison for selling NATO secrets to Russia. mz/acb (AP, Reuters, AFP)",
+  "relations": [
+    [
+      "Tallinn Airport",
+      "Estonia",
+      "in0"
+    ],
+    [
+      "Tallinn Airport",
+      "Estonian",
+      "in0-x"
+    ],
+    [
+      "Aleksei Dressen",
+      "Estonia",
+      "agent_of"
+    ],
+    [
+      "Aleksei Dressen",
+      "Estonian",
+      "agent_of-x"
+    ],
+    [
+      "Aleksei Dressen",
+      "Estonia",
+      "citizen_of"
+    ],
+    [
+      "Aleksei Dressen",
+      "Estonian",
+      "citizen_of-x"
+    ],
+    [
+      "Aleksei Dressen",
+      "Viktoria Dressen",
+      "spouse_of"
+    ],
+    [
+      "Viktoria Dressen",
+      "Estonia",
+      "citizen_of"
+    ],
+    [
+      "Viktoria Dressen",
+      "Estonian",
+      "citizen_of-x"
+    ],
+    [
+      "Viktoria Dressen",
+      "Aleksei Dressen",
+      "spouse_of"
+    ],
+    [
+      "Estonian",
+      "Estonia",
+      "gpe0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Norman Aas",
+      "Estonia",
+      "agent_of"
+    ],
+    [
+      "Norman Aas",
+      "Estonian",
+      "agent_of-x"
+    ],
+    [
+      "Norman Aas",
+      "Estonia",
+      "citizen_of"
+    ],
+    [
+      "Norman Aas",
+      "Estonian",
+      "citizen_of-x"
+    ],
+    [
+      "Tallinn",
+      "Estonia",
+      "in0"
+    ],
+    [
+      "Tallinn",
+      "Estonian",
+      "in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "FSB",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "FSB",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "FSB",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "FSB",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Herman Simm",
+      "Estonian",
+      "citizen_of"
+    ]
+  ]
+}

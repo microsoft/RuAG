@@ -1,0 +1,425 @@
+{
+  "content": "War in Crimea unlikely, experts say\nRussia has put its army on alert. Although experts doubt Russia will intervene militarily in Ukraine, they agree the relations between the two countries are difficult at best.\nRussia is sending out conflicting signals. President Vladimir Putin unexpectedly put troops in the western and central parts of the country on alert on Wednesday (26.02.2014). A large number of the troops stand ready to move on short notice, announced Defense Minister Sergei Shoigu without giving a reason. Many Ukrainians now fear Russian military intervention following the change of leadership in their country. Moscow doesn't recognize the legitimacy of the new regime in Kyiv. A few years ago, Putin referred to a military confrontation with Ukraine as a \"nightmare.\" Heated debate in Russian parliament On Wednesday Valentina Matvijenko, chairman of the Federation Council in Moscow, said it was \"too terrible to think about,\" adding that such a scenario would be \"impossible.\" The Federation Council is the lower chamber in the Russian parliament, representing the country's regions. In the upper chamber, the Duma, a heated debate is raging over the change of leadership in the neighboring former Soviet republic. Right-wing populist Vladimir Zhirinovsky has suggested issuing passports to interested Ukrainians. Not only Ukrainians but also experts from the West are closely monitoring such developments in Russia. Jens Siegert, director of the Heinrich Böll Foundation in Moscow, notes that Russia has been offering passports to people in the breakaway Georgian region of Abkhazia. \"I view this as a dangerous step,\" Siegert told DW. But he isn't sure whether the Kremlin would make a similar move in Ukraine. Other experts doubt that Russia will intervene militarily in Ukraine. \"I rule out that scenario,\" said Gerhard Mangott from the University of Innsbruck. \"That would severely damage Russian relations with the European Union and the United States,\" he told DW, adding that the Ukrainian army could also be expected to put up strong resistance. If there were to be any clashes in Crimea between the Russians and Ukrainians or the Tatar population and if the leadership in Kyiv were to intervene with security forces or if Crimean autonomy were to be in question, \"then I could imagine Russian military intervention,\" Mangott said. But he views these possibilities as \"highly unlikely.\" 'Huge defeat for Moscow' Christian Wipperfürth with the German Society for Foreign Policy (DGAP) in Berlin also doesn't expect any intervention on the part of Russia. \"I see no reason why Ukrainian borders should be at risk,\" he told DW but doesn't rule out the possibility completely. Most experts agree, however, that Russia has made mistakes in its Ukrainian policy. \"This is unquestionably a huge defeat for Moscow,\" Mangott said. The Kremlin, he added, underestimated the opposition protest on Independence Square. President Putin apparently believed he could sway Ukraine \"to his side\" with a $15 billion loan. \"Russia has no opportunity to maneuver Ukraine in a direction,\" says Peter Schulze from the University of Göttingen. \"This opportunity vanished with the resignation of Ukrainian President Viktor Yanukovych,\" he told DW. Moscow, he argues \"has absolutely no interest to bang on the table and behave carelessly\" and knows that it can't play a \"separatist card\" in the Ukraine. Views also differ on how relations between the two countries will develop in the future. Schulze, for instance, believes much will depend on the outcome of the early presidential election in Ukraine in late May 2014. Even if Ukraine should seek stronger ties to Europe - a move that Russia views critically - Kyiv and Moscow would be forced \"to get along with each other,\" he said. Possible 'nyet' to loans and gas discounts All the same, Wipperfürth expects the relations between Ukraine and Russia \"to remain difficult.\" Ukraine continues to push away from Russia, he says, but doubts Russia will put \"massive pressure\" on Ukraine. Mangott is less convinced. He doesn't rule out Russia dropping its promised loans to Ukraine as well as its discount on natural gas. A majority of Russians also want the country to hold back on Ukraine. According to a recent poll conducted by the Moscow research institute VTsIOM, 73 percent of Russians said the country should not interfere.",
+  "relations": [
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russians",
+      "head_of_state-x"
+    ],
+    [
+      "Christian Wipperfürth",
+      "German Society for Foreign Policy",
+      "member_of"
+    ],
+    [
+      "Jens Siegert",
+      "Heinrich Böll Foundation",
+      "head_of"
+    ],
+    [
+      "Jens Siegert",
+      "Heinrich Böll Foundation",
+      "member_of"
+    ],
+    [
+      "Gerhard Mangott",
+      "Heinrich Böll Foundation",
+      "head_of"
+    ],
+    [
+      "Gerhard Mangott",
+      "Heinrich Böll Foundation",
+      "member_of"
+    ],
+    [
+      "Gerhard Mangott",
+      "University of Innsbruck",
+      "member_of"
+    ],
+    [
+      "Peter Schulze",
+      "University of Göttingen",
+      "member_of"
+    ],
+    [
+      "German Society for Foreign Policy",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Crimea",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Crimea",
+      "Ukrainians",
+      "in0-x"
+    ],
+    [
+      "Crimea",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russian",
+      "agent_of-x"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russians",
+      "agent_of-x"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russians",
+      "minister_of-x"
+    ],
+    [
+      "Ukrainians",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russians",
+      "in0-x"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Kyiv",
+      "Ukrainians",
+      "in0-x"
+    ],
+    [
+      "Kyiv",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Valentina Matvijenko",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Valentina Matvijenko",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Valentina Matvijenko",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Valentina Matvijenko",
+      "Federation Council",
+      "member_of"
+    ],
+    [
+      "Federation Council",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "Federation Council",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "Federation Council",
+      "Russians",
+      "agency_of-x"
+    ],
+    [
+      "Federation Council",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Federation Council",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Federation Council",
+      "Russians",
+      "based_in0-x"
+    ],
+    [
+      "Duma",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "Duma",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "Duma",
+      "Russians",
+      "agency_of-x"
+    ],
+    [
+      "Duma",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Duma",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Duma",
+      "Russians",
+      "based_in0-x"
+    ],
+    [
+      "Vladimir Zhirinovsky",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Zhirinovsky",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Zhirinovsky",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Zhirinovsky",
+      "Duma",
+      "member_of"
+    ],
+    [
+      "Heinrich Böll Foundation",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Heinrich Böll Foundation",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Heinrich Böll Foundation",
+      "Russians",
+      "based_in0-x"
+    ],
+    [
+      "Heinrich Böll Foundation",
+      "Moscow",
+      "based_in2"
+    ],
+    [
+      "Abkhazia",
+      "Georgian",
+      "in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "Kremlin",
+      "Russians",
+      "agency_of-x"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russians",
+      "based_in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russians",
+      "in0-x"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Russians",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Independence Square",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Independence Square",
+      "Ukrainians",
+      "in0-x"
+    ],
+    [
+      "Independence Square",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukrainians",
+      "citizen_of-x"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukrainians",
+      "head_of_state-x"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukrainian",
+      "head_of_state-x"
+    ],
+    [
+      "VTsIOM",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "VTsIOM",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "VTsIOM",
+      "Russians",
+      "based_in0-x"
+    ]
+  ]
+}

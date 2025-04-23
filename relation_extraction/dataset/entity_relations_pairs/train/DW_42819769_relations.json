@@ -1,0 +1,220 @@
+{
+  "content": "Soccer captain Davide Astori of Fiorentina dies, aged 31\nItalian football has reacted with shock to the death of Fiorentina captain and defender Davide Astori. He was found dead early on Sunday in his hotel room in Udine, where the team was due to play a Serie A match. \nFiorentina captain and defender Davide Astori died of a sudden illness on Sunday morning at the age of 31, the Serie A club said, leaving Italian football in a state of shock. Italian media reported that Astori was found by his team-mates in the early hours in his hotel room in Udine, where the team was staying ahead of an Italian league match. The German news agency DPA said the cause of death appeared to be cardiac arrest. The center back had just become a father two weeks ago. Fiorentina released a brief statement saying it is \"profoundly shaken\" by Astori's death. \"For this terrible and delicate situation, and above all out of respect for his family, we appeal to the sensitivity of the media,\" the club said. Former Italy Prime Minister Matteo Renzi, a former mayor of Florence, said Astori's passing \"seems impossible,\" adding that he was \"in a state of disbelief and I cry with his family and all for Fiorentina.\" Football's world governing body FIFA said everyone within Italian football was huddling around Astori's family. Astori joined Fiorentina on loan in August 2015 and the club signed him outright a year later. He previously spent six seasons at Cagliari and one on loan at AS Roma. He made 14 appearances for Italy's national side between 2012 and 2017. Fiorentina's match against Udinese has been called off along with all of Sunday's other matches, including the derby between AC Milan and Inter Milan. AC Milan coach Gennaro Gattuso had asked before the announcement for all games to be called off. \"I can't think of the derby after a tragedy like that,\" he said on Twitter. mm/rc (AFP, AP, dpa, Reuters) Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.",
+  "relations": [
+    [
+      "Italian league",
+      "Italy",
+      "event_in0"
+    ],
+    [
+      "Davide Astori",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Davide Astori",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Davide Astori",
+      "Fiorentina",
+      "member_of"
+    ],
+    [
+      "Davide Astori",
+      "Cagliari",
+      "member_of"
+    ],
+    [
+      "Davide Astori",
+      "AS Roma",
+      "member_of"
+    ],
+    [
+      "Davide Astori",
+      "Fiorentina",
+      "player_of"
+    ],
+    [
+      "Davide Astori",
+      "Cagliari",
+      "player_of"
+    ],
+    [
+      "Davide Astori",
+      "AS Roma",
+      "player_of"
+    ],
+    [
+      "Fiorentina",
+      "Italian league",
+      "appears_in"
+    ],
+    [
+      "Fiorentina",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Fiorentina",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Udine",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Udine",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Matteo Renzi",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Matteo Renzi",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Matteo Renzi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Matteo Renzi",
+      "Italy",
+      "head_of_gov"
+    ],
+    [
+      "Matteo Renzi",
+      "Florence",
+      "head_of_gov"
+    ],
+    [
+      "Matteo Renzi",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Matteo Renzi",
+      "Florence",
+      "mayor_of"
+    ],
+    [
+      "Florence",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Florence",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Cagliari",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Cagliari",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "AS Roma",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "AS Roma",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Italy",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Italy",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Udinese",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Udinese",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Udinese",
+      "Udinese",
+      "vs"
+    ],
+    [
+      "AC Milan",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "AC Milan",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "AC Milan",
+      "Inter Milan",
+      "vs"
+    ],
+    [
+      "Inter Milan",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Inter Milan",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Inter Milan",
+      "AC Milan",
+      "vs"
+    ],
+    [
+      "Gennaro Gattuso",
+      "AC Milan",
+      "coach_of"
+    ],
+    [
+      "Gennaro Gattuso",
+      "AC Milan",
+      "member_of"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

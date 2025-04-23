@@ -1,0 +1,30 @@
+{
+  "content": "Euromaxx Highlights\nHighlights of the Week\nOn this edition of Euromaxx Highlights: Euromaxx caught the travel bug, and visited Europe's five most popular travel destinations. Among others we took a literary tour of Edinburgh, enjoyed the Island of Fuerteventura and saw Berlin from above. A literary tour of Edinburgh The Scottish capital Edinburgh is well-known for its literary heritage. It’s even been named a UNESCO city of literature. Traces of the city’s famous poets can be found all over the place. Island of eternal spring The 'strong wind' that gives Fuerteventura its name has also made the island a paradise for surfers. But Fuerteventura has plenty more to offer The origins of pizza There are all sorts of pizza to be had in many countries worldwide, but its origins are in Italy. The first Pizza Margherita, with tomato sauce, mozzarella cheese and basil, was most likely invented in Naples. A bird’s eye view of Berlin Photographer Robert Grahn specializes in aerial shots of the German capital. We join him on a flight over Berlin to see the city from a unique perspective. Paris in the springtime City of love, city of fashion, city of art - Paris has a lot of labels and a long list of world-famous sights, including the Eiffel tower, the Louvre and Notre Dame. You haven't seen Europe if you haven't been to Paris.",
+  "relations": [
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Naples",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Eiffel tower",
+      "Paris",
+      "in2"
+    ],
+    [
+      "Louvre",
+      "Paris",
+      "in2"
+    ],
+    [
+      "Notre Dame",
+      "Paris",
+      "in2"
+    ]
+  ]
+}

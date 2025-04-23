@@ -1,0 +1,135 @@
+{
+  "content": "Romney wins Washington in long slog for Republican nomination\nBusinessman and former Massachusetts governor Mitt Romney has won Washington state, another stepping stone in the Republicans' search for a candidate to face off against US President Obama in the November election.\nRepublican primary presidential contender Mitt Romney won Washington state's caucuses, giving the former Massachusetts governor renewed momentum in the run up to the 10 primary contests being held across the US on Tuesday. \"I'm heartened to have won the Washington caucuses, and I thank the voters for their support today,\" Romney said in a posting on Twitter and Facebook, after US broadcasters CNN, ABC and CBS projected him the winner. He took 37 percent, leading the other Republican contenders by double digits with 93 percent of the vote counted. Texas Congressman Ron Paul and former Pennsylvania Senator Rick Santorum were in a virtual dead heat for second place with 25 and 24 percent respectively, while former House speaker Newt Gingrich trailed with 11 percent. In addition to Washington state, Romney bagged wins in Michigan, Arizona and Wyoming this week. In a volatile primary race, the former governor has won six states overall, compared to four victories for Santorum and one for Gingrich. Paul has not won a state yet. The four candidates are battling to clinch the Republican nomination and face off against President Barack Obama in November. The candidates now head into so-called Super Tuesday, in which 10 states are holding primary contests, with 400 delegates up for grabs. In order to win the Republican nomination, a candidate has to secure 1,144 delegates. Romney currently has 150 delegates, while his closest rival, Santorum, has 70. There were 40 delegates at stake in the Washington caucuses. slk, ncy/ai (AP, Reuters, AFP)",
+  "relations": [
+    [
+      "Mitt Romney",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Mitt Romney",
+      "Republicans",
+      "member_of"
+    ],
+    [
+      "Republicans",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Super Tuesday",
+      "US",
+      "event_in0"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Ron Paul",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Ron Paul",
+      "Republicans",
+      "member_of"
+    ],
+    [
+      "Rick Santorum",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Rick Santorum",
+      "Republicans",
+      "member_of"
+    ],
+    [
+      "Newt Gingrich",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Newt Gingrich",
+      "Republicans",
+      "member_of"
+    ],
+    [
+      "Newt Gingrich",
+      "House",
+      "member_of"
+    ],
+    [
+      "Massachusetts",
+      "US",
+      "in0"
+    ],
+    [
+      "CNN",
+      "US",
+      "based_in0"
+    ],
+    [
+      "ABC",
+      "US",
+      "based_in0"
+    ],
+    [
+      "CBS",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Texas",
+      "US",
+      "in0"
+    ],
+    [
+      "Pennsylvania",
+      "US",
+      "in0"
+    ],
+    [
+      "House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Michigan",
+      "US",
+      "in0"
+    ],
+    [
+      "Arizona",
+      "US",
+      "in0"
+    ],
+    [
+      "Wyoming",
+      "US",
+      "in0"
+    ]
+  ]
+}

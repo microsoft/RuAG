@@ -1,0 +1,75 @@
+{
+  "content": "The \"Californication\" of European Cities\nMarathons, Love Parades, World Youth Day, Christopher St. Day, World Cup, Carnival of Cultures: The European city has become a stage for fleeting productions. But does all that partying have consequences?\nMarathons: These days there are over 200 every year in Germany alone. There is hardly a day without \"Detour\" signs on the roads because the people of small, medium or large cities have taken over the streets to celebrate something. Christopher Street Day, Love Parade, Carnival of Cultures, not to mention the Pope's visit and the most recent World Cup festivities -- the European city has become a stage for a continually rotating series of parties and festivals. The production of events that permeate the entire city for just a few days is a phenomenon that's been given a name: The \"Californication\" of European cities. Urban bodies In his book \"Urban Bodies -- A Breakdown of the Problem\" (2002), Claus Dreyer, a professor of architecture in Detmold, explains the relationship between the human body and the architecture in a city. According to Dreyer, the \"rhythm of life\" during a given epoque can be interpreted both in the movements and gestures of the people and in the arrangement of elements in the cities. Charles Baudelaire's immortalized bourgeois pedestrian, who walked along slowly and carelessly, was dubbed an urban prototype by German philosopher Walter Benjamin at the beginning of the 20th century. The passageways and boulevards of Belle Epoque Paris correspond to him, Dreyer said. Botho Strauss's pedestrian in \"Paare, Passanten\" (1981) replaced Baudelaire's around the turn of the millennium. \"Disoriented and apathetic, he crosses through foyers, underpasses and shopping centers that all look the same and don't allow for boredom or communication,\" wrote the architecture professor. \"Californication\" in Europe Increasingly, disinterest in the urban unit is juxtaposed with a new \"body cult\" in cities, which manifests itself in events like the Love Parade, Christopher Street Day or Carnival of Cultures. These \"body cult\" events lead to a loss of reality in the city by dressing it up for the temporary festivals, Deyer wrote. The phrase 'Californication' -- an intentionally vulgar compound of \"California\" and \"fornication\" -- was first used in the 1970s and 1980s by Oregon residents to spurn the massive influx of Californians moving across the northern border of their state. As far as Europe is concerned, \"Californication\" is used in the context of mass sport events (city marathons, for example), numerous festivals, performances, and shows that enliven the urban body, Dreyer found. But the term's allusions to sexuality and imposition are hardly lost. It could be, he added, that the \"Californication\" of the European city is a final protest against ever-increasing digitalization and virtualization, which is, in a sense, stealthily dismembering the city. The film \"The Matrix\" is a portrayal of such urban disintegration. Renewed religiosity and patriotism? Observations like Deyer's may be useful in answering the questions specialists and journalists pose every time a religious, sporting or other kind of event draws hundreds of thousands of Europeans onto the streets of their city. When the Pope visited Germany in 2005, many spoke of a new religiosity among the people. Recently, the World Cup sparked talk of renewed patriotism. It seems as if the people who called \"Benedict, Benedict!\" last year are the same ones who hoisted their flags and shouted \"Deutschland, Deutschland!\" last week. Dreyer is not the only one who fears that the festival -- the incarnate metaphor of public life -- could become the doom of the very thing it represents. The rock group Red Hot Chili Peppers criticized urban superficiality and the decline of Western civilization in their 1999 song \"Californication.\" And Berlin philosopher Dietmar Kamper (1936 - 2001) agreed with Deyer already in 1976 when he wrote: \"As soon as society renews its demand for 'games', it will become unreal and abstract and will accelerate its own self-destruction.\"",
+  "relations": [
+    [
+      "World Cup",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Urban Bodies -- A Breakdown of the Problem",
+      "Claus Dreyer",
+      "created_by"
+    ],
+    [
+      "Detmold",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Detmold",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Walter Benjamin",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Walter Benjamin",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Paare, Passanten",
+      "Botho Strauss",
+      "created_by"
+    ],
+    [
+      "Deutschland",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutschland",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Dietmar Kamper",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Dietmar Kamper",
+      "German",
+      "citizen_of-x"
+    ]
+  ]
+}

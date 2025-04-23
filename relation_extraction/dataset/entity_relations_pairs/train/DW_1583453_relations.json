@@ -1,0 +1,415 @@
+{
+  "content": "Top Teams Let Nerves Get to Them\nBundesliga Champions Bayern Munich entertained their fans with an easy 6-3 win over Nuremberg. With the exception of Bremen, the remaining top teams showed a large case of nerves.\nBayern Munich staged a grand finale to their 33-year run at the Olympic Stadium on Saturday with their win over Nuremberg -- their last match at one of the world's most famous sports venues. Captain and goalkeeper Oliver Kahn was presented with the Bundesliga championship on the pitch after the game. Bayern clinched their 19th German league title two weeks ago, and so had truly had just one thing to play for on Saturday, namely setting up their top striker Roy Makaay (19 goals) as much as possible in his chase for the goalscoring crown. The man ahead of him, Marek Mintal (23 goals) and his Nuremberg squad traveled to Munich and were given a 6-3 pasting at the hands of the Bundesliga champions. Makaay struck twice in the first half, and just as importantly, Mintal was held goalless in the last match that Bayern will play at Olympic stadium. After the game, the players received their medals from the league. Their last goal is to help Makaay score at least two more goals next week against Stuttgart. Entering the second-to-last match day, second place Schalke had the chance to wrap up a spot in the Champions League next season -- and that against archrivals Dortmund to whom Schalke had not lost in 12 games. Instead, they lost shockingly, 2-1, at home. All the goals came in the first half. Dortmund scored on their first real chance only to see Schalke get the equalizer two minutes later. Just before the end of the first half, Dortmund's homegrown Lars Ricken scored what would be the gamewinning goal. Dortmund keeper Roman Weidenfeller was the hero of the match as he stopped numerous top-notch Schalke chances. Rivals also stumble Stuttgart could have been the beneficiaries of Schalke's misfortune but they too dropped their match, losing to relegated side Bochum, 2-0. They remain two points behind Schalke but have the daunting task of facing their old coach Felix Magath and Bayern Munich. Hot on Stuttgart's tails were Hertha Berlin (57 points). They could have leapfrogged over the Swabians but instead played to a disappointing 0-0 draw against lowly Mönchengladbach. The one point for Gladbach means they will stay in the top division next season. Last year's champions Werder Bremen turned a 1-0 halftime deficit against last place Freiburg into an easy 4-1 victory at Weser Stadium. On 56 points, coach Thomas Schaaf's side could still squeeze into the Champions League qualifications, but are almost assured of a spot in the Uefa Cup. For Leverkusen, the quest for an Uefa Cup spot is becoming more and more uncertain. A late second-half goal by Daniel Bierofka gave them a draw against Wolfsburg. For the Wolves, another disappointment as they surrendered a 2-0 halftime lead at home. New boys win derby One of the league's most interesting stories this season was Mainz. In their first-ever season in the Bundesliga, they beat top-notch squads (Schalke, Bremen, Leverkusen) and easily secured a spot for the top division next year. They won the Rhineland-Palatinate derby on Saturday against nearby rivals, Kaiserslautern, 3-2, adding another feather to the cap of coach Jürgen Klopp. Rostock were playing for pride at home in the first division for at least one year. That incentive wasn't sufficient enough for them to get beyond a 1-1 draw with Bielefeld. Finally, Hamburg's 2-1 loss to Hanover means they can write off their hopes of playing in European club competition next season.",
+  "relations": [
+    [
+      "Stuttgart",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Stuttgart",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Stuttgart",
+      "Bochum",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bayern Munich",
+      "Stuttgart",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "Nuremberg",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "Nuremberg",
+      "won_vs"
+    ],
+    [
+      "Nuremberg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Nuremberg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Nuremberg",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Olympic stadium",
+      "Munich",
+      "in2"
+    ],
+    [
+      "Marek Mintal",
+      "Nuremberg",
+      "member_of"
+    ],
+    [
+      "Marek Mintal",
+      "Nuremberg",
+      "player_of"
+    ],
+    [
+      "Roy Makaay",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Roy Makaay",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Werder Bremen",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Werder Bremen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Werder Bremen",
+      "Freiburg",
+      "vs"
+    ],
+    [
+      "Werder Bremen",
+      "Freiburg",
+      "won_vs"
+    ],
+    [
+      "Mönchengladbach",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Mönchengladbach",
+      "Hertha Berlin",
+      "vs"
+    ],
+    [
+      "Wolfsburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Wolfsburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wolfsburg",
+      "Leverkusen",
+      "vs"
+    ],
+    [
+      "Oliver Kahn",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Oliver Kahn",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Schalke",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Schalke",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Schalke",
+      "Dortmund",
+      "vs"
+    ],
+    [
+      "Dortmund",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Dortmund",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dortmund",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Dortmund",
+      "Schalke",
+      "won_vs"
+    ],
+    [
+      "Lars Ricken",
+      "Dortmund",
+      "member_of"
+    ],
+    [
+      "Lars Ricken",
+      "Dortmund",
+      "player_of"
+    ],
+    [
+      "Roman Weidenfeller",
+      "Dortmund",
+      "member_of"
+    ],
+    [
+      "Roman Weidenfeller",
+      "Dortmund",
+      "player_of"
+    ],
+    [
+      "Bochum",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bochum",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bochum",
+      "Stuttgart",
+      "vs"
+    ],
+    [
+      "Bochum",
+      "Stuttgart",
+      "won_vs"
+    ],
+    [
+      "Felix Magath",
+      "Bayern Munich",
+      "coach_of"
+    ],
+    [
+      "Felix Magath",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Hertha Berlin",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hertha Berlin",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hertha Berlin",
+      "Mönchengladbach",
+      "vs"
+    ],
+    [
+      "Freiburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Freiburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Freiburg",
+      "Werder Bremen",
+      "vs"
+    ],
+    [
+      "Weser Stadium",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Thomas Schaaf",
+      "Werder Bremen",
+      "coach_of"
+    ],
+    [
+      "Thomas Schaaf",
+      "Werder Bremen",
+      "member_of"
+    ],
+    [
+      "Leverkusen",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Leverkusen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Leverkusen",
+      "Wolfsburg",
+      "vs"
+    ],
+    [
+      "Daniel Bierofka",
+      "Leverkusen",
+      "member_of"
+    ],
+    [
+      "Daniel Bierofka",
+      "Leverkusen",
+      "player_of"
+    ],
+    [
+      "Mainz",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Mainz",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Mainz",
+      "Kaiserslautern",
+      "vs"
+    ],
+    [
+      "Mainz",
+      "Kaiserslautern",
+      "won_vs"
+    ],
+    [
+      "Rhineland-Palatinate",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kaiserslautern",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Kaiserslautern",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kaiserslautern",
+      "Mainz",
+      "vs"
+    ],
+    [
+      "Jürgen Klopp",
+      "Mainz",
+      "coach_of"
+    ],
+    [
+      "Jürgen Klopp",
+      "Mainz",
+      "member_of"
+    ],
+    [
+      "Rostock",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Rostock",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Rostock",
+      "Bielefeld",
+      "vs"
+    ],
+    [
+      "Bielefeld",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bielefeld",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bielefeld",
+      "Rostock",
+      "vs"
+    ],
+    [
+      "Hamburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hamburg",
+      "Hanover",
+      "vs"
+    ],
+    [
+      "Hanover",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hanover",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hanover",
+      "Hamburg",
+      "vs"
+    ],
+    [
+      "Hanover",
+      "Hamburg",
+      "won_vs"
+    ]
+  ]
+}

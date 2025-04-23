@@ -1,0 +1,205 @@
+{
+  "content": "Leaders head to Paris for Syria talks\nLeaders have headed to Paris for fresh Syria due to kick off tomorrow. But China and Russia look set to snub the event, as the bloodshed on the ground continues.\nForeign ministers headed to Paris on Thursday ahead of a Friday meeting on how to resolve the Syria conflict, although the talks look set to be boycotted by Russia and China. The Friends of Syria meeting, due to kick off on Friday, is being attended by the United States, Germany, Britain, France, and Arab nations including Saudi Arabia and Qatar, among other countries. Talks will focus on strategies for ending the violence in Syria. It follows similar talks in Tunis in February and in Istanbul in April. Leaders from Moscow do not look set to attend the event, however, as rumors circulated in the Russian press that the United States was seeking to persuade Russia to host an exiled Assad. Hosting Assad idea 'a joke' But the idea of Russia hosting Assad, which was first raised by German Chancellor Angela Merkel at a meeting in June, was dismissed as a joke by Russia's foreign minister Sergei Lavrov on Thursday. “Our side thought this was a joke and responded with a joke - how about you, the Germans, take Mr Assad instead,” Lavrov said in Moscow during a joint press conference after a meeting with his German counterpart Guido Westerwelle. Nor does Beijing seem likely to attend the Friends of Syria meeting. The foreign ministry spokesman Liu Weimin told reporters that his country “at present does not consider attending the meeting.” Bloodshed in Syria On the ground in Syria, at least 27 people were killed on Thursday, according to the Syrian Observatory on Human Rights, a day after violent convulsions swept through the country, reportedly killing 99 people. The figures emerged on the same day that Syrian troops advanced into Khan Sheikhoun, a rebel-held town in the country's north, killing at least 11 people according to activists. And in an attempt to add his own voice to continued political discourse on the Syria situation and remind the world of his ability to hang on to power, President Assad also spoke out on Thursday, about the rebellion and his political survival so far. “The big game targeting Syria is much bigger than we expected,” he said in an interview with Turkey's Cumhuriyet newspaper. “The fight against terrorism will continue decisively in the face of this.” sej/msh (AFP, Reuters)",
+  "relations": [
+    [
+      "Friends of Syria",
+      "France",
+      "event_in0"
+    ],
+    [
+      "Friends of Syria",
+      "Paris",
+      "event_in2"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "Istanbul",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "head_of_gov-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germans",
+      "minister_of-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Liu Weimin",
+      "China",
+      "agent_of"
+    ],
+    [
+      "Liu Weimin",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Khan Sheikhoun",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Khan Sheikhoun",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Cumhuriyet",
+      "Turkey",
+      "based_in0"
+    ]
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "content": "Death toll from Syrian bus bombing rises to 126; includes 68 children\nThe death toll in a bombing of a bus convoy carrying evacuees from Syrian government-held territory has risen, said a monitor. The transfers are part of a massive relocation of people along political and sectarian lines.\nThe death toll from Saturday's bus bombing in Syria has risen to 126, and includes 68 children. The attack struck a bus convoy carrying residents from the northern towns of Fuaa and Kafraya as they waited at a transit point in rebel-held Rashidin, west of Aleppo. At least 109 of the dead were evacuees, according to the British-based monitoring group, the Syrian Observatory for Human Rights. The evacuations are part of a broader relocation agreement between the Syrian regime and rebel forces involving thousands of people. The large numbers and ethnic make-up of those being relocated appears to represent a new phase of the six-year old civil war that has claimed nearly 350,000 lives. Critics of the latest relocations say the string of evacuations, which could see some 30,000 people moved across battle lines over the next two months, amounts to forced displacement along political and sectarian lines. On Sunday, a day after the gruesome bus attack, body parts and the belongings of evacuees - including clothes, dishes and even televisions - remained strewn about the scene of the attack. The shattered buses were nearby, as was the shell of a pick-up truck that was apparently used to carry out the bombing. No claim of responsibility No group immediately claimed responsibility for the attack and the key Ahrar al-Sham rebel group denied any involvement. The government blamed \"terrorists\" - a term it uses generally to refer to all of its opponents. The Observatory, which relies on a network of sources inside Syria to monitor the conflict, said hundreds more people were wounded in the blast. It said a petrol station at the transit point was consumed in the explosion, adding to the number of victims. The Syrian Red Crescent said three of its workers were among the wounded. Maysa al-Aswad, a 30-year-old evacuee from Kafraya, told news agency AFP that she was sitting on one bus with her six-month-old son Hadi and 10-year-old daughter Narjis when the blast shook the parked convoy. \"Hadi was on my lap and Narjis on a chair next to me. When the explosion happened I hugged them both and we fell to the floor,\" she said. \"I didn't know what was happening, all I could hear was people crying and shouting.\" She added, \"All I can think about is how we survived all the death during the last few years and then could have died just after we finally escaped.\" bik/rs (AFP, AP, dpa, Reuters)",
+  "relations": [
+    [
+      "Syrian Observatory for Human Rights",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Rashidin",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Rashidin",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Fuaa",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Fuaa",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Kafraya",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Kafraya",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Aleppo",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Aleppo",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Ahrar al-Sham",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Ahrar al-Sham",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Syrian Red Crescent",
+      "Syria",
+      "agency_of"
+    ],
+    [
+      "Syrian Red Crescent",
+      "Syrian",
+      "agency_of-x"
+    ],
+    [
+      "Syrian Red Crescent",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Syrian Red Crescent",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Maysa al-Aswad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Maysa al-Aswad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Maysa al-Aswad",
+      "Hadi",
+      "spouse_of"
+    ],
+    [
+      "Maysa al-Aswad",
+      "Narjis",
+      "spouse_of"
+    ],
+    [
+      "Hadi",
+      "Maysa al-Aswad",
+      "spouse_of"
+    ],
+    [
+      "Narjis",
+      "Maysa al-Aswad",
+      "spouse_of"
+    ]
+  ]
+}

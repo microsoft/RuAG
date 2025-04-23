@@ -1,0 +1,165 @@
+{
+  "content": "Dresden asylum camp cleared after neo-Nazi attack\nAn asylum camp set up in front of Dresden's Semperoper opera house has been cleared. Refugees and supporters moved just a day after radical PEGIDA members and neo-Nazis attempted to storm the site.\nLocal authorities had originally planned to clear the refugee camp, which had been set up on Saturday, by Monday evening. The administrative court of Dresden successfully filed an appeal, however, which appeared to fuel an attack on Monday night by radical members of PEGIDA and neo-Nazis. Following the usual rally held by the right-wing PEGIDA movement on Monday evening, some 100 radicals flocked to Dresden's Theaterplatz demanding for the asylum seekers' camp to be cleared. Others could be heard shouting \"Germany for Germans, foreigners out!\" and were reportedly seen throwing bottles and fire crackers in the direction of the camp. In what appeared to be a coordinated attack, about two dozen radicals attempted to storm the anti-PEGIDA rally from two directions. The counter protest was held by local refuges and supporters of the groups \"Asylum Movement,\" \"Dresden for All,\" and \"Dresden Nazi-free.\" Dresden police managed to fend off the PEGIDA members and neo-Nazis as they formed a chain of officers between the two protest groups, before later setting up a fixed cordon around Theaterplatz. Around 500 supporters of the refugees also gathered around the asylum camp to protect the tents. PEGIDA, which roughly translates as \"Patriotic Europeans against the Islamization of the West,\" has been holding demonstrations in Dresden and a host of other German cities since October. At its peak, the group saw a turnout of some 25,000 in Dresden. Figures have decreased in recent weeks, however, particularly after images of leader Lutz Bachmann posing as Adolf Hitler went viral. ksb/rg (AFP, dpa)",
+  "relations": [
+    [
+      "neo-Nazis",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "neo-Nazis",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "neo-Nazis",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresden",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Dresden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Patriotic Europeans against the Islamization of the West",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Patriotic Europeans against the Islamization of the West",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Patriotic Europeans against the Islamization of the West",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Semperoper",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Semperoper",
+      "Dresden",
+      "in2"
+    ],
+    [
+      "Theaterplatz",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Theaterplatz",
+      "Dresden",
+      "in2"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Asylum Movement",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Asylum Movement",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Asylum Movement",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Asylum Movement",
+      "Dresden",
+      "based_in2"
+    ],
+    [
+      "Dresden for All",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Dresden for All",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Dresden for All",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dresden for All",
+      "Dresden",
+      "based_in2"
+    ],
+    [
+      "Dresden Nazi-free",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Dresden Nazi-free",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Dresden Nazi-free",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dresden Nazi-free",
+      "Dresden",
+      "based_in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Lutz Bachmann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Lutz Bachmann",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Lutz Bachmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Lutz Bachmann",
+      "Patriotic Europeans against the Islamization of the West",
+      "head_of"
+    ],
+    [
+      "Lutz Bachmann",
+      "Patriotic Europeans against the Islamization of the West",
+      "member_of"
+    ]
+  ]
+}

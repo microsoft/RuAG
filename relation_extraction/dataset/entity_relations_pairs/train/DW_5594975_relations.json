@@ -1,0 +1,300 @@
+{
+  "content": "German parliament approves eurozone rescue package\nFollowing a fiery debate, Chancellor Angela Merkel's plan to throw 148 billion euros into a new eurozone rescue package was approved by parliament on Friday. Opposition parties, however, withheld their support.\nBoth houses of parliament have approved Germany's portion of a 750 billion euro ($920 billion) rescue package from the European Union and International Monetary Fund for struggling eurozone economies. The result of the vote in the Bundestag, the lower house of parliament, reflected a heated debate, with 319 \"yes\" votes, 73 \"no\" votes and 195 abstentions. The abstentions came from the center-left opposition Greens and Social Democrats (SPD). Leaders of the SPD had said they would vote for the plan only if Chancellor Angela Merkel's government agreed to support a tax on some international financial transactions. Merkel strongly supports the rescue package, calling it necessary for a \"culture of stability\" in the eurozone, and told parliament earlier this week, \"If the euro fails, then Europe fails.\" During the parliamentary debate, Sigmar Gabriel, party leader of the SPD, sharply criticized Merkel's handling of the euro crisis, saying her indecision has isolated Germany in Europe. \"You were only a courageous chancellor as long as you were protected by the Social Democrats,\" he said directly to Merkel, referring to the previous \"grand coalition\" government of the SPD and Merkel's conservative Christian Democrats (CDU). Foreign Minister Guido Westerwelle shot back at Gabriel, saying his opposition was motivated by party politics. \"Do you think Europe should stand, or that it should fall?\" he said. \"Abstention [on this vote] is not principled, it's inconsistency.\" Speaking on the proposed international transaction tax, Finance Minister Wolfgang Schaeuble told lawmakers that anticipation of the tax was pushing markets down, and that only prompt action on the tax decision will stabilize the markets. \"The reality is that the markets look more at Germany than at Cyprus or Malta,\" he said. \"So it is right, in order to win markets' confidence, that we decide so quickly.\" Inter-party divisions Germany would provide 148 billion euros ($186 million) to finance the bailout, and while the SPD has said it is not ideologically against the plan, the center-left party thinks the financial sector should pay its share to resolve the crisis many believe it helped create. Although Merkel's coalition was able to pass the bailout without opposition votes, cross-party support was expected to smooth over fierce opposition among Germans who see themselves as footing the bill for other countries' mistakes. The smaller opposition Greens also abstained from the vote, while the Left Party voted against it. The CDU and coalition Free Democrats have a majority in the lower house, the Bundestag, but their majority in the upper house, the Bundesrat, was scuppered after last week's election in the state of North Rhine-Westphalia. acb/dpa/apn Editor: Martin Kuebler",
+  "relations": [
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundestag",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democrats",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Social Democrats",
+      "head_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Greens",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germans",
+      "minister_of-x"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germans",
+      "minister_of-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Left Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Left Party",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Free Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Free Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Free Democrats",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Bundesrat",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundesrat",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundesrat",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Bundesrat",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundesrat",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundesrat",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "Germans",
+      "in0-x"
+    ]
+  ]
+}

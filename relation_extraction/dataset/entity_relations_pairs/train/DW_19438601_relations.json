@@ -1,0 +1,70 @@
+{
+  "content": "Belgium police arrest two brothers suspected of plotting attack\nBelgian police have arrested two men \"suspected of planning an attack\" following raids ordered by a counterterrorism judge. Authorities later released one brother, but charged the other with attempted \"terrorist murder.\"\nBelgian authorities charged 33-year-old Nourredine H. with attempting to commit \"terrorist murder\" on Saturday after police found evidence of an alleged plan to launch an attack in Belgium. \"Based on provisional results from the investigation, it appears that there were plans to carry out an attack somewhere in Belgium,\" the federal prosecution office said in a statement. His brother, Hamza H., was released without a charge. The police raids were on houses in Mons and Liege, both predominately French-speaking cities. They are only the latest raids in a series of counterrorism sweeps. Belgian public broadcaster RTBF reported that Nourredine H. helped make arrangements for people looking to travel to Syria in order to fight. He also made a number of contacts in France and was looking for weapons, tipping off investigators, RTBF reported. Belgium remains on high alert There was no apparent connection with the attacks at Brussels airport and the city's metro on March 22, in which 32 people were killed, the prosecution office said. Nor were weapons or explosives found in the raids ordered by the judge specializing in counterterror cases Belgian authorities last month charged two men with terrorist offenses amid reports of a planned attack on a Euro 2016 fanzone in central Brussels. The country increased domestic security precautions for its July 21 national day celebrations after an attack that killed 84 people in the city of Nice on Bastille Day, July 14. jar/jlw (AP, Reuters)",
+  "relations": [
+    [
+      "Belgian",
+      "Belgium",
+      "gpe0"
+    ],
+    [
+      "Mons",
+      "Belgium",
+      "in0"
+    ],
+    [
+      "Mons",
+      "Belgian",
+      "in0-x"
+    ],
+    [
+      "Liege",
+      "Belgium",
+      "in0"
+    ],
+    [
+      "Liege",
+      "Belgian",
+      "in0-x"
+    ],
+    [
+      "RTBF",
+      "Belgium",
+      "based_in0"
+    ],
+    [
+      "RTBF",
+      "Belgian",
+      "based_in0-x"
+    ],
+    [
+      "Brussels airport",
+      "Belgium",
+      "in0"
+    ],
+    [
+      "Brussels airport",
+      "Belgian",
+      "in0-x"
+    ],
+    [
+      "Brussels",
+      "Belgium",
+      "in0"
+    ],
+    [
+      "Brussels",
+      "Belgian",
+      "in0-x"
+    ],
+    [
+      "Nice",
+      "France",
+      "in0"
+    ],
+    [
+      "Bastille Day",
+      "France",
+      "event_in0"
+    ]
+  ]
+}

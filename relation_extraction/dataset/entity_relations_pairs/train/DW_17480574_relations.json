@@ -1,0 +1,185 @@
+{
+  "content": "Ukraine, financial crisis overshadows EPP convention\nVitaly Klitschko and Yulia Tymoshenko have addressed delegates at the European People's Party (EPP) convention in Dublin - but it appears they both expect too much from the EU.\nDelegates of the conservative European People's Party (EPP), a grouping of center-right parties in the European Parliament, have met for a two-day congress in Dublin on Thursday (06.03.2014) to nominate a front-runner ahead of elections in May. The winner could well become the next president of the European Commission - that is if the EPP, now the largest political grouping in parliament, manages to secure most of people's votes again. However, delegates are talking about little else but Ukraine. Before the debate kicked off, EPP's chairman Joseph Daul had asked for a minute of silence \"in remembrance of the Ukrainian victims who have died for their flag and also for the European flag, which symbolizes our set of values,\" he said. \"We will never accept aggression against a sovereign state.\" However, what was meant as strong support for Ukrainians may ring hollow to many. After all, what can the EU, let alone a European party, really do against the de-facto Russian occupation of the Crimean Peninsula? Expectations are too high Ukrainian politicians Yulia Tymoshenko and Vitaly Klitschko had both been invited to speak to the delegates. Former heavy-weight boxer Klitschko had led demonstrations against President Victor Yanukovych in Kyiv for weeks, while Tymoshenko was freed from prison as soon as Yanukovych was ousted. However, their expectations on what the EU could do were far from being realistic. Both politicians offered no clear answer to the question what the EU could do about the Crimean issue. However, Klitschko said his first goal was \"Ukraine's accession to the EU\", secondly, \"immediate talks with NATO.\" But both his demands are out of reach. The EU has practically given up on Ukraine becoming a member of the bloc - even under a pro-European government - while NATO is relieved it is not obliged to defend non-member state Ukraine against Russia. Financial crisis lingers on Apart from Ukraine, there is a second crisis at hand - the bloc's financial crisis. Consequences are still being felt in many countries, particularly in Ireland. Despite the country's success at leaving Europe's bailout program, Ireland has been paying a heavy price in terms of high unemployment and poverty. Demonstrators put up a banner in front of Dublin's Convention Center where the EPP delegates have gathered that reads: \"Merkel and EPP, austerity kills us.\" For some of Ireland's citizens it seems to be German Chancellor Angela Merkel who is responsible for their plight. The two crises could now indeed overshadow the party's task at hand: to nominate a front-runner for upcoming elections.",
+  "relations": [
+    [
+      "Vitaly Klitschko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Vitaly Klitschko",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Vitaly Klitschko",
+      "Ukrainians",
+      "citizen_of-x"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukrainians",
+      "citizen_of-x"
+    ],
+    [
+      "European People's Party",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "European People's Party",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "European People's Party",
+      "Ukrainians",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Victor Yanukovych",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Victor Yanukovych",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Victor Yanukovych",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Victor Yanukovych",
+      "Ukrainians",
+      "citizen_of-x"
+    ],
+    [
+      "Victor Yanukovych",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Victor Yanukovych",
+      "Ukrainian",
+      "head_of_state-x"
+    ],
+    [
+      "Victor Yanukovych",
+      "Ukrainians",
+      "head_of_state-x"
+    ],
+    [
+      "Dublin",
+      "Ireland",
+      "in0"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "Joseph Daul",
+      "European People's Party",
+      "head_of"
+    ],
+    [
+      "Joseph Daul",
+      "European People's Party",
+      "member_of"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Ukrainians",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Crimean Peninsula",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Crimean Peninsula",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Crimean Peninsula",
+      "Ukrainians",
+      "in0-x"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Kyiv",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Kyiv",
+      "Ukrainians",
+      "in0-x"
+    ],
+    [
+      "Convention Center",
+      "Ireland",
+      "in0"
+    ],
+    [
+      "Convention Center",
+      "Dublin",
+      "in2"
+    ]
+  ]
+}

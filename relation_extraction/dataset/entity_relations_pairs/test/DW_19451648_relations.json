@@ -1,0 +1,80 @@
+{
+  "content": "Rethinking the term 'honor killing'\nThe murder of 28-year-old Samia Shahid comes less than two weeks after Qandeel Baloch was killed by her brother. The media was quick to report them as \"honor killings.\" We have to rethink that term, writes Gouri Sharma.\nWhen news broke that Samia Shahid, a British-Pakistani woman, had been found dead while visiting relatives in Pakistan at the end of July, mainstream media outlets were quick to report it as an honor killing. It was the second time in two weeks that the media had reported a killing of a woman this way - the first being the murder of Pakistani social media star Qandeel Baloch. There are strong similarities between the cases. Both were murdered in places where they would have felt they were at their safest - in their family homes. It's likely they knew their killers - in Baloch's case, her brother has admitted to strangling her, and Shahid's father and cousin have already been questioned. And as more reports emerge about Shahid's death, it's clear that both were killed because they didn't behave in a way deemed acceptable in a conservative, patriarchal society. 'Deeply offensive' term The debate around terminology in \"honor killings\" isn't new, and after Baloch's murder there were members of the media - such as ABC Australia journalist Juanita Phillips - who decided against using the term, calling it \"deeply offensive\" and referring to it as a \"family killing\" instead. And there are outlets, like the Guardian, that already use inverted commas with the word honor. But some commentators argue that more needs to happen if media consumers are to gain a better understanding of the problem. \"I think an important step for the media would be to refuse to give weight to the term 'honor crimes,'\" said UK-based freelance journalist Shehnaz Khan. \"While it is imperative to highlight that these crimes and murders stem from the roots of misogyny and therefore a false sense of 'honor,' there is absolutely nothing but 'shame' within them, as murder is nothing but dishonorable.\" \"The word 'honor' can sometimes carry an almost positive connotation that we are inclined to automatically accept just because it's not happening to us, when the reality is, this a huge problem affecting thousands of girls and women across the world,\" she added. Naming the issue But this isn't a view shared by all journalists. Ruby Hamad, a writer at Australia's Daily Life newspaper, said that the first step in dealing with the issue is naming it. \"There are some deeply patriarchal societies that still limit women's freedom according to old tribal concepts of honor, where, unfairly, the behavior of women reflect on their entire family,\" Hamad said. \"By naming these 'honor killings,' we are acknowledging the role that this misogynistic concept of honor plays, not only in the murders themselves but in these entire societies, and how it entraps both men and women.\" Through the eyes of the perpetrator? There are other issues with the term though. Some have argued that by framing it as such, media outlets are showing the crime through the eyes of the perpetrator - and not through the victim - as they should. And with such cases regularly hitting the headlines, framing is important. The United Nations estimates that around 5,000 women - predominantly from Asia and the Middle East - are killed annually in honor-related crimes, a figure that women's advocacy groups say is closer to 20,000 worldwide. This raises an important cultural element for the media to consider - how far does the term play into cultural stereotypes? \"When honor is considered the most important thing in life, then all family members become expendable,\" Hamad said. \"The collective outweighs the rights of the individual. Does this feed into cultural stereotypes? Perhaps. But that doesn't mean we should pretend that this cultural context isn't there.\" Looking for answers - and alternatives There have been many alternatives put forward by women's advocacy groups, including hate crime, misogynistic murder, femicide and shame killings. But which one should we pick? Al Jazeera for one has decided which one they won't use. \"We are always updating our style guidelines to convey a deeper and more authentic understanding of world affairs. Recent events in Pakistan ignited a healthy debate in Al Jazeera on the term 'honor killings' in particular. Our editors are currently studying alternatives to the term, but 'misogynistic murder' is not one of them,\" said an Al Jazeera spokesperson. Terminology in the media matters, and for murders as complex as these, it's the media's responsibility to find a name that better fits the crime. Only then will it become easier to work towards a solution.",
+  "relations": [
+    [
+      "Samia Shahid",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Samia Shahid",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Qandeel Baloch",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Qandeel Baloch",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Ruby Hamad",
+      "Daily Life",
+      "member_of"
+    ],
+    [
+      "British",
+      "UK",
+      "gpe0"
+    ],
+    [
+      "Pakistani",
+      "Pakistan",
+      "gpe0"
+    ],
+    [
+      "ABC Australia",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Juanita Phillips",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Juanita Phillips",
+      "ABC Australia",
+      "member_of"
+    ],
+    [
+      "Guardian",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Guardian",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Shehnaz Khan",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Shehnaz Khan",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Daily Life",
+      "Australia",
+      "based_in0"
+    ]
+  ]
+}

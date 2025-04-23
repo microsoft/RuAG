@@ -1,0 +1,90 @@
+{
+  "content": "Williams beats Radwanska to advance to final round of Australian Open\nSerena Williams will go on to face German Angelique Kerber in her seventh Australian Open final. A victory would bring Williams her 22nd Grand Slam singles title.\nWilliams defeated Agnieszka Radwanska 6-0 6-4 on Thursday, putting her one step closer to matching Steffi Graf's record of 22 Grand Slam singles titles. \"I'm really excited to be in the final - it just kind of blows my mind right now,\" Williams said, according to the Associated Press. The American proved her prowess almost immediately, breaking Radwanska's serve in the opening and easily defeating her opponent in the first set. After putting up a fight in the second set, Radwanska eventually fell to Williams in the ninth game. Favorite to win Williams' opponent in the final round, seventh-seeded Kerber, defeated her opponent, the Brit Johanna Konta, 7-5 6-2. The two players will go on to face each other on Saturday. Williams, the critics' favorite, has gone on to win the Daphne Akhurst Memorial Cup every time she's made it to the final round. A win for Williams would put her alongside Graf and just behind Australian tennis legend Margaret Court, who holds the world record with 24 Grand Slam titles. blc/jil (AP, Reuters)",
+  "relations": [
+    [
+      "Serena Williams",
+      "Australian Open",
+      "appears_in"
+    ],
+    [
+      "Serena Williams",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Serena Williams",
+      "Angelique Kerber",
+      "vs"
+    ],
+    [
+      "Serena Williams",
+      "Agnieszka Radwanska",
+      "vs"
+    ],
+    [
+      "Serena Williams",
+      "Agnieszka Radwanska",
+      "won_vs"
+    ],
+    [
+      "Angelique Kerber",
+      "Australian Open",
+      "appears_in"
+    ],
+    [
+      "Angelique Kerber",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angelique Kerber",
+      "Serena Williams",
+      "vs"
+    ],
+    [
+      "Angelique Kerber",
+      "Johanna Konta",
+      "vs"
+    ],
+    [
+      "Angelique Kerber",
+      "Johanna Konta",
+      "won_vs"
+    ],
+    [
+      "Agnieszka Radwanska",
+      "Australian Open",
+      "appears_in"
+    ],
+    [
+      "Agnieszka Radwanska",
+      "Serena Williams",
+      "vs"
+    ],
+    [
+      "Steffi Graf",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Johanna Konta",
+      "Australian Open",
+      "appears_in"
+    ],
+    [
+      "Johanna Konta",
+      "Brit",
+      "citizen_of-x"
+    ],
+    [
+      "Johanna Konta",
+      "Angelique Kerber",
+      "vs"
+    ],
+    [
+      "Margaret Court",
+      "Australian",
+      "citizen_of-x"
+    ]
+  ]
+}

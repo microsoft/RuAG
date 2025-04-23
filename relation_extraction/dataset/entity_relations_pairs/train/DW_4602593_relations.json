@@ -1,0 +1,60 @@
+{
+  "content": "Lights out for the incandescent light bulb?\nThe Dutch town of Eindhoven is where the Philips brothers first began mass-producing light bulbs. Today though, the company is pursuing technologies they say will make the good old light bulb a thing of the past.\nThe Philips brothers began producing the first light bulbs in a small brick factory in Eindhoven, the Netherlands, in 1887. The site is now home to a museum, where visitors can find out everything about the history of lighting. During the daily guided tours, visitors can see, for example, how workers made the carbonized cotton thread filaments encased in a bulb of glass. Philips became the world's biggest maker of light bulbs, and it turned Eindhoven into a city of light. Today, the company continues to be a pioneer in the field of lighting. But new developments promise to make the old-fashioned light bulb go the way of the horse and cart. \"Its fate is sealed,\" said Niels Haverkorn, strategic marketing director for light at Philips. \"The future belongs to LED lights and OLED lights - semiconductor light from light diodes.\" Four big advantages In light-emitting diode or LED bulbs, more than 50 percent of the energy is converted into light. In the case of energy-saving light bulbs, only 25 percent is converted into light, while the normal light bulb converts just 5 percent. Another advantage is that, in addition to dimming the light, consumers can also choose the color of the light to suit a certain atmosphere. Turn on a sunny yellow light while vacuuming, for example, or cozy red to accompany the evening meal. For designers, the tiny LED light sources also open up new possibilities. They can be more flexible when experimenting with forms and materials for lamps. But perhaps most importantly, an LED lamp burns 50 times longer than a normal light bulb: 50,000 instead of a mere 1,000 hours. The table lamp from Philips' new Ledino series, for example, looks like a shiny silver high-tech oyster that's just starting to open. And the new Daywave desk lamp is packed with special features, says Haverkorn. \"It adjusts to the amount of daylight and doesn't disrupt people's biorhythms, so people can work more efficiently,\" he said. Surround lighting The next step will be OLED, an extension of LED technology (the 'O' stands for organic). Although it's still in the beginning stages, OLED technology has the ability to be embedded in fabric, meaning that your rug, sofa or curtains could be transformed into light sources. \"Lamps will become obsolete,\" said Haverkorn. \"Light will be more like daylight, it'll come from everywhere.\" First though, the estimated 24 billion lamps worldwide equipped with standard light bulb fixtures would have to be scrapped. And besides, LED technology, though quite advanced, is not perfect. It's still relatively expensive, and sometimes, it's not strong enough. To replace a 75-Watt light bulb, for example, you're still better off with an energy-saving bulb. They're now available in all sizes, with different lighting effects, including dimmers. Those who want to stick with the classic light bulb shape can now opt for the Philips Retrofit bulb. It still looks like the good old light bulb, it fits in all the old fixtures, but it gives off LED light. The cost is between 20 and 40 euros ($28 - $57). \"But for that, it's environmentally friendly, it gives off a wonderful, warm light, and it'll burn for 50 years!\" Haverkorn said. Author: Kirstin Schweighoefer (dc) Editor: Andreas Illmer",
+  "relations": [
+    [
+      "Philips",
+      "Netherlands",
+      "based_in0"
+    ],
+    [
+      "Philips",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "Philips",
+      "Eindhoven",
+      "based_in2"
+    ],
+    [
+      "Niels Haverkorn",
+      "Philips",
+      "head_of"
+    ],
+    [
+      "Niels Haverkorn",
+      "Philips",
+      "member_of"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ],
+    [
+      "Eindhoven",
+      "Netherlands",
+      "in0"
+    ],
+    [
+      "Eindhoven",
+      "Dutch",
+      "in0-x"
+    ],
+    [
+      "Ledino",
+      "Philips",
+      "product_of"
+    ],
+    [
+      "Daywave",
+      "Philips",
+      "product_of"
+    ],
+    [
+      "Philips Retrofit",
+      "Philips",
+      "product_of"
+    ]
+  ]
+}

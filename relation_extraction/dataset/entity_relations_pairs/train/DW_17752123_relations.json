@@ -1,0 +1,190 @@
+{
+  "content": "Three key points about Argentina: a sputtering favorite\nArgentina may have a perfect record at this year's World Cup, but their game has been anything but perfect. There are good reasons why the Gauchos are just barely getting the job done.\nBarca and Real a difficult mix You can divide up Argentina's torturous 1-0 win over Switzerland on Tuesday into three distinct phases. In the first half, the Gauchos tried to play a short passing game reminiscent of Barcelona, only with Lionel Messi in the role of playmaker, not forward. That didn't work at all. In the second half, Argentina reverted to medium-distance crosses aimed at Real's Gonzalo Higuain. That worked somewhat better, although their best chance came after a Messi solo. Then in the dying minutes of extra time, \"The Messiah\" alertly pounced on an errant pass and fed Real's Angel di Maria for the out-of-the-blue game-winner. In terms of individual quality, it was a potent demonstration of what can result when players from the two great Spanish rivals hook up. Unfortunately, for the Gauchos, it was just one moment. For Argentina to live up to their status as favorites, they will have to harmonize better as a team. Otherwise they will continue to struggle against switched-on defenses like Switzerland's. Uncertainty between the posts Against Switzerland, Argentina were just a few minutes away from a penalty shootout. You wouldn't have bet on Albiceleste, if it had come to spot kicks. As loaded with intoxicating talent as the squad is, Argentina's goalkeepers are hardly top-shelf material. Sergio Romero isn't even the number one keeper for his club AS Monaco, and despite keeping two clean sheets in this World Cup, his international performances have hardly been unblemished. In Argentina's match with Germany at the 2010 World Cup in South Africa, he had to fish the ball out of his net four times. And as if to remind fans of his vulnerability, early in the second half against Switzerland Romero contrived to bobble the ball four times within seconds and almost ended up with it in his hands outside the area. Argentina would be well advised to not let games get to penalty shootouts. Rojo a no show In their quarter-final, Argentina are going to be without one of their few players to unequiviocally exceed expectations. Sporting Lisbon's 24-year-old left-back Marcos Rojo has been a standout performer at this most difficult position, not only locking down his side of the defense but getting forward at key times as well. Rojo forced Argentina's first goal of this World Cup - an own goal by Bosnia-Herzegovina's Sead Kolasinac. And he scored the game-winner in the Gauchos' 3-2 win over Nigeria in the group stage. Rojo now has an involuntary day off after picking up a second yellow card. The men who replaced Rojo when he was substituted off in minute 105 against Switzerland, José María Basanta, is a 30-year-old center back who played his club football for Monterrey in Mexico. Rojo's absence could reveal a fatal lack of depth at Argentina's back.",
+  "relations": [
+    [
+      "Lionel Messi",
+      "Albiceleste",
+      "member_of"
+    ],
+    [
+      "Lionel Messi",
+      "Albiceleste",
+      "player_of"
+    ],
+    [
+      "Barcelona",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Albiceleste",
+      "World Cup",
+      "appears_in"
+    ],
+    [
+      "Albiceleste",
+      "Switzerland",
+      "vs"
+    ],
+    [
+      "Albiceleste",
+      "Germany",
+      "vs"
+    ],
+    [
+      "Albiceleste",
+      "Bosnia-Herzegovina",
+      "vs"
+    ],
+    [
+      "Albiceleste",
+      "Nigeria",
+      "vs"
+    ],
+    [
+      "Albiceleste",
+      "Switzerland",
+      "won_vs"
+    ],
+    [
+      "Albiceleste",
+      "Nigeria",
+      "won_vs"
+    ],
+    [
+      "Sergio Romero",
+      "Albiceleste",
+      "member_of"
+    ],
+    [
+      "Sergio Romero",
+      "AS Monaco",
+      "member_of"
+    ],
+    [
+      "Sergio Romero",
+      "Albiceleste",
+      "player_of"
+    ],
+    [
+      "Sergio Romero",
+      "AS Monaco",
+      "player_of"
+    ],
+    [
+      "Marcos Rojo",
+      "Albiceleste",
+      "member_of"
+    ],
+    [
+      "Marcos Rojo",
+      "Sporting Lisbon",
+      "member_of"
+    ],
+    [
+      "Marcos Rojo",
+      "Albiceleste",
+      "player_of"
+    ],
+    [
+      "Marcos Rojo",
+      "Sporting Lisbon",
+      "player_of"
+    ],
+    [
+      "Real",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Switzerland",
+      "Albiceleste",
+      "vs"
+    ],
+    [
+      "Gonzalo Higuain",
+      "Albiceleste",
+      "member_of"
+    ],
+    [
+      "Gonzalo Higuain",
+      "Real",
+      "member_of"
+    ],
+    [
+      "Gonzalo Higuain",
+      "Albiceleste",
+      "player_of"
+    ],
+    [
+      "Gonzalo Higuain",
+      "Real",
+      "player_of"
+    ],
+    [
+      "Angel di Maria",
+      "Real",
+      "member_of"
+    ],
+    [
+      "Angel di Maria",
+      "Real",
+      "player_of"
+    ],
+    [
+      "Germany",
+      "Albiceleste",
+      "vs"
+    ],
+    [
+      "2010 World Cup",
+      "South Africa",
+      "event_in0"
+    ],
+    [
+      "Bosnia-Herzegovina",
+      "Albiceleste",
+      "vs"
+    ],
+    [
+      "Sead Kolasinac",
+      "Bosnia-Herzegovina",
+      "member_of"
+    ],
+    [
+      "Sead Kolasinac",
+      "Bosnia-Herzegovina",
+      "player_of"
+    ],
+    [
+      "Nigeria",
+      "Albiceleste",
+      "vs"
+    ],
+    [
+      "José María Basanta",
+      "Albiceleste",
+      "member_of"
+    ],
+    [
+      "José María Basanta",
+      "Monterrey",
+      "member_of"
+    ],
+    [
+      "José María Basanta",
+      "Albiceleste",
+      "player_of"
+    ],
+    [
+      "José María Basanta",
+      "Monterrey",
+      "player_of"
+    ],
+    [
+      "Monterrey",
+      "Mexico",
+      "based_in0"
+    ]
+  ]
+}

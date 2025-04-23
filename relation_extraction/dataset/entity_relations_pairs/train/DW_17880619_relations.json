@@ -1,0 +1,185 @@
+{
+  "content": "Pact with a dictator?\nSyrian President Bashir al-Assad is isolated on the world stage. But now he's offering the West military cooperation in the fight against \"Islamic State,\" painting himself as a guarantor of stability.\nWhen the Arab Spring unfolded in Syria, it appeared that the Syrian president's fate was sealed. The heads of state of other Arab countries had fallen one by one: Ben Ali fled, Mubarak was ousted, Gadhafi was murdered. Things weren't looking good for Bashar al-Assad in the autumn of 2011. Thousands of Syrians were protesting against their president, fighting his regime with all they had. But Assad refused to be chased away. He issued continual warnings against the \"Islamist terrorists\" in his country, and clamped down brutally on his own people. The march of the Islamists Three years and more than 190,000 deaths later, Assad's warning looks more and more like the truth. Militants of the \"Islamic State\" group are advancing across the country, fighting mercilessly for a religious state. They murder anyone who stands in their way. The Islamic extremists, supported by thousands of volunteer fighters from the Arab world and Europe, have taken hold of large areas of both Syria and Iraq. In the beginning, they mainly fought against Syrian rebels, strengthening the regime in Damascus. Now, the militants are also targeting Syria's government troops. The United States, as well as many European and Arab governments, sees the caliphate as a provocation. Islamic State has given Syria and the West a common enemy - something that could play into the hands of the government in Damascus, said Syria expert Petra Becker of the German Institute for International and Security Affairs in Berlin. \"From the very beginning, Assad denounced the revolution - which was actually about democracy and human rights - as an insurgency of Salafist jihadists,\" Becker said. At the same time, Becker added, Assad granted amnesty to a number of imprisoned jihadists at the start of the uprising, in the knowledge that they would try to establish terror cells in Syria: \"He stood back and watched as jihadists spread across the country. He did everything he could to radicalize the forces at play in the revolution in order to support his narrative.\" Secret torture methods Against the backdrop of the brutal terrorist methods the \"Islamic State\" uses and celebrates in the media, the torture methods used by the Syrian regime appear less drastic. The Syrian government also does all it can to keep such things shrouded in secrecy. But with the capture of the strategically important air base in Tabqa in the northern province of Raqqa, \"Islamic State\" has turned into a problem that is larger than the government expected. Not even Assad himself likely could have predicted such resistance. And yet his strategy appears to be working. The fear-inducing enemy in his own country could help Assad to break through his international isolation. \"This is the moment for Assad to capitalize on his past policy,\" said Becker. \"If he can manage to convince Western states to accept him as a partner in the war against terror, he will have secured his power for the years to come.\" Syrian Foreign Minister Walid Muallem has already floated the idea of a cooperation between Damascus and the United States. \"Geographically and strategically, Syria is at the center of an international coalition against Islamic State,\" Muallem said. \"Any states who seriously want to fight this terror should side with us.\" The lesser evil? On Tuesday, the US military began surveillance flights over Syria in preparation for possible air strikes. American broadcaster NBC reported that surveillance drones are being used to prepare attacks against the terrorist group on Syrian territory. Political leaders in Washington denied that the government was cooperating with Damascus. They say they don't want to strengthen the position of a dictator. But given what's known about the terrorists of \"Islamic State,\" Assad could look like the lesser evil in the eyes of many in the West, even though he ordered the oppression and killing of his own people.",
+  "relations": [
+    [
+      "Bashir al-Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Bashir al-Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Bashir al-Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashir al-Assad",
+      "Syrians",
+      "citizen_of-x"
+    ],
+    [
+      "Bashir al-Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Bashir al-Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Bashir al-Assad",
+      "Syrians",
+      "head_of_state-x"
+    ],
+    [
+      "Islamic State",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Islamic State",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Islamic State",
+      "Syrians",
+      "based_in0-x"
+    ],
+    [
+      "Arab Spring",
+      "Syria",
+      "event_in0"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Damascus",
+      "Syrians",
+      "in0-x"
+    ],
+    [
+      "Petra Becker",
+      "German Institute for International and Security Affairs",
+      "member_of"
+    ],
+    [
+      "Walid Muallem",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Walid Muallem",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Walid Muallem",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Walid Muallem",
+      "Syrians",
+      "citizen_of-x"
+    ],
+    [
+      "Walid Muallem",
+      "Syria",
+      "minister_of"
+    ],
+    [
+      "Walid Muallem",
+      "Syrian",
+      "minister_of-x"
+    ],
+    [
+      "Walid Muallem",
+      "Syrians",
+      "minister_of-x"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Syrians",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Tabqa",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Tabqa",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Tabqa",
+      "Syrians",
+      "in0-x"
+    ],
+    [
+      "Raqqa",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Raqqa",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Raqqa",
+      "Syrians",
+      "in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "NBC",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "NBC",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ]
+  ]
+}

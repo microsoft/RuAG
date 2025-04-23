@@ -1,0 +1,75 @@
+{
+  "content": "How survivors and victims' families cope after a mass murder\nMass shootings and terror strikes leave a wake of death and destruction behind them. But in the aftermath, the people who suffer most and the longest are survivors and the victims' families.\n\"I switched on the TV on Friday evening after my dinner and saw pictures of the shooter targeting and killing people. I asked myself whether Tim K. had behaved in the same manner as the attacker in Munich,\" said Barbara Nalepa in an interview with Germany's public broadcaster ARD. Nalepa lost her daughter Nicole to a mass shooting seven years ago in Winnenden in southern Germany. At the time, 17-year-old Tim K. used guns found in his parents' home to kill 15 people before committing suicide. Nalepa said the old memories had come alive inside her again when she heard about the July 22 mass shooting at Munich's Olympia shopping mall. The 18-year-old, Ali David S., who was \"proud\" of sharing his birthday with Adolf Hitler, gunned down nine people. The immediate aftermath of a mass murder Immediately after the attack, \"the reaction is one of shock,\" says Petra Hohn of \"Verwaiste Eltern\" - literally, orphaned parents - which counsels mothers and fathers who have lost their children to a tragedy. \"Each person reacts differently. Some people cry and scream, some become quiet and stop speaking,\" Hohn adds. \"In the immediate aftermath of a terror attack - like the one in Paris - there is fear, people go numb, they have physical injuries, they cannot think straight and are hypersensitive to triggers,\" Levent Altan tells DW. Altan is the executive director of Brussels-based Victims Support Europe, an umbrella organization that works towards providing legal, emotional and psychological support to victims of any crime. Practical needs also take precedence right after a shooting or a similar event. What people need most is information. \"It can be extremely difficult to get information or find a loved one,\" Altan says, describing how a distressed father was looking for his daughter in Nice, where a man plowed a truck into Bastilles day celebrations, killing 84 people. Things like healthcare, insurance and compensation also need to be sorted out, especially if there are foreign victims. A feeling of solidarity The atmosphere during the immediate aftermath of an attack gives a feeling of solidarity with victims. The \"honeymoon period,\" according to Altan is when everyone is focused on the event and victims are grateful to have survived. \"There is a feeling of love from all over the world, and there is a lot of media attention.\" After a while, attention and support for the victims decrease, and there is a feeling of disillusionment. Winnenden victim's mother Barbara Nalepa knows the feeling. According to her, politicians have not taken necessary steps to ensure that guns are inaccessible to young people - like the killers in Munich and Winnenden. \"I wake up with bad thoughts in my head and go to sleep feeling sad and angry,\" she says. \"I don't want anyone to say, 'Oh, look, she's the poor woman of the Winnenden victim's family… I don't want politicians to just throw words in the air. I demand from our leaders that they finally begin to do something [about this problem].\" Feelings of anger and helplessness are normal after a tragedy, says activist Petra Hohn. \"At one moment you feel secure, but you're actually not safe. Everybody around, the wounded, the victims' relatives, everyone who had something to do with the event feels helpless.\" Random attacks also trigger feelings of fear and anxiety, and the feeling of having little control over your own safety, VSE's Altan says, illustrating with the example of terror attacks in the Belgian capital, in which 32 people were killed. \"The Brussels attacks had a depressing effect. People were more cautious about going out to public places, tourist attractions and theaters. There were feelings of wariness and concern. The army was deployed on the streets, and it was a very unsettling environment to live in,\" he tells DW. Supporting survivors and families in the long term At some point, victims' relatives and the wounded have to settle for a sustainable method of coping with the crisis, where they find ways to cope with grief and deal with injuries that might have a huge impact on their lives. Many survivors, for example, may develop handicaps, leading them to change their jobs or move house, says victims support expert Altan. Nicole's killing, for example, has drastically changed the lives of Barbara Nalepa's family. Her 13-year-old twins are out of counseling now, but it's not going to be easy to forget what happened, especially because the recent attacks reopened old wounds. \"It is very difficult to process these feelings of sadness,\" Nalepa says. \"I think it's going to take us a very long time to get over it. My husband and I will have to bear this grief all our lives. We cannot have the same life as we had before and I am sad that I cannot get my old life back.\" Discussions after mass shootings and terror attacks often tend to focus on catching terrorists or the criminals and preventing terror attacks in the future; victims support expert Altan says. However, policymakers need to understand that victims' families and survivors need to be treated with respect and dignity, they need to feel validated and protected, and they need long-term support in terms of legal, emotional and psychological assistance, he concludes.",
+  "relations": [
+    [
+      "Barbara Nalepa",
+      "Nicole",
+      "parent_of"
+    ],
+    [
+      "Levent Altan",
+      "Victims Support Europe",
+      "head_of"
+    ],
+    [
+      "Levent Altan",
+      "Victims Support Europe",
+      "member_of"
+    ],
+    [
+      "Petra Hohn",
+      "Verwaiste Eltern",
+      "member_of"
+    ],
+    [
+      "Victims Support Europe",
+      "Belgian",
+      "based_in0-x"
+    ],
+    [
+      "Victims Support Europe",
+      "Brussels",
+      "based_in2"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "ARD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Nicole",
+      "Barbara Nalepa",
+      "child_of"
+    ],
+    [
+      "Winnenden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Olympia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Olympia",
+      "Munich",
+      "in2"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Brussels",
+      "Belgian",
+      "in0-x"
+    ]
+  ]
+}

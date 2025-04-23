@@ -1,0 +1,215 @@
+{
+  "content": "Prague seeks to calm China over Dalai Lama visit \nThe Czech president has tried to limit damage to his country's efforts to coax Chinese investment, after the Dalai Lama met with officials. The Tibetan spiritual leader arrived in Prague on Monday.\nCzech President Milos Zeman, the prime minister and two parliamentary speakers sought to reassure China, after the exilted Tibetan spiritual leader the Dalai Lama met with politicians in Prague. In a joint statement on Tuesday, the group said the Czech Republic \"respects the sovereignty and territorial integrity\" of China, adding that: \"we consider the relationships between our countries and their remarkable development in recent years most beneficial for both parties. \"The private activities of some Czech politicians do not signal a change in the Czech Republic's official policy and we would consider it unfortunate if someone perceived them as such,\" said the leaders. The Dalai Lama arrived in Prague on Monday to attend the pro-democracy Forum 2000 conference, co-founded in 1996 by the late Czech president Vaclav Havel, who had close personal links with the Nobel Peace Prize laureate. The 80-year old met politicians from the small centrist Christian and Democratic Union party, the junior partner in the leftist-led coalition government: Deputy Prime Minister Pavel Belobradek, Culture Minister Daniel Herman and the deputy speakers of both houses of parliament. Before coming to Prague, the Dalai Lama met Slovak President Andrej Kiska in Bratislava, a visit that also angered Beijing. Money talks Chinese President Xi Jinping visited Prague with a business delegation in March and subsequently China's CEFC - one of the country's top 10 private firms - recently spent around a billion euros on stakes in a Czech airline, a brewery, two media groups and a top football team. Beijing maintains that the Dalai Lama supports separatism and violence in Tibet, a region China has ruled since 1951. The Dalai Lama fled to India after a failed uprising in 1959, but is still deeply revered by many Tibetans in China and beyond. jbh/jr (AFP, Reuters)",
+  "relations": [
+    [
+      "Dalai Lama",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Dalai Lama",
+      "Tibet",
+      "citizen_of"
+    ],
+    [
+      "Milos Zeman",
+      "Czech Republic",
+      "agent_of"
+    ],
+    [
+      "Milos Zeman",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Milos Zeman",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Milos Zeman",
+      "Czech Republic",
+      "head_of_state"
+    ],
+    [
+      "Milos Zeman",
+      "Czech",
+      "head_of_state-x"
+    ],
+    [
+      "Prague",
+      "Czech Republic",
+      "in0"
+    ],
+    [
+      "Prague",
+      "Czech",
+      "in0-x"
+    ],
+    [
+      "Czech",
+      "Czech Republic",
+      "gpe0"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Forum 2000",
+      "Czech Republic",
+      "based_in0"
+    ],
+    [
+      "Forum 2000",
+      "Czech",
+      "based_in0-x"
+    ],
+    [
+      "Vaclav Havel",
+      "Czech Republic",
+      "agent_of"
+    ],
+    [
+      "Vaclav Havel",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Vaclav Havel",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Vaclav Havel",
+      "Czech Republic",
+      "head_of_state"
+    ],
+    [
+      "Vaclav Havel",
+      "Czech",
+      "head_of_state-x"
+    ],
+    [
+      "Christian and Democratic Union",
+      "Czech Republic",
+      "based_in0"
+    ],
+    [
+      "Christian and Democratic Union",
+      "Czech",
+      "based_in0-x"
+    ],
+    [
+      "Pavel Belobradek",
+      "Czech Republic",
+      "agent_of"
+    ],
+    [
+      "Pavel Belobradek",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Pavel Belobradek",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Pavel Belobradek",
+      "Czech Republic",
+      "head_of_gov"
+    ],
+    [
+      "Pavel Belobradek",
+      "Czech",
+      "head_of_gov-x"
+    ],
+    [
+      "Daniel Herman",
+      "Czech Republic",
+      "agent_of"
+    ],
+    [
+      "Daniel Herman",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Daniel Herman",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Daniel Herman",
+      "Czech Republic",
+      "minister_of"
+    ],
+    [
+      "Daniel Herman",
+      "Czech",
+      "minister_of-x"
+    ],
+    [
+      "Andrej Kiska",
+      "Slovak",
+      "citizen_of-x"
+    ],
+    [
+      "Andrej Kiska",
+      "Slovak",
+      "head_of_state-x"
+    ],
+    [
+      "Bratislava",
+      "Slovak",
+      "in0-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "agent_of"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Xi Jinping",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "head_of_state"
+    ],
+    [
+      "Xi Jinping",
+      "Chinese",
+      "head_of_state-x"
+    ],
+    [
+      "CEFC",
+      "China",
+      "based_in0"
+    ],
+    [
+      "CEFC",
+      "Chinese",
+      "based_in0-x"
+    ]
+  ]
+}

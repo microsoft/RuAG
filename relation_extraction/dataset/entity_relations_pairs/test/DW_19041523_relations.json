@@ -1,0 +1,75 @@
+{
+  "content": "Turkey, Greece seek NATO mission in Aegean, says German official\nGermany, Greece and Turkey will ask NATO to approve a maritime surveillance mission in the Aegean to combat illegal people smugglers. Greece had previously voiced reservations about the proposal.\nThe proposed mission to be discussed at a NATO defense ministers meeting in Brussels on Thursday comes days after German Chancellor Angela Merkel and Turkish Prime Minister Ahmet Davutolgu said they would raise the issue of refugees with the Alliance. According to a Reuters report citing a senior German official, initially reticent Greece has now given the green light for the operation, which could see NATO assets deployed in the Aegean in a mostly intelligence and reconnaissance role. Under the proposal, which would need to be approved by Alliance members, NATO maritime assets would provide information to national coastguards and the EU border agency Frontex to combat illegal smugglers using rickety boats to bring migrants to Europe. Turkey would then take back the refugees, as envisioned as part of a 3 billion-euro ($3.2 billion) EU-Turkey deal agreed to last year. According to German sources, the mission would not be similar to the NATO mission in the Mediterranean intercepting migrant boats making the dangerous run from Libya to Italy. However, NATO ships could intervene in emergency situations to save passengers. \"It is not NATO's remit to push back or stop refugee boats,\" the official told Reuters. The mission would use assets from the Alliance's standing naval group, a permanent reaction force deployed in the Mediterranean. The naval group's current flagship is the German combat support ship \"Bonn.\" Denmark has already said it would provide additional ships to the mission, according to the official. However, it is unclear whether NATO members will approve the mission which may fall outside the bounds of the Alliance's mandate. Complicating matters is a long-running maritime dispute between Greece and Turkey over sovereignty in the Aegean, where the two NATO members' jets regularly engage in dogfights. Turkey has taken in more than 2.5 million Syrian refugees, and is a major transit point for migrants from Asia and Africa. More than a million migrants and refugees reached Europe last year, many making the dangerous boat journey from Turkey to Greece by boat. So far this year, more than 340 have perished in the cold waters trying to reach Europe. cw/msh (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Ahmet Davutolgu",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Ahmet Davutolgu",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Ahmet Davutolgu",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Ahmet Davutolgu",
+      "Turkey",
+      "head_of_gov"
+    ],
+    [
+      "Ahmet Davutolgu",
+      "Turkish",
+      "head_of_gov-x"
+    ],
+    [
+      "Frontex",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "Frontex",
+      "Europe",
+      "part_of"
+    ]
+  ]
+}

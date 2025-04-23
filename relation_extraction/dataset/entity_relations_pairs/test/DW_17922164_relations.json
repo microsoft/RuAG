@@ -1,0 +1,90 @@
+{
+  "content": "Russia to create corporate aid fund, tapping pensions\nMoscow is planning to set up an emergency fund to help companies hit by sanctions imposed on Russian firms over the country's role in the Ukraine crisis. The money is to come from the Russian pensions system.\nRussian Finance Minister Anton Siluanov unveiled a plan Monday aimed at creating a \"multi-billion-dollar\" funding vehicle for companies hit by Western sanctions. Moscow-based news agency RIA quoted Siluanov as saying that the emergency fund would be set up next year with money originally earmarked for the State Pension Fund and leftover funds from this year's budget. According to RIA, Moscow was planning to devote \"at least 100 billion roubles\" (2 billion euros) to the fund, which will mainly be aimed at helping cash-starved Russian banks and key oil companies. \"These 100 billion roubles will be added to the reserve next year, which will allow us to help companies,\" RIA quoted Siluanov as saying. \"We are planning to create a reserve of significant size.\" Just last week, the European Union and the United States imposed a third round of sanctions on Moscow for Russia's involvement in the Ukraine conflict. The latest sanctions target the Russian banking sector as well as key energy firms and arms manufacturers. As one of several companies that have asked for government help, Russia's oil giant Rosneft said it would need 1.5 trillion roubles ($39.70 billion) in aid to keep exploring for oil. Siluanov also told RIA news agency that the decision to stop transferring money to the Pension Fund would hand the budget an extra 309 billion roubles. It will be the second year running that Moscow has stopped transfers of funds from the budget to the Pension Fund, which provides benefits for Russia's pensioners, some invalids and families who have lost their breadwinners. uhe/nz (Reuters, RIA)",
+  "relations": [
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Anton Siluanov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Anton Siluanov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Anton Siluanov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Anton Siluanov",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Anton Siluanov",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "RIA",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "RIA",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "RIA",
+      "Moscow",
+      "based_in2"
+    ],
+    [
+      "State Pension Fund",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "State Pension Fund",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "State Pension Fund",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "State Pension Fund",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Rosneft",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Rosneft",
+      "Russian",
+      "based_in0-x"
+    ]
+  ]
+}

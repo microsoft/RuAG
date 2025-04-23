@@ -1,0 +1,365 @@
+{
+  "content": "Bayern blast five as Schalke draw\nBayern Munich stamped their authority over the Bundesliga on Saturday, with a ruthless 5-0 drubbing of Hannover at home. Meanwhile, second-placed Schalke and third-placed Frankfurt were forced to share the points.\nWith many critics saying Bayern might as well be given the giant Bundesliga dish already, perhaps the struggle for second is shaping up to be the more compelling battle. But Saturday afternoon's clash between second-placed Schalke and third-placed Frankfurt did not take a decisive turn, with the game ending in a 1-1 draw. Schalke drew first blood in the 11th minute, when Frankfurt's Stefan Aigner was dispossessed in midfield, and Lewis Holtby released Klaas-Jan Huntelaar in front of goal - the Dutchman's first in the Bundesliga since September. But the hapless Aigner waited just over 100 seconds to make amends for his error, when the Royal Blues allowed him a free header that left goalkeeper Lars Unnerstall with no chance. But neither side could make inroads in the second half, which allowed Dortmund to leap-frog both sides and claim second place. Bayern take command Meanwhile the imperious Bayern Munich dispelled any talk of winter form-dip - following last week's draw to Nuremberg - with a brutally efficient 5-0 win at home to Hannover. The Bavarians stormed to a 3-0 lead in just 37 minutes, celebrating a nifty overhead kick for star signing Javi Martinez in the fourth minute. Toni Kroos and Franck Ribery scored the next two against a Hannover side that were torn open at will. The overhead kick was the first for the 40-million-euro ($52-million) signing Martinez, and in the second half new defender Dante also opened his account with a straightforward header from a Kroos free-kick. The festival of football continued just four minutes later, when Mario Gomez - making first Bundesliga appearance of the season - slammed the ball into the net from a tight angle just 30 seconds after replacing Mario Mandzukic. Dortmund win The champions Dortmund, meanwhile, are still nine points behind Bayern after beating Mainz 2-1 away. It was a potentially tricky fixture in the town where Jürgen Klopp began his coaching career, and Mainz showed their brilliance in the fourth minute, when Elkin Soto knocked a dream ball into the path of Marco Caligiuri, whose volley fairly screamed into the top right corner. Dortmund's own star-Marco - national team player Marco Reus - leveled the scores just eight minutes later. Reus worked himself some room at the outer edge of the penalty area, and slotted a beautiful 17-meter effort into the far corner. And Dortmund's second goal, just before half-time, was equally aesthetic - a vertical ball bisected the Mainz defense perfectly down the middle, where Polish predator Robert Lewandowski got his eighth league goal of the season with a deft lob over the onrushing Christian Wetklo in goal. Allofs' homecoming Bremen's 1-1 draw at Wolfsburg had a special frisson of its own, as Wolfsburg's newly-minted sporting director Klaus Allofs faced the club he had served as general manager for over a decade. And there was some gesticulating from the Bremen bench in the general direction of the Wolfsburg management when the guests took the lead in the 35th minute. Just seconds after Wolfsburg missed several chances, Marko Arnautovic was left free in the box after Eljero Elia found space on the left and cut the ball back for the Austrian to finish. But Wolfsburg got their own back in the second half. In the 62th minute, Bremen were reduced to ten men when Lukas Schmitz was given second yellow card for a hard tackle on Adelino Vieirinha. Just two minutes later, Bas Dost took advantage of their guests' disorgnaization and smashed the ball into the goal after neat piece of play from Vieirinha. Dirty derby The Franconian derby between Greuther Fürth and Nuremberg was a cagey affair that ended in a frustrating 0-0 draw. The first half was marked mainly by a straight red card for Nuremberg's Markus Feulner after an ugly, flying lunge on Stephan Fürstner. But the home side's numerical advantage was short-lived - Sercan Sararer was also sent for an early ice bath after his high elbow on Javier Pinola was adjudged worthy of a second yellow card in the 61st minute. But the aggression in the tackles was not matched by ruthlessness in front of goal, and neither side could eke out any clear chances.",
+  "relations": [
+    [
+      "Royal Blues",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Royal Blues",
+      "Frankfurt",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "Hannover",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "Nuremberg",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "Hannover",
+      "won_vs"
+    ],
+    [
+      "Hannover",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hannover",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Frankfurt",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Frankfurt",
+      "Royal Blues",
+      "vs"
+    ],
+    [
+      "Stefan Aigner",
+      "Frankfurt",
+      "member_of"
+    ],
+    [
+      "Stefan Aigner",
+      "Frankfurt",
+      "player_of"
+    ],
+    [
+      "Toni Kroos",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Toni Kroos",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Marco Reus",
+      "Dortmund",
+      "member_of"
+    ],
+    [
+      "Marco Reus",
+      "Dortmund",
+      "player_of"
+    ],
+    [
+      "Javi Martinez",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Javi Martinez",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Adelino Vieirinha",
+      "Wolfsburg",
+      "member_of"
+    ],
+    [
+      "Adelino Vieirinha",
+      "Wolfsburg",
+      "player_of"
+    ],
+    [
+      "Klaus Allofs",
+      "Wolfsburg",
+      "head_of"
+    ],
+    [
+      "Klaus Allofs",
+      "Wolfsburg",
+      "member_of"
+    ],
+    [
+      "Marco Caligiuri",
+      "Mainz",
+      "member_of"
+    ],
+    [
+      "Marco Caligiuri",
+      "Mainz",
+      "player_of"
+    ],
+    [
+      "Lewis Holtby",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Lewis Holtby",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Lars Unnerstall",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Lars Unnerstall",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Dortmund",
+      "Mainz",
+      "vs"
+    ],
+    [
+      "Nuremberg",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Nuremberg",
+      "Greuther Fürth",
+      "vs"
+    ],
+    [
+      "Franck Ribery",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Franck Ribery",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Dante",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Dante",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Mario Gomez",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Mario Gomez",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Mario Mandzukic",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Mario Mandzukic",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Mainz",
+      "Dortmund",
+      "vs"
+    ],
+    [
+      "Jürgen Klopp",
+      "Dortmund",
+      "coach_of"
+    ],
+    [
+      "Jürgen Klopp",
+      "Mainz",
+      "coach_of"
+    ],
+    [
+      "Jürgen Klopp",
+      "Dortmund",
+      "member_of"
+    ],
+    [
+      "Jürgen Klopp",
+      "Mainz",
+      "member_of"
+    ],
+    [
+      "Elkin Soto",
+      "Mainz",
+      "member_of"
+    ],
+    [
+      "Elkin Soto",
+      "Mainz",
+      "player_of"
+    ],
+    [
+      "Robert Lewandowski",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Robert Lewandowski",
+      "Dortmund",
+      "member_of"
+    ],
+    [
+      "Robert Lewandowski",
+      "Dortmund",
+      "player_of"
+    ],
+    [
+      "Christian Wetklo",
+      "Mainz",
+      "member_of"
+    ],
+    [
+      "Christian Wetklo",
+      "Mainz",
+      "player_of"
+    ],
+    [
+      "Bremen",
+      "Wolfsburg",
+      "vs"
+    ],
+    [
+      "Wolfsburg",
+      "Bremen",
+      "vs"
+    ],
+    [
+      "Marko Arnautovic",
+      "Bremen",
+      "member_of"
+    ],
+    [
+      "Marko Arnautovic",
+      "Bremen",
+      "player_of"
+    ],
+    [
+      "Eljero Elia",
+      "Bremen",
+      "member_of"
+    ],
+    [
+      "Eljero Elia",
+      "Bremen",
+      "player_of"
+    ],
+    [
+      "Lukas Schmitz",
+      "Bremen",
+      "member_of"
+    ],
+    [
+      "Lukas Schmitz",
+      "Bremen",
+      "player_of"
+    ],
+    [
+      "Bas Dost",
+      "Wolfsburg",
+      "member_of"
+    ],
+    [
+      "Bas Dost",
+      "Wolfsburg",
+      "player_of"
+    ],
+    [
+      "Greuther Fürth",
+      "Nuremberg",
+      "vs"
+    ],
+    [
+      "Markus Feulner",
+      "Nuremberg",
+      "member_of"
+    ],
+    [
+      "Markus Feulner",
+      "Nuremberg",
+      "player_of"
+    ],
+    [
+      "Stephan Fürstner",
+      "Greuther Fürth",
+      "member_of"
+    ],
+    [
+      "Stephan Fürstner",
+      "Greuther Fürth",
+      "player_of"
+    ],
+    [
+      "Sercan Sararer",
+      "Greuther Fürth",
+      "member_of"
+    ],
+    [
+      "Sercan Sararer",
+      "Greuther Fürth",
+      "player_of"
+    ],
+    [
+      "Javier Pinola",
+      "Nuremberg",
+      "member_of"
+    ],
+    [
+      "Javier Pinola",
+      "Nuremberg",
+      "player_of"
+    ]
+  ]
+}

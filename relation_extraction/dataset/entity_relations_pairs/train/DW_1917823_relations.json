@@ -1,0 +1,130 @@
+{
+  "content": "One Million Revelers Line Streets of Cologne for Carnival\nThe World Cup was the theme, but revelers also poked fun at the bird flu crisis as one million people took to the streets of Cologne on Monday for the biggest carnival of the season in Germany.\nThe Rose Monday parade is the high point of a week of festivities which sees Germans letting down their hair, donning silly costumes and consuming liberal quantities of sweets and beer. People braved freezing temperatures in Cologne to line the seven-kilometer (four-mile) route of the parade to catch a glimpse of the 96 floats which began rolling at the traditional time of 11:11 am. \"Carnival is part of life, like eating and drinking. You should never miss carnival, even if there is rain and snow,\" said Gisela Gehlen, 66, who was part of a group of women waiting to see their grandchildren on one of the floats. The nearby cities of Düsseldorf and Mainz also held carnival parades on Monday, attended by hundreds of thousands. No bird flu blues in Cologne In line with the generally irreverent atmosphere, some revelers in Cologne donned face masks and what appeared to be white chemical protection suits marked with the words \"I will survive H5N1\" to poke fun at the stringent measures introduced following the recent outbreak of bird flu in several German regions. One man dressed as a bird wore a notice saying \"I have been vaccinated\". With the World Cup kicking off in just over 100 days, many revelers wore football jerseys or black and white hats to resemble balls. Wolfram Teggen, a 46-year-old reveler from Cologne, went one step further, dressing in an oversized green tunic made to look like a soccer pitch. \"I am not even a football fan. I'll just be glad if Germany gets through the first round, but I don't think they'll reach the final,\" he said. Pure fun Sweets and chocolates rained down on the crowd from the floats, as marching bands played music that was upbeat if not always in tune. Carnival is a tradition stemming from Catholic regions in the west and south of Germany, but it is rapidly being adopted by cities in the north and east, such as in Berlin where half a million people gathered for a parade on Sunday. It is held before the Christian season of Lent, which starts on Wednesday.",
+  "relations": [
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Rose Monday",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Rose Monday",
+      "Cologne",
+      "event_in2"
+    ],
+    [
+      "Gisela Gehlen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gisela Gehlen",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Gisela Gehlen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Düsseldorf",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Düsseldorf",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Düsseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Mainz",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Mainz",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Mainz",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Wolfram Teggen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfram Teggen",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfram Teggen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Germany",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

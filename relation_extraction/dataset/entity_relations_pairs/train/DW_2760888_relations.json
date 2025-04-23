@@ -1,0 +1,70 @@
+{
+  "content": "German Tobacco Farmers Face Gloomy Future\nGermany's tobacco growers are in crisis mode. With EU subsidies due to stop in 2009, it's predicted the crop will die out. And given the current anti-smoking climate, there's not a lot of sympathy for the farmers.\nFarmer Markus Fischer is the fourth generation in his family to grow tobacco, and he'll probably be the last. About a sixth of his 150-hectare (370-acre) farm in the southern Palatinate region of Germany is currently dedicated to tobacco, the farm's main source of income. But Fischer isn't sure what the future holds. Tobacco is a highly subsided crop in Europe. Farmers earn around 1.20 euros ($1.64) per kilo, and the EU pays about two euros per kilo on top of that. As part of the EU's agricultural shake-up, these subsidies will be completely phased out by the end of 2009, which will probably mean the end for Germany's 450 tobacco growers. \"We can't cover our overheads without the subsidies,\" Fischer said. \"For the amount we're currently getting from the buyers, we won't be able to keep to producing.\" Examining other options Like other farmers in the region, Markus Fischer and his family have already started looking into alternatives. They have expanded their asparagus crop and started growing strawberries, although they will receive much less for these products. They have also built holiday houses on their land with the aim of establishing a farm-stay business. Fischer, however, still \"hopes to keep growing tobacco,\" because that is what he knows best. Around 10,000 tons of Virginia, Burley and Geudertheimer tobacco are harvested in Germany, Europe's fifth biggest tobacco producer (Italy sits in the number one spot). Most of Germany's tobacco farmers are based in the southwestern regions of Baden and Palatinate along the sunny Rhine plain stretching from Basel to Mainz. More than 400 years of history Tobacco has a long tradition in the Palatinate. The first recorded mention of the plant goes back to 1573, when a priest started cultivating it as a medicinal herb. Now, approximately 1,200 hectares of tobacco are grown in the region -- a third of Germany's total acreage dedicated to the crop. The plant has left an indelible mark on the area. Not only is the countryside dotted with tobacco fields and drying sheds, there are also frescos on houses depicting the harvest, tobacco sculptures, tobacco fountains, a tobacco museum and even a tobacco cycle path. \"If tobacco disappears, as it probably will if the situation doesn't change, then we will also loose a part of our cultural tradition in the Palatinate,\" said Jürg Bähr, the head of the German Tobacco Grower's Association. The association is lobbying hard for an extension of the subsidies until 2013 so that the tobacco farmers have more time to convert to other crops. There's no chance of the EU changing its payments scheme though -- the subsidy cut was agreed and signed off on back in 2004. The only chance for more money is from the federal government, but the current political climate isn't exactly supportive of tobacco. Smoking bans Federal bans on smoking in public transport, taxis, airports and government offices came into power in Germany on Sept. 1, while in August, three states introduced anti-smoking laws in schools, hospitals and most types of restaurants and bars. The other states are expected to follow suit by the end of the year. \"We all know that smoking is bad for your health, and so of course politicians have a difficult time standing up for tobacco as a product, especially at the federal level,\" Bähr said. \"But just because the growers aren't there anymore doesn't mean people will smoke less.\" Europe already imports 95 percent of its tobacco from outside its borders. According to Bähr, when the European crop collapses, cigarette manufacturers will just import the extra 5 percent from elsewhere. \"Then people will be yelling again: 'The rain forest in Brazil is being felled for tobacco, we can't have that,' and 'children are being exploited in the fields working in Africa and India,'\" he said. \"We don't have any of that here in Germany.\"",
+  "relations": [
+    [
+      "Markus Fischer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Markus Fischer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "German Tobacco Grower's Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Tobacco Grower's Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jürg Bähr",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jürg Bähr",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jürg Bähr",
+      "German Tobacco Grower's Association",
+      "head_of"
+    ],
+    [
+      "Jürg Bähr",
+      "German Tobacco Grower's Association",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Basel",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Basel",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Mainz",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Mainz",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "content": "Sri Lanka launches new port in Hambantota\nThe port on the southern coast is part of the Sri Lankan president's plan to transform his country into a major trading hub and rebuild the infrastructure after 25 years of civil war. It has been built with China's help.\nAs the new harbor in the southern city of Hambantota was flooded with sea water, President Mahinda Rajapaksa promised it would provide the basis of Sri Lanka's future prosperity. \"The maritime and naval economy built up through this port will lead to industries requiring new and varied skills, professional services, banking and financial institutions, and will open new paths to take our produce to the world outside. This is a free port,\" he said. The port has been constructed at a cost of $360 million (280 million euros) and over 85 percent of this was loaned by the Export-Import Bank of China. China Harbour Engineering, which is part of a state-owned company, has been doing the building. \"Our country was situated on the route between China and southern Europe. The offer by China to build this port on the old Silk Route reminds us again of our traditional friendship. I offer my heartfelt gratitude,\" President Rajapaksa said solemnly on Monday. Chinese interest is beneficial to Sri Lanka The president has said that he originally asked Indian officials to help with the project but they rejected it. China apparently then offered the best terms of all the bidders. \"China has funded and developed this port and it is of great strategic interest to China to develop some sort of a foothold within Sri Lanka,\" said Charu Lata Hogg from Chatham House in London. \"The Chinese economic interest is extremely beneficial to Sri Lanka because it takes away the pressure on Sri Lanka from being reliant either on the West or India.\" How worrisome is the port for India? Some security experts in India have expressed their fear that China's involvement is part of its String of Pearls strategy to build a network of ports across the Indian Ocean. Charu Lata Hogg argued that India did have reason to be concerned but said it was \"hard to pinpoint how worrisome it is for India, partly because of its expansive role, not only as far as the sub-region is concerned but globally.\" However, she added, \"it does matter to India because it tests its influence within the region. As we saw in May 2009, in the last days of the conflict, it was essentially Chinese help in terms of arms supplies that helped Sri Lanka win the war against the Tamil Tigers. Given that scenario, Sri Lanka's economic and political reliance on India has decreased.\" But Hogg also pointed out that the economic and strategic partnership Colombo and Beijing currently enjoyed was offset by the \"cultural influence\" India felt it had on Sri Lanka. 2,500 ships a year initially Officials said that the new port would start handling ships from November onwards. It will provide refueling services for ships using sea lanes nearby. The new harbor has been designed to initially handle 2,500 ships a year to take off some of the pressure from the country's only port in Colombo, which handles some 6,000 ships annually. At the end of the three phases, it is expected to be able to deal with 7,000 ships. Author: Anne Thomas Editor: Disha Uppal",
+  "relations": [
+    [
+      "Mahinda Rajapaksa",
+      "Sri Lanka",
+      "agent_of"
+    ],
+    [
+      "Mahinda Rajapaksa",
+      "Sri Lanka",
+      "citizen_of"
+    ],
+    [
+      "Mahinda Rajapaksa",
+      "Sri Lankan",
+      "citizen_of-x"
+    ],
+    [
+      "Mahinda Rajapaksa",
+      "Sri Lanka",
+      "head_of_state"
+    ],
+    [
+      "Mahinda Rajapaksa",
+      "Sri Lankan",
+      "head_of_state-x"
+    ],
+    [
+      "Hambantota",
+      "Sri Lanka",
+      "in0"
+    ],
+    [
+      "Hambantota",
+      "Sri Lankan",
+      "in0-x"
+    ],
+    [
+      "Charu Lata Hogg",
+      "Chatham House",
+      "member_of"
+    ],
+    [
+      "Sri Lankan",
+      "Sri Lanka",
+      "gpe0"
+    ],
+    [
+      "Export-Import Bank of China",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Export-Import Bank of China",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "China Harbour Engineering",
+      "China",
+      "based_in0"
+    ],
+    [
+      "China Harbour Engineering",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Chatham House",
+      "London",
+      "based_in2"
+    ],
+    [
+      "Tamil Tigers",
+      "Sri Lanka",
+      "based_in0"
+    ],
+    [
+      "Tamil Tigers",
+      "Sri Lankan",
+      "based_in0-x"
+    ],
+    [
+      "Colombo",
+      "Sri Lanka",
+      "in0"
+    ],
+    [
+      "Colombo",
+      "Sri Lankan",
+      "in0-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ]
+  ]
+}

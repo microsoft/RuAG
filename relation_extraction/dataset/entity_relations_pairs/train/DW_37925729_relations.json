@@ -1,0 +1,70 @@
+{
+  "content": "Cologne public library redefines its role through new refugee project\nIs a library only a storehouse of books for visitors to borrow and read? Not for Cologne. The city library's mission is to facilitate networks of knowledge and information between residents and newcomers - the refugees.\nOn a sunny day, Neumarkt, Cologne's popular commercial district, is abuzz with shoppers. Slightly off the main road, a quiet street lined with small restaurants and grocery shops leads to the city's public library - a solid concrete-and-glass structure. The words \"Zentralbibliothek\" at the entrance door announce the location. Past the entrance hall and reading areas, a big steel door leads to the library's offices, where diligent librarians stamp, classify and line up books to be taken back to their shelves. But the library is much more than endless rows of shelves filled with books for the word-hungry. \"A library is a consumerism-free space,\" says Hannelore Vogt, director of the Cologne Public Library. \"You can be here without having to consume anything. What I mean is, if you go anywhere in the city, to a cafe or if you want to meet anyone, you need to spend money. And people perceive a library as a place where you simply go to and that is what is important for us,\" she adds. The 'Sprachraum' as a meeting place This was the basic idea that gave birth to the \"Sprachraum\" - literally, the language room - at the library. The project began in 2015, shortly before Germany experienced a massive influx of refugees who arrived in Munich in September that year. \"We began receiving queries from people who wanted to know if we had space for organizing events, voluntary activities and for teaching German. Many of these were official requests, but we had several people who said they wanted to volunteer for such activities,\" Vogt said. Vogt and her employees then decided to open the \"Sprachraum\" in a separate building, a minute's walk away from the main library. The room was furnished with tables and chairs, books for learning German, a projector and whiteboards and a comfortable seating area with a couch and a coffee machine. Now, around 15 teams use the room in the morning for their courses and 55 volunteers come by in the afternoons to help migrants learn German or other subjects. \"Volunteers engage with refugees in different ways,\" says Carolin Köhnen, head of the literature section in the library. \"Many of them help in organizing events that take place in the Sprachraum,\" she adds, showing a brochure which announces events and meetings planned for the week. \"We also decided to organize game meetings on one Saturday every month, because we thought that even if there were problems speaking the language, people would still have fun playing.\" Other workshops in the Sprachraum include courses in writing for everyday communication and a conversation club that decides on a topic each week. \"Last week we discussed the concept of respect. We also compared holidays in Germany with those in the countries of origin of the migrants.\" According to Köhnen, many people attend the same events again and again, but others prefer to just sit and listen. Contrary to expectation, the Sprachraum's administrators have not faced any big problems until now. \"We never had a problem in the Sprachraum where we had to call the security or something similar,\" says Carolin Köhnen, adding that the biggest challenge has been to find enough tables and chairs when there were too many participants. Connecting old residents with newcomers Meanwhile, Cologne's newest residents are warm up to the idea of having a space to meet new people -other than their designated shelters. On a weekday afternoon, Abdullah, from the town of Afrin in Syria, has come down to the Sprachraum to get help with his language. He arrived in Germany five months ago and is trying to get a language certificate that will let him enrol in a professional course. After a few moments of hesitation, he agrees to chat. \"I am 35 years old and unmarried. I am a tailor by profession and my hobbies include music,\" he rattles off in short sentences in his newly-acquired German. \"The Sprachraum was a coincidence. I was out for a walk and saw a poster and came here last week,\" he says. Since his first visit, Abdullah has been regularly coming to the library to practise spoken and written German. \"I have met new people here and am happy. I am really satisfied,\" Abdullah says. Another refugee, El Mehdi from Algeria, is sitting at a table with a volunteer and struggling to make sense of German sentence structures - so different from his native languages, French and Arabic. El Mehdi came to know about the initiative from a friend and visited the place frequently. \"I came here a lot last month, but now I am not here very often because I have to go to work,\" he says during a break from his German lessons. El Mehdi's teacher for today, Charlotte Starke, is used to working with refugees. She is a German teacher by profession and comes to the Sprachraum once a week. \"I have worked with refugees before and am a language teacher. I am helping people here because I think it is a good thing to do,\" she says. The library has 55 volunteers who take turns to come and help migrants with German language lessons and participate in discussions with them. Starke and dozens of other volunteers have helped made Cologne library's Sprachraum a success and the project seems to be gathering more and more followers. For Director Hannelore Vogt, this is a prime example of how the library fulfils its role in the city. \"We as a library see our role in providing the space, the media and the infrastructure, and we get things rolling,\" she says. Ultimately, the library connects people with one another, but the actual task is carried out by Cologne's residents for their newer counterparts - the refugees who will inhabit the city, she adds.",
+  "relations": [
+    [
+      "Carolin Köhnen",
+      "Cologne Public Library",
+      "head_of"
+    ],
+    [
+      "Carolin Köhnen",
+      "Cologne Public Library",
+      "member_of"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Neumarkt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Neumarkt",
+      "Cologne",
+      "in2"
+    ],
+    [
+      "Zentralbibliothek",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hannelore Vogt",
+      "Cologne Public Library",
+      "head_of"
+    ],
+    [
+      "Hannelore Vogt",
+      "Cologne Public Library",
+      "member_of"
+    ],
+    [
+      "Cologne Public Library",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Abdullah",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Afrin",
+      "Syria",
+      "in0"
+    ],
+    [
+      "El Mehdi",
+      "Algeria",
+      "citizen_of"
+    ]
+  ]
+}

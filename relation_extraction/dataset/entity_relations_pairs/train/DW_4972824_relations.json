@@ -1,0 +1,55 @@
+{
+  "content": "Fake medicines inundate EU market\nThe EU's outgoing industry commissioner warns that the bloc has been swamped by spurious pharmaceutical products. Guenter Verheugen is calling for steps that will criminalize offenses and protect potential victims.\nThe Industry Commissioner said in an interview published in the German daily Die Welt on Monday that the trade in counterfeit medicines in the European Union had exceeded the body's worst fears. Guenter Verheugen said the EU had seized fake tablets worth millions within a short period of time. \"In just two months, the EU seized 34 million fake tablets at customs points in all member countries. This exceeded our worst fears,\" he said. He told Die Welt that antibiotics, cancer treatments and Viagra were among the counterfeit medicines. Other fake drugs seized included anti-malaria medicines, analgesics and anti-cholesterol treatments. Verheugen is Germany's commissioner to the European Union and will hold the portfolio until commissioner-designate Antonio Tajani of Italy is approved and takes office early next year. Verheugen said the European Commission, the bloc's executive arm, was very concerned about the situation, adding that he expected the EU to take action to fight the menace of fake pharmaceutical products. \"The number of counterfeit medicines arriving in Europe ... is constantly growing. The European Commission is extremely worried,\" Die Welt quoted Verheugen as saying. An EU report in July said that many of the fake pharmaceuticals seized in 2008 came from India. Call to criminalize Verheugen said counterfeiting drugs should be treated as a serious crime and punished severely. \"Every faked drug is a potential massacre,” he said, adding: \"Even when a medicine only contains an ineffective substance, this can lead to people dying because they think they are fighting their illness with a real drug.\" The outgoing EU commissioner expressed optimism that there would be progress in tackling the problem of fake medicines in the coming year. \"I expect the EU will agree in 2010 that a drug's journey from manufacture to sale should be scrutinized carefully. There will also be anti-counterfeit markings on packaging – in particular a barcode and seal, to show clearly if a package has been opened,\" he said. In June, EU health ministers gave a warm reception to a legal proposal aimed at stopping fake drugs entering the legal supply chain. The plan included stepped-up security measures on packaging, including barcodes, seals and holograms, as well as tighter controls on suppliers. Some analysts have welcomed the proposal, saying it could help to better regulate distributors. rb/AFP/AP/dpa Editor: Kyle James",
+  "relations": [
+    [
+      "Guenter Verheugen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guenter Verheugen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guenter Verheugen",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Die Welt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Die Welt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Antonio Tajani",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Antonio Tajani",
+      "European Union",
+      "member_of"
+    ]
+  ]
+}

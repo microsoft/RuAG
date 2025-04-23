@@ -1,0 +1,95 @@
+{
+  "content": "Christopher Springate\n\nBorn in: Hong Kong Languages: English, German, French, Portuguese, Spanish, conversational Italian Degrees/Journalistic experience: M.A. in Modern and Mediaeval Languages (St Catharine´s College, Cambridge) Diploma in Periodical Journalism, Grad. Centre for Journalism (City University, London) Diploma in European Journalism (Centre de Formation des Journalistes, Paris) I worked for DW, BBC World Service, Guardian, Independent, New Statesman etc. With DW since: 1992 Favorite quotes: “Ask not what your country can do for you, ask what you can do for your country.” (Former US President John F. Kennedy) “Politicians are the same all over. They promise to build bridges even when there are no rivers.” (Former Soviet Premier, Nikita Kruschev) My personal hero: Nelson Mandela What do I strive to be as a journalist? I have three ideals as a journalist: First of all, I strive to be as independent as possible. I have never been a member of a political party, and never will be. For me, membership of a political party is incompatible with independent journalism. I believe fervently in public service journalism as one of the few sources of independent information in a world full of vested interests. As a journalist, I want to deliver information that is independent of political, economic and cultural influence. Secondly, I strive to be as impartial as possible. This involves reporting on as many sides of the story as possible. There are almost always several perspectives on a story. It is our job as journalists to portray as many of these perspectives as possible and give a full picture of events and issues. It is then up to our audience to make up their own mind. In my view, in mass media such as radio and TV, we journalists should never tell you what to think. And thirdly, I strongly believe in our mission to explain. As journalists, it is our job to put events in a context, to make it easy for our audience to understand what is at stake. With our planet becoming ever more sophisticated and complex, this is a constant challenge. But then … what would life be without challenges, right? 7 trips I must make before I die: 1. The Kavango-Zambezi Trans-Frontier Conservation Area in southern Africa 2. The entire coastline of Mozambique, from Maputo in the south to Ibo in the north 3. The rainbow nation of South Africa, from east to west and then from north to south 4. The Okavango Delta in Botswana, when the water arrives and the animals migrate there 5. North-eastern Brazil, following the footsteps of Walter Salles´ film, “Central Station” 6. The underbelly of the southern US, in a quest for the soul/music of that region 7. Latin America, from coast to coast and from head to toe",
+  "relations": [
+    [
+      "Christopher Springate",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Christopher Springate",
+      "BBC World Service",
+      "member_of"
+    ],
+    [
+      "Christopher Springate",
+      "Guardian",
+      "member_of"
+    ],
+    [
+      "Christopher Springate",
+      "Independent",
+      "member_of"
+    ],
+    [
+      "Christopher Springate",
+      "New Statesman",
+      "member_of"
+    ],
+    [
+      "St Catharine´s College",
+      "US",
+      "based_in0"
+    ],
+    [
+      "St Catharine´s College",
+      "Cambridge",
+      "based_in2"
+    ],
+    [
+      "Cambridge",
+      "US",
+      "in0"
+    ],
+    [
+      "City University",
+      "London",
+      "based_in2"
+    ],
+    [
+      "Centre de Formation des Journalistes",
+      "Paris",
+      "based_in2"
+    ],
+    [
+      "John F. Kennedy",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John F. Kennedy",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John F. Kennedy",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Nikita Kruschev",
+      "Soviet",
+      "head_of_gov-x"
+    ],
+    [
+      "Maputo",
+      "Mozambique",
+      "in0"
+    ],
+    [
+      "Ibo",
+      "Mozambique",
+      "in0"
+    ],
+    [
+      "Okavango Delta",
+      "Botswana",
+      "in0"
+    ],
+    [
+      "Central Station",
+      "Walter Salles",
+      "created_by"
+    ]
+  ]
+}

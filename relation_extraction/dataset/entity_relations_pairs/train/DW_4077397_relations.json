@@ -1,0 +1,270 @@
+{
+  "content": "EU Signs Pirate Deal With Kenya\nThe EU has signed an agreement with Kenya that provides for the handover of pirates seized by the German Navy off the coast of Somalia -- but no decision has been made whether the pirates would be transferred to Kenya.\nThe agreement was signed in Nairobi on Friday, March 6, by Kenyan Foreign Minister Moses Wetang'ula and the Czech ambassador to Kenya, said a Foreign Office spokesman. The Czech Republic holds the rotating presidency of the EU. The pirates are on board the German frigate Rheinland Pfalz, which apprehended them on Tuesday when they attacked a German merchant vessel off Somalia with anti-tank missiles and firearms. The frigate is part of the EU's anti-piracy mission Atalanta in the Gulf of Aden, which Germany joined in December. The foreign office spokesman said no decision had been made whether the nine pirates captured by the German Navy would be transferred to Kenya. Exploring unchartered territory First, independent prosecutors in Hamburg need to decide whether the men should face trial in Germany. The German navy has given them all its evidence, and it is now up to them to say whether German interests were at stake during the attack. A specially convened commission, representing Germany's Interior, Foreign, Defence and Justice ministries, met this week to discuss the legal status of the pirates -- hitherto unchartered legal territory. The Hamburg court, which is responsible for maritime legal issues, will provide Berlin with more time to decide on what to do with the alleged pirates. A spokesperson for the court has already said that the decision to open the probe meant in no way that the nine men would be brought to Germany for processing. \"The government is studying in-depth whether the suspected pirates could, if necessary, be handed over to a third country for prosecution,\" the government said Thursday in a statement. This is the first time in Germany's modern history that its navy has made any apprehensions at sea. One possible destination for the nine men could be Kenya, which on Thursday received seven suspected Somali pirates captured Feb. 11 by the US guided-missile cruiser Vella Gul. The seven men will face prosecution under a bilateral pact between the US and Kenya. Prosecution uncertain The German Navy frigate Rheinland-Pfalz took part Tuesday in a dramatic rescue after the nine Somalis, allegedly armed with anti-tank rocket launchers and firearms, were said to have attacked a German merchant vessel off the Somali coast. The MV Courier, owned by a Bremen-based shipping company, had been sailing under an Antigua and Barbuda flag. No German nationals were on board. The Interior Ministry said Wednesday that there were no grounds for a German prosecution of the captured men, because no German interests were judged to have been endangered in the attack. Germany currently has no agreement with third-party countries under which captured pirates could be prosecuted. Under European law, which applies to the German naval mission, pirates can be held for up to 12 days. The men are to stay on board the Rheinland-Pfalz until a decision is reached. In 2008, pirates seized more than 200 ships off the Somali coast, demanding millions of dollars in ransom.",
+  "relations": [
+    [
+      "Rheinland Pfalz",
+      "German Navy",
+      "artifact_of"
+    ],
+    [
+      "Moses Wetang'ula",
+      "Kenya",
+      "agent_of"
+    ],
+    [
+      "Moses Wetang'ula",
+      "Kenya",
+      "citizen_of"
+    ],
+    [
+      "Moses Wetang'ula",
+      "Kenyan",
+      "citizen_of-x"
+    ],
+    [
+      "Moses Wetang'ula",
+      "Kenya",
+      "minister_of"
+    ],
+    [
+      "Moses Wetang'ula",
+      "Kenyan",
+      "minister_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Interior Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Interior Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Foreign Office",
+      "Kenya",
+      "agency_of"
+    ],
+    [
+      "Foreign Office",
+      "Kenyan",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Office",
+      "Kenya",
+      "based_in0"
+    ],
+    [
+      "Foreign Office",
+      "Kenyan",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Office",
+      "Kenya",
+      "ministry_of"
+    ],
+    [
+      "German Navy",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Navy",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Navy",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Navy",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Nairobi",
+      "Kenya",
+      "in0"
+    ],
+    [
+      "Nairobi",
+      "Kenyan",
+      "in0-x"
+    ],
+    [
+      "Kenyan",
+      "Kenya",
+      "gpe0"
+    ],
+    [
+      "Czech",
+      "Czech Republic",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Foreign",
+      "Kenya",
+      "agency_of"
+    ],
+    [
+      "Foreign",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Foreign",
+      "Kenyan",
+      "agency_of-x"
+    ],
+    [
+      "Foreign",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Foreign",
+      "Kenya",
+      "based_in0"
+    ],
+    [
+      "Foreign",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Foreign",
+      "Kenyan",
+      "based_in0-x"
+    ],
+    [
+      "Foreign",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Foreign",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Defence",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Defence",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Defence",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Defence",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Defence",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Justice",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Justice",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Justice",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Justice",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Justice",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Somali",
+      "Somalia",
+      "gpe0"
+    ],
+    [
+      "Vella Gul",
+      "US",
+      "artifact_of"
+    ],
+    [
+      "Somalis",
+      "Somalia",
+      "gpe0"
+    ],
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

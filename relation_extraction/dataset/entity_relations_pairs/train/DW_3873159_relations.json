@@ -1,0 +1,110 @@
+{
+  "content": "Amos Oz Receives German Literary Prize in Dusseldorf\nIsraeli author Amos Oz was presented with a top German award for his political and literary work on Saturday, Dec. 13.\nOz, 69, was honored by the city of Dusseldorf with the Heinrich Heine Prize on the 211st anniversary of the 19th century German poet's birth. The award, worth 50,000 euros ($66,000), has been presented every two years since 1972 to personalities who share Heine's values of tolerance, human rights and mutual understanding of peoples. The jury said it chose to honor Oz for his \"literary quality, political sensibility, his humanitarian engagement and his bold clarity and determination in trying to build bridges between Israelis and Palestinians.\" Oz, who was born in Jerusalem in 1939, is one of Israel's best-known authors and political voices. He is a co-founder of the Israeli peace movement and a prominent champion of Palestinian rights. In his acceptance speech, Oz said the Arab-Israeli conflict could only be resolved in the context of European values of tolerance, rationality and pragmatism. However, it \"is being kept alive by fanatics on both sides.\" Having fought in the Six-Day War and Yom Kippur War, Oz has said he does not regret his participation. But in his acceptance speech, he added that he has always drawn \"a very clear line between wars that deal with survival and wars that deal with interests.\" Last month, Oz joined other Israeli intellectuals and dovish politicians to establish a new political party that aims to unite the Israeli peace camp. A former professor of literature at Ben-Gurion University, he won the Israel Prize for literature in 1998, the Goethe Prize in 2005 and Spain's Prince of Asturias Prize in 2007. Among his best known works are \"A Tale of Love and Darkness,\" which appeared in 2003, \"Don't Call It Night,\" published in 1994, and \"Rhyming Life and Death,\" from 2007.",
+  "relations": [
+    [
+      "Amos Oz",
+      "German Literary Prize",
+      "award_received"
+    ],
+    [
+      "Amos Oz",
+      "Israel Prize",
+      "award_received"
+    ],
+    [
+      "Amos Oz",
+      "Goethe Prize",
+      "award_received"
+    ],
+    [
+      "Amos Oz",
+      "Prince of Asturias Prize",
+      "award_received"
+    ],
+    [
+      "Amos Oz",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Amos Oz",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Amos Oz",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Amos Oz",
+      "Ben-Gurion University",
+      "member_of"
+    ],
+    [
+      "Dusseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Israelis",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Jerusalem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jerusalem",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Jerusalem",
+      "Israelis",
+      "in0-x"
+    ],
+    [
+      "Ben-Gurion University",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Ben-Gurion University",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "Ben-Gurion University",
+      "Israelis",
+      "based_in0-x"
+    ],
+    [
+      "Prince of Asturias Prize",
+      "Spain",
+      "event_in0"
+    ],
+    [
+      "A Tale of Love and Darkness",
+      "Amos Oz",
+      "created_by"
+    ],
+    [
+      "Don't Call It Night",
+      "Amos Oz",
+      "created_by"
+    ],
+    [
+      "Rhyming Life and Death",
+      "Amos Oz",
+      "created_by"
+    ]
+  ]
+}

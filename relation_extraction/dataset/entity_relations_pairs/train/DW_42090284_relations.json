@@ -1,0 +1,235 @@
+{
+  "content": "Spielberg's 'The Post': How 1970s politics resonate with today's era of 'fake news' \nEven though its narrative deals with the Pentagon Papers, which revealed secret details of US actions during the Vietnam War, the 1970s scandal serves as an allegory of the current political climate.\nWhen the Pentagon Papers were leaked in the summer of 1971, the information they contained shook American society. The papers were historical records of the Vietnam War which had been prepared under Secretary of Defense Robert McNamara since 1967; The New York Times and The Washington Post published parts of these top-secret documents, thereby revealing the full extent of military and political involvement of the US army and government in Vietnam from 1945 to 1967. They demonstrated, for instance, how the US secretly performed coastal raids in Northern Vietnam and extensive bombings of nearby Cambodia and Laos. Another distorted event was the so-called Gulf of Tonkin incident from 1964. The US government had claimed at first that North Vietnamese torpedo boats had fired on a US ship, and that the whole American nation was under an imminent communist threat. In the wake of the event, the US increased the number of soldiers in the area. But the Pentagon Papers revealed that it was actually the American ship, the USS Maddox, which had shot first. All of this had been kept secret from the public, which received a very different image of the conflict through the media. Read more: Washington Post 'Watergate' editor Ben Bradlee dies, aged 93 From Nixon to Trump Steven Spielberg's latest movie \"The Post,\" which stars Tom Hanks and Meryl Streep, dramatizes the events leading to the publication of the documents, and their aftermath. The plot revolves around the timeless themes of freedom of the press and the judiciary system; it is easy to see a parallel between the 1970s scandal and the current events surrounding US President Donald Trump. After all, Spielberg himself said in numerous interviews that \"The allegory is obvious.\" He pointed more directly to the parallels between then and now in an interview with the Austrian magazine Kurier, saying, \"Nixon did not stick to the truth as much as it deserved it. Doesn't it remind you of someone?\" Read more: Spielberg's 'The Post': a cautionary tale of press freedom Spielberg: 'It's a patriotic film' According to the director's own words, \"The Post\" is a \"patriotic film.\" He noted, however, that he did not shoot the movie due to his affiliation with the Democratic party, but simply because he believes in journalism. \"It is an antidote to 'fake news.' Those journalists in the movie are true heroes,\" he added. Richard Nixon's government had tried to prevent the publication of the Papers and even appealed for support to a federal court, where he initially succeeded: After three reports, the New York Times was forced to cease further publication of the remaining stories. But just a few days later, the Washington Post resumed with its own series of excerpts. The Papers were eventually released when a proponent of the publication, US Senator Mike Gravel, entered the documents into an unrelated subcommittee of his. The US Supreme Court then ruled that public interest and freedom of the press has more weight than the secrecy of state interests. All this is strikingly reminiscent of the current political situation, in particular the inquiry surrounding Trump's administration's ties to Russia. Read more: Donald Trump allies say special counsel 'unlawfully' obtained thousands of emails Tom Hanks and Meryl Streep co-star for the first time Starring Meryl Streep and Tom Hanks in the lead roles of a newspaper editor and a journalist, \"The Post\" has already received a lot of attention even before its premiere. The film has been already honored at the National Board of Review Gala when it received the prizes for best film. Meryl Streep and Tom Hanks both won in their respective categories too. At the Golden Globes, the latest Spielberg's opus, however, left the ceremony empty-handed. Its chances for an Oscar are not bad; as special counsel Robert Mueller plans to interview President Trump in his Russian inquiry, parallels with the events depicted in \"The Post\" are still developing. \"The Post\" hits US cinemas on January 12 and will premiere in most European countries throughout January and February",
+  "relations": [
+    [
+      "The Washington Post",
+      "US",
+      "based_in0"
+    ],
+    [
+      "The Washington Post",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Vietnam War",
+      "Vietnam",
+      "event_in0"
+    ],
+    [
+      "The Post",
+      "Steven Spielberg",
+      "created_by"
+    ],
+    [
+      "The Post",
+      "Steven Spielberg",
+      "directed_by"
+    ],
+    [
+      "The Post",
+      "Steven Spielberg",
+      "directed_by"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Donald Trump",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Richard Nixon",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Richard Nixon",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Richard Nixon",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Richard Nixon",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Richard Nixon",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Robert McNamara",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Robert McNamara",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Robert McNamara",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Robert McNamara",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Robert McNamara",
+      "American",
+      "minister_of-x"
+    ],
+    [
+      "New York Times",
+      "US",
+      "based_in0"
+    ],
+    [
+      "New York Times",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Northern Vietnam",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Ben Bradlee",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Ben Bradlee",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Ben Bradlee",
+      "The Washington Post",
+      "member_of"
+    ],
+    [
+      "Tom Hanks",
+      "Golden Globes",
+      "award_received"
+    ],
+    [
+      "Tom Hanks",
+      "The Post",
+      "plays_in"
+    ],
+    [
+      "Meryl Streep",
+      "Golden Globes",
+      "award_received"
+    ],
+    [
+      "Meryl Streep",
+      "The Post",
+      "plays_in"
+    ],
+    [
+      "Kurier",
+      "Austrian",
+      "based_in0-x"
+    ],
+    [
+      "Democratic party",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Democratic party",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Mike Gravel",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Mike Gravel",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Mike Gravel",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Mike Gravel",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "US Supreme Court",
+      "US",
+      "agency_of"
+    ],
+    [
+      "US Supreme Court",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "US Supreme Court",
+      "US",
+      "based_in0"
+    ],
+    [
+      "US Supreme Court",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Robert Mueller",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Robert Mueller",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ]
+  ]
+}

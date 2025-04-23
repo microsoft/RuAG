@@ -1,0 +1,190 @@
+{
+  "content": "Turkey summons German envoy for second time in two days\nAnkara has summoned Germany's ambassador for the second time in as many days with tensions between the two countries showing no sign of ending. It is the 17th time Berlin's envoy has been summoned in two years.\nGermany's ambassador to Ankara was called in to Turkey's Foreign Ministry on Monday just 48 hours after responding to a previous summons over the weekend, German officials said. German Foreign Office spokesman Martin Schäfer confirmed the summons, but did not elaborate on what the reason was. The spokesman noted, however, that it was the 17th time Ambassador Martin Erdmann had received such an order since he began his tenure as Berlin's envoy to Ankara in 2015. Read more: Can Merkel push the EU toward a new Turkey policy? Schäfer noted that the number of summonses that Erdmann had received was \"very unusual\" between \"partners within NATO.\" German news magazine Der Spiegel reported that Erdmann was summoned over a German parliamentary motion last year that declared the 1915 massacre of Armenians by Ottoman forces as a genocide. Turkey has long fiercely rejected the term. Read more: Turkey: Is Germany Recep Tayyip Erdogan's 'best enemy?' Summons over Kurdish rally Erdmann was previously summoned on Saturday over a Kurdish festival that was held in the western German city of Cologne. The slogan of the festival referred to Abdullah Oclan, the jailed leader of the Kurdistan Workers' Party (PKK) which has been designated as a terrorist group in the European Union and Turkey. Turkey's Foreign Ministry said on Saturday that the country's condemnation of the Cologne event was relayed to the German ambassador. Summoning an ambassador is one of the harshest diplomatic protest measures a country can order. Germany's Foreign Office has also summoned Turkey's ambassador multiple times – most recently over Turkey's imprisonment of human rights activist Peter Steudtner. Relations between the two countries plummeted after a series of diplomatic crises that followed last year's failed attempt to overthrow President Recep Tayyip Erdogan. Berlin has strongly criticized Ankara's post-coup crackdown that has seen over 50,000 people arrested. rs/kl (AFP, dpa)",
+  "relations": [
+    [
+      "Martin Erdmann",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Martin Erdmann",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Martin Erdmann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Martin Erdmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Kurdistan Workers' Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Martin Schäfer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Martin Schäfer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Martin Schäfer",
+      "Foreign Office",
+      "member_of"
+    ],
+    [
+      "Martin Schäfer",
+      "Foreign Office",
+      "spokesperson_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Turkey",
+      "agency_of"
+    ],
+    [
+      "Foreign Ministry",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "Turkey",
+      "ministry_of"
+    ],
+    [
+      "Foreign Office",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Foreign Office",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Office",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Foreign Office",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Office",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Der Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Abdullah Oclan",
+      "Kurdistan Workers' Party",
+      "head_of"
+    ],
+    [
+      "Abdullah Oclan",
+      "Kurdistan Workers' Party",
+      "member_of"
+    ],
+    [
+      "Peter Steudtner",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peter Steudtner",
+      "German",
+      "citizen_of-x"
+    ]
+  ]
+}

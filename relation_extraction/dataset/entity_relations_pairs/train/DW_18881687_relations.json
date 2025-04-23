@@ -1,0 +1,155 @@
+{
+  "content": "Top Kurdish rights defender in Turkey shot and killed\nA prominent Kurdish lawyer and human rights defender has been killed in Turkey after making a pro-peace press statement in the city of Diyarbakir. It is unclear who was behind the attack.\nTahir Elci, the head of the Diyarbakir Bar Association, was shot in the head on Saturday after delivering a press statement with other lawyers and activists condemning violence in the region. A critic of both the government and Kurdish militants, Elci had minutes before delivered a speech calling for the end of the fighting between the Kurdistan Workers' Party (PKK) and the Turkish state. Some of his last words were: \"We don't want guns, clashes and military operations in our region.\" Turkey's largely Kurdish southeast has been wracked by violence since a ceasefire and peace process between the state and the PKK broke down in July. Pro-PKK youth groups have erected barricades in cities and neighborhoods across the region, prompting harsh security crackdowns and curfews. Several hundred soldiers, PKK fighters and civilians have been killed in the renewed fighting. A video released by Turkey's DHA news agency shows police returning gunfire down a small street from unknown assailants after Elci and others had delivered a pro-peace message near a local mosque that had been damaged in prior clashes. Police then turned around to where Elci was and fired multiple rounds in that direction. The video shows his body laying facedown on the ground. A policeman was also killed and several people wounded. The governor of Diyarbakir has called a curfew in expectation there will be widespread protests against Elci's death. It was not immediately clear who was behind the attack, but Turkish media outlets citing witnesses reported that the assailant had a beard. Turkish media reported that after firing one shot to Elci's head the assailant fled. Investigators at the scene were later fired upon, wounding two police officers. Speculation of who is behind the attack will be rife, with different sides already blaming the PKK, the Turkish state and Islamists. The Diyarbakir Bar Association on Twitter claimed it was an assassination. State media Anadolu Ajansi suggested the PKK carried out the attack. President Recep Tayyip Erdogan said the incident in Diyarbakir showed Turkey was justified in its struggle against terrorism. \"We will carry out this struggle to the end, there is no stopping,\" he said. Elci was charged last month on terrorism related charges for saying on a CNN Turk program that the PKK was not a terrorist organization. Selahattin Demirtas, the co-chair of the pro-Kurdish HDP party, alleged last week that an unknown gunman attempted to assassinate him when a bullet hit the back window of his car as he was driving in Diyarbakir. Turkish police later claimed it was not a bullet. Demirtas has insisted it was an assassination attempt. The killing of Elci follows an October twin suicide bombing in Ankara blamed on the \"Islamic State\" (IS) that killed more than 100 people at a leftists and Kurdish peace rally.",
+  "relations": [
+    [
+      "Kurdistan Workers' Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Kurdistan Workers' Party",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Diyarbakir",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Diyarbakir",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Tahir Elci",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Tahir Elci",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Tahir Elci",
+      "Diyarbakir Bar Association",
+      "head_of"
+    ],
+    [
+      "Tahir Elci",
+      "Diyarbakir Bar Association",
+      "member_of"
+    ],
+    [
+      "Diyarbakir Bar Association",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Diyarbakir Bar Association",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Selahattin Demirtas",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Selahattin Demirtas",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Selahattin Demirtas",
+      "HDP",
+      "head_of"
+    ],
+    [
+      "Selahattin Demirtas",
+      "HDP",
+      "member_of"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "DHA",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "DHA",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Anadolu Ajansi",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Anadolu Ajansi",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "CNN Turk",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "CNN Turk",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "HDP",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "HDP",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "content": "Heavy snowfall cuts off Alpine towns in Switzerland and Austria\nTourists in the Swiss resort town of Zermatt under the Matterhorn mountain peak have been stranded for the second time in a month. Officials expected more snow overnight.\nThousands of people were stranded Monday morning in the Alps after heavy snowfall blocked train lines and roads to the towns of Zermatt in Switzerland and St. Anton in Austria. High-level avalanche warnings on Sunday forced local authorities to stop train services to Zermatt, leaving around 9,000 tourists marooned in the popular ski resort town. Some visitors were able to leave the area on Air Zermatt helicopters, but flights were discontinued after the weather worsened. Tickets for the service were also sold out within hours of train cancellations. Read more: Alpine snow leaves thousands of tourists stranded in Switzerland Travel difficulties were also affecting St. Anton where police restricted travel in and out of the town to cars with snow chains. Some buses transported people to a nearby valley under police and firefighter escort. Conditions were set to worsen in Zermatt into Monday with up to 70 centimeters (28 inches) of snow expected to fall overnight. Authorities expect land access to remain closed until midday on Monday. Severe snowfall had cut off 13,000 tourists in the town, which is located under the famous Matterhorn peak, for two days earlier in January. The resort's marketing chief said tourists do not suffer while they are snowed-in. An updated website is providing information for people trying to get in and out of the resort. Read more: Trains to restart from Swiss ski resort amp/jm (dpa, AP)",
+  "relations": [
+    [
+      "Zermatt",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Zermatt",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "St. Anton",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Matterhorn",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Matterhorn",
+      "Zermatt",
+      "in2"
+    ],
+    [
+      "Alpine",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Alpine",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Alpine",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ],
+    [
+      "Air Zermatt",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Air Zermatt",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Air Zermatt",
+      "Zermatt",
+      "based_in2"
+    ]
+  ]
+}

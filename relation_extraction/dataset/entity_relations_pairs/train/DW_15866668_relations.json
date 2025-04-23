@@ -1,0 +1,90 @@
+{
+  "content": "Nigeria hit by fatal bomb attacks\nBomb blasts in two Nigerian cities on Sunday have killed at least 38. No one immediately claimed responsibility for the attacks in Kabuna and Jos, one of which detonated near a church holding Easter services.\nA car bombing near a church in the northern Nigerian city of Kaduna killed at least 38 people and injured dozens more on Sunday morning as churchgoers attended Easter services, officials in the West African nation said. Most of the fatalities were believed to be motorcycle-taxi drivers and beggars. It is thought the bomber was also among the dead. The All Nations Christian Assembly Church, which appeared to have been the target of the blast, was also severely damaged. \"We were in the Holy Communion service and I was exhorting my people and all of a sudden, we heard a loud noise that shattered all our windows and doors,\" Pastor Joshua Raji said. Second blast Hours later an explosion hit the city of Jos, around 200 kilometers (124 miles) to the south-east, injuring several people. Though no group immediately claimed the Kaduna attack, suspicion immediately fell on the radical Islamist sect Boko Haram, which had reportedly been planning a strike during the Christian festival. The Kaduna bombing was reminiscent of a series of deadly strikes on churches and other locations carried out by Boko Haram on Christmas Day. The bloodiest attack took place outside a church in Abuja, where 44 people died. Boko Haram, whose name means \"Western education is sacrilege,\" is seeking the introduction of strict Shariah law across the country and the release of all imprisoned followers. Its increasingly bloody insurgency has left more than 1,000 people dead since mid-2009. An attempt to hold indirect talks between the sect and Nigeria's government failed last month. Both Kaduna and Jos are situated along the dividing line between the mostly Muslim north and largely Christian south. The region has been the scene of religious tensions. Hundreds of people have died as a result of religious violence in Kaduna over the past few years. Jos was hit by acar bomb outside of a Catholic church just over a month ago, on March 11, killing at least 10. No one claimed responsibility for the attack. Pope sends message Hours earlier Pope Benedict XVI had condemned ongoing religious violence in Nigeria during his Easter speech at the Vatican. \"To Nigeria, which in recent times has experienced savage terrorist attacks, may the joy of Easter grant the strength needed to take up anew the building of a society which is peaceful and respectful of the religious freedom of its citizens,\" he said. ccp, ncy / ai (AFP, AP, dpa)",
+  "relations": [
+    [
+      "All Nations Christian Assembly Church",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "All Nations Christian Assembly Church",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Boko Haram",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Kaduna",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Kaduna",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Nigerian",
+      "Nigeria",
+      "gpe0"
+    ],
+    [
+      "Kabuna",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Kabuna",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Jos",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Jos",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Joshua Raji",
+      "All Nations Christian Assembly Church",
+      "head_of"
+    ],
+    [
+      "Joshua Raji",
+      "All Nations Christian Assembly Church",
+      "member_of"
+    ],
+    [
+      "Abuja",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Abuja",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Benedict XVI",
+      "Vatican",
+      "head_of"
+    ],
+    [
+      "Benedict XVI",
+      "Vatican",
+      "member_of"
+    ]
+  ]
+}

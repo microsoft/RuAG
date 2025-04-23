@@ -1,0 +1,105 @@
+{
+  "content": "Belarusian president accuses Germany, Poland of coup plans\nBefore being sworn in for a fourth term, the reclusive leader of Belarus fired a warning salvo at the European Union, accusing Germany and Poland of plotting a coup and threatening action against sanctions.\nBelarusian President Alexander Lukashenko was sworn into office on Friday in a lavish ceremony boycotted by Western diplomats. The previous day, the 56-year-old leader openly accused Germany and neighboring Poland of planning a coup against him. \"There were [in Germany and Poland] plans worked out for an overthrow of the constitutional order,\" Lukashenko said in the Belarusian capital, Minsk, on Thursday. \"This is not an invention of our intelligence agencies.\" Lukashenko, who came to power in 1994, was re-elected last month with 80 percent of the vote in what the opposition and international monitors said was a rigged election. Relations between the reclusive Belarusian government and the West have been strained ever since. 'Belarus question must be answered' German Foreign Minister Guido Westerwelle said in a statement that the accusations were \"baseless\" and an attempt by Lukashenko to draw attention away from his own wrongdoing. \"The EU needs to find a clear political answer to events surrounding the presidential election and the continued incarceration of opposition politicians and their supporters,\" Westerwelle said. A wide-reaching crackdown against the regime's opponents followed Lukashenko's re-election. Hundreds of his critics were arrested and dozens threatened with long-term jail sentences. Poland also dismissed the accusations as absurd and said that relations with Minsk would not be normalized unless all political prisoners were released. Sanctions threat The situation in Belarus pushed the European Union to adopt a resolution on Thursday in support of economic sanctions against the country. The threats earned a sharp rebuke from Lukashenko, who promised the \"hardest possible reaction\" should the bloc impose sanctions against his country. At the same time, the Belarusian prime minister, Mikhail Myasnikovich, travelled to Moscow in a effort to shore up Russian support for Minsk during its standoff with the EU. That meeting ended with a Russian promise not to impose its own set of sanctions on Belarus over an unrelated spat over oil exports and a commitment to resume a nuclear power plant project shelved after the 1986 Chernobyl disaster. Author: Darren Mara (Reuters, AFP) Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "head_of_state"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "head_of_state-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Belarusian",
+      "Belarus",
+      "gpe0"
+    ],
+    [
+      "Minsk",
+      "Belarus",
+      "in0"
+    ],
+    [
+      "Minsk",
+      "Belarusian",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarus",
+      "head_of_gov"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarusian",
+      "head_of_gov-x"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "content": "German Left stalwart Gregor Gysi to run for Bundestag\nGregor Gysi, a Left party veteran renowned for his rhetoric, says he'll run again for parliament next year. He says Chancellor Merkel's conservatives must be voted into opposition to make the right-wing AfD superfluous.\nGysi, who stood down as the opposition Left's parliamentary group leader last year after a 10-year tenure, said Thursday that his party must again strive for an alliance with the center-left Social Democrats (SPD) and the Greens. In an apparent bid to reassure the Left's younger heads, Gysi said he was \"pulling on the same rope\" as co-leaders Katja Kipping and Bernd Riexinger and its leading Bundestag parliamentarians Sahra Wagenknecht and Dietmar Bartsch. \"Angela Merkel has undone solidarity in Europe like no other chancellor before,\" Gysi told the Berlin Kurier newspaper, adding that he would only stand as a direct candidate in his Berlin electorate of Treptow-Köpenick. \"The protest against Merkel must be channeled in the correct direction so that finally something can develop positively in this country,\" he said. Germany and Europe needed \"a different, a social, a peaceful and democratic political agenda,\" he said. That could only be achieved with a strong left, capable of relegating Merkel's CDU/CSU conservatives into the opposition and thereby making superfluous the upstart Alternative for Germany (AfD), he asserted. Gysi said he reached his decision after \"careful consideration,\" prompted by \"requests and signals,\" particularly from within his own electorate. His announcement precedes Berlin city-state's election due on Sunday. Gysi, who was a lawyer in former communist East Germany before being first elected to the Bundestag in 1990, had until Thursday stayed mute on whether he would run again. Two weeks ago, Gysi accused Merkel's coalition government - comprising her conservatives and the center-left SPD under Vice Chancellor Sigmar Gabriel - of distancing itself from the German federal parliament's condemnation of Turkey's World War One massacre of Armenians. Berlin-Ankara ties plunged after that resolution. ipj/kms (AFP, dpa)",
+  "relations": [
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Gregor Gysi",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gregor Gysi",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gregor Gysi",
+      "Left",
+      "member_of"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Alternative for Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Alternative for Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Left",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Katja Kipping",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Katja Kipping",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Katja Kipping",
+      "Left",
+      "member_of"
+    ],
+    [
+      "Bernd Riexinger",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Bernd Riexinger",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bernd Riexinger",
+      "Left",
+      "member_of"
+    ],
+    [
+      "Sahra Wagenknecht",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sahra Wagenknecht",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sahra Wagenknecht",
+      "Bundestag",
+      "member_of"
+    ],
+    [
+      "Dietmar Bartsch",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Dietmar Bartsch",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Dietmar Bartsch",
+      "Bundestag",
+      "member_of"
+    ],
+    [
+      "Berlin Kurier",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Berlin Kurier",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "CDU",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "CDU",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "CSU",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "CSU",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ]
+  ]
+}

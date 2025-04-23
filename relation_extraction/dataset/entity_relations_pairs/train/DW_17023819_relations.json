@@ -1,0 +1,115 @@
+{
+  "content": "EU fears the worst in Egypt\nAfter the recent violent escalation in Egypt, European Union representatives are calling for political dialogue to resume. But so far, there's little sign of a targeted or collective EU effort.\nThe EU is increasingly at a loss at how to react to the situation in Egypt. On Wednesday, EU foreign policy chief Catherine Ashton reacted with a number of statements to the violence. She called on the security forces to act with the utmost restraint, and on the transitional government to put an end to the violence as quickly as possible. Earlier, Ashton had called on the demonstrators to avoid further provocation and escalation. She also condemned the attacks on Coptic Christian churches in Egypt - criticism clearly directed against the Muslim Brotherhood. But her comments were mainly directed at the government and the security forces. Ashton spoke of an \"uncertain future\" for Egypt should the confrontation continue. There still was, however, the possibility of a \"different future\" if all sides would come together and back a political process that, via democratic elections, could bring back democratic structures and would allow for a peaceful participation of all political forces. EU missions have failed Yet the EU has been reduced to a mere spectator. Officially, Bernardino Leon, EU special envoy for the Middle East, is still working on resolving the crisis through negotiation. But his latest bid along with US diplomat William Burns has failed. Leon said that, while the Muslim Brotherhood had agreed to the deal, the military had not; and that only hours later, the army had started the crackdown on the pro-Morsi camps. Leon therefore put the blame for the violence mostly on the transitional government and the military. In an official statement, European Parliament President Martin Schulz stressed the responsibility of the authorities \"to ensure that all Egyptians - regardless of their political convictions - can protest peacefully.\" It was the government's \"duty\" to find a peaceful and just solution to the current crisis, Schulz said. Not ready to talk It seems the EU is taking the side of the Muslim Brotherhood. In fact, Ashton has repeatedly called for the release of ousted President Mohammed Morsi. Yet at the same time, the EU has been critical of the Brotherhood's attempts to pull Egypt into a more Islamist direction. Some observers accuse Brussels of hypocrisy, arguing that while the bloc is criticizin the military now, it was in fact rather sympathetic to the removal of Morsi. Elmar Brok, a German member of the European parliament for Chancellor Merkel's conservatives, doesn't actually believe that one would necessarily have to choose between these two sides. He told DW that \"one should side with the third group - the majority of the people - who want a secular state.\" The EU should \"get the military not only to stick to the roadmap to democracy\" but also to undertake yet another attempt \"to find a modus vivendi with the Muslim Brotherhood.\" The biggest problem, according to Brok, is that none of the three sides - military, Muslim Brotherhood or secular groups - are actually willing to seriously talk to each other. Berlincalls for EU crisis meeting The EU though doesn't seem to be drawing any consequences from the recent violence, it has not suspended financial aid to Egypt. In fact, none of the large EU states have. Only Denmark has axed its bilateral aid to the tune of 30 million euros. Brok advises against using money as leverage in negotiations. \"This would impact especially negatively on the future prospects of precisely those young people who are fighting for more democracy and for a secular state. And the tense social situation would lead to even more riots.\" The foreign policy expert said he was still pinning his hopes on further attempts to mediate between the two sides - admitting himself that the hope seems forlorn right now. Should talks break down entirely, Brok fears there might be a \"civil war or some kind of Islamist terrorism.\" German Foreign Minister Guido Westerwelle has called for an emergency meeting for the EU to discuss the situation in Egypt. During his current trip to Tunisia, Westerwelle stressed that a collective EU effort was in the bloc's interest as the violence was \"not happening just anywhere - but in Europe's neighborhood.\"",
+  "relations": [
+    [
+      "Catherine Ashton",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Bernardino Leon",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Martin Schulz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Martin Schulz",
+      "European parliament",
+      "head_of"
+    ],
+    [
+      "Martin Schulz",
+      "European parliament",
+      "member_of"
+    ],
+    [
+      "Elmar Brok",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Elmar Brok",
+      "European parliament",
+      "member_of"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egyptians",
+      "based_in0-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egyptians",
+      "citizen_of-x"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "head_of_state"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egyptians",
+      "head_of_state-x"
+    ],
+    [
+      "William Burns",
+      "US",
+      "agent_of"
+    ],
+    [
+      "William Burns",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Egyptians",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

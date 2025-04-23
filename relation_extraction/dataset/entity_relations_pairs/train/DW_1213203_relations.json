@@ -1,0 +1,85 @@
+{
+  "content": "Eastern Germany's EU Funds in Danger of Drying Up\nThe EU's competition commissioner met with the heads of Germany's eastern states to discuss future financial support for the region, which may no longer be a top priority following enlargement.\nThe heads of Germany's economically depressed eastern states could be forgiven for going on the defensive prior to their meeting in Brandenburg with Mario Monti, the European commissioner for competition. With 10 mainly former communist countries now in the European Union, eastern Germany's economic problems suddenly don't seem so bad. And that means the region is in danger of losing some of the EU's development aid that, together with the so-called \"solidarity payments\" from western Germany, have funded reconstruction projects in the former East Germany. Reconstruction far from over During the meeting on Monday, Brandenburg's premier Matthias Platzeck said it would be difficult to explain to people in eastern Germany that their region would have to take a funding cutback. All the progress that's been made in recent years is still very fragile, Platzeck said. Eastern Germany had been completely deindustrialized after the collapse of the GDR, and rebuilding the region is far from over, he added. There have been no concrete signs yet as to how big a cut in EU subsidies the eastern German states would have to reckon with. The European Commission is conducting a comprehensive review of its regional aid policy in order to introduce new guidelines and criteria to come into effect on Jan.1, 2007. No reason to worry Monti (photo) said it was important for him to talk with eastern German leaders about their worries. He assured them that they can be confident about their region's future. Eastern Germany has gone from the outer edges to the very center of the EU -- a development that would soon manifest itself in further growth and development, he said. Statistically speaking, eastern Germany is no longer among the poorest regions in the EU, now that the bloc has expanded eastwards to include several ex-communist states with struggling economies. However, unemployment in Germany's eastern states is over 20 percent, and despite an estimated €1.25 trillion ($1.5) in aid, the economic gap separating east and west hasn't been closed. Platzeck said that parts of the European Commission's plan to reform its regional aid policy will only exacerbate the problem. The premier of Saxony-Anhalt, Wolfgang Böhmer, said that without financial help from Brussels his state would face a budget emergency. Last month, a government-commissioned report came to the conclusion that the east German reconstruction project was a failure. But Platzeck said accusations of ineffectiveness are unfair. He said 47 of the 50 large-scale development projects in his state of Brandenburg were working very well. Brandenburg's state government has already divided the region into two zones, so that it can at least apply for the highest level of EU funding for the poorer northern half.",
+  "relations": [
+    [
+      "Mario Monti",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Matthias Platzeck",
+      "Brandenburg",
+      "agent_of"
+    ],
+    [
+      "Matthias Platzeck",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Matthias Platzeck",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Matthias Platzeck",
+      "Brandenburg",
+      "head_of_gov"
+    ],
+    [
+      "Brandenburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Brandenburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Saxony-Anhalt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Saxony-Anhalt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Wolfgang Böhmer",
+      "Saxony-Anhalt",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Böhmer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Böhmer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Böhmer",
+      "Saxony-Anhalt",
+      "head_of_gov"
+    ]
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "content": "Belarus president dismisses PM, reshuffles government amid economic crisis\nBelarusian President Alexander Lukashenko has sacked the country's prime minister and a number of top ministers in the biggest reshuffle in years. The move comes as the former Soviet republic's economy struggles.\nMikhail Myasnikovich, who served as Belarus' prime minister since December 2010, has been replaced by President Lukashenko's chief of staff, Andrei Kobyakov, the presidential press service said on Saturday, without giving reasons for the reshuffle. The president also dismissed the head of the country's central bank in what analysts say is a move to protect the country's economy. Belarus' strongman Lukashenko had warned earlier this year he would sack the administration if it failed to achieve the desired economic objectives. On Friday, the president issued another critical statement, saying the government officials might have spent too long at their posts. \"That can be fixed,\" he said. Russian sanctions An economic crisis in Russia due to Western sanctions over Ukraine and a fall in global oil prices pose a serious challenge to Belarusian economy. Although its currency is not officially pegged to the Russian ruble, the ex-Soviet republic is highly dependent on Russia, which remains its main trading partner and political ally. Last week, Lukashenko ordered the country's transactions with Russia be settled in dollars or euros in an effort to avert worst of the crisis. Its central bank also announced a \"temporary\" tax of 30 percent on all purchases of foreign currency and increased interest rates to 50 percent. The government has admitted its economy has been badly hit in the recent months as around 40 percent of its exports are linked to Russia. shs/sms (Reuters, AFP)",
+  "relations": [
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "head_of_state"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "head_of_state-x"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarus",
+      "minister_of"
+    ],
+    [
+      "Mikhail Myasnikovich",
+      "Belarusian",
+      "minister_of-x"
+    ],
+    [
+      "Andrei Kobyakov",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Andrei Kobyakov",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Andrei Kobyakov",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Andrei Kobyakov",
+      "Belarus",
+      "head_of_gov"
+    ],
+    [
+      "Andrei Kobyakov",
+      "Belarusian",
+      "head_of_gov-x"
+    ],
+    [
+      "Belarusian",
+      "Belarus",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ]
+  ]
+}

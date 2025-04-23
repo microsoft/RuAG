@@ -1,0 +1,155 @@
+{
+  "content": "Bad report card for EU's foreign policy\nGerman peace researchers have accused the European Union of having contributed to the crisis in Ukraine. In their latest annual report they warn of the danger of a new Cold War.\nThe European Union has been given a poor report card for its foreign policy by a group of prominent peace researchers who point to shortcomings in how the EU has dealt with its neighbors in the Ukraine crisis. The assessment was made by five leading research institutes in their \"Friedensgutachten 2014\" (Peace Report 2014), presented jointly in Berlin on Tuesday (03.06.2014). \"The European Union policy of essentially presenting Ukraine with an either-or choice in the form of the association agreement was a momentous mistake,\" said Ines-Jacqueline Werkner of the Protestant Institute for Interdisciplinary Research in Heidelberg (FEST). According to her analysis, the EU has contributed to the development of the Ukraine crisis and has done little to resolve it. EU's mistake \"When the EU sided with the opposition on the Maidan - against the regime with which it previously wanted to sign an agreement - it increased internal political polarization and excluded itself as a mediator and conflict manager,\" said Werkner. Bruno Schoch of the Peace Research Institute Frankfurt (PRIF) argued that the EU was overwhelmed when confronted with a player like Russia at a geopolitical level. Attempts by the foreign ministers of Germany, Poland and France to mediate in Kyiv in February came too late, according to the report. By their own account, the five institutes hope their findings will enable them to influence foreign policy discourse in Germany. OSCE does it better The researchers view the Organization for Security and Cooperation in Europe (OSCE) as the appropriate agent for conflict prevention but are critical of the fact that over the past few years, both the OSCE's political role and its budget have been consistently reduced. This trend, they said, must be reversed. In the future, the OSCE should provide ongoing reports from Ukraine in future and not just be sent on short-term missions. The researchers also made other suggestions for resolving the conflict. Among them: Ukraine should hold roundtable talks on regional and local levels, and supporters of the former President Viktor Yanukovych's Party of Regions should be included in the government. Ukraine should also be clearly denied possible NATO membership. The long-term goal should be to make Ukraine a \"connecting bridge\" between the EU and Russia. Danger of a new Cold War For the time being, though, the researchers said it's crucial to prevent another Cold War. They write that Russian President Vladimir Putin is, in the manner of traditional power politics, flouting multilateral agreements. In doing this, they said, Russia is creating dangerous precedents and is eroding international order. The researchers fear the Ukraine crisis could lead to a new arms race in Europe. Sweden, they warned, has already announced a massive increase in its military spending over the next few years – a step in the wrong direction. \"Dialogue and cooperation with Russia remain indispensable,\" they write. \"We hope that, sooner or later, demands for democracy will become louder in Russia, too.\" Putin, the researchers note, is at the peak of his power and popularity. He is very careful to weigh the costs and benefits of his actions and ready to seize opportunities \"to portray himself as a charismatic leader and Russia as a counterforce to the West.\" They speculate that this is also a way for Putin to draw attention away from domestic problems. The \"modernization partnership\" so often mentioned by German policymakers is \"mirage,\" they claim. Humanitarian aid for Syria On the day of the Syrian presidential election, the peace researchers took the opportunity to comment once again on the bloody civil war that has taken the lives of more than 160,000 people and laid waste to large parts of the country. \"I am very pessimistic about the possibility of influencing this conflict from outside via diplomatic means,\" said PRIF's Schoch. He said that this view was strengthened by the withdrawal of the UN special envoy Lakhdar Brahimi, who threw in the towel in May after two years of dogged diplomatic efforts. The destruction of Syria's chemical weapons was the last success for diplomacy, said Schoch. The problem, however, was that this disarmament initiative, which was welcomed by the international community, had strengthened the regime in Damascus. The researchers suggested that foreign countries could try to provide humanitarian aid, by way of an airlift or by taking in more refugees. \"Both the European and the German refugee policies are absolutely scandalous,\" said Werkner. \"We appeal to the German government to take in at least 200,000 Syrian refugees in Germany in view of the ongoing humanitarian disaster.\" To date, according to government figures, a total of 40,000 Syrians have found asylum in Germany.",
+  "relations": [
+    [
+      "Organization for Security and Cooperation in Europe",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "Organization for Security and Cooperation in Europe",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Protestant Institute for Interdisciplinary Research",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Protestant Institute for Interdisciplinary Research",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Protestant Institute for Interdisciplinary Research",
+      "Heidelberg",
+      "based_in2"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ],
+    [
+      "Ines-Jacqueline Werkner",
+      "Protestant Institute for Interdisciplinary Research",
+      "member_of"
+    ],
+    [
+      "Bruno Schoch",
+      "Peace Research Institute Frankfurt",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Heidelberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Heidelberg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Maidan",
+      "Ukraine",
+      "event_in0"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Party of Regions",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Lakhdar Brahimi",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Damascus",
+      "Syrians",
+      "in0-x"
+    ],
+    [
+      "Syrians",
+      "Syria",
+      "gpe0"
+    ]
+  ]
+}

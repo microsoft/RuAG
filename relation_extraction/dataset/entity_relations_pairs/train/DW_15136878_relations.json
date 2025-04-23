@@ -1,0 +1,25 @@
+{
+  "content": "IMF mulls extending Greek repayment schedule\nAn IMF official has said European leaders must take tough decisions on Greece before the IMF releases its latest installment of the country's rescue package. One option is giving Athens more time to repay the loans.\nA senior IMF official in Greece said the International Monetary Fund would be open to some form of restructuring of Greece's national debt and its repayment schedules, but also warned that such changes could have serious ramifications. \"Stretching out payment terms, for instance in loans from euro area partners and the IMF, is a reasonable thing to think about because we have amortization right at the end of the program. This is a technical issue we can think about,\" the IMF's senior representative in Greece, Bob Traa, said on Tuesday. Traa said Greece was at a \"critical juncture\" with no time to waste, as Athens struggles to avoid defaulting on a 340-billion-euro ($499-billion) national debt that roughly equates to the total economic output of Greece over an 18-month period. Greece has already won one extension of the time-frame for repaying loans from the 110-billion-euro loans package granted by the EU and IMF last year. EU officials - eager to avoid a default but increasingly unwilling to lend more money - have been struggling to find a solution for the country's short-term financing, with restructuring the debt another potential option. \"If you want a debt restructuring that will really make a difference, it will need to be very large,\" Traa warned. \"Such a large debt restructuring would create untold problems not just in Greece but also in the eurozone.\" IMF: It's up to Europe Speaking at a banking conference in Athens, Traa also appealed for heads of state at June's EU summit to reach a consensus on Greece. The growing European reticence to continue supporting Athens has made the IMF wary of committing to its installments towards the international loans. \"I believe there is a summit in Europe by heads of state [in June] where some hard nuts need to be cracked and they need to make some decisions. And then actually we will be ready to go to our board and to disburse in early July because we know time is of the essence,\" Traa said. The Greek government is rallying and trying to push its latest medium-term austerity plan through parliament, one of the preconditions for receiving more international loans. Officials in Athens hope to secure the votes by the end of June, with the government offering the corporate and value added tax cuts demanded by the opposition into a longer-term budget in a bid to appease opponents of the cuts. The European Union has repeatedly urged Greek politicians to put party politics aside and form a consensus on its austerity program. Author: Mark Hallam (AFP, Reuters) Editor: Holly Fox",
+  "relations": [
+    [
+      "Bob Traa",
+      "International Monetary Fund",
+      "member_of"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ]
+  ]
+}

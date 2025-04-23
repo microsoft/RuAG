@@ -1,0 +1,75 @@
+{
+  "content": "US rebukes Israel's Netanyahu over 'ethnic cleansing' remark\nIsrael's prime minister has compared Palestinian criticism of settlement activity to \"ethnic cleansing.\" The US has described the premier's language as \"inappropriate and unhelpful,\" saying it undermines peace efforts.\nIsraeli Prime Minister Benjamin Netanyahu on Friday equated Palestinian criticism of Israeli settlements in the occupied West Bank to \"ethnic cleansing,\" drawing sharp criticism from Washington, its key ally. In a video disseminated on social media platforms, Netanyahu said he had \"always been perplexed\" by the claim that settlements are an \"obstacle to peace.\" \"The Palestinian leadership actually demands a Palestinian state with one pre-condition: No Jews. There's a phrase for that: It's called ethnic cleansing,\" Netanyahu said. US State Department spokeswoman Elizabeth Trudeau told reporters on Friday that \"type of terminology is inappropriate and unhelpful.\" \"We obviously strongly disagree with the characterization that those who oppose settlement activity or view it as an obstacle to peace are somehow calling for ethnic cleansing of Jews from the West Bank,\" she added. Trudeau said Israel's expansion policy raised \"real questions about Israel's long-term intentions in the West Bank.\" Last week, the US took a stronger tone on Israeli settlement expansion after a military committee approved hundreds of complexes in the West Bank, which the Palestinians hope will form part of an independent state. The international community maintains that settlement activity in the West Bank is illegal and counter to peace efforts aimed at ending the conflict. However, the Israeli government rejects such claims, saying Jews have lived in the territory for thousands of years and that settlements do not undermine a peaceful resolution. ls/cmk (Reuters, AP)",
+  "relations": [
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Elizabeth Trudeau",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Elizabeth Trudeau",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "West Bank",
+      "Palestinian",
+      "in0-x"
+    ],
+    [
+      "West Bank",
+      "Palestinians",
+      "in0-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "State Department",
+      "US",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "US",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "US",
+      "ministry_of"
+    ]
+  ]
+}

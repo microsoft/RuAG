@@ -1,0 +1,180 @@
+{
+  "content": "German FA calls off matches with China under-20 team after protests\nGermany's football association has called off several friendly matches between China's under-20 team and German lower league sides. The move follows a political protest at the first such match.\nIn a statement released on Friday, the German football association (DFB) announced that the games would be rescheduled for 2018 and that talks would take place between them and their Chinese counterparts in order explore how to move forward. \"To the regret of all parties involved, the project has not received the broad approval that had been expected,\" the DFB said. \"In fact, the project was used by a handful of spectators to send messages that were considered hurtful by the Chinese team, officials, the Chinese Football Association's support staff and Chinese spectators.\" Protests in opening match The first of the arranged matches, against TSV Schott Mainz of the fourth-tier Regionalliga Südwest was interrupted midway through the first half when the Chinese players left the field because a small group of activists had unfurled Tibetan flags. The team later returned to the field after the flags had been taken down, before succumbing to a 3-0 defeat. On Monday, the Chinese Foreign Ministry strongly criticized the protest. Initially, it had been thought that the Chinese side would play in the Regionalliga Südwest - a regional division of Germany's fourth tier which has only 19 teams but the plan was revised so the matches would just be friendlies. This followed an agreement signed in 2016 between the German FA and the Chinese government to help boost the sport in the Asian country, where the Bundesliga is increasingly popular. Financial boost not enough to soothe concerns Despite the financial boost for the clubs – TSV Schott Mainz were reportedly paid a fee of €15,000 ($17.800) for last weekend's game – the move hasn't proved entirely popular with German fans, many of whom see it as just another example of commercial interests trumping sporting concerns. But the protests, and potential for further disruption, seem to be behind the cancellations - the DFB said both federations were aware of \"substantial evidence of further escalation,\" FSV Frankfurt, who were due to host the Chinese side on Saturday, said earlier this week that they would not ban protests despite an angry response to last week's incident from Beijing. \"We will not back a single centimeter off the basic rights our our democracy, including those relating to freedom of speech,\" FSV Frankfurt President Michael Görner said in an interview with the Stuttgarter Nachrichten and Stuttgarter Zeitung newspapers. His words echoed those of DFB vice-president Ronny Zimmerman, who said that the games should be played \"within the framework of freedom of expression.\" The fixtures that have been abandoned include games against Wormatia Worms and Bundesliga club Hoffenheim's reserves. mp/pfd (dpa, SID)",
+  "relations": [
+    [
+      "German football association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German football association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundesliga",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "China under-20",
+      "China",
+      "based_in0"
+    ],
+    [
+      "China under-20",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Chinese Football Association",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Chinese Football Association",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "TSV Schott Mainz",
+      "Regionalliga Südwest",
+      "appears_in"
+    ],
+    [
+      "TSV Schott Mainz",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "TSV Schott Mainz",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Regionalliga Südwest",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "agency_of"
+    ],
+    [
+      "Foreign Ministry",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "ministry_of"
+    ],
+    [
+      "FSV Frankfurt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "FSV Frankfurt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Michael Görner",
+      "FSV Frankfurt",
+      "head_of"
+    ],
+    [
+      "Michael Görner",
+      "FSV Frankfurt",
+      "member_of"
+    ],
+    [
+      "Stuttgarter Nachrichten",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Stuttgarter Nachrichten",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Stuttgarter Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Stuttgarter Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ronny Zimmerman",
+      "German football association",
+      "head_of"
+    ],
+    [
+      "Ronny Zimmerman",
+      "German football association",
+      "member_of"
+    ],
+    [
+      "Wormatia Worms",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Wormatia Worms",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hoffenheim",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hoffenheim",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Hoffenheim",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

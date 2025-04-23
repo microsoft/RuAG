@@ -1,0 +1,210 @@
+{
+  "content": "Samsung heir Lee Jae-yong sentenced to five years in jail\nA South Korean court has ruled that the 49-year-old heir to one of the world's biggest business empires paid bribes in anticipation of favors from former President Park Geun-hye, and handed him a 5-year jail sentence.\nA Seoul Central District Court judge on Friday found Lee guilty of corruption, hiding assets abroad and perjury, handing down a 5-year prison sentence to the Samsung vice chairman and de facto head of the country's largest company. During the two-year trial, prosecutors sought a 12-year jail term over a scandal which brought down South Korean President Park Geun-hye. Lee Jae-yong's penalty could leave the giant firm without a leader for years, and inhibit the company's ability to make key investment decisions. Samsung did not have any immediate comment. During the trial, the world's largest mobile phone maker however acknowledged it offered to donate about 43 billion won ($38 million, 32.3 million euros) to entities backed by Park's close friend, Choi Soon-sil, including sponsoring the equestrian career of Choi's daughter. The court found the money was in return for policy favors including government support for a controversial 2015 merger of two of its affiliates, which helped tighten Lee's hereditary succession at the group, after his father was left bedridden by a heart attack in 2014. The defense had denied the charges, saying Samsung was pressured by Park to make the donations under duress, and that Lee was not aware of them and did not approve them. Four other top Samsung executives were also convicted and received sentences of up to four years. Chaebols under pressure The verdict could add support to South Korea's new president, Moon Jae-in, who was campaigning on a pledge to reform the country's powerful family-owned conglomerates, also known as chaebols. Moon promised to empower minority shareholders and end the practice of pardoning corporate tycoons convicted of white-collar crime. The firms have long had dubious connections with political authorities, and past trials of their leaders have often ended with light or suspended sentences, with courts citing their contributions to the economy. The Lee clan directly owns about 5 percent of Samsung Electronics shares, but maintains its grip on the wider group through a complex web of cross-ownership stakes involving dozens of companies. South Koreans, who once applauded the chaebols for catapulting the country into a global economic power, now criticize them for holding back the economy and squeezing smaller businesses. Fallout for Samsung Lee has been Samsung's de facto leader since his father fell ill, but analysts' views about how the sentence will affect the company differ. Geoffrey Cain, the author of a forthcoming book on the group, said the company \"will not be doomed\" without Lee. \"It's up to the specialists to make their own decisions,\" he told the news agency Reuters. But Chung Sun-Sup, the head of corporate analysis firm chaebul.com, said major chaebol decisions on large-scale acquisitions or investments \"are often endorsed by the patriarch of a ruling family,\" and with Lee in prison the firm \"may move more slowly than before.\" Samsung shares have soared in recent months, but were down 1.05 percent on Friday afternoon after the verdict. The ruling is also seen as a strong indicator of the likely outcome in the trial of ex-President Park, who is facing her own corruption trial, with a ruling expected later this year. uhe/tr (Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "Samsung",
+      "South Korea",
+      "based_in0"
+    ],
+    [
+      "Samsung",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "Samsung",
+      "South Koreans",
+      "based_in0-x"
+    ],
+    [
+      "Lee Jae-yong",
+      "South Korea",
+      "citizen_of"
+    ],
+    [
+      "Lee Jae-yong",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Lee Jae-yong",
+      "South Koreans",
+      "citizen_of-x"
+    ],
+    [
+      "Lee Jae-yong",
+      "Samsung",
+      "head_of"
+    ],
+    [
+      "Lee Jae-yong",
+      "Samsung",
+      "member_of"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korea",
+      "agent_of"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korea",
+      "citizen_of"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Park Geun-hye",
+      "South Koreans",
+      "citizen_of-x"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korea",
+      "head_of_state"
+    ],
+    [
+      "Park Geun-hye",
+      "South Korean",
+      "head_of_state-x"
+    ],
+    [
+      "Park Geun-hye",
+      "South Koreans",
+      "head_of_state-x"
+    ],
+    [
+      "Choi Soon-sil",
+      "South Korea",
+      "citizen_of"
+    ],
+    [
+      "Choi Soon-sil",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Choi Soon-sil",
+      "South Koreans",
+      "citizen_of-x"
+    ],
+    [
+      "Moon Jae-in",
+      "South Korea",
+      "agent_of"
+    ],
+    [
+      "Moon Jae-in",
+      "South Korea",
+      "citizen_of"
+    ],
+    [
+      "Moon Jae-in",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Moon Jae-in",
+      "South Koreans",
+      "citizen_of-x"
+    ],
+    [
+      "Moon Jae-in",
+      "South Korea",
+      "head_of_state"
+    ],
+    [
+      "Moon Jae-in",
+      "South Korean",
+      "head_of_state-x"
+    ],
+    [
+      "Moon Jae-in",
+      "South Koreans",
+      "head_of_state-x"
+    ],
+    [
+      "South Korean",
+      "South Korea",
+      "gpe0"
+    ],
+    [
+      "Seoul Central District Court",
+      "South Korea",
+      "agency_of"
+    ],
+    [
+      "Seoul Central District Court",
+      "South Korean",
+      "agency_of-x"
+    ],
+    [
+      "Seoul Central District Court",
+      "South Koreans",
+      "agency_of-x"
+    ],
+    [
+      "Seoul Central District Court",
+      "South Korea",
+      "based_in0"
+    ],
+    [
+      "Seoul Central District Court",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "Seoul Central District Court",
+      "South Koreans",
+      "based_in0-x"
+    ],
+    [
+      "Samsung Electronics",
+      "South Korea",
+      "based_in0"
+    ],
+    [
+      "Samsung Electronics",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "Samsung Electronics",
+      "South Koreans",
+      "based_in0-x"
+    ],
+    [
+      "South Koreans",
+      "South Korea",
+      "gpe0"
+    ],
+    [
+      "Chung Sun-Sup",
+      "chaebul.com",
+      "head_of"
+    ],
+    [
+      "Chung Sun-Sup",
+      "chaebul.com",
+      "member_of"
+    ],
+    [
+      "chaebul.com",
+      "South Korea",
+      "based_in0"
+    ],
+    [
+      "chaebul.com",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "chaebul.com",
+      "South Koreans",
+      "based_in0-x"
+    ]
+  ]
+}

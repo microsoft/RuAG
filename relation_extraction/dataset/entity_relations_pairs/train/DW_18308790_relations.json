@@ -1,0 +1,120 @@
+{
+  "content": "Costs of cleaning old Sellafield nuclear site soar\nThe British government has been forced to admit that it doesn't know the ultimate cost of closing down and cleaning up its hazardous nuclear site Sellafield. The latest figure was 53 billion pounds.\nThe cost estimate of cleaning up the hazardous waste at Sellafield reached 53 billion pounds ($79.18 billion, 74 billion euros) in February, a new National Audit Office report said. That estimate is up 5 billion pounds from March last year, and the figure is expected to rise above 70 billion pounds. Last year, Britain's Committee of Public Accounts criticized the management of Sellafield for huge cost over-runs, delays on projects and expensive staff. The committee, which assesses whether taxpayers' money is being spent properly, on Wednesday asked the government, the site's owner, the Nuclear Decommissioning Authority (NDA), Sellafield Ltd and former managers Nuclear Management Partners (NMP) whether costs would continue to rise. The NDA is aiming to clear Sellafield, called Britain's \"largest and most hazardous nuclear site\" by the NAO, by 2120. 'Unprecedented difficulties' \"It is impossible to know that (...) we find difficulties at the site which are pretty much unprecedented,\" Stephen Lovegrove, permanent secretary at the government's Department of Energy and Climate Change, told the committee. Britain's worst ever nuclear accident happened at the site in 1957. Sellafield stopped generating electricity in 2003. It is now a reprocessing and waste storage facility which deals with spent nuclear fuel from Britain and other countries. Despite the dangers of nuclear power - illustrated by the Fukushima nuclear disaster in 2011- the EU in September recommended approval of Britain's ambitious plan to build its first nuclear plant in a generation - the Hinkley Point project - with backing from French and Chinese energy giants, after ruling that it met state aid rules. bk/hg (Reuters, AFP)",
+  "relations": [
+    [
+      "National Audit Office",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "National Audit Office",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "National Audit Office",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "National Audit Office",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Sellafield Ltd",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Sellafield Ltd",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Committee of Public Accounts",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "Committee of Public Accounts",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Committee of Public Accounts",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Committee of Public Accounts",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Stephen Lovegrove",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Stephen Lovegrove",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Stephen Lovegrove",
+      "Department of Energy and Climate Change",
+      "member_of"
+    ],
+    [
+      "Department of Energy and Climate Change",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "Department of Energy and Climate Change",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Department of Energy and Climate Change",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Department of Energy and Climate Change",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Department of Energy and Climate Change",
+      "Britain",
+      "ministry_of"
+    ],
+    [
+      "Nuclear Decommissioning Authority",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "Nuclear Decommissioning Authority",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Nuclear Decommissioning Authority",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Nuclear Decommissioning Authority",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ]
+  ]
+}

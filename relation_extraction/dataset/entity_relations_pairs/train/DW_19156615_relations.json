@@ -1,0 +1,210 @@
+{
+  "content": "Death toll mounts in Kolkata flyover crash as rescuers search for survivors\nMany people have died and more than 150 have been injured after a flyover collapsed in the eastern Indian city. Rescuers are meanwhile working tirelessly to find people buried under the debris.\nAt least 21 people have died and around 60 injured people have been admitted to nearby hospitals, dpa news agency reported. The incident occurred on Thursday morning after 80 meters (260 feet) of the flyover collapsed in Kolkata's busy Burrabazar area. \"The guilty will not be spared. We will take action against builders. This is a very serious incident,\" Mamata Banerjee, chief minister of West Bengal, told reporters. \"But our first priority is to rescue the trapped, treat the injured in hospital and console the families of those who have died,\" she added. India's Prime Minister, Narendra Modi, expressed his condolences on Twitter. Flyover collapse an 'act of God' Some 400 army personnel, including engineers and medical workers, were deployed at the site. The chief of the disaster response force, O.P. Singh, said the operation was a \"very very challenging task.\" Workers used bulldozers, saws, special cameras and sniffer dogs to find survivors. IVCRL, the construction company building the flyover, said it was missing 30-40 people who had been working on the site. \"We completed nearly 70 percent of the construction work without any mishap,\" IVCRL's senior official K.P. Rao told officials. However, the company was widely criticized after another senior employee, named only as Dilip, described the incident as \"a total act of God.\" Many Indians took to Twitter to express their frustration at the hazard. Sonal criticized the builders for calling the tragedy an \"act of God.\" This user criticized the corrupt political system and negligence that led to the flyover crash. mg/rc (AP, dpa)",
+  "relations": [
+    [
+      "Kolkata",
+      "India",
+      "in0"
+    ],
+    [
+      "Kolkata",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Kolkata",
+      "Indians",
+      "in0-x"
+    ],
+    [
+      "Burrabazar",
+      "India",
+      "in0"
+    ],
+    [
+      "Burrabazar",
+      "Kolkata",
+      "in2"
+    ],
+    [
+      "Mamata Banerjee",
+      "West Bengal",
+      "agent_of"
+    ],
+    [
+      "Mamata Banerjee",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Mamata Banerjee",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Mamata Banerjee",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "Mamata Banerjee",
+      "West Bengal",
+      "head_of_gov"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Narendra Modi",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "head_of_gov"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "head_of_gov-x"
+    ],
+    [
+      "Narendra Modi",
+      "Indians",
+      "head_of_gov-x"
+    ],
+    [
+      "IVCRL",
+      "India",
+      "based_in0"
+    ],
+    [
+      "IVCRL",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "IVCRL",
+      "Indians",
+      "based_in0-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "West Bengal",
+      "India",
+      "in0"
+    ],
+    [
+      "West Bengal",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "West Bengal",
+      "Indians",
+      "in0-x"
+    ],
+    [
+      "O.P. Singh",
+      "India",
+      "agent_of"
+    ],
+    [
+      "O.P. Singh",
+      "Indian",
+      "agent_of-x"
+    ],
+    [
+      "O.P. Singh",
+      "Indians",
+      "agent_of-x"
+    ],
+    [
+      "O.P. Singh",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "O.P. Singh",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "O.P. Singh",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "K.P. Rao",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "K.P. Rao",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "K.P. Rao",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "K.P. Rao",
+      "IVCRL",
+      "head_of"
+    ],
+    [
+      "K.P. Rao",
+      "IVCRL",
+      "member_of"
+    ],
+    [
+      "Dilip",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Dilip",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Dilip",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "Dilip",
+      "IVCRL",
+      "head_of"
+    ],
+    [
+      "Dilip",
+      "IVCRL",
+      "member_of"
+    ],
+    [
+      "Indians",
+      "India",
+      "gpe0"
+    ]
+  ]
+}

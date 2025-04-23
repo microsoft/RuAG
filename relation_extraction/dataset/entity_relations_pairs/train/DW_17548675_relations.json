@@ -1,0 +1,125 @@
+{
+  "content": "'Council of Europe must keep talking to Russia'\nRussia's delegation at the Council of Europe may face sanctions, but the deputy president of the Council's parliamentary assembly, Axel Fischer, says it's unlikely Russia will be excluded altogether.\nDeutsche Welle: The Council of Europe has been critical of the situation in Ukraine for quite some time, in particular with regard to human rights, the rule of law and the democratization process. Why is the Parliamentary Assembly of the Council of Europe intent on imposing sanctions on the Russian delegation at this point in time? Axel Fischer: The Council of Europe and the OSCE have already sent observers to Ukraine and Crimea, and we're also going to accompany the upcoming presidential elections. Of course, the question was: what were the legal preconditions for the vote in Crimea on March 16, and how did Russia annex the Ukrainian peninsula afterwards - in particular bearing in mind that the US, Britain and Russia promised to guarantee Ukraine's territorial integrity after the country gave up its nuclear weapons. The question was, can the Council of Europe simply stand by and watch or must it take action. Our British colleague Robert Walter launched the first initiative: he submitted a motion suggesting that the Council of Europe must formally approach the delegation. He even demanded canceling he Russian delegation's accreditation. You also signed the petition: Are you aiming for Russia's expulsion from the Council of Europe? The petition aims at cancelling the accreditation, but withdrawing the right to vote could be a compromise solution. We believe there has been a breach of the Council of Europe's basic principles. We must make it very clear that the Council of Europe takes its duties seriously, and works towards understanding and a peaceful solution to the conflict. According to Russian media, the head of the Russian delegation has already announced their departure ahead of the Parliamentary Assembly vote. We don't want the situation to escalate any further and we want to keep the talks with Russia going. But under no circumstances will we be blackmailed. We will openly discuss the situation at the meeting and then we'll see what we can agree on. Perhaps the Russians have good arguments to convince us, but right now, I don't expect that to be the case. De-escalation is the first priority - but should the delegates really withdraw ahead of time, what signal would that send to the members of the Council of Europe? I don't believe the Russians will simply opt out. I could imagine the Russian delegation withdrawing if the monitoring committee were to advise the assembly to revoke accreditation. It's possible, but we shouldn't aim for that outcome. But we also can't decide to do nothing at all just because of the Russian announcement. We'll calmly analyze the situation - but de-escalation needs both sides. It's not acceptable that we hold back, discuss possible solutions as to how we could approach the Russian delegation, and meanwhile the Russian side only makes demands. That won't work: the two sides must approach one another. How have negotiations with your Russian counterpart gone up until now? The Russian side's criticism concerning Ukraine is very clear. They say it wasn't a revolution, but a coup, and it wasn't covered by the constitution. They accuse Europeans and Americans of interference. The role of the EU isn't seen in a positive light, either. But that's the Russian point of view. We have a clear point of view, too: we have clear criteria for the Council of Europe that are in accordance with the rule of law, and we know how democracy should function and how elections should be conducted. No matter who did what in Ukraine and in Kyiv, we want human rights to be observed and the rule of law to be guaranteed. That is the Council of Europe's duty. Axel Fischer is a Christian Democrat member of Germany's Bundestag. He heads the German delegation in the Parliamentary Assembly of the Council of Europe (PACE).",
+  "relations": [
+    [
+      "Axel Fischer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Axel Fischer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Axel Fischer",
+      "Council of Europe",
+      "head_of"
+    ],
+    [
+      "Axel Fischer",
+      "Council of Europe",
+      "member_of"
+    ],
+    [
+      "Axel Fischer",
+      "Christian Democrat",
+      "member_of"
+    ],
+    [
+      "Parliamentary Assembly of the Council of Europe",
+      "Council of Europe",
+      "part_of"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Robert Walter",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Robert Walter",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Russians",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Americans",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Kyiv",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Christian Democrat",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrat",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

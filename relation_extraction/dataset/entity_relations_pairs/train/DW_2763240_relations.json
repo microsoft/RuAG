@@ -1,0 +1,240 @@
+{
+  "content": "French Companies Merge to Create New European Energy Giant\nFrench President Sarkozy has successfully negotiated the merger of Paris-based Suez group and state-controlled Gaz de France, which was announced Monday. GDF-Suez will become one of Europe's biggest energy conglomerates.\nFrench President Nicolas Sarkozy brokered terms of the deal, which the companies' boards agreed to late Sunday. The new company, called GDF-Suez, will become one of Europe's largest energy conglomerates along with Russia's state-run Gazprom, Electricite de France and Germany's EON. The two companies have a combined market value of 90 billion euros ($122.8 billion) although Suez will spin off many of its environmental assets, valued by analysts at 18-20 billion euros. Merger of equals The merger was first conceived 18 months ago, but was delayed by disagreements over valuation and control. The final agreement will include a share exchange ratio of 0.9545 to 1, or 21 Gaz de France shares for 22 Suez shares, the groups said in a joint statement. Sarkozy, who was elected in May and has promised economic reforms, pressured Suez to abandon most of its water and waste assets to focus on energy. Besides distributing gas and electricity, Suez runs power stations, pumps water and manages waste. Under terms of the deal, Suez will divest 65 percent of its environmental activities through a stock market listing, scheduled to take place at the same time as the merger. Unions oppose privatization Sarkozy pushed for the merger to prevent a foreign takeover of Suez and to strengthen Gaz de France's power assets. The deal is the latest version of a plan first announced by former Prime Minister Dominique de Villepin in early 2006 to protect Suez from a possible takeover by Italy's Enel. France's unions and the Socialists have opposed the merger because it would remove the government's control over Gaz de France. The government owns 80 percent of Gaz de France. Finance Minister Christine Lagarde said the government will keep significantly more than a blocking minority of 35 percent. The combined group will be led by Suez Chief Executive Officer Gerard Mestrallet with the state-owned gas utility's Jean-Francois Cirelli becoming the vice chairman. The merged company has set a cost savings target of 1 billion euros by 2013, according to Bloomberg news service. The transaction to create GDF Suez will be completed \"as early as possible\" in 2008, the companies said in a statement. \"Recent developments in the energy sector reinforced the strategic and industrial logic behind the transaction,\" which creates a \"global energy leader,\" the two companies said.",
+  "relations": [
+    [
+      "Suez",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Suez",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Suez",
+      "Paris",
+      "based_in2"
+    ],
+    [
+      "Gaz de France",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Gaz de France",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "GDF Suez",
+      "France",
+      "based_in0"
+    ],
+    [
+      "GDF Suez",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Gerard Mestrallet",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Gerard Mestrallet",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Gerard Mestrallet",
+      "Suez",
+      "head_of"
+    ],
+    [
+      "Gerard Mestrallet",
+      "GDF Suez",
+      "head_of"
+    ],
+    [
+      "Gerard Mestrallet",
+      "Suez",
+      "member_of"
+    ],
+    [
+      "Gerard Mestrallet",
+      "GDF Suez",
+      "member_of"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Gazprom",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Electricite de France",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Electricite de France",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "EON",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Dominique de Villepin",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Dominique de Villepin",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Dominique de Villepin",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Dominique de Villepin",
+      "France",
+      "head_of_gov"
+    ],
+    [
+      "Dominique de Villepin",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "Enel",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Socialists",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Socialists",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Finance",
+      "France",
+      "agency_of"
+    ],
+    [
+      "Finance",
+      "French",
+      "agency_of-x"
+    ],
+    [
+      "Finance",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Finance",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Finance",
+      "France",
+      "ministry_of"
+    ],
+    [
+      "Christine Lagarde",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Christine Lagarde",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Christine Lagarde",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Christine Lagarde",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Christine Lagarde",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "Jean-Francois Cirelli",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Jean-Francois Cirelli",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Jean-Francois Cirelli",
+      "GDF Suez",
+      "head_of"
+    ],
+    [
+      "Jean-Francois Cirelli",
+      "GDF Suez",
+      "member_of"
+    ]
+  ]
+}

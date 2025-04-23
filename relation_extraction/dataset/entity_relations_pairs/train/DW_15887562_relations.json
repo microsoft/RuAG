@@ -1,0 +1,80 @@
+{
+  "content": "Breivik boastful in Norway massacre trial\nAnders Behring Breivik has defended his massacre of 77 people in and around Oslo last year, admitting he would 'do it again.' The right-wing extremist returns to the witness stand on Wednesday on day three of his trial.\nNorwegian extremist Anders Behring Breivik returned to the witness stand on Wednesday a day after declaring he would repeat the killings of 77 people if he had the chance. Breivik showed no remorse for the July massacre on Tuesday as he took the stand for the first time. \"I have carried out the most sophisticated and spectacular political attacks committed in Europe since the Second World War,\" Breivik told the court, reading from a prepared statement. Detailing his anti-Islam, anti-multicultural ideology, he claimed to have acted out of \"goodness, not evil\" to prevent a wider civil war in Europe, insisting \"I would have done it again.\" \"The attacks on July 22 were preventive attacks, and I can therefore not acknowledge criminal guilt,\" Breivik said as the almost hour-long statement came to an end. Judge dismissed Breivik's testimony was delayed on Tuesday after one of the five judges in the trial was dismissed over revelations that he had posted a comment on Facebook saying Breivik deserved the death penalty. \"The death penalty is the only fair outcome in this case!!!!\" citizen judge Thomas Indreboe wrote a day after the July 22 attacks. After a 30-minute recess to reach the decision, Indreboe was replaced by backup lay judge Elisabeth Wisloeff. Breivik, 33, pleaded not guilty on Monday to setting off a car bomb at government headquarters in Oslo before embarking on a shooting spree at a youth summer camp organized by the ruling Labor Party. He claims to have been acting in self-defense to protect Norway from Muslims by attacking the left-leaning political party he blamed for the country's immigration policies. The trial is expected to last up to 10 weeks, with the next five days set aside for Breivik's testimony. ccp/acb (AFP, Reuters, dpa, AP)",
+  "relations": [
+    [
+      "Anders Behring Breivik",
+      "Norway",
+      "citizen_of"
+    ],
+    [
+      "Anders Behring Breivik",
+      "Norwegian",
+      "citizen_of-x"
+    ],
+    [
+      "Oslo",
+      "Norway",
+      "in0"
+    ],
+    [
+      "Oslo",
+      "Norwegian",
+      "in0-x"
+    ],
+    [
+      "Thomas Indreboe",
+      "Norway",
+      "agent_of"
+    ],
+    [
+      "Thomas Indreboe",
+      "Norwegian",
+      "agent_of-x"
+    ],
+    [
+      "Thomas Indreboe",
+      "Norway",
+      "citizen_of"
+    ],
+    [
+      "Thomas Indreboe",
+      "Norwegian",
+      "citizen_of-x"
+    ],
+    [
+      "Norwegian",
+      "Norway",
+      "gpe0"
+    ],
+    [
+      "Elisabeth Wisloeff",
+      "Norway",
+      "agent_of"
+    ],
+    [
+      "Elisabeth Wisloeff",
+      "Norwegian",
+      "agent_of-x"
+    ],
+    [
+      "Elisabeth Wisloeff",
+      "Norway",
+      "citizen_of"
+    ],
+    [
+      "Elisabeth Wisloeff",
+      "Norwegian",
+      "citizen_of-x"
+    ],
+    [
+      "Labor Party",
+      "Norway",
+      "based_in0"
+    ],
+    [
+      "Labor Party",
+      "Norwegian",
+      "based_in0-x"
+    ]
+  ]
+}

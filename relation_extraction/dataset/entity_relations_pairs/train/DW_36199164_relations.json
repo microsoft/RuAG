@@ -1,0 +1,100 @@
+{
+  "content": "Syrian forces counter major rebel assault with airstrikes\nSyrian government forces backed by airstrikes have launched a counteroffensive to repel a major assault by opposition fighters in the northern city of Aleppo. The rebels are battling to break a lengthy regime siege.\nMuch of the fighting on Saturday was concentrated around Aleppo's western fringe where a coalition of rebel groups had gained ground on Friday, according to the Syrian Observatory for Human Rights. The Britain-based monitoring group said insurgents were able to capture the neighborhood of Assad as part of a large-scale ground attack launched there on Friday. Backed by Russian and Syrian airstrikes, forces loyal to President Bashar al-Assad's regime responded Saturday with an offensive of their own, but it was not clear whether they had managed to retake any lost ground. The Syrian army command said troops and their allies were pounding insurgent positions with rockets, adding that \"all kinds of weapons\" were being used in the fight for the Assad district. Civilians under siege Yasser al-Yousef of the Nour el-Din el-Zinki rebel faction said fighters had also launched an attack on Aleppo's western Zahraa neighborhood in a push to open up supply lines to the beleaguered eastern side of the divided city. The Syrian army said the troops were repelling the assault, which began later Saturday with a massive car bomb explosion near government positions. As many as 300,000 civilians are believed to be trapped in the rebel-controlled east, surrounded by government troops and with limited access to food and medical supplies. \"In just a few days, we will open the way for our besieged brothers,\" rebel commander Abu Mustafa told the AFP news agency Saturday. The Syrian Observatory for Human Rights said the rebel bombardment had killed at least 21 civilians since Friday. It was unable to provide a death toll for the rebel side. Air campaign Aleppo, Syria's largest city, has been devastated by some of the fiercest fighting seen in nearly six years of war. The rebel coalition has controlled many of the city's eastern districts since mid-2012, and government forces have been battling to retake them ever since. Russia, a key Assad ally, began providing air support to Syrian regime troops in 2015. Moscow implemented a three-day halt to bombing in Aleppo last week to allow civilians to leave the besieged east. Few managed to get out, however, and a UN evacuation plan failed because security could not be guaranteed. The United States on Friday rejected claims that attacks on Aleppo had stopped. \"The regime has rejected UN requests to deliver aid to eastern Aleppo - using starvation as a weapon of war,\" a US official told AFP. More than 300,000 people have died in Syria since the conflict broke out there in 2011. nm/sms (AFP, AP)",
+  "relations": [
+    [
+      "Aleppo",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Aleppo",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Syrian Observatory for Human Rights",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Abu Mustafa",
+      "Nour el-Din el-Zinki",
+      "head_of"
+    ],
+    [
+      "Abu Mustafa",
+      "Nour el-Din el-Zinki",
+      "member_of"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Yasser al-Yousef",
+      "Nour el-Din el-Zinki",
+      "member_of"
+    ],
+    [
+      "Nour el-Din el-Zinki",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Nour el-Din el-Zinki",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Zahraa",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Zahraa",
+      "Aleppo",
+      "in2"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ]
+  ]
+}

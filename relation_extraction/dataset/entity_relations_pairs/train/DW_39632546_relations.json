@@ -1,0 +1,210 @@
+{
+  "content": "#Germany Decides - Election Road Trip\nWhat concerns German voters the most? This is what DW journalists Nina Haase-Trobridge and Sumi Somaskanda want to find out ahead of the nation’s parliamentary elections.\n#Germany Decides - the banner under which a team of reporters from Deutsche Welle is driving across the republic this summer and before the country votes for a new parliament in autumn. The reportage aims to chart the country’s mood and answer our international audience’s question: \"What really concerns the German voter?\" September 24, 2017 sees elections to the 19th German Bundestag. Current incumbent Chancellor Angela Merkel is running for a fourth time, this year against the Social Democrats' candidate Martin Schulz. Many observers feel German society is becoming increasing polarized. Merkel's refugee policy has drawn sustained attack from the right. One party, the \"Alternative for Germany\" (AfD), has gained significant traction out of it’s anti-islamist stance. Narrowly missing entry into the Bundestag in 2013, will it make it this time? DW journalists Sumi Somaskanda and Nina Haase-Trobridge set off on a journey across the republic. They go to Dresden, city of anti-immigrant rallies, to gauge the strength of right-wing populism. They move on through the Czech Republic to Wegscheid on the German-Austrian border, where thousands of refugees poured into Germany every day in the autumn of 2015. What’s it like in the small border community now? The DW team meets Mayor Josef Lamperstorfer, who expressed his scorn for Germany’s politicians in scathing a letter about the humanitarian disaster. How welcome are refugees now? How fairly are they treated in Germany? How stable will the German economy be in the future? Nina Haase-Trobridge and Sumi Somaskanda want to find out how the people of this Republic are getting on. They meet young right-wingers, managers, politicians as well as the politically disillusioned. They travel across Germany from Saxony to Bavaria, Baden-Wurttemberg and North Rhine-Westphalia and then back to Berlin via Bremen. Who is going to be running Germany later this year? Broadcasting Hours: DW (English) SAT 19.08.2017 – 19:15 UTC SUN 20.08.2017 – 01:15 UTC SUN 20.08.2017 – 07:15 UTC SUN 20.08.2017 – 15:15 UTC MON 21.08.2017 – 05:15 UTC MON 28.08.2017 – 09:15 UTC SUN 03.09.2017 – 03:15 UTC Cape Town UTC +2 | Delhi UTC +5,5 | Hong Kong UTC +8 San Francisco UTC -7 | Edmonton UTC -6 | New York UTC -4 Lagos UTC +1 | Cape Town UTC +2 | Nairobi UTC +3 London UTC +1 | Berlin UTC +2 | Moscow UTC +3 DW (Deutsch+) SUN 20.08.2017 – 09:15 UTC Vancouver UTC -7 | New York UTC -4 | Sao Paulo UTC -3",
+  "relations": [
+    [
+      "Alternative for Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Alternative for Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Nina Haase-Trobridge",
+      "Deutsche Welle",
+      "member_of"
+    ],
+    [
+      "Sumi Somaskanda",
+      "Deutsche Welle",
+      "member_of"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Martin Schulz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Martin Schulz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Martin Schulz",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Wegscheid",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Wegscheid",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Josef Lamperstorfer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Josef Lamperstorfer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Josef Lamperstorfer",
+      "Wegscheid",
+      "head_of_gov"
+    ],
+    [
+      "Josef Lamperstorfer",
+      "Wegscheid",
+      "mayor_of"
+    ],
+    [
+      "Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bavaria",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Baden-Wurttemberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Baden-Wurttemberg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

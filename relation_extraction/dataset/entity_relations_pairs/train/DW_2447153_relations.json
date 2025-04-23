@@ -1,0 +1,140 @@
+{
+  "content": "German Jobseekers Plumb Volunteerism's Possibilities\nUnlike the US, Germany does not have a highly developed culture of volunteerism. But with state coffers increasingly empty and a continually tight job market, observers say unpaid work can have hidden benefits.\nIn the US, volunteering is widespread -- a credo promoted at home and in schools, and even as pseudo-governmental doctrine. From tutoring in after school programs, to working as an aide in a hospital, to helping build houses for the poor -- Americans have long been schooled in the importance of \"giving back to community.\" But since its postwar economic boom, Germany has used its tax base wealth to provide for the needy and offer its citizens singularly generous social benefits. Volunteer work was mainly done by charitable religious groups, or young men exempted from military service, fulfilling an obligatory year of civil service. Increasingly, though, young people going onto the job market are discovering the side benefits that can be reaped from a volunteer stint. Such experience can help develop the highly touted \"soft skills\" that are increasingly in demand in the business world, observers say. After all, anyone can call themselves a \"team player,\" but a well-chosen, unpaid job may give them the chance to actually prove they are one. \"For people looking for their first job, working as a volunteer is a great advantage,\" said Sascha Theisen, the spokesman for StepStone.de, an employment-recruiting Internet portal that advises people at all stages of their career. \"It gives them the chance to gain experience, for instance in leading a project, or solving problems or managing people. \"It also means they could come to the job with a network already in place of people who would be good contacts later on down the road,\" he added. Too much of a good thing? But Theisen warned that people who are already in the middle of their careers should be careful not to overdo it. German employers would only really smile upon someone involved in an activity that might be beneficial to business: taking an active role in a professional association, for instance. \"If someone is busy leading several sports clubs and on top of that they sing in a choir, you have to ask yourself, are they going to have enough time for their job?\" Theisen asked. Christoph Lender saw the benefits of volunteering first hand. By his own account, the half-dozen years he spent leading Catholic youth groups helped give him just those skills required by his first employer, a bank. At the job interview, they discussed the work he had done coordinating events, leading discussions and meetings, and being an authority figure for 10 to 15 kids every week. \"It's a signal for a company, that in addition to your studies and any internships you do, that you also took time for other things, and were socially engaged,\" Lender said. \"It speaks for how you choose to spend your time.\" Job boost a 'byproduct' But Lender stressed that his motivation for taking up volunteer work was not some calculated attempt to improve his chances on the job market. \"I did it for my own personal development,\" he said. \"The good experience with the job was just a byproduct of that.\" German software giant SAP's hiring approach also supports Lender's experience. Spokesperson Alla Ruggaber-Mast said the company looks for people who are motivated and independent, with highly developed \"soft skills\" in communication, problem solving, and conflict resolution. But while the firm \"welcomes candidates who are socially engaged, that is not a decisive factor in hiring.\" According to the latest German government survey on volunteerism from 2004, some 36 percent of Germans claim volunteer responsibilities, up from 34 percent five years earlier. But that high number includes such volunteer jobs as taking an active role in a sports club or cultural institute. The figure for \"social\" volunteerism -- such as leading a youth group -- was at 5.5 percent in 2004, up from 4 percent in 1999. There are historical reasons that relatively few Germans take on social volunteer jobs, said Werner Lindwehr, a spokesman for the Agency for Self-Help and Volunteering in the city of Osnabrück, in the state of Lower Saxony. \"Directly after the war, volunteerism was part of society, out of necessity,\" Lindwehr said. \"People helped one another.\" Later, the state took over many of those responsibilities. \"And it may be that Germans started just sitting back and saying, 'I'll let the state take care of it,'\" he acknowledged. Difference to USA Today, however, he sees a movement toward citizens taking a more active role. A \"culture of volunteerism\" is, indeed, developing in Germany, he said. \"People want to do more than just vote every four years,\" Lindwehr said. \"They want to do something on their own doorstep, and they see that they are taken seriously by the government.\" But volunteerism in Germany will never have the same status as in the US, where it fills a quasi-governmental function, he added. \"You can't compare the volunteerism with USA and here,\" he said. \"The US has a much worse social system. In my opinion, they have more need, and thus more organization.\" In Germany, Lindwehr argued, volunteerism will grow, but it will have a more \"political\" character, with volunteers and governments forming a sort of bridge to get things done. For instance, he said, people are becoming increasingly active in local citizens' initiatives. Not everyone likes it An example is a group of people who decide their playground needs renovation, but the town says there is no funding for it. So the local government will act as a go between, and find a carpenter who is willing to donate wood, or people to help manage the construction. Despite these examples, volunteerism in Germany is far from being accepted as purely beneficial. Debates occasionally flare up over the usefulness of the civil-service year, and there are those who decry the notion of unpaid work at all, saying it steals jobs from people who need them. Meanwhile, Christoph Lender said that from where he stands, he has seen little evidence that the country will be overrun by volunteers any time soon. \"Among my friends, I guess you would say I am one of the more socially engaged,\" Lender said. \"Young people have a lot of other things to do -- with sports, going out, the Internet… Everyone has to decide how they want to spend their time.\"",
+  "relations": [
+    [
+      "Sascha Theisen",
+      "StepStone.de",
+      "member_of"
+    ],
+    [
+      "Christoph Lender",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Christoph Lender",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Christoph Lender",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Werner Lindwehr",
+      "Agency for Self-Help and Volunteering",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Americans",
+      "USA",
+      "gpe0"
+    ],
+    [
+      "StepStone.de",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "StepStone.de",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "StepStone.de",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "SAP",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "SAP",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "SAP",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Alla Ruggaber-Mast",
+      "SAP",
+      "member_of"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Agency for Self-Help and Volunteering",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Agency for Self-Help and Volunteering",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Agency for Self-Help and Volunteering",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Agency for Self-Help and Volunteering",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Agency for Self-Help and Volunteering",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Agency for Self-Help and Volunteering",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Osnabrück",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Osnabrück",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Osnabrück",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lower Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germans",
+      "in0-x"
+    ]
+  ]
+}

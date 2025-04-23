@@ -1,0 +1,90 @@
+{
+  "content": "Clashes in Nicaragua over canal construction\nNicaraguan police have used tear gas and rubber bullets to break up protesters opposed to a forthcoming $50 billion shipping canal. The government plans to expropriate land for the Chinese-built project.\nUp to 21 people were injured on Wednesday in clashes between police and protesters in southern Nicaragua, over a planned transoceanic canal. The injured included 15 officers and six civilians. At least 33 people were arrested. The confrontation took place on the Pan American Highway near El Tule, about 400 kilometers (250 miles) southeast of the capital Managua. Police said authorities used force to end a blockade on the highway. The protests began following the inauguration of the canal on Monday when workers broke ground on the $50 billion (41 billion euro), 280-kilometer-long project, which could rival the Panama Canal. The canal will require the expropriation of land, displacing around 30,000 people, and protesters are concerned their homes and farming areas are under threat. It will cross Lake Nicaragua - Central America's largest lake - and run through rainforest and 40 villages. The canal is being built by Chinese firm Hong Kong Nicaragua Development Investment (HKND), owned by billionaire Beijing-based entrepreneur Wang Jing. Nicaraguan President Daniel Ortega says property owners affected by the canal's construction will receive a just price for their land. Although the environmental, technical and financial studies of the project are secret, it will include the construction of a railway, ports and an oil pipeline. Officials expect the canal, which will connect the Caribbean Sea and the Pacific Ocean, to be operational in 2019. jr/gsw (AP, Reuters, AFP)",
+  "relations": [
+    [
+      "Pan American Highway",
+      "Nicaragua",
+      "in0"
+    ],
+    [
+      "Pan American Highway",
+      "Nicaraguan",
+      "in0-x"
+    ],
+    [
+      "Hong Kong Nicaragua Development Investment",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Nicaraguan",
+      "Nicaragua",
+      "gpe0"
+    ],
+    [
+      "El Tule",
+      "Nicaragua",
+      "in0"
+    ],
+    [
+      "El Tule",
+      "Nicaraguan",
+      "in0-x"
+    ],
+    [
+      "Managua",
+      "Nicaragua",
+      "in0"
+    ],
+    [
+      "Managua",
+      "Nicaraguan",
+      "in0-x"
+    ],
+    [
+      "Lake Nicaragua",
+      "Nicaragua",
+      "in0"
+    ],
+    [
+      "Lake Nicaragua",
+      "Nicaraguan",
+      "in0-x"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Wang Jing",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Daniel Ortega",
+      "Nicaragua",
+      "agent_of"
+    ],
+    [
+      "Daniel Ortega",
+      "Nicaragua",
+      "citizen_of"
+    ],
+    [
+      "Daniel Ortega",
+      "Nicaraguan",
+      "citizen_of-x"
+    ],
+    [
+      "Daniel Ortega",
+      "Nicaragua",
+      "head_of_state"
+    ],
+    [
+      "Daniel Ortega",
+      "Nicaraguan",
+      "head_of_state-x"
+    ]
+  ]
+}

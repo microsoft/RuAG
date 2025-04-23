@@ -1,0 +1,155 @@
+{
+  "content": "Debate over German defense budget surfaces\nIncreased defense spending budgeted by the German cabinet for 2017 has already been called into question. It won't even keep the army functional, according to a Defense Ministry paper quoted by the newspaper \"Bild.\"\nGermany's defense sector on Saturday sought a bigger share of Germany's federal budget for election year 2017 as debate surfaced ahead of parliament's final expenditure approvals in November. Defense ministry budget experts had concluded that an extra 1.7 billion euros earmarked for the Bundeswehr was insufficient to keep existing services functional, let alone enable investments in new equipment, said the tabloid \"Bild.\" In late March, Chancellor Angela Merkel's cabinet adopted the cornerstones of a 325-billion-euro federal budget for 2017, with 36.6 billion euros planned for defense and more than half overall - 171 billion euros - set aside for social welfare. \"Bild,\" quoting the internal defense paper, said the Bundeswehr would be left unable to purchase additional Leopard 2 battle tanks and would have to do without a new air defense system, known by its acronym as TLVS. The reaction to those claims within government circles had been that defense funding would be \"needs-oriented,\" Bild added, referring to longstanding warnings about Bundeswehr readiness. By 2020, defense spending would be 10.2 billion euros higher, a defense ministry spokesman told the French news agency AFP, adding, however, that such increases needed to be sustained in the long term. Two percent of GDP NATO allies, reacting to Russia's actions in Ukraine, agreed at their summit in Wales in 2014 to halt defense budget cuts and spend two percent of each nation's gross domestic product (GDP) on their militaries. \"Bild,\" again quoting the confidential paper as well as the DBwV association, which represents soldiers, said Germany would remain below that two-percent commitment. The Munich-based news magazine \"Focus\" said German Defense Minister Ursula von der Leyen had rejected calls for a return to military conscription, which Germany adopted in 1956 and dropped in 2011. The Bundeswehr, currently at 177,000 soldiers plus some 87,000 civilians, needed more personnel, \"but primarily highly motivated and qualified specialists,\" she said, adding that recruits whose \"hearts were not in it\" were of little help. The more effective recruitment approach was to show that the Bundeswehr was an \"attractive and modern employer,\" von der Leyen said, referring to her ministry's plan to recruit 14,300 extra soldiers and 4,400 civilians over the next seven years. Recruits sought for new cyber unit Alongside the Bundeswehr's five sections - ground forces, air force, navy, logistics and medical service - Germany is now recruiting personnel for its new cyber defense division. In 1990, at the time of German reunification and shortly after the fall of the Berlin Wall, the Bundeswehr had 585,000 troops - combining personnel of the former West Germany and the former communist East Germany. ipj/bw (dpa, AFP, Reuters)",
+  "relations": [
+    [
+      "Bundeswehr",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Defense Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Defense Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Defense Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Defense Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "AFP",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "DBwV",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DBwV",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Focus",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Focus",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Focus",
+      "Munich",
+      "based_in2"
+    ]
+  ]
+}

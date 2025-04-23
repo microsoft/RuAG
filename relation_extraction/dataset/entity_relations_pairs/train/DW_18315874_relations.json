@@ -1,0 +1,180 @@
+{
+  "content": "China protests Myanmar bombing on its territory, sends jets to border\nBeijing has sent fighter jets to its border and summoned Myanmar's ambassador after a Yangon airstrike within China killed four citizens. The bombing was part of Myanmar's offensive against rebels in its north.\nFighter jets monitored China's border to Myanmar on Saturday after a bomb from a Myanmar aircraft hit a sugarcane field in the Chinese border city of Lincang and killed four people. Nine others were injured, news agency Xinhua reported. The strike, which came as Yangon's forces were battling rebels in the north at the Chinese border, followed a similar incident some days back when a stray shell from Myanmar exploded in Chinese territory. The jets were sent to \"track, monitor, warn and chase away\" Myanmar military aircraft flying near the shared border, news agency DPA quoted the Chinese Air Force spokesman Shen Jinke as saying. Chinese Deputy Foreign Minister Liu Zhenmin also summoned Yangon's ambassador Thit Linn Ohn to protest the incident. China \"strongly condemns\" the incident and calls on Myanmar to carry out a thorough investigation, report the findings to China, punish the guilty and take steps to ensure similar events do not occur, the Chinese Foreign Ministry said in a statement. Myanmar denies accusations Myanmar officials, on the other hand, said their offensive took place after they informed Chinese officials of their plan and that their attacks were carried out \"strictly adhering to the information we told them.\" \"The targets of all our aerial attacks were inside our territory,\" Yangon official Zaw Htay told Reuters, accusing rebels of \"purposely creating the attacks with the intent of causing misunderstanding between China and us.\" Myanmar's offensive against rebels in its Kokang region, at China's southwest, has sent thousands of people fleeing across the border into China. Myanmar's forces have blamed the latest fighting on a renegade rebel faction led by Phone Kya Shin, who attempted to seize Laukkai, the capital of the self-administered Kokang region. US officials have also accused Phone, also known as Peng Jiashing, of playing a major role in trafficking opium and methamphetamines. The guerrilla faction used to be part of the Burmese Communist Party, backed by China until it signed a ceasefire with Yangon in 1989. Myanmar officials however still accuse former Chinese soldiers of training the rebels, a charge Beijing denies. mg/ng (dpa, AP, Reuters)",
+  "relations": [
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "agency_of"
+    ],
+    [
+      "Foreign Ministry",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "China",
+      "ministry_of"
+    ],
+    [
+      "Phone Kya Shin",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "Yangon",
+      "Myanmar",
+      "in0"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Lincang",
+      "China",
+      "in0"
+    ],
+    [
+      "Lincang",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Xinhua",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Xinhua",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Chinese Air Force",
+      "China",
+      "agency_of"
+    ],
+    [
+      "Chinese Air Force",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "Chinese Air Force",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Chinese Air Force",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Shen Jinke",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Shen Jinke",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Shen Jinke",
+      "Chinese Air Force",
+      "member_of"
+    ],
+    [
+      "Shen Jinke",
+      "Chinese Air Force",
+      "spokesperson_of"
+    ],
+    [
+      "Liu Zhenmin",
+      "China",
+      "agent_of"
+    ],
+    [
+      "Liu Zhenmin",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Liu Zhenmin",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Liu Zhenmin",
+      "China",
+      "minister_of"
+    ],
+    [
+      "Liu Zhenmin",
+      "Chinese",
+      "minister_of-x"
+    ],
+    [
+      "Thit Linn Ohn",
+      "China",
+      "agent_of"
+    ],
+    [
+      "Thit Linn Ohn",
+      "Chinese",
+      "agent_of-x"
+    ],
+    [
+      "Thit Linn Ohn",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "Zaw Htay",
+      "Myanmar",
+      "agent_of"
+    ],
+    [
+      "Zaw Htay",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "Kokang",
+      "Myanmar",
+      "in0"
+    ],
+    [
+      "Laukkai",
+      "Myanmar",
+      "in0"
+    ],
+    [
+      "Burmese Communist Party",
+      "Myanmar",
+      "based_in0"
+    ]
+  ]
+}

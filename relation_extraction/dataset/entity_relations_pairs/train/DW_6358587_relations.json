@@ -1,0 +1,125 @@
+{
+  "content": "Bavarian premier pledges better relations with Prague\nHorst Seehofer, the premier of Bavaria, has been in Prague to meet with Czech Prime Minister Petr Necas. The visit marks the first such trip by a Bavarian leader since World War II.\nHorst Seehofer, premier of the German state of Bavaria, wrapped up talks with Czech Prime Minister Petr Necas on Monday by pledging future cooperation between the neighbors. Seehofer was in Prague for the first official visit by a Bavarian leader to the Czech capital since the end of World War II. He has suggested the leaders now meet regularly. \"We want to open a new chapter in our relationship, and we've taken the first step towards that\", Seehofer said, after more than an hour of conversation with the Czech prime minister. Relations between the Czech Republic and the border state of Bavaria have been strained by the expulsion of ethnic Germans from the former Czechoslovakia in 1945. Many of the expellees, known as Sudeten Germans, ended up in Bavaria. \"What we could not avoid were differing views about the past,\" Seehofer said. \"We are united in wanting to focus on the future together.\" Touchy subject Prime Minister Necas said his country had a \"huge interest\" in future cooperation, which is likely to include closer energy links and travel connections. Seehofer, head of the conservative Christian Social Union (CSU) party in Bavaria, had dinner with Czech Foreign Minister Karel Schwarzenberg on Sunday evening. Czech and Bavarian leaders did not discuss the controversial postwar decrees under which Sudeten Germans were deported from Czechoslovakia and had their property seized. Although Bavaria has long wanted them abolished, the decrees remain valid today, as Czech leaders fear removing them would give expellees or their heirs property claims. The Bavarian delegation included Bernd Posselt, a representative of the Sudeten German deportees, who has been critical of Prague. He did not take part in Seehofer's talks with Necas. Author: Martin Kuebler, Thomas Sheldrick (dpa, Reuters) Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Christian Social Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Social Union",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bavaria",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Horst Seehofer",
+      "Bavaria",
+      "agent_of"
+    ],
+    [
+      "Horst Seehofer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Horst Seehofer",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Horst Seehofer",
+      "Christian Social Union",
+      "head_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Bavaria",
+      "head_of_gov"
+    ],
+    [
+      "Horst Seehofer",
+      "Petr Necas",
+      "is_meeting"
+    ],
+    [
+      "Horst Seehofer",
+      "Christian Social Union",
+      "member_of"
+    ],
+    [
+      "Petr Necas",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Petr Necas",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Petr Necas",
+      "Czech Republic",
+      "head_of_gov"
+    ],
+    [
+      "Petr Necas",
+      "Czech",
+      "head_of_gov-x"
+    ],
+    [
+      "Petr Necas",
+      "Horst Seehofer",
+      "is_meeting"
+    ],
+    [
+      "Bavarian",
+      "Bavaria",
+      "gpe1"
+    ],
+    [
+      "Prague",
+      "Czech Republic",
+      "in0"
+    ],
+    [
+      "Prague",
+      "Czech",
+      "in0-x"
+    ],
+    [
+      "Czech",
+      "Czech Republic",
+      "gpe0"
+    ],
+    [
+      "Karel Schwarzenberg",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Karel Schwarzenberg",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Karel Schwarzenberg",
+      "Czech Republic",
+      "minister_of"
+    ],
+    [
+      "Karel Schwarzenberg",
+      "Czech",
+      "minister_of-x"
+    ]
+  ]
+}

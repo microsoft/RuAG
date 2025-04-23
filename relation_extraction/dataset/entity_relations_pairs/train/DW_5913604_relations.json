@@ -1,0 +1,95 @@
+{
+  "content": "French traveling groups block highway after Roma evictions\nEthnic Roma and French travelers have staged a protest on a major highway after hundreds were evicted from an illegal site. The French government is cracking down, vowing to close 300 campsites.\nMembers of France's ethnic Roma group and members of the country's native traveler minority blocked a major highway outside Bordeaux on Sunday after being evicted from a campsite near the city. The blockade was the first major protest in the wake of a government crackdown on unauthorized sites across the country. Protesters used cars, trucks and caravans to block the Bordeaux bypass and a bridge over the River Garonne in the southwest of the country. Police and road safety officials said traffic in the direction of Paris was backed up for five kilometers (three miles) on a summer public holiday weekend. The protesters blocked the bridge for some five hours, leaving to try to gain access to a sports ground. They were stopped by riot police and reoccupied the bridge for another hour-and-a-half. Forced to leave site The group of travelers and Roma had been forced to leave a campsite in the nearby town of Anglet, and had been denied access to an exhibition ground by authorities. French President Nicolas Sarkozy last month announced plans to dismantle 300 unauthorized campsites within three months, following a clash between Roma, mainly of Bulgarian and Romanian origin, and police. The raids, being investigated by the United Nations Committee on the Elimination of Racial Discrimination, were met with criticism from committee members at a meeting last week. A lawmaker from Sarkozy's ruling UMP party, Jean-Pierre Grand branded the evictions \"disgraceful\" on Saturday, likening them to roundups of minorities during World War II. Author: Richard Connor (AFP/Reuters) Editor: Martin Kuebler",
+  "relations": [
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "UMP",
+      "member_of"
+    ],
+    [
+      "Bordeaux",
+      "France",
+      "in0"
+    ],
+    [
+      "Bordeaux",
+      "French",
+      "in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Anglet",
+      "France",
+      "in0"
+    ],
+    [
+      "Anglet",
+      "French",
+      "in0-x"
+    ],
+    [
+      "UMP",
+      "France",
+      "based_in0"
+    ],
+    [
+      "UMP",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Jean-Pierre Grand",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Jean-Pierre Grand",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Jean-Pierre Grand",
+      "UMP",
+      "member_of"
+    ]
+  ]
+}

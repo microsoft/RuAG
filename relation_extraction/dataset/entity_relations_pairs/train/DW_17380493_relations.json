@@ -1,0 +1,120 @@
+{
+  "content": "Social entrepreneurs take on inequality at Davos\nThe journey to the winter wonderland of Davos has been long for many participants in the WEF 2014. Among them are a group of social entrepreneurs who've come here from all over the world to make their voices heard.\nIt's breakfast in lofty heights for a group of social entrepreneurs, as they're lodging on the Schatzalp - one of the highest-elevation spots in Davos. Vacant rooms are few and far between during the World Economic Forum, and the group can only reach their hotel after a 10-minute mountain railway ride. For social entrepreneur Mads Kjaer from Denmark, it's a very special day as he has breakfast together with Nobel Peace Prize winner Mohamed Yunus, who was able to escape from the hustle and bustle in the meeting center for a few moments and is also residing on the Schatzalp. Kjaer manages to get a few tips from the prominent guest as to how to run his business. The Dane's firm is called My C4, through which he collects money for entrepreneurs on the ground in Africa. The online platform presents projects and coordinates co-financing. \"A credit of $1,000 [738 euros] is enough to create five jobs,\" said the Dane, who lives in Kenya. He's collected and allocated 22 million euros in the past seven years. Small group, big impact 30 social entrepreneurs have come to Davos at the invitation of the Schwab Foundation. Many have a long journey behind them, as they came from as far way as India, South Africa and Rwanda. In their home countries, they've founded companies with a view to promote social change. They build schools, improve the healthcare system, or help unemployed youth. At the World Economic Forum, they join with the world's mighty in debating global issues. Considering the 2,600 participants in the forum, they are but a tiny group - but the topics they raise draw a good deal of attention. Combating poverty \"The way we've acted in the past few decades has led to more inequality and more people going hungry,\" said Philippine social entrepreneur Bam Aquino. \"There's poverty all over the world, and so many feel the urge to behave differently.\" His firm Hapinoy supports small entrepreneurs across his home country who, with their network of kiosks, have helped supply goods to people who need them. The uneven distribution of wealth is an abundantly debated topic in Davos. Small wonder, as the presence of only few rich people among many poor creates high potential for conflict. Blue-blooded social entrepreneur Fazle Hasan Abed from Bangladesh has been aware of that for a long time. The 77-year-old has been knighted by the Queen of England for his commitment to social justice. His organization called BRAC now has 100,000 members. He started out in 1972 when he was still working for Shell in London. He became fully aware of the poverty levels in his home country upon visiting. He sold his house for 7,000 British pounds and used the money to found BRAC, which helps to improve people's lives by organizing school education or granting micro-credit. \"People will remain poor if we do not invest in education,\" he told DW. Failed policy-making? Politicians fail quite often, Sir Fazle Hasan Abed said - hence social entrepreneurs must step in, particularly in emerging and developing nations. A company has to earn money in order to be able to invest, he added. What he owned now belongs to BRAC. \"I don't need a house, nor do I need a car,\" he stated. He said he's confident about Bangladesh's future. \"We have 6 percent growth annually, and after the terrible accident in the textile factory, our government has finally introduced a minimum wage to improvie the situation of many people, he said. Then he walked off through the snow of Davos.",
+  "relations": [
+    [
+      "World Economic Forum",
+      "Davos",
+      "event_in2"
+    ],
+    [
+      "Mads Kjaer",
+      "Denmark",
+      "citizen_of"
+    ],
+    [
+      "Mads Kjaer",
+      "Dane",
+      "citizen_of-x"
+    ],
+    [
+      "Mads Kjaer",
+      "My C4",
+      "head_of"
+    ],
+    [
+      "Mads Kjaer",
+      "My C4",
+      "member_of"
+    ],
+    [
+      "Schatzalp",
+      "Davos",
+      "in2"
+    ],
+    [
+      "Mohamed Yunus",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Dane",
+      "Denmark",
+      "gpe0"
+    ],
+    [
+      "My C4",
+      "Denmark",
+      "based_in0"
+    ],
+    [
+      "My C4",
+      "Dane",
+      "based_in0-x"
+    ],
+    [
+      "Bam Aquino",
+      "Philippine",
+      "citizen_of-x"
+    ],
+    [
+      "Bam Aquino",
+      "Hapinoy",
+      "head_of"
+    ],
+    [
+      "Bam Aquino",
+      "Hapinoy",
+      "member_of"
+    ],
+    [
+      "Fazle Hasan Abed",
+      "Bangladesh",
+      "citizen_of"
+    ],
+    [
+      "Fazle Hasan Abed",
+      "BRAC",
+      "head_of"
+    ],
+    [
+      "Fazle Hasan Abed",
+      "BRAC",
+      "member_of"
+    ],
+    [
+      "Fazle Hasan Abed",
+      "Shell",
+      "member_of"
+    ],
+    [
+      "Shell",
+      "England",
+      "based_in0"
+    ],
+    [
+      "Shell",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Shell",
+      "London",
+      "based_in2"
+    ],
+    [
+      "London",
+      "England",
+      "in0"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "British",
+      "England",
+      "gpe0"
+    ]
+  ]
+}

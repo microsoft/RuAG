@@ -1,0 +1,45 @@
+{
+  "content": "Commerzbank appoints Martin Zielke as new CEO\nCommerzbank has named Martin Zielke as its next chief executive officer, taking over from current CEO Martin Blessing on May 1. The 53-year-old will be leading Germany's second biggest lender.\nAfter successfully weathering the Great Recession, Commerzbank's board of directors appears to want to signal a continuation in its growth trend with Martin Zielke's appointment as the new CEO as of May 1. Outgoing head Martin Blessing announced last year he would not renew his contract. Zielke had previously been put in charge of implementing reforms in the company's private banking sector following the recession. His restructuring measures attracted 800,000 new customers to the bank and changed the image of the 146-year-old financial institution. The 53-year-old has an illustrious career across several German financial institutions to look back on, having started at the teller of a local branch in 1983. Zielke's crowning achievement The beleaguered German financial institution recorded a profit of more than a billion euros (more than $1.1 billion) last year. It was the first time in five years that Commerzbank had made such profitable gains, which it said would translate into paid dividends for shareholders. A good portion of the yields were achieved by a restructuring and expansion drive of Commerzbank's private banking arm under Zielke's leadership. However, some of that money will go to the German government, as it had to step in and rescue the bank in 2009 to the tune of 18 billion euros ($25 billion at the time) by chiefly acquiring more than 15 percent of the shares, effectively nationalizing part of Commerzbank's operations. ss/jlw (dpa, Reuters)",
+  "relations": [
+    [
+      "Commerzbank",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Commerzbank",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Martin Zielke",
+      "Commerzbank",
+      "head_of"
+    ],
+    [
+      "Martin Zielke",
+      "Commerzbank",
+      "member_of"
+    ],
+    [
+      "Great Recession",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Martin Blessing",
+      "Commerzbank",
+      "head_of"
+    ],
+    [
+      "Martin Blessing",
+      "Commerzbank",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

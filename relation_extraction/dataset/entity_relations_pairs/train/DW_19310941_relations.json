@@ -1,0 +1,160 @@
+{
+  "content": "Bangladeshi Hindus seeking safety in India\nThe number of Hindus living in Bangladesh continues to shrink as many of them leave to seek refuge in neighboring India. Experts blame it on religious persecution and systematic oppression against the minority community.\nAnanda Gopal Ganguly left his home early in the morning on Tuesday, June 7, to offer morning prayers. But the 70-year-old priest didn't reach his destination. Farmers later discovered his dead body near his home in the southwestern city of Jhenidah. This is the latest in a string of attacks on minorities by suspected Islamists in the South Asian nation. More than 40 people have been killed by Islamic extremists in recent years, and most of the victims belong to minority communities. Over the past four decades, the number of Hindus living in the Muslim-majority country has declined from 13.5 percent to 8.5 percent, according to Bangladeshi government data. The latest census, conducted in 2011, showed nearly a million Hindus disappeared from the country between 2001 and 2011. Insecurity and discrimination Mainstream political parties have failed to protect religious minorities in the country, says Rana Dasgupta, the general secretary of the Bangladesh Hindu Buddhist Christian Unity Council (BHBCUC). \"The Hindu community living here has been facing persecution ever since the partition of the Indian subcontinent in 1947, first in what was then East Pakistan until 1971. And the situation didn't change much even after the emergence of Bangladesh as an independent nation,\" Dasgupta told DW. In the decades following its independence, Bangladesh witnessed a number of attacks on the Hindu community. For instance, in the aftermath of the demolition of the Babri mosque in India in 1992, over 200 Hindu temples were destroyed in Bangladesh by Islamic fundamentalists. Many Hindu families were also attacked by extremists at that time. Furthermore, violence against Hindu communities is common at the time of elections, as a consequence of political parties using polarizing rhetoric against minorities in their attempt to garner votes. Dasgupta blames religious fundamentalists, particularly the supporters of Bangladesh's largest Islamic party, Jamaat-e-Islami, for attacks on the Hindu community, saying that the party's loyalists were found to be the perpetrators of many of the assaults. Jyotirmoy Barua, a lawyer and human rights activist, believes Hindus in Bangladesh are not getting enough support from the state, which is making them even more vulnerable in their own land. \"In most cases, we see that the main reason behind the attacks on Hindus is disputes over land ownership,\" he told DW, adding that law enforcement agencies are failing to protect the rights of minorities in the country. \"Attacks on the minority community are also carried out by workers of the ruling party, the Awami League. For that reason, Hindus feel helpless and the government is silent on this issue for long,\" Barua noted. Seeking refuge Around 750 people from minority communities, on average, are leaving Bangladesh every day, reveals research conducted by Abul Barkat, an economist and professor at Dhaka University. Most of them cross the border to seek refuge in neighboring India. Although many believe Bangladeshi Hindus mainly move to India for economic reasons, BHBCUC expert Dasgupta disagrees. \"Security is the main reason behind their decision to leave Bangladesh. If the government ensures their safety, they will not leave the country,\" he stressed. Meanwhile, the Indian government is planning to change its citizenship law - to exempt Hindus of Bangladesh and Pakistan who have fled to India out of fear of religious persecution from being tagged as \"illegal migrants.\" The move could make it easier for them to obtain Indian passports in the future. Dasgupta also said that mainstream political parties in Hindu-majority India have always expressed their support to Bangladeshi Hindus, pointing to the Indian Home Minister Rajnath Singh's recent assertion that \"Bangladeshi minorities who have taken refuge in India to escape persecution would be granted citizenship.\" The problem with 'state religion' But leaving Bangladesh is not a solution for the Hindu community, underlines Dasgupta. The rights activist calls on the nation's government, led by Prime Minister Sheikh Hasina, to scale up its efforts to protect Hindus and prevent attacks from both Islamists and politicians alike. \"Bangladesh's constitution is not secular. It has a state religion, which is biased toward a specific religion. It won't be possible to ensure safety and security of minorities in the country without dropping state religion from the constitution,\" argued Dasgupta. Lawyer Barua also echoed a similar opinion. He stresses that the mainstream Muslim community needs to play an active role to protect the rights of all other religious groups in the country. \"No law will be enough to protect the country's Hindus, Christians, Buddhists and Ahmadis, if the Muslims do not resist such extremist acts.\"",
+  "relations": [
+    [
+      "Hindus",
+      "Bangladesh",
+      "present_in0"
+    ],
+    [
+      "Bangladesh Hindu Buddhist Christian Unity Council",
+      "Bangladesh",
+      "based_in0"
+    ],
+    [
+      "Bangladesh Hindu Buddhist Christian Unity Council",
+      "Bangladeshi",
+      "based_in0-x"
+    ],
+    [
+      "Rana Dasgupta",
+      "Bangladesh Hindu Buddhist Christian Unity Council",
+      "head_of"
+    ],
+    [
+      "Rana Dasgupta",
+      "Bangladesh Hindu Buddhist Christian Unity Council",
+      "member_of"
+    ],
+    [
+      "Bangladeshi",
+      "Bangladesh",
+      "gpe0"
+    ],
+    [
+      "Ananda Gopal Ganguly",
+      "Bangladesh",
+      "citizen_of"
+    ],
+    [
+      "Ananda Gopal Ganguly",
+      "Bangladeshi",
+      "citizen_of-x"
+    ],
+    [
+      "Jhenidah",
+      "Bangladesh",
+      "in0"
+    ],
+    [
+      "Jhenidah",
+      "Bangladeshi",
+      "in0-x"
+    ],
+    [
+      "Muslim",
+      "Bangladesh",
+      "present_in0"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Babri",
+      "India",
+      "in0"
+    ],
+    [
+      "Babri",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Jamaat-e-Islami",
+      "Bangladesh",
+      "based_in0"
+    ],
+    [
+      "Jamaat-e-Islami",
+      "Bangladeshi",
+      "based_in0-x"
+    ],
+    [
+      "Awami League",
+      "Bangladesh",
+      "based_in0"
+    ],
+    [
+      "Awami League",
+      "Bangladeshi",
+      "based_in0-x"
+    ],
+    [
+      "Abul Barkat",
+      "Dhaka University",
+      "member_of"
+    ],
+    [
+      "Dhaka University",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Dhaka University",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Rajnath Singh",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Rajnath Singh",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Rajnath Singh",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Rajnath Singh",
+      "India",
+      "minister_of"
+    ],
+    [
+      "Rajnath Singh",
+      "Indian",
+      "minister_of-x"
+    ],
+    [
+      "Sheikh Hasina",
+      "Bangladesh",
+      "agent_of"
+    ],
+    [
+      "Sheikh Hasina",
+      "Bangladesh",
+      "citizen_of"
+    ],
+    [
+      "Sheikh Hasina",
+      "Bangladeshi",
+      "citizen_of-x"
+    ],
+    [
+      "Sheikh Hasina",
+      "Bangladesh",
+      "head_of_gov"
+    ],
+    [
+      "Sheikh Hasina",
+      "Bangladeshi",
+      "head_of_gov-x"
+    ]
+  ]
+}

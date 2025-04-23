@@ -1,0 +1,140 @@
+{
+  "content": "Iran Issues Enrichment Threat But Considers Russian Proposal\nIran said Monday that it would restart uranium enrichment work despite international objections. At the same time, Tehran indicated that negotiations were still possible and that Russian options were being considered.\nIran said Monday that large-scale uranium enrichment work, the focus of fears it is seeking nuclear weapons, will begin in \"due course\" in response to the International Atomic Energy Agency's (IAEA) decision to report the clerical regime to the UN Security Council. \"The order from the president lifts the voluntary restrictions and Iran will resume its work,\" government spokesman Gholam Hossein Elham told reporters, referring to an order from hard-line President Mahmoud Ahmadinejad. But when asked to say what specific work had already resumed -- and if that included enrichment equipment being put into action -- he replied that \"technical issues are the concern of the Atomic Energy Organization of Iran.\" \"They will follow the directive and they will resume their technical work. The Atomic Energy Organization will give its order in due course,\" Elham said. Enrichment is a process that involves feeding uranium gas through cascades of centrifuges. When purified to low levels the result is reactor fuel, but the process can be extended to make the fissile core of a nuclear bomb. Iran had agreed to suspend this work, as well as centrifuge assembly, as part of a 2003 and 2004 deal with Britain, France and Germany. The current crisis was sparked by Iran's decision last August to resume uranium conversion -- which makes the gas fed into centrifuges -- and start laboratory-scale enrichment on Jan. 10. Enrichment announcement in retaliation to IAEA decision The kick-starting of full-scale fuel cycle work comes in retaliation against Saturday's vote by the IAEA's 35-nation board to report Iran to the UN Security Council, a turning point in the long-running nuclear dispute that exposes Tehran to the threat of sanctions. The country, which maintains it only wants to generate atomic energy, announced Sunday that it will also no longer allow reinforced inspections of its nuclear facilities. \"We are now at the end of one phase where the Islamic republic was building trust, going beyond its Non-Proliferation Treaty commitments and cooperating within the framework of the additional protocol,\" Elham explained. \"There has been a good chance for our negotiation partners to reach a good result. But now the door for voluntary measures has been closed. What remains open is the door of negotiation,\" he added. \"Our use of nuclear technology is very transparent, and as the president has said, we will continue our nuclear program within the framework of the NPT. Iran dos not have any plans to get out of the NPT.\" Iranian president laughs at \"idiots\" behind UN resolution Ahmadinejad has laughed off the resolution and branded Iran's international opponents as \"idiots,\" while Elham insisted the resolution was a \"victory\" for the Islamic republic. \"From our position it was a victory. The government and people are hand in hand and that is a victory. The breaking of the consensus on the IAEA board was a victory. And the position of the West shows the second and third generation of the Islamic republic that they don't want Iran to progress, and that too is a victory,\" he insisted. He also asserted that oil-rich Iran still had the upper hand when it came to enduring any eventual sanctions. \"Energy is a matter for the West, and we are not interested in causing problems for them. Any decision in this regard will not hurt us. It will hurt the consumers and not the producers. We are in a position of power when it comes to energy, and it will not have any affect on our budget,\" he said. The spokesman also dismissed rumors of fierce divisions within the regime -- dominated by hardliners but featuring some more pragmatic conservatives -- on how to handle the escalation crisis. \"We deal within the framework of the regime, and on the matter of foreign affairs the government implements this policy. Nothing special has happened in this regard,\" Elham said. Iran ready to negotiate with Russia over enrichment offer However, in what was interpreted as a sign that Iran was still ready to negotiate, Tehran said that Russia's offer to shift Iran's uranium enrichment to Russian territory was still up for discussion. Before IAEA voted to report the Iranian nuclear program to the Security Council on Saturday, Iran had threatened to walk away from future talks with Moscow on a proposal which was seen as a means of assuring the world that the process would not produce materials that could be used to make nuclear weapons. Iran on Sunday indicated it remained ready for talks on the Russian proposal. Steinmeier: Russian proposal a way back to diplomacy German Foreign Minister Frank-Walter Steinmeier on Sunday urged Iran to accept the Russian proposal, saying it \"can be the key to a negotiated solution.\" The decision taken by the IAEA to report Iran to the UN Security Council \"a show of international unity\", Steinmeier said. \"It was a very strong and determined signal to the Iranian leadership that is should fully suspend its nuclear program.\" Germany's top diplomat said the Iranian nuclear issue was the most important task facing the world. \"Solving the Iranian nuclear issue is the key task for the immediate future unless we want an arms race in the Middle East,\" Steinmeier said.",
+  "relations": [
+    [
+      "Atomic Energy Organization of Iran",
+      "Iran",
+      "agency_of"
+    ],
+    [
+      "Atomic Energy Organization of Iran",
+      "Iranian",
+      "agency_of-x"
+    ],
+    [
+      "Atomic Energy Organization of Iran",
+      "Iran",
+      "based_in0"
+    ],
+    [
+      "Atomic Energy Organization of Iran",
+      "Iranian",
+      "based_in0-x"
+    ],
+    [
+      "Non-Proliferation Treaty",
+      "Iran",
+      "signed_by"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Tehran",
+      "Iranian",
+      "in0-x"
+    ],
+    [
+      "Mahmoud Ahmadinejad",
+      "Iran",
+      "agent_of"
+    ],
+    [
+      "Mahmoud Ahmadinejad",
+      "Iran",
+      "citizen_of"
+    ],
+    [
+      "Mahmoud Ahmadinejad",
+      "Iranian",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Ahmadinejad",
+      "Iran",
+      "head_of_state"
+    ],
+    [
+      "Mahmoud Ahmadinejad",
+      "Iranian",
+      "head_of_state-x"
+    ],
+    [
+      "Gholam Hossein Elham",
+      "Iran",
+      "agent_of"
+    ],
+    [
+      "Gholam Hossein Elham",
+      "Iranian",
+      "agent_of-x"
+    ],
+    [
+      "Gholam Hossein Elham",
+      "Iran",
+      "citizen_of"
+    ],
+    [
+      "Gholam Hossein Elham",
+      "Iranian",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "part_of"
+    ],
+    [
+      "Iranian",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

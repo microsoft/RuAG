@@ -1,0 +1,415 @@
+{
+  "content": "Cazeneuve, Merkel reaffirm Paris-Berlin links\nFrance's new premier Bernard Cazeneuve says the French-German partnership remains a \"daily lived reality.\" Welcoming him on his first visit to Berlin, Chancellor Merkel said a strong Europe depends on their two nations.\nCazaneuve on Monday began a two-day visit to Berlin, emphasizing that the Paris-Berlin dialog was \"so important\" for Europe in turbulent times in which populists had become louder and the EU faced strains. Answers had to be communicated to those who had doubts about Europe's \"added value,\" said France's premier on his first bilateral trip abroad. \"It's also our joint obligation to push for the stability of the eurozone and to ensure growth and employment,\" said Cazeneuve, referring to joblessness, which is relatively high among young people in France. 'Intertwinned,' says Merkel Chancellor Angela Merkel told a Berlin news conference that Germany and France were \"intertwined\" through close trade relations. \"Europe can only be strong when both countries prosper economically,\" she said. Merkel also vowed intensive consultation with France on anti-terror initiatives. Danger could only be mitigated through close cooperation, she added. Cazeneuve praises Merkel's 'courage' Cazeneuze praised what he called Merkel's \"courage\" during the so-called refugee crisis of 2015 and early 2016, when migrants transited Aegean-Balkans routes, heading mainly for Germany and Scandinavia. In its aftermath, Europe needed \"stronger controls of the EU's external borders,\" Cazeneuve said, coupled with joint efforts by all EU nations to cope with arrivals in the context of the \"values of humanity.\" Only indirectly did Cazeneuve refer to the new US President Donald Trump, saying it was good that Paris and Berlin spoke with one voice on transatlantic relations. Cazeneuve-Schulz encounter on Tuesday On Tuesday, the second day of Cazeneuve's Berlin visit, he is due to hold talks with Germany's new Foreign Minister Sigmar Gabriel, the German federal Bundestag parliament's president Norbert Lammert and the Social Democrats' candidate for chancellor in Germany's September election, Martin Schulz, the former president of the European Parliament. Gabriel and Schulz are leading figures in Germany's Social Democratic (SPD) party, which since 2013 has been partner in Merkel's grand coalition, which also comprises her conservative CDU and Bavaria's CSU parties. Lammert, renouned for his advocacy of democracy, belongs to Merkel's Christian Democrats and led election proceedings last Sunday that saw Frank-Walter Steinmeier become German president, a largely ceremonial post. Cazeneuve rose from interior minister to French premier under President Francois Hollande in December, replacing Manuel Valls who later unsuccessfully sought the French Socialists' candidacy for France's presidential elections in April and May. In an opinion poll published on Tuesday in France, Emmanuel Macron, a former Minister of Economy in the socialist government of Francois Hollande, was forecast to win a second round vote in May for the presidency with 64 percent of the vote to 36 percent for far right leader of the FN, Marine le Pen. In a first round at the end of April, le Pen was forecast by Opionway to take 27 percent, ahead of Macron on 22 percent and Francois Fillon with 20 percent. The socialist candidate Benoit Hamon is trailing. ipj/kl (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democratic",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democratic",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "France",
+      "head_of_gov"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "head_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Bernard Cazeneuve",
+      "is_meeting"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Martin Schulz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Martin Schulz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Martin Schulz",
+      "Bernard Cazeneuve",
+      "is_meeting"
+    ],
+    [
+      "Martin Schulz",
+      "Social Democratic",
+      "member_of"
+    ],
+    [
+      "Marine le Pen",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Marine le Pen",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Marine le Pen",
+      "FN",
+      "head_of"
+    ],
+    [
+      "Marine le Pen",
+      "FN",
+      "member_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Bernard Cazeneuve",
+      "is_meeting"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Norbert Lammert",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Norbert Lammert",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Norbert Lammert",
+      "Bundestag",
+      "head_of"
+    ],
+    [
+      "Norbert Lammert",
+      "Bernard Cazeneuve",
+      "is_meeting"
+    ],
+    [
+      "Norbert Lammert",
+      "Bundestag",
+      "member_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bavaria",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "CSU",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "CSU",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Manuel Valls",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "head_of_gov"
+    ],
+    [
+      "Manuel Valls",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "Manuel Valls",
+      "Socialists",
+      "member_of"
+    ],
+    [
+      "Socialists",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Socialists",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "FN",
+      "France",
+      "based_in0"
+    ],
+    [
+      "FN",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Francois Fillon",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Fillon",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Benoit Hamon",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Benoit Hamon",
+      "French",
+      "citizen_of-x"
+    ]
+  ]
+}

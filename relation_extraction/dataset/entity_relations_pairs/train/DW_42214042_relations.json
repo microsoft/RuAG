@@ -1,0 +1,65 @@
+{
+  "content": "New Zealand PM announces pregnancy\nNew Zealand's prime minister is due to have a baby in June and will take six weeks of maternity leave. She said that like many women she can balance child rearing and professional responsibilities. \nNew Zealand Prime Minister Jacinda Ardern announced on Friday that she is expecting a child with her partner Clarke Gayford. \"This year we'll join the many parents who wear two hats. I'll be PM & a mum while Clarke will be 'first man of fishing' & stay at home dad,\" Ardern said. The 37-year-old took over leadership of the labor party just three months before the September 23 election. She found out she was pregnant on October 13, two weeks before becoming prime minister. Ardern said that she had asked Deputy Prime Minister Winston Peters to take over her duties for six weeks after the expected June due date. \"I fully intend to be contactable and available throughout the six-week period when needed,\" she said. \"I will make arrangements for appropriate ministers to act in my other portfolios over the six weeks I am away from Parliament.\" \"Clarke and I are privileged to be in the position where Clarke can stay home to be our primary care-giver. Knowing that so many parents juggle the care of their new babies, we consider ourselves to be very lucky,\" she said. Gayford has a fishing television program and was even out at sea the day Ardern was announced labor party leader. Ardern had previously said that she and Gayford wanted a family but that they had doubts whether she could conceive. \"Clarke and I have always been clear we wanted to be parents but had been told we would need help for that to happen,\" she said. \"That's made this news a fantastic surprise.\" Woman's choice The prospect of Ardern starting a family and being prime minister at the same time came up during the election when a television journalist suggested the public had right to know her plans. She answered but said that it was unacceptable for employers to ask such questions from women and that child rearing should not be an obstacle for women's professional advancement. \"For other women, it is totally unacceptable in 2017 to say that women should have to answer that question in the workplace,\" she said. \"It is a woman's decision about when they choose to have children and it should not predetermine whether or not they are given a job or have job opportunities,\" she said. \"I've been really open about that dilemma because I think probably lots of women face it,\" she said. \"For me, my position is no different to the woman who works three jobs, or who might be in a position where they are juggling lots of responsibilities.\" The comments resonated with many voters. Ardern will be only the second world leader to give birth while in office. Former Pakistani Prime Minister Benazir Bhutto had a daughter in 1990. cw/rc (AFP, AP, dpa)",
+  "relations": [
+    [
+      "Jacinda Ardern",
+      "New Zealand",
+      "agent_of"
+    ],
+    [
+      "Jacinda Ardern",
+      "New Zealand",
+      "citizen_of"
+    ],
+    [
+      "Jacinda Ardern",
+      "New Zealand",
+      "head_of_gov"
+    ],
+    [
+      "Clarke Gayford",
+      "New Zealand",
+      "citizen_of"
+    ],
+    [
+      "Clarke Gayford",
+      "Clarke Gayford",
+      "spouse_of"
+    ],
+    [
+      "Winston Peters",
+      "New Zealand",
+      "agent_of"
+    ],
+    [
+      "Winston Peters",
+      "New Zealand",
+      "citizen_of"
+    ],
+    [
+      "Winston Peters",
+      "New Zealand",
+      "head_of_gov"
+    ],
+    [
+      "Parliament",
+      "New Zealand",
+      "agency_of"
+    ],
+    [
+      "Parliament",
+      "New Zealand",
+      "based_in0"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistani",
+      "head_of_gov-x"
+    ]
+  ]
+}

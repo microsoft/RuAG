@@ -1,0 +1,130 @@
+{
+  "content": "Russia calls UN Security Council meeting on Yemen strike pause\nThe UN Security Council will meet on Saturday at Russia's instigation to discuss the situation in Yemen. Moscow is proposing a pause in Saudi-led airstrikes in the country.\nThe meeting was called amid growing concern over the humanitarian crisis in Yemen, which is experiencing a rising civilian death toll from fierce fighting. A Saudi Arabia-led campaign, which began on March 26, has pounded key locations across Yemen with airstrikes in an attempt to halt an advance of Shiite Houthi fighters. Riyadh maintains the Houthis are backed by Iran. The Houthis are allied with former President Ali Abdullah Saleh, who was forced out in the country's 2011 Arab Spring uprising. The latest fighting prompted President Abed Rabbo Mansour Hadi to flee to Saudi Arabia last week. Aid agencies have reported that more than 500 people have been killed and three times as many injured in the past two weeks. Russia's mission to the UN said it called the meeting of the 15-member Council to \"discuss an issue of humanitarian pause during coalition airstrikes in Yemen.\" The Houthis seized power in the Yemeni capital, Sanaa, in February, with Hadi declaring a provisional capital in his stronghold Aden, a southern port city. The UN backs Hadi as the legitimate leader of Yemen. Saudi Arabia and several regional allies have vowed to continue the airstrikes until the Houthis \"withdraw and surrender their weapons.\" Russia's proposal came as several Gulf countries called for a UN resolution imposing sanctions and an arms embargo on the Houthis. But Russia wants amendments to apply an arms embargo to the whole country, and limit sanctions. jr/gsw (Reuters, AFP)",
+  "relations": [
+    [
+      "Houthis",
+      "Yemen",
+      "based_in0"
+    ],
+    [
+      "Houthis",
+      "Yemeni",
+      "based_in0-x"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "institution_of"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "part_of"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemeni",
+      "citizen_of-x"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemen",
+      "head_of_state"
+    ],
+    [
+      "Abed Rabbo Mansour Hadi",
+      "Yemeni",
+      "head_of_state-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Saudi",
+      "Saudi Arabia",
+      "gpe0"
+    ],
+    [
+      "Shiite",
+      "Yemen",
+      "present_in0"
+    ],
+    [
+      "Riyadh",
+      "Saudi Arabia",
+      "in0"
+    ],
+    [
+      "Riyadh",
+      "Saudi",
+      "in0-x"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemen",
+      "agent_of"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemen",
+      "citizen_of"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemeni",
+      "citizen_of-x"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemen",
+      "head_of_state"
+    ],
+    [
+      "Ali Abdullah Saleh",
+      "Yemeni",
+      "head_of_state-x"
+    ],
+    [
+      "Arab Spring",
+      "Yemen",
+      "event_in0"
+    ],
+    [
+      "Yemeni",
+      "Yemen",
+      "gpe0"
+    ],
+    [
+      "Sanaa",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Sanaa",
+      "Yemeni",
+      "in0-x"
+    ],
+    [
+      "Aden",
+      "Yemen",
+      "in0"
+    ],
+    [
+      "Aden",
+      "Yemeni",
+      "in0-x"
+    ]
+  ]
+}

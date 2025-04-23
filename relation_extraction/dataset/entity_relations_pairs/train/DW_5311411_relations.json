@@ -1,0 +1,55 @@
+{
+  "content": "CeBIT attempts to regain former glory\nGoogle, cloud computing, 3D computer screens and intelligent houses that can tell you how to live and how to save money: CeBIT 2010 is a technophile's playground. Deutsche Welle takes a look around.\nThe world's largest IT and telecommunications trade fair, CeBIT, has opened in the northern German city of Hanover. More than 4,000 companies from 68 countries are on hand to showcase their wares. Among them, for the first time ever, is the American internet giant Google, which has been causing some controversy in Germany with its plans to launch Street View. Sam Edmonds, Deutsche Welle's business editor and host of European Business Week, is in Hanover, and had a look around. Google's debut Google is basically here at CeBIT to fly the flag. It's been under a lot of pressure, not just from the German government, but the French government as well, due to the library plans Google has for digitizing all kinds of books and making them available online. So basically they're using CeBIT as an opportunity to put themselves out there and explain what they see as the benefits of Street View and other products like that. CeBIT strives to regain its status I think to bounce back this year CeBIT is actually looking to get consumers back into the fairgrounds, i.e. private people just interested in the latest gizmos. CeBIT began as a very expert-oriented computer and information technology fair and it was only around the late 90s as we were getting into the dot com boom at the turn of the millennium that CeBIT really grew into this massive monster. At its height, there were 800,000 people visiting the fairground. They've now done a 180 degree turn. They're trying to get consumers in, but instead of calling them consumers, they figure that if they call them prosumers – i.e. very discerning consumers who are quite knowledgeable about the equipment they're looking to buy – that perhaps it won't be as bad as it was in previous years. Futuristic housing There are quite a few things I'm eager to check out personally. I'd say one of them would definitely have to be a futuristic apartment, which they've got set up in Hall 9. It's about 400 square meters (4,300 square feet) with a living room, a kitchen and even a gym. It's really looking at using computer systems and IT for better living in the future, which includes greener living. There's a computer system that optimizes your lighting and heating to try and be as efficient as possible in energy terms. In the kitchen there's a digital kitchen hand that will give you advice on what you're cooking and whether it's healthy and part of a balanced diet. If that doesn't work, there's a digital fitness trainer that will basically tell you to go to the gym, and will give you some advice on what you should be doing to get those pounds off. The future of 3D technology There a quite a few companies and manufacturers that are releasing 3D screens for their laptop and desktop computers. They have a special coating, so if you do have 3D glasses on, you can get a very different feeling of depth perception. This laptop technology isn't anywhere near what you're going to see if you watch movies like Avatar but it's not too bad. What is particularly interesting is that gamers will be looking at this technology as a way of intensifying their gaming experience. This technology, especially for home computers, is only being rolled out now. I know from cinemas that a lot of people say that for the first 10 to 20 minutes it's a bit difficult to get used to but I guess time will tell with what will happen to the computers. Author: Sam Edmonds (mrm) Editor: John Blau",
+  "relations": [
+    [
+      "CeBIT",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "CeBIT",
+      "Hanover",
+      "event_in2"
+    ],
+    [
+      "Hanover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hanover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Google",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Street View",
+      "Google",
+      "product_of"
+    ],
+    [
+      "Sam Edmonds",
+      "Deutsche Welle",
+      "member_of"
+    ]
+  ]
+}

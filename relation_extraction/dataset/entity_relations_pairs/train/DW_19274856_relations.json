@@ -1,0 +1,55 @@
+{
+  "content": "Solar-powered plane makes next US leg of global journey\nThe Solar Impulse 2 plane has departed from the US state of Oklahoma on an 18-hour journey to Ohio. The solar-powered plane is on a mission to circumnavigate the globe.\nThe plane took off from Tulsa, Oklahoma, early on Saturday morning on its way to Dayton, Ohio, where the Wright Brothers developed the first powered airplane. The 18-hour flight is the 12th leg of a journey for the Swiss-made Solar Impulse 2 as it attempts to circumnavigate 35,000 kilometers (21,700 miles) around the globe without using any gasoline. After Ohio, the plane is expected to make one more stop in the United States before crossing the Atlantic to Europe, from where it will continue on to the United Arab Emirates. \"The flight is part of the attempt to achieve the first ever Round-The-World Solar Flight, the goal of which is to demonstrate how modern clean technologies can achieve the impossible,\" the project said in a statement. The plane's 17,000 solar cells power propellers and charge batteries. Its ideal speed is only 45 kmh (28 mph), but it can go twice as fast during the day, when the sun gives it a boost. At night the plane runs on a battery using power stored during the day. The plane, which is as heavy as a car and has wings wider than a Boeing 747, is being operated by two Swiss pilots, Bertrand Piccard and Andre Borschberg. They started the journey in March 2015 from the United Arab Emirates, traveled more than 27,000 kilometers and spent 351 hours in the air. Previous stops include Oman, India, Myanmar, China and Japan. In the United States, the crew stopped in Hawaii for several months to repair a battery damaged during a five-day flight from Japan. They then continued on to San Francisco and Arizona. cw/bw (AFP, AP)",
+  "relations": [
+    [
+      "Oklahoma",
+      "United States",
+      "in0"
+    ],
+    [
+      "Ohio",
+      "United States",
+      "in0"
+    ],
+    [
+      "Tulsa",
+      "United States",
+      "in0"
+    ],
+    [
+      "Dayton",
+      "United States",
+      "in0"
+    ],
+    [
+      "Wright Brothers",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Bertrand Piccard",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Andre Borschberg",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Hawaii",
+      "United States",
+      "in0"
+    ],
+    [
+      "San Francisco",
+      "United States",
+      "in0"
+    ],
+    [
+      "Arizona",
+      "United States",
+      "in0"
+    ]
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "content": "Clinton campaign dogged by 'drip, drip' email scandal\nThis week's State Department report stopped short of saying Clinton had committed a crime, but it was still a stinging rebuke. The new Washington parlor game is guessing what impact the report will have on an FBI probe.\nThe news got worse this week for US presidential candidate Hillary Clinton after an internal report by the State Department's inspector general criticized the former secretary's use of a private email server for both her personal and government correspondence from 2009 to 2013. Frank Sesno, the director of the School of Media and Public Affairs at George Washington University in the US capital, gave the report a 6 on a scale of 1-10, with a 10 being devastatingly bad. According to the report, Clinton's use of a private email server was \"not an appropriate method\" for preserving those emails, which is a far cry from a malevolent act that could possibly result in a criminal indictment - though that remains a possibility as an FBI investigation into her email use continues. \"There is nothing felonious in the report,\" Sesno said. \"It doesn't cause political harm. But it gives plenty of material to her political opponents.\" By itself the email scandal would likely have done little damage to Clinton's campaign. However, the accusations don't exist in a vacuum, but rather against a backdrop of questionable events and scandals that have dogged the former senator and first lady since her husband, Bill Clinton, rose to national prominence during his own presidential campaign in the early 1990s. During Clinton's 1993-2001 presidency, the couple were under relentless attack from their political opponents. A special prosecutor came up empty in his investigations into an array of scandals - except for one: that Bill Clinton lied under oath about an affair with a White House intern. Despite the fact that there were no other findings of wrongdoing, the impression of general impropriety has been seared into the public psyche ever since. For example, Republicans continue to question then-Secretary Hillary Clinton's role in the September 11, 2012, events at the US consulate in Benghazi Libya, when the diplomatic post was attacked by militants and four Americans, including the ambassador, were killed. The report released Wednesday by State Department Inspector General Steve A. Linick plays into \"this albatross narrative of untrustworthiness,\" Sesno said - \"this drip, drip, damage she's got going.\" 'Anything but' The public's doubt has only been fanned by the fact that, though she later admitted it was problematic, Clinton had initially denied doing anything wrong by routing government and personal correspondence through a single account on a server set up in her private home in New York state.Clinton ostensibly did this because she didn't want to have two accounts and two phones. The basic problems with this arrangement are twofold. First, as secretary of state, Clinton dealt with classified and top-secret information, which is only supposed to be sent through secure government servers. So far it seems that little, if any, of the correspondence in question was classified at the time it was sent or received. And there is no indication that national security was at all compromised. Second, as a top-level official, Clinton's correspondence is supposed to be preserved as part of the historical record and an accounting of public servants' work. It was only once the scandal broke - over a year after Clinton left office - that she turned over tens of thousands of emails that had been stored on her private server. But thousands of others, which she claims were personal emails, were erased. In an interview with the US television network NBC earlier this week, Clinton acknowledged again that her email arrangement had been a mistake. \"I think it's pretty clear looking back what I thought was convenient turned out to be anything but,\" Clinton said. \"And, as I have acknowledged, I should have just used two accounts.\" It is a mistake that Clinton has paid a heavy price for. When she left the State Department her favorability rating was pushing 65 percent; now she has slipped below 40 percent among registered voters. Under attack With the primaries drawing to a close in the next two weeks, Bernie Sanders, Clinton's rival for the Democratic Party's presidential nomination, has only the slimmest mathematical chance of wresting the nomination from her, but he persists in attacking her from the left. Meanwhile, the presumptive Republican nominee, real estate magnate and former reality TV star Donald Trump, is relentlessly attacking her from the right. Add in the stinging report from the State Department inspector general and the ongoing FBI probe into whether her private server broke the law, and Clinton is a candidate under siege. The big question in Washington now is what impact the report could have on the FBI investigation.And there is one line from the report that could be devastating for Clinton. According to the report, two members of the State Department's IT staff were told \"never to speak of the secretary's personal email system again\"after they raised concerns about Clinton's unconventional setup. It will be up to the FBI to determine whether this was a matter of a senior official telling underlings that everything was fine or a warning to government employees to keep their mouths shut. The latter sounds like a cover-up - and that would be a crime. \"The parlor game in Washington now is: 'Does the IG report feed into whether she'll be indicted?'\" Sesno said. There's no word when the FBI's investigation will be concluded, but the agency is under considerable pressure to draw its conclusions quickly - and certainly well ahead of the November presidential election. Whenever it happens, there are three basic possibilities for the conclusion of the FBI investigation: · The agency could find no criminal wrongdoing and issue a mild rebuke (a prospect that seems less likely given the harsh tone of the State Department report). · It could find no criminal wrongdoing but issue a harsh rebuke. · It could find that a crime was committed and file charges. The first conclusion would not only clear Clinton's name but rob her political opponents of much needed ammunition as they battle for the White House. The second would clear her, but Trump would surely seize on the findings to peddle his \"crooked Hillary\" motif with gusto. The third conclusion, criminal charges, would very likely force her out of the race. But, if you think Clinton's campaign is dead in the water, think again. Despite it all, oddsmakers still consider Hillary Clinton the favorite to become the next president of the United States.",
+  "relations": [
+    [
+      "Hillary Clinton",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Hillary Clinton",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Hillary Clinton",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Hillary Clinton",
+      "United States",
+      "minister_of"
+    ],
+    [
+      "Hillary Clinton",
+      "Americans",
+      "minister_of-x"
+    ],
+    [
+      "Hillary Clinton",
+      "Bill Clinton",
+      "spouse_of"
+    ],
+    [
+      "Republicans",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Republicans",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Republicans",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Republicans",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "FBI",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "FBI",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "FBI",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "FBI",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Bill Clinton",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Bill Clinton",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Bill Clinton",
+      "Hillary Clinton",
+      "spouse_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Trump",
+      "Republicans",
+      "head_of"
+    ],
+    [
+      "Donald Trump",
+      "Republicans",
+      "member_of"
+    ],
+    [
+      "Frank Sesno",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Frank Sesno",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Frank Sesno",
+      "School of Media and Public Affairs",
+      "head_of"
+    ],
+    [
+      "Frank Sesno",
+      "School of Media and Public Affairs",
+      "member_of"
+    ],
+    [
+      "Frank Sesno",
+      "George Washington University",
+      "member_of"
+    ],
+    [
+      "State Department",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "State Department",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "State Department",
+      "United States",
+      "ministry_of"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "School of Media and Public Affairs",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "School of Media and Public Affairs",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "School of Media and Public Affairs",
+      "Washington",
+      "based_in2"
+    ],
+    [
+      "George Washington University",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "George Washington University",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "George Washington University",
+      "Washington",
+      "based_in2"
+    ],
+    [
+      "White House",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "United States",
+      "in0"
+    ],
+    [
+      "White House",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Benghazi",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Steve A. Linick",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Steve A. Linick",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Steve A. Linick",
+      "State Department",
+      "head_of"
+    ],
+    [
+      "Steve A. Linick",
+      "State Department",
+      "member_of"
+    ],
+    [
+      "New York",
+      "United States",
+      "in0"
+    ],
+    [
+      "New York",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "NBC",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "NBC",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Bernie Sanders",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Bernie Sanders",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Bernie Sanders",
+      "Democratic Party",
+      "head_of"
+    ],
+    [
+      "Bernie Sanders",
+      "Democratic Party",
+      "member_of"
+    ],
+    [
+      "Democratic Party",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Democratic Party",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Democratic Party",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Democratic Party",
+      "Americans",
+      "based_in0-x"
+    ]
+  ]
+}

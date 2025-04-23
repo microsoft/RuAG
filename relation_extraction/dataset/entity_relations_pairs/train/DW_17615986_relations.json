@@ -1,0 +1,85 @@
+{
+  "content": "UN: South Sudan leaders schedule talks this week in Ethiopia\nUN Secretary General Ban Ki-moon has traveled to South Sudan in an effort to broker face-to-face talks with the leaders of the country's warring factions. He said a meeting between the sides was likely later this week.\nOn Tuesday, Ban Ki-moon said from Juba that the leaders of South Sudan's warring factions – rebels led by former Vice President Riek Machar, and supporters of President Salva Kiir – were to meet for direct talks with each other this week in Ethiopia. \"Fighting must end. Much damage has already been done. It may take long to heal,\" Ban said. \"The country's leaders must close the wounds they have opened. They must support justice and accountability for the crime committed and they must act to address the root causes of the conflict.\" The meeting in Addis Ababa is to be facilitated by the prime minister of Ethiopia, Hailemariam Desalegn. Heartbreaking, says Ban The conflict has been broiling since December. A peace agreement reached in January did not hold, and thousands of people have been killed in the meantime. In addition, the United Nations human rights chief has cautioned that the situation needs to be brought under control before turning into a Rwanda-like genocide or a devastating famine. In Juba, Ban met with Kiir and refugees in a UN camp that is filled beyond capacity by many thousand people. \"What I have seen and heard today breaks my heart and enrages my soul,\" Ban said, adding the \"conflict destroying this fragile young country is senseless.\" During a joint press conference, Kiir said he would attend the meeting in Addis Ababa. Machar spoke with Ban by phone and said he would do his best to make it there by Friday, the date put forth by Ethiopian's Desalegn. \"He said he will try his best, because he is in a very remote area,\" Ban said. mz/ipj (AP, Reuters, AFP)",
+  "relations": [
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Riek Machar",
+      "South Sudan",
+      "agent_of"
+    ],
+    [
+      "Riek Machar",
+      "South Sudan",
+      "citizen_of"
+    ],
+    [
+      "Salva Kiir",
+      "South Sudan",
+      "agent_of"
+    ],
+    [
+      "Salva Kiir",
+      "South Sudan",
+      "citizen_of"
+    ],
+    [
+      "Salva Kiir",
+      "South Sudan",
+      "head_of_state"
+    ],
+    [
+      "Hailemariam Desalegn",
+      "Ethiopia",
+      "agent_of"
+    ],
+    [
+      "Hailemariam Desalegn",
+      "Ethiopia",
+      "citizen_of"
+    ],
+    [
+      "Hailemariam Desalegn",
+      "Ethiopian",
+      "citizen_of-x"
+    ],
+    [
+      "Hailemariam Desalegn",
+      "Ethiopia",
+      "head_of_gov"
+    ],
+    [
+      "Hailemariam Desalegn",
+      "Ethiopian",
+      "head_of_gov-x"
+    ],
+    [
+      "Juba",
+      "South Sudan",
+      "in0"
+    ],
+    [
+      "Addis Ababa",
+      "Ethiopia",
+      "in0"
+    ],
+    [
+      "Addis Ababa",
+      "Ethiopian",
+      "in0-x"
+    ],
+    [
+      "Ethiopian",
+      "Ethiopia",
+      "gpe0"
+    ]
+  ]
+}

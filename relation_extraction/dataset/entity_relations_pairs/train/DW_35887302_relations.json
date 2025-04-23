@@ -1,0 +1,120 @@
+{
+  "content": "Baseball star Jose Fernandez dies in boat crash\nMiami Marlins pitcher Jose Fernandez has died in a boating accident off Miami Beach. The 24-year-old ace was one of the brightest stars in the game.\nMiami Marlins pitcher Jose Fernandez, a two-time All-Star selection and winner the National League Rookie of the Year Award, died in a boating crash early Sunday in Florida. He was one of three men killed when a 32-foot boat collided with jetty off Miami Beach, the US Coast Guard said. The right-hander, who was the team's first round draft pick in 2011 and made a debut in April 2013, was a hero in the Cuban-American community. \"He was one of our game's young stars who made a dramatic impact on and off the field,\" Major League Baseball Commissioner Rob Manfred said in a statement. Fernandez was born in Cuba and, after three attempts, made it by boat to the United States with his mother at the age of 15. He became a naturalized US citizen. With his steaming fastball, Fernandez had an average 12.49 strikeouts per nine innings, the best in both the National and American leagues. He pitched a career 38-17 in four seasons with the Marlins. Adding to the tragedy, Fernandez posted pictures on Instagram last week of his girlfriend, saying they were expecting a baby. Fernandez's death drew shock and tribute across baseball. The Marlins team gathered at the ballpark wearing black jerseys. \"A lot of words were said - meaningful words and emotion and prayer,\" team president David Samson said. \"Jose is a member of this family for all time.\" Florida Fish and Wildlife Conservation Commission spokesman Lorenzo Veloz said it was believed that the boat's speed contributed to the accident. He said drugs or alcohol were not believed to be a factor. \"It does appear to be that they were coming at full speed when they encountered the jetty, and the accident happened,\" he said, adding the star pitcher died from trauma and not drowning. None of the three were wearing life jackets. The names of the other two on the boat were being withheld pending notification of family. cw/rc (Reuters, AP)",
+  "relations": [
+    [
+      "Miami Marlins",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Miami Marlins",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Jose Fernandez",
+      "National League Rookie of the Year Award",
+      "award_received"
+    ],
+    [
+      "Jose Fernandez",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Jose Fernandez",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Jose Fernandez",
+      "Miami Marlins",
+      "member_of"
+    ],
+    [
+      "Jose Fernandez",
+      "Miami Marlins",
+      "player_of"
+    ],
+    [
+      "Florida Fish and Wildlife Conservation Commission",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Florida Fish and Wildlife Conservation Commission",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Florida",
+      "United States",
+      "in0"
+    ],
+    [
+      "Florida",
+      "American",
+      "in0-x"
+    ],
+    [
+      "US Coast Guard",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "US Coast Guard",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "US Coast Guard",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "US Coast Guard",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Cuban",
+      "Cuba",
+      "gpe0"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Rob Manfred",
+      "Major League Baseball",
+      "head_of"
+    ],
+    [
+      "Rob Manfred",
+      "Major League Baseball",
+      "member_of"
+    ],
+    [
+      "David Samson",
+      "Miami Marlins",
+      "head_of"
+    ],
+    [
+      "David Samson",
+      "Miami Marlins",
+      "member_of"
+    ],
+    [
+      "Lorenzo Veloz",
+      "Florida Fish and Wildlife Conservation Commission",
+      "member_of"
+    ],
+    [
+      "Lorenzo Veloz",
+      "Florida Fish and Wildlife Conservation Commission",
+      "spokesperson_of"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "content": "Scientists harvest Antarctic greenhouse vegetables\nGerman scientists have harvested their first vegetables to be grown without earth or daylight in Antarctica. The greenhouse is a test run for growing plants in space and combating vegetable shortages in harsh climates.\nCucumbers, radishes and lettuce are just some of the green delights that have been thriving in the experimental EDEN-ISS greenhouse in Antarctica. The project follows in the footsteps of successful US operations cultivating crops in the harsh climate. Despite temperatures in Antarctica falling below -20 degrees Celsius (-4 F) and the sun barely coming above the horizon, the first harvest from the project led by the German Aerospace Center (DLR) demonstrates how astronauts on the moon and Mars could be supplied with fresh food in the future. Read more: Our Beautiful Planet: Antarctica After the first three weeks, DLR engineer and Antarctic gardener Paul Zabel had gathered 3.6 kilograms (7.9 pounds) of lettuce, 70 radishes and 18 cucumbers. He spends about three to four hours a day tending to the Antarctic garden. \"After sowing the seeds in mid-February, I had to deal with some unexpected problems, such as minor system failures and the strongest storm in more than a year,\" Zabel said. \"Fortunately, all these things could be fixed and overcome.\" Read more: Antarctica is melting from below and that's bad news \"We have learned a lot about self-sufficient plant breeding in the last few weeks, it has become clear that Antarctica is an ideal test field for our research,\" said project manager Daniel Schubert. So far, all of the planned plants have grown successfully in the greenhouse, including radishes, salad leaves, tomatoes, cucumbers, peppers and herbs including basil, parsley, chives and coriander. But, Schubert said, \"You have to be patient when growing strawberries. Here we are still waiting for successful sowing.\" Read more: Gardening in the city The project is being carried out with the Alfred Wegener Institute and the greenhouse is located about 400 meters (1300 feet) from the institute's Neumeyer Station III. 'Fresh from the garden' There are currently 10 people toughing out the winter at Neumeyer Station III and the Antarctic harvest came just in time — the fresh vegetables from the last delivery at the end of February had been used up. \"It was something special to see the first fresh salad from Antarctica,\" said station manager Bernhard Gropp. \"It tasted as if we had harvested it fresh from the garden.\" Editor's note (06.04.2018): The original version of this article incorrectly stated that this crop of vegetables was the first to be harvested in Antarctica. That is not the case, it was merely the first harvest for this particular German Aerospace Center project. The McMurdo Station and Amundsen-Scott South Pole Station have both successfully run hydroponic greenhouse operations, with the McMurdo Station starting in the 1980s. We apologize for the error. Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.",
+  "relations": [
+    [
+      "German Aerospace Center",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Aerospace Center",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Paul Zabel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Paul Zabel",
+      "German Aerospace Center",
+      "member_of"
+    ],
+    [
+      "Daniel Schubert",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Daniel Schubert",
+      "German Aerospace Center",
+      "head_of"
+    ],
+    [
+      "Daniel Schubert",
+      "German Aerospace Center",
+      "member_of"
+    ],
+    [
+      "Alfred Wegener Institute",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bernhard Gropp",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bernhard Gropp",
+      "Neumeyer Station III",
+      "head_of"
+    ],
+    [
+      "Bernhard Gropp",
+      "Neumeyer Station III",
+      "member_of"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

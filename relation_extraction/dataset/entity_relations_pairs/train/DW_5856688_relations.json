@@ -1,0 +1,175 @@
+{
+  "content": "Germany's young female soccer stars lift World Cup at home\nGermany has won the U-20 Women's World Cup on home soil after beating Nigeria 2-0 in the final. For star-player Alexandra Popp there was the double glory of being recognized as both top scorer and best player.\nThe German women's Under-21 side lifted the World Cup on home soil after beating Nigeria 2-0 in the final on Sunday. Tournament top scorer Alexandra Popp netted the opening goal at Bielefeld, where the match took place, with teammate Kim Kulig sealing the win in injury time. \"We deserve to be World Champions,\" said team coach Maren Meinert. \"Everything that we dreamed about has come true.\" Indeed, the game opened in fairytale style for the Germans in front of a crowd of 24,633. Just eight minutes had been played when, after a cross Bianca Schmidt, Popp held off two Nigeria defenders to shoot past Nigeria keeper Alaba Jonathan for the first goal. The goal was Popp's tenth of the tournament. The 19-year-old from Duisburg finished as top scorer on 10 goals - hitting the net in all six of Germany's tournament wins. Fighting Falconets Nigeria's young \"Falconets\", the first African women's team to reach the final of any FIFA tournament, tried hard to get back into the game with Germany keeper Almuth Schult tested more than once. The game lost pace in the second half and, although both teams had their chances, Germany looked the more likely to score. The team sealed a victory in the 92nd minute, courtesy of 19-year-old Kulig's header. For Popp, there was the double honor of winning the tournament Golden Boot for scoring the most goals, as well as the best player award for her consistency. \"It was the best day of my football career so far,\" said Popp. In the earlier third place play-off, South Korea defeated Colombia one-nil to take third place. Almost 400,000 fans attended the tournament's 32 games, with Germany set to host the next Women's World Cup in 2011. Author: Richard Connor (SID/dpa) Editor: Nigel Tandy",
+  "relations": [
+    [
+      "Falconets",
+      "U-20 Women's World Cup",
+      "appears_in"
+    ],
+    [
+      "Falconets",
+      "Germany",
+      "vs"
+    ],
+    [
+      "Germany",
+      "U-20 Women's World Cup",
+      "appears_in"
+    ],
+    [
+      "Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Germany",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Germany",
+      "Falconets",
+      "vs"
+    ],
+    [
+      "Germany",
+      "Falconets",
+      "won_vs"
+    ],
+    [
+      "Alexandra Popp",
+      "Golden Boot",
+      "award_received"
+    ],
+    [
+      "Alexandra Popp",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Alexandra Popp",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Alexandra Popp",
+      "Germany",
+      "member_of"
+    ],
+    [
+      "Alexandra Popp",
+      "Germany",
+      "player_of"
+    ],
+    [
+      "Kim Kulig",
+      "Germany",
+      "member_of"
+    ],
+    [
+      "Kim Kulig",
+      "Germany",
+      "player_of"
+    ],
+    [
+      "Under-21",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Under-21",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Bielefeld",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bielefeld",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Maren Meinert",
+      "Germany",
+      "coach_of"
+    ],
+    [
+      "Maren Meinert",
+      "Germany",
+      "member_of"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bianca Schmidt",
+      "Germany",
+      "member_of"
+    ],
+    [
+      "Bianca Schmidt",
+      "Germany",
+      "player_of"
+    ],
+    [
+      "Alaba Jonathan",
+      "Falconets",
+      "member_of"
+    ],
+    [
+      "Alaba Jonathan",
+      "Falconets",
+      "player_of"
+    ],
+    [
+      "Duisburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Duisburg",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Almuth Schult",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Almuth Schult",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Almuth Schult",
+      "Germany",
+      "member_of"
+    ],
+    [
+      "Almuth Schult",
+      "Germany",
+      "player_of"
+    ],
+    [
+      "South Korea",
+      "Colombia",
+      "vs"
+    ],
+    [
+      "South Korea",
+      "Colombia",
+      "won_vs"
+    ],
+    [
+      "Colombia",
+      "South Korea",
+      "vs"
+    ]
+  ]
+}

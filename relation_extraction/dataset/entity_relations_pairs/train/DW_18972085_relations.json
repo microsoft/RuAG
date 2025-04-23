@@ -1,0 +1,75 @@
+{
+  "content": "EU tells Turkey migrant flows 'still way too high'\nThe EU plans to offer Turkey billions of dollars in aid to stem the exodus of refugees into Europe has so far had little effect. Thousands continue to make the perilous journey every day.\nSeven weeks after the EU and Turkey reached agreement on curbing the refugee flow into Europe, migrants continue to arrive in Turkey with the aim of gaining entry to the EU. But while critical of Turkey's efforts to stem the flow across the Aegean Sea, EU Vice President Frans Timmermans said Ankara and Brussels had to work together to implement the agreed upon action plan. Toward that end, Turkish authorities may start offering Syrians work permits - in an attempt to lure them into staying in Turkey. \"The goal of this (action plan) is to stem the flow; 2,000 to 3.000 (arrivals) a day is not stemming the flow,\" Timmermans said, after meeting with Turkey's EU Affairs Minister Volkan Bozkir. \"But we are in this together and we will work on that.\" As part of the deal reached on November 29, EU leaders pledged 3 billion euros ($3.2 billion) in aid for the more than 2.2 million Syrian refugees sheltering in Turkey in exchange for Ankara acting to reduce the flow. More than 1 million asylum seekers arrived in the EU in 2015, and governments across the bloc are under increasing domestic pressure to stem the tide. But every day thousands more attempt the perilous journey, all too often with fatal results. During a single day last week Turkish authorities said 36 migrants, including several children, either washed up along Turkish shores or were found floating in the sea after their boats sank. Thousands more have managed safe landings in Turkey and made their way to Greece in the hope of reaching wealthier EU countries such as Germany and Sweden. But the Balkan corridor to western Europe is rapidly closing, and now thousands more migrants are finding themselves stuck in Greece - an EU country with 25 percent unemployment. Fewer than 1,000 people so far have opted for voluntary repatriation, according to Daniel Edras, who heads the International Office of Migration in Greece. \"It's one thing to return in handcuffs,\" he said, \"and quite another to go as a normal passenger with some money in your pocket, because we give them each 400 euros ($435).\" But repatriation isn't an option for tens of thousands from countries torn apart by violence. \"I can't go back to Somalia,\" said English teacher Ali Heydar Aki, who hoped to settle in Europe and then bring his family. \"I have sold half my house\" to fund the trip. bik/ng (AFP, AP)",
+  "relations": [
+    [
+      "Frans Timmermans",
+      "EU",
+      "head_of"
+    ],
+    [
+      "Frans Timmermans",
+      "EU",
+      "member_of"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Volkan Bozkir",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Volkan Bozkir",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Volkan Bozkir",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Volkan Bozkir",
+      "Turkey",
+      "minister_of"
+    ],
+    [
+      "Volkan Bozkir",
+      "Turkish",
+      "minister_of-x"
+    ],
+    [
+      "Daniel Edras",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Daniel Edras",
+      "International Office of Migration",
+      "head_of"
+    ],
+    [
+      "Daniel Edras",
+      "International Office of Migration",
+      "member_of"
+    ],
+    [
+      "Ali Heydar Aki",
+      "Somalia",
+      "citizen_of"
+    ]
+  ]
+}

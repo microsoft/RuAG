@@ -1,0 +1,170 @@
+{
+  "content": "Swiss open probe into spying on its Turkish community\nA criminal investigation has been opened into allegations that the Ankara government has spied on expatriate Turks. Several academic events in Switzerland were reportedly filmed and photographed by unspecified agents.\nSwiss prosecutors said on Friday they had \"concrete suspicions [of espionage] against the Turkish community in Switzerland [by] a political intelligence service.\" The Office of the Attorney General confirmed it had opened a criminal investigation on March 16, after receiving a green light from the Swiss government. Prosecutors, however, refused to provide details on which specific people or organizations the investigation was targeting. University events filmed The investigation follows reports that in January, two men took photos of the participants at a University of Zurich seminar discussing the 1915 Armenian genocide by Ottoman Turks, a term which the Ankara government vehemently rejects. Local media reported that other events at the University in late 2016 and early 2017 were filmed or photographed, including one where the editor in chief of the Turkish newspaper \"Cumhuriyet\" was honored. On Thursday, the Swiss foreign minister told his Turkish counterpart that his country would \"rigorously investigate\" any illegal spying by Ankara on expatriate Turks and urged Turkey to comply with Swiss law. Close to 70,000 Turkish citizens live in Switzerland, according to Swiss government statistics, while the Turkish embassy's website refers to 130,000 Turkish nationals. Guarded response Still, the Swiss government has been trying to avoid a confrontation similar to those seen in Germany and the Netherlands in recent weeks after Turkish ministers were banned from attending political rallies in support of a referendum on Turkey's new draft constitution. The vote on April 16 would see Turkish President Recep Tayyip Erdogan's powers massively expanded, amid criticism that he has already sought to crack down on dissent. Switzerland has not blocked the campaign events, but Turkish Foreign Minister Mevlut Cavusoglu did call off a visit earlier this month after the hotel he had booked for a rally refused to host it. Separate lawsuit In mid-March, a member of Switzerland's upper house of parliament, Josef Dittli, filed a lawsuit accusing two Turkish organizations of spying on Turkish citizens and dual nationals living in Switzerland and requested an investigation. His suit singled out the Swiss Turkish-Islamic Foundation (TISS) and the Union of European Turkish Democrats and said Turkish diplomatic institutions might also be involved, according to the ATS news agency. Allegations of intelligence gathering by Erdogan supporters have arisen elsewhere in Europe. Last month, German police raided the apartments of four imams suspected of spying for Turkey's government on followers of US-based cleric Fethullah Gulen, accused by Ankara of organizing a failed coup last July. mm/sms (AFP, Reuters)",
+  "relations": [
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Ankara",
+      "Turks",
+      "in0-x"
+    ],
+    [
+      "Turkish-Islamic Foundation",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Turkish-Islamic Foundation",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turks",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turks",
+      "head_of_state-x"
+    ],
+    [
+      "University of Zurich",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "University of Zurich",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Turks",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Office of the Attorney General",
+      "Switzerland",
+      "agency_of"
+    ],
+    [
+      "Office of the Attorney General",
+      "Swiss",
+      "agency_of-x"
+    ],
+    [
+      "Office of the Attorney General",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Office of the Attorney General",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Mevlut Cavusoglu",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Mevlut Cavusoglu",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Mevlut Cavusoglu",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Mevlut Cavusoglu",
+      "Turks",
+      "citizen_of-x"
+    ],
+    [
+      "Mevlut Cavusoglu",
+      "Turkey",
+      "minister_of"
+    ],
+    [
+      "Mevlut Cavusoglu",
+      "Turkish",
+      "minister_of-x"
+    ],
+    [
+      "Mevlut Cavusoglu",
+      "Turks",
+      "minister_of-x"
+    ],
+    [
+      "Josef Dittli",
+      "Switzerland",
+      "agent_of"
+    ],
+    [
+      "Josef Dittli",
+      "Swiss",
+      "agent_of-x"
+    ],
+    [
+      "Josef Dittli",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Josef Dittli",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

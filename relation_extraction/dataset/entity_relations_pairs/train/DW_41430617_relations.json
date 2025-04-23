@@ -1,0 +1,135 @@
+{
+  "content": "Kuwait Airlines and limited Israeli mobility in Middle East\nA German court's ruling that allowed Kuwait Airlines to deny an Israeli travel has focused attention on an enduring multination boycott of Israel. Kuwaiti law prohibits companies from doing business with Israelis.\nCritics are accusing a German court of endorsing anti-Semitism following a ruling on Thursday that permits Kuwait Airlines to refuse to transport Israelis because of their citizenship. Though this is the first time a German court has ruled to allow a company to enforce such a specific travel ban, the case casts light on Israelis' long-term lack of mobility across the Middle East. As with most of the Arab League's 22 members and several other Muslim-majority states that do not recognize Israel, Kuwaiti law prohibits companies from doing business with the country's government and citizens. The passenger sued the national carrier for discrimination after it refused to fly him from Frankfurt to Bangkok via Kuwait City in 2016. The airline offered him a seat on a flight by another airline, but he refused. The court ruled that it could not evaluate the laws of a foreign country and that the airline was following Kuwaiti law. It also found that German law prohibits discrimination because of race, ethnicity and religion, but not based on citizenship. Arab League boycott With the notable exceptions of the Palestinian Authority, Jordan and Egypt, which have diplomatic relations with Israel, most Arab League members and several Muslim states have long boycotted the country and plan to continue doing so until its conflict with Palestine is resolved. More than two dozen countries have barred Israeli citizens, declaring that they do not recognize Israel as a nation. Saudi Arabia, like Kuwait, does not allow Israelis to board national planes or transit through the country's airports. Kuwait and about a dozen other Arab and Muslim states go even further, preventing people of any nationality with an Israeli stamp in their passports from entering. To circumvent this, Israeli authorities offer the option of stamping a piece of paper. The travel restrictions that many Middle Eastern nations have imposed do not apply to Jews in general. Most of the countries will not accept Israeli passports because they do not recognize the nation's right to exist, which officially invalidates the travel document. Israel's national carrier, EL AL, is also restricted from flying within the airspace of several Arab and Muslim countries, including Saudi Arabia, Pakistan and Iran. This forces the airline to take longer routes in some cases, such as when flying to Asia. Citizens of most states that impose a boycott are also banned from visiting Israel by their governments. The US Congressional Research Service has found that the Arab League's nearly seven-decade boycott is \"sporadically applied and ambiguously enforced.” Within and near the Middle East, Israelis may travel to Jordan, Egypt, Morocco and Tunisia, as well as non-Arab Turkey. In 2015, the United Arab Emirates, home to the major airlines Emirates and Etihad, changed its laws to allow Israeli citizens to transit airports and people with Israeli stamps on their passports to enter the country. 'Any applicable laws' The case in Frankfurt follows a similar discrimination suit against Kuwait Airways in the United States, where the court ruled against the company. In the US case, however, the defendant was not allowed to fly from New York City to London, where he was to disembark, on a leg of a flight to Kuwait City. According to the International Air Transport Association's guidelines, a carrier can refuse any passenger if \"such an action is necessary to comply with any applicable laws, regulations or orders of any state or country to be flown from, into or over.\" The US Department of Transportation found the airline's policy discriminatory because the man had the right to travel to the UK. The ruling did not address direct flights from the United States to Kuwait. The airline responded by ending flights from the US with a stopover in London. Israel's own maneuvers In March, Israel's parliament passed a law barring foreign activists who support the Boycott, Divestment and Sanctions (BDS) movement from entering the country. BDS is a global effort to put international pressure on Israel for its policies toward Palestinians and illegal settlements in the West Bank and East Jerusalem. Israel regularly denies entry to critics of Israel and supporters of BDS, which has raised concern among some liberal Jewish organizations in the United States. In July, five members of an interfaith delegation of Jewish, Christian and Muslim activists were prevented from boarding a Lufthansa flight from Washington to Israel after authorities told the German national carrier to not to allow them on board. Three of the activists, including a rabbi, were from Jewish Voice for Peace, which supports BDS. A Lufthansa spokesperson told the Jewish Telegraphic Agency that the airline had no indication of why Israel's government did not want the activists to enter. \"We simply have to abide by the rules and regulations of every country in which we operate,\" he said.",
+  "relations": [
+    [
+      "Kuwait Airlines",
+      "Kuwait",
+      "based_in0"
+    ],
+    [
+      "Kuwait Airlines",
+      "Kuwaiti",
+      "based_in0-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Kuwaiti",
+      "Kuwait",
+      "gpe0"
+    ],
+    [
+      "Israelis",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kuwait City",
+      "Kuwait",
+      "in0"
+    ],
+    [
+      "Kuwait City",
+      "Kuwaiti",
+      "in0-x"
+    ],
+    [
+      "Palestinian Authority",
+      "Palestinians",
+      "agency_of-x"
+    ],
+    [
+      "Palestinian Authority",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "EL AL",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "EL AL",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "EL AL",
+      "Israelis",
+      "based_in0-x"
+    ],
+    [
+      "Congressional Research Service",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congressional Research Service",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Emirates",
+      "United Arab Emirates",
+      "based_in0"
+    ],
+    [
+      "Etihad",
+      "United Arab Emirates",
+      "based_in0"
+    ],
+    [
+      "New York City",
+      "United States",
+      "in0"
+    ],
+    [
+      "London",
+      "UK",
+      "in0"
+    ],
+    [
+      "Department of Transportation",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Department of Transportation",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Lufthansa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Jewish Telegraphic Agency",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Jewish Telegraphic Agency",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "Jewish Telegraphic Agency",
+      "Israelis",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "content": "Republican vice-presidential candidate Ryan attacks Obama\nPaul Ryan, the US Republicans' vice-presidential contender, has accepted his party's nomination at its convention with a verbal attack on the economic polices of President Barack Obama.\nRyan, a Wisconsin congressman regarded by Republicans as their fiscal expert, accused Obama of enacting \"big government\" policies and presiding over ballooning debt and joblessness. \"The choice is whether to put hard limits on economic growth or hard limits on the size of government, and we choose to limit government,\" Ryan said. \"We are going to solve this nation's economic problems,\" Ryan said while hailing the Republican's presidential candidate Mitt Romney as the man with business acumen to give America a \"turnaround.\" \"I have never seen opponents so silent about their record and so desperate to keep their power,\" said Ryan, who was little-known nationally or internationally until he was named as Romney's running mate on August 11. Speech awaited from Romney On Thursday, Romney is due to formally accept the Republican presidential nomination at the convention after three days of motivational addresses by party stalwarts. Obama's campaign team hit back on Thursday, accusing Ryan of misleading voters of Republican intentions on Medicare, which Obama recently reformed, and a deficit reduction plan discussed in Congress. Obama's team mocks Ryan \"If Paul Ryan was Pinocchio his nose would be back in Janesville about now,\" said Obama campaign spokeswoman Jen Psaki in a reference to Ryan's hometown in Wisconsin. Obama is due to accept the Democratic nomination to run for a second term in the White House at his party's convention next week in Charlotte, North Carolina. Romney and Obama have been running close in most national surveys of voters ahead of the November 6 election. Unemployment, which approached 10 percent in the aftermath of the 2008-2009 recession, remains at 8.3 percent in the United States, while second-quarter economic growth was 1.7 percent. ipj/rg (Reuters, AFP)",
+  "relations": [
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Republicans",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Paul Ryan",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Paul Ryan",
+      "Republicans",
+      "member_of"
+    ],
+    [
+      "Mitt Romney",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Mitt Romney",
+      "Republicans",
+      "member_of"
+    ],
+    [
+      "Wisconsin",
+      "United States",
+      "in0"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Janesville",
+      "United States",
+      "in0"
+    ],
+    [
+      "Jen Psaki",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Democratic",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "United States",
+      "in0"
+    ],
+    [
+      "Charlotte",
+      "United States",
+      "in0"
+    ],
+    [
+      "North Carolina",
+      "United States",
+      "in0"
+    ]
+  ]
+}

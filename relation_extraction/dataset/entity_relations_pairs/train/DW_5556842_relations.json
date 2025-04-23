@@ -1,0 +1,150 @@
+{
+  "content": "Eurozone wants tough mechanism to defend stability of the euro\nEuropean Union leaders are working around the clock to create a new measure to defend the euro before financial markets reopen on Monday. EU finance ministers will meet on Sunday to discuss the plan.\nEuropean Union leaders are working overtime to construct new crisis defense mechanisms to safeguard the euro currency and crack down on market speculation before the Asian financial markets reopen on Monday. On Sunday, European Union finance ministers debated proposals to set up a 600 billion euro ($765 billion) rescue fund for member countries states that fall into financial trouble, said diplomats in Brussels. The package would consist funds raised by the EU's executive, the European Commission, loans from eurozone states; and money from the International Monetary Fund (IMF), diplomats said. German Chancellor Angela Merkel was holding a crisis cabinet meeting in Berlin late Sunday, to deal with the consequences of a prospective rescue system being negotiated in Brussels,officials said. A clear signal \"Taking into account the exceptional circumstances, the European Commission will propose a European stabilization mechanism to preserve financial stability in Europe,\" Herman Van Rompuy , the president of the EU, said in a statement released in the early hours of Saturday morning. German Chancellor Angela Merkel said the move will send \"a very clear signal\" to market speculators by creating a common fund to support economies in difficulty. The European portion of the bailout will amount to some 80 billion euros ($102 billion) over three years, with Germany set to provide the lion's share.The IMF has approved 30 billion Euro loan for Greece. Despite the 110 billion euro bailout, financial markets reacted negatively to the continued uncertainty, prompting EU leaders to consider new steps to prevent similar financial chaos from spreading to other member states. The unprecedented Greek bailout is due to be transferred to Athens within days. Greeks oppose cuts The emergency summit in Brussels coincided with ceremonies to commemorate the end of World War II in Europe, forcing some European leaders to cancel their plans to attend the events. French President Nicolas Sarkozy and Italian Prime Minister Silvio Berlusconi have both pulled out of Sunday's war commemorations in Russia to deal with the financial crisis, but German Chancellor Angela Merkel has arrived in Moscow and will attend the ceremonies. Investors are keeping a close watch on Greek opposition to Greek Prime Minister George Papandreou's austerity plans, concerned that prolonged protests could weaken his resolve to push through the cuts passed by the Greek parliament on Thursday. On Saturday, opinion polls showed a majority of Greeks support further protests against the austerity measures. smh/AFP/AP/dpa Editor: Rick Demarest",
+  "relations": [
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Herman Van Rompuy",
+      "European Union",
+      "head_of"
+    ],
+    [
+      "Herman Van Rompuy",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Athens",
+      "Greeks",
+      "in0-x"
+    ],
+    [
+      "Greeks",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "World War II",
+      "Europe",
+      "event_in"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "George Papandreou",
+      "Greece",
+      "agent_of"
+    ],
+    [
+      "George Papandreou",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "George Papandreou",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "George Papandreou",
+      "Greeks",
+      "citizen_of-x"
+    ],
+    [
+      "George Papandreou",
+      "Greece",
+      "head_of_gov"
+    ],
+    [
+      "George Papandreou",
+      "Greek",
+      "head_of_gov-x"
+    ],
+    [
+      "George Papandreou",
+      "Greeks",
+      "head_of_gov-x"
+    ]
+  ]
+}

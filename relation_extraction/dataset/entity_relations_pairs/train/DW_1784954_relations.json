@@ -1,0 +1,65 @@
+{
+  "content": "Moshammer Killer Gets Life Sentence\nA Munich court has sentenced Herish Ali Abdullah, a 26-year-old Iraqi, to life in prison for murdering fashion designer Rudolph Moshammer in January.\nThe Munich court convicted Abdullah to murder and robbery resulting in death to a life sentence 10 months after the colorful fashion designer was murdered in his villa in Munich. \"You killed in an insidious manner, out of greed and to make robbery possible,\" Manfred Götzl, the leading judge in the case, said to the defendant. Abdullah had taken an unspecified amount of money from Moshammer after the murder, at least one 200-euro bill. Abdullah admitted on the second day of his trial that he killed Moshammer after the designer refused to pay for sex. Moshammer had picked up Abdullah on the evening of Jan.13 near the Munich train station and taken him back to his villa, offering the younger man 2,000 euros ($2,360) to go to bed with him. The Iraqi, who is living in Germany as a refugee, said after the refusal to pay, he wrapped an electrical cord around Moshammer's neck and \"pulled it tight.\" After the designer fell to the ground, Abdullah said he pulled the cord again. Abdullah was arrested two days later after police found his DNA on the cord. Severity of crime The court ruled that the severity of the man's guilt called for Abdullah to serve at least 15 years in prison, with no possibility of early release. The sentence corresponds to the motion put forward by the district attorney, who had asked for the life sentence. The motion accused Abdullah of strangling Moshammer in a particularly insidious manner, saying that the young man had had the intent to rob the designer from the moment that Moshammer picked him up in his Rolls Royce. The defendant's attorneys, on the other hand, had asked that their client be convicted on a charge of manslaughter and had called for a sentence of under ten years. German Eccentric With the death of the 64-year-old Moshammer, Germany lost the man who was once described as the country's \"only genuine eccentric.\" He was instantly recognizable to most Germans with his jet-black bouffant, waxed moustache and Yorkshire terrier Daisy who was always in his arms, or in his lap. Moshammer counted among his clients Arnold Schwarzenegger, now governor of California, tenor Jose Carrera and the Las Vegas-based entertainers Siegfried and Roy. But he was also well-known outside of high-society circles. For his funeral procession, more than 10,000 people lined the streets of Munich.",
+  "relations": [
+    [
+      "Herish Ali Abdullah",
+      "Iraqi",
+      "citizen_of-x"
+    ],
+    [
+      "Rudolph Moshammer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Rudolph Moshammer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Rudolph Moshammer",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Munich",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Manfred Götzl",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Manfred Götzl",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Manfred Götzl",
+      "Germans",
+      "agent_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

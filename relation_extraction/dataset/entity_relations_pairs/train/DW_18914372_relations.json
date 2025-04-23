@@ -1,0 +1,195 @@
+{
+  "content": "European Film Awards dominated by political themes\nBritish director Stephen Daldry and Swedish actor Alexander Skarsgard were among the celebrities attending the 28th annual European Film Awards. But British actor Sir Michael Caine was the superstar of the night.\nAttended by more than 900 guests from the European film industry, the red carpets were rolled out in Berlin on Saturday for the 28th annual European Film Awards (EFA). Hosted at the Haus der Berliner Festspiele, the European Film Awards (EFA) came to the German capital for the 16th time. The award ceremony opened with a piece of music described by German presenter Thomas Hermmans as the oldest piece of written music - a tune from ancient Syria. It followed on the heels of Charlie Chaplin's famous \"I don't want to be an emperor\" speech from his 1940 film \"The Great Dictator,\" setting the scene for the political undertones to be expected for the evening. EFA chief executive Agnieszka Holland later said that the awards ceremony took place amid deep concern that she felt about Europe. \"I spent a big part of my life in totalitarian regimes. I don't want them to return. The films we make cannot be separated from the world we live in. Our duty is again to defend freedom and democracy,\" Holland said. German actor Daniel Brühl also took to the stage later in the evening - not to present an award but to highlight the political challenges faced by people in the film industry, focusing on Ukrainian director Oleg Sensov, who is serving a 20-year prison sentence for Russian allegations saying he had supported terrorist networks. A total of 52 films from 36 countries were nominated by the European Film Academy. And the winners are… The Italian comedy \"Youth\" won the \"European Film 2015\" award. Featuring Sir Michael Caine, Harvey Keitel, Rachel Weisz and Jane Fonda, the movie follows a number of retired friends, who travel to the Swiss Alps, where they are compelled by a series of events to reflect about themes of youth and aging. The award for the best documentary was presented to the British film director Asif Kapadia for his film \"Amy\" based on the life of singer Amy Winehouse. The European Discovery Award, given to promising debuts in the film industry, was awarded to the movie \"Mustang\" by Deniz Gamze Ergüven, who dedicated her award to Can Dündar - a recently incarcerated Turkish journalist. The European Cinematographer Award, presented in memory of Italian cinematographer Carlo di Palma each year, went to Martin Gschlacht for his work on the horror movie \"Ich Seh Ich Seh\" (distributed internationally under the title \"Goodnight Mommy\"). The European Short Film Awards, presented by Romanian actress Ana Ularu went to Croatian director Jure Pavlovic and his film \"Picnic.\" Honorary Awards Several of the winners had already been announced ahead of the event, including British actor Sir Michael Caine, who was presented with the Honorary Award of the European Film Academy President and Board. According to the European Film Awards, Caine has provided \"some of cinema's most unforgettable experiences\" throughout his career, which has spanned over six decades to date. EFA President Wim Wenders and EFA chief executive Agnieszka Holland stressed that the award to Cain had been \"long overdue.\" Wenders added that it was \"a sheer pleasure to present this award\" to Michael Caine. Caine also won the award for European Actor, taking to the stage three times in total. \"It's been 50 years, and I've never won an award in Europe. And now I've won two in one evening,\" he said. British actress Charlotte Rampling was also presented with a Lifetime Achievement Award. The 69-year- old actress said that she was proud of the award, as the European film industry played an important role in her life. \"I grew up in Europe. I never planned to go to Hollywood. Europe is my motor, it's my language,\" Rampling said, before receiving her award from French director Francois Ozon. Later in the evening, Rampling garnered another award as \"European Actress.\" Austrian Actor Christoph Waltz was also given an honorary award for European Achievement in World Cinema. Next year, the European Film Awards will take place in European Culture Capital 2016, Wroclaw. 　",
+  "relations": [
+    [
+      "Stephen Daldry",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Skarsgard",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Michael Caine",
+      "Honorary Award of the European Film Academy President and Board",
+      "award_received"
+    ],
+    [
+      "Michael Caine",
+      "European Actor",
+      "award_received"
+    ],
+    [
+      "Michael Caine",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Michael Caine",
+      "Youth",
+      "plays_in"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Wim Wenders",
+      "European Film Awards",
+      "head_of"
+    ],
+    [
+      "Wim Wenders",
+      "European Film Awards",
+      "member_of"
+    ],
+    [
+      "Charlotte Rampling",
+      "Lifetime Achievement Award",
+      "award_received"
+    ],
+    [
+      "Charlotte Rampling",
+      "European Actress",
+      "award_received"
+    ],
+    [
+      "Charlotte Rampling",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Agnieszka Holland",
+      "European Film Awards",
+      "head_of"
+    ],
+    [
+      "Agnieszka Holland",
+      "European Film Awards",
+      "member_of"
+    ],
+    [
+      "Goodnight Mommy",
+      "Martin Gschlacht",
+      "created_by"
+    ],
+    [
+      "Haus der Berliner Festspiele",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Thomas Hermmans",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Charlie Chaplin",
+      "The Great Dictator",
+      "plays_in"
+    ],
+    [
+      "Daniel Brühl",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Oleg Sensov",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Youth",
+      "European Film 2015",
+      "award_received"
+    ],
+    [
+      "Harvey Keitel",
+      "Youth",
+      "plays_in"
+    ],
+    [
+      "Rachel Weisz",
+      "Youth",
+      "plays_in"
+    ],
+    [
+      "Jane Fonda",
+      "Youth",
+      "plays_in"
+    ],
+    [
+      "Asif Kapadia",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Amy",
+      "Asif Kapadia",
+      "created_by"
+    ],
+    [
+      "Amy",
+      "Asif Kapadia",
+      "directed_by"
+    ],
+    [
+      "Mustang",
+      "Deniz Gamze Ergüven",
+      "created_by"
+    ],
+    [
+      "Mustang",
+      "Deniz Gamze Ergüven",
+      "directed_by"
+    ],
+    [
+      "Carlo di Palma",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Martin Gschlacht",
+      "European Cinematographer Award",
+      "award_received"
+    ],
+    [
+      "Jure Pavlovic",
+      "European Short Film Awards",
+      "award_received"
+    ],
+    [
+      "Jure Pavlovic",
+      "Croatian",
+      "citizen_of-x"
+    ],
+    [
+      "Picnic",
+      "Jure Pavlovic",
+      "created_by"
+    ],
+    [
+      "Picnic",
+      "Jure Pavlovic",
+      "directed_by"
+    ],
+    [
+      "Francois Ozon",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Christoph Waltz",
+      "European Achievement in World Cinema",
+      "award_received"
+    ],
+    [
+      "Christoph Waltz",
+      "Austrian",
+      "citizen_of-x"
+    ]
+  ]
+}

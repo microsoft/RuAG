@@ -1,0 +1,85 @@
+{
+  "content": "Bonn Conference to Set Agenda for New UN Climate Deal\nThe UN's climate chief urged industrialized countries to lead the way on controlling climate change as a new round of UN talks aimed at replacing the Kyoto Protocol got underway in Bonn on Sunday, March 29.\nAround 2,600 delegates from 175 countries gathered in the former German capital over the weekend for the first of several meetings ahead of December's Copenhagen summit, at which new global targets on emissions are to be set ahead of the 2012 expiry of the Kyoto agreement. The Kyoto Protocol, an international agreement on stabilizing the output of greenhouse gases, entered into force in 2005. Yvo De Boer, who heads climate change initiatives at the United Nations, said developing countries would only agree to a new climate pact if industrialized nations set clear targets for the reduction of greenhouse gases. Additionally, those nations have to be prepared to offer financial support to poorer countries. A challenge for big polluters The new agreement to replace the Kyoto Protocol sets a challenge for industrialized nations, with a call for an additional target of a 25 to 40-percent reduction in greenhouse gases by the year 2020, compared to 1990 figures. By the year 2050, output is to be reduced even more, with a targeted emissions cut of 50 to 80 percent. That cut is needed to keep the overall increase in world temperatures within 2 degrees Celsius (3.6 F). These targets will be haggled over in the months leading up to December's Copenhagen summit. Many industrialized nations are hoping to tweak their domestic economies as little as possible, perhaps by using compensatory projects, such as rain forest preservation, to help them meet targets. De Boer said the debate needed to move forward during the 10-day Bonn conference, as a draft proposal was needed by June in order to meet the Copenhagen deadline. \"The clock is running and the states have a great deal of work ahead,\" de Boer said. All eyes on the US The United States' position will be keenly observed in the coming days, since Washington recently changed tack on climate change with the inauguration of President Barack Obama. Former US President Bill Clinton signed the Kyoto Protocol, but it was never ratified. The White House on Saturday invited the UN and 16 major economies to Washington to prepare for international efforts to reduce climate changing greenhouse gas emissions. \"The US will be powerfully and fervently engaged in this process,\" Obama's climate negotiator, Todd Stern said on Sunday. But he cautioned against unrealistic expectations that the United States could \"wave a magic wand\" and find solutions to all problems. \"I don't think anybody should be thinking that the US can ride in on a white horse and make it all work,\" he said. The Chinese puzzle In particular, Washington wants to see China increase its commitment to emissions reduction, since the country's economic growth made it one of the biggest greenhouse gas contributors. China and the US between them account for more than 40 percent of the world's greenhouse gas emissions. \"If you do the math, you simply cannot be anywhere near where science tells us we need to be if you don't have China involved, as well also other major developing countries,\" he said. The Kyoto protocol was lenient on developing countries such as China, India and Brazil. This is to change in the document to be signed in Copenhagen. De Boer welcomed Obama's initiative, saying it could be \"useful\" to find a political solution to the climate change talks.",
+  "relations": [
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Kyoto Protocol",
+      "Bill Clinton",
+      "signed_by"
+    ],
+    [
+      "Bonn",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Yvo De Boer",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Bill Clinton",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Bill Clinton",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Bill Clinton",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "White House",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "United States",
+      "in0"
+    ],
+    [
+      "Todd Stern",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Todd Stern",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ]
+  ]
+}

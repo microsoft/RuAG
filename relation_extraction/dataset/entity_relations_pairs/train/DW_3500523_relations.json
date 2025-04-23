@@ -1,0 +1,165 @@
+{
+  "content": "German Athletes Feel the Pressure of Olympic Gold\nSwimmer Britta Steffen and gymnast Fabian Hambuechen feel the burden of the whole country as both look to give Germany Olympic gold in glamour sports at the Beijing Games.\n\"I am torn, everybody has expectations of me which I may not be able to meet,\" the 100m freestyle European record holder Steffen told DPA news agency. Germany's medals for a top placing in the medal table normally come from sports such as canoeing, rowing, fencing, equestrian and shooting - and not so much the big three of athletics, swimming and gymnastics. \"We will hopefully be helped by the sports in which we have traditionally been strong, such as canoeing or riding,\" said German Olympic Committee (DOSB) general director Michael Vesper. Germany came sixth in the Athens 2004 medal table with 13 gold medals, 16 silver and 20 bronze. Its overall score of 49 medals was good enough for joint fourth place with Australia, with the US leading the table with 36-39-27 medals and the overall list with 102 medals. \"We want to achieve a good result, finish at the same level as in our sixth-place finish in Athens, or even move up one position,\" said the DOSB's vice president, Eberhard Gienger. The German team of around 450 athletes also features table tennis ace Timo Boll, who hopes to scare the hosts at their number one sport. Other bright lights Canoeing 2004 champion Andreas Dittmer, dressage star Isabelle Werth, the men's field hockey and handball teams are also major medal hopes. Steffen, meanwhile, rose to stardom with four golds and one silver at the 2006 European championships although she had to settle for a bronze and a silver at the 2007 worlds. Now the 24-year-old is hoping to deliver Germany's first swim gold since 1992, in the 50m or 100m freestyle races. \"I am so scared to finish the 100m in second place and not to be happy with it. I don't even know if I could be happy with gold because that result would only confirm the expectations,\" Steffen said. Hambuechen won world championship gold for Germany on the horizontal bar, all-around silver and team bronze. The diminutive 20-year-old, known as the \"gymnastics professor,\" now hopes to cap his career in Beijing and said he will be not be to the forefront when it comes to criticism of China over human rights and other issues. \"I have a critical view of the political situation in China but at the Olympics in Beijing I will only think about my competition,\" said Hambuechen, the German Sportsman of the Year in 2007.",
+  "relations": [
+    [
+      "Britta Steffen",
+      "Beijing Games",
+      "appears_in"
+    ],
+    [
+      "Britta Steffen",
+      "2006 European championships",
+      "appears_in"
+    ],
+    [
+      "Britta Steffen",
+      "2007 worlds",
+      "appears_in"
+    ],
+    [
+      "Britta Steffen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Britta Steffen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Fabian Hambuechen",
+      "Beijing Games",
+      "appears_in"
+    ],
+    [
+      "Fabian Hambuechen",
+      "German Sportsman of the Year",
+      "award_received"
+    ],
+    [
+      "Fabian Hambuechen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Fabian Hambuechen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Beijing Games",
+      "China",
+      "event_in0"
+    ],
+    [
+      "Beijing Games",
+      "Beijing",
+      "event_in2"
+    ],
+    [
+      "German Olympic Committee",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Olympic Committee",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DPA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Michael Vesper",
+      "German Olympic Committee",
+      "head_of"
+    ],
+    [
+      "Michael Vesper",
+      "German Olympic Committee",
+      "member_of"
+    ],
+    [
+      "Athens 2004",
+      "Athens",
+      "event_in2"
+    ],
+    [
+      "Eberhard Gienger",
+      "German Olympic Committee",
+      "head_of"
+    ],
+    [
+      "Eberhard Gienger",
+      "German Olympic Committee",
+      "member_of"
+    ],
+    [
+      "Timo Boll",
+      "Beijing Games",
+      "appears_in"
+    ],
+    [
+      "Timo Boll",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Timo Boll",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Andreas Dittmer",
+      "Beijing Games",
+      "appears_in"
+    ],
+    [
+      "Andreas Dittmer",
+      "Canoeing 2004",
+      "appears_in"
+    ],
+    [
+      "Andreas Dittmer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Andreas Dittmer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Isabelle Werth",
+      "Beijing Games",
+      "appears_in"
+    ],
+    [
+      "Isabelle Werth",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Isabelle Werth",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ]
+  ]
+}

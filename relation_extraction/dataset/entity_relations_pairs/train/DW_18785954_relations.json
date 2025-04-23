@@ -1,0 +1,120 @@
+{
+  "content": "New role for German soldiers in Mali?\nIt seems that German troops are soon to be sent to northern Mali. They will not take part in combat operations but will play more of a support role to Dutch peacekeepers already stationed there.\nIt seems to be a foregone conclusion - the German armed forces, the Bundeswehr, are to expand their area of operations to northern Mali. A debate on the pros and cons of this is already underway in the German media. Last week, a delegation of the German defense ministry returned from Mali and the news quickly leaked out that German soldiers are to strengthen the UN's Minusma peace mission in the north. The mission is currently focused on monitoring a peace accord for the region that was signed in June. There had long been speculation in the German press that the defense ministry was considering expanding the role of the Bundeswehr in the West African state. Defense Minister Ursula von der Leyen had repeatedly said at international gatherings that Germany wished to play a stronger role in UN peace missions. The daily newspaper \"Süddeutsche Zeitung\" got hold of an internal report compiled by a Bundeswehr team that returned from Mali at the beginning of last week. Should the suggestions contained in that report be implemented, the paper wrote in its Thursday edition, then \"an advance guard could be sent before the end of this year, followed in early 2016 by troops whose task would be to protect property, as well as other support units.\" Reconnaissance troops would then follow between April and June. The main task would be to support the Dutch mission that has a number of helicopter gunships in northern Mali. Little risk for German soldiers The head of the Friedrich Ebert Foundation (FES) in Bamako, Jan Henrik Fahlbusch, who has been closely observing the security situation in Mali does not believe that German troops will take part in combat missions in the near future. The risk of loss of life will, therefore, remain low. He sees the expanded mission as more of a complementary component for the Dutch troops. Under a mandate from the German parliament, the Bundestag, up to 350 German soldiers can be deployed in Mali. In 2014 the Bundeswehr had more or less ended its involvement with Minusma, retaining just 9 liaison officers. Previously the UN had declined the use of two elderly Transall cargo planes. The German planes could not fly at night and often remained grounded when the daytime temperature was particularly high. Minusma preferred to use planes from other countries - such as a transport aircraft from Ghana. Fahlbusch is optimistic that the new Minusma-related tasks will serve a useful purpose. The Dutch helicopter gunships are particularly important in efforts to increase stability and security in the region, he told DW. Up to now, Germany has been primarily involved in training the Malian army as part of an EU program. Some 200 German army trainers are currently stationed in southern Mali. Fahlbusch has collected data on the acceptance of the foreign military presence in Mali as part of an FES survey. He told DW the results show that the presence of the German training mission is generally seen in a positive light.",
+  "relations": [
+    [
+      "Friedrich Ebert Foundation",
+      "Mali",
+      "based_in0"
+    ],
+    [
+      "Friedrich Ebert Foundation",
+      "Bamako",
+      "based_in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jan Henrik Fahlbusch",
+      "Friedrich Ebert Foundation",
+      "head_of"
+    ],
+    [
+      "Jan Henrik Fahlbusch",
+      "Friedrich Ebert Foundation",
+      "member_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bamako",
+      "Mali",
+      "in0"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

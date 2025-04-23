@@ -1,0 +1,155 @@
+{
+  "content": "Merkel criticized as danger to German democracy\nIt's the strongest criticism of Angla Merkel's grip on power so far: A member of her own conservative party has published a book, describing Merkel as a danger to democracy in Germany.\n\"The Godmother\" is a book that Chancellor Angela Merkel probably won't read. Rumors are circulating that the Chancellor indignantly put aside an excerpt published in the German newspaper \"Frankfurter Allgemeine Zeitung\" after reading just a few lines. Nevertheless, the 300-page \"anti-Merkel\" book penned by the 71-year-old-publicist, Gertrud Höhler, a confidante of former Chancellor Helmut Kohl, has the makings of a bestseller in political Berlin. More than 80 journalists and camera teams crowded into the federal press conference on Thursday. Höhler's book is about more than the tired old allegations that Merkel, for instance, pushes all male rivals out of her way, has not internalized any values and makes decisions only when she knows which way the scale will tip. Merkel, nicknamed \"Mutti\" or mommy in political circles, becomes a \"godmother\" in Höhler's book. She establishes a \"silent variant of authoritarian power that Germany has yet to experience.\" The author lists a number of attributes, such as stealing ideas from political rivals, leveling the party system to an all-party-state and sloppily handling legal norms, ethical standards, parliament and the constitution – and often reprimanded by the Federal Constitutional Court. In short, she points to a decline of political morals. \"German-tailored suit\" for Europe Perhaps all of this is linked to the 35 years that Angela Merkel lived under a dictatorial regime in East Germany. No one knows for sure what drives Merkel, who learned in the GDR to read between the lines, act silently, never say too much and be suspicious, Höhler noted when introducing her book. \"How Angela Merkel is rebuilding Germany\" is the subtitle of \"The Godmother.\" In Höhler's view, other Europeans should be concerned about Merkel's thirst for power as the Chancellor is giving Europe a \"German-tailored suit.\" The facts that the author has compiled on a creeping loss of democracy in Germany and Europe aren't new. What is new at first glance is the exaggerated role attributed to Merkel in this process. This reveals how much some conservatives in the Christian Democratic Union (CDU) are challenged by Merkel's claim to power and how her \"values of abstinence, coolness and dispassion have forced them into a corner,\" Höhler said. The sudden change of direction in energy policy that Merkel pushed through practically over night, the end of military service, the plans to lower taxes and abandon traditional views on the family by granting more rights to homosexual couples – these are all examples that have led to insecurity across the party. \"Godmother\" author Gertrud Höhler, long a member of the CDU, also worked as an adviser to Helmut Kohl. Biting their tongue Höhler's book has a dedication \"to all who are still biting their tongue.\" How many of these there are in the party is not clear. The CDU, for a long time, has had the reputation of being overly submissive to their chancellor when they're in government and it is Merkel's popularity that the CDU will have to thank if it manages to remain in power past the 2013 election. Toppling the chancellor from within the party is therefore very unlikely. Whoever wants a career in the CDU avoids crossing Merkel. Only old party veterans no longer seeking new positions dare to speak out. One of them is 72-year old Josef Schlarmann, head of the party's committee on small and medium-sized companies. He recently criticized that the party was merely taking orders. Attempts to go against Merkel's course have so far failed. The most recent case was when the so-called Berlin circle of some 35 CDU politicians announced a \"conservative manifesto\" to criticize what it perceived as the CDU taking over too many of the center-left's policies on social issues. The politicians said that they'd been encouraged to do so by thousands of letters from party members and other citizens. But the launch of the manifesto, planned for this Friday, has been cancelled on short notice, with a new date announced for autumn. Angela Merkel – who has just been named the world's most powerful woman again – is most likely not all too worried about it.",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "East Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democratic Union",
+      "member_of"
+    ],
+    [
+      "Christian Democratic Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democratic Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "The Godmother",
+      "Gertrud Höhler",
+      "created_by"
+    ],
+    [
+      "Gertrud Höhler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gertrud Höhler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gertrud Höhler",
+      "Christian Democratic Union",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Frankfurter Allgemeine Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Frankfurter Allgemeine Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Helmut Kohl",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Helmut Kohl",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Helmut Kohl",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Helmut Kohl",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Helmut Kohl",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Federal Constitutional Court",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Constitutional Court",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Constitutional Court",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Constitutional Court",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Josef Schlarmann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Josef Schlarmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Josef Schlarmann",
+      "Christian Democratic Union",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "content": "In Cairo, German foreign minister offers aid and encouragement\nGuido Westerwelle pledged development aid and wide-ranging cooperation on a trip to Egypt. Promising a \"partnership of equals,\" he compared the Egyptian revolution to German reunification 20 years ago.\nOn a trip to Cairo Wednesday, German Foreign Minister Guido Westerwelle offered Egypt about 30 million euros ($41 million) in aid and said he hoped that the democratic process there would help to improve Egyptians' lives. The visit came less than two weeks after chaotic protests brought down the government of authoritarian Egyptian President Hosni Mubarak. Westerwelle met with officials in Egypt's transitional government including his counterpart Abul Gheit and Defense Minister Mohammed Tantawi, who is Egypt's de facto head of state while the military runs the country. Westerwelle said he did not come to patronize Egyptians, but to offer a \"partnership of equals.\" During a stop in Cairo's Tahrir Square, which was the center of the anti-Mubarak protests, he compared Egypt's revolution to the reunification of Germany twenty years ago. \"Tahrir Square is for Egypt what the Brandenburg Gate is for us Germans,\" he said. \"We Germans have our peaceful, liberal revolution behind us. We wish the same for Egyptians.\" Economic focus The German aid package for Egypt consists of 8 million euros ($11 million) to boost youth employment and 20 million euros ($28 million) in \"micro credits.\" Details about the micro credits were not immediately available. Westerwelle called for European markets to be more open to Egyptian products, and said from Germany's point of view, \"normal tourism is again possible.\" About 1.3 million Germans visited Egypt last year, but the revolution devastated the North African country's tourism industry. The German foreign minister also promised Egypt close economic and political cooperation, support in building a civil society and an independent judiciary, educational development and student exchanges. Calls for progress Along with Egyptian officials, Westerwelle met with opposition leaders including Nobel Peace Prize winner Mohammed ElBaradei. Westerwelle was not scheduled to meet with the Muslim Brotherhood, Egypt's largest and most controversial opposition group. Westerwelle said that Egypt's transition to democracy should bring about improvements in life for all Egyptians. He said people should be able to notice freedom and democracy bringing prosperity to families and opportunities to young people. Following Mubarak's ouster, the Egyptian military dissolved the country's parliament and assumed control of the government. Egyptian Foreign Minister Abul Gheit told Westerwelle the transitional government has not yet set a date for elections, but that the military would step down within six months. Gheit added that authorities would soon release all political prisoners. Westerwelle was the fourth European political leader to visit Egypt this week. He followed British Prime Minister David Cameron, European Union foreign policy chief Catherine Ashton and Italian Foreign Minister Franco Frattini. Author: Shant Shahrigian (dpa, dapd) Editor: Michael Lawton",
+  "relations": [
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egyptians",
+      "citizen_of-x"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "head_of_state"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egyptian",
+      "head_of_state-x"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egyptians",
+      "head_of_state-x"
+    ],
+    [
+      "Cairo",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Cairo",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Cairo",
+      "Egyptians",
+      "in0-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germans",
+      "minister_of-x"
+    ],
+    [
+      "Abul Gheit",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Abul Gheit",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Abul Gheit",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Abul Gheit",
+      "Egyptians",
+      "citizen_of-x"
+    ],
+    [
+      "Abul Gheit",
+      "Egypt",
+      "minister_of"
+    ],
+    [
+      "Abul Gheit",
+      "Egyptian",
+      "minister_of-x"
+    ],
+    [
+      "Abul Gheit",
+      "Egyptians",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "Egyptians",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "Mohammed Tantawi",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Mohammed Tantawi",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Mohammed Tantawi",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Mohammed Tantawi",
+      "Egyptians",
+      "citizen_of-x"
+    ],
+    [
+      "Mohammed Tantawi",
+      "Egypt",
+      "minister_of"
+    ],
+    [
+      "Mohammed Tantawi",
+      "Egyptian",
+      "minister_of-x"
+    ],
+    [
+      "Mohammed Tantawi",
+      "Egyptians",
+      "minister_of-x"
+    ],
+    [
+      "Tahrir Square",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Tahrir Square",
+      "Cairo",
+      "in2"
+    ],
+    [
+      "Brandenburg Gate",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Brandenburg Gate",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Brandenburg Gate",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Mohammed ElBaradei",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Mohammed ElBaradei",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Mohammed ElBaradei",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Mohammed ElBaradei",
+      "Egyptians",
+      "citizen_of-x"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egyptians",
+      "based_in0-x"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Catherine Ashton",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Franco Frattini",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Franco Frattini",
+      "Italian",
+      "minister_of-x"
+    ]
+  ]
+}

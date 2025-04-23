@@ -1,0 +1,90 @@
+{
+  "content": "Poland and Industry 4.0 in the spotlight of Hanover industry fair\nGerman chancellor Angela Merkel has opened the world's biggest industrial fair. Poland is the partner nation of the fair that also seeks to allay fears from technological advances associated with Industry 4.0.\nDuring he traditional opening walk around the Hannover Messe fairground, the German chancellor made a plea for free and open trade, saying isolationism and protectionism would only lead to losses for society as a whole. In Hanover this year, Poland's industry is at the center of the fair. The five-day trade fair, which is in its 70th year, also focuses on networked industry, with robots playing an increasing role in the approximately 6,500 exhibitions from more than 70 countries. Poland is Germany's eighth most lucrative trading partner with a population of 38 million. Last year, German mechanical engineering companies exported assets worth 5.7 billion euros ($6.1 billion) across the border to Poland. The Mechanical Engineering Industry Association's (VDMA) Eastern Europe expert, Yvonne Heidler, says the plan is for growth in 2017. \"Poland is coming, and we are assuming that Poland will become an increasingly important trade partner,\" said Carl Martin Welcker, the president of the VDMA in an interview with Reuters. The focus of this year's fair is Industry 4.0, which exchanges data on manufacturing techologies over cloud computing, energy transformation and automation of labor. Poland is one of the fastest growing markets for automation in manufacturing, but there's still room for industry to improve its competitiveness. \"Many companies are still at the level of Industry 2.0, with only 15 percent of the factories fully automated, 76 percent partly automated, and the rest still being handled by hand,\" explained Heidler. Robots and humans can coexist Amid tensions on factory floors over the risk of losing jobs to robots, the Hannover Messe will attempt to alleviate concerns. Exhibitors will demonstrate how machines can coexist alongside human workers and offer support in factories. Although job changes are inevitable, robots can adapt to the speed and behavioral changes of humans, said trade fair boss Jochen Koeckler. \"Robots learn from robots,\" said Koeckler. \"But it is human beings who tell the robot what tasks need to be done.\" To adapt from manual jobs to commanding robots will demand higher qualifications and greater expertise of technology and programming explained Stefan Assmann, head of Bosch's connected industry unit. There is no need for fewer workers at the automotive supplier company. More than 1,700 panels will take place at the Hannover Messe with 6,500 exhibitors and a further 1,200 journalists from around the globe. uhe/rd (Reuters, dpa)",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Hannover Messe",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Hannover Messe",
+      "Hanover",
+      "event_in2"
+    ],
+    [
+      "Jochen Koeckler",
+      "Hannover Messe",
+      "head_of"
+    ],
+    [
+      "Jochen Koeckler",
+      "Hannover Messe",
+      "member_of"
+    ],
+    [
+      "Yvonne Heidler",
+      "Mechanical Engineering Industry Association",
+      "member_of"
+    ],
+    [
+      "Hanover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hanover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Carl Martin Welcker",
+      "Mechanical Engineering Industry Association",
+      "head_of"
+    ],
+    [
+      "Carl Martin Welcker",
+      "Mechanical Engineering Industry Association",
+      "member_of"
+    ],
+    [
+      "Stefan Assmann",
+      "Bosch",
+      "head_of"
+    ],
+    [
+      "Stefan Assmann",
+      "Bosch",
+      "member_of"
+    ]
+  ]
+}

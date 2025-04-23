@@ -1,0 +1,40 @@
+{
+  "content": "Gunmen steal 'millions' in Swiss cash van heist\nPolice are hunting for three men who held up an armored van near the French-Swiss border and made off with millions in cash. The suspects reportedly demanded ransom after kidnapping the daughter of a security guard.\nPolice in western Switzerland appealed for witnesses on Friday after armed robbers clad in black clothing and balaclavas escaped with up to €26 million ($31.8 million). \"The thieves fled to an unknown destination,\" police in the Swiss canton of Vaud said in a statement. The drama began late Thursday, when the assailants, posing as plumbers, kidnapped the daughter of a security guard from her apartment in the southeastern French city of Lyon, investigators said. Read more: Paris thieves steal millions in highway heist The 22-year-old told police she was tied up, bundled into a car, and forced to phone her father, who transports money in armored vehicles for a Swiss security company. Police said the father was en route to Lausanne to make a delivery with a colleague when the call came through, and he agreed to meet the kidnappers in a car park on the Swiss side of the border. \"There, several armed men who were awaiting the van made him park it. They…completely emptied the van's contents and fled in a dark-colored Porsche SUV,\" Swiss police said in a statement, without specifying how much money was stolen. Read more: Police hunt for more Ritz robbers after stolen jewels found Police sources quoted by news agencies said the van was carrying \"between 20 and 30 million Swiss francs (€17-26 million, $21-32 million).\" No one was injured during the heist. Investigators said the security guard's daughter was later found on the side of a road north of Lyon. Police said they had launched a criminal probe into the robbery and were searching for three men with accented French. Read more: The most spectacular art robberies in history nm/bw (Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "Lyon",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ],
+    [
+      "Vaud",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Vaud",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Lausanne",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Lausanne",
+      "Swiss",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "content": "ESC 2015: first set of finalists chosen\nSixteen nations battled in the first semifinals to qualify for Eurovision Song Contest finale on May 23. Ten qualified. When the jury and spectators' votes were counted, they served up some surprises.\nAfter a glamorous downbeat delivered by last year's winner, Conchita Wurst, it was on to the contest, whose results surprised experts and betting agencies. Among the favorites, the Finnish punk band Pertti Kurikan Nimipäivät didn't advance to the next round. With its fairy tale backdrop and theme of genocide, \"Face The Shadow\" seems a bit over-composed, but the song by Armenia's band Genealogy found favor with jury and spectators. Having placed its bets on a very young artist, Belgium made the finals as well. Loïc Nottet gave a strong and idiomatic song-and-dance performance of \"Rhythm Inside\" on a black-and-white stage set. Greece also took the hurdle with the pathos-laden ballad \"One Last Breath,\" sung by Maria Elena Kyriakou (picture above). Viewers also gave the thumbs-up to Estonia's pop rock song. In \"Goodbye to Yesterday,\" Elina Born and Stig Rästa rendered the bleak mood of a one night stand in song. Their Tuesday evening performance wasn't a one night stand, however; they'll be back at Saturday's finale. Big show, down-tempo sounds Serbia sent a substantial singer Bojana Stamenov to the stage. In \"Beauty Never Lies,\" the \"Serbian Beth Ditto\" delivered an explosive song, and her magnificent big dress generated the highest-octane glamour of all. Hungary qualified with Boggie's folksy and understated antiwar song, \"Wars For Nothing.\" Peace and reconciliation is also the subject of Russia's powerful ballad \"A Million Voices,\" with which Polina Gagarina made it to the final. Giving her all for Albania, Elhaida Dani squeaked \"I'm Alive\" in the highest pitches and entered the final round. Rumania's Voltaj convinced listeners with \"De la capăt,\" a song about parents who work abroad and leave their children behind. An energetic final number was delivered by Nina Sublatti from Georgia. Accompanied by a hectic laser show, she screamed \"Warrior\" into the audience, which then delivered the necessary votes for her to proceed to the final. Only 16 countries voted The order in which the songs were performed was not coincidental. Host broadcaster ORF (Austrian Public Broadcasting) had carefully chosen the starting positions so that the audience wouldn't be lulled to sleep with multiple slow songs in a row. But with the majority of entries in the 2015 edition of the ESC being ballads - performed with varying degrees of bombast and considerably removed from the zeitgeist - the risk of a certain boredom looms. The finale will benefit from a couple of up-beat exceptions like Belgium's young dance performance. All 16 acts were required to perform for the jury on Monday, which then awarded half of the points. The television audience then had the opportunity to call in their votes in Tuesday evening's show, with only the participating countries allowed to vote and none permitted to vote for their own country. The next semifinal is set for Thursday. A starting position is guaranteed to host country Austria and the five highest contributors to the European Broadcasting Union (EBU): Germany, France, Great Britain, Spain and Italy. This year, Australia was invited to participate and will also be among the 27 countries vying for the top honor on Saturday. Ann Sophie in good spirits After having given a splendid rehearsal performance, Germany's entry, Ann Sophie, gave a press conference on Tuesday. Calm, composed and spontaneous, she chatted casually with journalists from various countries in impeccable English and gave a brief impromptu rendition of part of a song by her favorite singer, Beyoncé. Wrapping up the appearance, she followed up with an acoustical sample of her ESC song \"Black Smoke,\" joined by her guitarist.",
+  "relations": [
+    [
+      "Austrian Public Broadcasting",
+      "Austria",
+      "based_in0"
+    ],
+    [
+      "Pertti Kurikan Nimipäivät",
+      "Finnish",
+      "based_in0-x"
+    ],
+    [
+      "Face The Shadow",
+      "Genealogy",
+      "created_by"
+    ],
+    [
+      "Face The Shadow",
+      "Genealogy",
+      "created_by"
+    ],
+    [
+      "Genealogy",
+      "Armenia",
+      "based_in0"
+    ],
+    [
+      "Loïc Nottet",
+      "Armenia",
+      "citizen_of"
+    ],
+    [
+      "Rhythm Inside",
+      "Loïc Nottet",
+      "created_by"
+    ],
+    [
+      "One Last Breath",
+      "Maria Elena Kyriakou",
+      "created_by"
+    ],
+    [
+      "Maria Elena Kyriakou",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Goodbye to Yesterday",
+      "Elina Born",
+      "created_by"
+    ],
+    [
+      "Goodbye to Yesterday",
+      "Stig Rästa",
+      "created_by"
+    ],
+    [
+      "Elina Born",
+      "Estonia",
+      "citizen_of"
+    ],
+    [
+      "Stig Rästa",
+      "Estonia",
+      "citizen_of"
+    ],
+    [
+      "Bojana Stamenov",
+      "Serbia",
+      "citizen_of"
+    ],
+    [
+      "Bojana Stamenov",
+      "Serbian",
+      "citizen_of-x"
+    ],
+    [
+      "Beauty Never Lies",
+      "Bojana Stamenov",
+      "created_by"
+    ],
+    [
+      "Serbian",
+      "Serbia",
+      "gpe0"
+    ],
+    [
+      "Wars For Nothing",
+      "Boggie",
+      "created_by"
+    ],
+    [
+      "A Million Voices",
+      "Polina Gagarina",
+      "created_by"
+    ],
+    [
+      "Polina Gagarina",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Elhaida Dani",
+      "Albania",
+      "citizen_of"
+    ],
+    [
+      "Elhaida Dani",
+      "I'm Alive",
+      "created_by"
+    ],
+    [
+      "Voltaj",
+      "Rumania",
+      "based_in0"
+    ],
+    [
+      "De la capăt",
+      "Voltaj",
+      "created_by"
+    ],
+    [
+      "Nina Sublatti",
+      "Georgia",
+      "citizen_of"
+    ],
+    [
+      "Warrior",
+      "Nina Sublatti",
+      "created_by"
+    ],
+    [
+      "Ann Sophie",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Black Smoke",
+      "Ann Sophie",
+      "created_by"
+    ]
+  ]
+}

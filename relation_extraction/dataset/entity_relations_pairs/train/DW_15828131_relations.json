@@ -1,0 +1,135 @@
+{
+  "content": "EU to slap fresh sanctions on Belarus\nRelations between the EU and Belarus have reached a new low point because of continuing repression in the country. German politicians are calling for fresh sanctions, aimed at increasing pressure on the leadership.\nAfter the controversial execution of two men in Belarus, the European Union is likely to step up sanctions against the regime of President Alexander Lukashenko. Diplomats believe that at their meeting in Brussels on Friday, the bloc's 27 foreign ministers are set to add more people, nine of them in the judiciary, as well as some 30 companies to its blacklist. Some 200 Belarusians are already targeted with a travel ban and asset freeze over Lukashenko's continuing repression of civil society and the political opposition. Executions have caused criticism The latest EU action was sparked when Belarusian state media reported the execution of Vladislav Kovaljov and Dmitry Konovalov last weekend. The two 26-year-olds were found guilty of a bomb attack in April 2011 in the Minsk underground system, killing 15 people and wounding an additional 300. Civil rights activists and trial observers doubt that the men were guilty. The execution of the two alleged culprits is further straining the already difficult relationships between Brussels and Minsk. Ruprecht Polenz, chairman of the German parliament's foreign affairs aommittee, strongly condemns the execution. “Belarus is the only country in Europe that still applies the death penalty,\" he said. \"The verdict in this case was based on an arbitrary trial with considerable flaws, which went completely against the rule of law.“ Markus Löning, the German government's human rights commissioner, stresses that the trial did not meet international standards. There is a good chance, he says, that the two men were not behind the attacks. During the trial, one of them said that he had made the confession under torture. “President Lukashenko has himself to blame if the relationships between Belarus and European countries are at a very low point,\" Löning told DW. \"Of course they are low when he is committing crimes against humanity and against human rights in such an obvious way.“ Sanctions targetting the regime, not the population The relationship between Brussels and Minsk turned colder in late February. In a move to hit back at the EU for its latest round of sanctions, Minsk withdrew its EU and Poland ambassadors and brought them back “for consultations.” In response, the EU withdrew all its diplomats from Belarus. At Friday's meeting in Brussels, foreign ministers are set to discuss if and when the ambassadors will return to Minsk. The EU has been trying for years to step up pressure on the regime in Minsk through sanctions. Sanctions are the most effective way of telling Lukashenko that his politics are not acceptable in Europe, says Polenz. But it's just as important that sanctions do not increase the population's suffering. After all, the people are already suffering the most under Lukashenko. “It's not the Belarusian people who are responsible for what Lukashenko is doing to them,“ says Polenz. On the contrary, the idea is to open doors for Belarusians and to ease visa regulations. “We want to give young Belarusians the possibility to study in Europe and get an education here.“ Löning agrees that the EU sanctions should only be targetted at those responsible for the repressions in Belarus. According to Löning, the message to the people is “we are by your side, we stand ready to help you, to free you from this dictator.\" \"We are still calling on the president to give his people the rights they deserve: they need to be a free people and live lives like those in their neighboring countries,” says the German human rights representative. Minsk: a burden for Moscow Of course, the Europeans only have a limited influence – Minsk simply has to make the right decisions itself, Polenz believes. Belarus depends heavily on Russia's gas and oil exports, and the EU's sanctions threaten to push Belarus even further towards Moscow. “That's not the goal of the sanctions,“ Polenz stresses, adding that the EU always sends out two messages: “First, we want the country to be governed in a different way, and secondly, we invite it to cooperate with Europe and to develop in a way that brings it closer to Europe.“ Minsk is increasingly becoming a burden for Moscow, says Polenz – economically, politically, and morally. One example: Belarus pays only a third of the gas price Russia gets from countries like the Ukraine. Russian media also criticized the execution of the two suspected bombers. “That's why we're hoping that Russia – for all its interest in strengthening the bond with Belarus – thinks about what kind of a Belarus it wants to work with,\" says Polenz. \"Russia also has to find an answer to the question of whether it's acceptable to be a direct ally and friend of a country regardless of the state it's in and of how it's being governed.” Author: Markian Ostaptschuk / nh Editor: Ben Knight",
+  "relations": [
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusians",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "head_of_state"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusians",
+      "head_of_state-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "head_of_state-x"
+    ],
+    [
+      "Markus Löning",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Markus Löning",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ruprecht Polenz",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Ruprecht Polenz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Belarusians",
+      "Belarus",
+      "gpe0"
+    ],
+    [
+      "Belarusian",
+      "Belarus",
+      "gpe0"
+    ],
+    [
+      "Vladislav Kovaljov",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Vladislav Kovaljov",
+      "Belarusians",
+      "citizen_of-x"
+    ],
+    [
+      "Vladislav Kovaljov",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Dmitry Konovalov",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Dmitry Konovalov",
+      "Belarusians",
+      "citizen_of-x"
+    ],
+    [
+      "Dmitry Konovalov",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Minsk",
+      "Belarus",
+      "in0"
+    ],
+    [
+      "Minsk",
+      "Belarusians",
+      "in0-x"
+    ],
+    [
+      "Minsk",
+      "Belarusian",
+      "in0-x"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ]
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "content": "Steinmeier calls on Syria and Lebanon to take part in Middle East peace process\nGerman Foreign Minister Frank-Walter Steinmeier is in Lebanon as part of a whirlwind Middle East visit centered on restarting negotiations in the Israeli-Palestinian conflict.\nSteinmeier congratulated Lebanon's new prime minister, Saad al-Hariri, and wished him success in forming a new cabinet, after talks between the two men in Beirut on Tuesday. His election was an encouraging sign of stability in the country, Steinmeier added. Steinmeier said that he and al-Hariri \"agreed that we must use the opportunities presented by US President Barack Obama\" in furthering the Middle East peace process. The German foreign minister arrived in Lebanon for a three-hour visit after meetings in Syria and Israel. Steinmeier and Syrian President Bashar al-Assad were not able to come to an agreement on resuming contact between Israel and Syria during their talks in Damascus, along with Syrian Foreign Minister Walid al-Moallem. \"Syria has an objective interest in the success of the Middle East peace process,\" said Steinmeier, \"and I call on Syria and also my counterpart Mr. al-Moallem to do its part.\" Contact between Israel and Syria was suspended after Israel's military offensive on the Gaza Strip this past winter. Al-Moallem reiterated that Syria would not give up its claim on the Golan Heights, which Israel has occupied since the Six Day War in 1967. Steinmeier specifically named Hezbollah as an obstacle to the peace process. The Lebanon-based organization relies on Syria for some financial support. The talks were also meant to focus on the issue of human rights in Syria, as the European Union has promised to support Damascus in its efforts to improve its infamous record. Steinmeier said he would call on Syria to continue its trend of openness, which he said had improved in recent months. Another hot topic is Syria's close relationship with Iran. During meetings with Israeli President Shimon Peres on Monday, Steinmeier was given harsh words to pass on in Syria. Peres asked Steinmeier to tell Syrian President Bashar al-Assad that, if Damascus continued to have such close ties with Iran, Israel would hesitate to return the Golan Heights to Syria. Talks in Israel Steinmeier had traveled to Syria from Jerusalem, where he'd met with the Israeli prime minister, Benjamin Netanyahu, on Monday. The German foreign minister welcomed Netanyahu's recent acceptance of the need for a two-state solution and called the removal of road blocks restricting the movement of Palestinians in the West Bank a \"small start.\" He added that the \"road to stability in the entire region leads only through talks with the Palestinian side. My personal conviction is that a guarantee for stability can only come through the realization of the two-state solution.\" Reciprocity Netanyahu had initially balked at the idea of openly supporting the two-state solution, but finally made a public endorsement of a demilitarized Palestinian state in a June 14 policy speech, following intense pressure from the US and Europe. Despite this, Netanyahu had refused to accept demands for a complete freeze of construction in Jewish settlements in the occupied West Bank, which the Palestinians along with nations including Egypt and Jordan, have made a condition for any resumption of peace negotiations. Netanyahu has also vowed to pursue a policy of \"reciprocity,\" insisting on Palestinian and Arab counter-steps in exchange for any Israeli \"concessions.\" This would include Arab states gradually moving towards normalizing ties with Israel even before a Palestinian state is created. hf/glb/Reuters/dpa/AFP/AP Editor: Chuck Penfold",
+  "relations": [
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Saad al-Hariri",
+      "is_meeting"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Saad al-Hariri",
+      "Lebanon",
+      "agent_of"
+    ],
+    [
+      "Saad al-Hariri",
+      "Lebanon",
+      "citizen_of"
+    ],
+    [
+      "Saad al-Hariri",
+      "Lebanon",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Shimon Peres",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Shimon Peres",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Shimon Peres",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Shimon Peres",
+      "Israel",
+      "head_of_state"
+    ],
+    [
+      "Shimon Peres",
+      "Israeli",
+      "head_of_state-x"
+    ],
+    [
+      "Walid al-Moallem",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Walid al-Moallem",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Walid al-Moallem",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Walid al-Moallem",
+      "Syria",
+      "minister_of"
+    ],
+    [
+      "Walid al-Moallem",
+      "Syrian",
+      "minister_of-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Beirut",
+      "Lebanon",
+      "in0"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Six Day War",
+      "Golan Heights",
+      "event_in"
+    ],
+    [
+      "Six Day War",
+      "Syria",
+      "event_in0"
+    ],
+    [
+      "Six Day War",
+      "Israel",
+      "event_in0"
+    ],
+    [
+      "Hezbollah",
+      "Lebanon",
+      "based_in0"
+    ],
+    [
+      "Jerusalem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jerusalem",
+      "Israeli",
+      "in0-x"
+    ]
+  ]
+}

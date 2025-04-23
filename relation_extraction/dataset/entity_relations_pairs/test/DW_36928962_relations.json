@@ -1,0 +1,125 @@
+{
+  "content": "No more 'veggie sausages?' Minister wants ban on meat names for plant-based foods\nTerms like \"vegan sausage\" and \"vegetarian schnitzel\" confuse consumers and need to be replaced, according to German Agriculture Minister Christian Schmidt. He wants new names for plant-based dishes.\nGermans shouldn't be biting into a \"vegan sausage\" or cutting a slice of \"vegetarian schnitzel,\" German Minister for Food and Agriculture Christian Schmidt told the daily \"Bild\" newspaper on Wednesday, adding that names traditionally used for meat-based dishes should not be applied to plant-based foods. \"I don't want anyone to pretend that these pseudo-meat dishes are actual meat dishes,\" Schmidt said. The minister said manufacturers should come up with distinct names for plant-based meat-substitutes. Schmidt also said meat was part of a healthy and balanced diet and belonged on the menu in schools and kindergartens. Soy? Steak? Soy-steak? Schmidt's statements echo demands from the German Farmers Association and German Butchers Association. Both lobbying groups have asked for a ban on terms such as \"vegetarian ham\" or \"soy steak.\" Schmidt's call for plant-based foods to have their own name was also made in October in the state of Lower Saxony, a state with many large livestock farms. The German Vegetarian Association, however, argued against the proposal. A spokesperson for the organization said that \"names that are used for animal-based products should without a doubt also be legal to use for vegetarian substitute products.\" More meatless 'whatever-you-want-to-call-thems' The market for vegetarian and vegan dishes has grown steadily in the past few years in Germany, partly at the expense of the meat industry. According to a research paper by the Institute for the Study of Trade (IfH), revenue for vegetarian and vegan products in Germany was 454 million euros ($474 million) in 2015 and grew by more than 100 percent between 2010 and 2015. In the same time period, the demand for meat products fell by almost 10 percent. mb/sms (dpa, epd)",
+  "relations": [
+    [
+      "Christian Schmidt",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Christian Schmidt",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Christian Schmidt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Christian Schmidt",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Christian Schmidt",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Christian Schmidt",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Christian Schmidt",
+      "Germans",
+      "minister_of-x"
+    ],
+    [
+      "German Farmers Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Farmers Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Farmers Association",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "German Butchers Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Butchers Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Butchers Association",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bild",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lower Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "German Vegetarian Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Vegetarian Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Vegetarian Association",
+      "Germans",
+      "based_in0-x"
+    ]
+  ]
+}

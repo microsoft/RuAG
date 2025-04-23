@@ -1,0 +1,145 @@
+{
+  "content": "IMF's Lagarde should face court in Tapie affair - prosecutor\nA French prosecutor says IMF chief Christine Lagarde should face trial over a massive state payout to tycoon Bernard Tapie. The Supreme Court is now due to rule on the recommendation on July 22.\nThe prosecutor recommended Friday that Lagarde's appeal against charges of misuse of public funds be rejected. Lagarde, who is head of the International Monetary Fund (IMF), appealed an earlier Court of Justice ruling in December that she should face trial over a case where prominent French businessman Bernard Tapie received 404 million euros ($450 million) in taxpayer funds while she was French finance minister. The case dates back to 1993, when Tapie sold his majority stake in the sports giant Adidas to become a French cabinet minister. He later sued the French bank Credit Lyonnais, which bought the stake, accusing the lender of undervaluing the company. More than a decade later, Tapie backed Nicolas Sarkozy for president. In 2008, once elected, Sarkozy's government intervened in the court case when Lagarde ordered that the dispute transfer to binding arbitration. Judges later ruled that Tapie should receive hundreds of millions of euros in compensation. France's Supreme Court is expected to rule on Friday's recommendation on July 22. If the original order is upheld, the 60-year-old Lagarde will be tried in the Law Court of the Republic, which handles cases concerning offences committed by sitting government ministers. Prosecutors say Lagarde failed to challenge the arbitration ruling at the time, which they say was prejudicial to the state. She could face a year in jail if convicted as well as a fine of 15,000 euros. Lagarde has denied any wrongdoing or that she acted on orders from Sarkozy. Separately, Tapie was eventually charged with fraud, before being ordered to repay the cash in February 2015. He lost an appeal against the ruling on Thursday. Despite the case hanging over her, IMF's Lagarde to run for second term the IMF has named Lagarde to a second term as managing director, which officially starts next week. mm/kl (AFP, Reuters)",
+  "relations": [
+    [
+      "Christine Lagarde",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Christine Lagarde",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Christine Lagarde",
+      "International Monetary Fund",
+      "head_of"
+    ],
+    [
+      "Christine Lagarde",
+      "International Monetary Fund",
+      "member_of"
+    ],
+    [
+      "Bernard Tapie",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Bernard Tapie",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Bernard Tapie",
+      "Adidas",
+      "head_of"
+    ],
+    [
+      "Bernard Tapie",
+      "Adidas",
+      "member_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Supreme Court",
+      "France",
+      "agency_of"
+    ],
+    [
+      "Supreme Court",
+      "French",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Court",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Supreme Court",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Court of Justice",
+      "France",
+      "agency_of"
+    ],
+    [
+      "Court of Justice",
+      "French",
+      "agency_of-x"
+    ],
+    [
+      "Court of Justice",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Court of Justice",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Credit Lyonnais",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Credit Lyonnais",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Law Court",
+      "France",
+      "agency_of"
+    ],
+    [
+      "Law Court",
+      "French",
+      "agency_of-x"
+    ],
+    [
+      "Law Court",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Law Court",
+      "French",
+      "based_in0-x"
+    ]
+  ]
+}

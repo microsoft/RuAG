@@ -1,0 +1,170 @@
+{
+  "content": "Ban Ki-moon urges calm amid violence between Israel and Palestinians\nDuring a surprise visit to Jerusalem, United Nations (UN) Secretary-General Ban Ki-moon has cautioned against an escalation of violence. His message to the local populace was marred by more deaths in the West Bank.\nSpeaking during a meeting with Israeli President Reuven Rivlin on Tuesday, Ban called for an end to the conflict between Israelis and Palestinians. The UN secretary-general said that a lack of \"political horizon\" was to blame for the recent wave of violent attacks on Palestinian and Israeli territory. \"Violence only undermines the legitimate Palestinian aspiration for statehood,\" Ban said. \"If we do not act fast, the dynamics on the ground will only get worse,\" he warned, adding that it was not yet too late to \"avoid a broader crisis.\" German Foreign Minister Frank-Walter Steinmeier shared a similar message on Tuesday, during a visit to his Jordanian counterpart in Ammam. Steinmeier urged Israelis and Palestinians to avoid action that could \"further inflame\" the unrest, wanring of \"incalculable consequences.\" Death toll rises Ban's visit to Jerusalem on Tuesday was overshadowed by yet more deaths in the West Bank. Israeli police said earlier in the day that a Palestinian had been fatally shot after he drove his car into a group of Israelis near Jerusalem. An Israeli man also died in a separate incident, when he was run over by a truck during a clash with Palestinians. According to a Palestinian security official, the driver turned himself in to police, saying he hit the man by accident. Over the past month, 10 Israelis have been killed in Palestinian attacks, most of which were stabbings. In that time, 43 Palestinians were also killed by Israeli fire, including 20 attackers. An Eritrean migrant also died at the weekend, after being shot and beaten by a mob that mistakenly believed he was a Palestinian assailant. Ban is to meet with Palestinian president Mahmoud Abbas on Wednesday. Israeli Prime Minister Benjamin Netanyahu is in Berlin for talks with German Chancellor Angela Merkel. ksb/msh (AFP, AP, dpa)",
+  "relations": [
+    [
+      "Jerusalem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jerusalem",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Jerusalem",
+      "Israelis",
+      "in0-x"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "Reuven Rivlin",
+      "is_meeting"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "West Bank",
+      "Palestinians",
+      "in0-x"
+    ],
+    [
+      "West Bank",
+      "Palestinian",
+      "in0-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Reuven Rivlin",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Reuven Rivlin",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Reuven Rivlin",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Reuven Rivlin",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Reuven Rivlin",
+      "Israel",
+      "head_of_state"
+    ],
+    [
+      "Reuven Rivlin",
+      "Israeli",
+      "head_of_state-x"
+    ],
+    [
+      "Reuven Rivlin",
+      "Israelis",
+      "head_of_state-x"
+    ],
+    [
+      "Reuven Rivlin",
+      "Ban Ki-moon",
+      "is_meeting"
+    ],
+    [
+      "Israelis",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Ammam",
+      "Jordanian",
+      "in0-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israelis",
+      "head_of_gov-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ]
+  ]
+}

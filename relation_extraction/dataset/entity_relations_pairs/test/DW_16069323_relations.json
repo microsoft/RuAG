@@ -1,0 +1,30 @@
+{
+  "content": "Oracle loses court fight over software resale rules\nA European court has ruled that it's permissible to resell software licenses even if the package has been downloaded directly from the Internet. It sided with a German firm in its legal battle with US giant Oracle.\nThe European Court of Justice on Tuesday ruled that used software licenses may generally be resold by individuals or companies. The Luxembourg-based court thus sided with the German firm UsedSoft in a protracted legal battle with US software giant Oracle. The ruling made it clear that trade in used software was permissible even if the software had not been shipped on a physical medium such as a CD or DVD, but had been digitally downloaded from the Internet. UsedSoft's business model hinges completely on reselling used packages or legally obtained license keys for them. By reselling the keys to clients, the latter are then able to download the latest version of a given program directly from a company's Internet site and obtain all new updates and patches in the process. Legal clarity Oracle had sued UsedSoft over its business model, trying to prevent buyers of used software licenses from downloading programs again. But the European court ruled that the so-called principle of exhaustion applied whenever software was originally sold to a customer for an unlimited time span, not giving the maker of the software the right to prevent the resale of that software. \"The door for the trade in used software has been pushed wide open throughout the European Union,\" UsedSoft said in a statement, welcoming \"perfect legal safety on the market.\" The court in Luxembourg emphasized, though, that whoever resold pieces of original software and their accompanying licenses must erase every copy on their own computers in advance and was not allowed to keep a copy after resale. hg/mz (AFP, dpa)",
+  "relations": [
+    [
+      "European Court of Justice",
+      "Luxembourg",
+      "based_in0"
+    ],
+    [
+      "European Court of Justice",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Court of Justice",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Oracle",
+      "US",
+      "based_in0"
+    ],
+    [
+      "UsedSoft",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

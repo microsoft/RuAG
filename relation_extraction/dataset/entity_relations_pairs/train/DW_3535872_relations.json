@@ -1,0 +1,100 @@
+{
+  "content": "Mbeki Received Millions in German Defense Deal, Report Says\nSouth African President Thabo Mbeki allegedly took a multimillion-dollar bribe from a German shipbuilding giant in return for a 1999 submarine deal, a South African paper has reported.\nSouth Africa's Sunday Times presented the findings of what it said was a six-month investigation which showed that the company, identified as MAN Ferrostaal, had allegedly paid 30 million rands ($4.1 million) to Mbeki to guarantee it would receive the hotly-sought contract. Mbeki vehemently denied the allegation. \"The presidency would like to place it on record that President Thabo Mbeki has never at any stage received any amount of money from MAN Ferrostaal,\" a statement from his office said. Both Mbeki and Zuma bribed? The Sunday Times quoted a secret report compiled in 2007 by a British consultant, commissioned by an unnamed Central European manufacturer to investigate MAN Ferrostaal, which had launched a hostile takeover bid against it. According to The Times, Mbeki gave 2 million rands of the money to current Vice President Jacob Zuma and the rest to the ruling party, the African National Congress. The report was published as Zuma faces a fraud and corruption trial in connection with allegedly taking of bribes from arms dealers. Court proceedings are expected to take place this month. The statement from Mbeki's office called the newspaper report nothing \"but a hotchpotch recycling of allegations that have from time been peddled against the government's strategic defense procurement package. \"This time, the Sunday Times outdoes itself by placing a spurious allegation in the public domain, i.e. President Thabo Mbeki received a bribe of 30 million rands from MAN Ferrostaal,\" it said. ThyssenKrupp under investigation In a separate 1994 South African deal to purchase four German-made warships, or corvettes, German prosecutors are also investigating alleged kickbacks for South African officials. The company in question, ThyssenKrupp, part of a German consortium that produced the corvettes, confirmed in April that they had paid an African intermediary $22 million for \"the usual commissions\" but said they had declared it in their contract and there was no evidence of corruption. In that deal, the post-apartheid government in South Africa decided in 1994 to buy new warships, but the German consortium was scratched from the five-country shortlist of suppliers in December of that year. By that point, only British and Spanish suppliers were left in the race. But four weeks later, the Germans suddenly came back onto the shortlist, with then-vice president Mbeki announcing during a visit by a German minister and businessman that the issue was wide open. The Germans then moved to the front in a complicated tendering procedure and an order for the four warships was signed on December 3, 1999. The decision was criticized in South Africa, with an inquiry concluding in 2001 that the Germans should have been eliminated in the first round for failing to meet several requirements, according to German news weekly, Der Spiegel, in April.",
+  "relations": [
+    [
+      "Sunday Times",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "Sunday Times",
+      "South African",
+      "based_in0-x"
+    ],
+    [
+      "Thabo Mbeki",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Thabo Mbeki",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Thabo Mbeki",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Thabo Mbeki",
+      "South Africa",
+      "head_of_state"
+    ],
+    [
+      "Thabo Mbeki",
+      "South African",
+      "head_of_state-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Jacob Zuma",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "minister_of"
+    ],
+    [
+      "Jacob Zuma",
+      "South African",
+      "minister_of-x"
+    ],
+    [
+      "South African",
+      "South Africa",
+      "gpe0"
+    ],
+    [
+      "African National Congress",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "African National Congress",
+      "South African",
+      "based_in0-x"
+    ],
+    [
+      "ThyssenKrupp",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "ThyssenKrupp",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Der Spiegel",
+      "Germans",
+      "based_in0-x"
+    ]
+  ]
+}

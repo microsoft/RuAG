@@ -1,0 +1,120 @@
+{
+  "content": "Winterkorn to stay CEO at Volkswagen\nGerman carmaker Volkswagen (VW) has ended the crisis in its top management which pitted CEO Martin Winterkorn against VW's powerful board chairman Ferdinand Piëch. Winterkorn's contract is set to be extended.\nA week-long power struggle at German carmaker Volkswagen (VW) came to an end on Friday, with the six-member presidium of the company's supervisory board saying it would recommend extending the contract of Chief Executive Martin Winterkorn beyond 2016. The presidium said in a statement that Martin Winterkorn was \"the best possible chief executive\" for Volkswagen. Winterkorn was under pressure after VW's powerful Board Chairman Ferdinand Piëch withdrew his backing for the CEO, telling German news magazine \"Der Spiegel\" on Friday last week that he was \"at a distance to Winterkorn.\" On Friday, the presidium, however, said that it set \"great store by the fact that Winterkorn should continue to act in his function as CEO as actively and successfully as he has done in the past.\" \"He has the full support of the presidium, which will propose that his contract be extended at the supervisory board meeting in February 2016,\" the statement added. The announcement came after a crisis meeting of Volkswagen's inner circle in the Austrian city of Salzburg on Thursday that had industry experts wondering whether Piëch would kill off his own protégé. After less than three hours, the meeting was adjourned. The six-member leadership committee and Winterkorn left without saying a word. A twisting road The power struggle at Germany's biggest carmaker came as a surprise to everyone, including VW's second-most powerful man, and Piëch's own cousin, Wolfgang Porsche. The story took an unexpected turn, when, less than 48 hours after launching his verbal attack, some of Piëch's most trusted allies began defecting: From the state of Lower Saxony, which holds a 20-percent stake in the company, to Piëch's own family. \"Dr. Piëch's statement reflects his private opinion, which is not aligned…with that of the family,\" said Porsche, who also chairs the Porsche SE holding company, which owns a 51-percent in the 12-brand VW group. By Monday, a throng of supporters had lined up behind Winterkorn. \"We have in Mr. Winterkorn an outstanding industry leader and CEO, who has our full trust,\" VW Deputy Chairman Berthold Huber, also a former chairman of the powerful IG Metall trade union, told Der Spiegel. The company's council also refused to withdraw its backing of an extension of the CEO's contract, set to run out end of 2016, according to an unnamed source. As the dust began to settle, Piëch was left looking increasingly isolated. Strictly business But insiders disagree as to the 78-year-old patriarch's motives. Anonymous sources had said that the chairman had grown increasingly unhappy with Winterkorn's performance, particularly for his failure to turn around disappointing sales in the crucial North American market - something he had expressed at several supervisory board meeting over the past five months. Recent earnings reports may have provided Piëch plenty of ammunition to sustain his attack on Winterkorn - and win over skeptics: VW's first-quarter sales tanked in several key markets. Demand for the group's core brand dropped 1.3 percent, with deliveries down 9.3 percent in the US and 0.6 percent in China. The Russian market bled the most as Volkswagen suffered a 47.2-percent sales cut, amid continuing Western sanctions over Moscow's involvement in the Ukraine crisis. uhe/hg (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Volkswagen",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Volkswagen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Martin Winterkorn",
+      "Volkswagen",
+      "head_of"
+    ],
+    [
+      "Martin Winterkorn",
+      "Volkswagen",
+      "member_of"
+    ],
+    [
+      "Ferdinand Piëch",
+      "Volkswagen",
+      "head_of"
+    ],
+    [
+      "Ferdinand Piëch",
+      "Volkswagen",
+      "member_of"
+    ],
+    [
+      "Wolfgang Porsche",
+      "Volkswagen",
+      "head_of"
+    ],
+    [
+      "Wolfgang Porsche",
+      "Porsche SE",
+      "head_of"
+    ],
+    [
+      "Wolfgang Porsche",
+      "Volkswagen",
+      "member_of"
+    ],
+    [
+      "Wolfgang Porsche",
+      "Porsche SE",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Der Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Salzburg",
+      "Austrian",
+      "in0-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lower Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berthold Huber",
+      "Volkswagen",
+      "head_of"
+    ],
+    [
+      "Berthold Huber",
+      "IG Metall",
+      "head_of"
+    ],
+    [
+      "Berthold Huber",
+      "Volkswagen",
+      "member_of"
+    ],
+    [
+      "Berthold Huber",
+      "IG Metall",
+      "member_of"
+    ],
+    [
+      "IG Metall",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "IG Metall",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ]
+  ]
+}

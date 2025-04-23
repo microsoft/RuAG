@@ -1,0 +1,105 @@
+{
+  "content": "Turkey accuses Syria of shooting second plane\nTurkey's deputy prime minister has accused Syria of firing at a plane sent to rescue a fighter jet shot down by Syrian troops. His comments came hours ahead of a NATO meeting called by Turkey to discuss the incident.\nTurkey's Deputy Prime Minister Bulent Arinc told a news conference on Monday that Syrian troops had opened fire on a second aircraft, adding to a growing conflict over accusations that Syria shot down a Turkish fighter jet. Arinc did not specify when the incident occurred and whether the plane had been hit. He said it had been searching for the two missing pilots of the F4 Phantom jet, which he claimed was shot by a heat-seeking guided missile in international airspace on Friday. \"To target an aircraft in this fashion without any warning is a hostile act of the highest order,\" he said. \"Everyone must know that this sort of behavior will not go unpunished.\" Turkey further condemned Friday's incident in a letter to the UN Security Council on Monday, describing it as a \"hostile act by the Syrian authorities against Turkey's national security.\" It added that it had posed \"a serious threat to peace and security in the region\". At Turkey's request, NATO holding an emergency meeting on the incident in Brussels on Tuesday under Article 4 of its charter. It is only the second time in NATO's 63-year history that it has convened under Article 4, which can be invoked when a member state feels its territorial integrity, political independence or security is under threat. 'Act of defense' Turkey has said the fighter jet, which was on an unarmed training mission, was shot down a mile (1.6 kilometers) inside international airspace. It has said both Turkish pilots are still missing. Syria, meanwhile, has defended its actions as an act of defense, insisting the plane was inside Syrian airspace. \"The plane disappeared and then reappeared in Syrian airspace, flying at 100 meters altitude and about 1-2 kilometers (0.6-1.2 miles) from the Syrian coast,\" Syrian Foreign Ministry spokesman Jihad Makdissi told a news conference in Damascus. \"We had to react immediately, even if the plane was Syrian we would have shot it down,\" he said. \"The Syrian response was an act of defence of our sovereignty carried out by anti-aircraft machinegun which has a maximum range of 2.5 km.\" Military intervention Makdissi went on to warn both Turkey and NATO against taking retaliatory action. \"NATO is supposed to be there to strengthen countries,\" he said. \"If their meeting is for hostile reasons [they should know that] Syrian land and waters are sacred.\" By invoking Article 4 of the NATO charter it would appear that Turkey is not seeking armed invention. News agency AP reported on Monday, however, that Arinc had said Turkey planned to push NATO to consider the jet's downing under Article 5, which states that an attack against one NATO member should be considered an attack against all members. But Dutch Foreign Minister Uri Rosenthal said Monday that military intervention in Syria was \"out of the question.\" He called on Turkey to show restraint in its handling of the incident. ccp/pfd (AP, AFP, Reuters)",
+  "relations": [
+    [
+      "Bulent Arinc",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Bulent Arinc",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Bulent Arinc",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Bulent Arinc",
+      "Turkey",
+      "minister_of"
+    ],
+    [
+      "Bulent Arinc",
+      "Turkish",
+      "minister_of-x"
+    ],
+    [
+      "Jihad Makdissi",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Jihad Makdissi",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Jihad Makdissi",
+      "Foreign Ministry",
+      "member_of"
+    ],
+    [
+      "Jihad Makdissi",
+      "Foreign Ministry",
+      "spokesperson_of"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Foreign Ministry",
+      "Syria",
+      "agency_of"
+    ],
+    [
+      "Foreign Ministry",
+      "Syrian",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Syria",
+      "ministry_of"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Uri Rosenthal",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "Uri Rosenthal",
+      "Dutch",
+      "minister_of-x"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "content": "Wife of Belgian serial killer and pedophile is freed\nA Belgian court decided to release the ex-wife and accomplice of the serial killer and pedophile Marc Dutroux. The decision relating to a crime that shocked the nation is likely to prove controversial.\nTwo appeals against Michelle Martin's release were rejected by Belgium's highest court on Tuesday. Martin had served 16 years of a 30-year prison sentence for helping Dutroux, who kidnapped and raped six girls in the 1990s. Four of the girls, who were confined in a dungeonlike cellar, died. The court said 52-year-old Martin was free to leave prison immediately, backing the decision of a regional court to release her into a convent under strict parole terms. Belgian law dictates that, having served a third of her sentence, Martin can be set free if a rehabilitation program is in place. National debate sparked The regional ruling had provoked anger among victims' families, leading to demonstrations around the convent in the community of Malonne. It also triggered a debate bout the need to impose full-term jail sentences without parole for those crimes deemed the most serious. The appeals, one led by the father of a victim and another lodged by prosecutors, were judged to be inadmissible or unfounded. Martin, who had sought release on several previous occasions, claimed she was under Dutroux's spell and that she helped him reluctantly. Judges had approved a conditional release last year, but this was blocked when - in light of the public outcry at the time - a French convent went back on its offer of a place for Martin. rc/mkg (AFP, dpa)",
+  "relations": [
+    [
+      "Marc Dutroux",
+      "Belgium",
+      "citizen_of"
+    ],
+    [
+      "Marc Dutroux",
+      "Belgian",
+      "citizen_of-x"
+    ],
+    [
+      "Marc Dutroux",
+      "Michelle Martin",
+      "spouse_of"
+    ],
+    [
+      "Michelle Martin",
+      "Belgium",
+      "citizen_of"
+    ],
+    [
+      "Michelle Martin",
+      "Belgian",
+      "citizen_of-x"
+    ],
+    [
+      "Michelle Martin",
+      "Marc Dutroux",
+      "spouse_of"
+    ],
+    [
+      "Belgian",
+      "Belgium",
+      "gpe0"
+    ],
+    [
+      "Malonne",
+      "Belgium",
+      "in0"
+    ],
+    [
+      "Malonne",
+      "Belgian",
+      "in0-x"
+    ]
+  ]
+}

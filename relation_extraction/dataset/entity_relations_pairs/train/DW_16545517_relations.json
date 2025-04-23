@@ -1,0 +1,130 @@
+{
+  "content": "Medvedev seeks investment at Davos economic forum\nMore than 2,500 business leaders, lobbyists, economists and politicians have convened in the Swiss ski resort Davos for the World Economic Forum. Russian Prime Minister Dmitry Medvedev was among the first major speakers.\nPrime Minister Dmitry Medvedev urged foreign investors to pump more capital into Russia in his keynote speech at the World Economic Forum in Davos on Wednesday. Medvedev said increased external investment was crucial for the government to meet its goal of raising annual economic growth figures from 3.5 percent to Moscow's desired 5 percent. \"We have very ambitious goals in the investment field, to increase the volume of investment from 20 to 25 percent of GDP, to increase investment in transportation, in energy infrastructure … and foreign direct investment would be instrumental in achieving this goal,\" Medvedev said. Medvedev pointed to Russia joining the World Trade Organization as a sign of progress, but also acknowledged that his country might suffer from an image problem on the global stage. 'Resilient dynamism' The Russian prime minister, whose country holds the rotating G20 presidency, was the first major political speaker at the economic summit, which runs through Saturday. German Chancellor Angela Merkel is to address some of the roughly 2,500 business leaders in the Swiss ski resort on Thursday afternoon, as will British Prime Minister David Cameron - who on Wednesday pledged an \"in/out\" UK referendum on EU membership, if he wins re-election. European Central Bank President Mario Draghi, International Monetary Fund head Christine Lagarde, Italian Prime Minister Mario Monti and Israeli President Shimon Peres are among the other major scheduled speakers. Organizers chose the 2013 motto \"resilient dynamism,\" saying it pointed to required improvements in the global economy so that it could better cope with issues like the ongoing sovereign debt difficulties in the eurozone. The forum officially opened with a welcoming address and party on Tuesday night, with the participants getting down to business on Wednesday. msh/dr (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Dmitry Medvedev",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Dmitry Medvedev",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Dmitry Medvedev",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Dmitry Medvedev",
+      "Russia",
+      "head_of_gov"
+    ],
+    [
+      "Dmitry Medvedev",
+      "Russian",
+      "head_of_gov-x"
+    ],
+    [
+      "World Economic Forum",
+      "Davos",
+      "event_in2"
+    ],
+    [
+      "Davos",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "British",
+      "UK",
+      "gpe0"
+    ],
+    [
+      "David Cameron",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "David Cameron",
+      "UK",
+      "head_of_gov"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Mario Draghi",
+      "European Central Bank",
+      "head_of"
+    ],
+    [
+      "Mario Draghi",
+      "European Central Bank",
+      "member_of"
+    ],
+    [
+      "Christine Lagarde",
+      "International Monetary Fund",
+      "head_of"
+    ],
+    [
+      "Christine Lagarde",
+      "International Monetary Fund",
+      "member_of"
+    ],
+    [
+      "Mario Monti",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Mario Monti",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Shimon Peres",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Shimon Peres",
+      "Israeli",
+      "head_of_state-x"
+    ]
+  ]
+}

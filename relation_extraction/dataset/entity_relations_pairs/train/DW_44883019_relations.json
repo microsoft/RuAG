@@ -1,0 +1,185 @@
+{
+  "content": "Berlin first in Germany to scrap child day care fees\nA sociopolitical landmark for Berlin's parents: Starting in August all municipal day care centers in the German capital will be free. Several other states are also looking to phase out the costs for working parents.\nBerlin's regional government announced Monday that, beginning next month, parents will no longer have to pay any fees to place their children in municipal day care centers. From August 1, childcare centers in the German capital will be free of charge, including for children under the age of one. Berlin's state government began phasing out childcare fees for other age groups in 2007. However, parents with children across all age groups — from ages zero to six — will still have to pay for food in daycare centers. \"For many Berlin families it makes a big difference whether or not they have to pay contributions to the day care center,\" said Sandra Scheeres, Berlin's Social Democratic (SPD) Senator for Education, Youth and Family. \"The free day care center for all means a noticeable financial relief for many parents. Childcare facilities are educational institutions, and education must be free of charge.\" Germany's federal minister for family affairs, Franziska Giffey (SPD), has indicated she wants to see more day care centers in Germany gradually phase out fees. The government has announced plans to inject some €3.5 billion ($4.1 billion) into childcare services over the next four years. No equality when it comes to nurseries The new legislation makes Berlin the first state to completely abolish fees for municipal day care centers. Some 15,800 children below the age of one are set to benefit. Contributions by parents for the 2017-18 school year totaled around €7 million. Berlin, one of Germany's three city-states along with Hamburg and Bremen, remains the vanguard in Germany when it comes to scrapping childcare fees. Read more: Germany's wage gap also a regional issue Parents in around one-third of German states still have no exemptions from childcare fees, while other state governments have either subsidized or completely lifted fees for certain age groups. In Rhineland-Palatinate, for example, children from the age of two have been exempt from contributions since 2010, while in Lower Saxony and Hesse children from age three will be exempt from fees starting next month. However, other states continue to charge hundreds of euros per month for childcare, often putting mothers off from from returning to work after giving birth. The state with the dearest day care costs is Schleswig-Holstein, where a place in a municipal nursery can cost up to 9 percent of household income. It's followed by Mecklenburg-Western Pomerania and Saarland, which charge 8.2 percent and 7.5 percent of household income respectively. Each evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here. dm/kms (dpa, KNA)",
+  "relations": [
+    [
+      "Social Democratic",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democratic",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Sandra Scheeres",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sandra Scheeres",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sandra Scheeres",
+      "Social Democratic",
+      "member_of"
+    ],
+    [
+      "Education, Youth and Family",
+      "Berlin",
+      "agency_of"
+    ],
+    [
+      "Education, Youth and Family",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Education, Youth and Family",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Education, Youth and Family",
+      "Berlin",
+      "ministry_of"
+    ],
+    [
+      "Franziska Giffey",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Franziska Giffey",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Franziska Giffey",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Franziska Giffey",
+      "Social Democratic",
+      "member_of"
+    ],
+    [
+      "Franziska Giffey",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Franziska Giffey",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Rhineland-Palatinate",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Rhineland-Palatinate",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lower Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hesse",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hesse",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Schleswig-Holstein",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Schleswig-Holstein",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Mecklenburg-Western Pomerania",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Mecklenburg-Western Pomerania",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Saarland",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Saarland",
+      "German",
+      "in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

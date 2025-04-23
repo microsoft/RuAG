@@ -1,0 +1,120 @@
+{
+  "content": "Own goal gifts Kaiserslautern lucky win at Gladbach\nBorussia Mönchengladbach have suffered another setback in their efforts to avoid relegation this year after gifting FC Kaiserslautern an own goal and conceding all three points in their Bundesliga clash on Friday night.\nFC Kaiserslautern came away 1-0 victors over Borussia Mönchengladbach in the Bundesliga on Friday night after Gladbach keeper Logan Bailly gifted the visitors an own goal just past the 60-minute mark. A poor clearance by the Belgian goalie gave away a corner to Kaiserslautern midfielder Christian Tiffert, which Bailly then punched into his own net. Both teams began the match cautiously and chances were hard to come by in the first half. Kaiserslautern's Rodnei cleared a Martin Stranzl shot off the line and minutes later at the other end the Brazilian defender almost scored when his header hit team mate Mathias Abel. Christian Tiffert then went close with a low drive for the visitors. Gladbach's increasingly desperate attempts for an equalizer late in the match failed to trouble goalkeeper Kevin Trapp, playing in his second Bundesliga game. Marco Reus was unable to get to a cross from Mike Hanke for a late equalizer. Bottom-placed Gladbach had come into the match in desperate need of all three points to keep alive their hopes of avoiding relegation with only seven rounds remaining. Mired on 23 points, they now face the prospect of falling five points behind the pack in the hunt for safety should results not fall their way. Kaiserslautern, meanwhile, move up to 12th place on 31 points ahead of the remaining games to be played over the weekend. Author: Darren Mara (AFP, AP) Editor: Joanna Impey",
+  "relations": [
+    [
+      "Borussia Mönchengladbach",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "FC Kaiserslautern",
+      "vs"
+    ],
+    [
+      "FC Kaiserslautern",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "FC Kaiserslautern",
+      "Borussia Mönchengladbach",
+      "vs"
+    ],
+    [
+      "FC Kaiserslautern",
+      "Borussia Mönchengladbach",
+      "won_vs"
+    ],
+    [
+      "Logan Bailly",
+      "Belgian",
+      "citizen_of-x"
+    ],
+    [
+      "Logan Bailly",
+      "Borussia Mönchengladbach",
+      "member_of"
+    ],
+    [
+      "Logan Bailly",
+      "Borussia Mönchengladbach",
+      "player_of"
+    ],
+    [
+      "Christian Tiffert",
+      "FC Kaiserslautern",
+      "member_of"
+    ],
+    [
+      "Christian Tiffert",
+      "FC Kaiserslautern",
+      "player_of"
+    ],
+    [
+      "Rodnei",
+      "Brazilian",
+      "citizen_of-x"
+    ],
+    [
+      "Rodnei",
+      "FC Kaiserslautern",
+      "member_of"
+    ],
+    [
+      "Rodnei",
+      "FC Kaiserslautern",
+      "player_of"
+    ],
+    [
+      "Martin Stranzl",
+      "Borussia Mönchengladbach",
+      "member_of"
+    ],
+    [
+      "Martin Stranzl",
+      "Borussia Mönchengladbach",
+      "player_of"
+    ],
+    [
+      "Mathias Abel",
+      "FC Kaiserslautern",
+      "member_of"
+    ],
+    [
+      "Mathias Abel",
+      "FC Kaiserslautern",
+      "player_of"
+    ],
+    [
+      "Kevin Trapp",
+      "FC Kaiserslautern",
+      "member_of"
+    ],
+    [
+      "Kevin Trapp",
+      "FC Kaiserslautern",
+      "player_of"
+    ],
+    [
+      "Marco Reus",
+      "Borussia Mönchengladbach",
+      "member_of"
+    ],
+    [
+      "Marco Reus",
+      "Borussia Mönchengladbach",
+      "player_of"
+    ],
+    [
+      "Mike Hanke",
+      "Borussia Mönchengladbach",
+      "member_of"
+    ],
+    [
+      "Mike Hanke",
+      "Borussia Mönchengladbach",
+      "player_of"
+    ]
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "content": "Bremen Election Results Could Have National Repercussions\nIt might be Germany's smallest state with a population of less than 700,000, but the make-up of Bremen's new government could curb the ability of Angela Merkel's coalition to continue with planned reforms.\nThe Social Democrats (SPD) and Christian Democrats (CDU) have ruled the small northern city-state of Bremen in a coalition for the past 12 years. But after winning state elections on Sunday with 36.8 percent, the SPD is now flirting with the idea of ditching their previous coalition partners to rule together with the Greens, who made their best-ever showing in a German state poll with 16.4 percent. Bremen's state SPD leadership is to hold talks later on Wednesday with the CDU, which polled 25.7 percent. After an SPD meeting in Bremen, Mayor Jens Böhrnsen made the first signal he could be favoring the Greens. He said that during the campaign he had deliberately abstained from mentioning the possibility of a renewed CDU coalition because \"after 12 years it shouldn't automatically be continued.\" Bremen's acting head of government and CDU member Thomas Röwekamp, however, warned against an SPD-Green coalition. \"The majority of people don't want a red-green experiment, but a continuation of the grand coalition,\" he said. Both the SPD and CDU conceded heavy losses in the election, which showed a swing towards the Greens and the Left Party, which scored an unexpected 8.4 percent to win representation in a western German state legislature for the first time in its brief history. Block reforms? If Bremen's SPD decide in favor of the Greens, this would affect the ability of Chancellor Angela Merkel's grand coalition of CDU and SPD to push ahead with reforms requiring constitutional changes, such as stage two of Germany's urgently needed federalism reform. The federal Bundesrat, which is made up of state cabinet members, has to approve the majority of legislative bills passed by the lower chamber, the Bundestag, before they become law. Also, any proposed constitutional changes require two-thirds of all votes in order to be passed by the Bundesrat. The CDU and SPD currently hold 47 of the Bundesrat's 69 seats, which is one seat more than the necessary two-thirds majority. But without Bremen, the number held by the grand coalition would fall to 44 seats, meaning they would need the cooperation of one of the small opposition parties for any constitutional changes. Internal strife Earlier in the week, Chancellor Merkel called for unity within her ruling left-right coalition after the losses in Bremen set the stage for more infighting between the two parties. Merkel also warned the SPD against moving to the left after it lost some five percent points. The chancellor said the outcome showed the SPD had made a mistake by attacking the coalition and campaigning on promises of a minimum wage, which she believes will hamper efforts to fight unemployment of just under 10 percent. \"The result showed that this strategy did not pay off,\" Merkel told a press conference.",
+  "relations": [
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Bundesrat",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundesrat",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundesrat",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundesrat",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Jens Böhrnsen",
+      "Bremen",
+      "agent_of"
+    ],
+    [
+      "Jens Böhrnsen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jens Böhrnsen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jens Böhrnsen",
+      "Bremen",
+      "head_of_gov"
+    ],
+    [
+      "Thomas Röwekamp",
+      "Bremen",
+      "agent_of"
+    ],
+    [
+      "Thomas Röwekamp",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thomas Röwekamp",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas Röwekamp",
+      "Bremen",
+      "head_of_gov"
+    ],
+    [
+      "Thomas Röwekamp",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Left Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

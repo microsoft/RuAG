@@ -1,0 +1,165 @@
+{
+  "content": "Terror attack arrests in Paris as US' Kerry visits France to pay respects\nUS diplomat John Kerry meeting top officials in Paris says his country shares France’s pain over last week’s Islamist attacks. Kerry's visit comes as French authorities arrest a dozen people in relation to the violence.\nUS Secretary of State John Kerry met with top officials in Paris Friday to convey America's solidarity with France after the deadly terrorist attacks last week. \"I know you know that we share the pain and the horror of everything that you went through,\" said Kerry as he met the president, referring to the September 11, 2001 attacks on the US. \"We share this pain and that is also the sense of our meeting today, as well as the friendship it displays…We must work together to find the necessary response,\" he added. Kerry met earlier on Friday with French Foreign Minister Laurent Fabius at the French foreign ministry, explaining he could not have attended last Sunday's unity marches in Paris as he was on a scheduled trip to India. \"It's good to be with you,\" Kerry said on his arrival. \"We have a lot to talk about.\" The Obama administration came under fire for failing to send a cabinet-level official to the French capital for the rally. More than 40 world leaders, including Germany's Chancellor Angela Merkel, and a million demonstrators gathered in solidarity for the march on Sunday night. Kerry met with Fabius and Hollande before laying wreaths at the offices of French satirical magazine Charlie Hebdo and a kosher supermarket. Kerry, who announced he was in France \"to share a big hug with Paris,\" will meet the capital's mayor later in the day to express his sympathy. Meanwhile, a dozen people were arrested Friday morning in connection with last week's terror attacks in Paris that left 17 people dead. Nine men, and three women were arrested, French daily Le Monde reported Friday, citing an unnamed judicial source. Paris’ Gare de I’Est train station was evacuated at 8 a.m. local time (0700 UTC) after a bomb scare. It re-opened an hour later, the SNCF state railway said, without giving further details. jlw/kms (AP, AFP, dpa)",
+  "relations": [
+    [
+      "John Kerry",
+      "America",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "America",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "Laurent Fabius",
+      "is_meeting"
+    ],
+    [
+      "John Kerry",
+      "Hollande",
+      "is_meeting"
+    ],
+    [
+      "John Kerry",
+      "America",
+      "minister_of"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Laurent Fabius",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Laurent Fabius",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Laurent Fabius",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Laurent Fabius",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Laurent Fabius",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "Charlie Hebdo",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Charlie Hebdo",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Obama",
+      "America",
+      "agent_of"
+    ],
+    [
+      "Obama",
+      "America",
+      "citizen_of"
+    ],
+    [
+      "Obama",
+      "America",
+      "head_of_state"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Hollande",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Hollande",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Hollande",
+      "France",
+      "head_of_gov"
+    ],
+    [
+      "Hollande",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "Le Monde",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Le Monde",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Gare de I’Est",
+      "France",
+      "in0"
+    ],
+    [
+      "Gare de I’Est",
+      "Paris",
+      "in2"
+    ],
+    [
+      "SNCF",
+      "France",
+      "based_in0"
+    ],
+    [
+      "SNCF",
+      "French",
+      "based_in0-x"
+    ]
+  ]
+}

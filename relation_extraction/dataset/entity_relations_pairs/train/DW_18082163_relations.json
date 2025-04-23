@@ -1,0 +1,75 @@
+{
+  "content": "ABC faces job cull over budget cuts\nThe Australian Broadcasting Corporation has warned hundreds of jobs are likely to be slashed after government funding cuts. Opposition leaders said reduced funding was retaliation for unfavorable coverage.\nMore than 400 jobs could be lost at the Australian Broadcasting Corporation, ABC Managing Director Mark Scott said Monday. \"We anticipate that more than 400 people - close to 10 percent of our ongoing workforce - face potential redundancy as we adjust our activities over coming months,\" Scott said in a statement. The government currently provides the ABC and ethnic broadcaster SBS some 1.4 billion Australian dollars ($1.2 billion, 970 million euros) annually, but Canberra announced last week the budget would be cut by 254 million Australian dollars over the next five years. Scaling back infrastructure Communications Minister Malcolm Turnbull said the ABC should be able to fund those cuts through efficiencies and without sacrificing programming. ABC Managing Director Mark Scott said the station would have to review its property holdings, with one Sydney site to be sold and an Adelaide TV production studio and five regional radio stations facing closure. Opposition leader Bill Shorten said the cuts were \"retaliation for unfavorable coverage of the government.\" Prime Minister Tony Abbott had earlier been quoted as saying the ABC \"takes everyone's side but Australia's\" in its news coverage. hg/cjc (dpa, AFP)",
+  "relations": [
+    [
+      "Australian Broadcasting Corporation",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Mark Scott",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Mark Scott",
+      "Australian Broadcasting Corporation",
+      "head_of"
+    ],
+    [
+      "Mark Scott",
+      "Australian Broadcasting Corporation",
+      "member_of"
+    ],
+    [
+      "SBS",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Canberra",
+      "Australia",
+      "in0"
+    ],
+    [
+      "Malcolm Turnbull",
+      "Australia",
+      "agent_of"
+    ],
+    [
+      "Malcolm Turnbull",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Malcolm Turnbull",
+      "Australia",
+      "minister_of"
+    ],
+    [
+      "Sydney",
+      "Australia",
+      "in0"
+    ],
+    [
+      "Bill Shorten",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "agent_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "head_of_gov"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "content": "'The Egyptian revolution is one of the greatest revolutions in history'\nAlaa Al Aswany is one of Egypt's leading intellectuals and a vocal supporter of the nation's uprising. He spoke to Deutsche Welle about the revolution's success and the tasks Egypt still faces.\nThe dentist turned blacklisted novelist Alaa Al Aswany rose to fame with his 2002 exploration of post-colonial Egyptian society \"The Yacoubian Building.\" He has been one of the leading voices of the Kifaya (\"Enough\") opposition movement for years and joined the revolution on Tahrir Square in January and February. Deutsche Welle: One year ago, Hosni Mubarak was still in charge and no one imagined that mass protests could have ended his presidency. But more than nine months later, Egypt's reform process seems to have come to a standstill. Did the protesters fail? Alaa Al Aswany: Of course I believe that the Egyptian revolution achieved a great thing by forcing one of the most terrible dictators Hosni Mubarak to step down. But since then, I don't think we have been on the right track. All the decisions of the SCAF (Editor's note: Supreme Council of the Armed Forces) - the military council - were not to protect the revolution, but on the contrary, the SCAF has shown the tendency to preserve Mubarak's regime. So we have a very unique situation in Egypt now that Mubarak is no longer in power, but the regime of Mubarak is. The elections showed this. Despite fair voting, they are not fair elections. Voting is just one step of the election procedure. Everything was prepared from the beginning by the SCAF and the elections law to push the Muslim Brotherhood to have a majority. For example, the electoral zones were too big so that the revolutionary youth couldn't afford to participate. Or in one electoral zone we discovered that there were 176 employees who are in charge of the elections and these 176 are founding members of the Muslim Brotherhood. I don't think at all that the coming parliament will represent the Egyptian revolution. You can see that in Egypt, the revolution is still in the street. The revolution of the youth doesn't think this will ever be their parliament. So you agree with some analysts who don't think Egypt has experienced a real revolution. They say only a very small segment of the elite groups have been replaced, meaning the inner circle of the Mubarak regime. But the only new power in the power sharing is the Muslim Brotherhood. Would you agree on that? I think these analysts confuse two things: the revolution and the achievement of the revolution. The term revolution is objective, not an objective. There are two elements to decide if this is a revolution or not: first, the participation of the people. We had more than 20 percent participation in the January revolution. We have more than 20 million people. Second, the aim of the revolution should be the elimination of the old regime. And when I say regime I'm not only talking about political. I'm also talking about the cultural regime, the social regime and the political regime. I believe the Egyptian revolution in this sense was really one of the most typical revolutions by definition in history. I would say the Egyptian revolution was more a revolution than some in Eastern Europe. But the achievement of the revolution is still a long way off. We are talking about nine months here. We're still in the beginning. Still, the Egyptian revolution is one of the greatest revolutions in history - whether the analysts like it or not. What do you think it will take to fulfill the demands of the revolution from January and February? If you compare our revolution to other revolutions you see it takes time. You are eliminating an entire regime and we were not lucky because the military council was not in favor of the revolution. But I am still very optimistic because in the beginning no one could have ever imagined that Mubarak would be forced to step down. We completed the most important and most difficult part of the job, but the revolution is not over. But it is a step ahead because even with these people in the parliament that I don't think are really revolutionary, the Islamic groups, there will at least be no legal position for the SCAF to rule the country. Do you think the country's powerful military will start playing by democratic and parliamentary rules one of these days? The most powerful element in the Egyptian scene is the revolution itself. Here, I have to differentiate between the army and the military council. The military council is the political authority of the army; it is performing the role of the president and the parliament during the transition. The army is something different. It belongs to the Egyptian people and not to the SCAF. There is very strong pressure from the revolution on the streets. The military council is trying to escape from the pressure, the military council at some point gives in and that's what the revolution was. We had to make pressure in the streets to get it. In your most famous book \"The Yacoubian Building\" you described Egyptian society as being dominated by corruption and favoritism. What does it take to change this mentality? How can Egypt establish a spirit of solidarity like people said was felt during the revolution on Tahrir Square? The revolution wasn't just in Tahrir Square. It was in every city in Egypt. I believe that whenever you have this revolutionary attitude in the sense that you are willing to die for your freedom then you will have all the positive things coming out: you will be more courageous, more understanding and less judgmental, you will be less racist; you won't ever judge other people according to their social background or religion. I believe that the revolution as a psychological phenomenon is very positive. When you participate in a real revolution - and that was the case with me - you really become a different person, your experiences and feelings. You see attitudes you never imagined you would. I wrote about 'the people' many times before the revolution but it was only in Tahrir Square that I felt what the meaning of the word 'people' is. You live with two million people on the square for three weeks and they feel they are members of one family So you think this Tahrir Square spirit will be kept alive? Absolutely. It still exists in the streets. You saw it during the massacre against the protesters on November 19. You saw how brave these youths were, how brave the young doctors were. Two of them were killed simply because they wanted to express their political point of view. Do you think Egypt's youth will ever back down again? Up till now, they have the upper hand. I believe it's going to stay this way for a long time. Only when you have a revolution in parliament will Tahrir Square become of secondary importance. But because the coming parliament is not revolutionary, I believe that Tahrir Square will keep saying what we should do in Egypt. Interview: Thomas Kohlmann Editor: Sabina Casagrande/Rob Mudge",
+  "relations": [
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egypt",
+      "head_of_state"
+    ],
+    [
+      "Hosni Mubarak",
+      "Egyptian",
+      "head_of_state-x"
+    ],
+    [
+      "Alaa Al Aswany",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Alaa Al Aswany",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Supreme Council of the Armed Forces",
+      "Egypt",
+      "agency_of"
+    ],
+    [
+      "Supreme Council of the Armed Forces",
+      "Egyptian",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Council of the Armed Forces",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Supreme Council of the Armed Forces",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Enough",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Enough",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "The Yacoubian Building",
+      "Alaa Al Aswany",
+      "created_by"
+    ],
+    [
+      "Tahrir Square",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Tahrir Square",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egyptian",
+      "based_in0-x"
+    ]
+  ]
+}

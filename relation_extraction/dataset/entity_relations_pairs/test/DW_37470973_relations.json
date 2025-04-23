@@ -1,0 +1,95 @@
+{
+  "content": "Opinion: A decision against heart and mind\nThe House of Commons has passed the Brexit bill - despite most parliamentarians being against it. But now they should take care that Great Britain does not move further away from Europe, writes Birgit Maass.\nIf only they had done it out of full conviction. If they at least believed that they could really benefit their country by withdrawing from the EU. But many of the parliamentarians whose vote will finally set Brexit on its wayhave voted against their hearts, as well as their minds. It was a vote against their minds, because the withdrawal from the EU will almost certainly, at least on a short to medium term basis, have negative repercussions for the British economy. And it was a vote against their hearts, because for many, a view of the future, divorced from Brussels and increasingly reliant on an unpredictable US President Donald Trump, is somewhat alarming. In recent days, many members of parliament have described it as \"a catastrophe.\" No vote \"against the will of the people.\" Of course there are \"Brexiteers\" who believe that a Britain independent of Brussels will be able to return to its former greatness, once it is no longer held back by the \"Little Europeans.\" But they are in the minority - the majority of parliamentarians already declared their support for remaining in the EU during the referendum campaign. Yet despite this, Theresa May's government was able to push its legislative proposal through the House of Commons without any great difficulty. The predominant view, also amongst members of the two leading parties, is that to hinder Brexit and to fail to support the government in its endeavors to do so, would be to go \"against the will of the people.\" Anti-EU newspapers have targeted Brexit opponents. And those who have publically come out in support of the EU have had to reckon with death threats. The at times passionate debate in the lower house, that went on over several days, was a temporary highlight in this European tragedy, which in the worst case could contribute to the continent disintegrating into individual sovereign states. Don't be intimidated The British public supports the hard-line position taken by Prime Minister May in withdrawing from the common market. Polls are showing that her strategy is gaining increased support. There is no turning back now. The British are now looking for clarity on the repercussions of their withdrawal from the EU. They want the negotiations with the EU to start as soon as possible. It was an historical misjudgement by David Cameron that he could win the referendum. Most of the members of the lower house believed the then-prime minister and voted to hold a referendum. But now they can no longer stop Brexit. But they should not let themselves be intimidated by party discipline, nor the leading Brexiteers, nor by voter impatience. Over the next two years they should use every chance they can to influence the withdrawal process. May announced that although they are leaving the European Union, they will not be moving away from Europe. The parliamentarians must now hold her to her word. Have something to say? Add your comments below. The thread will stay open for 24 hours after publication.",
+  "relations": [
+    [
+      "Theresa May",
+      "Great Britain",
+      "agent_of"
+    ],
+    [
+      "Theresa May",
+      "Great Britain",
+      "citizen_of"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Theresa May",
+      "Great Britain",
+      "head_of_gov"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "House of Commons",
+      "Great Britain",
+      "agency_of"
+    ],
+    [
+      "House of Commons",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "House of Commons",
+      "Great Britain",
+      "based_in0"
+    ],
+    [
+      "House of Commons",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "Great Britain",
+      "gpe0"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "David Cameron",
+      "Great Britain",
+      "agent_of"
+    ],
+    [
+      "David Cameron",
+      "Great Britain",
+      "citizen_of"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "David Cameron",
+      "Great Britain",
+      "head_of_gov"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "head_of_gov-x"
+    ]
+  ]
+}

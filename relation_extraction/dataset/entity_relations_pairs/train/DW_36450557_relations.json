@@ -1,0 +1,220 @@
+{
+  "content": "German intelligence agency reconsiders surveillance of right-wing 'Reichsbürger'\nFollowing a rise in prominence of the anti-government 'Reichsbürger' movement and the death of a police officer in October, Germany's intelligence agency is believed to be tightening surveillance on the group. \nA month after a so-called \"Reichsbürger\" fatally shot a policeman near the southwestern city of Nuremberg, Germany's \"Verfassungsschutz\" intelligence agency may be one step closer to tightening surveillance on the right-wing group. This was the latest development on Saturday, according to information presented to the German news agency Deutsche Presse-Agentur (dpa). In a reply to a question submitted by the Green party, the Interior Ministry said it has asked Germany's intelligence agency to review its previous assessment of the Reichsbürger scene. The review has not yet been finalized, however. The Reichsbürger movement has gained greater attention since October, after one member in Nuremberg wounded three police officers and killed another in a shootout. Responding to the possibility of stricter surveillance, Green party politician Irene Mihalic on Saturday told dpa: \"This terrible event in Bavaria wasn't necessary to recognize that the Reichsbürger are a dangerous right-wing movement.\" Possible police links Spates of Reichsbürger-related crimes have continued, with one member on Thursday injuring six officers with pepper spray at his flat in the northwestern town of Sögel. Authorities estimate the movement has a few hundred members across the country. Last week, in the eastern state of Saxony, State Premier Stanislaw Tillich also confirmed reports of three police officers with \"possible connections to the Reichsbürger\" movement. The group rejects the authority of the German Federal Republic, including its laws, borders and institutions. Instead, members believe in the continued existence of the German Reich and its 1937 borders. They refuse to pay taxes, do not comply with regulations and move around using homemade IDs and registration plates. 'Enemy of the constitution' Asked why the group was not under observation, the Interior Ministry reportedly argued as recently as September 2015 that a unified Reichsbürger movement did not exist, but instead that it was fragmented. It was decided that activities should be examined case by case. Even earlier, in 2014, the head of the \"Verfassungsschutz,\" Hans-Georg Maaßen, had warned the internal affairs committee of Germany's lower house of parliament about the \"seriousness of the Reichsbürger movement,\" according to dpa. Several individual states have already been surveying the Reichsbürger, but each state handles the movement differently. Earlier this week, the eastern state of Saxony-Anhalt announced that the Reichsbürger group was now considered \"an enemy of the constitution.\" In Hamburg, too, the movement's adherents have been declared anti-constitutional. Further south in Thuringia, the state intelligence agency has so far only kept an eye on groups with links to anti-Semitism or the extreme right-wing scene. However, in light of recent events, a spokeswoman for Thuringia's intelligence agency said it \"seems advisable to extend the scope of observation.\"",
+  "relations": [
+    [
+      "Deutsche Presse-Agentur",
+      "German Federal Republic",
+      "based_in0"
+    ],
+    [
+      "Deutsche Presse-Agentur",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Reichsbürger",
+      "German Federal Republic",
+      "based_in0"
+    ],
+    [
+      "Reichsbürger",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Verfassungsschutz",
+      "German Federal Republic",
+      "agency_of"
+    ],
+    [
+      "Verfassungsschutz",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Verfassungsschutz",
+      "German Federal Republic",
+      "based_in0"
+    ],
+    [
+      "Verfassungsschutz",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "German Federal Republic",
+      "gpe0"
+    ],
+    [
+      "Nuremberg",
+      "German Federal Republic",
+      "in0"
+    ],
+    [
+      "Nuremberg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Green",
+      "German Federal Republic",
+      "based_in0"
+    ],
+    [
+      "Green",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "German Federal Republic",
+      "agency_of"
+    ],
+    [
+      "Interior Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "German Federal Republic",
+      "based_in0"
+    ],
+    [
+      "Interior Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "German Federal Republic",
+      "ministry_of"
+    ],
+    [
+      "Irene Mihalic",
+      "German Federal Republic",
+      "citizen_of"
+    ],
+    [
+      "Irene Mihalic",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Irene Mihalic",
+      "Green",
+      "member_of"
+    ],
+    [
+      "Bavaria",
+      "German Federal Republic",
+      "in0"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Sögel",
+      "German Federal Republic",
+      "in0"
+    ],
+    [
+      "Sögel",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Saxony",
+      "German Federal Republic",
+      "in0"
+    ],
+    [
+      "Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Stanislaw Tillich",
+      "Saxony",
+      "agent_of"
+    ],
+    [
+      "Stanislaw Tillich",
+      "German Federal Republic",
+      "citizen_of"
+    ],
+    [
+      "Stanislaw Tillich",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Stanislaw Tillich",
+      "Saxony",
+      "head_of_gov"
+    ],
+    [
+      "Hans-Georg Maaßen",
+      "German Federal Republic",
+      "agent_of"
+    ],
+    [
+      "Hans-Georg Maaßen",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Hans-Georg Maaßen",
+      "German Federal Republic",
+      "citizen_of"
+    ],
+    [
+      "Hans-Georg Maaßen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hans-Georg Maaßen",
+      "Verfassungsschutz",
+      "head_of"
+    ],
+    [
+      "Hans-Georg Maaßen",
+      "Verfassungsschutz",
+      "member_of"
+    ],
+    [
+      "Saxony-Anhalt",
+      "German Federal Republic",
+      "in0"
+    ],
+    [
+      "Saxony-Anhalt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hamburg",
+      "German Federal Republic",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Thuringia",
+      "German Federal Republic",
+      "in0"
+    ],
+    [
+      "Thuringia",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

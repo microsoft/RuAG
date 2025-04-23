@@ -1,0 +1,175 @@
+{
+  "content": "Opinion: Obama's Cuban revolution\nPresident Barack Obama has made a very special declaration of love to Cuba. It's as revolutionary as the Cuban revolution, and as peaceful as the biblical Sermon on the Mount, says DW's Astrid Prange.\nUS President Barack Obama has lost his old communist \"enemy,\" and Cuban President Raul Castro has lost his hatred of capitalism. In the first phone call from president to president since 1961 the two heads of state came to a surprisingly swift agreement. They want to renew diplomatic relations, which have been on ice for more than 50 years, and exchange ambassadors. It's only a matter of time before the US lifts its trade embargo against Cuba. All the word \"embargo\" is really good for - at this stage - is as an ideological soapbox for political hardliners, especially Republicans in Congress who believe lifting sanctions would constitute defeat for the US. Yet the lifting of the embargo has already begun. In addition to medication, it has been possible since 2000 to export agricultural produce such as maize, cereal crops, and poultry to Cuba. Flirting with the rogue state Furthermore, 100,000 US citizens have travelled to Cuba since 2011 for cultural and scientific exchanges. Travel restrictions on Cubans living in exile in the US who wanted to visit their relatives on the island were also lifted. According to press reports, the two countries' military forces are even said to be cooperating, as are their coastguards, and military on the border of the US marine base in Guantanamo. Now Obama wants to officially open a \"new chapter\" in relations with the communist Caribbean island and remove Cuba from the US list of so-called \"rogue states\" that support terrorism. The travel ban on American tourists visiting the island will also largely be lifted. That's as far as things will go for the time being, as Obama would require a majority in Congress in Washington to lift the embargo entirely. But even if these are only small steps, the fall of the American-Cuban wall has begun. The easing of the sanctions and the resumption of diplomatic relations are setting the scene for an end to the embargo. Embargo as scapegoat The tearing down of this \"wall in the mind\" is long overdue. The blockade is obsolete, and has proved to be entirely ineffective. More than this, its advocates have achieved the opposite of what they actually wanted. The blockade has provided the leaders in Havana with an easy excuse for their economic failure. Raul Castro realized long ago that Cuba's economic problems can no longer be justified simply by citing the US embargo. It looks as though he was counting on the blockade being lifted: There is no other explanation for the completion of the Mariel container port in January this year. Cuba's biggest infrastructure project was, incidentally, financed by Brazil. The Brazilians also sent a declaration of love to Cuba. Raul Castro opened the door to them. He loves anyone who helps him - his friends even more than his enemies.",
+  "relations": [
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Raul Castro",
+      "Cuba",
+      "agent_of"
+    ],
+    [
+      "Raul Castro",
+      "Cuba",
+      "citizen_of"
+    ],
+    [
+      "Raul Castro",
+      "Cuban",
+      "citizen_of-x"
+    ],
+    [
+      "Raul Castro",
+      "Cubans",
+      "citizen_of-x"
+    ],
+    [
+      "Raul Castro",
+      "Cuba",
+      "head_of_state"
+    ],
+    [
+      "Raul Castro",
+      "Cuban",
+      "head_of_state-x"
+    ],
+    [
+      "Raul Castro",
+      "Cubans",
+      "head_of_state-x"
+    ],
+    [
+      "Republicans",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Republicans",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Cuban",
+      "Cuba",
+      "gpe0"
+    ],
+    [
+      "Astrid Prange",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Congress",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Cubans",
+      "Cuba",
+      "gpe0"
+    ],
+    [
+      "Guantanamo",
+      "Cuba",
+      "in0"
+    ],
+    [
+      "Guantanamo",
+      "Cuban",
+      "in0-x"
+    ],
+    [
+      "Guantanamo",
+      "Cubans",
+      "in0-x"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Havana",
+      "Cuba",
+      "in0"
+    ],
+    [
+      "Havana",
+      "Cuban",
+      "in0-x"
+    ],
+    [
+      "Havana",
+      "Cubans",
+      "in0-x"
+    ],
+    [
+      "Mariel",
+      "Cuba",
+      "in0"
+    ],
+    [
+      "Mariel",
+      "Cuban",
+      "in0-x"
+    ],
+    [
+      "Mariel",
+      "Cubans",
+      "in0-x"
+    ],
+    [
+      "Brazilians",
+      "Brazil",
+      "gpe0"
+    ]
+  ]
+}

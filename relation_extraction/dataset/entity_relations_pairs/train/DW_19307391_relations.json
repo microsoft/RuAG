@@ -1,0 +1,80 @@
+{
+  "content": "Austrian foreign minister suggests 'refugees should be held offshore'\nAustria's foreign minister has suggested that the EU's refugees be interned offshore rather than allowed on to the continent. He said the EU should look to the Australian example of dealing with migrant entries.\nAustrian Foreign Minister Sebastian Kurz (photo) of the rightist Austrian People's Party told a newspaper that Australia's immigration policy should be replicated by the EU in order to deal with the current influx of refugees. Migrants who try to reach Australia by boat are turned back or sent to internment camps in the Pacific Ocean countries of Nauru and Papua New Guinea where they are held indefinitely while their cases are processed. The system has been criticized by human rights groups amidst reports of rape and suicides among detainees. \"The Australian model of course cannot be completely replicated but its principles can be applied in Europe,\" Kurz, who at 29 years old is Europe's youngest minister, told Die Presse in an interview published Sunday. Australia makes zero exceptions Kurz commented that in the first half of the 20th century the United States held new arrivals on Ellis Island as they travelled to New York. In fact, Ellis Island was an immigration inspection station that processed thousands of new arrivals every day. Immigrants were only held in the station's infirmaries if they were suspected of carrying infectious diseases but otherwise were not interned, as the minister suggested. But in an apparent attempt to stake out a tough approach to refugees, Kurz told the newspaper that the EU should adopt a resolution whereby those who try to enter Europe illegally lose their right to demand asylum. Far-right parties have made sweeping gains in recent Austrian elections. Austria, governed by a coalition of social-democrats and conservatives, allowed some 90,000 asylum seekers to enter the Alpine country last year. But Vienna has since hardened its conditions of asylum and tried to close the migrant route from Greece to the north of Europe via the Balkans. At least 204,000 migrants and refugees have crossed the Mediterranean to Europe since January, the United Nations refugee agency said this week. More than 2,500 people have died trying to make the sea crossing as Europe faces the largest wave of migration since World War II. jar/jm (AFP)",
+  "relations": [
+    [
+      "Sebastian Kurz",
+      "Austria",
+      "agent_of"
+    ],
+    [
+      "Sebastian Kurz",
+      "Austria",
+      "citizen_of"
+    ],
+    [
+      "Sebastian Kurz",
+      "Austrian",
+      "citizen_of-x"
+    ],
+    [
+      "Sebastian Kurz",
+      "Austrian People's Party",
+      "member_of"
+    ],
+    [
+      "Sebastian Kurz",
+      "Austria",
+      "minister_of"
+    ],
+    [
+      "Sebastian Kurz",
+      "Austrian",
+      "minister_of-x"
+    ],
+    [
+      "Austrian",
+      "Austria",
+      "gpe0"
+    ],
+    [
+      "Australian",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Austrian People's Party",
+      "Austria",
+      "based_in0"
+    ],
+    [
+      "Austrian People's Party",
+      "Austrian",
+      "based_in0-x"
+    ],
+    [
+      "Die Presse",
+      "Austria",
+      "based_in0"
+    ],
+    [
+      "Die Presse",
+      "Austrian",
+      "based_in0-x"
+    ],
+    [
+      "New York",
+      "United States",
+      "in0"
+    ],
+    [
+      "Vienna",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Vienna",
+      "Austrian",
+      "in0-x"
+    ]
+  ]
+}

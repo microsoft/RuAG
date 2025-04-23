@@ -1,0 +1,120 @@
+{
+  "content": "German Know-How For China's Energy Sector\nEnergy is becoming a scarce resource in China and Beijing is looking for alternatives. On Friday, Germany's foreign minister inaugurated one of the largest German-Chinese joint ventures for solar energy there.\nThe facility in Jinan is being billed as the largest solar collector plant in the world. The site in this eastern Chinese city, run by a Sino-German joint venture, produces solar collectors to heat water. It is a market that promises massive electricity savings in a country struggling with a potential shortfall this year of 30 million kilowatts. \"China has recognized the urgent ecological issues that go along with strong economic growth and the increasing need for energy,\" German Foreign Minister Joschka Fischer told German business representatives at the inauguration ceremony. \"I am especially happy that China has made decisive steps towards using renewable energy and the development of a more environmentally-friendly energy sector,\" he added. Solar power instead of chocolate The joint venture is owned by the German vacuum tube solar collector manufacturer Paradigma, Karlsbad, and Chinese glass tubing producer Linuo in Jinan. Paradigma's major shareholder is Alfred Ritter, better-known for his chocolate company Ritter Sport. \"With this joint venture, we are following a strategy to go where the markets are,\" Ritter said. \"In China, we're producing for the Asian market, in Germany, for the European market.\" Germany sees the Shangdong Linuo Paradigma plant as the largest new venture in a virtually untapped market. \"There are extraordinary opportunities here not only for large corporations, but also for mid-sized and small German companies,\" said Fischer, who is currently touring Asia with a German business delegation. China's energy resources are running out China, the world's largest solar energy market, is facing its worst energy crisis since the 1980s. It has been set off by the rapid development of power-hungry industries such as automobiles, iron and steel, as well as rapid urbanization and a rise in living standards. Energy production relative to buying power is four times more expensive in China than in other industrialized nations. At the same time, it is drastically depleting its coal deposits and oil imports are soaring. The symptoms of the shortages are visible throughout China. In order to feed Beijing's growing energy needs, frequent blackouts occur across the country. Many companies have begun working at night and on weekends to avoid high-use periods and more than 6,000 companies in Beijing have ordered one-week paid vacations this summer to save energy.",
+  "relations": [
+    [
+      "Shangdong Linuo Paradigma",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Shangdong Linuo Paradigma",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Alfred Ritter",
+      "Shangdong Linuo Paradigma",
+      "head_of"
+    ],
+    [
+      "Alfred Ritter",
+      "Ritter Sport",
+      "head_of"
+    ],
+    [
+      "Alfred Ritter",
+      "Shangdong Linuo Paradigma",
+      "member_of"
+    ],
+    [
+      "Alfred Ritter",
+      "Ritter Sport",
+      "member_of"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Joschka Fischer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Joschka Fischer",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Jinan",
+      "China",
+      "in0"
+    ],
+    [
+      "Jinan",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Karlsbad",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Karlsbad",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Linuo",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Linuo",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Ritter Sport",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Ritter Sport",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "content": "Germans slow to bin plastics habit\nGermany has a reputation for being particularly environmentally conscious. Why then does the country produce so much plastic waste? And can Germans be persuaded to ditch the excess packaging?\nBananas, slices of cheese, dishwasher tablets and countless other products all wrapped in often unnecessary plastic — that's what you'll see if you take a trip around the average German supermarket. The country's green image defies the extent of its love affair with the fossil fuel-based packaging. Germany is the biggest consumer of plastic in Europe, according to statistics compiled by Eurostat — and that tendency is growing alongside lifestyle changes like internet shopping, buying food and drink on the go, and living in single or small households. Read more: What to do about Germany's mounting packaging waste? The reliance on this durable and flexible material has a dirty flipside. Plastic has made its way into tap water via synthetic textiles, and our food chains via fish and seafood. Every year, 8 million tons of plastic makes its way into the world's oceans according to estimates from the Ellen MacArthur Foundation, where it poses a danger to marine life and human health. Given that plastics never fully degrade, our legacy of broken flip flops, plastic bottles and microplastics washed out of fleece clothing will linger for generations, according to scientists. Read more: Plastic fibers pervasive in tap water worldwide, new study shows Still, in Germany, some are beginning to realize the impact of plastic use on the environment. Tom Ohlendorf, WWF's project manager for packaging, points to evidence of a mindset shift among some shoppers and retailers favoring plastic-free options. \"The awareness of retailers and consumers has risen,\" he said. \"Just look at initiatives like packaging-free supermarkets which have popped up in a number of German cities.\" Dumping plastic A small store in Berlin's Kreuzberg neighborhood is one of the businesses pioneering the move to go plastic-free: Original Unverpackt, which opened its doors three years ago, is a minimalistic affair, with white-tiled walls, wooden shelves and lines of dispensers where shoppers can fill their containers with grains, pulses and even shampoo. As well as fresh produce, the store sells bamboo toothbrushes, fair-trade condoms and cloth bags emblazoned with the phrase \"There is no planet B.\" Such stores are still a niche phenomenon. Their higher-than-average prices don't sit comfortably with German consumers' reputation as bargain hunters. But change is also emerging in the mainstream; now, supermarket giants are talking about shrinking their plastic footprint too. Shoppers in Edeka, and in Denn's organic supermarkets, for example, can use their own containers for purchases from cheese and meat counters, following in the footsteps of a number of coffee shops in Berlin and beyond, which encourage shoppers to purchase reusable cups. Germany's second-largest grocery retailer Rewe has adopted new dried grass and wood containers for organic apples. The chain is also evaluating the results of a pilot scheme that discouraged shoppers in some of its stores from reaching for translucent plastic bags in the fruit and vegetable aisles. The group told DW it's unclear when it will reach a conclusion on whether the scheme can be implemented in all stores. More to do Tobias Quast, an expert for waste and resources at Friends of the Earth in Berlin, welcomes the moves but dubs them \"initial attempts\" rather than a consumer u-turn: \"These pilot schemes do show that it is completely possible to expand the environmentally friendly idea of reusable containers,\" he told DW. \"But plans underway in German politics and retail are not ambitious enough, by far.\" Greener shopping habits, and policies such as a tax on firms producing plastic waste and a levy on plastic bags in stores, seem not to have stemmed the amount of plastic waste being produced. The most recent data from the EU's statistics office showed that German packaging in general, and plastic in particular, has climbed over recent years. Total packaging waste stood at 18.1 million tons in 2015 after climbing by around half a million tons for three years in a row. Environmental groups have also criticized new German packaging regulations, set to come into force in January 2019, for not going far enough. The law aims to strengthen recycling and reduce the prevalence of single-use bottles and packaging in general. Europe eyes tougher regulations Germany may soon get a further push to cut down on plastic from the EU. Citing the toll of plastic on our fish and our ocean, Brussels said it plans to make all plastic packaging in the bloc recyclable by 2030. European countries churn out 25 million tons of plastic waste every year. Less than a third is recycled. Observers noted how the bloc's new approach followed China's ban on imports of plastic waste, which may force the EU to either incinerate or dump its plastic. Read more: EU unveils plan to make all plastic packaging recyclable by 2030 Read more: Sieren's China: Beijing will take less of the world's trash Read more: 'Not enough action from EU on plastic' Startups around Europe are also experimenting with different approaches to wrapping produce. For instance, Prague-based Miwa has come up with refillable containers equipped with smart technology used to move foodstuffs from producers to consumers with minimum waste. The company has tested the process with a network of suppliers and outlets, and Miwa plans to open its first stores in fall 2018. The company, which recently won an innovation prize, was founded by Petr Baca, who worked for many years in packaging design and was acutely aware of the mounting waste problem. You just have to \"notice the negative impact of of single-use packaging,\" he said. Baca told DW he believes technology is part of the answer in \"helping people overcome the current mindset towards disposable packaging, which is largely responsible for the mass pollution all over the world.\"",
+  "relations": [
+    [
+      "Original Unverpackt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Original Unverpackt",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Original Unverpackt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Original Unverpackt",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Rewe",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Rewe",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Rewe",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Petr Baca",
+      "Miwa",
+      "head_of"
+    ],
+    [
+      "Petr Baca",
+      "Miwa",
+      "member_of"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Tom Ohlendorf",
+      "WWF",
+      "head_of"
+    ],
+    [
+      "Tom Ohlendorf",
+      "WWF",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kreuzberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Kreuzberg",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Tobias Quast",
+      "Friends of the Earth",
+      "member_of"
+    ],
+    [
+      "Friends of the Earth",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Friends of the Earth",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Friends of the Earth",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Friends of the Earth",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Miwa",
+      "Prague",
+      "based_in2"
+    ]
+  ]
+}

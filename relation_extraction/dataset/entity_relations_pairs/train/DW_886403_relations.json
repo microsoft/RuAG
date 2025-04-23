@@ -1,0 +1,200 @@
+{
+  "content": "Europe Salutes Mideast Summit as 'Historic' First Step\nThe Mideast Summit concluded on Wednesday with pledges from Israel and the Palestinians to support the international road map for peace. Europe applauded both sides’ commitment to the plan, but questioned its own role.\nIn a historic meeting in the Jordanian coastal town of Aqaba on Wednesday, Israeli Prime Minister Ariel Sharon and his Palestinian counterpart Mahmoud Abbas agreed to implement the so-called road map for peace as drafted by the Middle East quartet. European leaders lauded both sides’ commitment to the plan and expressed gratitude to United States President George W. Bush for his success in bringing Abbas and Sharon together. During the summit, Sharon said he was prepared to accept an interim Palestinian state and to dismantle \"illegal\" settlements in occupied Palestinian territories, but cautioned this could only happen if the Palestinians made inroads in stopping terrorism. Abbas, for his part, vowed that his government would \"act vigorously\" to end violence against Israel and pressure those militant groups who attack Israel to renounce terrorism. \"A historic chance\" German Foreign Minister Joschka Fischer praised Sharon, Abbas and Bush, who spearheaded the one-day summit, for their \"courageous efforts\" in putting aside their differences and returning to peace talks for the first time since the process collapsed in 2000. \"Israelis and Palestinians are called upon to use this historic chance to create peace and security for both people,\" Fischer said Wednesday evening. \"Both conflicting parties have made important steps on the road to peace,\" he added, while warning that the will to peace should not be undermined by extremists. \"Terror and violence must end,\" he urged. Speaking on behalf of the German government, Fischer vowed to support the renewal of the Middle East peace process with all his country’s strength. The foreign minister has been actively involved in the European Union’s attempts to bring Israel and the Palestinians back to the negotiating table. In April he met with Sharon and Palestinian leader Yasser Arafat to discuss efforts to speed up the adoption of the international road map to peace. Europe’s role in Middle East The road map, which was hammered out by the so-called Middle East quartet comprising of the United States, United Nations, the European Union and Russia details a series of steps aimed at creating a Palestinian state by 2005. What role the European Union is expected to play in the future of the peace process, however, seems to be a matter of discussion as the U.S. takes charge of the negotiations. Prior to the summit in Aqaba, France saluted the United States’ \"re-engagement\" in the Middle East, but insisted Europe must not be excluded from the negotiations. Speaking on Europe 1 radio on Wednesday, French Foreign Minister Dominique de Villepin stressed, \"The road map means the quartet -- that is the U.N., Russia, the U.S. and the EU. And the EU has played a full role in recent months. It must continue to do so. To make peace succeed, everyone must act together.\" Lest the other players in the quartet forget what the EU brings to the negotiation table, the minister emphasized Europe’s strengths in the region. \"Europe has a powerful influence. It is Israel’s main economic partner,\" he said. \"It is the biggest aid donor to the Palestinian territories. This is a strength. Let us use our strengths together.\" \"Everyone must act together\" Earlier in the week, French President Jacques Chirac alluded to EU plans to draft a new parallel \"road map\" for the Middle East to include Syria and Lebanon. The plan, which allegedly has the approval of EU foreign policy chief Javier Solana, is scheduled to be introduced at the European Union summit in Greece on June 20. If not carefully orchestrated, such actions could run up against Washington’s renewed interest in leading the peace talks. Although the U.S. has not come out with any comments to the contrary, it has also not specifically mentioned what role the EU would play in implementing the Israeli-Palestinian road map. One point of consternation between the two quartet players is Europe’s insistence on maintaining contact with Palestinian leader Arafat despite objections from the U.S. \"They [the Europeans] are going to, for their own political reasons, meet with Arafat. That’s their choice. We basically say we don’t think it’s a good idea,\" a senior official traveling with Bush in the Middle East told Reuters. Both Israel and the U.S. have refused to deal with Arafat, who has been largely confined to his Ramallah headquarters since the recent wave of violence erupted in December 2001. European leaders, however, see Arafat as wielding a significant influence in the Palestinian territories and say he must be encouraged to work with and not against the quartet.",
+  "relations": [
+    [
+      "Yasser Arafat",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Yasser Arafat",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Yasser Arafat",
+      "Palestinians",
+      "head_of_state-x"
+    ],
+    [
+      "Yasser Arafat",
+      "Palestinian",
+      "head_of_state-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "head_of_gov-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "head_of_gov-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Ariel Sharon",
+      "is_meeting"
+    ],
+    [
+      "Ariel Sharon",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Ariel Sharon",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Ariel Sharon",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Ariel Sharon",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Ariel Sharon",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Ariel Sharon",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Ariel Sharon",
+      "Israelis",
+      "head_of_gov-x"
+    ],
+    [
+      "Ariel Sharon",
+      "Mahmoud Abbas",
+      "is_meeting"
+    ],
+    [
+      "Mideast Summit",
+      "Aqaba",
+      "event_in2"
+    ],
+    [
+      "Joschka Fischer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Joschka Fischer",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Aqaba",
+      "Jordanian",
+      "in0-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Israelis",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Dominique de Villepin",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Dominique de Villepin",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Dominique de Villepin",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Dominique de Villepin",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "Jacques Chirac",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Jacques Chirac",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Jacques Chirac",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Jacques Chirac",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Javier Solana",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Ramallah",
+      "Palestinians",
+      "in0-x"
+    ],
+    [
+      "Ramallah",
+      "Palestinian",
+      "in0-x"
+    ]
+  ]
+}

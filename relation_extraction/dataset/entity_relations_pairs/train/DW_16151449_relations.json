@@ -1,0 +1,205 @@
+{
+  "content": "No letup in anti-German sentiment in Greece\nDuring the debt crisis Greeks have been badmouthing the Germans - but the Germans have been equally critical of their EU counterparts. Some Greeks want this situation to change.\nGerman tabloids portray Greeks as bankrupt and tell them to sell off their islands to pay their debts - and Greek cartoonists sketch German chancellor Angela Merkel in a Nazi uniform or as a whip-touting animal tamer at the circus. Negative comments by both Greek and German politicians have also not made rapprochement between the two countries easier. The sour mood is no surprise, and is just one element of the rampant populism in Europe that has only been exacerbated by the crisis, said Mary Giannakaki, deputy leader of the pro-European Democratic Left party, newly elected to the Athens parliament. She said the bleak opinion of the Greeks toward the Germans can only be thought of in a European context. \"The crisis has allowed the specter of nationalism to emerge all across Europe. The idea of 'Europe' is unfairly vilified and demonized,\" Giannakaki, a political scientist who studied in Paris and Athens, said. She said it was clear neither Germany nor Greece was to blame for starting the current economic crisis, but this is something that needed to be explained to the people - and while that is first and foremost the job of the politicians in each country, it has been neglected: \"I really cannot believe that all Greeks think the Germans are enemies and vice-versa. These are minority opinions and isolated cases,\" she said. Another side to the argument was shown in a survey published a few months ago in \"Epikaira,\" a weekly Athens magazine already known for taking swipes at Berlin. Seventy-six percent of respondents said they thought of Germany as a hostile country. Only 1.5 percent had any positive feelings for it. In contrast, six years ago, surveys showed almost 80 percent of Greeks holding Germany in high esteem. Mary Giannakaki is suspicious. \"I read the article and I have to say, the survey's methodology seems quite odd. We don't know even know how the questions were worded.\" She said many respondents apparently confused Germany with the German government or even with Angela Merkel. Giannakaki says she would like to start a comprehensive debate about Europe, giving the Greeks the opportunity to be self-critical. Misunderstandings about Greece's role in a united Europe could also be sorted out, she said. \"Up till now in this country there has never been an in-depth debate about European integration or even a European federation,\" Giannakaki said. \"I'm sorry to say it, but for many Greeks, Europe is nothing more than a jolly mother distributing money and subsidies without seeming to expect anything in return. That's the wrong approach.\" Angelos Koveos, political editor of the Athens newspaper \"To Vima,\" also thinks something needs to be done in Greece. In terms of crisis management, he said, the Greeks have a lot to learn from the Germans. But he's also critical of German politicians and their preachy tone: \"Sometimes attempts are made to impose a moralistic view of the economy on other countries, as if it were a question of blame and punishment,\" Koveos said. He says many people believed that an example was being made of the guilty Greeks. A union of states cannot work in this way, he said: \"And I think all Europeans have made it clear they don't want to work this way.\" Koveos makes an impassioned plea for the misunderstandings between Germans and Greeks to be swept away. He's disappointed with politicians in both countries, because, he says, it appears they only wish to make their mark on the domestic level. To bring about this change, he said, reputable media outlets need to lead the way. \"It's not just the job of the press to describe conflicts, but to also interpret them and, if possible, to identify solutions. Certainly that isn't easy under the present circumstances,\" Koveos said.",
+  "relations": [
+    [
+      "Mary Giannakaki",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Mary Giannakaki",
+      "Greeks",
+      "citizen_of-x"
+    ],
+    [
+      "Mary Giannakaki",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Mary Giannakaki",
+      "Democratic Left",
+      "head_of"
+    ],
+    [
+      "Mary Giannakaki",
+      "Democratic Left",
+      "member_of"
+    ],
+    [
+      "Angelos Koveos",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Angelos Koveos",
+      "Greeks",
+      "citizen_of-x"
+    ],
+    [
+      "Angelos Koveos",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Angelos Koveos",
+      "To Vima",
+      "head_of"
+    ],
+    [
+      "Angelos Koveos",
+      "To Vima",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Greeks",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "head_of_gov-x"
+    ],
+    [
+      "Democratic Left",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Democratic Left",
+      "Greeks",
+      "based_in0-x"
+    ],
+    [
+      "Democratic Left",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greeks",
+      "in0-x"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Epikaira",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Epikaira",
+      "Greeks",
+      "based_in0-x"
+    ],
+    [
+      "Epikaira",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Epikaira",
+      "Athens",
+      "based_in2"
+    ],
+    [
+      "Epikaira",
+      "Athens",
+      "based_in2-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "To Vima",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "To Vima",
+      "Greeks",
+      "based_in0-x"
+    ],
+    [
+      "To Vima",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "To Vima",
+      "Athens",
+      "based_in2"
+    ],
+    [
+      "To Vima",
+      "Athens",
+      "based_in2-x"
+    ]
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "content": "Flying makes us happy!\nThe Indian aviation sector is growing rapidly. A flight school in a rural region between Cologne and Frankfurt is benefiting from this boom by running a special training program designed for future Indian pilots.\n\"Flying makes us happy!\" This is the philosophy of the Air Alliance Flight Center based at Siegerland airport. But it not only makes you happy, you can also make money with it. There is huge demand for good pilots in India, says Anju Varghese, a young Indian pilot of 35 years and managing director of AV Aviation in India. That's how she came up with the idea to set up a high-quality program based on German standards for Indian students to receive the best pilot training. In 2007 she implemented her idea and launched a successful Indian-German co-operation with the German flight school Air Alliance. Good training is important \"I have done my training in India and also in Germany. When you compare it, I think the quality and standard we have in Germany is really good and there is a system. In India we still don't have that systematic way of training. Here we do,\" says Anju Varghese. But Anju Varghese does not only want to promote her flight school. She says the advertising jungle in India often confuses young people about making the right choice. Varghese says the students need a career guidance. \"The students get so much of information. And they don't know how to select the best school. That's very important right now because there are so many options on the market.\" Air Alliance was the first choice Axel Beimdiek, Managing Director of Air Alliance is very optimistic that the training program has a bright future. He is very proud of the Indian-German partnership. Beimdiek says one aspect that made the school attractive to Indians was that it offered courses in English. \"Of course it was exciting for us. Because I think we are not the biggest school in Germany but we are the most flexible one, as we are used to having international students here in the school. Not only from India. They are from Spain, Portugal and Italy, even from Russia.\" The students obtain the European ATPL License which is internationally accepted. Axel Beimdiek says it is recognized as the best. Air Alliance is not only a flight academy but also a state-of-the-art aviation service provider, covering the fields of charter and sightseeing flights, plane maintenance and airplane sales. This gives the students the opportunity to gain insight in various areas of the flight industry. Students feel very professional 24-year-old John Leenus is an aspiring pilot. Since he was young he dreamed of becoming a pilot and now he is only three weeks away from this goal. He is very satisfied with his choice of flight school. Leenus says he would definitely recommend the flight school to others, as the standards in Germany are quite high. He adds, \"if you are training in India you go to small airports. You don't have many airports in India. In Germany I go to Cologne. You get to train there, you get to land there. You are very professional if you go to Cologne or Frankfurt or Dortmund. From the very beginning you are really professional.\" A bright future for prospective pilots According to experts, the number of passenger jets in India will double by the year 2020. A few weeks ago the private Indian airliner IndiGo bought a number of Airbus planes for a total of 16 billion dollars. It is considered to be the biggest deal ever in the commercial aviation sector. But buying planes alone does not mean \"time for takeoff.\" The airlines need pilots, crew and ground staff, too. That means good job opportunities for every Indian student of Air Alliance. Author: Angelina Vogt Editor: Sarah Berning",
+  "relations": [
+    [
+      "Air Alliance",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Air Alliance",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "John Leenus",
+      "Air Alliance",
+      "member_of"
+    ],
+    [
+      "Anju Varghese",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Anju Varghese",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Anju Varghese",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "Anju Varghese",
+      "AV Aviation",
+      "head_of"
+    ],
+    [
+      "Anju Varghese",
+      "AV Aviation",
+      "member_of"
+    ],
+    [
+      "Axel Beimdiek",
+      "Air Alliance",
+      "head_of"
+    ],
+    [
+      "Axel Beimdiek",
+      "Air Alliance",
+      "member_of"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Air Alliance Flight Center",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Air Alliance Flight Center",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "AV Aviation",
+      "India",
+      "based_in0"
+    ],
+    [
+      "AV Aviation",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "AV Aviation",
+      "Indians",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Indians",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Dortmund",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dortmund",
+      "German",
+      "in0-x"
+    ],
+    [
+      "IndiGo",
+      "India",
+      "based_in0"
+    ],
+    [
+      "IndiGo",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "IndiGo",
+      "Indians",
+      "based_in0-x"
+    ]
+  ]
+}

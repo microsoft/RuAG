@@ -1,0 +1,125 @@
+{
+  "content": "Cleveland Indians baseball team to drop 'offensive' logo\nAfter years of complaints, a cartoon image depicting a Native American known as Chief Wahoo is to be replaced. The mascot has been labeled racist but fans say it is iconic.\nThe grinning, red-faced caricature of a Native American chief is to be dropped from the uniforms of the Cleveland Indians from next year, the US baseball team confirmed on Monday. The cartoonish image of a big-toothed American Indian, \"Chief Wahoo” complete with single feather in his headdress, has long been criticized as racist by Native American organizations. Discussions have taken place over the past year between community groups, the club, and Major League Baseball — the sport's US governing body to remove the logo, despite resistance from fans. Indians owner explains \"We have consistently maintained that we are cognizant and sensitive to both sides of the discussion,\" said Cleveland Indians owner Paul Dolan. \"While we recognize many of our fans have a longstanding attachment to Chief Wahoo, I'm ultimately in agreement with (MLB) Commissioner Manfred's desire to remove the logo from our uniforms in 2019.\" Read more: US President Donald Trump claims he's 'not a racist' after controversial remark The change will take place in time for the 2019 season and will lead to the logo being removed from the team's jersey sleeves and caps. The Chief Wahoo logo has been used in one form or another since 1947, but has been slowly phased out over the past few years in favor of the letter \"C.\" The Indians are the latest sports team to change their logo or name following criticism from Native American groups, following in the footsteps of several US colleges. But one high-profile National Football League (NFL) team, the Washington Redskins, have repeatedly ignored calls to do so. 'Respect' a long time coming The change was welcomed by Native American groups including Oneida Indian Nation, who had campaigned for many years for the logo to be retired. \"The Cleveland baseball team has rightly recognized that Native Americans do not deserve to be denigrated as cartoon mascots, and the team's move is a reflection of a grassroots movement that has pressed sports franchises to respect Native people,\" Oneida Nation representative Ray Halbritter said in a statement. \"I'm elated,\" Philip Yenyo, executive director of the American Indian Movement of Ohio, said of the decision. \"But at the same time, I think it should be this year. I don't understand why they're drawing this out. It doesn't make any sense to me, unless they want to continue to make what's basically blood money,\" referring to the club's merchandising revenue. Yenyo and others have demanded that the team go further and drop \"Indians\" from its name. Read more: Donald Trump revives 'Pocahontas' jab during event honoring Native Americans Fans at a loss But some Indians' fans hit out at the move, with one declaring on Twitter that the chief had been created out of honor, not racism. \"It's a big disappointment,\" said Indians' supporter Jeremiah Baker, who was interviewed at a sporting goods store in a suburb of Cleveland. \"Chief Wahoo has been so iconic for so many years, and I understand that some people may be offended, but it's a blow to native Clevelanders.\" Another fan, Marko Farion, said: \"This PC thing has gone too far,\" using an abbreviation for political correctness. Within a few minutes of the announcement, the hashtag #SavetheChief began to circulate on social media. mm/aw (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "Oneida Indian Nation",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Cleveland Indians",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Philip Yenyo",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Philip Yenyo",
+      "American Indian Movement",
+      "head_of"
+    ],
+    [
+      "Philip Yenyo",
+      "American Indian Movement",
+      "member_of"
+    ],
+    [
+      "Major League Baseball",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Paul Dolan",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Paul Dolan",
+      "Cleveland Indians",
+      "head_of"
+    ],
+    [
+      "Paul Dolan",
+      "Cleveland Indians",
+      "member_of"
+    ],
+    [
+      "Manfred",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Manfred",
+      "Major League Baseball",
+      "head_of"
+    ],
+    [
+      "Manfred",
+      "Major League Baseball",
+      "member_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Washington Redskins",
+      "National Football League",
+      "appears_in"
+    ],
+    [
+      "Washington Redskins",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Ray Halbritter",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Ray Halbritter",
+      "Oneida Indian Nation",
+      "member_of"
+    ],
+    [
+      "American Indian Movement",
+      "US",
+      "based_in0"
+    ],
+    [
+      "American Indian Movement",
+      "Ohio",
+      "based_in2"
+    ],
+    [
+      "Ohio",
+      "US",
+      "in0"
+    ],
+    [
+      "Cleveland",
+      "US",
+      "in0"
+    ],
+    [
+      "Clevelanders",
+      "Cleveland",
+      "gpe2"
+    ]
+  ]
+}

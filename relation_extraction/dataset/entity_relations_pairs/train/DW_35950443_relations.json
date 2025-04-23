@@ -1,0 +1,55 @@
+{
+  "content": "EU to sign off on 1-billion-euro aid pledge to Afghanistan\nRepresentatives from 70 countries are set to attend a two-day summit in Brussels to agree on a new aid package for Afghanistan. Ahead of the meeting, the EU sealed a deal to return failed Afghan asylum seekers.\nThe two-day international aid conference in Brussels, which kicks off on Tuesday, is expected to see the EU pledge a total of 1 billion euros ($1.1 billion) a year to Afghanistan until 2020. Ahead of the summit, the European Commission said it would commit an extra 200 million euros ($224 million) a year to strengthen state structures in the war-ravaged country. In a statement, the Commission said the funds could be used by the Kabul government \"to finance their own strategic development priorities.\" Dozens of other countries - including the US, Russia, China and India - are also expected to increase their aid commitment to Afghanistan, which is not able to fully support itself after four decades of conflict, and amid a resurgence of the Taliban. As well as seeking a total of 2.68 billion euros a year for the next four years, EU leaders said the meeting would also push for a realistic time frame for a peace process. That fundraising figure is lower because Afghanistan has begun raising its own revenues, but also due to so-called donor fatigue amid multiple high-profile conflicts. Deal to return failed asylum seekers Earlier Monday, the EU sealed a deal with the Afghan government to speed up the deportation of Afghan citizens who do not qualify for asylum in the bloc. Under the plan, the EU will bear the costs of returning the migrants, including travel expenses and re-integration programs, while Kabul has promised to readmit citizens and supply travel documents for migrants without papers within a month. The EU said special cases, such as single women, unaccompanied minors, the old and the sick can only be deported if they have families to return to and their safety can be guaranteed. Germany, which has accommodated more Afghan migrantsthan any other European country, signed a similar deal with the Kabul government on Sunday that will see thousands of failed asylum seekers return home. Observers said the larger EU aid package did not appear to be conditional for accepting the return of migrants. Around 1.2 million Afghans are living as refugees in their own country and another 3 million are living in Iran, Pakistan or seeking asylum in Europe. mm/cmk (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "European Commission",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Kabul",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kabul",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Kabul",
+      "Afghans",
+      "in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghans",
+      "based_in0-x"
+    ],
+    [
+      "Afghans",
+      "Afghanistan",
+      "gpe0"
+    ]
+  ]
+}

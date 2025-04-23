@@ -1,0 +1,145 @@
+{
+  "content": "Referendum for Thailand's New Constitution\nDemonstrators vowed Monday to stage a fresh rally against Thailand's junta, after clashes with police at a Bangkok protest on Sunday left scores injured. Protesters have also begun rallying against the new constitution which the junta unveiled earlier this month and is set to go to a referendum next month.\nThe military-backed transitional government has promised new elections but the people will first have to sanction the new constitution. Phisit Lee-Atham is a member of the Constitution Drafting Council and he is confident that the new draft is much more democratic than the scrapped 1997 constitution: \"In the old constitution the head of government was given too much power. He could use it without there being any checks and balances. But this time, we've made it easier for the Opposition to put votes of no confidence to the parliament so there will be more checks and balances in the future.\" Previously, 40 percent of the parliament's votes were necessary but the new draft says 20 percent suffice for a vote of no confidence. Anti-Thaksin constitution? The new draft has been termed an anti-Thaksin constitution. The prime minister, who was ousted in a military coup last September, was notorious for eating away the democratic system. He was accused of gambling away all legitimation for running the country with his corrupt behaviour. Surat Horachaikul is from Chulalongkorn University in Bangkok: \"I have always told people how Thaksin Shinawatra's government directly tried to hinder independent organisations. The putsch didn't tear the constitution in half, Thaksin had already done it.\" Thaksin was also known for mixing political and business interests. His family-owned \"Shin Corp\", which has since been sold to an investment company in Singapore, clearly benefited from Thaksin's six years in office. One of the main points of the new constitution is that future prime ministers cannot conduct business activities whilst in political office. Information drive A massive image campaign has been planned to inform the country about the new constitution. But critics are sceptical. Because the draft constitution that gives the military more power in crisis situations is a consequence of an illegitimate putsch of September 2006. So many want the old 1997 constitution to be modified -- some say it was the best Thailand ever had. The media lawyer Supinya Klangnarong was once charged with slander by the \"Shin Corp\" and is an outspoken critic of Thaksin but she also protested against the military when it scrapped the old constitution: \"We deeply regret that the popular constitution was abolished. It was one of the most democratic ones and one which the whole country took part in. The constitution was great and we're sad that we've lost it.\" Communication gap It's unclear how good the chances are of the new constitution being accepted. Despite the image campaign the information is slow to flow. According to recent polls, about 80 percent of the inhabitants in Thailand's twelve largest provinces don't even know when the referendum is taking place. An announcement by the junta chief Sonthi Boonyaratkalin that he was toying with the idea of entering politics was received with deep suspicion. Most Thais are inclined to think that Thailand's recent history has been bloody enough and that the military was largely responsible.",
+  "relations": [
+    [
+      "Constitution Drafting Council",
+      "Thailand",
+      "agency_of"
+    ],
+    [
+      "Constitution Drafting Council",
+      "Thais",
+      "agency_of-x"
+    ],
+    [
+      "Constitution Drafting Council",
+      "Thailand",
+      "based_in0"
+    ],
+    [
+      "Constitution Drafting Council",
+      "Thais",
+      "based_in0-x"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thailand",
+      "agent_of"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thais",
+      "citizen_of-x"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Shin Corp",
+      "head_of"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thailand",
+      "head_of_gov"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Thais",
+      "head_of_gov-x"
+    ],
+    [
+      "Thaksin Shinawatra",
+      "Shin Corp",
+      "member_of"
+    ],
+    [
+      "Bangkok",
+      "Thailand",
+      "in0"
+    ],
+    [
+      "Bangkok",
+      "Thais",
+      "in0-x"
+    ],
+    [
+      "Phisit Lee-Atham",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Phisit Lee-Atham",
+      "Thais",
+      "citizen_of-x"
+    ],
+    [
+      "Phisit Lee-Atham",
+      "Constitution Drafting Council",
+      "member_of"
+    ],
+    [
+      "Surat Horachaikul",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Surat Horachaikul",
+      "Thais",
+      "citizen_of-x"
+    ],
+    [
+      "Surat Horachaikul",
+      "Chulalongkorn University",
+      "member_of"
+    ],
+    [
+      "Chulalongkorn University",
+      "Thailand",
+      "based_in0"
+    ],
+    [
+      "Chulalongkorn University",
+      "Thais",
+      "based_in0-x"
+    ],
+    [
+      "Chulalongkorn University",
+      "Bangkok",
+      "based_in2"
+    ],
+    [
+      "Shin Corp",
+      "Singapore",
+      "based_in0"
+    ],
+    [
+      "Supinya Klangnarong",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Supinya Klangnarong",
+      "Thais",
+      "citizen_of-x"
+    ],
+    [
+      "Sonthi Boonyaratkalin",
+      "Thailand",
+      "citizen_of"
+    ],
+    [
+      "Sonthi Boonyaratkalin",
+      "Thais",
+      "citizen_of-x"
+    ],
+    [
+      "Thais",
+      "Thailand",
+      "gpe0"
+    ]
+  ]
+}

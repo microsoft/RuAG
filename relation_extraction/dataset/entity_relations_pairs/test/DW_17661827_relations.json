@@ -1,0 +1,50 @@
+{
+  "content": "Ukraine: \"Chocolate King\" Petro Poroshenko wins presidential election, according to exit polls\nEarly results from Ukraine's presidential poll indicate that Petro Poroshenko has won the absolute majority of the votes. He said that his victory meant voters had chosed the path of \"European Integration.\"\nExit polls gave Petro Poroshenko, a 48-year-old billionaire and owner of a chocolate factory, between 55.9 and 57.3 percent of the vote. This put him well ahead of former Prime Minister Yulia Tymoshenko, who was reported to have come in second, at 12.9 percent. Andrij Shevchenko, one of Tymoshenko's political allies, said on Twitter that she had conceded defeat. DW's reporter Kitty Logan in Kyiv said voter turnout was extremely high in the capital. Most polling stations in the east of the country remained closed on Sunday. If the figures are confirmed, there will not be a need for a runoff on June 15. Poroshenko, who has promised closer economic and political ties with the West, has also vowed to mend relations with Russia, but insisted that Ukraine's territorial integrity was of top importance to him. In his first statements following the publication of the early results, Poroshenko announced he would travel to the east of the country quickly. He also announced that parliamentary elections would be held later this year. rg/lw (Reuters, dpa)",
+  "relations": [
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukraine",
+      "head_of_gov"
+    ],
+    [
+      "Andrij Shevchenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Kitty Logan",
+      "DW",
+      "member_of"
+    ]
+  ]
+}

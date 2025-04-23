@@ -1,0 +1,95 @@
+{
+  "content": "Simon Wiesenthal: The Life of a Nazi Hunter\nSome called him the Nazi Hunter, but in reality he was just a normal man looking to make sure that justice was served. On December 31, 2008, Simon Wiesenthal would have celebrated his 100th birthday.\nSimon Wiesenthal once said that his purpose in life was to warn the murderers of tomorrow that they will never find rest. If he couldn't do that, then millions of people died for nothing. He was referring to victims of the Nazi Holocaust of World War II. Wiesenthal was a voice for the survivors of the Holocaust, but also for those who lost their lives in the concentration camps. Wiesenthal worked most of his life making sure that these crimes against humanity would never be hushed up or whitewashed. Some people labeled him a “justice fanatic”, others viewed him as a role model and hero. The early years Simon Wiesenthal was born on Dec. 31, 1908, to a Jewish family living in Galicia, which at the time was part of the Austro-Hungarian Empire. He studied architecture in Lemburg and was able to pursue that passion until 1940, when the German army marched in and took over. Wiesenthal spent the next several years in countless forced labor and concentration camps. In 1945 Wiesenthal was among those freed from the Mauthausen death camp in Austria by the US army. It was shortly thereafter that he was reunited with the love of his life, Cyla, whose entire family was killed by the Nazis. Life's work It was in that same year that Wiesenthal started his real life's work: hunting down and capturing former members of the Nazi party. He was contracted by the US government to take on this task and drew on his experiences and memories from the war to accomplish it. He even recalled many of the perpetrator's names from his time in concentration camps. Two years later Wiesenthal, along with other survivors, founded a center for the documentation of crimes committed against European Jews in Linz, Austria. In 1961 a Jewish Documentation Center in Vienna was created. Soon the small office there was filled with documents, notes, memorabilia and evidence. The Americans followed the example, and by 1977 there was a similar institution established in Los Angeles named in Wiesenthal's honor. Nazi hunter Wiesenthal contributed to the capture of many prominent Nazis, including Adolf Eichmann, who was put on trial in Israel in 1961; Franz Stangl, Commandant of the Treblinka concentration camp; and Hermine Braunsteiner, who was responsible for the murder of hundreds of children at the Majdanek concentration camp. Simon Wiesenthal always considered himself a researcher who was simply working to make sure the Holocaust would never be forgotten and that the perpetrators would be brought to justice. Guilt, he always stressed, was individual. He never wanted to be a hate-driven Nazi hunter, saying that hate was a foreign emotion to him. For sixty years Wiesenthal collected, researched and documented – living deep in his dark memories. He was been honored multiple times for his life's work. Simon Wiesenthal died on September 20, 2005 at the age of 96.",
+  "relations": [
+    [
+      "Simon Wiesenthal",
+      "Austro-Hungarian Empire",
+      "citizen_of"
+    ],
+    [
+      "Simon Wiesenthal",
+      "Cyla",
+      "spouse_of"
+    ],
+    [
+      "Mauthausen",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Cyla",
+      "Simon Wiesenthal",
+      "spouse_of"
+    ],
+    [
+      "Nazis",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Linz",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Jewish Documentation Center",
+      "Austria",
+      "based_in0"
+    ],
+    [
+      "Jewish Documentation Center",
+      "Vienna",
+      "based_in2"
+    ],
+    [
+      "Vienna",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Americans",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Los Angeles",
+      "US",
+      "in0"
+    ],
+    [
+      "Los Angeles",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Adolf Eichmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Adolf Eichmann",
+      "Nazis",
+      "member_of"
+    ],
+    [
+      "Franz Stangl",
+      "Treblinka",
+      "head_of"
+    ],
+    [
+      "Franz Stangl",
+      "Treblinka",
+      "member_of"
+    ],
+    [
+      "Hermine Braunsteiner",
+      "Majdanek",
+      "head_of"
+    ],
+    [
+      "Hermine Braunsteiner",
+      "Majdanek",
+      "member_of"
+    ]
+  ]
+}

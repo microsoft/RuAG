@@ -1,0 +1,210 @@
+{
+  "content": "Hungary's Orban attempts to secure his position\nFor months, Hungarian opposition parties and civil rights groups had protested the plan - to no avail. Lawmakers have voted in favor of controversial electoral reforms.\nUnder the new electoral regulations, Hungarian voters must register if they want to cast their ballot in future. The governing coalition argues the new legislation will simplify drawing up voter lists. The opposition parties in parliament, however, criticize mandatory voter pre-registration as a covert constraint on electoral rights, arguing it keeps less affluent, poorly educated or undecided people away from the ballot boxes. \"It's an attempt by Prime Minister Viktor Orban and his Fidesz party to anchor their election victory,\" Peter Juhasz, civil rights activist and head of the extra-parliamentary Milla group, told DW. The ruling passed on Monday evening (26.11.2012) requires voters to register personally every four years at the municipal office in their district or via the Internet, should they have an electronic signature. In the latter case, Hungarians eligible to vote must obtain a personal authorization beforehand. Registration is due at the latest two weeks before election day and is valid for parliamentary, local and European elections as well as for referendums. Ethnic Hungarians living in other countries, including the roughly three million-strong Hungarian minorities in Romania, Serbia, Slovakia and Ukraine that have been allowed to voter by list since 2010, can register via letter. The new legislation also restricts election campaign practices: in future, parties and candidates will not be allowed to campaign on private radio and television stations or local print media. Last year, the constituency boundaries were redrawn and the number of delegates in parliament was cut by 50 percent. Critics argue the reform favors large parties like Fidesz. Slap in the face The new legislation has been a topic of heated debate for months. Opposition politicians, legal and electoral experts said there is no need for voter registration. They argued that Hungary, unlike countries that use pre-registration like the United States, has a central population register. Ahead of the vote in parliament Monday, the ruling Fidesz party emphatically rejected criticism of the electoral reform. It is \"inacceptable\", Gergely Gulyas said, that the electoral reform should be labelled anti-democratic or contrary to the rule of law. Jozsef Tobias, deputy parliamentary leader of the Socialist opposition party (MSZP) termed the reform a \"slap in the face of democracy.\" His colleague Tamas Harangozo called it a \"pedantic and inane attempt to influence the election outcome.\" Opposition parties and several civil rights groups have announced fresh marches and protests against the electoral reform. Együtt 2014 (Together 2014), an election coalition that includes leading opposition politicians, intellectuals, unionists and civil rights activists - among them the Milla group - plans a nationwide campaign to urge voters to register in large numbers ahead of election. They say that is the only way to win elections and abolish mandatory registration. Orban fears for his power Editorial writers in media critical of the government have slammed the reform as an effort by the ruling Fidesz party to counterbalance a significant loss of popularity over the past two years and to secure good election results in the long run. Orban's government cultivates a nationalist, populist and anti-capitalist rhetoric while at the same time pursuing drastic austerity policies that have mainly hit people with in lower-income bracket and retirees. That has led to Fidesz' sharp decline in opinion polls; currently, the party is far from a two-thirds majority. The electoral reform is \"Fidesz' granite foundation\", according to Hungary's left-liberal daily Nepszabadsag. And Hungary's most popular Internet news service, index.hu, has the following comment: \"Elections are the most important event in a civil democracy, they are the system's festival. They are the moment when all citizens have the same chance to shape fate in their native country. Limiting this chance is a despicable gesture. Since Monday evening, Hungary is a much worse place than it ever was since 1990.\"",
+  "relations": [
+    [
+      "Viktor Orban",
+      "Hungary",
+      "agent_of"
+    ],
+    [
+      "Viktor Orban",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Viktor Orban",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Viktor Orban",
+      "Hungarians",
+      "citizen_of-x"
+    ],
+    [
+      "Viktor Orban",
+      "Hungary",
+      "head_of_gov"
+    ],
+    [
+      "Viktor Orban",
+      "Hungarian",
+      "head_of_gov-x"
+    ],
+    [
+      "Viktor Orban",
+      "Hungarians",
+      "head_of_gov-x"
+    ],
+    [
+      "Fidesz",
+      "Hungary",
+      "based_in0"
+    ],
+    [
+      "Fidesz",
+      "Hungarian",
+      "based_in0-x"
+    ],
+    [
+      "Fidesz",
+      "Hungarians",
+      "based_in0-x"
+    ],
+    [
+      "Socialist opposition party",
+      "Hungary",
+      "based_in0"
+    ],
+    [
+      "Socialist opposition party",
+      "Hungarian",
+      "based_in0-x"
+    ],
+    [
+      "Socialist opposition party",
+      "Hungarians",
+      "based_in0-x"
+    ],
+    [
+      "Together 2014",
+      "Hungary",
+      "based_in0"
+    ],
+    [
+      "Together 2014",
+      "Hungarian",
+      "based_in0-x"
+    ],
+    [
+      "Together 2014",
+      "Hungarians",
+      "based_in0-x"
+    ],
+    [
+      "Hungarian",
+      "Hungary",
+      "gpe0"
+    ],
+    [
+      "Peter Juhasz",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Peter Juhasz",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Juhasz",
+      "Hungarians",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Juhasz",
+      "Milla",
+      "head_of"
+    ],
+    [
+      "Peter Juhasz",
+      "Milla",
+      "member_of"
+    ],
+    [
+      "Hungarians",
+      "Hungary",
+      "gpe0"
+    ],
+    [
+      "Gergely Gulyas",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Gergely Gulyas",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Gergely Gulyas",
+      "Hungarians",
+      "citizen_of-x"
+    ],
+    [
+      "Jozsef Tobias",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Jozsef Tobias",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Jozsef Tobias",
+      "Hungarians",
+      "citizen_of-x"
+    ],
+    [
+      "Jozsef Tobias",
+      "Socialist opposition party",
+      "head_of"
+    ],
+    [
+      "Jozsef Tobias",
+      "Socialist opposition party",
+      "member_of"
+    ],
+    [
+      "Tamas Harangozo",
+      "Hungary",
+      "citizen_of"
+    ],
+    [
+      "Tamas Harangozo",
+      "Hungarian",
+      "citizen_of-x"
+    ],
+    [
+      "Tamas Harangozo",
+      "Hungarians",
+      "citizen_of-x"
+    ],
+    [
+      "Tamas Harangozo",
+      "Socialist opposition party",
+      "member_of"
+    ],
+    [
+      "Nepszabadsag",
+      "Hungary",
+      "based_in0"
+    ],
+    [
+      "Nepszabadsag",
+      "Hungarian",
+      "based_in0-x"
+    ],
+    [
+      "Nepszabadsag",
+      "Hungarians",
+      "based_in0-x"
+    ],
+    [
+      "index.hu",
+      "Hungary",
+      "based_in0"
+    ],
+    [
+      "index.hu",
+      "Hungarian",
+      "based_in0-x"
+    ],
+    [
+      "index.hu",
+      "Hungarians",
+      "based_in0-x"
+    ]
+  ]
+}

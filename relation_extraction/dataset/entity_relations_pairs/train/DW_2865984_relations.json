@@ -1,0 +1,120 @@
+{
+  "content": "Berlin Philharmonic Examines Nazi Past on 125th Birthday\nThe world-famous Berlin Philharmonic celebrated its 125th anniversary with a free music marathon on Sunday -- and a look at the role it played in Nazi propaganda.\nRetirees, students, and parents with children filled the Philharmonie in Berlin to the fire limit on Sunday, Nov. 4. They were there to watch legendary British conductor Sir Simon Rattle, the orchestra's music director since 2002. Many also came, however, the get a glimpse into the dark side of the orchestra's history, as the Berlin Philharmonic used the anniversary as an opportunity to uncover its Nazi ties. Hitler's orchestra One of the last major German institutions to do so, the Philharmonic has opened up a significant part of its past to the public with a documentary film, an exhibition on \"degenerate\" music during the Third Reich and a book detailing the orchestra's operations in Nazi Germany. As the national Reichsorchester, the ensemble regularly performed for Hitler's birthday under director Wilhelm Furtwängler. It was the only active orchestra during the war, and its members were exempted from military service and enjoyed a sense of prestige and normality despite the terror happening around them. Facing up to the past Both the film and the book by Misha Aster, available in English under the title \"The Berlin Philharmonic and the Third Reich,\" take closely examine the orchestra's role in Nazi propaganda and its activities as Nazi Germany's flagship cultural ambassador from 1933 to 1945. \"The solution offered by Goebbels in 1933 meant material and financial security for the orchestra and consequently acted as an insurance against bankruptcy,\" Aster wrote of a deal crafted by Joesph Goebbels, the head of Nazi propaganda. \"That naturally meant a major compromise.\" Part of the reason for the long overdue examination of the orchestra's role under National Socialism, said Aster, appears to stem from its post-war domination by the conductor Herbert von Karajan, a former Nazi Party member. But since Karajan's death in 1989 the orchestra has been through a major generational change with the average age of its members now about 41. The exhibition focuses on music that was banned during the Third Reich, either for being politically unacceptable or for having connections to Jews. It is a reconstruction of a Nazi propaganda exhibit from 1938, which had condemned works by celebrated composers like Paul Hindemith, Arnold Schoenberg, Igor Stravinsky and Kurt Weill. In a symbolic gesture, Stravinsky's \"Le sacre du printemps\" was performed the Philharmonic and Rattle on Sunday evening at the conclusion of the anniversary concert. Looking forward -- musically Under Rattle's direction, the Berlin Philharmonic has been changing its staunch traditionalist image as a bearer of German musical tradition. \"It's no longer the glamorous diva at the edge of the city,\" Rattle told the German DPA news agency. \"An orchestra can't just live in the past, it has to look forward.\" The conductor has stirred up controversy himself during his five years as musical director for allegedly deviating from the German orchestral tradition -- both in terms of the sound of the orchestra and its target audience. He has pushed for performing contemporary music and made efforts to win a younger audience. \"The audiences don't always come to us - we have to go to them,\" he said.",
+  "relations": [
+    [
+      "Berlin Philharmonic",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin Philharmonic",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Simon Rattle",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Simon Rattle",
+      "Berlin Philharmonic",
+      "head_of"
+    ],
+    [
+      "Simon Rattle",
+      "Berlin Philharmonic",
+      "member_of"
+    ],
+    [
+      "Hitler",
+      "Nazi Germany",
+      "agent_of"
+    ],
+    [
+      "Hitler",
+      "Nazi Germany",
+      "citizen_of"
+    ],
+    [
+      "Hitler",
+      "Nazi Germany",
+      "head_of_state"
+    ],
+    [
+      "Herbert von Karajan",
+      "Berlin Philharmonic",
+      "head_of"
+    ],
+    [
+      "Herbert von Karajan",
+      "Berlin Philharmonic",
+      "member_of"
+    ],
+    [
+      "Herbert von Karajan",
+      "Nazi Party",
+      "member_of"
+    ],
+    [
+      "Joesph Goebbels",
+      "Nazi Germany",
+      "agent_of"
+    ],
+    [
+      "Joesph Goebbels",
+      "Nazi Germany",
+      "minister_of"
+    ],
+    [
+      "Philharmonie",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Philharmonie",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Reichsorchester",
+      "Nazi Germany",
+      "based_in0"
+    ],
+    [
+      "Wilhelm Furtwängler",
+      "Reichsorchester",
+      "head_of"
+    ],
+    [
+      "Wilhelm Furtwängler",
+      "Reichsorchester",
+      "member_of"
+    ],
+    [
+      "The Berlin Philharmonic and the Third Reich",
+      "Misha Aster",
+      "created_by"
+    ],
+    [
+      "Nazi Party",
+      "Nazi Germany",
+      "based_in0"
+    ],
+    [
+      "Le sacre du printemps",
+      "Igor Stravinsky",
+      "created_by"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

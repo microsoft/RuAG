@@ -1,0 +1,175 @@
+{
+  "content": "India hands out life sentences for deadly Gujarat riots\nNearly a dozen people have been sentenced to life in prison for their involvement in deadly sectarian riots. But the Indian government has also cracked down on an NGO critical of Modi's involvement in the violence.\nAn Indian court on Friday sentenced 11 people to life in prison for participating in deadly sectarian riots that swept across the state of Gujarat in 2002, leaving over 1,000 dead in its wake. At least 12 more defendants received seven years in prison, while one received a 10-year sentence. \"This is hardly the punishment for the crime they have committed,\" said Zakia Jafri, the widow of the opposition Congress party lawmaker Ehsan Jafri, who was killed in the riots. Indian activist Anand Yagnik said the guilty should have received the death penalty. However, Special Court Judge P.B. Desai rejected the demand, saying the prosecution failed to prove accusations of a criminal conspiracy. The case has plagued Prime Minister Narendra Modi's political career since he served as the state's chief minister at the time of the riots. Activists claim Modi did little to prevent the violence that ensued, while others allege he instigated it. Earlier this month, a court convicted 24 Hindus and acquitted 36 others over the Gulbarg Housing Society massacre, in which a Hindu mob in 2002 set fire to residences and attacked inhabitants of the predominantly Muslim complex. 'Actions of a bully' Meanwhile, the Indian government on Thursday revoked the Sabrang Trust's foreign funding license, citing multiple violations of the Foreign Contribution (Regulation) Act (FCRA), including misuse of foreign funds. The non-profit is run by high-profile activist Teesta Setalvad, a staunch critic of Modi who has brought attention to his involvement in the 2002 riots. \"Never be scared of the actions of a bully who only knows the use of brute force. Right shall triumph,\" Setalvad said in a statement posted on Twitter. UN human rights experts on Thursday called on the government to repeal the FCRA. \"We are alarmed that FCRA provisions are being used more and more to silence organizations involved in advocating civil, political, economic, social, environmental or cultural priorities, which may differ from those backed by the government,\" the UN Special Rapporteurs said in a statement. ls/kl (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "Gujarat",
+      "India",
+      "in0"
+    ],
+    [
+      "Gujarat",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "head_of_gov"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "head_of_gov-x"
+    ],
+    [
+      "Foreign Contribution (Regulation) Act",
+      "Indian",
+      "signed_by"
+    ],
+    [
+      "Teesta Setalvad",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Teesta Setalvad",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Teesta Setalvad",
+      "Sabrang Trust",
+      "head_of"
+    ],
+    [
+      "Teesta Setalvad",
+      "Sabrang Trust",
+      "member_of"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Zakia Jafri",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Zakia Jafri",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Zakia Jafri",
+      "Ehsan Jafri",
+      "spouse_of"
+    ],
+    [
+      "Congress",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Ehsan Jafri",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Ehsan Jafri",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Ehsan Jafri",
+      "Congress",
+      "member_of"
+    ],
+    [
+      "Ehsan Jafri",
+      "Zakia Jafri",
+      "spouse_of"
+    ],
+    [
+      "Anand Yagnik",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Anand Yagnik",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Special Court",
+      "India",
+      "agency_of"
+    ],
+    [
+      "Special Court",
+      "Indian",
+      "agency_of-x"
+    ],
+    [
+      "Special Court",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Special Court",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "P.B. Desai",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "P.B. Desai",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "P.B. Desai",
+      "Special Court",
+      "head_of"
+    ],
+    [
+      "P.B. Desai",
+      "Special Court",
+      "member_of"
+    ],
+    [
+      "Sabrang Trust",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Sabrang Trust",
+      "Indian",
+      "based_in0-x"
+    ]
+  ]
+}

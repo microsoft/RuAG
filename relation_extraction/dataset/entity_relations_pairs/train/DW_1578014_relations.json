@@ -1,0 +1,135 @@
+{
+  "content": "The Sorrows of Young Schiller\nGerman icon Friedrich Schiller died 200 years ago on Monday -- an anniversary marked in Weimar with the opening of a special \"Schiller Year.\" The writer died at age 45 and wrote many of his works in physical pain.\nManaging life's inevitable hardships is a recurring theme in Schiller's works. The artist himself was a prime example as he showed how the mind can triumph over a sick body for most of his life. Schiller's fever attacks often became so severe that rumors of his death spread frequently. But again and again he managed to leave his sick bed and return to the writing desk. \"When he finally died, the duke said, 'Let's cut him open,'\" wrote Schiller's biographer, Rüdiger Safranski. Doctors had long considered the writer a medical phenomenon: Due to his medical history, they felt he should have died much earlier. But \"one should call it idealism, when someone manages to live 10 years longer than the body would permit simply because of the power of enthusiasm and mind,\" Safranski wrote. A dominating duke Schiller was born on Nov. 10, 1759 in Marbach on the Neckar in southwestern Germany. His father worked as an army doctor for Duke Karl Eugen of Württemberg. His mother was the daughter of an innkeeper. While in school, Schiller wanted to become a priest, but the duke prevented this. In 1773, he ordered the teenager to attend his military academy. As his father served in the army, it was a request he couldn't refuse. The school turned out to be hell for Schiller, who suffered under the strict regimen. To deal with the pressure, he began to write -- first poems, followed by the play \"The Robbers\" in 1777. While secretly working on the play, he also wrote a medical dissertation. The latter was finished in 1780, the play was published half a year later and finally premiered on Jan. 13, 1783. Schiller's passionate plea for freedom turned \"The Robbers\" into a sensational success and made him the \"poet of peace.\" Fleeing his homeland Needless to say, the duke wasn't thrilled about Schiller's lust for liberty and banned him from writing. Schiller responded by fleeing his homeland in 1782, making his living as a freelance writer from then on. He quickly wrote \"Fiesco,\" \"Love and Intrigue\" and \"Don Carlos\" and crisscrossed Germany -- partly to escape the duke's wrath, partly to find new sources of funding. In 1787, in the eastern German town of Jena, he first learned about Kant's philosophy, which influenced him tremendously. He also met his future wife, Charlotte von Lengefeld, in Jena. The French Revolution of 1789 fascinated Schiller -- after all, it was about liberty. But its bloody course disappointed him and encouraged him to study history. During the following years, he almost completely gave up literary writing and focussed on historical-philosophical research instead. A world-famous friendship In 1790, he settled in Jena, where he taught history at the university. A year later, the newly-wed poet fell ill with pneumonia, which later caused him almost unbearable pain as it led to a suppuration of the pleura, the pericardium and his kidneys. In 1794, Schiller began a friendship with Johann Wolfgang von Goethe, which took on a central role in the lives of both poets and became a highlight of Germany's literary history. Goethe encouraged Schiller to write again and together, they composed the famous \"Xenia\" satirical poems. In 1799, Schiller moved to Weimar to be closer to Goethe, only to fall sick again one year later. As a medical doctor, Schiller realized that he didn't have much time left and set out to complete the works that were to make him famous around the globe: \"Wilhelm Tell,\" the Wallenstein trilogy, \"Mary Stuart,\" and the \"Maid of Orleans.\"",
+  "relations": [
+    [
+      "Johann Wolfgang von Goethe",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Johann Wolfgang von Goethe",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Friedrich Schiller",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Friedrich Schiller",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Friedrich Schiller",
+      "Charlotte von Lengefeld",
+      "spouse_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Weimar",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Weimar",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Marbach",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Marbach",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Karl Eugen",
+      "Württemberg",
+      "citizen_of"
+    ],
+    [
+      "The Robbers",
+      "Friedrich Schiller",
+      "created_by"
+    ],
+    [
+      "Fiesco",
+      "Friedrich Schiller",
+      "created_by"
+    ],
+    [
+      "Love and Intrigue",
+      "Friedrich Schiller",
+      "created_by"
+    ],
+    [
+      "Don Carlos",
+      "Friedrich Schiller",
+      "created_by"
+    ],
+    [
+      "Jena",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Jena",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Charlotte von Lengefeld",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Charlotte von Lengefeld",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Charlotte von Lengefeld",
+      "Friedrich Schiller",
+      "spouse_of"
+    ],
+    [
+      "Xenia",
+      "Johann Wolfgang von Goethe",
+      "created_by"
+    ],
+    [
+      "Xenia",
+      "Friedrich Schiller",
+      "created_by"
+    ],
+    [
+      "Wilhelm Tell",
+      "Friedrich Schiller",
+      "created_by"
+    ],
+    [
+      "Wallenstein",
+      "Friedrich Schiller",
+      "created_by"
+    ],
+    [
+      "Mary Stuart",
+      "Friedrich Schiller",
+      "created_by"
+    ],
+    [
+      "Maid of Orleans",
+      "Friedrich Schiller",
+      "created_by"
+    ]
+  ]
+}

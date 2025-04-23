@@ -1,0 +1,115 @@
+{
+  "content": "Australian stock exchange boss steps down\nThe head of Australia's stock exchange resigned Monday amid allegations of bribery at a gambling group he previously ran. Elmer Funke Kupper had been CEO of the Australian Securities Exchange (ASX) since October 2011.\nFunke Kupper has also taken a leave of absence from the board of Tabcorp, Australia's largest bookmaker, which is currently being investigated by the Australian Federal Police. The allegations center on a payment of $151,460 (134,535 euros) to the bookmaker by relatives of Cambodia's Prime Minister Hen Sen. Tabcorp, a publicly listed company, had reportedly been looking to expand into the country. Funke Kupper told the media last week that he had no recollection of such a payment during his four years at the helm of Tabcorp, which said it did not pursue the expansion opportunity in Cambodia. ASX chairman Rick Holliday-Smith said the board \"accepted that Elmer wanted to direct his full focus to the investigations which may be made into the Tabcorp matter - and not have them interfere with the important role of leading the ASX\". A statement by the ASX announced that Rick Holliday-Smith will take over Funke Kupper's duties until a replacement is found. AFP, ASX (hch/bea)",
+  "relations": [
+    [
+      "Elmer Funke Kupper",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Elmer Funke Kupper",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Elmer Funke Kupper",
+      "Australian Securities Exchange",
+      "head_of"
+    ],
+    [
+      "Elmer Funke Kupper",
+      "Tabcorp",
+      "head_of"
+    ],
+    [
+      "Elmer Funke Kupper",
+      "Australian Securities Exchange",
+      "member_of"
+    ],
+    [
+      "Elmer Funke Kupper",
+      "Tabcorp",
+      "member_of"
+    ],
+    [
+      "Australian Securities Exchange",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Australian Securities Exchange",
+      "Australian",
+      "based_in0-x"
+    ],
+    [
+      "Australian Federal Police",
+      "Australia",
+      "agency_of"
+    ],
+    [
+      "Australian Federal Police",
+      "Australian",
+      "agency_of-x"
+    ],
+    [
+      "Australian Federal Police",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Australian Federal Police",
+      "Australian",
+      "based_in0-x"
+    ],
+    [
+      "Australian",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Tabcorp",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Tabcorp",
+      "Australian",
+      "based_in0-x"
+    ],
+    [
+      "Hen Sen",
+      "Cambodia",
+      "agent_of"
+    ],
+    [
+      "Hen Sen",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Hen Sen",
+      "Cambodia",
+      "head_of_gov"
+    ],
+    [
+      "Rick Holliday-Smith",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Rick Holliday-Smith",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Rick Holliday-Smith",
+      "Australian Securities Exchange",
+      "head_of"
+    ],
+    [
+      "Rick Holliday-Smith",
+      "Australian Securities Exchange",
+      "member_of"
+    ]
+  ]
+}

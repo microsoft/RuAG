@@ -1,0 +1,70 @@
+{
+  "content": "Oxfam: G7 emissions have 'savage impact' on African crops\nOn the eve of the G7 talks in Germany, Oxfam has released a report highlighting the devastating impact emissions from G7 countries' coal plants will have on Africa's food supply. DW speaks to Oxfam's Kiri Hanks.\nA report released Saturday by Oxfam shows the G7 countries' continued reliance on coal is on track to cost the world $450 billion (405 billion euros) a year by the end of the century. Climate change and food security are expected to feature high on the agenda when leaders from the world's seven most economically powerful nations - the US, the UK, France, Germany, Italy, Japan and Canada - meet Sunday for talks at Elmau palace in the southern German state of Bavaria. The \"Let Them Eat Coal\" report, which uses modeling by Climate Analytics researchers in Berlin, shows five of the G7 members, including Germany, have been burning more coal since 2009. In an interview with DW, Oxfam's energy advisor Kiri Hanks says Africa stands to lose millions of tons of staple crops by the 2080s. DW: Can you explain the link established in the \"Let Them Eat Coal\" report between hunger in Africa and coal plants in G7 countries? Kiri Hanks: We've done some new modeling to make the link between the climate change that G7 coal plants are causing and the impact that this is having on lost harvest. So we show that 7 million tons of staple crops are at risk of being lost by the end of the century if we carry on burning coal at the current rate. Coal-fired power plants are the biggest driver of climate change. The G7 coal fleet alone is emitting twice as much fossil fuel emissions as the whole of Africa, and 10 times as much as the 49 least developed countries. So they still have a huge coal problem and they have to move a lot faster in tackling it. Really, they should be leading the way as the leading group of industrialized economies and the countries with the means to invest in alternatives. The report says Africa's food sources will be particularly impacted by climate change driven by G7 emissions. Can you tell us what that reality looks like in practical terms? The most savage of all the impacts is the effect it's having on farming and the ability of people to feed themselves and grow enough food. Africa in particular will face costs of $84 billion annually by the end of the century. That includes the cost of adapting agricultural practices and irrigating fields, so it's total economic costs that will be caused by G7 coal plants. On the one hand you have the insidious rise in temperature, which will increasingly affect the harvest, but on the other hand you've got the impacts we're already seeing now - more flooding, more drought and more severe weather events. The report also looked at each country's energy grid to make recommendations for phasing out coal. When could the G7 countries realistically become coal-free? We've commissioned research from E3G, an energy specialist think tank, to analyze potential coal phase-out pathways and what policies could be put in place to speed up the transition from coal. For example, the UK, France and Italy could phase out coal within the next five to eight years. The US and Canada could phase out by 2030, Japan by 2035 and Germany by 2040. And this would really be the date of closing their last coal-fired power plant. What strategies can help wean G7 countries off coal? Some countries can move faster than others because you've got forward looking political leadership, different starting points and different energy mixes. In Japan you've got a situation where the government is deliberately following a coal-intensive energy pathway. And they've actually weakened legislation, so it's easier to build a new coal plant than it is to build a wind turbine, for example. Germany is still burning a huge amount of coal, and they're also phasing out nuclear at the same time. Germany could be coal free by 2040, but that would mean first tackling lignite (brown coal) because that's the worst and dirtiest form of coal. We're saying lignite there should be phased out by 2020. Environmental groups have described the G7 summit as an opportunity to create momentum for the Paris climate talks in December, when countries hope to sign a new climate change agreement to curb emissions. How optimistic are you that enough progress will be made? The G7 have huge sway and huge potential to send the right kind of signal to Paris - that they intend to phase out coal. This is one thing they could do that would really give the right message to the rest of the world, especially emerging economies who are going to be the big coal consumers of tomorrow. If the G7 take up their leadership role, they can inspire actions from others by showing that it's possible to phase out coal and maintain a healthy economy. The G7 have also pledged to deliver $100 billion in climate finance to developing countries (agreed at the 2009 UN climate conference in Copenhagen) and yet we're still waiting to see a politically credible road map for that money to be delivered, so these are areas where the G7 could really help momentum ahead of Paris. Kiri Hanks is the energy adviser with Oxfam in Britain.",
+  "relations": [
+    [
+      "Oxfam",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Kiri Hanks",
+      "Oxfam",
+      "member_of"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Elmau",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Elmau",
+      "Bavaria",
+      "in1"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bavaria",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Let Them Eat Coal",
+      "Oxfam",
+      "created_by"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ]
+  ]
+}

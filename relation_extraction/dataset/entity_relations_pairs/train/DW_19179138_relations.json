@@ -1,0 +1,160 @@
+{
+  "content": "Obama calls Libya his 'worst mistake'\nUS President Barack Obama has spoken in an interview about the biggest mistake of his presidency, which he considers the 2011 campaign in Libya. Five years later, the North African country remains unstable.\nIn an interview with US broadcaster Fox News, President Obama spoke candidly about his lack of foresight in the aftermath of the fall of late Libyan leader Moammar Gadhafi. He said that his \"worst mistake\" was \"probably failing to plan for the day after what I think was the right thing to do in intervening in Libya.\" Since the downfall of Gadhafi, who was killed in the course of a popular uprising, Libya has spiraled into chaos and anarchy, with the country split up and ruled by rival militias vying for power. The self-styled \"Islamic State\" (IS) group managed to gain influence in the country amid that power vacuum as well. A UN-back unity government might be in sight but the balance of power in Libya remains feeble. Praise for Clinton as Secretary of State The president added that his former secretary of state, Hillary Rodham Clinton, was \"outstanding,\" defending the current presidential candidate, who has been facing criticism over her use of a personal email server for official correspondence as the US' top diplomat during her tenure between 2009 and 2013. Clinton's private-server emails reportedly contained classified material, including 22 messages with top secret information. \"She would never intentionally put America in any kind of jeopardy,\" Obama told Fox News' Chris Wallace. Clinton has faced a number of lawsuits seeking the release of the documents under freedom of information laws in the US and has had to defend herself before Congress. The use of her private email account has also raised questions about her handling of the deadly 2012 attack on the US diplomatic compound in Benghazi, Libya, during which the US ambassador to the country, Christopher Stevens, was murdered alongside two CIA contractors. Not the only one to blame for Libya Obama had criticized British Prime Minister David Cameron and former French President Nicolas Sarkozy for their roles in the bombing campaign in Libya before. The US President said in an interview with \"The Atlantic\" magazine in March 2016 that Cameron had become \"distracted\" while Sarkozy appeared to seek to promote his country during the 2011 NATO-led military intervention in Libya. Presidential highlights In the Fox News interview Obama also reflected on some of the best moments of his tenure as president, which is due to end in January 2017. \"Saving the economy from a great depression\" was his biggest accomplishment, he said. He also named the US health care reform, commonly referred to as Obamacare, as one of the highlights of his time in the White House. Obama added that his single worst day in the White House was when he had to travel to Newtown in the US state of Connecticut after a gunman had shot and killed 20 young children and six adult staff members at an elementary school in December 2012. ss/kms (AFP, dpa, FOX)",
+  "relations": [
+    [
+      "Hillary Rodham Clinton",
+      "America",
+      "agent_of"
+    ],
+    [
+      "Hillary Rodham Clinton",
+      "America",
+      "citizen_of"
+    ],
+    [
+      "Hillary Rodham Clinton",
+      "America",
+      "minister_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "America",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "America",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "America",
+      "head_of_state"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "head_of_state"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libyan",
+      "head_of_state-x"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "David Cameron",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Fox News",
+      "America",
+      "based_in0"
+    ],
+    [
+      "Libyan",
+      "Libya",
+      "gpe0"
+    ],
+    [
+      "Chris Wallace",
+      "Fox News",
+      "member_of"
+    ],
+    [
+      "Congress",
+      "America",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "America",
+      "based_in0"
+    ],
+    [
+      "Benghazi",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Benghazi",
+      "Libyan",
+      "in0-x"
+    ],
+    [
+      "Christopher Stevens",
+      "America",
+      "agent_of"
+    ],
+    [
+      "CIA",
+      "America",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "America",
+      "based_in0"
+    ],
+    [
+      "The Atlantic",
+      "America",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "America",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "America",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "America",
+      "in0"
+    ],
+    [
+      "Newtown",
+      "America",
+      "in0"
+    ],
+    [
+      "Connecticut",
+      "America",
+      "in0"
+    ]
+  ]
+}

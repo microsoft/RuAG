@@ -1,0 +1,190 @@
+{
+  "content": "German Social Democrats Question EU Report on CIA Scandal\nMembers of Germany Social Democratic Party on Tuesday criticized a report by an EU Parliament commission that could damage their party colleague, German Foreign Minister Frank-Walter Steinmeier.\nIn its report on CIA activities in Europe, a special cross-party European committee among other things accuses the former German government under Gerhard Schröder of not having worked hard enough for the release of a German-born Turk from the US prison camp at Guantanamo. The report increases the political pressure on Steinmeier, who was chief of staff in the chancellery office at the time and whose former activities are currently also being investigated by a parliamentary inquiry in Berlin. Reacting to the allegations of the European Parliament commission, Germany's Social Democratic parliamentary floor leader Peter Struck said that he questioned the committee's allegations that Steinmeier had turned down an offer by US authorities to take German-born Turk Murat Kurnaz back to Germany in 2002 after he was found innocent during interrogations at the Guantanamo prison camp. Struck said that he was not aware of any evidence of such an offer ever being made by the United States. He added that the EU committee had based its findings only on newspaper reports while the confidential government documents available to him spoke a different language. Struck's view is shared by SPD general secretary Hubertus Heil, who denied that Steinmeier should be blamed. Speedy resolution? \"We want to investigate the whole matter without delay,\" he said. \"And this has to be done in the appropriate committees of the German parliament. Then everyone will see that there can be no doubt about the foreign minister's integrity.\" A Social Democratic inquiry panel member, Thomas Oppermann, also said that any allegation that the former government had actively prevented the release of Kurnaz is far from the truth. He did say, though, that there was an active exchange of views about Kurnaz' future between German and US intelligence officers. \"What I can see from the documents made available to me is that there were indeed discussions between German and US intelligence agents about whether or not to release Murat Kurnaz from Guantanamo on condition that he would be planted as a mole in Germany's radical Islamic scene,\" he said. \"But these discussions alone cannot be construed as an official offer by US authorities to release Kurnaz.\" Inhuman attitudes? Next week, the Kurnaz case will be debated at length at a special meeting of a German parliamentary committee responsible for checking the intelligence agencies' activities. Meanwhile Germany's mass circulation tabloid Bild has asked why the former government should have cared at all about a Turk who had no German citizenship. The chairman of the parliamentary probe, Siegfried Kauder, was outraged by such comments. \"To ask why should we bother about this Turk at all is inhuman,\" he said. \"After all, Kurnaz grew up in Germany. And if the government thought they shouldn't be concerned, they should have informed Kurnaz' lawyer so that he'd be able to seek help elsewhere. But to convey the impression that one cares and then do nothing would be inhuman.\" The German public has been hearing about the Kurnaz case for many weeks and now there's an expectation that Steinmeier will act to clear up the matter speedily. However, he's unlikely to testify to the inquiry panel before March after all witnesses have been heard.",
+  "relations": [
+    [
+      "Germany Social Democratic Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Germany Social Democratic Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "CIA",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Murat Kurnaz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Murat Kurnaz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Struck",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peter Struck",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Struck",
+      "Germany Social Democratic Party",
+      "head_of"
+    ],
+    [
+      "Peter Struck",
+      "Germany Social Democratic Party",
+      "member_of"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Guantanamo",
+      "United States",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hubertus Heil",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hubertus Heil",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hubertus Heil",
+      "Germany Social Democratic Party",
+      "head_of"
+    ],
+    [
+      "Hubertus Heil",
+      "Germany Social Democratic Party",
+      "member_of"
+    ],
+    [
+      "Thomas Oppermann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thomas Oppermann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas Oppermann",
+      "Germany Social Democratic Party",
+      "member_of"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Siegfried Kauder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Siegfried Kauder",
+      "German",
+      "citizen_of-x"
+    ]
+  ]
+}

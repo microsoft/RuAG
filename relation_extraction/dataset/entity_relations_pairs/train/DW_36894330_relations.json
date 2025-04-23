@@ -1,0 +1,145 @@
+{
+  "content": "Rebels shell government controlled Aleppo just day after evacuation\nCasualties have been reported in Aleppo a day after the Syrian army reclaimed the city. Meanwhile, experts have warned that the battle for Aleppo has left other areas more vulnerable to Islamic State aggression.\nThree civilians were reportedly killed Friday as Syrian rebel forces launched the first wave of rocket fire into Aleppo on Friday, just a day after insurgents finished withdrawing from the last rebel-held pocket of the city. Ten rockets hit the southern district of Al-Hamdaniyeh, wounding nearly a dozen people. On Thursday, 35,000 civilians and fighters were bussed out of the city following a landmark evacuation agreement brokered by Russia and Turkey. The deal effectively handed control of Aleppo over to Syrian President Bashar al-Assad and his regime. The Syrian military's recapture of the country's largest city and former commercial hub, made possible by military support from Russia and Iran, marked Assad's most significant victory in the nearly six-year civil war. Friday's offensive is unlikely to be the last, as rebel forces still control much of the territory along the western and southern outskirts of Aleppo, as well as other large areas of the country. Investigating Aleppo's abandoned neighborhoods The Syrian Observatory for Human Rights on Friday reported that the Syrian army and its allies began searching the abandoned districts of the city, clearing explosives and other traps left behind by rebels. Syrian television also broadcast footage of troops seizing crates piled with ammunition, rifles and at least one Russian-made grenade launcher stored in a school basement in the neighborhood of Zaydiyeh. Syrian officials also reported alleged \"criminal acts\" carried out by rebels before they fled eastern Aleppo. These include reports that rebels had killed dozens of prisoners before evacuating the city. Rebels have strongly denied these accusations. 'IS' also make gains Experts warned Friday that the Syrian regime's all-out assault on Aleppo enabled the self-proclaimed \"Islamic State\" (IS) jihadist group to recapture territory elsewhere, including the historic Syrian city of Palmyra. Charles Lister of the US think-tank Middle East Institute told news agency AFP that the \" resources deployed (by Damascus and its allies) to retake Aleppo have allowed IS to claim a series of opportunistic victories\" in Syria. Jonathan Mautner of the Institute for the Study of War (ISW) wrote on the think-tank's blog that \"Russia and Syria prioritized the defeat of the opposition in Aleppo city over the defense of Palmyra from IS, ultimately enhancing the threat posed by Salafi-jihadist groups in both northern and eastern Syria.\" The recapture of Palmyra, which IS reclaimed on December 11 after losing it in March, highlighted \"the inability of pro-regime forces to establish security across the entire country without sustained support from Russia and Iran, notwithstanding their recent success in Aleppo city,\" Mautner said. Despite its recent gains, IS still only controls half the area it seized in Syria and Iraq in 2014. However, some officials expect Moscow to only support the Assad regime in recapturing the \"useful\" territories, leaving the fight against other IS-occupied areas to the West. The biggest challenge, however, remains the recapture of Raqqa, the jihadists' Syrian \"capital.\" From there they have orchestrated terror attacks on Europe and Arab countries. The Syrian Democratic Forces, an Arab-Kurdish alliance backed by the US, launched an offensive to take the base in early November, but has yet to capture it. dm/kms (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Aleppo",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Aleppo",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Islamic State",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Islamic State",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Al-Hamdaniyeh",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Al-Hamdaniyeh",
+      "Aleppo",
+      "in2"
+    ],
+    [
+      "Jonathan Mautner",
+      "Institute for the Study of War",
+      "member_of"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Zaydiyeh",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Zaydiyeh",
+      "Aleppo",
+      "in2"
+    ],
+    [
+      "Palmyra",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Palmyra",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Charles Lister",
+      "Middle East Institute",
+      "member_of"
+    ],
+    [
+      "Middle East Institute",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Raqqa",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Raqqa",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Syrian Democratic Forces",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Syrian Democratic Forces",
+      "Syrian",
+      "based_in0-x"
+    ]
+  ]
+}

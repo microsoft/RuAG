@@ -1,0 +1,40 @@
+{
+  "content": "Would-be killer of Prophet Muhammad cartoonist stands trial\nIn Denmark, the trial of a Somali man charged with the attempted murder of a cartoonist who drew caricatures of the Prophet Muhammad has begun. Last year the suspect tried to break into the cartoonist's home with an axe.\nThe trial of a 29-year-old Somali man accused of attempting to murder a cartoonist who drew caricatures of the Prophet Muhammad is set to begin Wednesday. The charges stem from an incident in January, 2010 where the suspect tried to enter the home of cartoonist Kurt Westergaard by taking an axe to the front door. Police were quickly on the scene and shot and wounded the Somali suspect, who also faces charges of attempted terrorism, attacking a police officer and illegal arms possession. Westergaard was one of a dozen Danish cartoonists who sparked a deep controversy in Denmark in 2005 when the Jyllands-Posten newspaper published a series of cartoons depicting the Muslim Prophet Muhammad. Controversial cartoons The Muslim world was quick to protest the publication of the cartoons, especially after they were reprinted outside Denmark. Westergaard has received a number of death threats over the drawings. The Jyllands-Posten itself has been the target of violent plots as well. At the end of December, Danish and Swedish police arrested five men accused of planning a killing spree of the newspaper's staff at their offices in Copenhagen. Westergaard has maintained that his drawing did not necessarily depict the Prophet Muhammad, and that he intended to show a terrorist who evokes Islam and abuses it. Author: Matt Zuvela (AFP, dpa) Editor: Michael Lawton",
+  "relations": [
+    [
+      "Kurt Westergaard",
+      "Denmark",
+      "citizen_of"
+    ],
+    [
+      "Kurt Westergaard",
+      "Danish",
+      "citizen_of-x"
+    ],
+    [
+      "Jyllands-Posten",
+      "Denmark",
+      "based_in0"
+    ],
+    [
+      "Jyllands-Posten",
+      "Danish",
+      "based_in0-x"
+    ],
+    [
+      "Danish",
+      "Denmark",
+      "gpe0"
+    ],
+    [
+      "Copenhagen",
+      "Denmark",
+      "in0"
+    ],
+    [
+      "Copenhagen",
+      "Danish",
+      "in0-x"
+    ]
+  ]
+}

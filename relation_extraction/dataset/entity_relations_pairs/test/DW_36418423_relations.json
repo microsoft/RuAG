@@ -1,0 +1,65 @@
+{
+  "content": "Ex-Euro Olympic boss Hickey released on bail in Brazil\nThe former European Olympic Committee president Patrick Hickey - awaiting trial over an alleged ticketing scam - has been released on bail in Rio. The 71-year old can now leave the country for medical treatment.\nBrazilian judge Juliana Leal de Melo - who serves on a court overseeing amateur and professional sports - authorized the release of Hickey's passport upon payment of 1.5 million real ($435,000) bail. Hickey could now have medical treatment, the Rio state court system said in a statement. Reported to have a heart condition, Hickey was arrested three months ago during the Rio de Janeiro Olympics on ticket scalping charges. He is awaiting trial, though has not been imprisoned. Hickey has denied any wrongdoing. He is one of 10 people facing charges of ticket scalping, conspiracy and ambush marketing related to the Olympics. Hickey said he would fight \"each and every one” of the Rio Games ticket-touting charges he faces. Hickey, who was also the head of the Olympic Council of Ireland, was released from custody last month, but must remain in Brazil until the case is heard. \"For clarity, I am not under house arrest as, like with so many things with this case, has been misreported by the media,” Hickey said in a statement on Monday. Hickey was arrested on 10 August at a luxury beachfront hotel during the games. The authorities told Reuters last week that they believe the ring had operated for around eight years and was preparing for other Olympic events such as the 2020 Tokyo Games. jbh/bw (AP, AFP)",
+  "relations": [
+    [
+      "Rio de Janeiro",
+      "Brazil",
+      "in0"
+    ],
+    [
+      "Rio de Janeiro",
+      "Brazilian",
+      "in0-x"
+    ],
+    [
+      "Patrick Hickey",
+      "European Olympic Committee",
+      "head_of"
+    ],
+    [
+      "Patrick Hickey",
+      "Olympic Council of Ireland",
+      "head_of"
+    ],
+    [
+      "Patrick Hickey",
+      "European Olympic Committee",
+      "member_of"
+    ],
+    [
+      "Patrick Hickey",
+      "Olympic Council of Ireland",
+      "member_of"
+    ],
+    [
+      "Juliana Leal de Melo",
+      "Brazil",
+      "agent_of"
+    ],
+    [
+      "Juliana Leal de Melo",
+      "Brazilian",
+      "agent_of-x"
+    ],
+    [
+      "Juliana Leal de Melo",
+      "Brazil",
+      "citizen_of"
+    ],
+    [
+      "Juliana Leal de Melo",
+      "Brazilian",
+      "citizen_of-x"
+    ],
+    [
+      "Rio de Janeiro Olympics",
+      "Brazil",
+      "event_in0"
+    ],
+    [
+      "Brazilian",
+      "Brazil",
+      "gpe0"
+    ]
+  ]
+}

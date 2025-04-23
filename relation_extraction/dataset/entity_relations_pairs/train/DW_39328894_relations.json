@@ -1,0 +1,50 @@
+{
+  "content": "Man found guilty of abusing Russian-German teenager who fabricated rape story\nA man found guilty of abusing a minor has been handed a 21-month suspended sentence. The case involved the same teenager caught up in last year's \"Lisa case,\" which caused a diplomatic row between Germany and Russia.\nIsmet S., aged 24, was found guilty of child abuse and producing child pornography after he admitted before a Berlin court to having consensual sex with a minor and filming it. The case garnered widespread attention as the minor in question was the same girl implicated in last year's \"Lisa case.\" That case, which received global media attention, involved a 13-year-old German girl of Russian origin saying that she had been kidnapped and raped, implying people of Middle Eastern origin were to blame. The girl, identified only as Lisa, told her parents that she was kidnapped on January 11 by three men, who looked \"southern\" and spoke broken German. Her lawyer then said that was taken to an apartment, where she was abused and raped. However, police said they had not found evidence to support the rape claim. Nevertheless, Russian Foreign Minister Sergey Lavrov accused Berlin authorities of trying to cover up the case, which in turn caused outrage in the Russian media The case strained diplomatic ties between Germany and Russia before \"Lisa\" admitted that she had lied. She had in fact run away from home and was staying with a 19-year-old male friend. As part of the investigation into the alleged rape, authorities also came across another older man Ismet S., who had had sex with Lisa a few months earlier, knowing that she was underage. Despite qualifying as abuse, consent proves crucial the ruling The court recognized that the defendant had cooperated during police questioning and hearing, sparing Lisa from going before the court. Nevertheless, she was present in the Tiergarten court when the judgment was read out. A speaker for the court also said they had taken into account that Ismet S. and Lisa had In Germany, the age of consent is 14. While non-consensual sex with a minor is considered statutory rape under German law, in cases where the act is considered consensual the crime is treated as child abuse. That worked in Ismet S's favor as he received 21-month suspended sentence. Any sentence longer than two years cannot be suspended and he would have faced prison. He was also ordered to pay a fine of 3,000 euros, which will go towards a victim compensation fund. dm/msh (AFP)",
+  "relations": [
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Sergey Lavrov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergey Lavrov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergey Lavrov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergey Lavrov",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Sergey Lavrov",
+      "Russian",
+      "minister_of-x"
+    ]
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "content": "France's Fabius delivers doubts over moderate Syria opposition\nFrench Foreign Minister Laurent Fabius has said he is \"pessimistic\" about the strength of the moderate opposition to Syria's government. Fabius voiced skepticism about the likelihood of success at planned peace talks.\nThe French Foreign Minister said that, while France would continue to work towards proposed talks in Geneva in January, hopes that they would provide any kind of resolution were becoming increasingly remote. \"On Syria, I'm unfortunately rather pessimistic,\" Fabius said as he left the World Policy Conference, a meeting of political and business leaders in Monaco. \"The moderate opposition that we support is in serious difficulty,\" he said. Talks have been scheduled for January 22 in the Swiss city - the next stage of extensive diplomatic efforts to bring together warring factions from within Syria's borders. However, Fabius said there were concerns that any progress would be made. \"My fellow European ministers and I are working to make (the talks) a success, but there's room for lots of doubts,\" said Fabius. \"And unfortunately, if this meeting's not a success, it means this martyred country is going to keep suffering - and neighboring countries, too,\" he said. The Syrian government and opposition are to send delegates to the so-called Geneva-2 conference. However, Fabius said that the weakened position of the opposition led him to believe it had lost bargaining powers with Syrian President Bashar al-Assad's regime. \"Bashar al-Assad says he will send representatives to Geneva,\" said Fabius. \"While Mr Assad has a lot of faults, he is not an idiot... we can't see why he would hand over all his powers.\" The more moderate factions of the opposition to al-Assad have faced mounting difficulties this year, increasingly losing ground to Islamist fighters. There was a further blow on Thursday when the US and Britain said they would suspend the provision of non-lethal aid to the Free Syrian Army after an increasingly strong rebel group, the Islamic Front, took over a Turkish border crossing and weapons warehouses nearby. The civil war in Syria has now raged for more than two-and-a-half years and killed more than 126,000 people. rc/lw (AFP, Reuters)",
+  "relations": [
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Laurent Fabius",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Laurent Fabius",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Laurent Fabius",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Laurent Fabius",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Laurent Fabius",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Geneva",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "World Policy Conference",
+      "Monaco",
+      "event_in0"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Free Syrian Army",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Free Syrian Army",
+      "Syrian",
+      "based_in0-x"
+    ]
+  ]
+}

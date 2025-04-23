@@ -1,0 +1,45 @@
+{
+  "content": "France's Peugeot 'back in the race' as profit rebounds\nThe French car group PSA Peugeot Citroen has turned the corner on earnings and logged its first profit since 2010. The about-face came in the wake of cost-cutting measures and a joint venture with China.\nPSA Peugeot Citroen said Wednesday its operating profit in the first six months of 2014 totaled 477 million euros ($640 million), reversing a loss of 100 million euros in the same period one year ago. With 1.54 million cars sold from January to June - a year-on-year increase of 5.5 percent - revenues amounted to 27.6 billion euros. Depressed by currency fluctuations, the figure was slightly lower than last year, PSA Peugeot Citroen. Free cash flow, an important measure for auto makers, improved to 1.7 billion euros from just 203 million a year ago. \"The commitment of all the partners at the group to the Back in the Race strategic plan allowed PSA Peugeot Citroen to reap the first results of its turnaround,\" Chief Executive Carlos Tavares said in a statement.\" Tavares unveiled a four-year turnaround strategy earlier this year aimed at boosting profitability by producing fewer models and expanding sales in emerging markets. In addition, the French state and Chinese carmaker Dongfeng became shareholders in PSA, effectively rescuing the company after losses of more than 7 billion euros in the previous two years. PSA's recovery was led by the group's auto division which had logged an operating profit of 7 million euros. This marked a significant improvement over a loss of 538 million euros in the first half of 2013. Sales grew mainly in European car markets, up 11.7 percent, and in China. In Russia and Latin America, losses were also curbed. uhe/cjc (Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "PSA Peugeot Citroen",
+      "France",
+      "based_in0"
+    ],
+    [
+      "PSA Peugeot Citroen",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Carlos Tavares",
+      "PSA Peugeot Citroen",
+      "head_of"
+    ],
+    [
+      "Carlos Tavares",
+      "PSA Peugeot Citroen",
+      "member_of"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Dongfeng",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Dongfeng",
+      "Chinese",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "content": "Woman who searched for Mexico's \"disappeared\" is slain \nMiriam Rodriguez was known for her courage facing Mexico's drug gangs after her daughter disappeared. She was killed on Mother's Day in Mexico. \nA Mexican human rights activist who tirelessly searched for her missing daughter and organized more than 600 families to look for disappeared persons was shot to death in the northern state of Tamaulipas, authorities said on Thursday. Miriam Rodriguez was shot multiple times by unknown gunmen at her home in town of San Fernando on Wednesday, which is Mother's Day in Mexico. After her daughter went missing in 2012, Rodriguez led a search that found her child's remains in an unmarked grave. She later identified the perpetrators tied to the Zetas drug cartel, nine of whom were arrested. One of the men held responsible for her daughter's death recently escaped from prison, but Tamaulipas state attorney's office said he was quickly recaptured. Still, they responded to threats against Rodriguez by providing police patrols three times a day at her house. More than 30,000 people have gone missing in drug gang-ravaged Mexico in the last decade. Citizen Community in Search of the Disappeared in Tamaulipas, the group Rodriguez founded, is one of dozens of civic organizations that have sprouted up to find disappeared persons in the absence of what they say is the state's failure to find the missing. \"Mexico has become a very dangerous place for those who have the courage to devote their lives to search for missing persons,\" Erika Guevara Rosas, Amnesty International director for the Americas, said in response to Rodriguez's murder. \"The nightmare they face not knowing the fate or whereabouts of their relatives and the dangers they face in their work, which they perform given the negligent response from the authorities, is alarming,\" she said. The governor of Tamaulipas, Francisco García Cabeza de Vaca, condemned Rodriguez's murder. \"The state of Tamaulipas will not allow the death of Miriam Rodriguez to be another statistic,\" he said on Twitter. cw/rc (AP, dpa, Reuters)",
+  "relations": [
+    [
+      "Miriam Rodriguez",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Miriam Rodriguez",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "San Fernando",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "San Fernando",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Citizen Community in Search of the Disappeared",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "Citizen Community in Search of the Disappeared",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Citizen Community in Search of the Disappeared",
+      "Tamaulipas",
+      "based_in1"
+    ],
+    [
+      "Mexican",
+      "Mexico",
+      "gpe0"
+    ],
+    [
+      "Tamaulipas",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Tamaulipas",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Zetas",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "Zetas",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Erika Guevara Rosas",
+      "Amnesty International",
+      "head_of"
+    ],
+    [
+      "Erika Guevara Rosas",
+      "Amnesty International",
+      "member_of"
+    ],
+    [
+      "Francisco García Cabeza de Vaca",
+      "Tamaulipas",
+      "agent_of"
+    ],
+    [
+      "Francisco García Cabeza de Vaca",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Francisco García Cabeza de Vaca",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Francisco García Cabeza de Vaca",
+      "Tamaulipas",
+      "head_of_gov"
+    ]
+  ]
+}

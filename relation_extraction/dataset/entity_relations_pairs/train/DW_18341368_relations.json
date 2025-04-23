@@ -1,0 +1,225 @@
+{
+  "content": "Spain mourns victims of Germanwings crash\nThree days of mourning are under way in Spain following Tuesday's Germanwings plane crash as relatives of 35 Spanish victims prepare to visit the crash site in the French Alps. Nik Martin reports from Barcelona.\nSpain held a minute's silence at noon on Wednesday for the victims of the Germanwings plane crash. The occasion was marked at Barcelona's El Prat airport where dozens of staff, passengers and reporters paid their respects to the 150 people on board the ill-fated airliner. A similar commemoration was held at the regional headquarters of the Spanish Professional Football League (LFP) and at Barcelona's Gran Teatre del Liceu, where two of the plane's victims - opera singers Oleg Bryjak and Maria Radner - had recently performed Richard Wagner's Siegfried. In the capital Madrid, both houses of Parliament and several government offices stopped for a minute of reflection. Spanish Prime Minister Mariano Rajoy flew to France with Catalan president Artur Mas on Wednesday and was due to visit the crash site later in the day. Three days of national mourning were declared and across the country, flags were lowered to half-mast at many public buildings. Shocked and traumatized In hotels close to Barcelona airport, the Red Cross is helping to provide psychological support to relatives of those killed in Tuesday's crash. Family members have been giving DNA samples to help identify the victims' remains. \"We have teams working three shifts - about 175 people - a lot of people are visiting hotels and homes in the Barcelona area giving psychological support,\" Oscar Velasco from Cruz Roja Espanola told DW. The Red Cross is assisting as many as 60 families, including nationals from Germany, Turkey and Morocco as well as Spain. They have doctors, counselors and translators to help those bereaved. \"It is huge task helping families come to terms with this personal shock and it's important to maintain their privacy so they can begin the process of accepting the situation,\" added Velasco. Spain is liaising with French officials to organize a relatives' trip to the crash site, and the Red Cross thinks that will happen in the next day or two. Local media report that several families have already driven themselves to the French Alps, attempting to get as close as possible to the scene of the accident. 'Was it someone we know?' As the country began three days of mourning, several Barcelona residents described their disbelief at hearing of the tragedy. \"I immediately thought of my friends in Germany, and my sister called me in tears, knowing that I was due to fly any day, to check I was safe,\" Andres Aguinaga told DW. Another resident Manuel Leon said his family was stunned: \"We have friends who work in Germany and they regularly fly back and forth. We immediately thought 'Were they on the plane?'\" he said. Counselors have also been brought in to help students at a high school in Llinars del Valles. Many of them have been left traumatized by the deaths of 16 German schoolchildren who had been visiting the tiny Catalan town as part of an exchange program. On Tuesday evening, hundreds of them attended a memorial Mass for the victims at a church in the town, about 40 kilometers (25 miles) north of Barcelona. With many Germans owning second homes in Spain and thousands of Spanish working in Germany due to the country's financial crisis, some Barcelona residents said the relationship between the two countries made the crash an even more significant tragedy.",
+  "relations": [
+    [
+      "Germanwings",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Germanwings",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Germanwings",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "El Prat",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "El Prat",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "El Prat",
+      "Barcelona",
+      "based_in2"
+    ],
+    [
+      "El Prat",
+      "Spain",
+      "in0"
+    ],
+    [
+      "El Prat",
+      "Spanish",
+      "in0-x"
+    ],
+    [
+      "Barcelona",
+      "Spain",
+      "in0"
+    ],
+    [
+      "Barcelona",
+      "Spanish",
+      "in0-x"
+    ],
+    [
+      "Llinars del Valles",
+      "Spain",
+      "in0"
+    ],
+    [
+      "Llinars del Valles",
+      "Spanish",
+      "in0-x"
+    ],
+    [
+      "Professional Football League",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Professional Football League",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Oscar Velasco",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Oscar Velasco",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Oscar Velasco",
+      "Cruz Roja Espanola",
+      "member_of"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "Gran Teatre del Liceu",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Gran Teatre del Liceu",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Gran Teatre del Liceu",
+      "Barcelona",
+      "based_in2"
+    ],
+    [
+      "Oleg Bryjak",
+      "Gran Teatre del Liceu",
+      "member_of"
+    ],
+    [
+      "Maria Radner",
+      "Gran Teatre del Liceu",
+      "member_of"
+    ],
+    [
+      "Siegfried",
+      "Richard Wagner",
+      "created_by"
+    ],
+    [
+      "Madrid",
+      "Spain",
+      "in0"
+    ],
+    [
+      "Madrid",
+      "Spanish",
+      "in0-x"
+    ],
+    [
+      "Parliament",
+      "Spain",
+      "agency_of"
+    ],
+    [
+      "Parliament",
+      "Spanish",
+      "agency_of-x"
+    ],
+    [
+      "Parliament",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Parliament",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spain",
+      "head_of_gov"
+    ],
+    [
+      "Mariano Rajoy",
+      "Spanish",
+      "head_of_gov-x"
+    ],
+    [
+      "Artur Mas",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Artur Mas",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Artur Mas",
+      "Catalan",
+      "head_of_state-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

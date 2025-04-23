@@ -1,0 +1,155 @@
+{
+  "content": "Sarkozy leads VE Day ceremony in Paris\nIn one of his final official duties before he hands over power to Francois Hollande, outgoing French President Nicolas Sarkozy has lead commemorations in Paris marking the end of World War II in Europe.\nFrench President Nicolas Sarkozy laid a wreath Tuesday at the statue of Charles de Gaulle, to begin VE Day celebrations in the French capital Paris. Known around the world as VE Day, the 8th of May marks the surrender by Germany to Allied forces 67 years ago at the end of World War II. In what is set to be one of the final official ceremonies of his single five year term, Sarkozy then inspected French troops at the Arc de Triomphe war memorial. The Arc de Triomphe has a special significance for World War II since Adolf Hitler marched his Nazi troops through the iconic monument when Germany took over France in 1940. \"Issues that unite us all\" In his first official function since winning the election on Sunday, President-elect Francoise Hollande then joined Sarkozy at the Arc de Triomphe to take part in a wreath laying ceremony for World War I veterans. Sarkozy and Hollande stood side-by-side as a military band played the Marseillaise and the Chant des Partisans, the anthem of the French Resistance, before both shook hands with veterans. \"There are issues that unite us all, beyond the person of Nicolas Sarkozy or of me,\" Hollande told journalists in a brief statement after the ceremony. The 57-year-old Socialist won elections on Sunday, ousting right-winger Sarkozy, and is due to take office formally on May 15. al/mz (AP, AFP)",
+  "relations": [
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "World War II",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "World War II",
+      "France",
+      "event_in0"
+    ],
+    [
+      "Charles de Gaulle",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Charles de Gaulle",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francoise Hollande",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Francoise Hollande",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francoise Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francoise Hollande",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Francoise Hollande",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "VE Day",
+      "France",
+      "event_in0"
+    ],
+    [
+      "VE Day",
+      "Paris",
+      "event_in2"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Arc de Triomphe",
+      "France",
+      "in0"
+    ],
+    [
+      "Arc de Triomphe",
+      "Paris",
+      "in2"
+    ],
+    [
+      "Adolf Hitler",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Adolf Hitler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Adolf Hitler",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Nazi",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "World War I",
+      "France",
+      "event_in0"
+    ],
+    [
+      "French Resistance",
+      "France",
+      "based_in0"
+    ],
+    [
+      "French Resistance",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Socialist",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Socialist",
+      "French",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "content": "Cambodia: New Asian tiger thrives amid autocracy\nHun Sen, Cambodia’s prime minister and Asia’s longest ruling leader is hosting the World Economic Forum on Asia and more than 700 delegates just weeks before an election. Manuela Kasper-Claridge reports from Phnom Penh.\n\"Cambodia is more capitalistic than the United States,\" says Tassilio Brinzer and enjoys how surprised his conversational partner is to hear that. Brinzer, a man in his late forties sits at a beautiful wooden table with a freshly brewed beer in front of him. Behind him, some people are shooting pool. \"Hops\", as it is called, serves Cambodian and Asian dishes but also Bratwurst and Currywurst. It is located in the central part of Cambodia's capital Phnom Penh. Outside, the traffic is roaring and Brinzer is visibly pleased with his pub. He even brought a master brewer in from Germany. Brinzer has been living in Cambodia for many years. Aside from his pub, he owns a restaurant, an advertising publishing company and three magazines. \"Fifteen years ago, there wasn't a single building here that was higher than 5 stories,\" he says. \"Look around now!\" Cambodia's success stories and its tragic personal stories There is a new building being constructed at almost every corner. Stylish apartments with balconies are going up, as are commercial buildings with several dozen floors. The construction boom is driven by Chinese money and an economic boom that is almost unparalleled. During the past ten years, the Cambodian economy has grown by at least 7 percent year after year. That makes the South East Asian country one ofthe fastest growing economies in the world. But there are no signs of widespread wealth. Many people continue to be desperately poor. Especially in rural areas farmers can barely live on what their harvest provides. The average income is $1,200 per year. But it is important to remember that the state of the country had been catastrophic. It started with the reign of terror that the Khmer Rouge unleashed between 1975 and 1979 when they essentially tried to take the country back to the Stone Age. More than 2 million people were murdered or died of hunger and disease. What followed were years of civil war, which didn't really end completely until the mid-1990s. The heart of ASEAN Few remnants of the past are visible in the capital. There are modern street cafes, which serve baguettes or macarons, and you can find restaurants from US fast food chains throughout the city. Their offerings complement the many street food stands, which sell homemade Asian specialties at little plastic tables. \"It is much easier to set up a business in Cambodia than in Vietnam or Thailand,\" stresses Ratana Phurik-Callebaut, Executive Director of the European Chamber of Commerce in Cambodia. All that is required is a deposit of $2,000 at a bank as a security, then you can get started, she adds. And companies can be 100 percent foreign-owned. \"We are well located, we are in the heart of ASEAN.\" Education is the key But there reasons why foreign companies aren't founding subsidiaries here in droves. Compared to neighboring Vietnam or Thailand, the country is relatively small. There are a little less than 16 million people here and many of them lack a decent education. \"After all, the Khmer Rouge killed all the teachers back then and then the doctors, the nurses, the accountants and many more,\" says Tassilo Brinzer, who is married to a Cambodian woman. \"Almost every family lost several people. A quarter of the population - and especially the educated ones - were practically annihilated.\" The repercussions of this genocide can still be felt today. On many buildings there are posters with job offers for well-trained people. It is difficult to fill positions, say entrepreneurs. What is easy, however, is to find unskilled labor and it will probably take at least one more generation until the level of education among the population is reasonably good. The emergence of a middle class Tassilo Brinzer is familiar with the complaints because he runs the working group \"German business,\" which has 28 members including Porsche, Bayer and DHL. His colleague from the European Chamber of Commerce thinks that Cambodia mainly has an image problem. \"Foreign companies don't know much about Cambodia. They just think about the past but we see here even the emergence of a middle class,\" she emphasizes and goes on to mention several positive figures. The fact that the World Economic Forum on Asia is convening in Phnom Penh from May 10 through 12 is generally viewed as the achievement of prime minister Hun Sen who has been ruling the country with an iron fist for 32 years. His liberal economic course has boosted growth but critics see no cause for celebration. They talk about human rights violations and growing corruption. In June, Hun Sen is up for re-election. He continues to see his country as closely allied with China, both politically and economically. The WEF's Global Competitiveness Report criticizes Cambodia citing \"poor governance und lack of transparency.\" Regardless, there are big posters in central Phnom Penh: \"Welcome to the Delegates of the World Economic Forum on Asia.\"",
+  "relations": [
+    [
+      "World Economic Forum",
+      "Cambodia",
+      "event_in0"
+    ],
+    [
+      "World Economic Forum",
+      "Phnom Penh",
+      "event_in2"
+    ],
+    [
+      "Hun Sen",
+      "Cambodia",
+      "agent_of"
+    ],
+    [
+      "Hun Sen",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Hun Sen",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Hun Sen",
+      "Cambodia",
+      "head_of_gov"
+    ],
+    [
+      "Hun Sen",
+      "Cambodian",
+      "head_of_gov-x"
+    ],
+    [
+      "Khmer Rouge",
+      "Cambodia",
+      "based_in0"
+    ],
+    [
+      "Khmer Rouge",
+      "Cambodian",
+      "based_in0-x"
+    ],
+    [
+      "Phnom Penh",
+      "Cambodia",
+      "in0"
+    ],
+    [
+      "Phnom Penh",
+      "Cambodian",
+      "in0-x"
+    ],
+    [
+      "Cambodian",
+      "Cambodia",
+      "gpe0"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Ratana Phurik-Callebaut",
+      "European Chamber of Commerce",
+      "head_of"
+    ],
+    [
+      "Ratana Phurik-Callebaut",
+      "European Chamber of Commerce",
+      "member_of"
+    ],
+    [
+      "European Chamber of Commerce",
+      "Cambodia",
+      "based_in0"
+    ],
+    [
+      "European Chamber of Commerce",
+      "Cambodian",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

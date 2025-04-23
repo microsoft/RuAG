@@ -1,0 +1,190 @@
+{
+  "content": "Xi meets with S African President Zuma ahead of BRICS summit\nChinese President Xi Jinping is meeting with his South African counterpart Jacob Zuma ahead of the BRICS summit in Durban. Joining Brazil, Russia and India, the five nations are seeking to establish a development bank.\nXi received a formal welcome complete with a 21-gun honor guard salute Tuesday in the South African capital, Pretoria. Zuma and Xi are expected to sign several agreements before traveling to Durban later in the day. BRICS summit to kick off Finance ministers at the BRICS summit, which will begin its fifth edition with a dinner banquet hosted by Zuma, are expected to present a feasibility study on the establishment of a new development bank to challenge the World Bank's decades-long dominance. Many in the developing world consider the World Bank, as well as the International Monetary Fund, to be western-dominated. Each of the five nations could be expected to contribute as much as $10 billion to capitalize the bank. Some have suggested that South Africa, the smallest country in the group, could host the bank in Pretoria in lieu of providing a large cash injection. Zuma has said the summit is also an opportunity to address South Africa's economic problems. \"BRICS provides an opportunity for South Africa to promote its competitiveness,\" he said. \"It is an opportunity to move further in our drive to promote economic growth and confront the challenge of poverty, inequality and unemployment that afflicts our country.\" Presidents Dilma Rouseff of Brazil, Vladimir Putin of Russia, Prime Minister Manmohan Singh of India, as well as Xi and Zuma, will be in attendance for the presentation from economics ministers on Wednesday. Brazil, Russia, India, China and South Africa account for 25 percent of global GDP and 40 percent of the world's population, economic data show. African investment The Chinese president arrived in South Africa from Tanzania, where he signed agreements to boost Beijing's trade, economic and cultural ties with the country. It is Xi's first since taking office. During a speech in Dar es Salaam Tuesday, Xi vowed to continue a $20 billion (15.5 billion euro) credit line to African nations over the next two years. China has become one of the world's leading investors in Africa. Trade last year between China and South Africa totaled $60 billion, accounting for almost one third of China's trade in Africa. Trade with the continent reached around $200 billion last year, up from just $1 billion in 2000. After the BRICS summit, Xi will travel to the Republic of Congo. dr/hc (AFP, dpa, PTI)",
+  "relations": [
+    [
+      "Xi Jinping",
+      "China",
+      "agent_of"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Xi Jinping",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Xi Jinping",
+      "China",
+      "head_of_state"
+    ],
+    [
+      "Xi Jinping",
+      "Chinese",
+      "head_of_state-x"
+    ],
+    [
+      "Xi Jinping",
+      "Jacob Zuma",
+      "is_meeting"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Jacob Zuma",
+      "S African",
+      "citizen_of-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "head_of_state"
+    ],
+    [
+      "Jacob Zuma",
+      "S African",
+      "head_of_state-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South African",
+      "head_of_state-x"
+    ],
+    [
+      "Jacob Zuma",
+      "Xi Jinping",
+      "is_meeting"
+    ],
+    [
+      "Durban",
+      "South Africa",
+      "in0"
+    ],
+    [
+      "Durban",
+      "S African",
+      "in0-x"
+    ],
+    [
+      "Durban",
+      "South African",
+      "in0-x"
+    ],
+    [
+      "S African",
+      "South Africa",
+      "gpe0"
+    ],
+    [
+      "BRICS summit",
+      "South Africa",
+      "event_in0"
+    ],
+    [
+      "BRICS summit",
+      "Durban",
+      "event_in2"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "South African",
+      "South Africa",
+      "gpe0"
+    ],
+    [
+      "Pretoria",
+      "South Africa",
+      "in0"
+    ],
+    [
+      "Pretoria",
+      "S African",
+      "in0-x"
+    ],
+    [
+      "Pretoria",
+      "South African",
+      "in0-x"
+    ],
+    [
+      "Dilma Rouseff",
+      "Brazil",
+      "agent_of"
+    ],
+    [
+      "Dilma Rouseff",
+      "Brazil",
+      "citizen_of"
+    ],
+    [
+      "Dilma Rouseff",
+      "Brazil",
+      "head_of_state"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Manmohan Singh",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Manmohan Singh",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Manmohan Singh",
+      "India",
+      "head_of_gov"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Dar es Salaam",
+      "Tanzania",
+      "in0"
+    ]
+  ]
+}

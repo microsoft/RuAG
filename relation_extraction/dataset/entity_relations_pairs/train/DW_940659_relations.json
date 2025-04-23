@@ -1,0 +1,105 @@
+{
+  "content": "Germany's Bankrupt Cities to Get Some Relief\nThe federal government plans to relieve cash-strapped German cities like Berlin and Frankfurt by introducing more taxes. Everything from services to swimming pools has been cut during the financial crisis.\nFrankfurt will close its ballet in 2004. One of Berlin's four major opera houses is also on the chopping block. The financial crisis both major cities find themselves in is being repeated ad infinitum across Germany, where swimming pools and day-care centers have been shut down over the summer months because of a lack of money. Now Chancellor Gerhard Schröder wants to do something about it. Following a meeting with top politicians and his economic and finance ministers during his vacation in Hanover Monday, word leaked out that Schröder planned to relieve the financial burden of Germany's cities to the tune of more than €4.5 billion ($5.1 billion). More taxes for business, self-employed Though details of the plan have yet to be formally announced, news reports suggested the government would close tax loopholes open to big business and distribute a large portion, some €854 million in 2004 according to one report, of the value-added tax paid to the federal government each year to the cities. The government would also introduce an occupational tax for freelancers and self-employed. That, together with existing plans to role the social and welfare benefits the city pays its unemployed into one payment, should significantly ease the burden, government members told reporters Monday evening. Opposition politicians, who did not take part in the meeting with members of Schröder's coalition government, greeted the plan with suspicion. The general secretary of the conservative Christian Democratic Union told German television that the tax on freelancers and self-employed was especially curious. \"We can't punish\" those who are carrying the burden, Meyer said. No investment, more on the dole After years of expansion and building in German cities, the country's communities find themselves in a downward spiral. Less investment is coming in, meaning lower economic output. Fewer people are paying taxes and more are on the dole. In the past ten years alone, investment has dropped by €11 billion, according to the German Association of Cities and Communities (DStGB). The most glaring example is the capital. Thanks to a corrupt former government and the collapse of a bank, Berlin is in debt to the tune of €40 billion. Streets have become endless construction sites, where the money to complete the work has run out. Swimming pools have closed in the heat of summer, and fountains are drying up. \"If these developments continue like this and aren't stopped, then we'll have to cut a major part of these services,\" said Gerd Landsberg, of the DStGB in a radio interview. \"We will make clear that politicians\" have a responsibility.",
+  "relations": [
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German Association of Cities and Communities",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Association of Cities and Communities",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Association of Cities and Communities",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Association of Cities and Communities",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Hanover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hanover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Christian Democratic Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democratic Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Meyer",
+      "Christian Democratic Union",
+      "member_of"
+    ],
+    [
+      "Gerd Landsberg",
+      "German Association of Cities and Communities",
+      "member_of"
+    ]
+  ]
+}

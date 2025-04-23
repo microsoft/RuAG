@@ -1,0 +1,65 @@
+{
+  "content": "Catholic priest Carlo Alberto Capella to face Vatican trial for child pornography \nA Catholic diplomat was recalled from the Washington embassy despite US requests to charge him in the country. He allegedly possessed and exchanged \"a large quantity\" of child pornography.\nA high-ranking Vatican diplomat will face trial in the Holy See on charges of possessing child pornography in the US and Canada. Catholic priest Carlo Alberto Capella was indicted on Saturday after a Vatican investigation found he had allegedly possessed and exchanged \"a large quantity\" of child pornography during his diplomatic posting. His trial will start on June 22 in front of a Vatican magistrate. If convicted, he could be sentenced to between one and five years in prison and fined between €2,500 and €50,000 ($2,100 to $42,000). He is being held in the city's police barracks. Read more: Australian archbishop becomes most senior cleric convicted of hiding abuse Diplomatic immunity The monsignor was recalled from the Washington embassy after US authorities alerted the Vatican to his alleged crimes and requested his diplomatic immunity be stripped. The church rejected the request and withdrew him in September to face investigation at home. Shortly afterwards, Canadian authorities issued an arrest warrant for allegedly possessing and distributing child pornography while visiting a church in Canada. The Capella case has hampered the Catholic Church's attempts to move on from its myriad of pedophile priest scandals. There has been particular focus in recent months on the Chilean branch of the Catholic Church ignoring and covering up of child abuse by pedophile priest Fernando Karadima during the 1980s and 1990s. Pope Francis wrote a letter to Chileans last week expressing \"shame\" for the affair despite previously defending one of the main alleged offenders behind the cover-up. The Vatican's third-highest ranking official, Cardinal George Pell, is facing trial in Australia on abuse-related charges. aw/kms (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Carlo Alberto Capella",
+      "Vatican",
+      "agent_of"
+    ],
+    [
+      "Carlo Alberto Capella",
+      "Catholic Church",
+      "member_of"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Australian",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Canadian",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "Fernando Karadima",
+      "Catholic Church",
+      "member_of"
+    ],
+    [
+      "Francis",
+      "Vatican",
+      "agent_of"
+    ],
+    [
+      "Francis",
+      "Catholic Church",
+      "head_of"
+    ],
+    [
+      "Francis",
+      "Vatican",
+      "head_of_state"
+    ],
+    [
+      "Francis",
+      "Catholic Church",
+      "member_of"
+    ],
+    [
+      "George Pell",
+      "Vatican",
+      "agent_of"
+    ],
+    [
+      "George Pell",
+      "Catholic Church",
+      "member_of"
+    ]
+  ]
+}

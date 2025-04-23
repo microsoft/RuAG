@@ -1,0 +1,210 @@
+{
+  "content": "Berlin's ex-finance chief probed for controversial immigrant remarks\nThilo Sarazzin, Berlin's outspoken ex-finance chief who sparked outrage by making disparaging remarks about the capital's Arab and Turkish populations, is being investigated for suspicions of inciting racial hatred.\nA spokesman for the state prosecutor's office in Berlin said on Friday that investigators were looking into comments made by Sarrazin in an interview this week, criticizing certain immigrant groups in the German capital for not being productive enough. \"The authorities are examining whether the transcript of the interview crossed limits on free speech and whether there are initial suspicions for a crime,\" the spokesman told news agency AP. Sarrazin, an executive board member of Germany's federal bank, the Bundesbank, told magazine Lettre International that Berlin's large Arab and Turkish populations were unwilling to integrate and worsened the city's considerable economic problems. \"A large number of Arabs and Turks in this city, whose number has grown through bad policies, have no productive function other than as fruit and vegetable vendors,\" Sarrazin, 64, told the quarterly magazine. Citing Berlin's high jobless rate compared to the national average, he said part of the city's problems lay in the fact that 40 percent of births were among the \"lower class\". He also took aim at what he called a \"slob factor\" in the capital. \"I do not need to accept people who live on handouts from a state they reject and who are not adequately concerned about the education of their children, and constantly produce new, little headscarf-clad girls,\" he said. \"That goes for 70 percent of the Turkish and 90 percent of the Arab population of Berlin.\" Far-right party applauds comments The comments have triggered a storm of outrage across Germany. \"This is outrageous,\" Kenan Kolat, who heads the Turkish Association in Germany, told news agency dpa. Uwe Foullong of the Ver.di trade union called the comments \"scandalous\" and \"extreme right-wing.\" Sarrazin, a member of the Social Democratic Party (SPD), also faces calls for his expulsion. \"After these comments, Thilo Sarrazin can no longer be tolerated in the party,\" Eva Hoegl, a SDP member of the Berlin state parliament told newspaper Rheinische Post. Gerhard Schick, a parliamentarian from the Green Party told the newspaper Frankfurter Rundschau that Sarrazin had damaged the reputation of the Bundesbank with his controversial comments and had clearly violated the bank's rules of conduct. The Bundesbank issued a statement saying it distanced itself resolutely from Sarrazin's \"discriminatory remarks.\" Sarrazin said in a statement on Thursday he regrets the comments and did not mean to insult anyone. His remarks have however been applauded by the far-right NPD party. The party said that Berlin's former finance chief \"had hit the nail on the head when it came to Germany's development as a country.\" No stranger to controversy It's not the first time Sarrazin has stirred controversy with his outspoken comments which earned him the nickname \"Rambo.\" The belligerent 64-year-old established a reputation for criticizing the habits and slovenliness of Berlin's lower class during his seven-year term in political office in the city. At one point, he complained about people wandering the streets all day in jogging pants, and his department published a document demonstrating that the unpopular unemployment benefit known as Hartz IV still provided more than enough money for a well-balanced diet. sp/AP/dpa Editor: Andreas Illmer",
+  "relations": [
+    [
+      "Social Democratic Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democratic Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Thilo Sarrazin",
+      "Berlin",
+      "agent_of"
+    ],
+    [
+      "Thilo Sarrazin",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thilo Sarrazin",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thilo Sarrazin",
+      "Social Democratic Party",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bundesbank",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundesbank",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundesbank",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundesbank",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kenan Kolat",
+      "Turkish Association",
+      "head_of"
+    ],
+    [
+      "Kenan Kolat",
+      "Turkish Association",
+      "member_of"
+    ],
+    [
+      "Turkish Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Turkish Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "dpa",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "dpa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Uwe Foullong",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Uwe Foullong",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Uwe Foullong",
+      "Ver.di",
+      "head_of"
+    ],
+    [
+      "Uwe Foullong",
+      "Ver.di",
+      "member_of"
+    ],
+    [
+      "Ver.di",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Ver.di",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Eva Hoegl",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Eva Hoegl",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Eva Hoegl",
+      "Social Democratic Party",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Rheinische Post",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Rheinische Post",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Gerhard Schick",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerhard Schick",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Schick",
+      "Green Party",
+      "member_of"
+    ],
+    [
+      "Green Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Green Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Frankfurter Rundschau",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Frankfurter Rundschau",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "NPD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "NPD",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

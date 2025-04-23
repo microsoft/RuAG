@@ -1,0 +1,65 @@
+{
+  "content": "Documentary on anti-Semitism in Europe to be screened, despite controversy \nGerman-French public broadcaster Arte received criticism for deciding not to show the film. Then, Germany's largest tabloid made it available online. Now, the documentary will be screened on TV.\nOn Wednesday, the documentary titled \"Chosen and Excluded - Jew Hatred in Europe\" will be shown on German television. On June 21, the film will be broadcast at 10:15 pm on the public channel ARD. The documentary about discrimination against Jews in Europe was commissioned by the German-French broadcaster Arte. After an editor accepted the film and the filmmakers Sophie Hafner and Joachim Schroeder received their fee, Arte refused to screen the film. The reason, said the broadcaster, was that the subject matter did not correspond to the project as it was initially described. Instead of focusing on growing anti-Semitism in Europe, the film focused instead on the Middle East. The editorial offices were \"deliberately left in the dark\" about the changes until immediately before the film was delivered, according to Arte. Additionally, there were \"concerns\" related to the film's \"craftsmanship.\" Allegations and accusations without confrontation For this reason, the station WDR, which commissioned the film with Arte, investigated the documentary's content. In the opinion of the review team, it contains facts which are not sufficiently substantiated with supporting documentation. Furthermore, there were allegations against individuals in the film who were then not given the opportunity to comment. Allowing comment is considered standard journalistic practice. However, the documentary will be screened regardless and viewers will be able to make up their own minds about the content. In order to allow different positions to be heard, the station has planned a discussion panel, which will air after the documentary is broadcast. Criticism against public broadcasters Arte and WDR's approach to the issue has caused a stir. The president of the Central Council of Jews in Germany, Josef Schuster, said in a letter to the stations he was surprised that the documentary would not be screened as planned. Historians such as Michael Wolffsohn and Götz Aly praised the film. Aly even accused the Arte program director of censorship. On June 13, Germany's largest tabloid \"Bild\" put the documentary online for 24 hours. According to the publication's own data, it received around 200,000 clicks. ld/sh/als (epd, dpa)",
+  "relations": [
+    [
+      "Arte",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Arte",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Arte",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Chosen and Excluded - Jew Hatred in Europe",
+      "Sophie Hafner",
+      "created_by"
+    ],
+    [
+      "Chosen and Excluded - Jew Hatred in Europe",
+      "Joachim Schroeder",
+      "created_by"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Central Council of Jews in Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Central Council of Jews in Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Josef Schuster",
+      "Central Council of Jews in Germany",
+      "head_of"
+    ],
+    [
+      "Josef Schuster",
+      "Central Council of Jews in Germany",
+      "member_of"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

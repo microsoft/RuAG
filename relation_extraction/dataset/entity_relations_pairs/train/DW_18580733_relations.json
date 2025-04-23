@@ -1,0 +1,45 @@
+{
+  "content": "Young Ugandan athletes on track for success\nA new generation of Ugandan athletes is training hard to make it into international competitions. Encouraged by the success at the London Olympics, what they lack in resources, the runners make up for in determination.\nMoses Asonya, a retired Ugandan athlete, has embarked on a journey to train his country’s next gold medalists in athletics. After a successful career representing Uganda in several international competitions, the former 400-meter distance runner is training a group of ten young Ugandans with high athletic hopes. Without a classroom or formal academy, Asonya meets his students on a local pitch. The team, ranging in age from 8 to 25 years old, practices for at least an hour every morning. Most of the athletes draw inspiration from global stars like Uganda's London Olympic marathon gold medalist Stephen Kiprotich. Asonya hopes that with hard work and perseverance, Ugandans will soon be able to compete with athletes from other African countries including Kenya, Ethiopia and Eritrea.",
+  "relations": [
+    [
+      "Moses Asonya",
+      "Uganda",
+      "citizen_of"
+    ],
+    [
+      "Moses Asonya",
+      "Ugandan",
+      "citizen_of-x"
+    ],
+    [
+      "Moses Asonya",
+      "Ugandans",
+      "citizen_of-x"
+    ],
+    [
+      "Stephen Kiprotich",
+      "Uganda",
+      "citizen_of"
+    ],
+    [
+      "Stephen Kiprotich",
+      "Ugandan",
+      "citizen_of-x"
+    ],
+    [
+      "Stephen Kiprotich",
+      "Ugandans",
+      "citizen_of-x"
+    ],
+    [
+      "Ugandan",
+      "Uganda",
+      "gpe0"
+    ],
+    [
+      "Ugandans",
+      "Uganda",
+      "gpe0"
+    ]
+  ]
+}

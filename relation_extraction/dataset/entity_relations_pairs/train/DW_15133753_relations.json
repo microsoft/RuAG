@@ -1,0 +1,145 @@
+{
+  "content": "Preliminary E. coli tests on sprouts prove negative\nInitial tests on sprouts from a market garden in Lower Saxony have turned up negative for E. coli. An outbreak of the bacteria has killed 22 people and made hundreds of others ill.\nPreliminary results conducted on sprouts from a farm in northern Germany have proved negative for E. coli. The agriculture ministry in the state of Lower Saxony said that tests on 23 of 40 samples found them to be free of E. coli. The testing is continuing. This comes a day after researchers named vegetable sprouts as the most likely source of the outbreak. Gert Lindemann, agriculture minister for Lower Saxony, said a market garden in the rural district of Uelzen had yielded a connection \"involving all the main outbreaks\" of the disease, which is thought to have affected more than 2,000 people. \"From our view, this is the most concrete source,\" said Lindemann. Although there was no definitive proof on Sunday, the ministry said the indications were strong enough to suggest people avoid sprouts for the time being. On Monday, German Consumer Affairs Minister Ilse Aigner said that despite the negative intial tests, the warning against eating sprouts and certain other vegetables remained in effect. \"Independent of the evidence from Lower Saxony, the Robert Koch Institute and the Federal Institute for Risk Assessment are for now sticking to their guidelines for raw cucumbers, tomatoes and lettuce, in northern Germany in particular,\" she told reporters at a press conference in Berlin. As well as apparent connections to the major outbreak, one employee of the northern German farm in question had also contracted the infection, authorities said. The farm, not far south of Hamburg, where the outbreak began, has been shut down pending conclusive results. All its products have been recalled as a precaution. The plant nursery grows a wide variety of sprouts from seeds imported from different countries. All the people who have become ill due to enterohaemorrhagic Escherichia coli (EHEC) bacteria either live in or have recently visited northern Germany. Spain plans to seek compensation The EHEC outbreak, which has claimed at least 22 lives in Europe and spread to 12 countries, was previously linked to a shipment of Spanish cucumbers upon which a different strain of E. coli was discovered. Spanish farmers have said they will seek compensation for losses incurred after their product was linked to the illness. Spain and Germany are to hold talks on this issue on Wednesday, after a Tuesday meeting of the European Commission and EU members. EU Agriculture Commissioner Dacian Ciolos said on Sunday, however, that no immediate decision on possible financial aid for farmers would be taken during Tuesday's talks. Russia and Portugal have already imposed a total ban on imports of vegetables from the EU. E. coli bacteria cause symptoms such as diarrhea, queasiness, vomiting and stomach pains. Extreme EHEC infections can lead to hemolytic-uremic syndrome, which causes severe kidney damage and can sometimes be fatal. Author: Mark Hallam, Chuck Penfold (AFP, dpa, Reuters) Editor: Michael Lawton",
+  "relations": [
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lower Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Gert Lindemann",
+      "Lower Saxony",
+      "agent_of"
+    ],
+    [
+      "Gert Lindemann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gert Lindemann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gert Lindemann",
+      "Lower Saxony",
+      "minister_of"
+    ],
+    [
+      "German Consumer Affairs",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Consumer Affairs",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Consumer Affairs",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Consumer Affairs",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Consumer Affairs",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Ilse Aigner",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Ilse Aigner",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Ilse Aigner",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Federal Institute for Risk Assessment",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Institute for Risk Assessment",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Institute for Risk Assessment",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Institute for Risk Assessment",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "European Commission",
+      "EU",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "EU",
+      "part_of"
+    ],
+    [
+      "Dacian Ciolos",
+      "EU",
+      "member_of"
+    ],
+    [
+      "Dacian Ciolos",
+      "European Commission",
+      "member_of"
+    ]
+  ]
+}

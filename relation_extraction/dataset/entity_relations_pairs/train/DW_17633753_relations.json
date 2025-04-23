@@ -1,0 +1,60 @@
+{
+  "content": "China oil drilling sparks violent protest in Vietnam\nThousands of workers in southern Vietnam have staged a violent protest against China, trashing property and setting buildings on fire. A dispute over islands in the South China Sea prompted the rampage.\nOn Wednesday, buildings at an industrial park in southern Vietnam showed signs of looting, some standing partially destroyed as the result of a mass protest. Hours earlier, thousands of anti-China demonstrators had rampaged the site. They targeted properties in the Singapore-run park believed to be owned by China companies. Authorities detained some 500 protesters linked to the unrest, according to news agency AFP. \"Extremists\" had aggravated the protests, which began peacefully on Tuesday evening, the deputy head of the province's people's committee, Tran Van Nam, said. At least 15 buildings were set on fire. Anti-China protesters then trashed a number of others. The Chinese government later expressed concern about the incident and had requested that Hanoi take the necessary steps to put the crimes to a stop. Officials from Taiwan also responded to the violent protest, summoning the Vietnamese ambassador, according to news agency DPA. Some of their buildings came under attack by demonstrators who were believed to have mistaken them for Chinese companies. Tuesday's demonstration against Beijing was not the first in Vietnam. Late last week, hundreds of protesters gathered before the Chinese Embassy in Hanoi, expressing their infuriation at the situation. A territorial dispute over the Paracel Islands - known as Hoang Sa in Vietnam and Xisha in China - in the South China Sea sparked the protests. In recent weeks, an oil-drilling venture by China has angered Vietnam. Hanoi claims the drilling is illegal. Beijing has refused to halt operations. Last week, there were reports of clashes between Vietnamese and Chinese vessels in the areas. According to Hanoi, the disputed waters belong to Vietnam's exclusive economic zone as defined by the 1982 UN Convention on the Law of the Sea. However, Beijing has controlled the islands since seizing them in 1974. kms/mkg (AP, AFP)",
+  "relations": [
+    [
+      "Tran Van Nam",
+      "Vietnam",
+      "citizen_of"
+    ],
+    [
+      "Tran Van Nam",
+      "Vietnamese",
+      "citizen_of-x"
+    ],
+    [
+      "Hanoi",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Hanoi",
+      "Vietnamese",
+      "in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Vietnamese",
+      "Vietnam",
+      "gpe0"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Embassy",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Embassy",
+      "Hanoi",
+      "in2"
+    ],
+    [
+      "UN Convention on the Law of the Sea",
+      "Vietnam",
+      "signed_by"
+    ]
+  ]
+}

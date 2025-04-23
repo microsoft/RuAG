@@ -1,0 +1,295 @@
+{
+  "content": "Germany Irked by US Approach to Missile Shield\nAmerican plans to station part of an anti-missile system in Poland and the Czech Republic without consulting Russia met with criticism from German Foreign Minister Frank-Walter Steinmeier, according to a media report.\nThe proximity of the US missile batteries to the Russian border should have convinced officials in Washington of the need to brief their counterparts in Moscow about plans to build portions of an anti-missile shield in the two eastern European countries. \"One should have spoken with Russia earlier as the sites where they (the missiles) are to be stationed are edging closer to Russia,\" Steinmeier told the German business daily Handelsblatt in an interview to be published Monday. \"Given the strategic nature of such projects, I call for a prudent approach and intensive dialogue with all partners who are directly or indirectly affected.\" Russian President Vladimir Putin last week accused the United States of making the world a more place with its plans for an anti-missile system. \"One-sided illegitimate action hasn't solved a single problem and has become a generator of many human tragedies, a source of tension,\" Putin said. Iran not a threat to Europe US Secretary of Defense Robert Gates insisted that the missile system, which calls for placing 10 interceptor missiles in Poland and the Czech Republic, was not directed against Russia but to protect Europe from missiles launched in the Middle East. Steinmeier, however, dismissed any potential threat posed by Iranian rockets, saying Tehran did not possess the technology to make such an attack. He also spoke out against any immediate new sanctions against Iran over its nuclear policies. \"The most recent resolution of the UN Security Council does not contain any automatic mechanism for the situation where Iran does not fulfill its obligations,\" he said. US waiting for Poland's official answer The leader of the oppositions Greens party, Fritz Kuhn, said the German government needed to make it clear to US Secretary of State Condoleezza Rice during her visit to Berlin this week that it would not support placing missiles in the two EU and NATO member countries. \"What the USA is doing can only be understood by Russia as a provocation,\" he told Monday's Saarbrücker Zeitung. Exactly how much criticism Germany needs to give the US remains unclear as Poland has yet to decide if it will allow the Americans to station missiles within the country. \"We are preparing an answer that I think we will give to the American administration by diplomatic means within two weeks,\" new Polish Defense Minister Aleksander Szczyglo told Poland's PAP news agency on Sunday.",
+  "relations": [
+    [
+      "Security Council",
+      "UN",
+      "institution_of"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "part_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Handelsblatt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Handelsblatt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Robert Gates",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Robert Gates",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Robert Gates",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Robert Gates",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Robert Gates",
+      "United States",
+      "minister_of"
+    ],
+    [
+      "Robert Gates",
+      "American",
+      "minister_of-x"
+    ],
+    [
+      "Robert Gates",
+      "Americans",
+      "minister_of-x"
+    ],
+    [
+      "Iranian",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Tehran",
+      "Iranian",
+      "in0-x"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Fritz Kuhn",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Fritz Kuhn",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Fritz Kuhn",
+      "Greens",
+      "head_of"
+    ],
+    [
+      "Fritz Kuhn",
+      "Greens",
+      "member_of"
+    ],
+    [
+      "Condoleezza Rice",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Condoleezza Rice",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Condoleezza Rice",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Condoleezza Rice",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Condoleezza Rice",
+      "United States",
+      "minister_of"
+    ],
+    [
+      "Condoleezza Rice",
+      "American",
+      "minister_of-x"
+    ],
+    [
+      "Condoleezza Rice",
+      "Americans",
+      "minister_of-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Saarbrücker Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Saarbrücker Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Polish",
+      "Poland",
+      "gpe0"
+    ],
+    [
+      "Aleksander Szczyglo",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Aleksander Szczyglo",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Aleksander Szczyglo",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Aleksander Szczyglo",
+      "Poland",
+      "minister_of"
+    ],
+    [
+      "Aleksander Szczyglo",
+      "Polish",
+      "minister_of-x"
+    ],
+    [
+      "PAP",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "PAP",
+      "Polish",
+      "based_in0-x"
+    ]
+  ]
+}

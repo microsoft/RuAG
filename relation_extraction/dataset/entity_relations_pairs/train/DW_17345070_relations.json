@@ -1,0 +1,105 @@
+{
+  "content": "South Sudan peace negotiators 'met this morning'\nSouth Sudan's government and rebels have both claimed that they have finally started peace talks. The talks, held in Ethiopia, are aimed at brokering a ceasefire to end the violence that has rocked the fledgling nation.\nA series of false starts initially delayed talks, with separate negotiations between intermediaries required and the release of several political prisoners held by Salva Kiir's government a sticking point. But after both sides finally agreed to negotiation regulations on Monday, they claimed that talks finally began the next day. The negotiations have been brokered by the Intergovernmental Authority on Development (IGAD), an eight-nation bloc in Eastern Africa including South Sudan. \"This morning at nine we met,\" South Sudan's Information Minister Michael Makuei told AFP, adding that the topics raised were an end to hostilities and \"the question of detainees.\" Mabior Garang, one of opposition leader Riek Machar's delegation, confirmed to Reuters that talks had begun. Makuei also said, however, that some members of his team had returned to the South Sudanese capital of Juba to consult with the government and that there would be \"no direct negotiations until they come back today.\" Fighting began in the world's most recently formed country on December 15 when President Kiir accused troops loyal to his then-deputy Riek Machar of trying to stage a coup to overthrow him. While Kiir's government remains in power, the ensuing fighting - much of it sectarian between members of rival tribes - has led to more than 1,000 deaths, according to the United Nations. An estimated 200,000 others have fled their homes. Kiir is an ethnic Dinka, while Machar is Nuer - although both leaders claim the conflict is primarily political. Sudan's role increases Sudan, from which South Sudan seceded in 2011 after years of war, has played an increasingly prominent role in a bid to bring peace back to the world's newest county. The still uneasy neighbors remain tied together by their shared oil industry, leading to a visit to Juba by Sudan's President Omar al-Bashir. \"We have come to see what we can do to stop this war knowing all too well that armed conflict would never resolve a problem and also knowing that any problem no matter how complicated can be solved at the negotiation table,\" Bashir said on Monday. ph/msh (AP, AFP, Reuters)",
+  "relations": [
+    [
+      "Michael Makuei",
+      "South Sudan",
+      "agent_of"
+    ],
+    [
+      "Michael Makuei",
+      "South Sudan",
+      "citizen_of"
+    ],
+    [
+      "Michael Makuei",
+      "South Sudanese",
+      "citizen_of-x"
+    ],
+    [
+      "Michael Makuei",
+      "South Sudan",
+      "minister_of"
+    ],
+    [
+      "Michael Makuei",
+      "South Sudanese",
+      "minister_of-x"
+    ],
+    [
+      "Mabior Garang",
+      "South Sudan",
+      "citizen_of"
+    ],
+    [
+      "Mabior Garang",
+      "South Sudanese",
+      "citizen_of-x"
+    ],
+    [
+      "Salva Kiir",
+      "South Sudan",
+      "agent_of"
+    ],
+    [
+      "Salva Kiir",
+      "South Sudan",
+      "citizen_of"
+    ],
+    [
+      "Salva Kiir",
+      "South Sudanese",
+      "citizen_of-x"
+    ],
+    [
+      "Salva Kiir",
+      "South Sudan",
+      "head_of_state"
+    ],
+    [
+      "Salva Kiir",
+      "South Sudanese",
+      "head_of_state-x"
+    ],
+    [
+      "Omar al-Bashir",
+      "Sudan",
+      "agent_of"
+    ],
+    [
+      "Omar al-Bashir",
+      "Sudan",
+      "citizen_of"
+    ],
+    [
+      "Omar al-Bashir",
+      "Sudan",
+      "head_of_state"
+    ],
+    [
+      "Riek Machar",
+      "South Sudan",
+      "citizen_of"
+    ],
+    [
+      "Riek Machar",
+      "South Sudanese",
+      "citizen_of-x"
+    ],
+    [
+      "South Sudanese",
+      "South Sudan",
+      "gpe0"
+    ],
+    [
+      "Juba",
+      "South Sudan",
+      "in0"
+    ],
+    [
+      "Juba",
+      "South Sudanese",
+      "in0-x"
+    ]
+  ]
+}

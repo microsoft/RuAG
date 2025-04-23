@@ -1,0 +1,220 @@
+{
+  "content": "Turkey riles NATO with Chinese whispers\nTurkey is sending mixed signals over whether it will buy a multi-billion dollar anti-missile defense system from NATO allies or China. Turkey's posturing could backfire, writes Jacob Resneck from Istanbul.\nTurkey's announcement in 2013 that it had accepted a $3.4 billion (2.9 billion euros) bid from a blacklisted Chinese company sent shockwaves to its western allies because the system would be incompatible with existing infrastructure by linking up with a rival military power. \"NATO will never allow a Chinese system to be linked to its own infrastructure for fear of China could then discover the underlying logistics, could use it for cyber attacks and things like that,\" said former Turkish diplomat Sinan Ulgen, now an analyst with the Center for Economics and Foreign Policy Studies in Istanbul. \"So it's not just a matter of technological compatibility - it's much more than that.\" In a written response to parliamentary questions, Turkish Defense Minister Ismet Yilmaz suggested that the Chinese system was being actively considered despite its inoperability with NATO's existing systems. \"The system in question will be integrated with the national system for Turkey's defense and will be used without integrating with NATO,\" Yilmaz wrote Thursday. Hours later a senior defense procurement official clarified that no final decision had been made but the implication is clear: Turkey is willing to openly irritate its traditional allies to leverage what it wants: technology transfers, discounts on equipment and respect as an indispensable regional power. Having it both ways One theory is that Turkey may try to buy components from several sources - the US consortium of Raytheon and Lockheed and/or the Franco-Italian firm Eurosam - and still use Chinese components. \"In return Turkey could possibly get some of the technology transfers it seeks,\" Ulgen said. Earlier reports suggested Turkey was postponing the decision until after April 24 when ethnic Armenians around the world will commemorate the 100th anniversary of the purging of ethnic Armenians in the Ottoman Empire. Turkey reportedly planned to use the lucrative defense contract as leverage over the US and European nations not to commemorate what many historians consider the 20th century's first genocide. \"The (defense) minister's announcement looked more political than technical to me,\" said veteran defense journalist Burak Bekdil who says his sources indicate that Turkey plans to use the missile defense contract as leverage over its longstanding dispute over the Armenian debate. The Chinese way China Precision Machinery Import and Export Corp's bid is not only cheaper but includes more technology transfers than the European and American systems which appeals to Turkey's strategy of developing its own military systems independent of its NATO allies. \"Turkish officials do not take seriously the threat of American and Western companies, and it seems like they will be out of the deal as long as they don't meet Turkey's demands concerning technology transfers,\" journalist Ali Unal wrote last year in the pro-government Daily Sabah newspaper. That's been a theme in increasingly strident speeches by Turkish President Recep Tayyip Erdogan who argues that Turkey has the right to a diverse arsenal. \"If NATO is so sensitive on this subject, many countries which are currently NATO members still have Russian weapons in their inventories,\" Erdogan told reporters in 2013. Much of this could be posturing, though the stakes for Turkey's long-term security are high, says Gareth Jenkins, an Istanbul-based researcher with the Silk Road Institute at John Hopkins University who notes it's not the first time Ankara and Beijing have flirted with closer military ties. \"Erdogan wants to demonstrate that Turkey is now a great power and it can do what it wants,\" Jenkins said. \"I think he sees this - as well as the price advantage - as an opportunity for macho posturing which has come to dominate so many of his statements.\" Posture at your peril But defense analysts warn that Turkey is still years - if not decades - away from military independence and runs many risks by alienating its traditional allies. \"If Turkey decides to go for a stand-alone system its long range air defense architecture will have to be deprived of NATO and US assets stationed on Turkish soil,\" Bekdil noted. \"In short, it cannot be an efficient architecture without those assets.\" That's because Turkey continues to be heavily reliant on NATO's hardware - currently a battery of Spanish Patriot missiles are deployed on the Syrian border to defend Turkey from cruise missiles based in Syria. That leaves many questions of where Ankara's priorities lie. Many geopolitical factors are in play as Turkey flirts with traditional allies and rivals alike. \"If Turkey decides to go for the Chinese solution it will have a big message to its NATO allies: that Turkey can only be relied upon as a part-time ally, rather than just an ally,\" Bekdil said. \"It will be a bold Turkish challenge against the West, especially the US.\"",
+  "relations": [
+    [
+      "Ismet Yilmaz",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Ismet Yilmaz",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Ismet Yilmaz",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Ismet Yilmaz",
+      "Turkey",
+      "minister_of"
+    ],
+    [
+      "Ismet Yilmaz",
+      "Turkish",
+      "minister_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Sinan Ulgen",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Sinan Ulgen",
+      "Turkish",
+      "agent_of-x"
+    ],
+    [
+      "Sinan Ulgen",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Sinan Ulgen",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Sinan Ulgen",
+      "Center for Economics and Foreign Policy Studies",
+      "member_of"
+    ],
+    [
+      "Gareth Jenkins",
+      "Silk Road Institute",
+      "member_of"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Istanbul",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Istanbul",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Center for Economics and Foreign Policy Studies",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Center for Economics and Foreign Policy Studies",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Center for Economics and Foreign Policy Studies",
+      "Istanbul",
+      "based_in2"
+    ],
+    [
+      "Raytheon",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Raytheon",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Lockheed",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Lockheed",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Eurosam",
+      "Franco",
+      "based_in0-x"
+    ],
+    [
+      "Eurosam",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "China Precision Machinery Import and Export Corp",
+      "China",
+      "based_in0"
+    ],
+    [
+      "China Precision Machinery Import and Export Corp",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Ali Unal",
+      "Daily Sabah",
+      "member_of"
+    ],
+    [
+      "Daily Sabah",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Daily Sabah",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Silk Road Institute",
+      "John Hopkins University",
+      "part_of"
+    ],
+    [
+      "John Hopkins University",
+      "US",
+      "based_in0"
+    ],
+    [
+      "John Hopkins University",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ]
+  ]
+}

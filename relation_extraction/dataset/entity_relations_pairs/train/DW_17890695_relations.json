@@ -1,0 +1,95 @@
+{
+  "content": "Poland's Tusk and Italy's Mogherini picked for EU top jobs\nEU leaders meeting in Brussels have chosen Polish Prime Minister Donald Tusk as the new European Council president. Italy’s Foreign Minister Federica Mogherini will head the bloc's diplomatic relations.\nOn Saturday, European Council President Herman Van Rompuy (center in photo) announced on Twitter that EU leaders had chosen Polish Prime Minister Donald Tusk (left) to succeed him and Italian Foreign Minister Federica Mogherini (right) to take over from Catherine Ashton as the bloc's new top diplomat. It had been expected that the EU leaders who gathered in Brussels on Saturday would agree on key appointments to the bloc. \"Elected,\" Van Rompuy wrote on Twitter. \"The European Council has elected PM Donald Tusk as the next president of the European Council and Euro Summits.\" And, then, shortly thereafter: Tusk said it was possible to combine austerity and expansion in Europe. \"My experience as prime minister points to the fact that fiscal discipline on one side and economic growth on the other, combining these two challenges is possible,\" Tusk told a news conference in Brussels. The 57-year-old career politician also said he would take on Britain's concerns over the EU: \"No reasonable person can imagine the EU without the UK,\" he said. For his own country, Tusk said his appointment was a strong signal for Poland's future in the Eurozone, although the date and the final decision would be decided by the government in Poland. Mogherini has been Italy's top diplomat since February. The 41-year-old center-left politician said she would work to promote European projects on the international stage: \"We are a dream come true, having to be careful that the dream doesn't turn into a nightmare,\" she said. Mogherini takes up her five-year posting in November. mkg,jm/jr (AFP, dpa, AP)",
+  "relations": [
+    [
+      "Donald Tusk",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Donald Tusk",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Donald Tusk",
+      "Polish",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Tusk",
+      "European Council",
+      "head_of"
+    ],
+    [
+      "Donald Tusk",
+      "Poland",
+      "head_of_gov"
+    ],
+    [
+      "Donald Tusk",
+      "Polish",
+      "head_of_gov-x"
+    ],
+    [
+      "Donald Tusk",
+      "European Council",
+      "member_of"
+    ],
+    [
+      "Federica Mogherini",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Federica Mogherini",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Federica Mogherini",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Federica Mogherini",
+      "Italy",
+      "minister_of"
+    ],
+    [
+      "Federica Mogherini",
+      "Italian",
+      "minister_of-x"
+    ],
+    [
+      "Herman Van Rompuy",
+      "European Council",
+      "head_of"
+    ],
+    [
+      "Herman Van Rompuy",
+      "European Council",
+      "member_of"
+    ],
+    [
+      "Polish",
+      "Poland",
+      "gpe0"
+    ],
+    [
+      "European Council",
+      "European",
+      "institution_of"
+    ],
+    [
+      "European Council",
+      "European",
+      "part_of"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ]
+  ]
+}

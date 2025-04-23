@@ -1,0 +1,125 @@
+{
+  "content": "Prosecutor requests Sarkozy stand trial over 2012 campaign funds\nThe Paris state prosecutor has recommended former French President Nicolas Sarkozy face trial over alleged illegal funding of his failed 2012 campaign. The case could ruin his chances of running for president in 2017.\nThe Paris prosecutor's office said Monday it had asked investigating magistrates to send former French President Nicolas Sarkozy and 13 others to court. The judges in charge of the case must now decide whether to follow the prosecution's recommendations. Sarkozy is accused of false accounting that allowed him to significantly exceed campaign spending limits in 2012. He was handed preliminary charges over the scandal and put under investigation in February. Re-election bid Sarkozy served as president of France between 2007 and 2012, before losing his re-election bid to current Socialist President Francois Hollande. The 61-year-old has announced plans to run for the presidency again in next year's elections, but a criminal trial could hurt his chances of success. To get a spot on the 2017 ballot, Sarkozy will first have to win backing from his conservative party in primaries set for November. His main rival for the nomination of Les Republicains (The Republicans) is Alain Juppe, 71, who has served as prime minister and minister of defense plus foreign minister. Allegations of illegal overspending The illegal funding case hinges on the activity of public relations firm Bygmalion, which organized some of Sarkozy's campaign appearances and is accused of using an invoice system to conceal unauthorized overspending. Bygmalion allegedly charged 18.5 million euros ($21 million) to Sarkozy's right-wing party - then called the UMP, but since renamed Les Republicains - instead of billing the campaign. According to the prosecution, the incorrect invoicing allowed it to greatly exceed the legal spending limit of 22.5 million euros. nm/jil (Reuters, AFP)",
+  "relations": [
+    [
+      "Les Republicains",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Les Republicains",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Socialist",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Socialist",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Alain Juppe",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Alain Juppe",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Alain Juppe",
+      "Les Republicains",
+      "member_of"
+    ],
+    [
+      "Bygmalion",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Bygmalion",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "UMP",
+      "France",
+      "based_in0"
+    ],
+    [
+      "UMP",
+      "French",
+      "based_in0-x"
+    ]
+  ]
+}

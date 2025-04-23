@@ -1,0 +1,180 @@
+{
+  "content": "Court Refuses to Return Seized Art to Nazi Doctor's Relatives\nA Federal Administration Court in Leipzig has decided the town of Chemnitz does not have to return confiscated art objects to the heirs of a Nazi doctor.\nThe Federal Administrative Court in the city of Leipzig said there were no grounds for the restitution of art which has been confiscated by Soviets after World War Two because the doctor in question had been a promoter of Adolf Hitler's ideology. \"The aim of this function was to spread national socialist ideology,\" said the court in a statement. Hundreds of oil paintings, etchings and drawings were allegedly confiscated from Gustav Schuster, who was Director of the Chemitz Women's Clinic, during the Second World War. The artworks, which include paintings by Ludwig Richter, Max Liebermann and Max Klinger, are worth at least 500,000 euros ($662,550). The decision, had it have been different, could have opened the doors to thousands of other claims for compensation for artworks, property and other goods confiscated from 1945 to 1949 by the Soviet forces which occupied the eastern part of Germany after WWII. As it is, legal experts say the ruling could set a different precedent and negatively affect similar restitution claims that could number into the thousands, according to the Süddeutsche Zeitung newspaper, which quoted an official from the German Finance Ministry. Nazis aren't eligible for compensation The German \"Compensation and Just Satisfaction Act\" law, which was passed in 1994, exempts the state from paying compensation if the person from who the goods were confiscated \"extensively\" supported the Nazi regime, or had committed \"crimes against humanity.\" This can give rise to the problem that heirs are disinclined to probe deeply into their family's background. The Süddeutsche Zeitung reported that the lawyers for Schuster's family have presented the court with documents showing that there were 14,427 senior positions in the Nazi regime at the municipal level. The family argues that as one under thousands, Dr. Schuster therefore was only responsible for 0.006 percent of what occurred. However, according to the Süddeutsche Zeitung, there is not doubt that Schuster was jointly responsible for deciding on, and conducting, the forced sterilization of dozens of women. The newspaper quotes the example of a similar court decision made in October when the son of a lawyer for the Nazi regime was awarded compensation for two properties confiscated from his family. Only after the court case, was it revealed that the lawyer was probably involved in the hanging of a deserter in the last days of the war.",
+  "relations": [
+    [
+      "Second World War",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Federal Administration Court",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Administration Court",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Administration Court",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Administration Court",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Leipzig",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Leipzig",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Chemnitz",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Chemnitz",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Nazi",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Nazi",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Gustav Schuster",
+      "Chemitz Women's Clinic",
+      "head_of"
+    ],
+    [
+      "Gustav Schuster",
+      "Chemitz Women's Clinic",
+      "member_of"
+    ],
+    [
+      "Adolf Hitler",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Adolf Hitler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Adolf Hitler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Adolf Hitler",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Adolf Hitler",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "Chemitz Women's Clinic",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Chemitz Women's Clinic",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Ludwig Richter",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ludwig Richter",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Max Liebermann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Max Liebermann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Max Klinger",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Max Klinger",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Finance Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Finance Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Finance Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Finance Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Finance Ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Compensation and Just Satisfaction Act",
+      "Germany",
+      "law_of"
+    ]
+  ]
+}

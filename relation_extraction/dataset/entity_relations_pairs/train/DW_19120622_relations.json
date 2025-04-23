@@ -1,0 +1,105 @@
+{
+  "content": "Obama nominates Merrick Garland to Supreme Court\nUS President Barack Obama has nominated Merrick Garland to serve as the Supreme Court's ninth justice. The president is preparing for a tense battle with Republicans over who will replace the late Antonin Scalia.\nOn Wednesday, President Obama announced his nomination of Garland, the chief judge for the US Court of Appeals for the District of Columbia Circuit. At a press conference on the White House lawn, Obama extolled Garland's virtues, including his integrity, modesty and even-handedness, and his attitude \"that all views deserve a respectful ear.\" \"To find someone with such a long career in public service ... who just about everyone not only respects but genuinely likes, that is rare,\" Obama told reporters. \"And it speaks to who Merrick Garland is, not just as a lawyer, but as a man.\" Washington is gearing up for a tense, months-long battle between the White House and the Republican-controlled Senate, which must confirm the nominee. A lot hinges on the choice to replace the late Antonin Scalia - for both Democrats and Republicans. On one side, Democrats want to preserve the Obama administration's liberal agenda by using the opportunity to tilt the Supreme Court in a more left-leaning direction for the first time in generations. On the other side, Republicans are dead-set on ensuring that a replacement stays true to the legacy of Scalia, a revered conservative who died in February. Gearing up for a fight Congressional Republicans have already said they'd refuse to consider Obama's nomination, insisting they would wait until after the presidential election in November before moving forward with the nomination process. During his press conference, Obama spoke out against the Republicans' position, calling it \"unprecedented.\" \"It is tempting to make this confirmation process simply an extension of our divided politics,\" Obama said. \"But to go down that path would be wrong. It would be a betrayal of our best traditions.\" Obama sent an email to his supporters earlier in the day, in which he defended his decision to go forward with the nomination even as the political atmosphere in the country grows more polarized by the day. \"In putting forward a nominee today, I am fulfilling my constitutional duty. I'm doing my job,\" Obama said. \"I hope that our senators will do their jobs, and move quickly to consider my nominee.\" The 63-year-old Garland, considered a moderate, was confirmed to the DC Circuit in 1997 by both Democrats and Republicans.",
+  "relations": [
+    [
+      "Republicans",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Merrick Garland",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Merrick Garland",
+      "Supreme Court",
+      "member_of"
+    ],
+    [
+      "Supreme Court",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Supreme Court",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "Democrats",
+      "member_of"
+    ],
+    [
+      "Antonin Scalia",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Antonin Scalia",
+      "Supreme Court",
+      "member_of"
+    ],
+    [
+      "Court of Appeals for the District of Columbia Circuit",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Court of Appeals for the District of Columbia Circuit",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Senate",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Senate",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Democrats",
+      "US",
+      "based_in0"
+    ]
+  ]
+}

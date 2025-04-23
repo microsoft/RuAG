@@ -1,0 +1,315 @@
+{
+  "content": "Is China seeking regime-change in North Korea?\nThe sudden reduction in aggressive rhetoric and actions by North Korea has led to suggestions that Pyongyang has realized it has pushed its only ally in the region to the brink of severing its friendship.\nThe announcement in Pyongyang on May 13 of the promotion of Jang Jong-nam to \"minister of the People's Armed Forces\" came out of the blue. Until recently, the little-known commander of an army corps in coastal Kangwon Province, Jang has replaced Kim Kyok-sik, a four-star general with a long track record of loyal service to the regime. The reasons for 70-year-old Kim's replacement are not clear - as with most of the political maneuvers in North Korea - but it may have been his loyalty that cost him his position in the politburo. Kim was widely seen as a hawk in the regime and is believed to have been in command of the operation to shell the South Korean island of Yeonpyeongdo in November 2010, an incident that killed four people, destroyed civilians' homes and infrastructure and dramatically worsened the already strained relationship between Pyongyang and Seoul. By sacrificing Kim, analysts believe, North Korea is signaling that it is backing away from the confrontational stance it adopted after the United Nations imposed new sanctions in the wake of the nation's third underground nuclear test in February. And there are other indicators that Pyongyang is seeking to return to the status quo. The North's troops have been permitted to step down from the highest state of preparedness for war that was initially ordered when South Korea and the US began a series of annual military exercises. Missiles withdrawn Similarly, two Musudan intermediate-range missiles that were identified as being on mobile launchers being operated in eastern areas of the country have apparently been ordered to return to base. In late April, there was concern that test-launches of the missiles would be a further escalation by Kim Jong-un's government and a message that it would not bow to international pressure to halt its nuclear and missile development programs. But the analysts believe the tokens of Pyongyang's goodwill have come too late. \"For the North Korean leader, this is a very difficult time,\" Toshimitsu Shigemura, a professor at Tokyo's Waseda University and an authority on North Korean affairs, told DW. \"Timing is very important here and it is possible that China is moving to abandon Kim Jong-un. The atmosphere between the two nations is changing. China may have decided that it is time for a regime-change in the North, they will not permit the collapse of the country because they do not want chaos on their own borders.\" Further evidence that Beijing is slowly tightening the screw on its erstwhile ally comes as more state-run financial institutions sever their links with banks in North Korea. The latest institution to adhere to the government's orders to halt transactions across the border is the Bank of China, one of the four major banks in the country, which announced on May 7 that it would cease dealings with the Foreign Trade Bank of North Korea, which has been identified as being involved in Pyongyang's nuclear and missile programs. Contingency plan in place Intelligence sources have passed on to DW information that Beijing has a contingency plan in place for when Kim Jong-un's control over the country crumbles. The reports confirm that China is indeed quietly encouraging regime change and is grooming Kim's brother, Kim Jong-nam to take over his role. At 42, Kim Jong-nam is the oldest son of Kim Jong-il, the dictator who ruled North Korea with an iron fist for 17 years until his sudden death in December 2011. Kim Jong-nam had been expected to assume the leadership after his father's death, but fell from favor spectacularly in 2001 when he was detained with two women and a boy aged 4 at Tokyo's Narita International Airport travelling on a forged Dominican Republic passport. He later admitted that he had wanted to visit Disneyland. He subsequently lived in Macau and Beijing, under the close watch of the Chinese authorities. The reports suggest that after Kim Jong-nam is installed in Pyongyang, his brother will be permitted to go into exile, probably in China. The tactic is not without its pitfalls, however, in part due to the efficiency of the campaign to deify their young leader as the future of the nation. Kim Jong-nam as 'new king' \"China may be dreaming of appointing Kim Jong-nam as the new king - and he is more preferable to the West than Kim Jong Un - but the problem is that he is not known in North Korea,\" said Ken Kato, director of Tokyo-based Human Rights in Asia. \"Many people in Japan know much about the North Korean 'Royal Family,' but this information is hidden in North Korea,\" he said. \"Even residents of Pyongyang know very little about Kim Jong-nam.\" Yet the reports are gaining credence among North Korea-watchers. Jun Okumura, a political analyst with the Eurasia Group, told DW that North Korea withdrawing the Musudan missiles under pressure from Beijing is a positive development. \"It's good to know that there is a red line that China is willing to enforce,\" he said. \"This makes the achievement of a tolerable modus vivendi significantly more likely.\" If North Korea fails to stick to that script, Okumura agreed, \"a post-dynasty, puppet regime comes across as plausible.\"",
+  "relations": [
+    [
+      "Jang Jong-nam",
+      "North Korea",
+      "agent_of"
+    ],
+    [
+      "Jang Jong-nam",
+      "North Korea",
+      "citizen_of"
+    ],
+    [
+      "Jang Jong-nam",
+      "North Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Jang Jong-nam",
+      "People's Armed Forces",
+      "head_of"
+    ],
+    [
+      "Jang Jong-nam",
+      "People's Armed Forces",
+      "member_of"
+    ],
+    [
+      "Jang Jong-nam",
+      "North Korea",
+      "minister_of"
+    ],
+    [
+      "Jang Jong-nam",
+      "North Korean",
+      "minister_of-x"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korea",
+      "agent_of"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korea",
+      "citizen_of"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korea",
+      "head_of_gov"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korean",
+      "head_of_gov-x"
+    ],
+    [
+      "Jun Okumura",
+      "Eurasia Group",
+      "member_of"
+    ],
+    [
+      "Kim Kyok-sik",
+      "North Korea",
+      "citizen_of"
+    ],
+    [
+      "Kim Kyok-sik",
+      "North Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Kim Kyok-sik",
+      "People's Armed Forces",
+      "head_of"
+    ],
+    [
+      "Kim Kyok-sik",
+      "People's Armed Forces",
+      "member_of"
+    ],
+    [
+      "Pyongyang",
+      "North Korea",
+      "in0"
+    ],
+    [
+      "Pyongyang",
+      "North Korean",
+      "in0-x"
+    ],
+    [
+      "People's Armed Forces",
+      "North Korea",
+      "agency_of"
+    ],
+    [
+      "People's Armed Forces",
+      "North Korean",
+      "agency_of-x"
+    ],
+    [
+      "People's Armed Forces",
+      "North Korea",
+      "based_in0"
+    ],
+    [
+      "People's Armed Forces",
+      "North Korean",
+      "based_in0-x"
+    ],
+    [
+      "Kangwon Province",
+      "North Korea",
+      "in0"
+    ],
+    [
+      "Kangwon Province",
+      "North Korean",
+      "in0-x"
+    ],
+    [
+      "South Korean",
+      "South Korea",
+      "gpe0"
+    ],
+    [
+      "Yeonpyeongdo",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Yeonpyeongdo",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "Seoul",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Seoul",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "United Nations",
+      "North Korea",
+      "sanctions"
+    ],
+    [
+      "North Korean",
+      "North Korea",
+      "gpe0"
+    ],
+    [
+      "Toshimitsu Shigemura",
+      "Japan",
+      "citizen_of"
+    ],
+    [
+      "Toshimitsu Shigemura",
+      "Waseda University",
+      "member_of"
+    ],
+    [
+      "Tokyo",
+      "Japan",
+      "in0"
+    ],
+    [
+      "Waseda University",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Waseda University",
+      "Tokyo",
+      "based_in2"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Bank of China",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Bank of China",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Trade Bank of North Korea",
+      "North Korea",
+      "based_in0"
+    ],
+    [
+      "Foreign Trade Bank of North Korea",
+      "North Korean",
+      "based_in0-x"
+    ],
+    [
+      "Kim Jong-nam",
+      "Kim Jong-il",
+      "child_of"
+    ],
+    [
+      "Kim Jong-nam",
+      "North Korea",
+      "citizen_of"
+    ],
+    [
+      "Kim Jong-nam",
+      "North Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Kim Jong-nam",
+      "Kim Jong Un",
+      "sibling"
+    ],
+    [
+      "Kim Jong-il",
+      "North Korea",
+      "agent_of"
+    ],
+    [
+      "Kim Jong-il",
+      "North Korea",
+      "citizen_of"
+    ],
+    [
+      "Kim Jong-il",
+      "North Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Kim Jong-il",
+      "North Korea",
+      "head_of_state"
+    ],
+    [
+      "Kim Jong-il",
+      "North Korean",
+      "head_of_state-x"
+    ],
+    [
+      "Kim Jong-il",
+      "Kim Jong-nam",
+      "parent_of"
+    ],
+    [
+      "Narita International Airport",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Narita International Airport",
+      "Tokyo",
+      "based_in2"
+    ],
+    [
+      "Narita International Airport",
+      "Japan",
+      "in0"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Ken Kato",
+      "Japan",
+      "citizen_of"
+    ],
+    [
+      "Ken Kato",
+      "Human Rights in Asia",
+      "head_of"
+    ],
+    [
+      "Ken Kato",
+      "Human Rights in Asia",
+      "member_of"
+    ],
+    [
+      "Human Rights in Asia",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Human Rights in Asia",
+      "Tokyo",
+      "based_in2"
+    ]
+  ]
+}

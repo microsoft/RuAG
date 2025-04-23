@@ -1,0 +1,45 @@
+{
+  "content": "Norwegian pension fund to divest from coal\nThe Norwegian parliament has decided to pull out of investments in the coal sector. Environmental campaigners say this will have a major impact, but still seek closure of potential loopholes.\nThe Norwegian parliament's finance committee announced on Thursday that it intends to divest the country's sovereign wealth fund from the coal industry. Environmental groups have welcomed the Norwegian parliament's decision, saying it shows how lawmakers have responded to public pressure in the global fight against climate change. \"This is very important and will send a very strong signal to coal burning and mining companies all over the world,\" Truls Gulowsen, head of Greenpeace Norway told DW. \"The fund is one of the world's top 10 largest investors in the global coal industry, so this will have a real impact.\" Greenpeace estimates that new regulations would result in around $5 billion (4.6 billion euros) being pulled out of the coal sector. The move has cross-party support, and parliament is set to confirm the decision June 5. \"This is a clear signal to those who use coal that they have to look at other forms of energy,\" Hans Olav Syversen of the Christian Democrats told public broadcaster NRK. The 900 billion euro fund will no longer invest in firms where coal-fired energy accounts for 30 percent or more of their turnover or profit. \"The 30 percent level is a practical and sound approach that others around the world will be able to follow,\" Gulowsen said. Earlier this week, environmental groups delivered a petition with 44,000 signatures urging the Norwegian government to divest from fossil fuels. A recent report co-authored by Greenpeace said that previous moves to withdraw some of the sovereign wealth fund's investment from fossil fuel industry were inadequate, calling them \"pretend divestment.\" Gulowsen told DW that politicians had responded to those criticisms, and that the new decision represented a major step forward. However, he added that Greenpeace and others were calling for a second criteria for divestment, by volume of coal - saying that the fund would still invest in the world's three largest private coal-mining firms. Each of these extracts more than 100 million tons of coal annually, because they are also involved in other mining activities. \"We hope that these miners will also be excluded down the line,\" Gulowsen said. Activists say the global campaign to divest from fossil fuels is gaining momentum, with ever more pension funds, charities, faith groups and universities pulling out of companies that contribute to carbon emissions.",
+  "relations": [
+    [
+      "Greenpeace Norway",
+      "Norwegian",
+      "based_in0-x"
+    ],
+    [
+      "Truls Gulowsen",
+      "Norwegian",
+      "citizen_of-x"
+    ],
+    [
+      "Truls Gulowsen",
+      "Greenpeace Norway",
+      "head_of"
+    ],
+    [
+      "Truls Gulowsen",
+      "Greenpeace Norway",
+      "member_of"
+    ],
+    [
+      "Hans Olav Syversen",
+      "Norwegian",
+      "citizen_of-x"
+    ],
+    [
+      "Hans Olav Syversen",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Christian Democrats",
+      "Norwegian",
+      "based_in0-x"
+    ],
+    [
+      "NRK",
+      "Norwegian",
+      "based_in0-x"
+    ]
+  ]
+}

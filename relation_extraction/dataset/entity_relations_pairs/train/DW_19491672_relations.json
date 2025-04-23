@@ -1,0 +1,80 @@
+{
+  "content": "Kurdish YPG, Assad regime clash in Hasakeh\nThe Kurdish YPG militia has launched a bid to take Hasakeh after calling on pro-government militias to surrender. Fighting over the divided city marks the most violent confrontation between the YPG and Syrian regime yet.\nKurdish militia launched a major assault Monday to capture the entire city of Hasakeh and called on remaining pro-government forces to surrender. The fighting appears to have undone tacit understandings between the YPG and the Syrian army that had kept Hasakeh relatively calm during the past five-year conflict. The Syrian air force attacked the armed Kurdish group for the first time during the war last week, prompting the US-led military coalition to scramble aircraft to protect American special forces troops deployed alongside the YPG. US Navy Captain Jeff Davis warned Damascus that the US-led coalition would do what was needed to protect its forces on the ground. \"The Syrian regime would be well advised not to do things that would place them at risk,\" Davis said Friday. Syrian state media accuses the YPG-affiliated security force known as the Asayish of violating a ceasefire. That was denied in a leafleting campaign that said the YPG intended to take control. \"To all the elements of the regime and its militias who are besieged in the city you are targeted by our units,\" the leaflets read. The loss of Hasakeh would be a strategic blow to President Bashar Assad's government and would be a setback for Russia, which has given air support to Assad's forces to prevent further territorial losses in the country. Thousands of civilians in the city, which is a mix of Arabs and Kurds, including members of the Christian community, have fled to villages in the countryside as the fighting intensified, residents said. Fighting around Hasakeh has killed 43 people including 27 civilians, among them 11 children, since Wednesday, according to the Britain-based Syrian Observatory for Human Rights. Thousands of civilians have now fled Hasakeh, where electricity has been cut and bakeries shut. jar/rc (Reuters, AFP, AP)",
+  "relations": [
+    [
+      "YPG",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "Hasakeh",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Jeff Davis",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Jeff Davis",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Jeff Davis",
+      "US Navy",
+      "member_of"
+    ],
+    [
+      "Bashar Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "US Navy",
+      "US",
+      "agency_of"
+    ],
+    [
+      "US Navy",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "US Navy",
+      "US",
+      "based_in0"
+    ],
+    [
+      "US Navy",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Asayish",
+      "YPG",
+      "part_of"
+    ],
+    [
+      "Syrian Observatory for Human Rights",
+      "Britain",
+      "based_in0"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "content": "Chirac Launches Development Aid Foundation\nFormer French President Jacques Chirac has started a private foundation dedicated to development and environmental issues, as well as cultural preservation. Meanwhile, Chirac still faces corruption accusations.\nChirac will officially inaugurate the foundation at a ceremony in Paris on Monday, June 9, together with supporters like former UN Secretary General Kofi Annan and Nobel Peace Prize winner Mohammad Yunus. \"In the face of major world challenges, I still want to fight,\" said Chirac last week in an interview with the French daily Le Figaro -- his first public interview since leaving office last year. \"The foundation is the perfect tool for this. \"I want to stir and awaken consciences.\" Named after the 75-year-old former president, the foundation has begun half a dozen projects since it was legally established in March with a one-million euro ($1.57 million) endowment and a small staff. The endeavors focus on providing access to clean water and medicine, combating deforestation and preserving dying languages. Chirac is to announce the next set of projects on Monday. Under investigation The inauguration event marks a rare public appearance by the former head of state, who has been battling corruption allegations since losing his presidential immunity last year. He is under suspicion of embezzling city funds for political purposes during his time as mayor of Paris between 1977 and 1995. Last November, he was placed under formal investigation, a major step toward full criminal charges. Chirac denies the allegations.",
+  "relations": [
+    [
+      "Jacques Chirac",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Jacques Chirac",
+      "Development Aid Foundation",
+      "head_of"
+    ],
+    [
+      "Jacques Chirac",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Jacques Chirac",
+      "Development Aid Foundation",
+      "member_of"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Kofi Annan",
+      "UN",
+      "head_of"
+    ],
+    [
+      "Kofi Annan",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Mohammad Yunus",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Le Figaro",
+      "French",
+      "based_in0-x"
+    ]
+  ]
+}

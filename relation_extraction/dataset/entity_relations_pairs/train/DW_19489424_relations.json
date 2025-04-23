@@ -1,0 +1,300 @@
+{
+  "content": "Report: Exercises for military deployment in Germany expected to start soon\nExercises for an internal German military deployment could start as soon as November, a state interior minister has told media. The anti-terror drills involving Bundeswehr and police would be the first of their kind.\nKlaus Bouillon, the head of Germany's interior ministers' conference, said Bundeswehr anti-terror exercises could be approved by the end of the month, in an interview with the \"Rheinische Post\" on Saturday. \"I expect that Defense Minister Ursula von der Leyen and Interior Minister Thomas de Maiziere will greenlight the exercises on August 31,\" Bouillon, who is also the state of Saarland's interior minister, told the newspaper. \"Exercises could begin already in November for an internal Bundeswehr deployment,\" added the minister. So far, military and police exercises are planned in the German states of Saarland, Baden-Württemberg and Saxony-Anhalt, the journalists' consortium \"Redaktionsnetzwerk Deutschland\" reported on Saturday. SPD shift on deployment Bouillon, who is a member of Chancellor Angela Merkel's center-right Christian Democrats (CDU) party, said that he believed the exercises would take place \"in the majority of states.\" Even states led by the Social Democrat party (SPD), which have opposed constitutional changes on the internal deployment of German armed forces in the past, are starting to shift, the interior ministers' conference chief said. \"I also see a movement in SPD-led states for cooperation between police and the Bundeswehr in case of terror and catastrophes,\" Bouillon said. Lower Saxony's SPD interior minister, Boris Pistorius, reportedly suggested in a letter to Bouillon that all of Germany's 16 states should conduct the police and military exercises together. Pistorius suggested that the exercises take place nationwide according to the law and under police command, \"Redaktionsnetzwerk Deutschland\" reported, quoting the letter. New military strategy Germany's constitution, in reaction to the misuse of the military for state-sponsored terror during the Nazi era, allows for domestic military deployments only under special circumstances, including natural disasters and imminent external threats. A 2012 Constitutional Court decision found that the Bundeswehr could also be deployed in the event of terrorist attacks. In July, the Defense Ministry confirmed the legal situation in its \"White Paper\" mapping out Germany's military strategy. The exercises would be the first cooperation between police and armed forces to prepare for terror attacks. Following a spate of violent attacks in Germany, some of which were claimed by the militant \"Islamic State\" group, Chancellor Merkel called for the internal deployment of the military if a major act of terrorism took place. rs/tj (AFP, dpa)",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "head_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Klaus Bouillon",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Klaus Bouillon",
+      "Saarland",
+      "agent_of"
+    ],
+    [
+      "Klaus Bouillon",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Klaus Bouillon",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Klaus Bouillon",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Klaus Bouillon",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Klaus Bouillon",
+      "Saarland",
+      "minister_of"
+    ],
+    [
+      "Social Democrat party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrat party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Constitutional Court",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Constitutional Court",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Constitutional Court",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Constitutional Court",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Boris Pistorius",
+      "Lower Saxony",
+      "agent_of"
+    ],
+    [
+      "Boris Pistorius",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Boris Pistorius",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Boris Pistorius",
+      "Social Democrat party",
+      "member_of"
+    ],
+    [
+      "Boris Pistorius",
+      "Lower Saxony",
+      "minister_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Rheinische Post",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Rheinische Post",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ursula von der Leyen",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Ursula von der Leyen",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Saarland",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Saarland",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Baden-Württemberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Baden-Württemberg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Saxony-Anhalt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Saxony-Anhalt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Redaktionsnetzwerk Deutschland",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Redaktionsnetzwerk Deutschland",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lower Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Defense Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Defense Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Defense Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "Germany",
+      "ministry_of"
+    ]
+  ]
+}

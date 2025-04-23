@@ -1,0 +1,80 @@
+{
+  "content": "Rocket strike kills at least 15 at Afghan wedding\nA rocket fired during fighting between Afghan forces and insurgents has killed at least 15 guests at a wedding in Afghanistan's southern Helmand province. Dozens of others have been wounded.\nThe rocket was assumed to have been fired amid fighting between Afghan Taliban insurgents and the army, which has been battling insurgents in the six months since US forces withdrew from the area. \"At least 15 people were killed and 45 wounded when the rocket struck in a firefight between Afghan security forces and the Taliban,\" said Fareed Ahmad Obaid, police spokesman for Helmand province, earlier Wednesday. Karem Atal, head of Helmand's provincial council, confirmed the incident and said the death toll could increase as many of the wounded were rushed to the hospital. The Associated Press put the death toll higher, saying at least 26 had been killed and that the number could go up to 30. Civilian casualties high in 2014 According to the United Nations, nearly 10,000 civilians and 5,000 soldiers have been killed in Afghanistan this year, 75 percent of them in attacks by the Taliban. Afghanistan's counterterrorism forces have faced a tough challenge in the run-up to the withdrawal of NATO's International Security Assistance Force in January. Afghan security forces will mark the transfer of responsibility from NATO on Thursday. The NATO mission will be reduced to 12,500 troops in 2015, with another 17,000 staying on to assist local police and the army. mg/cmk (AP, Reuters)",
+  "relations": [
+    [
+      "Helmand",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Helmand",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Fareed Ahmad Obaid",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Fareed Ahmad Obaid",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Fareed Ahmad Obaid",
+      "Helmand",
+      "member_of"
+    ],
+    [
+      "Fareed Ahmad Obaid",
+      "Helmand",
+      "spokesperson_of"
+    ],
+    [
+      "Karem Atal",
+      "Helmand",
+      "agent_of"
+    ],
+    [
+      "Karem Atal",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Karem Atal",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "International Security Assistance Force",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "International Security Assistance Force",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "International Security Assistance Force",
+      "NATO",
+      "part_of"
+    ]
+  ]
+}

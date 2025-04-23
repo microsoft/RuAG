@@ -1,0 +1,160 @@
+{
+  "content": "France's conservatives: Combating the National Front with a swing to the right\nA staunch conservative is joining the race for the French presidency. Republican candidate Francois Fillon could turn into a big problem for right-wing extremist Marine Le Pen's National Front.\nFrance's Republicans are moving to the right: by choosing Francois Fillon, voters nominated a presidential candidate who has a reputation as a staunch conservative. The former prime minister has already announced that he intends to refocus politics with the traditional family in mind. Fillon takes a dim view of homosexual couples adopting children. He wants to introduce a cap on the number of refugees allowed into France, he intends to make it harder for foreign nationals to access the social welfare system, and he wants to put Muslim communities and mosques under government control. In addition, Fillon advocates a renationalization of school curricula. Fillon makes gains in FN territory Fillon's agenda could turn out to be a problem for the \"National Front\" (FN). The 62-year-old appeals to similar sentiments as the right-wing party's base: concern about foreign domination and loss of identity, fear of terrorism and crime. \"For a long time, FN was the only political force that addressed those fears,\" said Henrik Uterwedde of the German-French Institute (dfi) in Ludwigsburg. \"Now a politician has arrived on the scene who addresses those fears using a different language and makes them a political offer.\" In rural, Catholic France especially, where traditions still matter a great deal, the avowed Catholic Fillon strikes a chord with his proposals pertaining to family and society policies. He receives support from traditional Catholic groups who, for years, have been able to mobilize crowds for demonstrations against gay marriage. During the intraparty election campaign, Fillon predominantly traveled to France's villages and small towns - regions which FN leader Marine Le Pen had labeled the \"forgotten France,\" regarding herself as their foremost lobbyist. \"Fillon has made gains in an environment that is also canvassed by Le Pen,\" Andreas Jung, Chairman of the Bundestag's German-French parliamentary group, told German broadcaster rbb-Inforadio. \"He does not represent the lofty levels of Parisian politics, but rather provincial entrenchment. Fillon is committed to traditional values, like the family. Therefore, he may not only be capable of defeating Le Pen, but also of taking the lead during the first ballot.\" 'Most dangerous candidate for FN' Consequently, the FN camp is less than enthusiastic about the conservative's candidacy. \"Because of Fillon, we now have a strategy problem,\" Marion Marechal Le Pen, the FN leader's niece, recently told journalists. \"He is the most dangerous candidate for the National Front.\" Pollsters' findings appear to support that statement. Recent surveys establish Fillon as the current favorite in the French presidential election scheduled for next May. However, Fillon's election is not a foregone conclusion. By denouncing the conservative candidate as a member of the establishment, FN tries to win over those who are frustrated with politics and politicians in general. There is persistent opposition against his economic-liberal plans in particular. Fillon wants to abolish the 35-hour working week and raise the retirement age to 65 years. In addition, he wants to cut 500,000 jobs in the public sector and reform industrial law. Fillon is known as an admirer of former British Prime Minister Margaret Thatcher. \"Issues pertaining to liberal economic policy have always been heavily contested in France,\" said Uterwedde. \"Fillon's adversaries have already taken up their positions, criticizing what, in France, is called 'ultra-liberalism.'\" That was one of the nastiest words in French politics, he added. An offer for the left Fillon wants to raise VAT by 2 percent. This would predominantly hurt low-income households. Exactly that clientele, however, is wooed by FN with a program that is regarded as rather left-wing. The right-wing extremists are on a clear anti-globalization course, intending to seal off the French economy against foreign countries and exit from the European Union. The party is already trying to present Fillon as a symbol of anarchic, ultra-liberal capitalism. \"Francois Fillon will even go beyond EU demands for austerity and liberalism,\" David Rachline, Marine Le Pen's election campaign manager, wrote on Twitter. According to current polls, it is very likely that Fillon will have to face Marine Le Pen in a runoff election in May. The main hazard for the Republican candidate: his economic-liberal course could deter left-wing voters from choosing the conservative in order to avert Le Pen. \"Francois Fillon will have to start making offers, also to those voters who are closer to the center and more moderate,\" said France expert Uterwedde. \"And he will, prior to the runoff election at the latest, have to make offers to left-wing voters - without changing his original course.\"",
+  "relations": [
+    [
+      "Francois Fillon",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Fillon",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Fillon",
+      "Republicans",
+      "member_of"
+    ],
+    [
+      "National Front",
+      "France",
+      "based_in0"
+    ],
+    [
+      "National Front",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Marine Le Pen",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Marine Le Pen",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Marine Le Pen",
+      "National Front",
+      "head_of"
+    ],
+    [
+      "Marine Le Pen",
+      "National Front",
+      "member_of"
+    ],
+    [
+      "German-French Institute",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German-French Institute",
+      "Ludwigsburg",
+      "based_in2"
+    ],
+    [
+      "Henrik Uterwedde",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Henrik Uterwedde",
+      "German-French Institute",
+      "member_of"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Republican",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Republican",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Republicans",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Republicans",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Ludwigsburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Andreas Jung",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Andreas Jung",
+      "Bundestag",
+      "member_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "rbb-Inforadio",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Marion Marechal Le Pen",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Marion Marechal Le Pen",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Marion Marechal Le Pen",
+      "National Front",
+      "member_of"
+    ],
+    [
+      "Margaret Thatcher",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Margaret Thatcher",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "David Rachline",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "David Rachline",
+      "French",
+      "citizen_of-x"
+    ]
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "content": "German experts warn against fracking\nThe country’s Federal Environmental Agency says the risk associated with fracking is too big. Ministries involved are pushing for an initial ban on the practice until 2021.\nIn their 600 page document, the agency warns of the dangers of obtaining gas from underground layers of rock. “We do not need fracking gas in Germany,” says Federal Environment Agency (UBA) president Maria Krautzberger. Krautzberger believes that the environmental risks associated with fracking are too considerable and that the process shouldn’t be banned, but instead made impossible by creating tougher stipulations. The only reason why a complete ban shouldn’t be imposed, she adds, is because it would be difficult to legally enforce. Unique technique Hydraulic fracturing, commonly known as fracking, is a process whereby a mix of water and chemicals is pumped into the ground at high pressure. This technology fractures the rock, allowing the underground gas to be released. Recently, the US has seen a real fracking boom. This has allowed Americans to reduce their reliance on energy imports and reduce their greenhouse gas emissions. After all, gas, when burned as fuel, produces less carbon dioxide than coal. But there are environmental concerns. Critics say that the chemicals used in the fracking process can enter the water table. New laws in the Fall The risk of water table pollution is one of the major reasons fracking is unpopular in Germany. German Economic Minister Sigmar Gabriel and Environment Minister Barbara Hendricks have presented a document which will be put forward in the fall. The proposed law aims to ban drilling below 3000 meters (1.9 miles) until 2021. Only in specific circumstances will it be allowed for research purposes. German Chancellor Angela Merkel’s conservative CDU party does have a few fracking supporters in its ranks. But it’s expected the economics and environment ministries will win over the government on the matter. The depth limits have been cleverly selected. All shale gas reserves that are worth any value in Germany are situated between 1000 and 2500 meters beneath the earth’s surface. Thenew study from UBA supports the ministers’ stance. \"Fracking is a risky technology, and for that reason it needs narrow restrictions to protect the environment and human health,\" says Maria Krautzberger. \"Not a climate solution\" The proposed restrictions should prevent companies from attempting to use fracking. According to the UBA, those companies using the technology in Germany have to undergo extensive environmental testing. Krautzberger believes the technique should be completely banned in water reserves, such as marshes or lakes, and protected areas. And even though it has helped the US reduce its greenhouse gas emissions, Krautzberger remains skeptical. \"Fracking is not a solution for protecting our climate, which will help us move across to renewable energy. It would be better if our country concentrated on proven, environmentally-friendly forms of energy.\" But she also points out another environmental problem. According to UBA experts, the liquid released in the process could transport other poisonous subterranean materials \"like heavy metals, aromatic hydrocarbons and, in some places, even radioactive substances.\" While Germany may be shifting towards a partial ban on fracking, other countries are opting in favor of the technique. Poland wants to reach its deep gas reserves as quickly as possible, so as to reduce its reliance on Russia’s gas. The British government also wants to allow fracking in some national parks.",
+  "relations": [
+    [
+      "Federal Environmental Agency",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Environmental Agency",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Environmental Agency",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Environmental Agency",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Maria Krautzberger",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Maria Krautzberger",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Maria Krautzberger",
+      "Federal Environmental Agency",
+      "head_of"
+    ],
+    [
+      "Maria Krautzberger",
+      "Federal Environmental Agency",
+      "member_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Barbara Hendricks",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Barbara Hendricks",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Barbara Hendricks",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Barbara Hendricks",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Barbara Hendricks",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Americans",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "CDU",
+      "member_of"
+    ],
+    [
+      "CDU",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "CDU",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

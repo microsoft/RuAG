@@ -1,0 +1,85 @@
+{
+  "content": "Egypt bans Hamas, labels it a terrorist organization\nAn Egyptian court has banned all activities by the Palestinian militant group Hamas in Egypt. Cairo’s relations with the group have fallen apart since president Morsi’s military-backed ouster.\nA Cairo court on Tuesday ruled on the ban and ordered that Hamas offices in the country be shut down and all dealings with the group suspended. The court also branded Hamas as a terrorist organization. The country's relations with Hamas, which rules neighboring Gaza Strip, have sharply deteriorated since the military removed Islamist president Mohammed Morsi last July. Hamas, the Palestinian chapter of Morsi's Muslim Brotherhood, denounced the move saying it \"serves the [Israeli] occupation.\" Egyptian officials have accused Hamas of plotting with Morsi and his Muslim Brotherhood to carry out \"terror attacks\" in the country. The country's new military-installed authorities, led by military chief Abdel-Fattah el-Sissi, were angered by Hamas officials who openly criticized their decision to outlaw the Muslim Brotherhood, the target of a deadly crackdown since Morsi's ouster. hc/ccp (AFP, AP)",
+  "relations": [
+    [
+      "Hamas",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egypt",
+      "head_of_state"
+    ],
+    [
+      "Mohammed Morsi",
+      "Egyptian",
+      "head_of_state-x"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "Cairo",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Cairo",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Gaza Strip",
+      "Palestinian",
+      "in0-x"
+    ],
+    [
+      "Abdel-Fattah el-Sissi",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Abdel-Fattah el-Sissi",
+      "Egyptian",
+      "agent_of-x"
+    ],
+    [
+      "Abdel-Fattah el-Sissi",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Abdel-Fattah el-Sissi",
+      "Egyptian",
+      "citizen_of-x"
+    ]
+  ]
+}

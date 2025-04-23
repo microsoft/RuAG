@@ -1,0 +1,80 @@
+{
+  "content": "VW chief lobbyist reinstated following emission tests on animals\nVolkswagen executive Thomas Steg has returned to his post after an internal audit cleared him of any legal misconduct. Steg had been leave since January after it emerged he failed to prevent emissions tests on animals.\nGerman carmaker Volkswagen on Wednesday announced it was reinstating chief lobbyist Thomas Steg, following an internal investigation into a series of emissions tests carried out on animals. In a statement, VW auditors said they found no evidence that Steg had committed any legal misconduct in relation to the tests. Nevertheless, Steg issued an apology Wednesday, saying he regretted not doing more to prevent the experiments on monkeys. \"I was convinced that I acted legally when it came to fulfilling my duties and the terms of my employment,\" Steg said. \"Still, I wonder whether I could have done more back in the Spring of 2013 to prevent these tests.\" Read more: Car exhaust monkey test backfires on VW, German carmakers In January, it emerged that a US research laboratory had placed macaque monkeys in airtight chambers and exposed them to diesel exhaust fumes. The tests, which were carried out in 2014, were commissioned by the European Research Group on Environment and Health in the Transport Sector (EUGT) — a now defunct organization founded by German carmakers Volkswagen, Daimler and BMW. The group reportedly wanted to show that diesel emissions were far less dangerous than reported by the World Health Organization, although the results ultimately proved inconclusive. It subsequently emerged that Steg, who before joining VW worked as the German government's deputy spokesman, had known about the experiments back in May 2013 during the planning stages, but failed to prevent them from going ahead. After reports of the tests broke, Steg was placed on a leave of absence \"at his own behest.\" More VW trials under review VW board member Hiltrud Werner welcomed Steg's return, saying it was important that \"employees are fully rehabilitated once a situation such as this is completely resolved and yields a positive result.\" Werner, who oversees corporate integrity and law at the German car giant, added that the board would review all independent trials and research tests involving VW by the second half of the year. Read more: The US market: Volkswagen's Waterloo A day after reports of the animal testing broke, it also emerged that the EUGT had commissioned a trial in Germany where saw 25 people at an Aachen-based university hospital were made to inhale varying amounts of the gas over several hours. According to newspapers, the experiment aimed to test the affects of \"short-term nitrogen dioxide inhalation by healthy people.\" Volkswagen Group continues to maintain almost 1,300 commercial and research partnerships, with more than 100 universities and over 60 institutions in Germany alone. New VW CEO Herbert Diess has vowed to focus future investments into electric vehicles. During last month's annual general meeting, Diess said his aim was for VW to build 3 million electric cars a year by 2025. dm/kms (Reuters, AP, dpa, AFP)",
+  "relations": [
+    [
+      "Thomas Steg",
+      "Volkswagen Group",
+      "head_of"
+    ],
+    [
+      "Thomas Steg",
+      "Volkswagen Group",
+      "member_of"
+    ],
+    [
+      "Volkswagen Group",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Volkswagen Group",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hiltrud Werner",
+      "Volkswagen Group",
+      "head_of"
+    ],
+    [
+      "Hiltrud Werner",
+      "Volkswagen Group",
+      "member_of"
+    ],
+    [
+      "Herbert Diess",
+      "Volkswagen Group",
+      "head_of"
+    ],
+    [
+      "Herbert Diess",
+      "Volkswagen Group",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Daimler",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Daimler",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "BMW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "BMW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Aachen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Aachen",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

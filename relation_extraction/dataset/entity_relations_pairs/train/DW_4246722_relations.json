@@ -1,0 +1,40 @@
+{
+  "content": "Lufthansa closes in on Austrian Airlines takeover\nMore than 85 percent of Austrian Airlines shareholders have reportedly accepted a public takeover offer by Germany's Lufthansa. But rival airlines continue to object to the move as being unfair.\nLufthansa has cleared an important hurdle in its bid to take over cash-strapped Austrian Airlines. Lufthansa holds well over the 75 percent of shares in the company, according to Austrian Airlines (AUA). Shares of AUA rose by more than 12 percent to 4.19 euros ($5.70) after Tuesday's announcement. Austrian Airlines said exact acceptance figures would be made public on Thursday. Lufthansa shares dropped 3 percent on the announcement before recovering to end the day down by one percent. At the end of last year, Lufthansa agreed to buy a 41.6-percent stake in AUA from the Austrian government for 366,000 euros. In exchange, Vienna agreed to assume 500 million euros of the struggling airline's debt. The European Commission opened an investigation after rival airlines complained about Austria's agreement with Lufthansa. The commission is scheduled to rule on the issue by June 17. Lufthansa is reportedly also interested in raising its stake in the British airline BMI to 80 percent this year.",
+  "relations": [
+    [
+      "Lufthansa",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Austrian Airlines",
+      "Austria",
+      "based_in0"
+    ],
+    [
+      "Austrian Airlines",
+      "Austrian",
+      "based_in0-x"
+    ],
+    [
+      "BMI",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Austrian",
+      "Austria",
+      "gpe0"
+    ],
+    [
+      "Vienna",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Vienna",
+      "Austrian",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "content": "Syrian chemical weapons plan behind schedule\nThe US is renewing pressure on Syria to turn over all of its chemical weapons after missing multiple deadlines. Damascus and some experts blame the civil war. Others see a move by Assad to make himself indispensable.\nDoubts held by many experts regarding the timetable for the destruction of Syria's chemical weapons have turned out to be true. According to the plan drawn up by the Organization for the Prohibition of Chemical Weapons (OPCW), all of the Assad regime's poison gas should have been shipped out of Syria by the end of last December. That deadline expired without a single container of chemical weapons leaving the country. A second deadline on February 5, 2014 was also missed. All chemical materials used to produce the weapons should have been transported out of Syria by that date. So far, only 18 containers have been shipped from the Syrian port city of Latakia. Thus far, only 50 tons of chemical weapons out of a planned 1,300 have been loaded for transport. That's just four percent of the Assad regime's total stockpile. If the operation continues at this rate, it will take three years for all of the chemical weapons to be removed from Syria. Yet according to the OPCW's plan, the country's entire stockpile is to be destroyed by June 30. The Syrian government blames the security situation in the war-torn country for the delays. Additionally, bad weather, logistical problems and a lack of equipment have slowed the process. Damascus is now calling for additional war-related equipment like bomb detectors to clear roads of explosive devices. Idle ships Syria has already received equipment to transport its chemical weapons. Russia, for example, has delivered off-road SUVS and armored vehicles into the war-zone. Other countries are also making contributions to this historically one-of-a-kind mission. Denmark and Norway have stationed two cargo ships near the Syrian coast. The ships have been tasked with transporting chemical weapons and their constituents from Latakia across the Mediterranean to southern Italy. Those freight vessels are being protected by warships from Denmark, China, Great Britain, Norway and Russia. According to the plan, the chemical weapons will then be transferred to \"Cape Ray\" at the Calabrian port of Gioia Tauro. The specialized US ship will then destroy most of the chemical weapons in international waters. Many of the chemical constitutents and byproducts will be destroyed by several states on shore and in an environmentally friendly manner. \"Certainly, all of the arrangements that have been made by OPCW member states - [which] are all contributing to this extraordinary mission to remove and destroy the elements of Syria's chemical weapons program - are ready to go,\" said Michael Luhan, press spokesman for the OPCW, in an interview with DW. But right now, the ships in the Mediterranean are still waiting. And the costs of the mission are rising with every delay. The Norwegian Defense Ministry told DW that the charter for just one of the two cargo ships has already cost nearly five million euros ($6.8 million). The defense ministry remained diplomatic, however, saying that it's aware of the mission's extraordinary nature and the difficult security situation on the ground. All of the partners involved should continue to demonstrate their engagement, and further delays should be avoided, the ministry says. OPCW patience, US pressure The coordinator of the mission, Sigrid Kaag, reportedly told the UN Security Council behind closed doors that it's unlikely the Syrian government is intentionally delaying the transport of its chemical weapons. Meanwhile, OPCW spokesman Michael Luhan maintains that the final date for the destruction of all of the stockpiles would not be changed at this time. \"There's no discussion or suggestion at this point of moving that 30th of June deadline,\" he said. \"In our assessment, it is still possible to reach that deadline.\" But the OPCW's view is not shared by all of those involved in the mission. The US raised the pressure when its State Department made public on its website an OPCW assessment of the mission. \"We know the regime has the ability to move these weapons and materials because they have moved them multiple times over the course of this conflict,\" said Samantha Power, the US ambassador to the UN. \"It is time for the Assad government to stop its foot-dragging, establish a transportation plan, and stick to it.\" Syrian government playing for time? Some commentators suspect that Assad is using his chemical weapons as a bargaining chip. As long as he still possesses the weapons, he can make himself an indispensable negotiating partner and thereby win time to improve the regime's military position in the civil war. This assumption is supported by the Syrian military's refusal to destroy special hangars and subterranean facilities in which chemical weapons were once manufactured or stored. But it's questionable whether all of the blame can be laid at the feet of the Syrian government. The OPCW and its planners likely underestimated the difficulty of transporting and accessing the chemical stockpiles across the frontlines of Syria's civil war. The OPCW still has yet to inspect one of the 23 storage and production facilities declared by Damascus. The mission, however, has achieved one concrete success: The Syrian government no longer has the capability to deploy chemical weapons. Just a few weeks after the mission began in October, the OPCW reported that the production equipment, filling stations and combat munitions had been completely destroyed under its watch.",
+  "relations": [
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Latakia",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Latakia",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Gioia Tauro",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Michael Luhan",
+      "Organization for the Prohibition of Chemical Weapons",
+      "member_of"
+    ],
+    [
+      "Michael Luhan",
+      "Organization for the Prohibition of Chemical Weapons",
+      "spokesperson_of"
+    ],
+    [
+      "Norwegian",
+      "Norway",
+      "gpe0"
+    ],
+    [
+      "Defense Ministry",
+      "Norway",
+      "agency_of"
+    ],
+    [
+      "Defense Ministry",
+      "Norwegian",
+      "agency_of-x"
+    ],
+    [
+      "Defense Ministry",
+      "Norway",
+      "based_in0"
+    ],
+    [
+      "Defense Ministry",
+      "Norwegian",
+      "based_in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "Norway",
+      "ministry_of"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "institution_of"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "part_of"
+    ],
+    [
+      "State Department",
+      "US",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "US",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "US",
+      "ministry_of"
+    ],
+    [
+      "Samantha Power",
+      "US",
+      "agent_of"
+    ]
+  ]
+}

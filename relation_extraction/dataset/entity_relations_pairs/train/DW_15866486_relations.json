@@ -1,0 +1,90 @@
+{
+  "content": "Bahrain hunger strike activist refused transfer to Denmark\nBahrain has rejected a request from the Danish government to transfer a jailed activist who has been on hunger strike for almost two months. The Danish citizen has been detained for his role in an anti-regime uprising.\nA Danish request to transfer an anti-regime activist, currently on hunger strike in Bahrain, was rejected on Sunday, state news agency BNA reported. The handover of accused and convicted persons to foreign countries takes place under specific conditions ... This does not apply in Abdulhadi al-Khawaja's case,\" BNA quoted a Supreme Judiciary Council official as saying. Abdulhadi al-Khawaja, who is a Danish citizen, has refused food since Feb 8. He is serving a life sentence over an alleged plot to topple Bahrain's Sunni monarchy during a month-long uprising by the island nation's Shiite majority one year ago. Danish Foreign Minister Villy Soevndal issued the request to his Bahrain counterpart to transfer Khawaja to Denmark for treatment amid heightened fears over his declining health, BNA reported on Saturday. Al-Khawaja has shed some 25 percent of his body weight and was \"at risk of organ failure,\" Front Line Defenders, an Ireland-based non-governmental organization, said Tuesday after a visit to Bahrain's capital Manama. The organization warned that the 52-year-old activist could die in jail. The Bahraini authorities have confirmed that he had lost some 10 kilogram's (22 pounds), while his lawyer said that he was weak but conscious on Friday, when he visited him in hospital. Defending human rights Al-Khawaja is a former Middle East and North Africa director of Front Line Defenders and has documented human rights abuses in Bahrain for international rights groups such as Amnesty International and Human Rights Watch. Having lived in exile in Denmark for several decades he returned to Bahrain in 2001. Last April he was arrested and sentenced to life imprisonment alongside six other opposition figures in a special security court, which was set up after Bahrain imposed martial law last March to quell political unrest. Opposition supporters have staged daily rallies in Bahrain calling for his release which have often sparked clashes with security forces. With tensions still high, former Formula One champion driver Damon Hill has demanded a rethink of the contentious Bahrain Grand Prix which is due to take place in two week's time. The premier international event was cancelled last year as a result of political unrest. ccp/pfd (AFP, AP)",
+  "relations": [
+    [
+      "Abdulhadi al-Khawaja",
+      "Denmark",
+      "citizen_of"
+    ],
+    [
+      "Abdulhadi al-Khawaja",
+      "Danish",
+      "citizen_of-x"
+    ],
+    [
+      "Front Line Defenders",
+      "Ireland",
+      "based_in0"
+    ],
+    [
+      "Danish",
+      "Denmark",
+      "gpe0"
+    ],
+    [
+      "BNA",
+      "Bahrain",
+      "based_in0"
+    ],
+    [
+      "BNA",
+      "Bahraini",
+      "based_in0-x"
+    ],
+    [
+      "Villy Soevndal",
+      "Denmark",
+      "agent_of"
+    ],
+    [
+      "Villy Soevndal",
+      "Denmark",
+      "citizen_of"
+    ],
+    [
+      "Villy Soevndal",
+      "Danish",
+      "citizen_of-x"
+    ],
+    [
+      "Villy Soevndal",
+      "Denmark",
+      "minister_of"
+    ],
+    [
+      "Villy Soevndal",
+      "Danish",
+      "minister_of-x"
+    ],
+    [
+      "Manama",
+      "Bahrain",
+      "in0"
+    ],
+    [
+      "Manama",
+      "Bahraini",
+      "in0-x"
+    ],
+    [
+      "Bahraini",
+      "Bahrain",
+      "gpe0"
+    ],
+    [
+      "Damon Hill",
+      "Formula One",
+      "appears_in"
+    ],
+    [
+      "Damon Hill",
+      "Bahrain Grand Prix",
+      "appears_in"
+    ],
+    [
+      "Bahrain Grand Prix",
+      "Bahrain",
+      "event_in0"
+    ]
+  ]
+}

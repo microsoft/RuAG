@@ -1,0 +1,215 @@
+{
+  "content": "Clash between Nigerian military, Shiite sect leaves scores dead\nNigeria's military has killed hundreds of Shiite Muslims, in weekend clashes between a rebellious sect and troops. The military says that the raids came after hundreds blocked the army chief's convoy and threatened him.\nSoldiers killed hundreds of Shiite Muslims this weekend, after the group opened fire on the Nigerian army chief's convoy, according to the Shia Islamic Movement and military officials. Witness Ojo Momodu told the Associated Press that the Shiites had barricaded the road with burning tires as the army chief approached. They then hurled stones at his convoy. A report from the Nigerian Army Corps of Military Police said Shiite militants were hiding in tall grass \"with the intent to attack the vehicle with [a] petrol bomb,\" while others \"suddenly resorted to firing gunshots from the direction of the mosque.\" Retribution was apparently swift. Chidi Odinkalu of the Nigerian Human Rights Commission said that photos showed a bulldozer tearing apart a shrine of the Islamic Movement in Nigeria and said that detained leader Ibraheem Zakzaky's home was also destroyed the next day. Zakzaky was detained after being shot and injured by troops. His condition and whereabouts remain unclear. His sect's spokesman, Ibrahim Musa, accused the military of indiscriminate killing. \"The killing was so brutal … even those injured in the shooting were identified and killed in cold blood by the soldiers,\" he said. A hospital in the city of Zaria reported receiving 60 bodies, according to hospital chief Lawal Khalid. \"I was briefed that the hospital had received 60 corpses, but I am yet to be briefed on the current number,\" Khalid told the private News Agency of Nigeria. But it has been impossible to independently verify the toll as the military has locked down the area, preventing access. Iran and US both seek answers Reaction to reports of mass carnage have prompted questions from diplomats from both Washington and Tehran. The US embassy in Abuja was seeking more information State Department spokesman John Kriby said that Washington would continue to call for the protection of civilians and respect for human rights. Iran summoned Nigeria's charge d'affaires to protest, the official IRNA news agency reported Tuesday. Iran \"demands the Nigerian government immediately shed light on the incidents, treat the injured, and compensate for damages,\" IRNA said. Shiite minority past victim of attacks Zakzaky's movement draws inspiration from the 1979 Islamic Revolution in Shiite Iran. But most of Nigeria's tens of millions of Muslims are Sunni, including the Boko Haram jihadist militants who have killed thousands in bombings and shootings, mainly in northeastern Nigeria. A similar clash between followers of the Shiite sect and the army occurred last year during a procession. Zakzaky said that 30 followers and three of his children were killed by troops. jar/msh (AP, dpa, Reuters)",
+  "relations": [
+    [
+      "IRNA",
+      "Iran",
+      "based_in0"
+    ],
+    [
+      "Ibraheem Zakzaky",
+      "Nigeria",
+      "citizen_of"
+    ],
+    [
+      "Ibraheem Zakzaky",
+      "Nigerian",
+      "citizen_of-x"
+    ],
+    [
+      "Ibraheem Zakzaky",
+      "Islamic Movement",
+      "head_of"
+    ],
+    [
+      "Ibraheem Zakzaky",
+      "Islamic Movement",
+      "member_of"
+    ],
+    [
+      "Lawal Khalid",
+      "Nigeria",
+      "citizen_of"
+    ],
+    [
+      "Lawal Khalid",
+      "Nigerian",
+      "citizen_of-x"
+    ],
+    [
+      "Nigerian",
+      "Nigeria",
+      "gpe0"
+    ],
+    [
+      "Islamic Movement",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Islamic Movement",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Ojo Momodu",
+      "Nigeria",
+      "citizen_of"
+    ],
+    [
+      "Ojo Momodu",
+      "Nigerian",
+      "citizen_of-x"
+    ],
+    [
+      "Army Corps of Military Police",
+      "Nigeria",
+      "agency_of"
+    ],
+    [
+      "Army Corps of Military Police",
+      "Nigerian",
+      "agency_of-x"
+    ],
+    [
+      "Army Corps of Military Police",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Army Corps of Military Police",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Chidi Odinkalu",
+      "Nigeria",
+      "citizen_of"
+    ],
+    [
+      "Chidi Odinkalu",
+      "Nigerian",
+      "citizen_of-x"
+    ],
+    [
+      "Chidi Odinkalu",
+      "Human Rights Commission",
+      "member_of"
+    ],
+    [
+      "Human Rights Commission",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Human Rights Commission",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Ibrahim Musa",
+      "Nigeria",
+      "citizen_of"
+    ],
+    [
+      "Ibrahim Musa",
+      "Nigerian",
+      "citizen_of-x"
+    ],
+    [
+      "Ibrahim Musa",
+      "Islamic Movement",
+      "member_of"
+    ],
+    [
+      "Ibrahim Musa",
+      "Islamic Movement",
+      "spokesperson_of"
+    ],
+    [
+      "Zaria",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Zaria",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "News Agency of Nigeria",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "News Agency of Nigeria",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Abuja",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Abuja",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "State Department",
+      "US",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "US",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "US",
+      "ministry_of"
+    ],
+    [
+      "John Kriby",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kriby",
+      "State Department",
+      "member_of"
+    ],
+    [
+      "John Kriby",
+      "State Department",
+      "spokesperson_of"
+    ],
+    [
+      "Islamic Revolution",
+      "Iran",
+      "event_in0"
+    ],
+    [
+      "Boko Haram",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Nigerian",
+      "based_in0-x"
+    ]
+  ]
+}

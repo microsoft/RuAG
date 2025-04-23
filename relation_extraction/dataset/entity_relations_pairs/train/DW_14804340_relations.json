@@ -1,0 +1,70 @@
+{
+  "content": "German investigators search for cause of deadly train crash\nGerman officials are continuing their investigation into the cause of the train collision over the weekend that killed at least 10 and left others seriously injured.\nTwo victims were identified Monday as police continued their investigation into the cause of a train crash that killed at least 10 people in the eastern German state of Saxony-Anhalt over the weekend. The crash took place near the city of Magdeburg late Saturday when a goods trains collided head-on with a local passenger train. It is not yet clear what caused the accident, which also injured 23 people, many of them seriously. On Monday, a police spokesman said there were no new facts in the case. On Sunday, the head of the regional government, Wolfgang Böhmer, said human error was the likely cause. Unanswered questions Speaking to journalists, Böhmer said one of the trains had probably ignored a red stoplight on the section of single track where the accident occurred. \"It's likely the stop signal wasn't respected. It's not normal that two trains were running on the same track,\" Böhmer said. However, Saxony-Anhalt Interior Minister Holger Hovelmann has warned against jumping to conclusions, and federal police official Ralf Krüger told a press conference that accident investigators had yet to reach a conclusion. \"The inquiry has been opened. The conclusion will be made public as soon as possible,\" Krüger said. \"The signal system must obviously be checked out.\" Another police spokesman had earlier said authorities were \"investigating in all directions - including human error as well as technical failure.\" He said the trains had hit each other with such force that passengers in the front carriages would have died on impact, which was reportedly heard miles away. Heavy rescue deployment The train, the HarzElbeExpress, carrying around 50 passengers, was traveling on a single track section from Magdeburg to the town of Halberstadt. Several carriages were derailed after the collision. More than 150 firemen, police and rescue workers were deployed at the scene. Traffic was interrupted on the line and bus shuttles were set up. Heavy fog prevented helicopters from airlifting the worst injured. Police weren't ruling out a rise in the death toll because of the severity of the injuries. A spokesman for the Veolia group, which runs the HarzElbeExpress line, said the dead included the train driver and a conductor. Authors: Sarah Harman, Darren Mara, Richard Connor (AFP, AP, dpa, Reuters) Editor: Martin Kuebler",
+  "relations": [
+    [
+      "Saxony-Anhalt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "HarzElbeExpress",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "HarzElbeExpress",
+      "Veolia",
+      "part_of"
+    ],
+    [
+      "Wolfgang Böhmer",
+      "Saxony-Anhalt",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Böhmer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Böhmer",
+      "Saxony-Anhalt",
+      "head_of_gov"
+    ],
+    [
+      "Ralf Krüger",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Ralf Krüger",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Magdeburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Holger Hovelmann",
+      "Saxony-Anhalt",
+      "agent_of"
+    ],
+    [
+      "Holger Hovelmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Holger Hovelmann",
+      "Saxony-Anhalt",
+      "minister_of"
+    ],
+    [
+      "Halberstadt",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

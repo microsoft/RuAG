@@ -1,0 +1,115 @@
+{
+  "content": "Germany's new anti-terror units: A paramilitary excess?\nThe German police are upgrading. A new special unit, BFE+, is being trained to counter terror attacks. However, the upgrade mainly serves as a psychological reassurance for the public, says criminologist Rafael Behr.\nDW: Prof. Behr, why does Germany's federal police need the special BFE+ unit (Beweissicherungs- und Festnahmeeinheit plus, which means \"evidence collection and arrest unit plus\")? Rafael Behr: Well, there are very different ideas among specialists and professionals in the police regarding the need for it. I see two aspects: one of them is symbolic. The symbolic nature of such a unit shows that we are strong; we can respond to attacks on a new scale. And we can react to situations at several crime scenes simultaneously. We can respond by using pervasive weapons and better equipment. That is the symbolic effect. There is also the functional effect; for example, to make it clear that we are prepared for anything. We no longer need to discuss the deployment of the armed forces inside the country [currently banned by the German constitution, the ed.] because we have enough equipment and manpower to handle these attacks that vacillate between crime and war. In addition to the five new special units, which together comprise 250 men, the GSG-9 and riot police have been operating for many years now. Who is responsible for what, in the event of an emergency? This is quite clearly defined, at least bureaucratically. The taking of hostages, terrorist camps and acts of serious crime, fall under the jurisdiction of the Special Operations Command Units (SEK, or SWAT teams) and mobile task forces of the individual states. They are trained and equipped for these tasks. The GSG-9 is responsible for particularly serious attacks, like the one at the Munich Olympics in 1972 or the 1977 plane hijacking in Mogadishu, which was actually the unit's first mission. The riot police (anti-riot police/rapid reaction forces) actually play no role in this context, but we have units for all eventualities, and that is the crucial difference. GSG-9 and SEKs are dynamic intervention units, not investigative units. What is intended now with the BFE+ is to have a unit to launch large-scale manhunts, say, after an attack, when terrorists retreat into hiding, as was the case in Paris. This has drawn attention to a gap because the normal federal police supposedly cannot do this – although I have my doubts about that. We live in times of terror; terrorists operate with weapons of war, which the police do not possess, and the armed forces, which have these weapons, are not allowed to intervene domestically. So is this a militarization of the police and is it a logical and sensible development? I've noticed for some time that the ideal of a civil police force, which originated in the 1990s, is disappearing more and more, and that the police are diversifying. Of course, we are all familiar with the beat officers on neighborhood patrol, but other work is also done. We are heading towards the other end of the policing spectrum, meaning to the point that it borders on war-like or military action. I would also not object if the Germany army contributed material in the case of terrorist attacks. Why should it not make available special protected vehicles or tanks to transport police forces? This should not be a big problem. Fortunately, emergency situations requiring special forces rarely occur. Would it not be more efficient if the state police and the federal police had more staff and better equipment? Demanding more staff and actually having more staff are two different matters, and although additional staff has been promised, it is still not immediately available. If we now hire 500 more employees in North Rhine-Westphalia or 3,000 more for the federal police, they are merely filling the gap that occurs when older officers retire. Thus, more police does not necessarily mean more security. Professor Rafael Behr is a criminologist and sociology professor at the Hamburg police academy. DW's Volker Wagener conducted this interview.",
+  "relations": [
+    [
+      "Beweissicherungs- und Festnahmeeinheit plus",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Beweissicherungs- und Festnahmeeinheit plus",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Beweissicherungs- und Festnahmeeinheit plus",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Beweissicherungs- und Festnahmeeinheit plus",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "GSG-9",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "GSG-9",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "GSG-9",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "GSG-9",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Special Operations Command Units",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Special Operations Command Units",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Special Operations Command Units",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Special Operations Command Units",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Olympics",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Olympics",
+      "Munich",
+      "event_in2"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Volker Wagener",
+      "DW",
+      "member_of"
+    ]
+  ]
+}

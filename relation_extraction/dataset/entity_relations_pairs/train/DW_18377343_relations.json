@@ -1,0 +1,45 @@
+{
+  "content": "China trade figures uninspiring\nChinese trading activities have taken a beating in recent weeks, official figures have shown. Both sales abroad and imports logged a hefty drop, leaving economists wondering about the nation's growth prospects.\nChina's exports contracted by a staggering 15 percent in March year-on-year, the General Administration of Customs reported Monday. The tumble in shipments abroad marked the sharpest monthly dip since the global financial crisis. It came against the backdrop of a 12-percent rise in exports penciled in by economists. Analysts said the decline was heightening worries about how a rising yuan had hurt demand for Chinese goods and services abroad. Worrying signals Providing a sign that domestic demand was also tepid in the Asian nation, imports into the world's second-largest economy shrunk by 12.7 percent in March year-on-year, the customs agency announced, the biggest slump since May 2009. \"[The figures] lead to warning flags both on global demand and China's competitiveness,\" RBS economist Louis Kuijs told Reuters. The government in Beijing wants to protect jobs, knowing that higher unemployment could fuel social unrest, but anemic growth in the trade sector could hurt the labor market. So far, though, the jobs market appears to be holding up well despite signs that economic growth is steadily grinding to its lowest in a quarter of a century, nearing the 7-percent mark. hg/jil (AFP, dpa)",
+  "relations": [
+    [
+      "General Administration of Customs",
+      "China",
+      "agency_of"
+    ],
+    [
+      "General Administration of Customs",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "General Administration of Customs",
+      "China",
+      "based_in0"
+    ],
+    [
+      "General Administration of Customs",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Louis Kuijs",
+      "RBS",
+      "member_of"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ]
+  ]
+}

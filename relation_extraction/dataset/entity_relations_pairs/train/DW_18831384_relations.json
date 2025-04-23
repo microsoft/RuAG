@@ -1,0 +1,110 @@
+{
+  "content": "Germany's opposition slams Berlin refugee deal\nGermany's opposition parties have criticized a deal forged by coalition partners to control migration flows in Germany, saying it produces \"little concrete action.\" Germany has struggled to cope with the influx.\nRobert Habeck, a member of Germany's opposition Green Party, lambasted a migrant deal struck on Thursday by leaders of the ruling Christian Democratic Union (CDU), its Bavarian sister-party the Christian Social Union (CSU) and its coalition partner the Social Democrats (SPD). \"In other countries, most people have to wait a year before they can even apply for asylum. In this context, it is a complete mystery how the Federal government intends to conclude the process at special registration centers within a few weeks,\" Habeck told DPA news agency. Top Left Party politician, Bernd Riexinger, further pointed to the plan creating new problems. \"There's the danger that these people won't receive a fair asylum procedure,\" Riexinger said. The deal - announced by Chancellor Angela Merkel, Vice Chancellor Sigmar Gabriel and Bavarian premier Horst Seehofer on Thursday - purports to set up three to five reception centers where asylum seekers must wait until a decision is made on their application. It would also penalize those who would leave the centers' grounds multiple times. Prior to the deal, the SPD was critical of proposals for transit zones and migrant detention centers. However, Thursday's coalition agreement has been hailed by the center-left party as a step forward to managing the migration crisis. 'Little concrete action' Meanwhile, Habeck, the Greens' politician, who wants to be the party's top candidate for the 2017 parliamentary elections, said he also considers it wrong to restrict family reunification, one of the latest provisions to be accepted under the deal, which would impede family reunification until the refugee has lived in Germany for two years. \"In sum, the proposals bring little concrete action - except a truce between the CDU and SPD,\" Habeck said. Germany has struggled to cope with the wave of migration, which has stretched the country's capacities to register and house asylum seekers. Between 800,000 and one million migrants are expected to arrive in the country in 2015. The EU Commission said Thursday it is working with a \"technical assessment\" that posits three million migrants entering the 28-nation bloc by 2017. ls/kms (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Christian Democratic Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Social Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Robert Habeck",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Robert Habeck",
+      "Green Party",
+      "member_of"
+    ],
+    [
+      "Green Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bernd Riexinger",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Bernd Riexinger",
+      "Left Party",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "DPA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Bavarian",
+      "head_of_gov-x"
+    ],
+    [
+      "Commission",
+      "EU",
+      "institution_of"
+    ],
+    [
+      "Commission",
+      "EU",
+      "part_of"
+    ]
+  ]
+}

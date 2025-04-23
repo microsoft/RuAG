@@ -1,0 +1,25 @@
+{
+  "content": "DW's Health News: What does stress do to our eyes?\nDid you know that stress can damage your eyesight? Or that the so-called good cholesterol isn't that great after all? DW brings you this week's health news, all in one handy guide!\nStress can damage eyesight Our eyes have to cope with a lot throughout the day – with flickering computer screens, glaring fluorescent lights, or dirt and pollen flying through the air. But it's not only our environment that can damage the eyes, they can also be impacted from the inside. A new study by researchers at Magdeburg University in Germany has revealed that mental stress and anxiety can result in a loss of vision. Continuous mental strain raises levels of the stress hormone cortisol, which impacts our nervous system and therefore our brain and eyes. This can lead to severe eye diseases, such as glaucoma, age-related macular degeneration and optic neuropathy, say the researchers. The researchers emphasize that it is important to realize that stress is not only a consequence of vision loss, but also a cause, which has to be taken seriously. So, be kind to your eyes and body, give yourself a break once in a while and try to relax. Mindfulness training, such as yoga and meditation can help after a long day's work. Is good cholesterol bad for the heart? Cholesterol levels are usually measured in \"good” cholesterol, namely HDL-cholesterol and \"bad” cholesterol called LDL-cholesterol. When people speak about high cholesterol levels, they are usually referring to LDL-cholesterol, which can cause arteriosclerosis and heighten the risk of cardiovascular diseases, such as heart attack and stroke. HDL-cholesterol has always been seen as a vital part of cell membranes and cellular processes, but recently researchers in Japan discovered that it too can increase the risk for cardiovascular diseases, but only at high levels. For 12 years, they studied more than 43,000 people aged between 40 and 89 years. They discovered that people with HDL-cholesterol levels over 90 mg/dl had a 2.4 times higher risk of dying of arteriosclerosis as people with normal HDL-cholesterol levels (40-59 mg/dl). Interestingly, the researchers also saw that extremely high HDL-cholesterol levels were more dangerous for people who frequently drank alcohol. Discovery of new antibiotic against MRSA Multi-resistant bacteria have become a looming problem in hospitals today. The overuse of antibiotics has resulted in resistant bacteria that cannot be killed. The hospital superbug Methicillin-resistant Staphylococcus aureus, known as MRSA, is one of them. It can trigger severe infections in humans and can even result in death. MRSA is extremely hard to treat because it has become resistant to several common antibiotics. Now researchers at the Technical University in Berlin have discovered a new type of antibiotic that might be able to fight this multi-resistant germ. The research team isolated a bioactive molecule from cultures of Microbacterium aborescens, which they called Microvionin. It belongs to the group of lipopeptide-antibiotics. In future, the researchers are hoping that they can use Microvionin to produce a suitable medication against MRSA and reduce the amount of infections in hospitals.",
+  "relations": [
+    [
+      "Magdeburg University",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Technical University",
+      "Berlin",
+      "based_in0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ]
+  ]
+}

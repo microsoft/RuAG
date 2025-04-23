@@ -1,0 +1,125 @@
+{
+  "content": "Saudi Arabia's ambivalent relationship to terrorism\nSaudi Arabia is often accused of supporting jihadist groups. Now, the monarchy is helping Berlin's security authorities in the fight against terror. What appears to be a contradiction is not.\nA jihadi inspired rampage in a regional train near Würzburg; and a bomb attack - designed to kill a large number of people but gone awry - in Ansbach: Both attacks were supposedly orchestrated by men in Saudi Arabia that gave the attackers instructions from afar, via chat. That is the story the German magazine \"Spiegel\" is reporting in connection to chat protocols in the possession of federal agencies. The magazine also refers to information provided by a high-ranking government official in the Saudi capital Riyadh. According to the official, several telephone numbers show that the two young men were in close contact with the terrorist organization \"Islamic State\" (IS) in Saudi Arabia. The Saudi government has now announced comprehensive cooperation with Germany in investigating the recent attacks in Bavaria. For years, Saudi Arabia has been the source of what has appeared to be contradictory information. First, the country is accused of exporting an extremely conservative strain of Sunni Islam known as Wahhabism, which also happens to be the kingdom's state religion. Shortly after the outbreak of war in Syria, accusations that the monarchy was financing jihadi groups that were not only seeking to topple the Assad government but also create a new \"caliphate\" under the control of the terror organization \"Islamic State\" (IS), grew louder. And finally, for years the West has considered Saudi Arabia to be an important partner in the fight against jihadist terror. Dubious commitment Sebastian Sons, Middle East expert at the German Council on Foreign Relations (DGAP), tells DW that the news is not as contradictory as it initially seems. \"The Saudi government has been involved in the fight against terror since the attacks on America in September 2001. That was partially a reaction to US pressure. But it was also because institutions in the kingdom were increasingly the target of jihadist attacks as well, first by al-Qaeda and later 'IS.'\" At the same time there are a number of religious foundations in the country, and some of these, as well as a number of wealthy individuals, have great sympathy for the aims of \"IS\" and provide the organization with financing. \"Such money transactions are now being very closely monitored.\" Yet, there is no way to exert total control over them. \"Firstly, Saudi Arabia doesn't have the capacity to do so. And secondly, one has to say that there is serious doubt about whether they have the political will to do so.\" Nevertheless, even if the royal house had the will, it would be able to do little about it. Because the House of Saud, which has controlled the country since it was founded in the eighteenth century, is totally dependent upon the conservative Wahhabis. It is the religious movement that lends the Sauds the ideological legitimacy upon which their rule is based. Alliance between religion and politics The moral foundation for the rule of the Sauds was established by a religious scholar hailing from an area near what is now the capital Riyadh. Muhammad ibn Abd al-Wahhab, as the scholar was known, was born in 1703, the son of a judge. Ibn Wahhab developed an entirely new criteria with which to judge the legitimacy of regional rulers. This legitimacy, he said, only existed as long as rulers abided by the tenets of religious faith. Political leaders, according to Wahhab, must comply to the will of god in all that they do. Should they fail to do so, they forfeit their legitimacy. Thus, subjects were given a clear criteria with which to judge their rulers: Do their actions express the will of god, or not? It was a radically emancipating idea, yet it carried the seed of later abuses in it from the start: For who determines what god's will is? Ibn Wahhab came up with a unique solution to the problem: He directly tied religious power to political power. And he did so by seeking out an alliance with the most powerful partner of his day: Prince Saud l., ibn Abd al-Aziz ibn Muhammad al-Saud, the conquerer of the Emirate of Diriyah, the first Saudi state. The prince secured the theological power of his religious partner with his own military might. And in return, the legitimacy of his political rule received the scholar's religious blessing. The alliance between these two families, the ruling Sauds and the descendants of ibn-Wahhab responsible for answering all religious questions in the kingdom, has continued to hold until this day. Unresolved dilemma This alliance, by necessity, also determines the royal family's current reaction to terror. \"The royal family sees terrorism as an extreme security threat, but it still has to align itself with the Wahhabi scholars in terms of ideology,\" says Sebastian Sons. This means that the monarchy is constantly forced to tolerate its - at times radical - world view. They rarely have the luxury of refusing to give their support. \"The structure of the Saudi state is based upon the alliance between Wahhabi scholarship and the House of Saud. That is a unsolvable dilemma for the royal family, even today.\" That means that the rest of the world will have to live with the reality of more attacks being orchestrated from Saudi Arabia. As long as ideological extremism cannot be overcome, security measures can only help to a point.",
+  "relations": [
+    [
+      "Islamic State",
+      "Saudi Arabia",
+      "based_in0"
+    ],
+    [
+      "Islamic State",
+      "Saudi",
+      "based_in0-x"
+    ],
+    [
+      "German Council on Foreign Relations",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Council on Foreign Relations",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Würzburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Würzburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Ansbach",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Ansbach",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Saudi",
+      "Saudi Arabia",
+      "gpe0"
+    ],
+    [
+      "Riyadh",
+      "Saudi Arabia",
+      "in0"
+    ],
+    [
+      "Riyadh",
+      "Saudi",
+      "in0-x"
+    ],
+    [
+      "Bavaria",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Sebastian Sons",
+      "German Council on Foreign Relations",
+      "member_of"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

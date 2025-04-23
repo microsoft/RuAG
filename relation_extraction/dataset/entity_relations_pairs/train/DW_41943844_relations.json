@@ -1,0 +1,145 @@
+{
+  "content": "Britain's Prince Harry scores radio interview with former US President Obama\nIn his first interview since leaving office in January, Obama said he felt liberated despite missing the work of being president. He also warned about the perils of social media.\nIn a BBC interview broadcast on Wednesday, former US President Barack Obama told Britain's Prince Harry that he was at peace and felt liberated on the day he left the White House in January, despite the enormous amount of work left undone. The prospect of getting up in the morning and setting his own agenda for the day was \"hugely liberating,\" Obama said, and explained that included having time to talk to his wife, Michelle. \"I miss the work itself because it was fascinating,\" Obama said of his eight years in the White House, and he cited his health care reform, popularly known as Obamacare, as one of his proudest achievements. Dangers of social media Obama spoke with Harry in the prince's capacity as a guest interviewer for the BBC Radio 4 news program. The interview was conducted in Canada in September, and both men said it was Obama's first since leaving the Oval Office. The two also spoke about social media. Without naming his successor, Donald Trump, the former president said people in government should be careful how they used social media. And he cited the need to promote diverse views in a way that \"doesn't lead to a Balkanization of our society.\" \"All of us in leadership have to find ways in which we can recreate a common space on the internet,\" Obama said. \"One of the dangers of the internet is that people can have entirely different realities; they can be just cocooned in information that reinforces their current biases.\" Fear of angering Trump In the past, Obama has already lamented how social media platforms compel people to make snap judgments about complex issues — again, without criticizing Trump's regular use of Twitter. In his interview with Prince Harry, Obama said moving online communities offline would help people see the complexity of public policy issues and added that it would make criticism more difficult. \"It's also, by the way, harder to be as obnoxious and cruel in person as people can be anonymously on the internet,\" he said. As a guest editor Harry has focused on climate change, the military and mental health. In a brief live segment at the end of the show, he prince was asked by the BBC whether the Obamas would be invited to his wedding with US actress Meghan Markle next year. \"I don't know about that,\" Harry said. \"We haven't put the invites or the guest list together. Who knows whether they are going to be invited or not. I wouldn't want to ruin that surprise.\" The tabloid newspaper Sun reported Tuesday that British government officials had urged the prince not to invite the Obamas to his wedding for fear of angering Trump. bik/tj (AP, Reuters)",
+  "relations": [
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "Michelle",
+      "spouse_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Harry",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Harry",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Harry",
+      "Meghan Markle",
+      "spouse_of"
+    ],
+    [
+      "BBC",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "BBC",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ],
+    [
+      "Michelle",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Michelle",
+      "Barack Obama",
+      "spouse_of"
+    ],
+    [
+      "BBC Radio 4",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "BBC Radio 4",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Oval Office",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Oval Office",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Oval Office",
+      "US",
+      "in0"
+    ],
+    [
+      "Obamas",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Meghan Markle",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Meghan Markle",
+      "Harry",
+      "spouse_of"
+    ],
+    [
+      "Sun",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Sun",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ]
+  ]
+}

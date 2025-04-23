@@ -1,0 +1,60 @@
+{
+  "content": "Deadly sectarian violence continues in Myanmar\nSectarian violence has broken out in western Myanmar, leaving dozens dead. The United Nations has called for calm amid the ongoing clashes which have destroyed thousands of homes over five days.\nNearly sixty people have died as a result of ongoing violence between Rohingya Muslims and Buddhists in Myanmar, which persisted Thursday for a fifth day. The western state of Rakhine has suffered the brunt of the conflict. According to Rakhine state spokesman Win Myaing, 25 men and 31 women were reported dead as of 7 p.m. local time in four townships. Myaing added that 1,900 homes had also been burned down. Security forces have struggled to quell the unrest in Myanmar since violence broke out in June. At least 80 have died as a result of the conflict, and around 75,000 people have been displaced. UN 'gravely concerned' The UN called for an end to the violence, saying that the struggle has forced thousands of displaced refugees into \"already overcrowded\" camps near the state capital of Sittwe. \"The UN is gravely concerned about reports of a resurgence of inter-communal conflict in several areas in Rakhine State which has resulted in deaths and has forced thousands of people, including women and children to flee their homes,\" said Ashok Nigam, UN humanitarian coordinator in Myanmar, in a statement. Nigam asked for the \"immediate and unconditional access to all communities in accordance with humanitarian principles.\" Unrest after reforms The violence has dampened the widely-praised political reforms brought on by President Thein Sein, which included the release of hundreds of political prisoners. Rights groups have said the death toll could far exceed official numbers. \"The way in which the situation has developed is very worrying,\" said Chris Lewa, head of the Arakan Project which campaigns for Rohingya rights. \"It seems that there is a desire to eliminate Rohingyas from all the townships where they are a minority, continuing what occurred in Sittwe.\" The Rohingya have long been considered to be one of the most-persecuted minorities on the planet by the UN. dr/ccp (AFP, Reuters, AP)",
+  "relations": [
+    [
+      "Rohingyas",
+      "Myanmar",
+      "present_in0"
+    ],
+    [
+      "Rakhine State",
+      "Myanmar",
+      "in0"
+    ],
+    [
+      "Ashok Nigam",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Win Myaing",
+      "Rakhine State",
+      "agent_of"
+    ],
+    [
+      "Win Myaing",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "Sittwe",
+      "Myanmar",
+      "in0"
+    ],
+    [
+      "Thein Sein",
+      "Myanmar",
+      "agent_of"
+    ],
+    [
+      "Thein Sein",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "Thein Sein",
+      "Myanmar",
+      "head_of_state"
+    ],
+    [
+      "Chris Lewa",
+      "Arakan Project",
+      "head_of"
+    ],
+    [
+      "Chris Lewa",
+      "Arakan Project",
+      "member_of"
+    ]
+  ]
+}

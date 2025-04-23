@@ -1,0 +1,140 @@
+{
+  "content": "UN condemns Al-Shabab attack on Somalia parliament\nThe UN Security Council and the UN chief have condemned an attack by the Islamist group al-Shabab on the Somalia parliament, which killed at least 10. There is a report the Somali security minister has resigned.\nThe attack by al-Shabab on Saturday at the parliament in Mogadishu involved a car bomb, a suicide bomber and gunmen. There is conflicting information as to the exact death toll. At least 10 people died, but local reports have put number at around 20, while the militants themselves have claimed 30. \"Ten government forces died and 14 others were injured in the attack today. Four lawmakers were also injured. Seven of the fighters who attacked the house were also killed,\" said police spokesman Kasim Ahmed Roble, who made no mention of civilian casualties. Witnesses said one of the dead was a soldier who tried to stop a suicide bomber from gaining access to the building. A large car bomb went off outside the gates of the parliament just before midday, while other smaller blasts and gunfire were heard coming from inside. Many MPs remained inside as the attack unfolded. Al-Shabab, a radical Islamist group that has links to al Qaeda, claimed responsibility. \"We killed 30 from the AU (African Union) and from the various forces of the so-called Somali government,\" said spokesman for the group, Sheikh Abdiasis Abu Musab. UN expresses outrage Senior UN officials and the UN Security Council have #link:http://www.un.org/apps/news/story.asp?NewsID=47883:condemned the assault#. \"There can be no justification for such attacks,\" UN chief Ban Ki-moon said in a statement. Ban expressed his support for the lawmakers, \"who represent the people of Somalia and their aspirations for a peaceful future.\" The UN's special representative in Somalia, Nicholas Kay, gave his condolences to Somalia's Prime Minister Abdiweli Sheikh Ahmed. The 15 member of the UN Security Council said they were \"outraged that al-Shabab has attacked the federal parliament, an institution which represents the Somali people and their legitimate hopes for peace, prosperity and stability.\" The Security Council added that the African Union's peacekeeping mission in the country would continue to receive its support. Minister 'resigns' The Somalia National Security Minister Abdikarim Hussein Gulled tendered his resignation following the attack, according to a report by news agency DPA. Gulled apparently made the announcement on state-run Radio Mogadishu, while not giving a specific reason. It is understood he had been under broader pressure over Somalia's ongoing insecurity. Al-Shabab's deadly history The group has carried out several such complex attacks in Mogadishu - among them one earlier this month on a government vehicle, an attempt on the presidential palace in February that left 16 dead, including members of the group, and assaults on a hotel that killed a dozen people in March. Government forces drove al-Shabab from the capital in 2011, but the group still controls broad areas of southern Somalia. Djibouti attack Sources in central Djibouti, a nation in the Horn of Africa, said two people were killed on Saturday in an attack on a restaurant popular with Westerners. There has been no claim of responsibility for the attack. Police are apparently investigating reports of several explosions and a suicide blast. jr/msh (dpa, AFP, Reuters)",
+  "relations": [
+    [
+      "al-Shabab",
+      "Somalia",
+      "based_in0"
+    ],
+    [
+      "al-Shabab",
+      "Somali",
+      "based_in0-x"
+    ],
+    [
+      "Ban Ki-moon",
+      "UN",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Abdikarim Hussein Gulled",
+      "Somalia",
+      "agent_of"
+    ],
+    [
+      "Abdikarim Hussein Gulled",
+      "Somalia",
+      "citizen_of"
+    ],
+    [
+      "Abdikarim Hussein Gulled",
+      "Somali",
+      "citizen_of-x"
+    ],
+    [
+      "Abdikarim Hussein Gulled",
+      "Somalia",
+      "minister_of"
+    ],
+    [
+      "Abdikarim Hussein Gulled",
+      "Somali",
+      "minister_of-x"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "institution_of"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "part_of"
+    ],
+    [
+      "Somali",
+      "Somalia",
+      "gpe0"
+    ],
+    [
+      "Mogadishu",
+      "Somalia",
+      "in0"
+    ],
+    [
+      "Mogadishu",
+      "Somali",
+      "in0-x"
+    ],
+    [
+      "Kasim Ahmed Roble",
+      "Somalia",
+      "agent_of"
+    ],
+    [
+      "Kasim Ahmed Roble",
+      "Somali",
+      "agent_of-x"
+    ],
+    [
+      "Kasim Ahmed Roble",
+      "Somalia",
+      "citizen_of"
+    ],
+    [
+      "Kasim Ahmed Roble",
+      "Somali",
+      "citizen_of-x"
+    ],
+    [
+      "Sheikh Abdiasis Abu Musab",
+      "al-Shabab",
+      "member_of"
+    ],
+    [
+      "Nicholas Kay",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Abdiweli Sheikh Ahmed",
+      "Somalia",
+      "agent_of"
+    ],
+    [
+      "Abdiweli Sheikh Ahmed",
+      "Somalia",
+      "citizen_of"
+    ],
+    [
+      "Abdiweli Sheikh Ahmed",
+      "Somali",
+      "citizen_of-x"
+    ],
+    [
+      "Abdiweli Sheikh Ahmed",
+      "Somalia",
+      "minister_of"
+    ],
+    [
+      "Abdiweli Sheikh Ahmed",
+      "Somali",
+      "minister_of-x"
+    ],
+    [
+      "Radio Mogadishu",
+      "Somalia",
+      "based_in0"
+    ],
+    [
+      "Radio Mogadishu",
+      "Somali",
+      "based_in0-x"
+    ]
+  ]
+}

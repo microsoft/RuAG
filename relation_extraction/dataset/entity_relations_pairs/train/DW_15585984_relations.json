@@ -1,0 +1,75 @@
+{
+  "content": "Philosophy goes high gloss in Germany\nThoughts on life's big questions are hitting German kiosks. Two new philosophy magazines have appeared recently. Publishers see an unmet need for philosophical reflection in the country's media.\nOn the cover, a child's legs protrude from a pair of clunky, brown men's shoes. The image bears a question: \"Why do we have kids?\" \"Philosophie Magazin\" (Philosophy Magazine) is among the latest efforts at thrusting philosophy into the public eye. \"It's a magazine that takes its questions to the marketplace, letting the public help feel them out,\" editor-in-chief Wolfram Eilenberger wrote in an editorial in the magazine. That's also what a second new philosophy magazine seeks to accomplish. Called \"Hohe Luft\" (Literally: High Air), its editors hope to offer philosophy \"for everyone who's interested in reading and thinking.\" A rather big target audience indeed. And right with the first edition, readers are confronted with a big question to ponder: \"You shouldn't lie - but why not exactly?\" Perhaps the better question is why do two publishers now think that German readers want to explore the mysteries of life in high gloss format? \"I believe that there are two developments involved. One is that, in our society, the traditional organizational structures like religion are losing significance,\" explained Michael Quante, director of the German Society for Philosophy, \"That means that more and more people are trying to get their questions answered in other places.\" Quante added that the world has become more complex through globalization and the associated phenomena of rapid technological development and social change. The new magazines are out to offer new perspectives - something for audiences to chew on in the form of bite-size chunks of philosophy, garnished, of course, with a chic layout and large-scale pictures. Bestseller philosophy But the idea of philosophy stepping out from behind its academic shadow and addressing a broader public is not new. \"When you look at the 19th century or the French intellectuals of the 20th century, back then there were very important personalities and voices in philosophy that discussed relevant questions outside of the academic establishment,\" said Michael Quante. Norwegian Jostein Gaarder struck success with his 1991 history of philosophy for laypeople in \"Sophie's World.\" In Germany, the 2007 title \"Wer bin ich und wenn ja, wie viele\" (Who am I and if so, how many?) by author Richard David Precht also topped bestseller lists. The book went on to become 2008's most successful nonfiction hardcover, and its author has since become almost inescapable on the TV circuit of Germany's evening talk and debate shows. The trend toward popular philosophy goes beyond German borders. Next door, a French-language version of Philosophie Magazin has been in print since 2006. \"In France, philosophy is a required subject through the end of school in the entire country, not just in certain regions, like in Germany,\" said Claudia Bickmann of the Society for Intercultural Philosophy, adding that French people in general have a better education in basic philosophical issues and figures. \"With around 300 salons and a number of magazines dedicated to the subject, philosophical life in France is lively and multilayered,\" Bickmann said. However, in Anglo-Saxon countries, the subject is more of a specialty discipline taught almost exclusively at universities. Changing course In China, Bickmann said, philosophy seems to be taking on an increasingly important role in society. \"It seems as though the orientation sometimes shifts away from Confucius' teachings of promoting harmony and toward the hegemony of the communist party. The coming years will show whether the party or a renewed approach to Confucius' teachings will pave the way for the country,\" she said. In the Arabic world, philosophy is also playing a significant role in social and political affairs, particularly \"in the various democracy movements,\" Bickmann believes. These days, everyone can be a philosopher - at least that's what the new philosophy magazines seem to suggest. On Philosophie Magazin's Facebook page, people can sound off on what they think counts in life. But whether that lives up to what most mean by philosophy is an open question. That the subject loses somewhat on depth and substance is a natural consequence for any discipline that attracts a large audience, pointed out philosophy professor Michael Quante. \"When a professor of physics or biology gives a public address, certain concessions for the sake of understandability have to be made, and that's legitimate,\" Quante said. For him, a popular approach to philosophy doesn't hinder the subject from remaining a serious area of academic study. But he hopes that a mass embrace of deep thinking won't fall into pseudo-philosophy. Quante said the marks of fake philosophy are \"a lack of argumentation and the rational justification of positions and worldviews.\" Author: Laura Döing / gsw Editor: Kate Bowen",
+  "relations": [
+    [
+      "Philosophie Magazin",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Philosophie Magazin",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wolfram Eilenberger",
+      "Philosophie Magazin",
+      "head_of"
+    ],
+    [
+      "Wolfram Eilenberger",
+      "Philosophie Magazin",
+      "member_of"
+    ],
+    [
+      "Michael Quante",
+      "German Society for Philosophy",
+      "head_of"
+    ],
+    [
+      "Michael Quante",
+      "German Society for Philosophy",
+      "member_of"
+    ],
+    [
+      "Claudia Bickmann",
+      "Society for Intercultural Philosophy",
+      "member_of"
+    ],
+    [
+      "Wer bin ich und wenn ja, wie viele",
+      "Richard David Precht",
+      "created_by"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German Society for Philosophy",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Society for Philosophy",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Jostein Gaarder",
+      "Norwegian",
+      "citizen_of-x"
+    ],
+    [
+      "Sophie's World",
+      "Jostein Gaarder",
+      "created_by"
+    ]
+  ]
+}

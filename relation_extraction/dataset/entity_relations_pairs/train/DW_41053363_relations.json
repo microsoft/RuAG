@@ -1,0 +1,50 @@
+{
+  "content": "Archaeologist Lutz: ‘We really weren’t expecting this tremendous discovery’\nThe great ape teeth found in Eppelsheim last year could topple the understanding of our earliest history. Herbert Lutz, head of the excavation team, tells DW what the find means to him - and how it almost didn’t happen. \nA little over a year ago, a team of archaeologists in southwestern Germany uncovered two teeth where the Rhine River used to flow, in the town of Eppelsheim near Mainz. The news of the discovery was announced officially this week, because the team that performed the excavation wanted to make sure that what they had found was as significant as they initially thought. Herbert Lutz heads that team at the Natural History Museum in Mainz. Herbert Lutz: It's completely new to science, and it is a big surprise because nobody had expected such a tremendous, extremely rare discovery. To find a completely new species? Nobody expected that. DW: Why were you looking at this precise location? We were excavating riverbed sediments of the proto-Rhine River near Eppelsheim. These sediments are approximately 10 million years old and are well known in science, ever since the first fossils were excavated here in the early 19th century. And how old are the teeth you've found? Around 9.7 million years old. What does a 9.7-million-year-old tooth look like? It's perfectly preserved. It actually looks like a new excellent tooth; however, it's no longer white. It's shining like amber. No less has been said about this tooth than that the history of mankind now has to be rewritten… Well you know it's a question that's been discussed for decades. New discoveries lead to new insights that may contribute to our knowledge about our own history, and this finding has that potential because the great ape species has a relationship to Homo sapiens. Read more: Neanderthals dined on woolly rhinos and used aspirin So what's the big groundbreaking knowledge here? The groundbreaking knowledge is that we have comparable finds only in East Africa. And these are much, much younger. These species are well known as Ardi and Lucy, and their canines look very similar to the one here from Eppelsheim, but they are only two, three, four or five million years old, and Eppelsheim is almost 10. So the question is: What has happened? You mean - how this great ape got up to the Rhine valley, or whether the species in Africa came from Europe? Yeah, we have similar species in Africa, but we don't know where this great ape came from. We do not have comparable finds from southern Europe, even from in between maybe Greece or Turkey. From there, we know of great ape fossils, but they all look much different. And so it's a great mystery. So this is the lone Rhineland monkey whose teeth have been found. Can the general public see the discovery? Until Sunday, yes, they are in our exhibition in the museum in Mainz. And most likely about mid November they will be on display in a great exhibition in the Landesmuseum in Mainz. Professor Lutz, can you give us a sense of how important this finding was to you personally? Well, we've been digging at this site for 17 years now. And when we started, of course everybody knew it had the potential to yield hominoid fossils. We were always waiting for such a find. But at the end of 2016, we decided to finish the excavation and just in the last second, if you will, these two teeth came to light. We really weren't expecting such a tremendous discovery. So for us now it's clear we have to continue, and we will continue. And, well, I think it's a big luck to experience such an exciting story. I did not expect it. Professor Herbert Lutz is deputy director of the Natural History Museum in Mainz. His focus is geological and paleontological excavation.",
+  "relations": [
+    [
+      "Eppelsheim",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Herbert Lutz",
+      "Natural History Museum",
+      "head_of"
+    ],
+    [
+      "Herbert Lutz",
+      "Natural History Museum",
+      "member_of"
+    ],
+    [
+      "Natural History Museum",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Natural History Museum",
+      "Mainz",
+      "in2"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Mainz",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Landesmuseum",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Landesmuseum",
+      "Mainz",
+      "in2"
+    ]
+  ]
+}

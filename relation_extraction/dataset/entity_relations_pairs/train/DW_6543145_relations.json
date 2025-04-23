@@ -1,0 +1,135 @@
+{
+  "content": "MoU not enough to protect Indonesian maids\nIndonesia and Malaysia have signed an MoU to revise an agreement protecting the basic rights of domestic workers in Malaysia. It will lift a ban on Indonesian domestic workers put in place after a series of abuse cases.\nThe new labor agreement between Indonesia and Malaysia is expected to improve working conditions for Indonesian domestic workers in Malaysia. The Indonesian Labor Minister, Muhaimin Iskandar, and the Malaysian Human Resources Minister, Datuk Dr. S. Subramaniam, have recently signed the revision in Bandung, Indonesia. Roostiawati, an Indonesian labor official, explains that the Memorandum of Understanding (MoU) between Indonesia and Malaysia is to ensure all salaries are paid using bank transfers and that the maids have access to communication. \"The migrant workers are to keep their passports instead of giving them to their employers, as has been commonplace. This is a basic human right. The maids are to be given one day off every week and their salaries have to be paid every month via bank transfer,\" Roostiawati explains. Long list of abuses Rights group say that every year hundreds of maids lodge complaints against their employers ranging from physical abuse to nonpayment of salaries. Some Indonesian maids were reportedly being forced to work up to 14 hours a day, seven days a week. The newly signed amendments also resolve the issue of minimum wage. According to the new agreement, salaries of Indonesian migrant workers must comply with minimum wages in their home regions. Anis Hidayah, Executive Director of the Indonesian NGO Migrant Care, criticizes that decision. She says that minimum wage paid to Indonesian domestic workers should not be lower than the standards in Malaysia. She believes that a standard for minimum wages is \"very important.\" Obstacles Officials from Indonesia and Malaysia will also set up a joint task force to monitor the implementation of the MoU’s terms. But Anis Hidayah is pessimistic that the joint task force will be able to do its work as maids are regarded as private sector workers In Malaysia. \"What kind of mechanism will the government use to ensure that the amendments are implemented? Are they going to visit every home? How can they be certain that the maids are allowed to keep their passports? Or that they will get a day off every week and get proper access to communication?\" Malaysia’s rapid economic growth has led to an influx of foreign workers, especially foreign domestic workers. Official estimates put the number of Indonesian maids working in Malaysia at around 200,000. In 2009, Indonesia issued a ban on sending domestic maids to Malaysia after many incidents of mistreatment were reported. The signing of the new Memorandum of Understanding between Indonesia and Malaysia will lift the two year freeze. Author: Ayu Purwaningsih / zr Editor: Sarah Berning",
+  "relations": [
+    [
+      "Memorandum of Understanding",
+      "Indonesia",
+      "signed_by"
+    ],
+    [
+      "Memorandum of Understanding",
+      "Malaysia",
+      "signed_by"
+    ],
+    [
+      "Muhaimin Iskandar",
+      "Indonesia",
+      "agent_of"
+    ],
+    [
+      "Muhaimin Iskandar",
+      "Indonesia",
+      "citizen_of"
+    ],
+    [
+      "Muhaimin Iskandar",
+      "Indonesian",
+      "citizen_of-x"
+    ],
+    [
+      "Muhaimin Iskandar",
+      "Indonesia",
+      "minister_of"
+    ],
+    [
+      "Muhaimin Iskandar",
+      "Indonesian",
+      "minister_of-x"
+    ],
+    [
+      "Indonesian",
+      "Indonesia",
+      "gpe0"
+    ],
+    [
+      "Malaysian",
+      "Malaysia",
+      "gpe0"
+    ],
+    [
+      "Datuk Dr. S. Subramaniam",
+      "Malaysia",
+      "agent_of"
+    ],
+    [
+      "Datuk Dr. S. Subramaniam",
+      "Malaysia",
+      "citizen_of"
+    ],
+    [
+      "Datuk Dr. S. Subramaniam",
+      "Malaysian",
+      "citizen_of-x"
+    ],
+    [
+      "Datuk Dr. S. Subramaniam",
+      "Malaysia",
+      "minister_of"
+    ],
+    [
+      "Datuk Dr. S. Subramaniam",
+      "Malaysian",
+      "minister_of-x"
+    ],
+    [
+      "Bandung",
+      "Indonesia",
+      "in0"
+    ],
+    [
+      "Bandung",
+      "Indonesian",
+      "in0-x"
+    ],
+    [
+      "Roostiawati",
+      "Indonesia",
+      "agent_of"
+    ],
+    [
+      "Roostiawati",
+      "Indonesian",
+      "agent_of-x"
+    ],
+    [
+      "Roostiawati",
+      "Indonesia",
+      "citizen_of"
+    ],
+    [
+      "Roostiawati",
+      "Indonesian",
+      "citizen_of-x"
+    ],
+    [
+      "Anis Hidayah",
+      "Indonesia",
+      "citizen_of"
+    ],
+    [
+      "Anis Hidayah",
+      "Indonesian",
+      "citizen_of-x"
+    ],
+    [
+      "Anis Hidayah",
+      "Migrant Care",
+      "head_of"
+    ],
+    [
+      "Anis Hidayah",
+      "Migrant Care",
+      "member_of"
+    ],
+    [
+      "Migrant Care",
+      "Indonesia",
+      "based_in0"
+    ],
+    [
+      "Migrant Care",
+      "Indonesian",
+      "based_in0-x"
+    ]
+  ]
+}

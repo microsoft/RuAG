@@ -1,0 +1,180 @@
+{
+  "content": "NATO Troops Killed in Roadside Afghan Blast\nFive NATO-led troops, three Afghan civilians, two Afghan police officers and five militants were killed in a series of blasts and clashes in Afghanistan. A sixth NATO soldier died in a traffic accident, officials said.\nIn the latest incident, four NATO-led International Security Assistance Force (ISAF) soldiers were killed in a roadside bomb blast in eastern region of the country, the alliance said in a statement on Sunday, March 15. \"On behalf of ISAF, I offer our sincere condolences to the families and friends of our fallen soldiers,\" Brigadier-General Richard Blanchette, an ISAF spokesperson said in a statement. \"These dedicated professionals have risked their lives for a safe and stable Afghanistan,\" he said. The statement did not disclose the nationalities of the soldiers, nor say where exactly in eastern region the incident took place. Zabiullah Mujahid, a Taliban spokesman said that their forces attacked a US military tank in Kot district of eastern Nangarhar province on Sunday afternoon. It was not immediately clear if the Taliban and NATO statement were referring to the same incident. Meanwhile, a French soldier was killed in a Taliban attack in an area east of Kabul city on Saturday, French Defense Ministry and NATO military in Kabul said. The sixth NATO fatality was a German soldier, who was killed in a traffic accident in northern Afghanistan, the German Defense Ministry said. A British soldier was also killed in an insurgent attack in southern province of Helmand on Saturday, bringing the total number of NATO fatalities to seven in the past two days. Meanwhile, a suicide bomber detonated an explosives-packed vehicle near a convoy of foreign forces in the Afghan capital Kabul on Sunday afternoon, killing two civilians and wounding 14, including several children, Zemarai Bashary, spokesman for the Interior Ministry said. In the south of the country, a roadside bomb targeting Kandahar city's mayor on Sunday killed one bystander and wounded six more civilians, Abdul Khaliq, a senior police official in the province, said. In a separate incident in the same province, US-led coalition forces said they killed five suspected Taliban insurgents and detained four more in an operation in Maiwand district of the province on Sunday morning. The Afghan forces bear the brunt of Taliban attacks in Afghanistan. More than 2,300 police forces were killed in the past two years. Seven years from the ouster of their regime, Taliban militants continue to grow stronger and extend their writ to wider swathes of the country.",
+  "relations": [
+    [
+      "International Security Assistance Force",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "International Security Assistance Force",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "French",
+      "agency_of-x"
+    ],
+    [
+      "Defense Ministry",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Defense Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Richard Blanchette",
+      "International Security Assistance Force",
+      "member_of"
+    ],
+    [
+      "Zabiullah Mujahid",
+      "Taliban",
+      "member_of"
+    ],
+    [
+      "Kot",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kot",
+      "Nangarhar",
+      "in1"
+    ],
+    [
+      "Nangarhar",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Nangarhar",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Kabul",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kabul",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Helmand",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Helmand",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Zemarai Bashary",
+      "Afghanistan",
+      "agent_of"
+    ],
+    [
+      "Zemarai Bashary",
+      "Afghan",
+      "agent_of-x"
+    ],
+    [
+      "Zemarai Bashary",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Zemarai Bashary",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Zemarai Bashary",
+      "Interior Ministry",
+      "member_of"
+    ],
+    [
+      "Interior Ministry",
+      "Afghanistan",
+      "agency_of"
+    ],
+    [
+      "Interior Ministry",
+      "Afghan",
+      "agency_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Interior Ministry",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Afghanistan",
+      "ministry_of"
+    ],
+    [
+      "Kandahar",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kandahar",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Abdul Khaliq",
+      "Afghanistan",
+      "agent_of"
+    ],
+    [
+      "Abdul Khaliq",
+      "Afghan",
+      "agent_of-x"
+    ],
+    [
+      "Abdul Khaliq",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Abdul Khaliq",
+      "Afghan",
+      "citizen_of-x"
+    ]
+  ]
+}

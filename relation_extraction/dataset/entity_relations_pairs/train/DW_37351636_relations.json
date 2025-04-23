@@ -1,0 +1,20 @@
+{
+  "content": "Shell sells North Sea oil fields to rival group \nRoyal Dutch Shell has agreed to sell 3.6 billion euros ($3.8 billion) worth of its North Sea assets to oil explorer Chrysaor as part of its debt restructuring plan aimed at adapting to lower oil prices.\nTen Shell-owned oil fields in the North Sea will go to smaller rival group Chrysaor under the deal, reducing the anglo-dutch energy giant's output by over half. Some 400 employees are expected to transfer to Chrysaor. The transaction, which is still subject to regulators' approval, is slated for completion in the second half of 2017. The move is an integral part of Shell's strategy to adapt to lower oil prices and pay off debt in the wake of its massive takeover of rival BG group. \"This deal shows the clear momentum behind Shell's global, value-driven $30 billion divestment program,\" said Simon Henry, Shell's chief financial officer, adding that the \"value here represents a profit against the book values of the assets, and a breakeven oil price above that for the BG acquisition.\" Shell took over BG Group for $52.6 billion last year, increasing its proven reserves by 25 percent. Many critics questioned the logic of the move at a time when oil prices hit 12-year lows amid slowing economic growth in China and increased production in the US. Oil prices have since rebounded somewhat, with Brent crude currently back above $50 a barrel. hch/uhe (AP, DPA)",
+  "relations": [
+    [
+      "BG group",
+      "Royal Dutch Shell",
+      "part_of"
+    ],
+    [
+      "Simon Henry",
+      "Royal Dutch Shell",
+      "head_of"
+    ],
+    [
+      "Simon Henry",
+      "Royal Dutch Shell",
+      "member_of"
+    ]
+  ]
+}

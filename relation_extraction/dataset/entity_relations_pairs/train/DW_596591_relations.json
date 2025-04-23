@@ -1,0 +1,120 @@
+{
+  "content": "WorldCom Bankruptcy Unleashes Mild Tremors in Europe\nGerman bank stocks tumbled on Monday as investors speculated that they would suffer from the collapse of the US telecom firm. But by Tuesday, most fears had been allayed.\nWhen US telecom giant WorldCom collapsed over the weekend, it awoke fears that the company's German investors and creditors would suffer as well. Speculation that major German creditors Deutsche Bank 24 and Commerzbank had given the US company a high amount of credit sent their stock prices tumbling on Monday. By Tuesday those fears had been all but brushed away. Commerzbank said it had no involvement in WorldCom. Deutsche Bank 24, WorldCom's largest German creditor, announced that it had no more than a $241 million (243 million euro) credit exposure to the telecom giant, which filed for bankruptcy in the United States on Sunday. German banks and insurers have rushed in recent days to announce they have only limited involvement in the second largest telecommunications operator in the U.S. WorldCom provided Internet services to more than 40 companies in Germany and the cities of Frankfurt, Düsseldorf and Hamburg. The company owes money to more than 60 banks across the globe, according to analysts, but few of them are in Germany. European WorldCom \"comfortable\" The company's foreign operations are not affected by the bankruptcy filing in the U.S. European WorldCom chief Lucy Woods told the Financial Times Deutschland that the company's European daughter had no plans to file bankruptcy. \"We're in a very comfortable situation,\" she said. Analysts value the US company's debt load at $30 billion. The company was forced into declaring bankruptcy after the cash flow it uses to pay debts and make investments dwindled from $2 billion three weeks ago to a mere $200 million. Havoc in the markets The filing came just weeks after the revelation of a $3.85 billion accounting scandal that wreaked havoc in the already-vulnerable telecom industry and on stock markets around the world. Both the Securities and Exchange Commission and the Department of Justice have opened investigations into the Mississippi-based company. The company fired Chief Financial Officer Scott Sullivan, who it said orchestrated the fraud, and hired consulting firm KPMG to sort through the mess. WorldCom stock soars in Germany Investors, at least abroad, were buoyed by news on Monday that the company plans to re-organize their operations and erase more than 75 percent of their debt. WorldCom got court approval on Monday for $2 billion in funding that it will use to restructure over the next year. WorldCom stock prices soared up to 57 percent on the Frankfurt exchange on Tuesday. The Deutsche Bank said it wasn't sure whether the credit would get repaid. News of the bank's relatively low involvement was nevertheless encouraging to investors, who pushed the stock price up by 2.4 percent in early trading on the Frankfurt Stock Exchange on Tuesday. “After the speculation on Monday, it was a relief for investors to know how high the bank’s engagment was,” analyst Jörn Kissenkötter from the bank M.M. Warburg told Reuters.",
+  "relations": [
+    [
+      "Frankfurt Stock Exchange",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Frankfurt Stock Exchange",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "WorldCom",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Deutsche Bank 24",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Bank 24",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Commerzbank",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Commerzbank",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Düsseldorf",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Düsseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Lucy Woods",
+      "WorldCom",
+      "head_of"
+    ],
+    [
+      "Lucy Woods",
+      "WorldCom",
+      "member_of"
+    ],
+    [
+      "Department of Justice",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Department of Justice",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Department of Justice",
+      "United States",
+      "ministry_of"
+    ],
+    [
+      "Mississippi",
+      "United States",
+      "in0"
+    ],
+    [
+      "Scott Sullivan",
+      "WorldCom",
+      "head_of"
+    ],
+    [
+      "Scott Sullivan",
+      "WorldCom",
+      "member_of"
+    ],
+    [
+      "Jörn Kissenkötter",
+      "M.M. Warburg",
+      "member_of"
+    ]
+  ]
+}

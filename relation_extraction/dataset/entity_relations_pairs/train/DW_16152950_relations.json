@@ -1,0 +1,215 @@
+{
+  "content": "US, Vietnam cooperate to clean up toxic Agent Orange\nThe US sprayed millions of liters of Agent Orange on the jungles of Vietnam during its war there, creating long-term adverse health effects. Decades later, the former enemies are cooperating to clean up the chemical.\nThe United States began helping Vietnam clean up the toxic chemical defoliant Agent Orange for the first time on Thursday, nearly 40 years after the end of Washington's bloody war with the Southeast Asian communist nation. The US and Vietnam plan to decontaminate some 73,000 cubic meters (2.5 million cubic feet) of soil surrounding the Da Nang airport in the central part of the country. American forces stored and loaded Agent Orange onto planes at Da Nang during the war, which ended in 1975. Between 1,000,000 and 2,500,000 Vietnamese died in the war and over 58,000 Americans. \"We are both moving earth and taking the first steps to bury the legacies of our past,\" US Ambassador to Vietnam David Shear said at a ceremony at Da Nang airport on Thursday. \"I look forward to even more successes to follow.\" Washington sprayed some 45 million liters (12 million gallons) of the defoliant during the Vietnam War in \"Operation Ranch Hand,\" a campaign to remove the jungle canopy and expose North Vietnamese forces and their supply lines to attack. Agent Orange contains the chemical dioxin, which is known to cause cancer and respiratory problems. The Vietnamese government claims that up to four million of its citizens suffer from diseases related to Agent Orange. US soldiers were also affected by the chemical. Washington, for its part, maintains that the link between dioxin exposure and disease is \"uncertain.\" The two former enemies are using technology that heats the contaminated soil at Da Nang to high temperatures, thereby breaking down the dioxin and rendering it into harmless compounds. According to the US embassy, the soil around Da Nang should be safe again by 2016. No compensation for victims Although the US has begun to assist in efforts to clean up Agent Orange in Vietnam, it still has not committed any money to helping the victims of the chemical. According to Vietnamese authorities, children are still being born with deformities and health defects three generations after exposure. \"They have not given any money to help victims of dioxin improve their health,\" said Mai The Chinh, head of the Propaganda Board of the Association for Victims of Agent Orange/Dioxin. \"The life of Agent Orange victims is very difficult now.\" The US and Vietnam are also considering a clean up at Bien Hoa, in the southern province of Dong Nai. The airport there is actually more contaminated than Da Nang, according to the Ho Chi Minh City Law newspaper. Phu Cat airport in the central province of Binh Dinh is another heavily contaminated area. The cleanup is a joint project between Vietnam's Defense Ministry and the US Agency for International Development. Work began last year with the clearance of unexploded ordinance from the area surrounding Da Nang. slk/tj (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Da Nang airport",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Da Nang airport",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Da Nang airport",
+      "Vietnamese",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Vietnamese",
+      "Vietnam",
+      "gpe0"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "David Shear",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "David Shear",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "David Shear",
+      "Americans",
+      "agent_of-x"
+    ],
+    [
+      "David Shear",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "David Shear",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "David Shear",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Vietnam War",
+      "Vietnam",
+      "event_in0"
+    ],
+    [
+      "Operation Ranch Hand",
+      "Vietnam",
+      "event_in0"
+    ],
+    [
+      "Mai The Chinh",
+      "Vietnam",
+      "citizen_of"
+    ],
+    [
+      "Mai The Chinh",
+      "Vietnamese",
+      "citizen_of-x"
+    ],
+    [
+      "Mai The Chinh",
+      "Propaganda Board of the Association for Victims of Agent Orange/Dioxin",
+      "head_of"
+    ],
+    [
+      "Mai The Chinh",
+      "Propaganda Board of the Association for Victims of Agent Orange/Dioxin",
+      "member_of"
+    ],
+    [
+      "Bien Hoa",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Bien Hoa",
+      "Vietnamese",
+      "in0-x"
+    ],
+    [
+      "Dong Nai",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Dong Nai",
+      "Vietnamese",
+      "in0-x"
+    ],
+    [
+      "Ho Chi Minh City Law",
+      "Vietnam",
+      "based_in0"
+    ],
+    [
+      "Ho Chi Minh City Law",
+      "Vietnamese",
+      "based_in0-x"
+    ],
+    [
+      "Phu Cat",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Phu Cat",
+      "Binh Dinh",
+      "in1"
+    ],
+    [
+      "Binh Dinh",
+      "Vietnam",
+      "in0"
+    ],
+    [
+      "Binh Dinh",
+      "Vietnamese",
+      "in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "Vietnam",
+      "agency_of"
+    ],
+    [
+      "Defense Ministry",
+      "Vietnamese",
+      "agency_of-x"
+    ],
+    [
+      "Defense Ministry",
+      "Vietnam",
+      "based_in0"
+    ],
+    [
+      "Defense Ministry",
+      "Vietnamese",
+      "based_in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "Vietnam",
+      "ministry_of"
+    ],
+    [
+      "Agency for International Development",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Agency for International Development",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Agency for International Development",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Agency for International Development",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Agency for International Development",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Agency for International Development",
+      "Americans",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "content": "German Publishers Warm to Google Library\nGoogle is heading for a legal battle with American publishers over its plan to digitize books from five major libraries. But German publishers seem warm to the idea.\nFive major US publishers filed suit in San Francisco on Wednesday to block Google from scanning books without the permission of copyright holders. The project, already underway but stopped by Google in August, is the Silicon Valley company's bid to make the world's books searchable online. Five major libraries are already participating in the project and Google sent executive Jennifer Grant to the Frankfurt Book Fair on Wednesday to present the idea to European and German book publishers. This week Google introduced print.google.de, the German version of the search engine Google posted online this time last year. Google lets users type in a search term then scans its digitized library for the word or expression and produces a list of books where the term is mentioned. Users can then click on the results and a few pages of the text appear allowing users to read up online. The idea is to supplement Internet users with another source of material. In contrast to their American colleagues, German publishing houses have reacted well to the database. Some German publishers on board Google said that is discussing terms with all major German publishers. Langenscheidt, which publishes a large selection of dictionaries, said they had got on board. \"We are starting with 160 books,\" Hubert Haarmann, head of the electronic publishing division and the publisher, told the Financial Times Deutschland. \"We see it as an additional distribution possibility.\" An increased and more direct reach to the consumer is just one way Google is promoting its new project to skeptical publishers. The company also says that publishers will be able to monitor interest in titles through the search engine, and use the information in deciding whether to reprint certain books. Google has also promised publishers a cut of the advertising that will appear on the site. Not all German publishers are on board. In fact, the German association representing publishers has announced it will begin its own project where publishers can scan their own books, rather than let someone else do it. The project is not a competitor to Google, but will allow publishers to create their own database, rather than turn it over to the search engine. If Google can, anyone can But American publishers don't want to even take that step. They fear a slippery slope if Google is allowed to digitize copyrighted material. \"If Google can make … copies, then anyone can,\" Patricia Schroeder, president of the Association of American Publishers, said in a phone interview with Reuters. \"Anybody could go into a library and start making digital copies of anything.\" At issue is the right of authors and their publishers to their own work versus the \"fair use\" of their work by the public. Google argues that their search engine will only offer users a \"card catalog\" function, with a few pages of text. No one will be able to read the entire book online.",
+  "relations": [
+    [
+      "Google Library",
+      "Google",
+      "product_of"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "San Francisco",
+      "US",
+      "in0"
+    ],
+    [
+      "San Francisco",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Silicon Valley",
+      "US",
+      "in0"
+    ],
+    [
+      "Silicon Valley",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Jennifer Grant",
+      "Google",
+      "head_of"
+    ],
+    [
+      "Jennifer Grant",
+      "Google",
+      "member_of"
+    ],
+    [
+      "Frankfurt Book Fair",
+      "German",
+      "event_in0-x"
+    ],
+    [
+      "Langenscheidt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hubert Haarmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hubert Haarmann",
+      "Langenscheidt",
+      "head_of"
+    ],
+    [
+      "Hubert Haarmann",
+      "Langenscheidt",
+      "member_of"
+    ],
+    [
+      "Patricia Schroeder",
+      "Association of American Publishers",
+      "head_of"
+    ],
+    [
+      "Patricia Schroeder",
+      "Association of American Publishers",
+      "member_of"
+    ]
+  ]
+}

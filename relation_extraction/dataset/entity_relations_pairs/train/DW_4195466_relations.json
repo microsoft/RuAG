@@ -1,0 +1,120 @@
+{
+  "content": "Final four square off in German Cup semifinals\nBremen's unprecedented four-match battle with Hamburg gets underway with the Cup semifinal on Wednesday. But before that Leverkusen try to seize their last chance for some silverware against Mainz.\nAmong the high hopes Leverkusen carried into this season, one is still alive. If they can get past second-division Mainz, the underachieving squad will book a place in the Cup finals in Berlin on May 30. After topping the table for parts of the first half of the season, coach Bruno Labbadia's charges have been wretched of late, winning only three of their last 10 matches and dropping down to ninth in the league. One reason is that, with their own stadium undergoing renovations, they've had to play their home matches in Duesseldorf. That's also the case with Tuesday's semifinal. Still, Leverkusen have to fancy their chances -- with no major injury problems against an opponent from Division Two. And winning the Cup would go a long way toward salvaging a disappointing season and probably save Labbadia's job. Mainz, for their part, are certain to pack defenders into their own half and hope for a late goal, a strategy that worked well in their quarterfinal upset of first-division Schalke in early March. Epic rivalry The other Cup finalist will be determined when Bremen travel to Hamburg on Wednesday. It's the first of a four-game series between the Northern German rivals -- with a UEFA Cup semifinal tie and a league match to follow later in April and in May. Bremen, who have slipped down to tenth in the Bundesliga table, have been on cruise control in the league. But it will be a different story in the two cup competitions, with titles and a spot in international competition up for grabs. Bremen goalkeeper Tim Wiese has promised his side will try to \"get on Hamburg's nerves\" and win all four matches. The visitors will be bolstered by the return of superstar playmaker Diego who was rested with a perhaps fictional injury in the league last weekend. Hamburg, meanwhile, are third in the league and have an outside shot at winning a triple. But they should beware, if they think they're bound to be victorious in something. As recently as 2002, Leverkusen had a chance to win the Bundesliga, the Cup and the Champions League -- only to emerge, in the end, empty-handed. Author: Jefferson Chase Editor: Trinity Hartman",
+  "relations": [
+    [
+      "Bremen",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Bremen",
+      "UEFA Cup",
+      "appears_in"
+    ],
+    [
+      "Bremen",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bremen",
+      "Hamburg",
+      "vs"
+    ],
+    [
+      "Hamburg",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Hamburg",
+      "UEFA Cup",
+      "appears_in"
+    ],
+    [
+      "Hamburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hamburg",
+      "Bremen",
+      "vs"
+    ],
+    [
+      "Leverkusen",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Leverkusen",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Leverkusen",
+      "Mainz",
+      "vs"
+    ],
+    [
+      "Mainz",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Mainz",
+      "Leverkusen",
+      "vs"
+    ],
+    [
+      "Mainz",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Mainz",
+      "Schalke",
+      "won_vs"
+    ],
+    [
+      "Bruno Labbadia",
+      "Leverkusen",
+      "coach_of"
+    ],
+    [
+      "Bruno Labbadia",
+      "Leverkusen",
+      "member_of"
+    ],
+    [
+      "Schalke",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Schalke",
+      "Mainz",
+      "vs"
+    ],
+    [
+      "Tim Wiese",
+      "Bremen",
+      "member_of"
+    ],
+    [
+      "Tim Wiese",
+      "Bremen",
+      "player_of"
+    ],
+    [
+      "Diego",
+      "Bremen",
+      "member_of"
+    ],
+    [
+      "Diego",
+      "Bremen",
+      "player_of"
+    ]
+  ]
+}

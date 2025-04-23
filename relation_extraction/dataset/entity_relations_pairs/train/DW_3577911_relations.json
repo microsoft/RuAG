@@ -1,0 +1,95 @@
+{
+  "content": "German Gymnastics Team Gets Boost from 33-Year-Old Medalist\nAt her fifth Olympic Games in Beijing, 33-year-old gymnast Oksana Chusovitina finally claimed an individual medal. It's her story of determination and heartache that has won the hearts of viewers around the world.\nOksana Chusovitina is one of a kind. Not only is she the oldest woman in over half a century to win an Olympic medal in gymnastics, she's been competing for nearly two decades already -- that's longer than many of her teammates have been alive. And she's competed in five Olympic Games under three flags. In 1992, just after the dissolution of the Soviet Union, she joined the unified ex-Soviet squad and in 1996, 2000 and 2004 she competed for her home country Uzbekistan, where she had already become something of a national hero. But this year, after claiming German citizenship in 2006, she is a member of the German team. Germany has traditionally not been shown particular strength in gymnastics and Chusovitina's silver on Sunday in vault was Germany's first Olympic medal in gymnastics in 20 years -- a much needed boost to the team. Son's illness shaped gymnast's path Chusovitina began her Olympic career in 1992 with a team gold in Barcelona. Besides coming up dry after that in Atlanta, Sydney and Athens, the 16-year quest for an individual medal was a rough one for the Uzbek athlete. In 2002, Chusovitina's son Alisher, then three years old, was diagnosed with leukemia. Since she already had close ties to the gymnastics team in Cologne, where she had competed in the German national league, she moved to Germany with her husband Bakhodir Kurpanov, a former successful wrestler, and their son. In Cologne, Chusovitina was able to train with the German team and seek medical attention for Alisher. She competed like mad in the years that followed, using her prize money to cover medical bills. Claiming German citizenship in 2006 allowed the gymnast and her family to stay in Germany for Alisher's follow-up examinations -- and it allowed her to strive for a fifth Games. Chusovitina hadn't abandoned her hopes for an individual. Ready for London in 2012 And Sunday's silver shows that, in a sport dominated by teenage prodigies, she has only improved with age. \"I don't feel 33, I feel 18,\" said Chusovitina. \"This medal is for my son. I can't say how happy I am.\" And she's not thinking about retirement. Instead, she's got the 2012 London Games on her mind. \"By then I'll be 37; if I can I'll do a sixth Olympics,\" she said.",
+  "relations": [
+    [
+      "Olympic Games",
+      "Beijing",
+      "event_in2"
+    ],
+    [
+      "Oksana Chusovitina",
+      "Soviet Union",
+      "citizen_of"
+    ],
+    [
+      "Oksana Chusovitina",
+      "Uzbekistan",
+      "citizen_of"
+    ],
+    [
+      "Oksana Chusovitina",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Oksana Chusovitina",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Oksana Chusovitina",
+      "Uzbek",
+      "citizen_of-x"
+    ],
+    [
+      "Oksana Chusovitina",
+      "German Gymnastics Team",
+      "member_of"
+    ],
+    [
+      "Oksana Chusovitina",
+      "Alisher",
+      "parent_of"
+    ],
+    [
+      "Oksana Chusovitina",
+      "German Gymnastics Team",
+      "player_of"
+    ],
+    [
+      "Oksana Chusovitina",
+      "Bakhodir Kurpanov",
+      "spouse_of"
+    ],
+    [
+      "German Gymnastics Team",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Gymnastics Team",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Uzbek",
+      "Uzbekistan",
+      "gpe0"
+    ],
+    [
+      "Alisher",
+      "Oksana Chusovitina",
+      "child_of"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bakhodir Kurpanov",
+      "Oksana Chusovitina",
+      "spouse_of"
+    ]
+  ]
+}

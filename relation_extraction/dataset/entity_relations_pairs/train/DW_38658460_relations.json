@@ -1,0 +1,170 @@
+{
+  "content": "Le Pen 'copies phrases' from Fillon speech at May Day rally\nMarine Le Pen has repeated parts of a patriotic speech given by defeated conservative candidate Francois Fillon last month, French media report. The far-right presidential contender is being accused of plagiarism.\nFrench presidential hopeful Marine Le Pen did not say she was quoting Francois Fillon when she addressed her supporters at a May Day rally north of Paris. But French media reported Tuesday that, in her speech, she appeared to repeat almost verbatim three passages from an address the Les Republicains candidate delivered last month in Le Puy-en-Velay. The similarities were first picked up by satirical YouTube channel Ridicule TV, which is reportedly close to Fillon. The channel posted a video of the two candidates as they proclaimed the same statements. \"If there are waiting lists for the Alliance Francaise [French language and culture organization] in Shanghai, Tokyo, or Mexico, for the French secondary school in Rabat or Rome... that is because France is something else, much more than an industrial, agricultural or military power,\" Fillon argued on April 15. \"If there are waiting lists for the Alliance Francaise in Shanghai, Tokyo, or Mexico, for the French secondary school in Rabat or Rome... that is because France is something else, much more than the industrial, agricultural or military power that it must and can once more become,\" Le Pen said on May 1. Borrowed phrases Fillon referred specifically to the geography of France's borders and spoke of a third \"French way\" for the 21st century - sections Le Pen also borrowed, albeit with some adjustments to reflect her anti-EU political stance. \"Then, there is the frontier of the Rhine, the most open, the most dangerous, the most promising too - this Germanic world with which we have been so often in conflict and with which we will yet cooperate in so many ways,\" Fillon said. \"Then, there is the frontier of the Rhine, the most open, the most promising too - this Germanic world with which we will yet cooperate in so many ways, as long as we regain the status of allies and not of subjects or serfs,\" Le Pen declared. Read more: Le Pen's 'outsider' politics move to center stage in France Fillon, a former frontrunner who was eliminated in the first round of voting last month, also quoted World War I Prime Minister Georges Clemenceau and writer Andre Malraux. Le Pen used those same quotes in her speech, which comes ahead of Sunday's second round run-off. The similarities prompted \"Le Monde\" and other French media to accuse Le Pen of plagiarism. Deputy chairman of Le Pen's National Front party Florian Philippot defended the address, saying it contained a deliberate \"nod to a short passage in a speech about France\" on the part of \"a candidate that shows she is not sectarian.\" nm/se (AFP, dpa)",
+  "relations": [
+    [
+      "Marine Le Pen",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Marine Le Pen",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Marine Le Pen",
+      "National Front",
+      "head_of"
+    ],
+    [
+      "Marine Le Pen",
+      "National Front",
+      "member_of"
+    ],
+    [
+      "Francois Fillon",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Fillon",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Fillon",
+      "Les Republicains",
+      "head_of"
+    ],
+    [
+      "Francois Fillon",
+      "Les Republicains",
+      "member_of"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "May Day",
+      "France",
+      "event_in0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Les Republicains",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Les Republicains",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Le Puy-en-Velay",
+      "France",
+      "in0"
+    ],
+    [
+      "Le Puy-en-Velay",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Alliance Francaise",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Alliance Francaise",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Georges Clemenceau",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Georges Clemenceau",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Georges Clemenceau",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Georges Clemenceau",
+      "France",
+      "head_of_gov"
+    ],
+    [
+      "Georges Clemenceau",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "Andre Malraux",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Andre Malraux",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Le Monde",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Le Monde",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "National Front",
+      "France",
+      "based_in0"
+    ],
+    [
+      "National Front",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Florian Philippot",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Florian Philippot",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Florian Philippot",
+      "National Front",
+      "head_of"
+    ],
+    [
+      "Florian Philippot",
+      "National Front",
+      "member_of"
+    ]
+  ]
+}

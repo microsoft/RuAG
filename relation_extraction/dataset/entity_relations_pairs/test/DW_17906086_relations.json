@@ -1,0 +1,200 @@
+{
+  "content": "Germany won't tolerate 'Sharia police'\nThe German government has strongly criticized nightly patrols in the city of Wuppertal by men calling themselves \"Sharia police.\" The 33-year-old behind the patrols claimed that their goal was only to raise attention.\nConservative members of Chancellor Angela Merkel's coalition put forward a united front at the weekend against recent developments in the city of Wuppertal. Interior Minister Thomas de Maiziere said civilians wearing uniforms bearing the logo \"Shariah police\" could not simply start patrolling German streets. The groups reportedly hovered around sites like discotheques and gambling houses, telling passers-by to refrain from gambling and alcohol. Wuppertal's police have begun pressing charges. \"Sharia law is not tolerated on German soil,\" de Maiziere told mass-circulation daily Bild on Saturday. \"Nobody can take it upon themselves to abuse the good name of the German police.\" Justice Minister Heiko Maas, meanwhile, told Bild that \"the state alone\" was responsible for the administration of justice in Germany. It was obvious, Maas said, that any illegal parallel system of law enforcement would not be tolerated. Christian Democrat party whip Volker Kauder was similarly emphatic in an interview to be published in this week's Welt am Sonntag newspaper. \"Under absolutely no circumstances can we tolerate self-styled 'Sharia police officers' patrolling our streets and dictating what people should or should not do,\" Kauder said. Ringleader: goal was attention The 33-year-old behind the Wuppertal patrols, former fireman Sven Lau, published a video on his website on Saturday. Lau said that a \"Sharia police\" never existed, and that a group of men had simply worn the mock uniforms for a few hours. \"We knew that this would raise attention,\" Lau said, claiming that his goal was to spark a debate about Sharia law in Germany. Lau is a leading member of Germany's Salafist movement, advocates of a strict Sunni interpretation of political Islam. He works with a mosque in his native Mönchengladbach, not far west of Wuppertal, and used to head the fundamentalist group \"Invitation to Paradise.\" (Einladung zum Paradies, in German.) The central council of Muslims in Germany (ZMD) condemned the activities. \"These few teen yobs do not speak in our name,\" chairman Ayman A. Mazyek told the Tagesspiegel am Sonntag newspaper. \"These people are perverting the name of our religion. With this shrill and foolish action, they are really hurting Muslims.\" Sharia law is the Arabic term for a legal system based on the Koran. Saudi Arabia and Iran are examples of countries where such a system officially applies. Wearing a veil is obligatory for women and corporal punishment such as stoning is legally tolerated. Human Rights Watch reported last month that Saudi Arabia had beheaded 19 people in just 16 days in August, for convictions on charges ranging from cannabis smuggling to \"sorcery.\" msh/rc (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Wuppertal",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Wuppertal",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Muslims in Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Muslims in Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Sven Lau",
+      "Invitation to Paradise",
+      "head_of"
+    ],
+    [
+      "Sven Lau",
+      "Invitation to Paradise",
+      "member_of"
+    ],
+    [
+      "Heiko Maas",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Heiko Maas",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Heiko Maas",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Heiko Maas",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Heiko Maas",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Volker Kauder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Volker Kauder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Volker Kauder",
+      "Christian Democrat",
+      "member_of"
+    ],
+    [
+      "Invitation to Paradise",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Invitation to Paradise",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democrat",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrat",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Welt am Sonntag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Welt am Sonntag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Mönchengladbach",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Mönchengladbach",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Ayman A. Mazyek",
+      "Muslims in Germany",
+      "head_of"
+    ],
+    [
+      "Ayman A. Mazyek",
+      "Muslims in Germany",
+      "member_of"
+    ],
+    [
+      "Tagesspiegel am Sonntag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Tagesspiegel am Sonntag",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

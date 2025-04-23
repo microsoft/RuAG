@@ -1,0 +1,90 @@
+{
+  "content": "Beekeepers battle mites with technology\nBees are useful, hard-working and vital for our ecosystem. Aside from making honey, bees pollinate most of our food crops. But summertime is also the season for one of the biggest threats to honey bees – the varroa mite.\nDete Papendieck puts on a white veiled protective hat and takes out a metal jug with a beak-shaped spout. He sets fire to the container's contents – formic acid – and starts directing the smoke that is wafting at the beehives lined up in front of him in his garden on the outskirts of Bonn. The acid doesn't harm the bees, but it does kill the varroa mites, he says. And July, after most of the honey has been harvested, is the best time to treat his hives. The one millimeter-large varroa mite is a parasite that infests beehives and lays its eggs in the honeycombs, alongside the bees' larvae. \"It feeds on the bees' and the bee brood's blood, the so-called haemolymph,\" Papendieck explains. A third of bees killed in Germany Papendieck is an apiarist at the Bee Research Institute at the University of Bonn and he knows that the threat of mites is serious. If left untreated, varroa-infested colonies rarely survive a winter. In 2010, German beekeepers lost about 200,000 hives to the mite – one third of Germany's total bee population. And it is not just the honey and beeswax production that are affected by the mite. Many of our food crops depend on bees: Some 80 percent of all agricultural plants and 90 percent of fruit trees in Europe are pollinated by Apis mellifera, the European honeybee. Varroa introduced from Asia Had Dete Papendieck been a beekeeper forty years ago he would not have had to worry about mites. He says the varroa mite that was originally native to Asia, was introduced to Europe in the 1970s. \"It happened during a research project in which it was attempted to crossbreed the European honeybee with the Asian honeybee. The researchers were exchanging bee colonies between Europe and India, and that is how the mites came to Germany,\" Papendieck said. Unlike Asian bee species, the European honeybee cannot fight off the varoa mite by itself. According to Papendieck, bees easily transmit the mite to other beekeepers' hives in what apiarists call robbery. \"It happens when certain colonies are being robbed by other bees. Large numbers of bees from different colonies attack weak hives and steal their stocks. At the same time, parasites and diseases are exchanged\", he says. Researchers have been trying to breed varroa-resistant mites, but so far they haven't had much success. High-tech tools help fight the mite Klaus Maresch is also worried about his bees. He is an organic beekeeper from Bonn and he has been passionate about bees since he was a little boy. \"They are part of my family. When I open my hives and smell the honey and hear the buzzing of the bees it's like being in another world,\" he told Deutsche Welle. In addition to using formic acid to fight the mite, Klaus Maresch employs a high-tech tool – a special cylindrical scale that helps him determine when it is best to start the varroa treatment. \"Every day this hive scale sends data about the colonies to our server. The data, such as the temperature in the hive and the amounts of nectar and pollen collected, help me to find a good day to treat varroa,\" Maresch says. Maresch also makes the data about the activities in his hives available to fellow beekeepers who can treat their colonies accordingly. A driver's license for beekeepers? But it is not the mite that angers Maresch most. \"That's nature,\" he says, \"I feel angry about beekeepers who don't fight varroa. If the bees of neighboring beekeepers are infested, I also have a problem.\" The existing German pest regulation obliges beekeepers to treat their bees against varroa, but there are no strict controls. The majority of Germany's more-than-80,000 beekeepers are amateurs who keep between one and 20 colonies. This makes it difficult to impose and survey certain quality standards. Maresch, who sees himself as a kind of 'bee activist', would like to see the government introduce stricter rules. \"There should be a law that obliges every new beekeeper to learn about beekeeping before they are allowed to keep bees. They should get an education and there should be something like a driver's license for beekeepers,\" he says. In the mean time, Europe's bees are going to have to put up with high mortality rates until researchers like Papendieck can find a treatment for the mite that's been plaguing Apis mellifera for over two decades. Author: Gönna Ketels Editor: Nathan Witkop",
+  "relations": [
+    [
+      "Dete Papendieck",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Dete Papendieck",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Dete Papendieck",
+      "Bee Research Institute",
+      "member_of"
+    ],
+    [
+      "Bonn",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bonn",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bee Research Institute",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bee Research Institute",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bee Research Institute",
+      "Bonn",
+      "based_in2"
+    ],
+    [
+      "Bee Research Institute",
+      "University of Bonn",
+      "part_of"
+    ],
+    [
+      "Klaus Maresch",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Klaus Maresch",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "University of Bonn",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Bonn",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "University of Bonn",
+      "Bonn",
+      "based_in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

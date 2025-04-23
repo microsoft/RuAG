@@ -1,0 +1,185 @@
+{
+  "content": "Russia mulls resuming direct flights to Egypt\nRussia's top diplomat has announced Moscow's intentions to resume flights to Egypt after 2015's aviation tragedy. Metrojet, the downed aircraft's operator, was banned from undertaking domestic and international flights.\nRussian Foreign Minister Sergei Lavrov announced on Wednesday that Moscow was working with Egyptian authorities to resume \"direct air links\" to Egypt, in comments carried by Russia's state-owned TASS news agency. \"We agreed to restore air links as soon as possible, provided the highest security standards are guaranteed for Russian citizens,\" Lavrov said after meeting with Egyptian Foreign Minister Sameh Shoukry in the nation's capital. Moscow banned all direct flights to Egypt in November after a Russian passenger plane was downed over the Sinai Peninsula shortly after taking off from Sharm el-Sheikh, a well-known tourist destination on the Red Sea. The \"Islamic State\"-affiliated militant group Sinai Province claimed responsibility for bringing down the Airbus A321 aircraft by smuggling a bomb onto the passenger plane. In a statement posted online, the militant group said the attack was made in retaliation for Russian airstrikes against \"Islamic State\" targets in Syria. Russian investigators confirmed the plane was brought down by an explosive device, although Egyptian authorities said there was a lack of evidence to prove the militant group's claims. 'Security for our citizens' Lavrov said Russian and Egyptian authorities have been in contact to ensure the necessary security measures have been implemented by Cairo. \"Specific recommendations were formulated. Our specialists are certain they will provide reliable security for our citizens who travel to Egypt and from Egypt by air. The Egyptian side has considered these recommendations and, as far as I understand, were supported in general,\" added Russia's top diplomat. Egypt's Red Sea tourist destinations, including Sharm el-Sheikh and Hurghada, were considered some of the most popular vacation spots for Russian citizens prior to the aviation disaster. Moscow's decision to ban direct civilian flights to Egypt further damaged the country's ailing tourism industry, one of its main sources of foreign currency. Meanwhile, Russia's Federal Air Transport Agency on Wednesday banned Kogalymavia, which operated the downed flight under the name Metrojet, from undertaking international and domestic flights due to \"discrepancies and violations\" following safety inspections, TASS reported.",
+  "relations": [
+    [
+      "Kogalymavia",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Kogalymavia",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Kogalymavia",
+      "Kogalymavia",
+      "part_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Sergei Lavrov",
+      "Russian",
+      "minister_of-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "TASS",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "TASS",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "TASS",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "TASS",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Sameh Shoukry",
+      "Egypt",
+      "agent_of"
+    ],
+    [
+      "Sameh Shoukry",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Sameh Shoukry",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Sameh Shoukry",
+      "Egypt",
+      "minister_of"
+    ],
+    [
+      "Sameh Shoukry",
+      "Egyptian",
+      "minister_of-x"
+    ],
+    [
+      "Sinai Peninsula",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Sinai Peninsula",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Sinai Province",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Sinai Province",
+      "Egyptian",
+      "based_in0-x"
+    ],
+    [
+      "Sinai Province",
+      "Islamic State",
+      "part_of"
+    ],
+    [
+      "Cairo",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Cairo",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Hurghada",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Hurghada",
+      "Egyptian",
+      "in0-x"
+    ],
+    [
+      "Federal Air Transport Agency",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "Federal Air Transport Agency",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "Federal Air Transport Agency",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Federal Air Transport Agency",
+      "Russian",
+      "based_in0-x"
+    ]
+  ]
+}

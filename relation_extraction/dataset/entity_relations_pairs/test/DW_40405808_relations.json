@@ -1,0 +1,215 @@
+{
+  "content": "Hurricane Irma thrashes Caribbean as Jose strengthens in wake\nHurricane Irma has continued to pack 300 kph winds as it moves across the Caribbean toward Florida. The record-breaking storm has battered the Bahamas and Cuba, while Hurricane Jose followed in its path.\nAs one of the Atlantic Ocean's largest storms plowed through the Caribbean, leaving destruction in its wake, residents of the US state of Florida prepared for what could be the worst storm to make landfall in over a century. At least 17 people have been killed and dozens more injured across several island nations in the Caribbean. Irma is expected to be there second major hurricane to make landfall in the United States in less than two weeks. Hurricane Harvey struck Texas last week, killing more than 60 people and displacing roughly 1 million others. In the US territory of Puerto Rico, 1 million people – nearly one-third of the population – lost electricity during the storm, said Puerto Rican Governor Ricardo Rossello. \"It will be difficult to estimate how long the power outage will last,\" Rossello said. Later, officials confirmed that at least two people on the island had been killed by the storm's devastation. Two other major storms have developed in the Caribbean, namely Hurricane Jose and Hurricane Katia. Jose was east of the Lesser Antilles with maximum sustained winds of 120 miles per hour (195 kilometers per hour) as a hurricane watch was in effect for Antigua and Barbuda. Jose has followed the same path as Hurricane Irma, and was upgraded to a Category 4 on Friday by the US National Hurricane Center. Katia has remained relatively static, hovering off the coast of Mexico. Florida on edge Florida Governor Rick Scott said 20 inches (50 centimeters) of rain were expected after Irma made landfall at the weekend as he urged evacuations during a press conference on Friday. Nearly 700,000 people have been asked to leave Miami and its surrounding areas. \"Today is the day to do the right thing for your family and get inland for safety ... Do not ignore evacuation orders. All Floridians should be prepared to evacuate soon,\" Scott said. Read more: How to reduce risks from mega-storms? \"I know many of you are stuck in traffic, I’m sure it’s very frustrating. Evacuations are not convenient but they are absolutely meant to keep you safe,\" he added. On Friday, US President Donald Trump described Irma as a storm of \"absolutely historic destructive potential.\" Trump also on Friday signed a $15 billion (13.5 billion euro) hurricane relief package passed by Congress, which also raises the debt ceiling and postpones the possibility of a shutdown of government funding until December. Downgraded to an \"extremely dangerous\" Category 4 but still packing winds of 185 mph (300 kph), Irma moved between the north coast of Cuba and the Bahamas as it neared the Florida Keys and the southern Florida Peninsula. 'Major hurricane' Irma will have a \"truly devastating\" impact on the state's southern coastal areas when it slams into Florida, said US Federal Emergency Management Agency (FEMA) chief Brock Long. Read more: Is climate change making mega-hurricanes the new normal? \"Bottom line is the majority of people along the coast have never experienced a major hurricane like this. It will be truly devastating,\" Long told CNN. \"The entire southeastern United States better wake up and pay attention. Death and destruction At least 11 people have been killed and dozens more injured after Irma tore through the French Caribbean, Barbuda, Anguilla and the British Virgin Islands. Amid widening criticism from residents in British territories that not enough was done to safeguard people from the storm, British Foreign Office Minister Alana Duncan said London has sent tents, vehicles and other relief equipment. \"Anguilla received the hurricane's full blast. The initial assessment is that the damage has been severe and in places critical,\" Duncan told the British Parliament. Thousands displaced Antigua and Barbuda Prime Minister Gaston Browne said nearly every building on Barbuda was damaged when the hurricane's core crossed almost directly over the island early Wednesday and about 60 percent of the island's roughly 1,400 people were homeless. Read more: Harvey, Irma, Jose: What is hurricane season? French, British and Dutch military authorities reportedly rushed aid to the devastated Caribbean islands later on Thursday, with warships and planes dispatching food, water and troops. French Prime Minister Edouard Philippe said four people were confirmed dead and about 50 injured on the French side of St. Martin, an island split between Dutch and French control. French Interior Minister Gerard Collomb said 100,000 food rations were sent to St. Barts and St. Martin, the equivalent of four days of supplies. ls/jm (AP, AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Federal Emergency Management Agency",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Federal Emergency Management Agency",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Irma",
+      "Bahamas",
+      "event_in0"
+    ],
+    [
+      "Jose",
+      "Lesser Antilles",
+      "event_in"
+    ],
+    [
+      "Ricardo Rossello",
+      "Puerto Rico",
+      "agent_of"
+    ],
+    [
+      "Ricardo Rossello",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Ricardo Rossello",
+      "Puerto Rico",
+      "head_of_gov"
+    ],
+    [
+      "Rick Scott",
+      "Florida",
+      "agent_of"
+    ],
+    [
+      "Rick Scott",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Rick Scott",
+      "Florida",
+      "head_of_gov"
+    ],
+    [
+      "Alana Duncan",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Alana Duncan",
+      "British",
+      "minister_of-x"
+    ],
+    [
+      "Florida",
+      "United States",
+      "in0"
+    ],
+    [
+      "Cuba",
+      "Bahamas",
+      "event_in0"
+    ],
+    [
+      "Harvey",
+      "United States",
+      "event_in0"
+    ],
+    [
+      "Harvey",
+      "Texas",
+      "event_in1"
+    ],
+    [
+      "Texas",
+      "United States",
+      "in0"
+    ],
+    [
+      "Puerto Rico",
+      "United States",
+      "in0"
+    ],
+    [
+      "Puerto Rican",
+      "Puerto Rico",
+      "gpe1"
+    ],
+    [
+      "National Hurricane Center",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "National Hurricane Center",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Miami",
+      "United States",
+      "in0"
+    ],
+    [
+      "Floridians",
+      "Florida",
+      "gpe1"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Brock Long",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Brock Long",
+      "Federal Emergency Management Agency",
+      "head_of"
+    ],
+    [
+      "Brock Long",
+      "Federal Emergency Management Agency",
+      "member_of"
+    ],
+    [
+      "CNN",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "British Parliament",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "British Parliament",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Gaston Browne",
+      "Antigua and Barbuda",
+      "agent_of"
+    ],
+    [
+      "Gaston Browne",
+      "Antigua and Barbuda",
+      "citizen_of"
+    ],
+    [
+      "Gaston Browne",
+      "Antigua and Barbuda",
+      "head_of_gov"
+    ],
+    [
+      "Edouard Philippe",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Edouard Philippe",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "Gerard Collomb",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Gerard Collomb",
+      "French",
+      "minister_of-x"
+    ]
+  ]
+}

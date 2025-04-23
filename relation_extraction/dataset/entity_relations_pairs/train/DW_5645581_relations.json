@@ -1,0 +1,135 @@
+{
+  "content": "Six volunteers begin 520-day isolation for Mars experiment\nIn Moscow, six men have volunteered to live isolated in a special simulator for a year and a half as part of an experiment analysing the physical and psychological effects of a possible trip to Mars.\nOn Thursday, the hatch closed behind six volunteers who entered a model space ship in Moscow, where they intend to stay until late 2011. As part of an experiment to study effects of long term isolation that would come with a manned mission to Mars, the men have begun a 520-day period of isolation in a special facility in Moscow. Three Russians, along with one man each from France, Italy and China, have entered the 550-cubic-meter facility where they will spend the next year and a half of their lives. The length of the trip is designed to simulate the amount of time it would take to travel to Mars and back. The Russian commander Aleksei Sitev said he was taking part because it was \"interesting\" and \"beneficial.\" \"I'm taking part in a unique experiment, and in an interesting adventure,\" Sitev said. Physical and psychological challenge Inside the facility, the men's time will be divided into three eight-hour blocks - one for sleeping, one for working, and one for leisure. One of the crew members, Frenchman Romain Charles told journalists what he was packing for the mission. \"Some pictures, books for my leisure time,\" Charles said. \"Trying to keep busy during those times, not to think too much about what is outside the module, trying to be focused on the trip.\" The men will only be able to communicate with the outside world via email, which would also be the case on a real trip to Mars. The model space ship The flight simulation takes part in the Institute for Biomedical Problems in Moscow, which has taken part in the preparation of most Russian space flights. A model space ship has been built, with limited living space for each crew member, equipment for numerous experiments to be carried out on board, as well as a greenhouse. The experiment is being jointly conducted by Russia, China and the European Space Agency and is designed to analyse the psychological and physical effects of such a long term trip into space. The volunteers will live exactly like real astronauts, except that they won't experience weightlessness and there is no cosmic radiation to deal with. All the food for the 520-day experiment had been given to the participants in advance, and it is up to them to ration it accordingly. Goodbye real world The hatch that closed behind the 'space explorers' will not be opened again until the experiment ends or one of the participants is forced to drop out. This is something that project director Boris Morukov hopes will not happen. \"Every crew member has the right to stop and quit the experiment... we have had such a negative experience in the past,\" Morukov said. \"I hope it won't happen again during this experiment.\" The crew members themselves are convinced that it will not be necessary. According to Russian team-member Sukrob Kalamov, there is at least one thing that unites them all: they have all been foolish enough to take part in this experiment. Author: Geert Groot Koerkamp/cb Editor: Rob Turner",
+  "relations": [
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russians",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Aleksei Sitev",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Aleksei Sitev",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Aleksei Sitev",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Romain Charles",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Romain Charles",
+      "Frenchman",
+      "citizen_of-x"
+    ],
+    [
+      "Boris Morukov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Boris Morukov",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Boris Morukov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Boris Morukov",
+      "Institute for Biomedical Problems",
+      "head_of"
+    ],
+    [
+      "Boris Morukov",
+      "Institute for Biomedical Problems",
+      "member_of"
+    ],
+    [
+      "Russians",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Frenchman",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Institute for Biomedical Problems",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "Institute for Biomedical Problems",
+      "Russians",
+      "agency_of-x"
+    ],
+    [
+      "Institute for Biomedical Problems",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "Institute for Biomedical Problems",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Institute for Biomedical Problems",
+      "Russians",
+      "based_in0-x"
+    ],
+    [
+      "Institute for Biomedical Problems",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Institute for Biomedical Problems",
+      "Moscow",
+      "based_in2"
+    ],
+    [
+      "Sukrob Kalamov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sukrob Kalamov",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Sukrob Kalamov",
+      "Russian",
+      "citizen_of-x"
+    ]
+  ]
+}

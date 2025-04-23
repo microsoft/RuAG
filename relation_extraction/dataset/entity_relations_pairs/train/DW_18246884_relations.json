@@ -1,0 +1,160 @@
+{
+  "content": "Sweden 'doesn't need groups like PEGIDA'\nThe Swedish branch of the PEGIDA movement has held its first demonstration in Malmo with little success, as counter-demonstrators vastly outnumbered PEGIDA supporters. Malcolm Brabant reports from Malmo.\nThe atmosphere on Malmo's Stortorget, or Big Square, was like a bear pit on Monday evening - and this was no ordinary PEGIDA demonstration. Following the lead of Dresden, where the PEGIDA rallies got their start in Germany last October, rallies are supposed to be orderly marches through European cities issuing dark warnings against the \"Islamization of the West.\" But for Sweden's first PEGIDA outing, the authorities decided to corral the anti-Muslim protestors behind a wall of steel barricades in one corner of the square. The arena, for that's how it appeared, was surrounded on all sides by a hostile crowd, baiting anyone who had the nerve to carry a Swedish flag. Not surprisingly, despite declarations of support on Facebook, only a handful of PEGIDA followers dared brave the anti-racism demonstrators and follow controversial art gallery owner Henrik Ronnquist, leader of the Swedish chapter, into the cauldron. \"Hundreds and thousands of people have contacted me over the past few days saying we sympathize with you, we support you, but we don't dare come here today,\" said Ronnquist, a man with a conviction for inciting racial hatred. Last year, his gallery exhibited what a court determined were derogatory depictions of Roma people and Africans by artist Dan Park, who received a six-month sentence for his work. Not long after Ronnquist's statement, a topless woman climbed over the barricade in an attempt to get at him. She had the words \"Stop the PEGIDIZATION of Malmo\" written on her torso. Screaming \"Stop PEGIDA!\" she was dragged away by a burly policeman, who later returned her coat to ward off the cold winter air. \"Sweden needs PEGIDA,\" said Ronnquist. \"What we're seeing is the slow Islamization of Sweden. It's not about racism. It's not about specific Muslim people. We want to keep our traditions. The ground Sweden stands on. Our culture. Freedom of speech, freedom of religion.\" Some young Muslims covered up their faces at the police barriers, anxious not to be filmed. Facing them from across the barricades, a handful of PEGIDA supporters held up a sign saying \"Deport supporters of the 'Islamic State.'\" PEGIDA 'preying on people's fears' The idea that Sweden is being Islamicized was ridiculed by Anders Ekhem, the vicar of Malmo, who held a service in support of Muslims during the rally at his church not far from the square. \"I'm concerned about PEGIDA,\" he said. \"They are preying on people's fears. Most Muslims in Sweden support democracy.\" At the rally, a group of young people carrying red flags supported his view. They spoke passionately against PEGIDA as the demonstration got under way. \"We need to show them that everyone is welcome here,\" said Alma Karlssen. Protesting nearby, David Svensson said that Sweden doesn't \"need groups like PEGIDA, who are driving a wedge between Swedes and creating more problems than there already are.\" \"They don't know their history,\" added Philip Spanberg. \"This is exactly how Nazi Germany came to power.\" Outlet for frustrations PEGIDA's emergence in Sweden comes as the country is involved in an intense debate over immigration and the government's commitment to admitting 100,000 asylum seekers per year. Ronnquist shares an ideology with the right-wing Sweden Democrats, which oppose the current open door immigration policy. The Sweden Democrats are the third largest party in parliament but their influence over legislation has been restricted after the major parties formed an alliance to effectively keep them out of the political decision-making process. Nevertheless, the party has seen a recent rise in its popularity in the polls. PEGIDA, therefore, has become an outlet for frustrations over Sweden's commitment to become the most generous country in Europe toward refugees. But following the low turnout on Monday evening in Malmo, and after poor attendance at PEGIDA rallies in Copenhagen just across the Oresund Bridge, the future of the movement in Scandinavia appears in doubt. \"PEGIDA has more traction in Germany than in Scandinavia,\" said Magnus Ranstorp, a lecturer at the Swedish National Defense College and an extremism expert. \"There is greater tolerance in Scandinavia, despite the presence of right-leaning parties. But this is a warning flag for the authorities, in that they need to deal more holistically with immigration and integration in a sensible way.\"",
+  "relations": [
+    [
+      "PEGIDA",
+      "Sweden",
+      "based_in0"
+    ],
+    [
+      "PEGIDA",
+      "Swedish",
+      "based_in0-x"
+    ],
+    [
+      "PEGIDA",
+      "Swedes",
+      "based_in0-x"
+    ],
+    [
+      "Malmo",
+      "Sweden",
+      "in0"
+    ],
+    [
+      "Malmo",
+      "Swedish",
+      "in0-x"
+    ],
+    [
+      "Malmo",
+      "Swedes",
+      "in0-x"
+    ],
+    [
+      "Stortorget",
+      "Sweden",
+      "in0"
+    ],
+    [
+      "Stortorget",
+      "Malmo",
+      "in2"
+    ],
+    [
+      "Henrik Ronnquist",
+      "Sweden",
+      "citizen_of"
+    ],
+    [
+      "Henrik Ronnquist",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Henrik Ronnquist",
+      "Swedes",
+      "citizen_of-x"
+    ],
+    [
+      "Swedish",
+      "Sweden",
+      "gpe0"
+    ],
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dan Park",
+      "Sweden",
+      "citizen_of"
+    ],
+    [
+      "Dan Park",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Dan Park",
+      "Swedes",
+      "citizen_of-x"
+    ],
+    [
+      "Anders Ekhem",
+      "Sweden",
+      "citizen_of"
+    ],
+    [
+      "Anders Ekhem",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Anders Ekhem",
+      "Swedes",
+      "citizen_of-x"
+    ],
+    [
+      "Swedes",
+      "Sweden",
+      "gpe0"
+    ],
+    [
+      "Sweden Democrats",
+      "Sweden",
+      "based_in0"
+    ],
+    [
+      "Sweden Democrats",
+      "Swedish",
+      "based_in0-x"
+    ],
+    [
+      "Sweden Democrats",
+      "Swedes",
+      "based_in0-x"
+    ],
+    [
+      "Oresund Bridge",
+      "Copenhagen",
+      "in2"
+    ],
+    [
+      "Magnus Ranstorp",
+      "Sweden",
+      "citizen_of"
+    ],
+    [
+      "Magnus Ranstorp",
+      "Swedish",
+      "citizen_of-x"
+    ],
+    [
+      "Magnus Ranstorp",
+      "Swedes",
+      "citizen_of-x"
+    ],
+    [
+      "Magnus Ranstorp",
+      "Swedish National Defense College",
+      "member_of"
+    ],
+    [
+      "Swedish National Defense College",
+      "Sweden",
+      "based_in0"
+    ],
+    [
+      "Swedish National Defense College",
+      "Swedish",
+      "based_in0-x"
+    ],
+    [
+      "Swedish National Defense College",
+      "Swedes",
+      "based_in0-x"
+    ]
+  ]
+}

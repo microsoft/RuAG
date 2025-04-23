@@ -1,0 +1,65 @@
+{
+  "content": "Sieren's China: Skewing the figures\nIt is very difficult to comprehend China's official economic data, but there are reliable indicators for evaluating the Chinese economy, says DW's Frank Sieren.\nOn Monday, China revised its growth rate for 2014 downwards. However, it is difficult to understand this from the outside. According to the National Bureau of Statistics in Beijing, the world's second-largest economy grew by 7.3 percent instead of 7.4 percent. This, of course, has triggered discussions once again on how reliable Chinese economic data actually is. One argument is that Chinese statisticians interpret figures as they see fit. Of course, there are also political guidelines. Just as the Communist Party controls the media, it also controls the figures. However, this does not mean that it manipulates the figures haphazardly. On the contrary: Over the past 20 years, it has been clear that most of the figures seem plausible when taken in relation to one another. This does not mean that they are correct though. It is incredible that this year Beijing has twice been able to make a precision landing. China's GDP was exactly 7 percent in the past two quarters. Incredible but not impossible. This is why there have been the most diverse reactions: Commerzbank CEO Martin Blessing recently put the figures that the Chinese government had released on the country's economic growth in doubt. But people at Deutsche Bank think that fears of a crisis are exaggerated. Unreliable data not an isolated case The fact that data can only be verified with difficulty is not only valid for China but for other economies. Let's recall the financial crisis in the US in 2008 and 2009, when the state did not know what kind of risks the banks were running. Even the banks did not know. In China, the probability that data could be wrong is much bigger. China is much less transparent and has grown extremely fast over the past two decades. But we are not simply defenseless and at the mercy of those skewing the figures in Beijing. There are some figures that cannot be falsified so easily. These include exports, which can be cross-checked with international data, and foreign exchange reserves, which are invested internationally. They also include external debts and the dollar-yuan exchange rate. These can at least be used to predict big crises. According to these figures, the current situation in China is difficult but not grave. Exports in August fell by over 6 percent. At 1.67 trillion dollars, external debt is low. Foreign currency reserves are falling a little, but remain very, very high at 3.56 trillion dollars. And the yuan is still valued very high, despite the recent devaluation. No deep recession on the horizon A deep recession - like that in Brazil with minus 2 percent growth, or in Russia - is not on the horizon for China at all. The stability of the Chinese economy would be in serious danger if three developments that can be reliably measured were to occur at the same time: A double-digit depreciation of the yuan to stimulate the economy. If China had to reduce foreign exchange reserves by over a trillion dollars. And if China incurred debts abroad. Therefore, we can rule out a big crisis for the moment. Frank Sieren has lived in Beijing for 20 years.",
+  "relations": [
+    [
+      "Frank Sieren",
+      "DW",
+      "member_of"
+    ],
+    [
+      "National Bureau of Statistics",
+      "China",
+      "agency_of"
+    ],
+    [
+      "National Bureau of Statistics",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "National Bureau of Statistics",
+      "China",
+      "based_in0"
+    ],
+    [
+      "National Bureau of Statistics",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Communist Party",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Communist Party",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Martin Blessing",
+      "Commerzbank",
+      "head_of"
+    ],
+    [
+      "Martin Blessing",
+      "Commerzbank",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "content": "Scientists grow early-stage human eggs in lab to full maturity\nBritish and US scientists have developed eggs from an early stage to full maturity in a lab for the first time. The technique could offer cancer patients a promising new type of fertility treatment.\nScientists have succeeded in growing early-stage human egg cells to full maturity in a laboratory for the first time, according to a study released on Friday. The findings, which were published in the journal Molecular Human Reproduction, could be used to create new fertility treatments in the future. The work by researchers at the University of Edinburgh and the Center for Human Reproduction took ovarian tissue and matured it to the point at which it could be fertilized. Previous studies had created live offspring from mice eggs matured in a laboratory and developed late-stage human eggs to a later stage of maturity. Potential breakthrough Women who undergo chemotherapy for cancer treatment, which can cause sterility, stand to benefit the most if scientists are able to perfect the new technique. Patients can currently opt to have ovarian tissue removed before therapy to be re-implanted afterwards. But the procedure is risky because the re-implanted tissue can cause a new outbreak of cancer. But with the new technique, eggs could be frozen ahead of the treatment and later matured in a laboratory to the point at which they could be fertilized. More work needed Scientists who were not part of the study welcomed the findings, but cautioned that fertility patients would have to wait for new treatments. \"This is an elegant piece of work,\" Channa Jayasena of the Imperial College London told AFP news agency, yet he added: \"It would take several years to translate this [technique] into a therapy.\" \"Much more work is needed to make sure that the technique is safe and optimized before we ascertain whether these eggs … can be fertilized,\" Ali Abbara, also from Imperial College London, told Reuters news agency. Study co-author Evelyn Telfer of the University of Edinburgh said the next step was to seek regulatory approval to test whether the lab-grown eggs could be fertilized. amp/bw (Reuters, AFP)",
+  "relations": [
+    [
+      "University of Edinburgh",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Channa Jayasena",
+      "Imperial College London",
+      "member_of"
+    ],
+    [
+      "Imperial College London",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Ali Abbara",
+      "Imperial College London",
+      "member_of"
+    ],
+    [
+      "Evelyn Telfer",
+      "University of Edinburgh",
+      "member_of"
+    ]
+  ]
+}

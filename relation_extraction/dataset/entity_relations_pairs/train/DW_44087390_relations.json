@@ -1,0 +1,85 @@
+{
+  "content": "Germany's corporate battle of the sexes\nWhy are women so hugely underrepresented in senior positions in German business? Are they being prevented from getting ahead in Europe's powerhouse? Or do they have themselves to blame? Lisa Ellis reports.\nIt is a scene that seems unremarkable at first. A woman walks into a meeting at a multinational company in Germany. She is asked by one of the men at the table to pour the coffee. The problem is she is not the caterer. She is one of the executives about to take part in the meeting with clients. This anecdote is told by consultant Philine Erfurt Sandhu who was brought in by the company to try to improve gender balance. Sandhu says the above incident is not a one-off. She hears such stories \"regularly.\" It is an example of what Sandhu calls the \"Thomas Syndrome.\" The idea that the typical senior manager in Germany is a 53-year-old white male called \"Thomas\" who would rather recruit a clone of himself than a woman. The chances of making it to the top as a woman in Germany are unusually low. A recent survey shows German women fare far worse than their counterparts in other advanced countries. In the US, the percentage of blue-chip firms with at least 30 percent female representation on the board is 30 percent. In Germany it is zero. Federal Government Commissioner for Culture and the Media Monika Grütters declared Germany \"bottom of the pile\" when it comes to the number of women in senior positions in business. How did women end up at such a disadvantage? Sandhu, who spent a year observing at the multinational, says the reasons are varied but several stand out. Key among them is the tendency of male executives to hire and promote people who look like them, sometimes unconsciously but often intentionally. \"There are advantages to working with people just like you,\" she argues. \"There is less conflict, you don't have to question your identity, and decision making is easier. But it doesn't necessarily produce the best results for the company,\" says Sandhu. The same men establish networks, which are difficult for women to penetrate. Such networks come about when men realize they like the same football team or drink the same wine and then start pursuing their hobbies as a group outside of working hours, says Sandhu. \"Women tend not to do this,\" she observes. \"They are more likely to limit their relationships to the office.\" This is a crucial mistake and one reason why women are at least partly to blame for failing to reach the top tier of management, according to Christoph Zöller, CEO and co-founder of recruitment startup Instaffo in Heidelberg. \"Women, for example.... often don't go for the classic 'beer after work' which is vital for your career in many executive circles,\" Zöller writes in a post on his company's blog about what women are \"doing wrong.\" \"They are also more cautious in negotiations and accept things as fair that a man would never accept,\" 26-year old Zöller says in a phone conversation with DW. Generalizing about a whole group based on gender? Zöller believes men and women are \"intrinsically different,\" each with characteristics important to the running of a successful company. He points out that women in the marketing division of Instaffo often make more money than men as they have \"nicer voices\" on the phone. \"[But] Women are more likely to voluntarily leave management duties to men,\" according to Zöller. At the end of the day, though, it essentially comes down to one thing. \"There is very strong competition to get to the top. If a woman decides to have a child — and then raise that child, then she is going to be missing for around five or six years out of a 30-year career. That has to be taken in to account,\" says Zöller. Having a child may explain why a woman doesn't have time go for that drink after work. But is it the reason women are failing to make it to the upper echelons? A look at the career of executive Birgit Felden suggests the answer to this is both yes and no. Felden, a 51-year-old professor and mother of two is at the top of her game. She sits on the supervisory boards of three companies, teaches part of a university course for female business leaders and owns a successful consultancy. However, she says she knew at the start of her career 25 years ago that she would only be able to reach this position by becoming her own boss rather than trying to advance as a woman in someone else's firm. \"I decided to start my own business because I didn't want to have to explain to the HR department of some big company that I was going to have both children and a career.\" For Felden, having women at the top is not just about equality, it is about ensuring the continued economic success of the country. \"Diversity at a high level brings benefits,\" she says. \"Businesses need to be made aware of that. It is also a question of demography. In 20 years or so, there just won't be enough middle-aged white men. So we need to change.\"",
+  "relations": [
+    [
+      "Christoph Zöller",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Christoph Zöller",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Christoph Zöller",
+      "Instaffo",
+      "head_of"
+    ],
+    [
+      "Christoph Zöller",
+      "Instaffo",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Monika Grütters",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Monika Grütters",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Monika Grütters",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Monika Grütters",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Instaffo",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Instaffo",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Instaffo",
+      "Heidelberg",
+      "based_in2"
+    ],
+    [
+      "Heidelberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Heidelberg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

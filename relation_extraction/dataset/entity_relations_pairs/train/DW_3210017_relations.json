@@ -1,0 +1,190 @@
+{
+  "content": "New Belgian Leader Gets Nod from Parliament\nBelgian members of parliament gave a vote of confidence Saturday to an incoming coalition government led by Flemish Christian Democrat Yves Leterme, sealing the end of a nine-month political crisis.\nThe 97-48 vote, with one abstention, in the lower chamber of deputies, was not unexpected, with the coalition partners -- the Flemish and francophone Liberals and Christian Democrats, plus francophone Socialists -- in favor. Leterme, 47, succeeds Flemish Liberal Guy Verhofstadt with a mandate that should in theory run until 2011 -- but which could well be abbreviated, as his own party has set a July 15 deadline for more powers to be given to Flanders. \"That deadline will be respected,\" Leterme told parliament Saturday, a day after he and his 15-member cabinet were sworn into office by Belgium's King Albert II after protracted negotiations with other political groupings. Uniter, not a divider? Leterme has his work cut out to persuade Belgium's francophones -- concentrated in Brussels and the southern Wallonia region -- of his ability to unite the country in the wake of general elections back in June 2007. Flanders, home to Belgium's Dutch-speaking majority, craves more regional powers to reflect its prosperity. It also resents the dollops of euros it now pays to subsidise the poorer, French-speaking Wallonia region to its south. \"I fear grave institutional chaos\" if the government falls in July, said the new employment minister, Joelle Milquet, leader of the francophone centrists, adding that the danger of Belgium splitting into two nations was now \"real.\" For the international community, such a possibility would be serious, given that both the European Union and NATO are headquartered in the capital Brussels. The new prime minister has promised to raise pensions and offer tax cuts for low earners although government revenues have been lower than expected. His plans have come under increasing scrutiny by the opposition and the media. Leterme -- who once confused Belgium's anthem with that of France and failed in two previous attempts to form a government -- fueled inter-communal anger in 2006 by suggesting that French-speakers were incapable of learning Dutch.",
+  "relations": [
+    [
+      "Yves Leterme",
+      "Belgium",
+      "agent_of"
+    ],
+    [
+      "Yves Leterme",
+      "Belgium",
+      "citizen_of"
+    ],
+    [
+      "Yves Leterme",
+      "Belgian",
+      "citizen_of-x"
+    ],
+    [
+      "Yves Leterme",
+      "Belgium",
+      "head_of_gov"
+    ],
+    [
+      "Yves Leterme",
+      "Belgian",
+      "head_of_gov-x"
+    ],
+    [
+      "Yves Leterme",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Guy Verhofstadt",
+      "Belgium",
+      "agent_of"
+    ],
+    [
+      "Guy Verhofstadt",
+      "Belgium",
+      "citizen_of"
+    ],
+    [
+      "Guy Verhofstadt",
+      "Belgian",
+      "citizen_of-x"
+    ],
+    [
+      "Guy Verhofstadt",
+      "Belgium",
+      "head_of_gov"
+    ],
+    [
+      "Guy Verhofstadt",
+      "Belgian",
+      "head_of_gov-x"
+    ],
+    [
+      "Guy Verhofstadt",
+      "Liberals",
+      "member_of"
+    ],
+    [
+      "Joelle Milquet",
+      "Belgium",
+      "agent_of"
+    ],
+    [
+      "Joelle Milquet",
+      "Belgium",
+      "citizen_of"
+    ],
+    [
+      "Joelle Milquet",
+      "Belgian",
+      "citizen_of-x"
+    ],
+    [
+      "Joelle Milquet",
+      "Belgium",
+      "minister_of"
+    ],
+    [
+      "Joelle Milquet",
+      "Belgian",
+      "minister_of-x"
+    ],
+    [
+      "Albert II",
+      "Belgium",
+      "agent_of"
+    ],
+    [
+      "Albert II",
+      "Belgium",
+      "citizen_of"
+    ],
+    [
+      "Albert II",
+      "Belgian",
+      "citizen_of-x"
+    ],
+    [
+      "Albert II",
+      "Belgium",
+      "head_of_state"
+    ],
+    [
+      "Albert II",
+      "Belgian",
+      "head_of_state-x"
+    ],
+    [
+      "Albert II",
+      "Belgium",
+      "royalty_of"
+    ],
+    [
+      "Christian Democrats",
+      "Belgium",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "Belgian",
+      "based_in0-x"
+    ],
+    [
+      "Liberals",
+      "Belgium",
+      "based_in0"
+    ],
+    [
+      "Liberals",
+      "Belgian",
+      "based_in0-x"
+    ],
+    [
+      "Belgian",
+      "Belgium",
+      "gpe0"
+    ],
+    [
+      "Flemish",
+      "Flanders",
+      "gpe1"
+    ],
+    [
+      "Socialists",
+      "Belgium",
+      "based_in0"
+    ],
+    [
+      "Socialists",
+      "Belgian",
+      "based_in0-x"
+    ],
+    [
+      "Flanders",
+      "Belgium",
+      "in0"
+    ],
+    [
+      "Flanders",
+      "Belgian",
+      "in0-x"
+    ],
+    [
+      "Brussels",
+      "Belgium",
+      "in0"
+    ],
+    [
+      "Brussels",
+      "Belgian",
+      "in0-x"
+    ],
+    [
+      "Wallonia",
+      "Belgium",
+      "in0"
+    ],
+    [
+      "Wallonia",
+      "Belgian",
+      "in0-x"
+    ]
+  ]
+}

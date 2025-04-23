@@ -1,0 +1,340 @@
+{
+  "content": "An easy kick-off in German Cup, with scope for surprise\nThe first round of the German Cup generally has a bit of a pre-season feel to it. Due to the seeding, the top division giants are guaranteed to face lower-league minnows. There's one drawback though: they all play away.\nA relative minnow in the top flight Bundesliga, last season's surprise package Augsburg is the first to take to the pitch in the German Cup on Friday night, traveling to lower league side Wilhelmshaven. Augsburg was the side that shocked everyone by surviving its first ever Bundesliga season last time out, then surprised them even more by ditching the majority of its coaching staff even after dodging the drop. The 17 remaining Bundesliga clubs will all travel to minnows playing below the German second division over the course of the weekend, along with 15 teams from the second division. The three sides that secured promotion to the Zweite Bundesliga last season are included in the \"amateur\" half of the 64-team draw. The first round of the cup is all about survival, as home crowds get to cheer on rank underdogs against their high-profile visitors. This system is not entirely designed to favor the established sides, which are hardly in need of charity; it's also meant to be a chance for tiny teams to rack up higher gate receipts at least once in a season. Upsets are rare, but by no means unprecedented. Last season, Felix Magath's Wolfsburg fell at the first hurdle versus Red Bull Leipzig, while Bayer Leverkusen lost to Dynamo Dresden and Freiburg were beaten by Unterhaching. Those results are very much the exceptions. It's more common to see a demolition job by the favorites. Schalke, who went on to secure third in the league last season, won their first round match against FC Teningen 11-1. Even a second division side, the admittedly strong Paderborn, put 10 goals past its first round opponents last time out. Potential upsets? Paderborn have a tougher draw this year for their Sunday game, facing Arminia Bielefeld - a side surprisingly relegated from the second division last season. Bielefeld were in the top German league just four seasons ago. On the subject of fallen giants, Karlsruhe now qualify for the \"amateur\" side of the draw and are liable to provide Hamburg with a relatively tough first round test on Sunday. These two sides last met in the Bundesliga in February 2009, with Karlsruhe winning 3-2 just a few months ahead of dropping out of the top division. Borussia Mönchengladbach, who have a tricky midweek Champions League qualifier against Dynamo Kyiv to worry about, could have drawn better too. They will travel to the Dutch border on Saturday to play Allemania Aachen, the third of a trio of shock second division rejects last season. German giants Bayern Munich take on Jahn Regensburg, one of the newly-promoted second division sides, in the last match of the weekend late on Monday evening. Augsburg's new coach Markus Weinzierl will be watching that game keenly; he led Regensburg to promotion last season. Bayern lost last year's final in Berlin, getting taken apart 5-2 by double-winners Borussia Dortmund.",
+  "relations": [
+    [
+      "Augsburg",
+      "German league",
+      "appears_in"
+    ],
+    [
+      "Augsburg",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Augsburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "Allemania Aachen",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "vs"
+    ],
+    [
+      "Jahn Regensburg",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Jahn Regensburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Arminia Bielefeld",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Arminia Bielefeld",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wilhelmshaven",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Wilhelmshaven",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Felix Magath",
+      "Wolfsburg",
+      "coach_of"
+    ],
+    [
+      "Felix Magath",
+      "Wolfsburg",
+      "member_of"
+    ],
+    [
+      "Wolfsburg",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Wolfsburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wolfsburg",
+      "Red Bull Leipzig",
+      "vs"
+    ],
+    [
+      "Red Bull Leipzig",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Red Bull Leipzig",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Red Bull Leipzig",
+      "Wolfsburg",
+      "vs"
+    ],
+    [
+      "Red Bull Leipzig",
+      "Wolfsburg",
+      "won_vs"
+    ],
+    [
+      "Bayer Leverkusen",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Bayer Leverkusen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bayer Leverkusen",
+      "Dynamo Dresden",
+      "vs"
+    ],
+    [
+      "Dynamo Dresden",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Dynamo Dresden",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dynamo Dresden",
+      "Bayer Leverkusen",
+      "vs"
+    ],
+    [
+      "Dynamo Dresden",
+      "Bayer Leverkusen",
+      "won_vs"
+    ],
+    [
+      "Freiburg",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Freiburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Freiburg",
+      "Unterhaching",
+      "vs"
+    ],
+    [
+      "Unterhaching",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Unterhaching",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Unterhaching",
+      "Freiburg",
+      "vs"
+    ],
+    [
+      "Unterhaching",
+      "Freiburg",
+      "won_vs"
+    ],
+    [
+      "Schalke",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Schalke",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Schalke",
+      "FC Teningen",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "FC Teningen",
+      "won_vs"
+    ],
+    [
+      "FC Teningen",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "FC Teningen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "FC Teningen",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Paderborn",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Paderborn",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Karlsruhe",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Karlsruhe",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Karlsruhe",
+      "Hamburg",
+      "vs"
+    ],
+    [
+      "Hamburg",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hamburg",
+      "Karlsruhe",
+      "vs"
+    ],
+    [
+      "Dynamo Kyiv",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Allemania Aachen",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Allemania Aachen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Allemania Aachen",
+      "Borussia Mönchengladbach",
+      "vs"
+    ],
+    [
+      "Markus Weinzierl",
+      "Augsburg",
+      "coach_of"
+    ],
+    [
+      "Markus Weinzierl",
+      "Jahn Regensburg",
+      "coach_of"
+    ],
+    [
+      "Markus Weinzierl",
+      "Augsburg",
+      "member_of"
+    ],
+    [
+      "Markus Weinzierl",
+      "Jahn Regensburg",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Borussia Dortmund",
+      "German Cup",
+      "appears_in"
+    ],
+    [
+      "Borussia Dortmund",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Borussia Dortmund",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Borussia Dortmund",
+      "Bayern Munich",
+      "won_vs"
+    ]
+  ]
+}

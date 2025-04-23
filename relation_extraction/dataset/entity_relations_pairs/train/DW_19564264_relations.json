@@ -1,0 +1,65 @@
+{
+  "content": "Opinion: A disgrace for Europe\nAn incapable government in Athens, and unhelpful Europeans. The fire on Lesbos shows: It's not just a refugee camp in ruins, but also the EU's entire refugee policy, says Bernd Riegert.\nIf it was an act of arson on the refugee camp in Moria on Lesbos, then it must be denounced. The perpetrators must be punished. But the aid organizations and the health authorities in Greece have long been warning us that the overcrowded \"hot spot\" camps are ticking time bombs. It was just a question of when the untenable circumstances there would lead to an explosion of violence and chaos. The European Union's restrictive refugee policy has resulted in migrants being held at registration camps on the Greek islands. Most of the migrants are destined to be deported to Turkey. They wait in deplorable conditions while their asylum applications are processed - something that, contrary to the original plans, can take months. The Greek government and the EU are unable to organize a quick, orderly, and humanitarian process. Still waiting for promised solutions It's a disgrace for the extreme left-right coalition in Athens, but it's also a disgrace for all the EU heads of state and government, who promised to resolve the refugee crisis following the deal agreed with Turkey in March. Around 60,000 migrants are stuck in Greece. The EU continues to send money to the Greek government, but officials there seem unable to accept the assistance and organize proper accommodation and a better registration process for refugees. Other member states promised to send people to help out at the camps in Greece, but only a small number are actually being deployed at the \"hot spots.\" At the same time, the redistribution of asylum seekers from Greece and Italy to other EU states is repeatedly being blocked and pushed aside. Over the summer months, the EU made a concerted effort to look the other way when it came to refugees and migrants. And yet it's not just in Greece that the camps are overflowing. The same thing is happening in Calais in France, along the French-Italian border and the Swiss-Italian border. Along the Balkan route, desperate migrants continue to form unofficial camps. It's not just in Greece that the official registration centers have reached capacity; the same is happening in Italy, where, for purely geographical reasons, it's not as easy to restrict people's movements as on a Greek island. They move northward in the vague hope of somehow reaching Germany or the United Kingdom. No change in Italy In Italy, the number of new arrivals via the Libya route is almost the same as last year. Every week, thousands are rescued from the Mediterranean. And thousands have also drowned this year - more than ever before. One out of 89 migrants will drown on the way to Europe. Last year, it was one out of 276. The Mediterranean has become a mass grave. That's also a disgrace. It's a disgrace for the EU's humanitarian values, and yet something that no one seems to get upset about anymore. A veil of silence has fallen over these daily tragedies. Interest is only stirred when, as is now the case in Moria, we are once again confronted with aberrations and terrible images of violence and fire. Our politicians are ducking their heads, acting as if they have the refugee crisis under control, but they don't. On a European level, there's no sense that \"we can do this.\" The only things that are more effective now are the deterrents keeping migrants from setting out, and the closure of our borders. The processes for asylum application and for a fair distribution of migrants in Europe are just as badly organized as they were a year ago when Chancellor Angela Merkel first uttered her now famous catchphrase. It's a phrase she now likely regrets, for a multitude of reasons. The EU hasn't managed to take control of the refugee crisis. Moria is the latest sad symbol of that failure. Would you like to add your comments? You can do so below. The thread stays open for 24 hours after publication.",
+  "relations": [
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Moria",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Moria",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Calais",
+      "France",
+      "in0"
+    ],
+    [
+      "Calais",
+      "French",
+      "in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ]
+  ]
+}

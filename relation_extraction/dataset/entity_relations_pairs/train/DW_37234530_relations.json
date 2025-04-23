@@ -1,0 +1,145 @@
+{
+  "content": "Mexican president calls Canada's Trudeau ahead of NAFTA talks\nMexico's President Pena Nieto has asked Canada's Prime Minister Trudeau to help press Donald Trump on the importance of NAFTA to the region. Trump has promised to renegotiate or tear up the free trade agreement.\nMexican President Enrique Pena Nieto spoke with Canadian Prime Minister Justin Trudeau on Sunday as the two agreed to mount a united front after US President Donald Trump announced he would meet with the pair to renegotiate a regional trade deal. A statement from Pena Nieto's office said that Mexico would push for economic integration in North America. Earlier on Sunday, Trump announced plans to meet with Pena Nieto and Trudeau \"very soon\" to discuss the North American Free Trade Agreement (NAFTA). Trump has said he wants a \"fair deal\" for the United States, and has threatened to withdraw from the treaty if a new agreement is not reached. Under the deal's stipulations, it is relatively simple for one party to withdraw from the agreement. One country simply has to notify the other signatories, thereby opening up a 180-day window for a new deal to be reached. Canadian officials have warned their US counterparts that with the two countries' economies so inextricably linked, protectionist adjustments to the deal would hurt Americans and Canadians alike. As Canada's ambassador to Washington, David MacNaughton, pointed out on Sunday, however, his country is not likely to be in the spotlight during the talks. \"I don't think Canada is the focus at all,\" MacNaughton told reporters. \"But we are part of NAFTA, and there are discussions that need to be had, and we'll be having them over the next few weeks.\" Mexican economy shudders under Trump comments The situation may be more worrying for Mexico, as Trump's threats to sanction companies that move manufacturing from the US to its southern neighbor have sent shock waves through Mexico's economy. The announcement of renewed NAFTA negotiations came ahead of high-level talks on immigration, trade and security between senior US and Mexican officials set to take place on Wednesday and Thursday. Trump will met with Pena Nieto separately on January 31. Despite his repeated threats to build a border wall between their two countries, Trump praised his Mexican counterpart on Sunday when he discussed the NAFTA talks. \"The president has been really very amazing and I think we are going to have a very good result for Mexico, for the United States, for everybody involved. It's very important.\" es/kl (AP, AFP, Reuters)",
+  "relations": [
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "head_of_gov"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexican",
+      "head_of_gov-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Canada",
+      "agent_of"
+    ],
+    [
+      "Justin Trudeau",
+      "Canada",
+      "citizen_of"
+    ],
+    [
+      "Justin Trudeau",
+      "Canadian",
+      "citizen_of-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Canadians",
+      "citizen_of-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Canada",
+      "head_of_gov"
+    ],
+    [
+      "Justin Trudeau",
+      "Canadian",
+      "head_of_gov-x"
+    ],
+    [
+      "Justin Trudeau",
+      "Canadians",
+      "head_of_gov-x"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Donald Trump",
+      "United States",
+      "head_of_gov"
+    ],
+    [
+      "Donald Trump",
+      "Americans",
+      "head_of_gov-x"
+    ],
+    [
+      "David MacNaughton",
+      "Canada",
+      "agent_of"
+    ],
+    [
+      "David MacNaughton",
+      "Canadian",
+      "agent_of-x"
+    ],
+    [
+      "David MacNaughton",
+      "Canadians",
+      "agent_of-x"
+    ],
+    [
+      "David MacNaughton",
+      "Canada",
+      "citizen_of"
+    ],
+    [
+      "David MacNaughton",
+      "Canadian",
+      "citizen_of-x"
+    ],
+    [
+      "David MacNaughton",
+      "Canadians",
+      "citizen_of-x"
+    ],
+    [
+      "Mexican",
+      "Mexico",
+      "gpe0"
+    ],
+    [
+      "Canadian",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Canadians",
+      "Canada",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "Americans",
+      "in0-x"
+    ]
+  ]
+}

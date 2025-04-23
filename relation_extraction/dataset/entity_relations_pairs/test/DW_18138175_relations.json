@@ -1,0 +1,70 @@
+{
+  "content": "Nigeria sentences 54 soldiers to death for mutiny\nA Nigerian court martial has sentenced 54 soldiers to death for mutiny and cowardice as they refused to fight against Boko Haram Islamists. The case has highlighted the army's problems with equipment and morale.\nThe men sentenced to death on Wednesday were part of the special forces division ordered in August to retake three towns in Borno state, which had been taken over by the Islamist Boko Haram insurgents. Their lawyer, Femi Falana, said the 54 men were sentenced to death by firing squad and five had been acquitted. They were accused of conspiring to commit mutiny against the authorities of the 7th Division of the Nigerian army, which is on the frontline. The trial began on October 15 and was conducted behind closed doors. It is subject to approval by top military officials, but there has so far been no indication that senior officers oppose the court martial. They were not available for comment afterwards. There was a similar case in Nigeria in September, when 12 soldiers were sentenced to death for mutiny after firing on their commanding officer in the northeast city of Maiduguri. The 7th Division, based in Maiduguri, leads the offensive but there are numerous reports of troops refusing to deploy. Soldiers have regularly complained that they lack weapons, food, and other basic supplies to fight the Islamists, who are reported to have tanks, rocket-propelled-grenade launchers, and other heavy weaponry. Boko Haram has taken a number of towns and declared an Islamic caliphate in the region near the border with Cameroon. The Nigerian military has in recent weeks claimed to have made progress in recapturing lost territory. Thousands of people have been killed since the Islamist uprising began five years ago. An estimated 1.3 million have been displaced, with tens of thousands seeking refuge in neighboring Cameroon, Chad, and Niger. rg/bk (AFP, AP, dpa)",
+  "relations": [
+    [
+      "Boko Haram",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Borno",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Borno",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Femi Falana",
+      "Nigeria",
+      "citizen_of"
+    ],
+    [
+      "Femi Falana",
+      "Nigerian",
+      "citizen_of-x"
+    ],
+    [
+      "Nigerian",
+      "Nigeria",
+      "gpe0"
+    ],
+    [
+      "7th Division",
+      "Nigeria",
+      "agency_of"
+    ],
+    [
+      "7th Division",
+      "Nigerian",
+      "agency_of-x"
+    ],
+    [
+      "7th Division",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "7th Division",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Maiduguri",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Maiduguri",
+      "Nigerian",
+      "in0-x"
+    ]
+  ]
+}

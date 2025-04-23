@@ -1,0 +1,40 @@
+{
+  "content": "HSBC roars back from costly write-downs\nLondon-based banking giant HSBC has said its huge restructuring drive is finally bearing fruit. The behemoth has seen its profit rise in recent months thanks first and foremost to its brisk Asia business.\nPre-tax profits at HSBC leapt fivefold in the third quarter, the company reported Monday. The massive jump came weeks after a new chief executive was unveiled as part of a management overhaul that has seen the banking behemoth deal with costly write-downs. John Flint, head of retail banking and wealth management, will take up his position in February next year when current CEO Stuart Gulliver steps down in a bid to \"accelerate the pace of change.\" The Asia-focused lender has been on a recovery drive to streamline its business and slash costs since 2015 when it set out a plan to axe 50,000 jobs and exit non-core markets as it also navigated a series of damaging probes. Among other things, HSBC was fined by US prosecutors for failing to enforce anti-money laundering rules, exposing it to exploitation by drug cartels and terrorist organizations. Uncertainties remain \"HSBC has had to spend a lot of money to hire more lawyers to help it fix legal problems and enhance its compliance department,\" said Kingston Securities Executive Director Dickie Wong, adding that it may still feel the effects of legal challenges and expenses. But given the lender's third-quarter performance, Wong insisted HSBC was \"one of the best international banking stocks at this moment.\" Q3 net earnings also rose to $2.96 billion (2.55 billion euros), up from a loss of $617 million in the same quarter a year earlier. \"Our pivot to Asia is driving higher returns and lending growth, particularly in Hong Kong,\" CEO Stuart Gulliver said in a statement Monday. hg/jd (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "HSBC",
+      "London",
+      "based_in2"
+    ],
+    [
+      "John Flint",
+      "HSBC",
+      "head_of"
+    ],
+    [
+      "John Flint",
+      "HSBC",
+      "member_of"
+    ],
+    [
+      "Stuart Gulliver",
+      "HSBC",
+      "head_of"
+    ],
+    [
+      "Stuart Gulliver",
+      "HSBC",
+      "member_of"
+    ],
+    [
+      "Dickie Wong",
+      "Kingston Securities",
+      "head_of"
+    ],
+    [
+      "Dickie Wong",
+      "Kingston Securities",
+      "member_of"
+    ]
+  ]
+}

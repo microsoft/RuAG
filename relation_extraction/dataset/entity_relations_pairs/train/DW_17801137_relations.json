@@ -1,0 +1,195 @@
+{
+  "content": "Hamas and Israel cling to their war aims\nThe war in Gaza has reached a deadlock. Israel wants to keep fighting until Hamas stops firing rockets. Hamas wants to keep fighting until its goals are reached - aims that are wholly inacceptable to Israel.\nInternational diplomats, foreign ministers and UN representatives are frantically trying to achieve a ceasefire in the Gaza war. US Secretary of State John Kerry and UN Secretary General Ban Ki Moon traveled to Cairo to look for ways to end what has turned into two weeks of bloodshed. A ceasefire still seems like a distant prospect. Despite the deaths of around 600 Palestinians and 30 Israelis, the attacks continue on both sides. Hamas and the Israeli government in Jerusalem want to keep fighting until they have reached their respective goals. Giving in to a ceasefire would be tantamount to defeat for them. Jordanian political scientist Hasan al-Momani says that Hamas and Israel have allowed the situation to escalate to the point that they are at a dead end - with no way out unless they achieve some of their goals. Israel says it will keep fighting until Hamas' launch pads and tunnels out of the Gaza Strip are destroyed. The Palestinian organization uses tunnels between Gaza and Egypt to restock supplies, including weapons. Al-Momani says Hamas is allowing an escalation to occur to generate enough international pressure for the sake of achieving its goals. Above all, those aims involve ending Israel's blockade of the narrow Gaza Strip. Further demands include the release of Palestinian prisoners from Israeli prisons and a stop to Israel's Gaza offensive. \"I think, for Hamas, the crisis provides an opportunity to end its political isolation,\" al-Momani says. A weakened negotiating position An initial attempt at a ceasefire with Egypt's meditation failed last week. Hamas' military wing, the Qassam Brigades, is maintaining its rocket attacks against Israeli cities. In response, Israel's air force struck targets in Gaza. Shlomo Brom of the Institute for National Security Studies (INSS) in Tel Aviv argues that Egypt no longer has the trust of Hamas. Egypt, Brom says, was once able to mediate, but the new government in Cairo takes a critical stance toward Hamas. \"Hamas prefers as mediators other states that are closer to it - and that is Qatar and Turkey,\" Brom adds, noting that Israel, on the other hand, distrusts these two as possible mediators. Brom, who is Israeli, says Hamas is too weak to be able to stop its attacks at the moment. \"That may seem like a paradox, but it's not. Because when a group of people are in a very difficult situation - when they feel that they are cornered - then the feeling is that they cannot give up. If they would give up, it would be a slippery slope that would lead to their end,\" he explains. The INSS expert says he believes Hamas is suffering from a lack of supporters after many turned away, leaving Qatar as the sole source of financing. But money from the wealthy Gulf state can't simply be wired over. Brom says smuggling suitcases of money through the tunnels has become more difficult, and the destruction of the tunnels means Hamas also has diminished tax revenue on smuggled goods - leaving them bankrupt, according to the Israeli analyst. Ten Hamas demands As a condition for a lasting ceasefire, Hamas has set out 10 demands, including a withdrawal of Israeli troops and the opening of border crossings to Gaza. Furthermore, Hamas wants to have a port and airport under UN supervision. Palestinians are also calling for the air space over Gaza to be closed to Israeli aircraft and for the permission to travel to Jerusalem. Brom says some of these points are unrealistic, such as an end to Israeli control of Gaza's air space. \"There's no chance that Israel will agree to stop this activity as long as Hamas is arming itself and depicting itself as the enemy of Israel,\" he says, adding that Israel needs to maintain its cover in Gaza to block attacks from the region. Brom says that he thinks the reconciliation between Hamas and Fatah could help stabilize the entire situation, however. \"It can be used for a gradual return of the Palestinian Authority to the Gaza Strip. That was what actually was agreed between Hamas and Fatah,\" he says. Hamas has controlled the Gaza Strip since 2007, which is when Fatah officials were driven out. It wasn't until two months ago that the two sides agreed to form a unity government. But it was Israel, which works together in some ways with the Fatah-led government in the West Bank, that torpedoed this reconciliation. Brom says that was a mistake. Jordanian political analyst al-Momani also says Israel's opposition to the deal helps explain the current escalation in violence. One of Hamas' 10 demands ties in to that situation - Israel, it says, must promise not to interfere with Palestinian affairs. But, it's unlikely Israel would agree to such a demand as long as groups such as Hamas declare themselves enemies of the country.",
+  "relations": [
+    [
+      "Institute for National Security Studies",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Institute for National Security Studies",
+      "Israelis",
+      "based_in0-x"
+    ],
+    [
+      "Institute for National Security Studies",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "Institute for National Security Studies",
+      "Tel Aviv",
+      "based_in2"
+    ],
+    [
+      "Gaza Strip",
+      "Palestinians",
+      "in0-x"
+    ],
+    [
+      "Gaza Strip",
+      "Palestinian",
+      "in0-x"
+    ],
+    [
+      "Hamas",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "Hamas",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Shlomo Brom",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Shlomo Brom",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Shlomo Brom",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Shlomo Brom",
+      "Institute for National Security Studies",
+      "member_of"
+    ],
+    [
+      "Hasan al-Momani",
+      "Jordanian",
+      "citizen_of-x"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Ban Ki Moon",
+      "UN",
+      "head_of"
+    ],
+    [
+      "Ban Ki Moon",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Cairo",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Israelis",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Jerusalem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jerusalem",
+      "Israelis",
+      "in0-x"
+    ],
+    [
+      "Jerusalem",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Qassam Brigades",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "Qassam Brigades",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Qassam Brigades",
+      "Hamas",
+      "part_of"
+    ],
+    [
+      "Tel Aviv",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Tel Aviv",
+      "Israelis",
+      "in0-x"
+    ],
+    [
+      "Tel Aviv",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Fatah",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "Fatah",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Palestinian Authority",
+      "Palestinians",
+      "agency_of-x"
+    ],
+    [
+      "Palestinian Authority",
+      "Palestinian",
+      "agency_of-x"
+    ],
+    [
+      "Palestinian Authority",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "Palestinian Authority",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "West Bank",
+      "Palestinians",
+      "in0-x"
+    ],
+    [
+      "West Bank",
+      "Palestinian",
+      "in0-x"
+    ]
+  ]
+}

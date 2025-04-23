@@ -1,0 +1,165 @@
+{
+  "content": "Eastern German Town Boasts Cutting-Edge Technology\nThere's more to eastern Germany than just chronic joblessness and neo-Nazism. The state of Thuringia is the nerve center of sophisticated and innovative optical technology.\nFormer Communist East Germany may today be associated with renovated prefabricated housing blocks and empty city centers. But the city of Jena in the eastern German state of Thuringia effortlessly defies that image. The place is a hive of activity these days. Not only is it a major center for the optics industry there is also a technology and innovations park with around 60 firms and several research centers on the campus of the University of Applied Sciences. One of the most innovative companies is Jenoptik which focuses on six areas of expertise. According to Jenoptik's Norbert Thiel, lasers and particularly diode lasers are an important focus of attention and will continue to be so in the future. \"It's very clear the laser processing material markets will be one of our main investments in the future. A huge market which is coming up is the laser soldering and laser welding,\" said Thiel. \"And the second point of diode lasers is the medicine market. For example, hair removal is a huge market for laser diodes.\" Aerospace and back to earth Another area that Jenoptik is increasingly trying to gain a foothold in is aerospace. The famous multi-spectral camera was developed in Jena for the Russian Mir space project. Norbert Thiel points out that today Jenoptik is very active in a current aerospace project called Rapid Eye. \"We analyze with this camera from space the chlorophyll content of the earth so we can make direct earth observations,\" Thiel pointed out. \"We are a market leader in the field of sensor technology. We aren't intending to assemble and design satellites but we are very much focused on this technology in the future.\" Back on earth, life is destined to get difficult for speeding motorists following the work done by Jenoptik together with its partner company Robot. Jenoptik has developed a speed measurement system based on lasers. And, says Thiel, the future will be in digital speed cameras. So there will be no film to replace and a speeding motorist won't even know he's been caught. \"We have a lot of expertise here. If you measure a distance five times in very short pulses you get the velocity, you get the speed of a car. We developed a speed measurement system based on lasers. So digital camera, the future will be an infrared flash.\" Cures for cancer and multiple sclerosis Jena is also home to a range of top-notch research institutes such as The Institute for Physical High Technology which performs research and development projects in the areas of magnetics, quantum electronics, micro-systems and laser technology. A further top address for cutting-edge research is the renowned Beutenberg Campus in Jena. It includes several research institutes which link the fields of physics and optics to new applications in the life sciences. Wacker Biotech is a prominent example. Its core focus is in the manufacture of so-called biologics. \"These are active ingredients for pharmaceuticals. This is a new class of molecules which developed during the last, I would say, 30 years and what we normally know is so called small molecules,\" explained Wacker's Anke Suter. \"They're used in the treatment of cancers, multiple sclerosis and because they are proteins they can act in a way that synthesized molecules can't currently. This is a new market and it is strongly growing with an average growth rate of 16 per cent,\" Suter added. \"Software is the key driver\" Another big name on the Jena research landscape is Carl Zeiss, which was founded in 1846 as a workshop for precision mechanics and optics in Jena and quickly gained a worldwide reputation for the high quality of its products. \"I think innovation is the key of what our business is all about,\" said Ulrich Simon, president and chief executive of Carl Zeiss Micro Imaging in Jena. \"Innovation is the core driver. We generate a lot of patents, roughly two patents a day over the entire organization,\" he added. It's obvious that the future for Carl Zeiss lies in automation and miniaturization. \"To really turn data in information knowledge -- I think that will be the key driver for the future business,\" said Simon. \"Software is one of the key drivers. What you want to do in the end is you just put a sample into the laptop and get out the information, by just hitting one button. This will be our vision.\"",
+  "relations": [
+    [
+      "Jenoptik",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Jenoptik",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jenoptik",
+      "Jena",
+      "based_in2"
+    ],
+    [
+      "Jena",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Jena",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Anke Suter",
+      "Wacker Biotech",
+      "member_of"
+    ],
+    [
+      "Wacker Biotech",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Wacker Biotech",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wacker Biotech",
+      "Jena",
+      "based_in2"
+    ],
+    [
+      "Norbert Thiel",
+      "Jenoptik",
+      "member_of"
+    ],
+    [
+      "Ulrich Simon",
+      "Carl Zeiss Micro Imaging",
+      "head_of"
+    ],
+    [
+      "Ulrich Simon",
+      "Carl Zeiss Micro Imaging",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Thuringia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Thuringia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "University of Applied Sciences",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Applied Sciences",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "University of Applied Sciences",
+      "Jena",
+      "based_in2"
+    ],
+    [
+      "Rapid Eye",
+      "Jenoptik",
+      "product_of"
+    ],
+    [
+      "The Institute for Physical High Technology",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "The Institute for Physical High Technology",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "The Institute for Physical High Technology",
+      "Jena",
+      "based_in2"
+    ],
+    [
+      "Beutenberg Campus",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Beutenberg Campus",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Beutenberg Campus",
+      "Jena",
+      "based_in2"
+    ],
+    [
+      "Carl Zeiss",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Carl Zeiss",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Carl Zeiss",
+      "Jena",
+      "based_in2"
+    ],
+    [
+      "Carl Zeiss Micro Imaging",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Carl Zeiss Micro Imaging",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Carl Zeiss Micro Imaging",
+      "Jena",
+      "based_in2"
+    ],
+    [
+      "Carl Zeiss Micro Imaging",
+      "Carl Zeiss",
+      "part_of"
+    ]
+  ]
+}

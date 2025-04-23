@@ -1,0 +1,45 @@
+{
+  "content": "Record Number of Germans Moving Abroad\nDespite an improved economic situation, more Germans relocated outside the country in 2007 than in any year since reunification in 1990, raising concerns over a demographic crisis in the near future.\nFigures released on Monday, May 19, by the Federal Statistics Office showed that 165,180 German citizens migrated elsewhere last year, an increase of nearly 10,000 from 2006. The top destinations were Switzerland, the United States, Poland and Austria. A total of 111,291 Germans returned from abroad in 2007, resulting in a net loss of 53,889 citizens, the third straight year in which more Germans have left the country than returned. Both the number of Germans leaving the country and the net loss of German citizens were the highest since reunification in 1990, adding to concerns that Germany is heading towards a demographic crisis. Population experts have long been warning that Germany's ageing, shrinking population will be detrimental to Europe's largest economy in future. Population dropped for fifth year in a row The Statistics Office reported that, with a net total of 101,691 foreigners moving to Germany last year, there was a net gain from migration of 47,802. Additionally, the country saw its first increase in the number of births in a decade, with some 690,000 births recorded. But these numbers combined were not enough to offset the estimated 825,000 deaths in 2007. Overall, this resulted in a drop in the German population for the fifth straight year. Experts have predicted that the German population could fall to as low as 69 million in 2050 from some 82 million today.",
+  "relations": [
+    [
+      "Federal Statistics Office",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Statistics Office",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Federal Statistics Office",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Statistics Office",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Statistics Office",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Federal Statistics Office",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

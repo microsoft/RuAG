@@ -1,0 +1,150 @@
+{
+  "content": "Lack of opportunity leads to mass exodus from Kosovo\nIn recent months, tens of thousands have fled Kosovo, the youngest European state. Poverty and a lack of prospects at home are just two reasons why they're leaving.\n\"Why should I stay here?\" asks Fitim S., who has three children, ages 10, 8 and 3. Until a few months ago, he received 80 euros a month in benefits. But even that has been cut now, as he owns a house and others do not. \"We've been told that we can claim asylum in Germany,\" Fitim says, adding that he would like to stay in Kosovo if he could find work paying \"around 200 euros ($230) a month.\" But, things being as they are, all five of them are packed up and ready to get on the bus to Germany. For over two months, up to 10 buses have left for the north every evening from the capital, Pristina. It's a similar picture in most other towns. They usually have no problems passing through Serbia despite Belgrade's reluctance to recognize a Kosovo passport. They go as far as Subotica, a small town near the Serbia-Hungary border. It's a Schengen border, which most Kosovars then cross on foot with the help of corrupt police officers and traffickers who charge 200 euros per head. If they get caught by Hungarian police, they claim asylum in Hungary. But they'd rather make it all the way to Germany, Austria or Scandinavia. 'They leave' Kosovo has not seen this many people leave the country since the war in 1999. There are no official numbers, but government sources say up to 30,000 have fled Kosovo in the past two months. Some diplomats in Pristina, however, think 50,000 is a more realistic figure - some media outlets claim it's even more. Many schools have seen the effects: Teachers have been let go as more than 5,200 students have left. The streets and restaurants in Pristina, normally full of life, are also emptier than usual. For a country with just 1.8 million people, this mass exodus poses a problem. \"Kosovars don't believe in political parties, parliament or the government anymore,\" sociologist Artan Muhaxhiri told DW. \"So, first chance they get, they leave.\" Kosovo is one of the poorest countries in Europe, with unemployment at 45 percent and more than 34 percent of people living in poverty, meaning on less than 1.42 euros a day. About 18 percent even live on just 94 cents a day. But there are also some middle class Kosovars giving up fairly well-paid jobs to leave the country illegally. Reality check In January, Kosovars made up the second biggest group of applicants for asylum in Germany, after Syrians, according to German authorities. Serbians and Albanians were in third and fourth place, with some of those possibly Kosovars with Serbian or Albanian passports. For most Kosovars, their dreams of making it in Germany end as soon as they arrive. \"There is no asylum for Kosovars,\" Manfred Schmidt, president of the German Migration and Refugee Authority, told DW. While Kosovo is not yet on the list of safe countries, like Serbia, Bosnia-Herzegovina or Macedonia, Kosovars seeking asylum are practically always rejected, Schmidt said. Those who do not leave Germany within two weeks of their rejection may be forced to leave and asked not to enter Schengen territory for the next five years. Government media campaign On their return, many Kosovars find themselves destitute, having lost everything for a shattered dream. \"When this exodus is over there'll likely be more people in Brussels calling for a liberalization of visa policies for Kosovo,\" Dusan Reljic, head of the Brussels bureau of the German Institute for International and Security Affairs. Under pressure from diplomats, the government in Pristina started a media campaign asking people not to leave Kosovo. Border controls in Serbia and Hungary have also been stepped up. All to little avail, as more buses keep heading toward Serbia, with more people on board seeking a new life in Germany, Austria or Scandinavia.",
+  "relations": [
+    [
+      "Manfred Schmidt",
+      "German Migration and Refugee Authority",
+      "head_of"
+    ],
+    [
+      "Manfred Schmidt",
+      "German Migration and Refugee Authority",
+      "member_of"
+    ],
+    [
+      "Fitim S.",
+      "Kosovo",
+      "citizen_of"
+    ],
+    [
+      "Fitim S.",
+      "Kosovars",
+      "citizen_of-x"
+    ],
+    [
+      "Pristina",
+      "Kosovo",
+      "in0"
+    ],
+    [
+      "Pristina",
+      "Kosovars",
+      "in0-x"
+    ],
+    [
+      "Belgrade",
+      "Serbia",
+      "in0"
+    ],
+    [
+      "Belgrade",
+      "Serbians",
+      "in0-x"
+    ],
+    [
+      "Belgrade",
+      "Serbian",
+      "in0-x"
+    ],
+    [
+      "Subotica",
+      "Serbia",
+      "in0"
+    ],
+    [
+      "Subotica",
+      "Serbians",
+      "in0-x"
+    ],
+    [
+      "Subotica",
+      "Serbian",
+      "in0-x"
+    ],
+    [
+      "Kosovars",
+      "Kosovo",
+      "gpe0"
+    ],
+    [
+      "Hungarian",
+      "Hungary",
+      "gpe0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Serbians",
+      "Serbia",
+      "gpe0"
+    ],
+    [
+      "Serbian",
+      "Serbia",
+      "gpe0"
+    ],
+    [
+      "German Migration and Refugee Authority",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Migration and Refugee Authority",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Migration and Refugee Authority",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Migration and Refugee Authority",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Dusan Reljic",
+      "German Institute for International and Security Affairs",
+      "head_of"
+    ],
+    [
+      "Dusan Reljic",
+      "German Institute for International and Security Affairs",
+      "member_of"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

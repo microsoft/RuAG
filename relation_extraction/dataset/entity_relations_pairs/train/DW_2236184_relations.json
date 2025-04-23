@@ -1,0 +1,135 @@
+{
+  "content": "US Blog That Holds Government Responsible Wins Weblog Award\nFrom pushing people to live for the moment to protecting bears, from bicycle activism to holding politicians accountable, the 2006 Best of the Blogs Weblog awards (BOBs) showed the variety of the blogosphere.\nFor the first time in the three-year history of Deutsche Welle's Best of the Blogs awards, an American blog, the Sunlight Foundation, received the competition's Best Weblog honors. PaidContent.org received the award for Best English Weblog. \"The Sunlight Foundation blog is a group of people who are not only writing about transparency in American politics, they are helping motivate their audience to uncover wrongdoing and shine a light on how the US Congress operates,\" said US jury member Mark Glaser. \"Not only are they fighting corruption, but they are also creating tools so that average citizens can become watchdogs on their own.\" Recently the group's \"Is Congress a Family Business?\" project uncovered 19 members of the US Congress who paid their spouses a total of $636,000 (495,250 euros) in 2006. Blog encourages involvement in politics \"The winning blog pushes for active public involvement across party lines and takes an exemplary stand for democracy in the blogosphere,\" said Uta Thofern, editor-in-chief of DW-WORLD.DE, Deutsche Welle's Internet presence. \"The group also pulled off one of the coups of the American blogosphere this year by bringing together liberal and conservative bloggers in its 'Exposing Earmarks' project,\" Glaser said, adding that the project exposed 1,800 cases of hidden funding in a legislative bill and led to a new transparency law in the United States. Weblogs of all types, including a Russian blog focused on fighting corruption in soccer and another by a Dutch journalist in Belgrade, were also named winners in the competition's 15 categories and 10 languages. Two Persian blogs share Reporters Without Borders award The Reporters Without Borders Award, which has become an integral part of the BOBS, was shared by two Persian-language bloggers. \"The pair of Iranian winners defends free expression in a country that extensively censors the Internet and jails bloggers who are too critical of its government,\" said jury member Julien Pain of Reporters Without Borders. The first blog, \"Kosoof,\" is a photoblog that proves that pictures sometimes do more for freedom of expression than words by publishing photos of Iranian dissidents with their families after release from prison. The second, \"Tanine Sokut\" by Hamed Mottaghi, denounces human rights violations in Iran and reports on issues that aren't covered by the national media. PaidContent.org best English blog The Jury Award for the best English-language Weblog in 2006 was given to paidContent.org. The jury said it respected the blog's ability to move quickly in breaking news stories and commenting on developments in the digital media industry. \"If only all industries were covered as exhaustively as Paidcontent.org covers for-profit media,\" said US jury member Lisa Stone. \"Nobody -- no newspaper, program or Web site, indeed few analysts -- covers the space as well as the paidContent.org team.\" Awards ceremony in Berlin All of the BOBs awards were announced at an awards ceremony Saturday in Berlin. The BOBs' jury of bloggers, independent journalists and media experts engaged with the audience in a discussion about trends and development in each language's blogosphere. Over 5,500 blogs and podcasts were submitted to the third annual Best of the Blogs, twice as many as in 2005, and over 100,000 votes were cast online to award a Users' Prize to the public's favorite blog in each of the BOBs' 15 categories. Blogopedia The 2006 Best of the Blogs competition ended when the doors were closed Saturday night at Berlin's Museum for Communication, where the ceremony was held, but the Blogopedia, the Deutsche Welle's Weblog catalog, is still open for suggestions for next year's contest as well as to provide a source for unique and interesting blogs to promote themselves. Whether the blogs lists 1,000 ways to open a beer bottle or contains the daily thoughts of Iran's former vice president, the Blogopedia has something you'll want to start reading. The Blogopedia also makes it possible to search for blogs and podcasts according to type, topic and language and then rate and comment on what you find.",
+  "relations": [
+    [
+      "Best of the Blogs Weblog",
+      "Deutsche Welle",
+      "product_of"
+    ],
+    [
+      "PaidContent.org",
+      "Best English Weblog",
+      "award_received"
+    ],
+    [
+      "Sunlight Foundation",
+      "Best Weblog",
+      "award_received"
+    ],
+    [
+      "Sunlight Foundation",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Sunlight Foundation",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Mark Glaser",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Mark Glaser",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Uta Thofern",
+      "DW-WORLD.DE",
+      "head_of"
+    ],
+    [
+      "Uta Thofern",
+      "DW-WORLD.DE",
+      "member_of"
+    ],
+    [
+      "DW-WORLD.DE",
+      "Deutsche Welle",
+      "part_of"
+    ],
+    [
+      "Iranian",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "Kosoof",
+      "Reporters Without Borders Award",
+      "award_received"
+    ],
+    [
+      "Tanine Sokut",
+      "Reporters Without Borders Award",
+      "award_received"
+    ],
+    [
+      "Tanine Sokut",
+      "Iran",
+      "based_in0"
+    ],
+    [
+      "Tanine Sokut",
+      "Iranian",
+      "based_in0-x"
+    ],
+    [
+      "Tanine Sokut",
+      "Hamed Mottaghi",
+      "created_by"
+    ],
+    [
+      "Hamed Mottaghi",
+      "Iran",
+      "citizen_of"
+    ],
+    [
+      "Hamed Mottaghi",
+      "Iranian",
+      "citizen_of-x"
+    ],
+    [
+      "Lisa Stone",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Lisa Stone",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Museum for Communication",
+      "Berlin",
+      "in2"
+    ]
+  ]
+}

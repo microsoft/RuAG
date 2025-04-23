@@ -1,0 +1,155 @@
+{
+  "content": "India prepares to introduce plastic banknotes\nIndia has decided to trial the use of plastic notes across five of the country's cities. It is part of a move, experts say, aimed at reducing costs, increasing the life of notes and combating counterfeit currency.\nThe Reserve Bank of India (RBI) is getting ready to circulate 1 billion plastic, or polymer, bank notes of the 10 rupee denomination, which equals around 14 euro cents, across five Indian cities. Kochi, Mysore, Jaipur, Bhubaneshwar and Shimla have been chosen for their vast geographical differences and to test the effects their varying climates may have on the plastic notes. The switch to plastic banknotes, Alpana Killawala, spokesperson at the Reserve Bank of India said, is not only aimed at increasing the longevity of the notes but also a move to tackle people attempting to counterfeit the currency. Plastic vs. paper Thirteen billion banknotes were withdrawn from circulation in 2009-2010, the RBI reported - amounting to a quarter of all banknotes in circulation at the time. Polymer bank notes are more expensive to produce. While no cost analysis has been done in India of paper printing versus plastic, central banks in Canada and New Zealand report that producing plastic banknotes is double that of paper. But, with the significantly longer circulation life of polymer notes, it is hoped the expense of printing replacement paper notes and disposing of soiled or torn currency will be cut, Kishore Jhunjhunwalla, co-author of the \"Standard Reference Guide to Indian Paper Monday,\" told DW. \"In India most notes, especially the lower denominations like 10 rupee notes which are circulated the most, get very dirty and damaged quickly. People here often scribble on notes, crease them and make them ugly - they cannot do so if they are plastic notes.\" Plastic bank notes, Jhunjhunwalla added, can be easily cleaned. With the latest available technology they are also able to be recycled. Along with their environmental benefit, polymer banknotes are also more hygienic, Dr Arindam Ghosh from the Medical College and Hospital in Kolkata told DW in an interview. \"The paper notes get very dirty in humid regions of India and they are carriers of many germs. If finally a switchover to plastic notes takes place in India, the banknotes will be cleaner from a hygienic point of view, and we shall be able to cut down on many infections that are spreading through soiled paper notes now.\" Fake banknotes In 2009-2010 alone, the RBI reported detecting more than 400,000 counterfeit notes of varying denominations. Indian media reported recently that counterfeit money currently in circulation could be as much as 120,000 billion rupees. Experts believe polymer notes would curb the problem of fake money generation, as has been done in countries like New Zealand, Canada and Vietnam where the plastic currency has been fully introduced. \"Modern polymer banknotes are very difficult to replicate or copy using high-grade home printers. The security features such as the transparent windows, micro-printed watermarks, hidden numbers and raised ink assist in making the polymer notes more secure,\" said Rezwan Razack, second author of \"Standard Reference Guide to Indian Paper Money,\" in an interview with DW. \"If they come into circulation, polymer notes look like a solution to India's counterfeit problem.\" Developed in Australia, modern polymer banknotes were first issued in 1988 as a more secure and durable alternative to paper notes. \"A decision to issue plastic banknotes for long term circulation will be taken on the basis of the outcome of the field trial,\" junior finance minister S. S. Palanimanickam told India's parliament last month. If the trial circulation of the 10 rupee notes goes smoothly, the RBI will introduce polymer notes of higher denominations in future. No date as been given for the start of the trial.",
+  "relations": [
+    [
+      "Reserve Bank of India",
+      "India",
+      "agency_of"
+    ],
+    [
+      "Reserve Bank of India",
+      "Indian",
+      "agency_of-x"
+    ],
+    [
+      "Reserve Bank of India",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Reserve Bank of India",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Standard Reference Guide to Indian Paper Monday",
+      "Kishore Jhunjhunwalla",
+      "created_by"
+    ],
+    [
+      "Standard Reference Guide to Indian Paper Monday",
+      "Rezwan Razack",
+      "created_by"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Kochi",
+      "India",
+      "in0"
+    ],
+    [
+      "Kochi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Mysore",
+      "India",
+      "in0"
+    ],
+    [
+      "Mysore",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Jaipur",
+      "India",
+      "in0"
+    ],
+    [
+      "Jaipur",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Bhubaneshwar",
+      "India",
+      "in0"
+    ],
+    [
+      "Bhubaneshwar",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Shimla",
+      "India",
+      "in0"
+    ],
+    [
+      "Shimla",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Alpana Killawala",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Alpana Killawala",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Alpana Killawala",
+      "Reserve Bank of India",
+      "member_of"
+    ],
+    [
+      "Arindam Ghosh",
+      "Medical College and Hospital",
+      "member_of"
+    ],
+    [
+      "Medical College and Hospital",
+      "India",
+      "in0"
+    ],
+    [
+      "Medical College and Hospital",
+      "Kolkata",
+      "in2"
+    ],
+    [
+      "Kolkata",
+      "India",
+      "in0"
+    ],
+    [
+      "Kolkata",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "S. S. Palanimanickam",
+      "India",
+      "agent_of"
+    ],
+    [
+      "S. S. Palanimanickam",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "S. S. Palanimanickam",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "S. S. Palanimanickam",
+      "India",
+      "minister_of"
+    ],
+    [
+      "S. S. Palanimanickam",
+      "Indian",
+      "minister_of-x"
+    ]
+  ]
+}

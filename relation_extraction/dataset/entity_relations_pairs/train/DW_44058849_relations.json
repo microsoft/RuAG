@@ -1,0 +1,70 @@
+{
+  "content": "Germany: Police attacked at music festival in Darmstadt\nFifteen police officers have been injured in violence following a music festival in the Hessian city of Darmstadt. Alcohol is thought to have played a role in the clashes.\nPolice in the German city of Darmstadt came under attack from groups of assailants overnight to Sunday, with 15 officers suffering injuries. Initial police reports said that 80 people, many of them drunk, were arrested after the violence broke out at the end of a popular open-air music festival. According to police, people began throwing bottles at officers without warning as the festival concluded and also carried out acts of vandalism, including setting alight a container for donated clothing. They said reinforcements were brought in to help quell the violence. \"The reason for the violent acts is still unclear. Investigations [...] are ongoing,\" police said. Read more: German police shortages 'threaten rule of law' Call for stiffer sentences The interior minister of the state of Hesse, Peter Beuth, condemned the attacks, calling for the minimum sentence for such offenses to be raised from three months to six months. Such attacks did not just represent an offense against police, but also \"against our constitutional state and our society,\" Beuth said. He said he would bring up the subject of tightening the laws regarding attacks on security forces at a conference of national and state interior ministers that is scheduled to start on Wednesday. The Schlossgrabenfest in Darmstadt draws hundreds of thousands of visitors to the city each year. Read more: Germany: Crime rate drops, but fear rises tj/sms (AFP, dpa)",
+  "relations": [
+    [
+      "Darmstadt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Darmstadt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Darmstadt",
+      "Hesse",
+      "in1"
+    ],
+    [
+      "Schlossgrabenfest",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Schlossgrabenfest",
+      "Darmstadt",
+      "event_in2"
+    ],
+    [
+      "Peter Beuth",
+      "Hesse",
+      "agent_of"
+    ],
+    [
+      "Peter Beuth",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peter Beuth",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Beuth",
+      "Hesse",
+      "minister_of"
+    ],
+    [
+      "Hessian",
+      "Hesse",
+      "gpe1"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Hesse",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hesse",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

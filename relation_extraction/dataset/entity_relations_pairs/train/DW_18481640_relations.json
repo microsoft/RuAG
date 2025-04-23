@@ -1,0 +1,40 @@
+{
+  "content": "Women's World Cup gender tests 'ridiculous'\nFemale athletes are increasingly forced to pass gender verification tests. Medical ethicist Claudia Wiesemann says the tests are not just \"ridiculous,\" but can have humiliating consequences.\nDW: The German Women's National Soccer Team had to supply medical confirmation that all players were indeed women in order to be allowed to play in the Women's World Cup in Canada this summer. What does \"gender verification\" entail? Is it just a little peek down where the sun doesn't shine? Claudia Wiesemann: Well, at first it was, in the 50s and 60s. Back then, it was a purely phyiscal test. Later, it was examined whether the athletes had two X chromosomes. Men usually have an X and a Ychromosome. Then came more thorough physical tests, which included an exam of the organs in the abdomen. Today, hormone levels are tested in the blood - so how much testosterone a woman has in her blood. Is it complicated to measure that? Not really. It's pretty easy to examine testosterone levels. What's harder is interpreting the results. Why is that? There's no such thing as definite gender verification. Women can have very high levels of testosterone, but their bodies can be completely insensitive to the effects. Some people are more sensitive to testosterone, others less. Women can even have a Y chromosome and still have a female physique. Men and women are merely two extremes of a continuum, and, between these extremes, many different types are possible. How have attitudes developed within international sports associations? The International Olympic Committee (IOC,) for example, has introduced rules regarding testosterone levels. That was the IOC's way of reacting to massive criticism of previous tests, which were discriminating and didn't yield accurate results. But the testosterone examination is no different. In order for a woman to compete in a women's competition, the IOC demands she has lower testosterone levels than a man. But that's a purely arbitrary cut-off. There are women who undoubtedly grew up as females, but have higher-than-average testosterone levels. That makes them better athletes - just like a man who's taller than two meters (6'6'') is a better basketball player, because he's taller than average. Supporters of gender verification say that if women with heightened testosterone levels compete alongside other female athletes, it's unfair and distorts the competition. How do you respond to that? A physical advantage will always influence how the competition goes. That's also true for the basketball player who's taller than two meters, but we'd never entertain the idea of disqualifying him because of an unfair advantage. We have to provide a reason why a certain advantage is so unfair that it merits disqualification. Additionally, we have to think about the damage we'd be doing by excluding someone from the competition because of a purportedly wrong gender. What kind of detrimental effect could that have? There can be major damage. One female athlete from India [Santhi Soundarajan, eds. note] was publicly called a liar and a cheater when a gender verification exam showed she had a Y chromosome. She tried to kill herself because of the hostility and humiliation that ensued. How often do intersexual people whose gender cannot biologically be determined, face this issue? That's a big problem for them. The fact that intersex individuals exist is not widely known in society. Instead, most people think that it should be easy to tell the difference between man and woman. While that's true for 99.9 percent of cases, it's not the case for the remaining 0.1 percent. Going back to the German Women's National Team: According to media reports, the players had to present a kind of medical certificate from their gynecologists, confirming that they are indeed all women. What do you think about that? I find it disastrous that national associations are participating in this madness. They really are in a tough situation, though. They can't suddenly protest and say \"Fine, then we're not coming\" right before such an important competition. That's the perfidious aspect of the international associations' policy. They're simply passing the buck to the national associations. And they in turn pass that pressure on to the athletes, saying: \"Either you participate in this pseudo-medical exam, or you can't compete.\" Claudia Wiesemann is a medical ethicist and director of the Institute for Ethics and History of Medicine at the University of Göttingen.",
+  "relations": [
+    [
+      "German Women's National Soccer Team",
+      "Women's World Cup",
+      "appears_in"
+    ],
+    [
+      "Women's World Cup",
+      "Canada",
+      "event_in0"
+    ],
+    [
+      "Claudia Wiesemann",
+      "Institute for Ethics and History of Medicine",
+      "head_of"
+    ],
+    [
+      "Claudia Wiesemann",
+      "Institute for Ethics and History of Medicine",
+      "member_of"
+    ],
+    [
+      "Claudia Wiesemann",
+      "University of Göttingen",
+      "member_of"
+    ],
+    [
+      "Santhi Soundarajan",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Institute for Ethics and History of Medicine",
+      "University of Göttingen",
+      "part_of"
+    ]
+  ]
+}

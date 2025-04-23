@@ -1,0 +1,55 @@
+{
+  "content": "It's a Dog's Life\nHmm, a mint biscuit or a garlic cookie? There are some difficult culinary decisions facing pampered pooches in Germany.\nDogs in Wiesbaden -- one of Germany's most affluent cities -- have a tough life. First, there is the arduous stroll through the haute couture stores in the luxurious Wilhelmstrasse. Then there is the patient wait while owners take a flutter at the casino or a dip in the thermal springs. But, fortunately, the poor pooches have some compensation -- their very own bakery offering a choice of tuna cookies, love bones, vitality bars and other tasty creations for the affluent, urban dog. A former florist, Janine Saraniti-Lagerin, set up her \"Dog's Goodies\" bakery for canine customers three months ago after being inspired by a television report about similar US shops. In a stylish city where it just wouldn't do to be seen with a chubby canine, the tidbits on sale are, of course, non-fattening and sugar free. They also contain no salt or chemicals that might harm the sensitive little beasts. Pricey treats for pets Although Germans might spend the least in Europe when it comes to putting food on the table, it seems they're willing to make an exception for the chow that lands in their best friend's bowl. Business is booming at the bakery even though the prices for the tasty treats range from 19 to 32 euros pro kilo ($10.90 to $18.60 per pound). Even if not every dog owner frequents the doggy biscuit shop, the bakery is the talk of the town. \"The doggy bakery is what we owners have all been talking about when we walk our dogs,\" said customer Jutta Schneider. Schneider said she brings her male Havanese, Amor, to the shop once a week for his favorite snack, potato balls. And in case Wiesbaden's inhabitants fail to find just the right gift for their cherished pets at the city's famous Christmas markets, the bakery will be offering Christmas stockings filled with doggy cookies during the festive season.",
+  "relations": [
+    [
+      "Wiesbaden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Wiesbaden",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Janine Saraniti-Lagerin",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Janine Saraniti-Lagerin",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Janine Saraniti-Lagerin",
+      "Dog's Goodies",
+      "founder_of"
+    ],
+    [
+      "Dog's Goodies",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Dog's Goodies",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Jutta Schneider",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jutta Schneider",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

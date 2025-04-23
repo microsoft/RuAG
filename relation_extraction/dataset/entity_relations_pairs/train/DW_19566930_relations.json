@@ -1,0 +1,175 @@
+{
+  "content": "Syria at 'make or break moment,' Steinmeier calls for no-fly zone\nThe UN is to begin an investigation into the attack on an aid convoy, as Germany suggests a no-fly zone over Syria. Tensions remain high between the US and Russia following the airstrikes, which killed 21 people.\nLeaders met in New York on Wednesday for a crisis meeting of the UN Security Council, as Washington and Moscow traded accusations over an attack on an aid convoy that has left the future of the ceasefire in doubt. \"We are at a make or break moment,\" UN Secretary-General Ban Ki-moon told members of the council, as he announced plans to carry out a \"vigorous\" independent investigation into the air raid. The 31-truck convoy was pounded by airstrikes near Aleppo on Monday, leading to the deaths of at least 21 people. The incident prompted the UN and the International Committee of the Red Cross (IRC) to initially suspend all aid deliveries to the country. However, the UN said later on Wednesday that it would resume aid convoys. The International Syria contact group was due to meet in New York on Thursday, which could offer a chance for the US and Russia to overcome their differences and salvage a ceasefire. Ahead of those talks, German Foreign Minister Frank-Walter Steinmeier proposed a temporary no-fly zone over Syria to save the virtually failed truce. \"The situation is now on a knife edge,\" Steinmeier said on Wednesday evening (local time) in New York. \"If the ceasefire is to have a chance at all, the only path leads towards the creation of a temporary but complete cessation of all military aircraft movements over Syria - at least for three, but even better for seven days.\" The German minister said the short-term arrangement would enable the restarting of aid deliveries to civilians. The trucks targeted in Monday's bombing, belonged to the UN and Syrian Arab Red Crescent (SARC), and were delivering aid for some 78,000 civilians in the town of Urm al-Kubra in Aleppo Governorate. The ceasefire that had been brokered by Washington and Moscow had already virtually collapsed prior to the attack amid violations throughout the week. The US and Russia were both in attendance at the UN meeting. \"Supposedly we all want the same goal [for Syria],\" Secretary of State John Kerry said. \"But we are proving woefully inadequate in...making that happen.\" Tit for tat The talks came the same day Russia said a US drone had been operating in the same area where the airstrike occurred, though the Pentagon has denied this claim. Washington and Moscow have been engaged in a tit for tat for the past several days, with Washington accusing Moscow of changing its narrative about what happened on the day of the convoy attack. \"All of our information indicates clearly that this was an airstrike,\" White House Deputy National Security Advisor Ben Rhodes said on Tuesday. \"That means that there only could have been two entities responsible - the Syrian regime or the Russian government.\" US officials told Reuters news agency that two Russian Sukhoi SU-24 warplanes had been detected in the skies above the convoy at the moment the attack happened. Both Moscow and Damascus have denied responsibility for the strike. blc/jil (dpa, AP, AFP)",
+  "relations": [
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Syrian Arab Red Crescent",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Syrian Arab Red Crescent",
+      "Syrian",
+      "based_in0-x"
+    ],
+    [
+      "New York",
+      "US",
+      "in0"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "institution_of"
+    ],
+    [
+      "Security Council",
+      "UN",
+      "part_of"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Ban Ki-moon",
+      "UN",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "UN",
+      "member_of"
+    ],
+    [
+      "Aleppo",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Aleppo",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Urm al-Kubra",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Urm al-Kubra",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Pentagon",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Pentagon",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ],
+    [
+      "Ben Rhodes",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Ben Rhodes",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "content": "Maldives revokes state of emergency citing improved security situation\nThe president of the Maldives has lifted a state of emergency following an outcry from the international community. The government says the measures are no longer necessary because the security threat has subsided.\nThe government said Tuesday it had rescinded the emergency measures \"with immediate effect\" and that \"all fundamental rights that were suspended have been restored.\" President Yameen Abdul Gayoom declared the state of emergency one week ago after the discovery of a homemade bomb and a stash of weapons near his official residence. The finding followed an explosion on Gayoom's speedboat in September - an incident the government labeled an assassination attempt. The president was not hurt in the blast, but his wife, an aide and a bodyguard were injured. The emergency regulations, intended to be in place for 30 days, gave security forces wide-ranging search and arrest powers, and suspended citizens' basic rights. They drew criticism from former colonial power Britain as well as the United States, the European Union and neighboring Sri Lanka. Reading out a presidential decree revoking the emergency, Attorney General Mohamed Anil said there was no longer a threat to the Indian Ocean atoll nation. He said investigations into the September blast and the recovery of weapons had made good progress. The foreign ministry said a number of people had been arrested. Lawmakers also used the security regulations to fast-track the impeachment of Vice President Ahmed Adeeb, who stands accused of plotting the alleged attempts on the president's life. Impact on tourism Attorney General Anil said pressure from the international community, as well as \"the possible adverse impact on Maldives tourism and the economy,\" had also played a role in ending the state of emergency. Foreign tourists visiting the tropical nation, known for its luxury tourist resorts, palm-fringed beaches and coral reefs, contribute close to a third of the country's gross domestic product. The Maldives has had a rocky road to democracy since holding its first multiparty election in 2008. The country's first democratically elected leader, current opposition chief Mohamed Nasheed, was forced to step down in 2012 after a mutiny by security forces. In March, he was jailed for 13 years on terrorism charges in a trial the United Nations said was illegal. President Gayoom is under intense international pressure to release him. Nasheed's opposition Maldivian Democratic Party welcomed Tuesday's announcement. But said declaring the state of emergency in the first place was a political move designed to stop a rally planned for last week calling for Nasheed's freedom. \"It appears that Yameen is willing to make up threats about the nation's security in order to settle political scores,\" the party said in a statement, referring to the president. nm/kms (AP, AF, Reuters, dpa)",
+  "relations": [
+    [
+      "Yameen Abdul Gayoom",
+      "Maldives",
+      "agent_of"
+    ],
+    [
+      "Yameen Abdul Gayoom",
+      "Maldives",
+      "citizen_of"
+    ],
+    [
+      "Yameen Abdul Gayoom",
+      "Maldives",
+      "head_of_state"
+    ],
+    [
+      "Mohamed Anil",
+      "Maldives",
+      "agent_of"
+    ],
+    [
+      "Mohamed Anil",
+      "Maldives",
+      "citizen_of"
+    ],
+    [
+      "Mohamed Nasheed",
+      "Maldives",
+      "agent_of"
+    ],
+    [
+      "Mohamed Nasheed",
+      "Maldives",
+      "citizen_of"
+    ],
+    [
+      "Mohamed Nasheed",
+      "Maldives",
+      "head_of_state"
+    ],
+    [
+      "Ahmed Adeeb",
+      "Maldives",
+      "agent_of"
+    ],
+    [
+      "Ahmed Adeeb",
+      "Maldives",
+      "citizen_of"
+    ],
+    [
+      "Ahmed Adeeb",
+      "Maldives",
+      "minister_of"
+    ],
+    [
+      "Maldivian Democratic Party",
+      "Maldives",
+      "based_in0"
+    ]
+  ]
+}

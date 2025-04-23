@@ -1,0 +1,95 @@
+{
+  "content": "Heidi hits the Big Screen\nHeidi, the world famous girl from the Swiss Alps who first appeared in a novel 121 years ago, has hit the big screen in a fresh look.\nA century after the death of Heidi inventor Johanna Spyri, the lovable Alpine heroine is being portrayed in a new film which replaces grassy slopes and mountainous range with city skyscrapers and city streets. The $ 3.5 million \"Heidi\", funded by the Zürich-based film company Vega and directed by German film maker Markus Imboden, is to be launched in Germany on Thursday. The making of the film was one of the highlights of a past year of events including exhibitions, lectures and fireworks celebrating the July 7 2001 centenary of the death of Spyri, whose novel \"Heidi\" sold 20 million copies and has been translated in 50 languages worldwide. It is thought to be one of the most successful books of all times. The book has inspired 17 films, including Shirley Temple’s Oscar winning portrayal of Heidi in 1937 and a Japanese cartoon series. Imboden’s remake is the 18th \"Heidi\" film. Blue hair in Berlin According to Vega, \"the film was transmitted to today’s world without losing sight of the original novel\". But Imboden’s new movie is far from the charming original, with its rosy-cheeked, curly-headed Heidi, delicate Clara and goat-tending shepherd Peter’s frail old grandmother. In the first film, Heidi, who lives happily with her grandfather in a tiny hut in the Swiss Alps is plucked from her contented life by her Aunt Dete to live in a stiff, rich family in the bustling metropolis, Frankfurt. Heidi becomes so home-sick, she starts to sleepwalk and is eventually sent home. But not before she causes confusion in the otherwise prim household and brings laughter in the life of the disabled and homely, Clara. The Heidi in the latest film has blue hair, surfs the net and roams the streets of Berlin. Friend and shepherd Peter sheds his rustic pastimes and whizzes down streets on his mountainbike. Clara is not the weak, lame young girl of the Spyri novel, but a moody Britney Spears wannabe. Aunt Dete is a modern-day stylist living fashionably in the German capital. The new surroundings are a far cry from the tranquil days of cow milking, goat- tending and flower-plucking in the verdant meadows of the Swiss Alps. Transforming the Heidi myth According to a Berlin daily, the remake is a \"refreshing Heidi\", adding that the script writers had managed to transform the Heidi \"myth\" into an independent, self-assured girl and not into a \"transfigured mountain heroine\". However, it is just this portrait of a naive and charming alpine heroine that has made Heidi so popular all over the world. Heidi has become a well-known Swiss brand worldwide. Some 60,000 tourists – half from Japan – are said to visit the picturesque wine-growing village in Graubuenden, which boasts the original Heidi House and other Heidi related attractions such as winding mountain trails and pastures. Imboden’s film, which is to be launched in Germany on Thursday, will also open elsewhere in Europe, and may reach fans in Japan and South Korea too. Whether Imboden’s blue-haired, computer savvy Heidi will charm her Asian viewers, however, remains to be seen.",
+  "relations": [
+    [
+      "Heidi",
+      "Johanna Spyri",
+      "created_by"
+    ],
+    [
+      "Heidi",
+      "Markus Imboden",
+      "created_by"
+    ],
+    [
+      "Heidi",
+      "Markus Imboden",
+      "directed_by"
+    ],
+    [
+      "Johanna Spyri",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Markus Imboden",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Markus Imboden",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Zürich",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Vega",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Vega",
+      "Zürich",
+      "based_in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Japanese",
+      "Japan",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Swiss Alps",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Graubuenden",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Heidi House",
+      "Graubuenden",
+      "in2"
+    ]
+  ]
+}

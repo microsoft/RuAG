@@ -1,0 +1,45 @@
+{
+  "content": "Fires rage across Spain's Canary Islands\nThousands of people have been evacuated on Spain's Canary Islands to escape forest fires sweeping across the islands of La Palma and La Gomera. Fire fighters and the military are trying to bring the flames under control.\nThe fires raged for the second day on Sunday, devastating thousands of hectares of pine forest on the popular holiday island of La Palma. Around 4,000 residents and tourists had to flee their homes and were moved into a temporary shelter. Around 30 homes and several wineries have been burned down. Some 500 firefighters, forest rangers and military personnel, including from neighboring islands, were called in to deal with the fires. Spanish air force planes and helicopters are also involved in efforts to bring the blaze under control. The flames were fanned by strong winds and were spreading on several fronts while a fresh outbreak was detected on the smaller island of La Gomera. Spain has seen temperatures soar to well over 30 degrees Celsius. The fire has struck at the height of the holiday season – the archipelago off the Atlantic coast of northern Africa entirely depends on tourism. Local authorities said they hoped to bring the blaze under control on Sunday. Spanish Prime Minister Jose Luis Rodriguez Zapatero is expected to fly to La Palma later in the day to oversee efforts to tackle the fire. Since the the start of this year, at least eight people have been killed by fires in mainland Spain. Fires have ravaged some 75,000 hectares of land, almost double the number as for the whole of 2008. ai/AFP/AP/Reuters Editor: Sonia Phalnikar",
+  "relations": [
+    [
+      "Canary Islands",
+      "Spain",
+      "in0"
+    ],
+    [
+      "Canary Islands",
+      "Spanish",
+      "in0-x"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spain",
+      "head_of_gov"
+    ],
+    [
+      "Jose Luis Rodriguez Zapatero",
+      "Spanish",
+      "head_of_gov-x"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ]
+  ]
+}

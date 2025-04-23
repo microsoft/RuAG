@@ -1,0 +1,190 @@
+{
+  "content": "Germany Chooses \"Culture Capital\" Finalists\nTwo very different German cities -- Görlitz and Essen -- have been chosen as finalists from among 10 hopefuls to compete for the title \"European Capital of Culture\" in 2010.\nThe jury which made the decision said it chose Essen due to its successful transformation from an industrial hub at the heart of the Ruhr region to a center of culture and science whose influence extends beyond its municipal borders. Görlitz/Zgorzelec, a city on the German/Polish border that was split in two by political developments, was chosen because judges said it represents a spirit of reconciliation and a Europe which is growing ever closer together after a century of war, expulsion and division. Tourist magnet The citizens of Görlitz let the champagne corks fly when the news was announced on Thursday evening. The city worked hard to restore its historic city center, left intact after the war, to its former glory, and for that reason, has become a tourist magnet in eastern Germany. But beauty aside, the town has been hit hard by the unemployment, westward migration and high vacancy rates seen throughout the eastern states. City officials are counting on the title of Culture Capital to dispel some of the gloom. \"We were both anxious and hopeful,\" said Kai Grebasch, spokesman for the city's Culture Capital office. \"When the good news finally came, we were all speechless with joy.\" In Essen, too, the relief over remaining in the race was palpable. Faced with the decline of traditional industries such as mining, the Ruhr region is attempting to reinvent itself, in the same way that British industrial cities such as Manchester and Liverpool have transformed themselves into hip cultural centers. Whole new future \"The jury picked up exactly our concern, which is to rededicate the whole region culturally, and make a whole new future possible,\" said North Rhine-Westphalia's Minister for Culture, Michael Vesper. The jury judged each candidate city's application on whether it presented a theme which explored ideas that were central to the European experience. And in this, Essen and Görlitz came out ahead of the other candidates Braunschweig, Bremen, Halle, Karlsruhe, Kassel, Lübeck, Potsdam and Regensburg. Germany is expected to pass on the recommendations to Brüssels in the fall, where the final decision will be made in 2006.",
+  "relations": [
+    [
+      "European Capital of Culture",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "European Capital of Culture",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "European Capital of Culture",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "European Capital of Culture",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Essen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Essen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Görlitz",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Görlitz",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Zgorzelec",
+      "Polish",
+      "in0-x"
+    ],
+    [
+      "Kai Grebasch",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Kai Grebasch",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Kai Grebasch",
+      "European Capital of Culture",
+      "member_of"
+    ],
+    [
+      "Manchester",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Liverpool",
+      "British",
+      "in0-x"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Michael Vesper",
+      "North Rhine-Westphalia",
+      "agent_of"
+    ],
+    [
+      "Michael Vesper",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Michael Vesper",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Michael Vesper",
+      "North Rhine-Westphalia",
+      "minister_of"
+    ],
+    [
+      "Braunschweig",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Braunschweig",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Halle",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Halle",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Karlsruhe",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Karlsruhe",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kassel",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Kassel",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Lübeck",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lübeck",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Potsdam",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Potsdam",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Regensburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Regensburg",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

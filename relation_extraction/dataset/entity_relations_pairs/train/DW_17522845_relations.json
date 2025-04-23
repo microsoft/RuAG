@@ -1,0 +1,120 @@
+{
+  "content": "New floating objects spotted as stormy weather grounds aircraft searching for MH370\nThailand has said its satellite images showed 300 floating objects near the search zone in the southern Indian Ocean. Meanwhile, thunderstorms and strong winds have forced search teams to temporarily suspend operations.\nThailand said on Thursday it could have a lead on possible wreckage from missing Malaysian Airlines flight MH370, according to media reports. Its latest satellite images revealed roughly 300 floating objects, ranging from two to 15 meters (6.6 to 50 feet) in size. The images pointed to an area some 2,700 kilometers southwest of Perth, within the zone where officials believe the plane crashed after losing contact with air traffic control on March 8. Search halted Earlier Thursday, the Australian Maritime Safety Authority (AMSA) cancelled reconnaissance flights to Thursday's search zone in the southern Indian Ocean after severe weather forecasts proved too dangerous. The suspension grounded six military planes and five civilian aircraft participating in the search and rescue operation for the missing Boeing 777. The aircraft were in the air \"maybe two hours,\" ASMA spokesperson Sam Cardwell said. \"They got a bit of time in, but it was not useful because there was no visibility.\" Five ships would remain out at sea for the time being, ASMA confirmed. Rescuers on Thursday had been scheduled to reach the search zone where satellite images had spotted 122 \"potential objects,\" which Malaysian officials said they believed could be wreckage from MH370. AMSA had issued a similar suspension earlier in the week, a move which sparked protests in Beijing. Distraught family members of the missing passengers marched on the Malaysian embassy, demanding more answers from officials. Two-thirds of the passengers on board MH370 were Chinese nationals. Logistical problems The international search team - relying on logistical support form the US, China, Japan, South Korea, Australia and New Zealand - is tasked with searching an area of 1.6 million square kilometers (622,000 square miles), which is roughly the size of Iran. Not only have poor weather conditions impeded search efforts, but the remoteness of the area has also made the recovery of any possible debris extremely difficult. Australian Prime Minister Tony Abbott described the search area \"as close to nowhere as it's possible.\" Experts have moreover warned that the unchartered terrain in the southern Indian Ocean could also prove dangerous to the crew. \"This is a really rough piece of ocean, which is going to be a terrific issue,\" the director of the Earth Observatory of Singapore, Kerry Sieh, told news agency AFP. \"I worry that people carrying out the rescue mission are going to get into trouble.\" kms/msh (AP, AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "MH370",
+      "Malaysian Airlines",
+      "artifact_of"
+    ],
+    [
+      "Australian Maritime Safety Authority",
+      "Australia",
+      "agency_of"
+    ],
+    [
+      "Australian Maritime Safety Authority",
+      "Australian",
+      "agency_of-x"
+    ],
+    [
+      "Australian Maritime Safety Authority",
+      "Australia",
+      "based_in0"
+    ],
+    [
+      "Australian Maritime Safety Authority",
+      "Australian",
+      "based_in0-x"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "agent_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "head_of_gov"
+    ],
+    [
+      "Tony Abbott",
+      "Australian",
+      "head_of_gov-x"
+    ],
+    [
+      "Malaysian Airlines",
+      "Malaysian",
+      "based_in0-x"
+    ],
+    [
+      "Perth",
+      "Australia",
+      "in0"
+    ],
+    [
+      "Perth",
+      "Australian",
+      "in0-x"
+    ],
+    [
+      "Sam Cardwell",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Sam Cardwell",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Sam Cardwell",
+      "Australian Maritime Safety Authority",
+      "member_of"
+    ],
+    [
+      "Sam Cardwell",
+      "Australian Maritime Safety Authority",
+      "spokesperson_of"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Australian",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Kerry Sieh",
+      "Earth Observatory of Singapore",
+      "head_of"
+    ],
+    [
+      "Kerry Sieh",
+      "Earth Observatory of Singapore",
+      "member_of"
+    ]
+  ]
+}

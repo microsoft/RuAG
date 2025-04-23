@@ -1,0 +1,40 @@
+{
+  "content": "The New York Wheel is growing \nConstruction on the world's tallest observation wheel is progressing in New York City. The gigantic attraction will, however, be significantly more expensive and its completion delayed.  \nOn a tour of the site in the borough of Staten Island, spokeswoman Tiffany Townsand said that the budget is currently 590 million dollars (about 555 million euros). That would make the New York Wheel more than twice as expensive as originally planned. At first its developers announced total costs of 250 million dollars and an opening date in 2015. Now the wheel is expected to start turning in spring 2018. A shopping mall, hotels, public parking garage and green areas will surround the planned attraction. The project's developers hope it will enhance the most suburban and least populated of the city's five boroughs. To this day, many tourists take the free ferry ride to Staten Island in order to enjoy the view of Upper New York Bay, the Statue of Liberty and the city skyline, but they usually go straight back to Manhattan. It's hoped that the New York Wheel will attract three million visitors annually and that they will spend time on the island's north shore. Right now, it would be the tallest observation wheel in the world, but because several similar projects are in the planning, its height could be exceeded before it's finished. At present the record-holder is the High Roller Ferris wheel in Las Vegas, Nevada, at just under 170 meters. The New York Wheel is expected to take 38 minutes for one rotation and accommodate up to 40 passengers in each of its 36 transparent capsules. Three capsules will have built-in bars and one will be a dining capsule. The new attraction was designed by Starneth B.V. - the company that built the London Eye in 1999. The 135-meter-tall wheel in the UK capital is visited by 3.5 million tourists a year. is/cho/ms (dpa, afp, newyorkwheel.com)",
+  "relations": [
+    [
+      "New York Wheel",
+      "New York City",
+      "in2"
+    ],
+    [
+      "Staten Island",
+      "New York City",
+      "in2"
+    ],
+    [
+      "Upper New York Bay",
+      "New York City",
+      "in2"
+    ],
+    [
+      "Statue of Liberty",
+      "New York City",
+      "in2"
+    ],
+    [
+      "Manhattan",
+      "New York City",
+      "in2"
+    ],
+    [
+      "High Roller Ferris",
+      "Las Vegas",
+      "in2"
+    ],
+    [
+      "London Eye",
+      "UK",
+      "in0"
+    ]
+  ]
+}

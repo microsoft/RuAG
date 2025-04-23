@@ -1,0 +1,220 @@
+{
+  "content": "Czech court keeps Europe waiting\nThe Czech Republic's highest court said it will deliver a ruling next week on a complaint filed by Czech senators against the European Union's Lisbon Treaty, which could hold up reform of the unwieldy 27-member bloc.\nThe Czech Constitutional Court heard the case Tuesday and will likely announce its decision on Tuesday, November 3, according to secretary-general of the court, Tomas Langasek. The proceedings at the Czech Constitutional Court have stirred intense international interest because the Lisbon Treaty, designed to streamline the administrative and decision-making processes in the EU, hangs in the balance. The Czech Republic is the only country yet to ratify the treaty. Without its signature, the European Commission, the EU's executive body, would be in legal limbo and unable to fill appointments set to expire at the end of this month. \"Only when we have legal clarity about the (Lisbon) Treaty can we decide about the new top posts in the EU,\" said Sweden's Minister for European Affairs, Cecilia Malmstrom, whose country currently hold the rotating EU presidency. The group of Czech senators who filed the complaint say the treaty undermines national sovereignty and is at odds with the Czech constitution. Czech President Vaclav Klaus has also been very critical of the treaty, demanding an \"opt-out\" clause with regard to the EU's human rights charter. Klaus has said that if the treaty were approved as is, it would allow ethnic Germans, expelled under the Benes Decrees in postwar Czechoslovakia to reclaim their property and file damage claims. Slovakia now eager to have the same privilege The move by the Czechs has led neighboring Slovakia to demand a similar opt-out. Foreign Minister Miroslav Lajcak on Monday said his country \"would insist on the same political and legal protections as the Czech Republic\" because it shares the same post-World War II law that deported millions of ethnic Germans and Hungarians from then-united Czechoslovakia. Most legal experts say the Czech court, which has already rejected one challenge by the Senate, will throw out the senators' appeal. It could issue a ruling on Tuesday, or take longer to do so. Czech Prime Minister Jan Fischer, who would like to see the Lisbon Treaty ratified, said on Monday that he did not expect the final ruling until later. Rejection of the appeal would give President Klaus the legal authority to sign the Lisbon Treaty. He cannot sign before the ruling. However, if the court accepts the appeal, the Czech constitution would have to be changed to allow ratification. And this could be a lengthy process with an uncertain outcome. gb/dpa/AP/Reuters Editor: Nancy Isenson",
+  "relations": [
+    [
+      "(Lisbon) Treaty",
+      "European Union",
+      "signed_by"
+    ],
+    [
+      "Tomas Langasek",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Tomas Langasek",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Tomas Langasek",
+      "Czechs",
+      "citizen_of-x"
+    ],
+    [
+      "Tomas Langasek",
+      "Czech Constitutional Court",
+      "head_of"
+    ],
+    [
+      "Tomas Langasek",
+      "Czech Constitutional Court",
+      "member_of"
+    ],
+    [
+      "Vaclav Klaus",
+      "Czech Republic",
+      "agent_of"
+    ],
+    [
+      "Vaclav Klaus",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Vaclav Klaus",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Vaclav Klaus",
+      "Czechs",
+      "citizen_of-x"
+    ],
+    [
+      "Vaclav Klaus",
+      "Czech Republic",
+      "head_of_state"
+    ],
+    [
+      "Vaclav Klaus",
+      "Czech",
+      "head_of_state-x"
+    ],
+    [
+      "Vaclav Klaus",
+      "Czechs",
+      "head_of_state-x"
+    ],
+    [
+      "Czech",
+      "Czech Republic",
+      "gpe0"
+    ],
+    [
+      "Czech Constitutional Court",
+      "Czech Republic",
+      "agency_of"
+    ],
+    [
+      "Czech Constitutional Court",
+      "Czech",
+      "agency_of-x"
+    ],
+    [
+      "Czech Constitutional Court",
+      "Czechs",
+      "agency_of-x"
+    ],
+    [
+      "Czech Constitutional Court",
+      "Czech Republic",
+      "based_in0"
+    ],
+    [
+      "Czech Constitutional Court",
+      "Czech",
+      "based_in0-x"
+    ],
+    [
+      "Czech Constitutional Court",
+      "Czechs",
+      "based_in0-x"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Cecilia Malmstrom",
+      "Sweden",
+      "agent_of"
+    ],
+    [
+      "Cecilia Malmstrom",
+      "Sweden",
+      "citizen_of"
+    ],
+    [
+      "Cecilia Malmstrom",
+      "Sweden",
+      "minister_of"
+    ],
+    [
+      "Benes Decrees",
+      "Czechoslovakia",
+      "law_of"
+    ],
+    [
+      "Czechs",
+      "Czech Republic",
+      "gpe0"
+    ],
+    [
+      "Miroslav Lajcak",
+      "Slovakia",
+      "agent_of"
+    ],
+    [
+      "Miroslav Lajcak",
+      "Slovakia",
+      "citizen_of"
+    ],
+    [
+      "Miroslav Lajcak",
+      "Slovakia",
+      "minister_of"
+    ],
+    [
+      "Senate",
+      "Czech Republic",
+      "agency_of"
+    ],
+    [
+      "Senate",
+      "Czech",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "Czechs",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "Czech Republic",
+      "based_in0"
+    ],
+    [
+      "Senate",
+      "Czech",
+      "based_in0-x"
+    ],
+    [
+      "Senate",
+      "Czechs",
+      "based_in0-x"
+    ],
+    [
+      "Jan Fischer",
+      "Czech Republic",
+      "agent_of"
+    ],
+    [
+      "Jan Fischer",
+      "Czech Republic",
+      "citizen_of"
+    ],
+    [
+      "Jan Fischer",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Jan Fischer",
+      "Czechs",
+      "citizen_of-x"
+    ],
+    [
+      "Jan Fischer",
+      "Czech Republic",
+      "head_of_gov"
+    ],
+    [
+      "Jan Fischer",
+      "Czech",
+      "head_of_gov-x"
+    ],
+    [
+      "Jan Fischer",
+      "Czechs",
+      "head_of_gov-x"
+    ]
+  ]
+}

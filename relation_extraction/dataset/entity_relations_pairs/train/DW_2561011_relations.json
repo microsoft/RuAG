@@ -1,0 +1,55 @@
+{
+  "content": "Heaven's Meadow - The Small Wonders of Baan Gerda\nA German former executive turns a dream into reality, using donated funding to build a village for HIV-infected orphans.\nThe global death rate is mounting rapidly for HIV-infected children and teenagers, many of them AIDS orphans. On June, 27, 2007, DW-TV will be airing a documentary on this important topic and at the same time presenting an extraordinary project: \"Heaven's Meadow - The Small Wonders of Baan Gerda\", by Detlev F. Neufert, a film-maker in Berlin. In 2002, former Henkel executive Karl Morsbach and his wife Tassanee started a project intended to help AIDS orphans live with dignity for the time alloted to them. Many of them had been turned out of their home communities and were already resigned to their fate. But then something unexpected happened: the children lived. Now Baan Gerda is a thriving village in Thailand. The Morsbachs follow the principle that only a child who's happy has a chance of recovery. They found loving surrogate parents for the AIDS orphans and built a village for them to live in. The mothers and fathers are also HIV-positive and have found a new meaning for lives in their new roles. Since 2002, nine residences, a small hospital, a \"star house\" with a large kitchen, a playground and a guest house have been built in Baan Gerda. Altogether, they make up a loving and well-maintained environment where both children and adults fighting AIDS can live in safety and security. Baan Gerda, or \"Gerdas Village\", named after Karl Morsbach's mother, can stand as an example internationally. It demonstrates how AIDS orphans can live as normal, well-looked-after children with comparatively little expense and lots of love. This documentary was started on a loan of 3000 euros, and a third of its budget was covered by sponsors, making this production a little miracle in itself. It took a total of 26 months to make. Film-maker Detlev F. Neufert: \"The 'Baan Gerda' project can help save the lives of AIDS orphans. The documentary serves as their ambassador.\"",
+  "relations": [
+    [
+      "Karl Morsbach",
+      "Henkel",
+      "head_of"
+    ],
+    [
+      "Karl Morsbach",
+      "Henkel",
+      "member_of"
+    ],
+    [
+      "Karl Morsbach",
+      "Tassanee",
+      "spouse_of"
+    ],
+    [
+      "Heaven's Meadow - The Small Wonders of Baan Gerda",
+      "Detlev F. Neufert",
+      "created_by"
+    ],
+    [
+      "Heaven's Meadow - The Small Wonders of Baan Gerda",
+      "Detlev F. Neufert",
+      "directed_by"
+    ],
+    [
+      "Detlev F. Neufert",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerdas Village",
+      "Thailand",
+      "in0"
+    ],
+    [
+      "DW-TV",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Tassanee",
+      "Karl Morsbach",
+      "spouse_of"
+    ]
+  ]
+}

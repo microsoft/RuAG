@@ -1,0 +1,110 @@
+{
+  "content": "A borderline war\nThe crisis in Syria is in danger of drawing in neighboring countries. Despite the Syrian government's immediate apology, the shelling on the Turkish border has led to concerns about possible escalation.\nThese weren't the first incidents on the Syrian-Turkish border, but the fact that several people on the Turkish side were killed by Syrian shells on Wednesday (03.10.2012) has brought the conflict between the two countries to a new level. It has led the Turkish military to retaliate for the first time. Several people were killed when Turkey shelled Syrian territory. But neither Turkey, which is a member of NATO, nor Syria would benefit from a broader conflict. An adviser to the Turkish president tweeted, \"Turkey has no interest in a war with Syria.\" Volker Perthes, director of the German Institute for International and Security Affairs in Berlin, agrees: \"Assad has no interest in an escalation,\" he told DW. \"That can be seen from the fact that the Syrian information minister apologized and expressed his regret over the victims immediately after the attack on Turkish territory.\" Perthes doesn't think it's likely that the Syrian President, Bashar Assad, wants to provoke Turkey to intervene in Syria. \"That would only accelerate the fall of his regime,\" he said. It's not yet clear who was responsible for the shelling. According to Syria's ally, Russia, it was a \"tragic accident.\" Relationship damaged The armed incidents on the Syrian-Turkish border have been going on for months. According to Amnesty International, some 300,000 Syrians have left their country since the start of the uprising against Assad, and many of them have fled to Turkey. The relationship between the two countries, which used to be close, has deteriorated dramatically, and the Turkish government is now openly supporting the Syrian opposition. \"Turkey is itself a player in the Syrian conflict,\" said Perthes. \"It provides shelter for many refugees and it's through Turkey that supplies come for the opposition.\" NATO has lined up behind Turkey and told Syria to end its \"flagrant violations of international law.\" Call for 'great discretion' The German chancellor, Angel Merkel, has also positioned herself alongside Turkey. \"We call on all parties to show great discretion,\" she said in Berlin. The foreign minister, Guido Westerwelle, declared that everything must be done to deescalate the situation, so that the Syrian conflict did not turn into a conflagration in the region. Indeed, the Syrian crisis is not only spreading to Turkey, but also to Iraq, Jordan and Lebanon. According to Perthes, \"The neighboring countries are partly victims and partly instigators. Jordan too has taken in refugees and supplies the rebels. On the other hand, Iraq has tended to support the government of Bashar Assad.\" Even so, he said, all the neighboring countries had an interest in ensuring the conflict was confined to Syria. Appeal to the international community But the number of Syrian refugees is rising by the day. Ruth Jüttner, a Middle East expert with Amnesty International, believes this will continue in future months. \"It's important that the countries bordering on Syria are supported by the international community in providing accommodation, medical and psychological care and schooling for children,\" she told DW. It's an appeal she directs especially to European countries. The shelling on the Syrian-Turkish border has made it more likely that there will be armed conflict between Syria and its neighbors. According to Perthes, \"It's probably the case that political resistance in Turkey to intervention in Syria is decreasing right now.\"",
+  "relations": [
+    [
+      "Bashar Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Bashar Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Bashar Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar Assad",
+      "Syrians",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Bashar Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Bashar Assad",
+      "Syrians",
+      "head_of_state-x"
+    ],
+    [
+      "Volker Perthes",
+      "German Institute for International and Security Affairs",
+      "head_of"
+    ],
+    [
+      "Volker Perthes",
+      "German Institute for International and Security Affairs",
+      "member_of"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Syrians",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Angel Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angel Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Ruth Jüttner",
+      "Amnesty International",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "content": "Dutch Government Collapse Brings EU Enlargement Jitters\nWith the clock ticking for the European Union’s expansion in 2004, the crisis in The Hague could derail the whole process. EU leaders, however, are putting on a brave face.\nBrussels is trying to reassure the 10 countries waiting to join the European Union that the collapse of the Dutch government barely a week before a key EU summit will not upset the bloc's plans for eastern enlargement. The Prime Minister Jan-Peter Balkenende's center-right coalition resigned on Wednesday over a feud within one of the three member parties. The government had been in office for less than 100 days. The issue of EU enlargement was a key factor in the break-up. In a cabinet row last Friday, Balkenende’s two junior coalition partners, the liberal VVD party and the anti-immigration List Pim Fortuyn (LPF), both opposed the admission of Poland, Slovakia and Cyprus to the EU in 2004. Caretaker government has authority to vote A caretaker government will run the country for the time being. Constitutional experts in the Netherlands insist it will have the legal authority to participate fully in next week's Brussels summit, which is due to approve the new members’ accession and agree on the terms for financing enlargement. Caretaker cabinets are expected to refrain from decisions on \"controversial\" subjects but can interpret this flexibly and have done so in the past. With Ireland due to hold a referendum on enlargement on Saturday, the political crisis in The Hague has added to diplomatic tensions within the EU. But Danish Prime Minister Anders Fogh Rasmussen, who currently holds the EU’s rotating presidency, said he did not believe it would prove an obstacle. The EU hopes to close accession talks with the 10 candidate states at a summit in Copenhagen in December. European Commission statement points to concern EU Enlargement Commissioner Guenter Verheugen also put on a brave face, saying he thought it unlikely the Dutch would overturn decisions which had already been taken. However, the Commission has taken the unusual step of issuing a statement commenting on the political situation in a member state. \"Obviously it is up to the Netherlands to decide, in the current situation, whether or not they can take a position on the next steps of the enlargement process and if so, which position,\" it said. Some Dutch politicians, including members of the outgoing government, have criticized the scale and estimated cost of enlargement, but EU diplomats said they were confident a broad majority in the Dutch parliament backed it.",
+  "relations": [
+    [
+      "List Pim Fortuyn",
+      "Netherlands",
+      "based_in0"
+    ],
+    [
+      "List Pim Fortuyn",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "Jan-Peter Balkenende",
+      "Netherlands",
+      "agent_of"
+    ],
+    [
+      "Jan-Peter Balkenende",
+      "Netherlands",
+      "citizen_of"
+    ],
+    [
+      "Jan-Peter Balkenende",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "Jan-Peter Balkenende",
+      "Netherlands",
+      "head_of_gov"
+    ],
+    [
+      "Jan-Peter Balkenende",
+      "Dutch",
+      "head_of_gov-x"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ],
+    [
+      "The Hague",
+      "Netherlands",
+      "in0"
+    ],
+    [
+      "The Hague",
+      "Dutch",
+      "in0-x"
+    ],
+    [
+      "VVD",
+      "Netherlands",
+      "based_in0"
+    ],
+    [
+      "VVD",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "Anders Fogh Rasmussen",
+      "Danish",
+      "citizen_of-x"
+    ],
+    [
+      "Anders Fogh Rasmussen",
+      "Danish",
+      "head_of_gov-x"
+    ],
+    [
+      "Copenhagen",
+      "Danish",
+      "in0-x"
+    ],
+    [
+      "Guenter Verheugen",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Guenter Verheugen",
+      "European Commission",
+      "member_of"
+    ]
+  ]
+}

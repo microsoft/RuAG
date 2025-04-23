@@ -1,0 +1,60 @@
+{
+  "content": "UN criticizes Israel over Gaza bombing\nA United Nations investigation into attacks by Israeli forces on UN installations during the Gaza war four months ago has strongly criticized Israel for gross negligence and recklessness.\nThe report, produced by a four-member inquiry board appointed by UN Secretary-General Ban Ki-moon, found that the Israeli army failed to protect UN personnel and civilians sheltering in UN buildings. Israel has rejected the report as one-sided and biased. The UN inquiry led by Briton Ian Martin, a former head of rights group Amnesty International who later joined the United Nations, investigated nine incidents of damage to UN property. It found Israel to blame in six incidents when people sheltering in UN buildings were killed or injured. Report highlights Jabalia incident The report highlighted the firing of artillery shells near a UN-run school in Jabalia where Palestinians had sought refuge on January 6. Seven people were wounded inside the school, but an estimated 30-40 people were killed nearby. In several cases, the report found Israel had \"breached the inviolability of United Nations premises,\" had not respected UN immunity and was responsible for deaths and injuries. The board of inquiry also criticized Israel's use of white phosphorus shells which the UN says damaged the UN's main food warehouse in Gaza. The UN report says the Israeli military took \"inadequate\" precautions to protect UN premises and civilians inside and recommends further investigation into possible war crimes. Israel rejects allegations Israel's deputy UN ambassador, Daniel Carmon, called the report one-sided and unfair. \"We were really shocked to see a report where the board is limiting itself to the facts of the damages only, ignoring the context, ignoring that there is war against terrorism,\" he told Reuters. UN Chief Ban Ki-moon said he would seek compensation from Israel for damage to UN property, estimated at more than $11 million, but would not follow the panel's call for further investigations.",
+  "relations": [
+    [
+      "Gaza",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Gaza",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Briton Ian Martin",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Briton Ian Martin",
+      "Amnesty International",
+      "member_of"
+    ],
+    [
+      "Jabalia",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jabalia",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Daniel Carmon",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Daniel Carmon",
+      "Israeli",
+      "agent_of-x"
+    ]
+  ]
+}

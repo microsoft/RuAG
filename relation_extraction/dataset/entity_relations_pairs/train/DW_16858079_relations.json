@@ -1,0 +1,130 @@
+{
+  "content": "Floods hit Germany at economic low point\nAs Germany battles severe flooding in parts of the country, the cost of the damage is hitting Europe's biggest economy just as it has barely overcome a harsh winter that has driven it to the brink of recession.\nIn the first quarter of 2013, German Gross Domestic Product grew by just 0.1 percent. The country just managed to avoid a recession, which is defined as two successive quarters of economic contraction. Much of the hope for economic recovery lies with key economic indicators which predict accelerating growth in the coming months. However, economists are becoming more and more skeptical about the country's growth outlook as they fear that the much-vaunted spring upswing might drown in the deluge. \"As the flood levels rose, so did the problems for German businesses,\" says Alexander Schumann, chief economist at the German chambers for Industry and Commerce (DIHK). He told DW that it was especially the construction industry which had been unable to boost activity due to the heavy rainfall. The sector was particularly hard hit, as it was already facing a huge backlog of orders stemming from the long and harsh winter in Germany. But hotel and restaurant owners were also affected, suffering losses from the bad weather at the start of the tourist season in Germany - as were farmers offering seasonal products such as strawberries and asparagus. Disrupted supply chains Individual companies had their own stories to tell: Krones, global market leader in manufacturing bottling machines, had to shut down production in two plants in upper Bavaria. The region is among those severest hit by the floods, and Krones workers were unable to get to work on inundated roads. In Zwickau, Volkswagen (VW) had to stop its auto production, VW Saxony spokesman Gunter Sandmann told DW, and Monday's early shift was asked to stay at home. \"We were unsure whether the damage done to the transport infrastructure would enable suppliers to deliver their products in time, he added. Volkswagen has been able to resume production, prompting Sandmann to speak of a lucky escape. The same is true for the chemical companies located in the Bitterfeld chemical triangle, where the German armed forces were able to protect production facilities from the raging floods. Insurance industry officials said they were still unable to put a price tag on the losses caused by the flooding in eastern and southern Germany. However, the total of damage claims in the wake of the last so-called Flood of the Century in Germany in 2002 had amounted to 1.8 billion euros ($2.35 billion), Kathrin Jarosch from the GDV insurance industry lobby group says: \"We'll have figures this time at the earliest at the end of next week.\" Destruction to spur growth? Some small comfort is offered by the fact that catastrophes like these usually provide a small boost to the economy as a whole. Not only insurance companies will benefit from brisk new business, but do-it-yourself stores and home improvement suppliers, which had been complaining that garden furniture and barbecue grills were not finding any buyers, will now enjoy a run on tools and building materials. However, Schumann is not convinced that the balance will end up on the positive side. \"At the moment, there are first and foremost losses,\" he says. It's not even clear if the construction industry has the capacity to deal with demand. Theoretically the catastrophe could lead to a boom, \"but it's impossible to say right now if that will really happen.\"",
+  "relations": [
+    [
+      "Alexander Schumann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Alexander Schumann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Schumann",
+      "Industry and Commerce",
+      "head_of"
+    ],
+    [
+      "Alexander Schumann",
+      "Industry and Commerce",
+      "member_of"
+    ],
+    [
+      "Volkswagen",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Volkswagen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Flood of the Century",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Industry and Commerce",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Industry and Commerce",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Gunter Sandmann",
+      "Volkswagen",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Krones",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Krones",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Krones",
+      "Bavaria",
+      "based_in1"
+    ],
+    [
+      "Bavaria",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Zwickau",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Zwickau",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Saxony",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bitterfeld",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bitterfeld",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kathrin Jarosch",
+      "GDV",
+      "member_of"
+    ]
+  ]
+}

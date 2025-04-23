@@ -1,0 +1,125 @@
+{
+  "content": "Facing the challenge of dealing with Tunisia's past\nIbtihel Abdellatif has been dealing with the injustices of Tunisia's dictatorial past for years - first for her NGO, and now in the government's Truth and Dignity Commission. But internal squabbles are impeding her work.\n\"The revolution is our life. We were almost dead inside, but it has returned us to life.\" One of the first things that Ibtihel Abdellatif did following the ousting of longtime Tunisian President Zine El Abidine Ben Ali on January 14, 2011 was to make her way to the university. There, after more than 10 years away, she completed her masters degree in religious studies. The press, speech and education were once again free after years of dictatorship. There was optimism in the air, many new organizations were established and civil society, long suppressed, was once again flourishing. Along with some fellow activists Abdellatif, 45, founded Nisa' Tounsiat (\"Tunisian Women\"), a non-governmental organization that helps female torture victims. They've since documented more than 200 cases, most of them among the Islamist opposition which was heavily persecuted under Ben Ali. Three years later I meet with Abdellatif in a barren, unused office smelling of stale cigarette smoke. In this disused bank, the Tunisian government set up its Truth and Dignity Committee. Its nine members share five sparsely furnished rooms on the top floor of the building. Abdellatif was chosen as representative of the civil society to take part in the independent commission. Its task: to come to terms with almost 60 years of oppression. From Habib Bourguiba, Tunisia's first president after independence, up to Ben Ali, torture, occupational bans and long prison sentences hit members of the various opposition movements over the years. From freedom to reconciliation \"On January 14, when no one yet knew what had happened and we only had an old piece of bread to eat, this bread was the best I've ever eaten,\" said Abdellatif, describing her feelings after the dictatorship came to an end. \"We were free. Dictatorship, oppression and torture are not allowed to return under any circumstances.\" But the path from freedom to reconciliation is long, and transitional justice remains one of the most controversial topics in Tunisian politics. That has not changed since the commission started its work this past summer. Abdellatif knows that she and her colleagues can easily become the playthings of the various parties. She squirms a bit at the question, rearranging her headscarf and jacket. She only speaks reluctantly about politics since she began her new job. More than any other, the secular Nidaa Tounes party - which brought in the most votes in the October parliamentary elections - is a particular thorn in their side. But the commission is enshrined in the constitution, and works for the Tunisian citizens and not for the politicians, Abdellatif stresses. \"Any attempt to attack us would be an attack on the constitution, which of course was adopted by all the parties,\" she says, adding that this would be a very dangerous move. Fighting for victims' dignity Critics have called the transitional justice system a stillbirth, saying it has come too late and has become too politicized. The Truth and Dignity Commission must overcome many obstacles, not the least among them being internal squabbles. There is no consensus over which victims are entitled to reparations, leading to constant friction between the various camps. From leftist feminists to dissidents in exile and representatives who, like Abdellatif, count themselves as being closer to the Islamists, the commission is quite mixed. Two members have already stepped down, and one had to be replaced. But now work appears to be running smoothly, leaving no room for political disputes. \"On the contrary. We have such a big task ahead of us that there is no time to argue about something that has nothing to do with our actual work,\" she says. Now, what's important is to give victims back their dignity, says Abdellatif. For those who suffered under the dictatorship, financial compensation is much less important than the recognition of their fate. Numerous calls from concerned citizens every day showed that many have high hopes, and Abdellatif remains convinced that the \"commission is a symbol of dignity, for democracy and revolution.\" For Abdellatif, the eldest of five sisters, her work in commission is the logical consequence of her commitment to the rights of victims of the dictatorship. For her, it's also a way to refute a prevailing stereotype of Muslim women. \"I am married and have three sons; I'm surrounded by men,\" she says. \"When I said that I wanted to engage in civil society they supported me. And had that not been the case, I would have done it anyway.\" \"I feel that I'm respected as a woman,\" she says - another small personal victory.",
+  "relations": [
+    [
+      "Zine El Abidine Ben Ali",
+      "Tunisia",
+      "agent_of"
+    ],
+    [
+      "Zine El Abidine Ben Ali",
+      "Tunisia",
+      "citizen_of"
+    ],
+    [
+      "Zine El Abidine Ben Ali",
+      "Tunisian",
+      "citizen_of-x"
+    ],
+    [
+      "Zine El Abidine Ben Ali",
+      "Tunisia",
+      "head_of_state"
+    ],
+    [
+      "Zine El Abidine Ben Ali",
+      "Tunisian",
+      "head_of_state-x"
+    ],
+    [
+      "Ibtihel Abdellatif",
+      "Tunisia",
+      "citizen_of"
+    ],
+    [
+      "Ibtihel Abdellatif",
+      "Tunisian",
+      "citizen_of-x"
+    ],
+    [
+      "Ibtihel Abdellatif",
+      "Nisa' Tounsiat",
+      "head_of"
+    ],
+    [
+      "Ibtihel Abdellatif",
+      "Nisa' Tounsiat",
+      "member_of"
+    ],
+    [
+      "Ibtihel Abdellatif",
+      "Truth and Dignity Commission",
+      "member_of"
+    ],
+    [
+      "Nisa' Tounsiat",
+      "Tunisia",
+      "based_in0"
+    ],
+    [
+      "Nisa' Tounsiat",
+      "Tunisian",
+      "based_in0-x"
+    ],
+    [
+      "Truth and Dignity Commission",
+      "Tunisia",
+      "agency_of"
+    ],
+    [
+      "Truth and Dignity Commission",
+      "Tunisian",
+      "agency_of-x"
+    ],
+    [
+      "Truth and Dignity Commission",
+      "Tunisia",
+      "based_in0"
+    ],
+    [
+      "Truth and Dignity Commission",
+      "Tunisian",
+      "based_in0-x"
+    ],
+    [
+      "Tunisian",
+      "Tunisia",
+      "gpe0"
+    ],
+    [
+      "Habib Bourguiba",
+      "Tunisia",
+      "agent_of"
+    ],
+    [
+      "Habib Bourguiba",
+      "Tunisia",
+      "citizen_of"
+    ],
+    [
+      "Habib Bourguiba",
+      "Tunisian",
+      "citizen_of-x"
+    ],
+    [
+      "Habib Bourguiba",
+      "Tunisia",
+      "head_of_state"
+    ],
+    [
+      "Habib Bourguiba",
+      "Tunisian",
+      "head_of_state-x"
+    ],
+    [
+      "Nidaa Tounes",
+      "Tunisia",
+      "based_in0"
+    ],
+    [
+      "Nidaa Tounes",
+      "Tunisian",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "content": "German nurse suspected in 24 more patient deaths\nA male German nurse has been accused of killing dozens of patients over the years with a potent heart drug. The suspected death toll would make him one of Germany's worst post-war serial killers.\nThe number of possible murder victims rose of convicted male nurse Niels H. rose to at least 24, German police said on Wednesday. The former nurse was already found guilty of two murders and three attempted murders of intensive-care patients in February of 2015 and was imprisoned for life. Niels H. already admitted in court to injecting around 90 patients with an unprescribed heart drug and claimed to have killed around 30. After injecting his victims, he would then try to revive them in order to stand out amongst his peers. During the investigation, he said he felt overjoyed when he managed to bring a patient back from the brink of death, and was devastated when he failed. Police in the German town of Oldenburg said on Wednesday that they have exhumed and tested 77 sets of mortal remains from patients who had been under the care of Niels H. Besides the 24 suspicious cases where traces of the drug were found, police are still awaiting results from seven additional bodies. Police are looking into some 200 fatalities at the Delmenhorst hospital where Niels H. worked, as well as at the nurse's previous places of employment which include a nursing home, a clinic, and an emergency medical service. Investigators hope to have all the test results by mid-June, where they will then release detailed information to the public about the cases. The case dates back to 2005 when a coworker witnessed Niels H. administering the drug to a patient in Delmenhorst. After the patient survived, he was arrested and sentenced for attempted murder. A woman then contacted police, voicing suspicion that her mother may have also been a victim of the nurse - leading to the exhumations which sent Niels H. to prison for life. rs/kms (AFP, dpa)",
+  "relations": [
+    [
+      "Niels H.",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Niels H.",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Oldenburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Oldenburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Delmenhorst",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Delmenhorst",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

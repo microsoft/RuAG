@@ -1,0 +1,160 @@
+{
+  "content": "El-Sonni: Stable Libya 'five to 10 years' away\nWith three rival governments and the reluctant host to thousands of migrants making their way to Europe, Libya is in chaos. Will it ever unite for democracy? Taher El-Sonni meets Tim Sebastian on Conflict Zone.\n\"It is something that [a government cannot] easily handle on its own, even if we are united. It needs support from all over,\" El-Sonni told Conflict Zone, regarding his country's many troubles. Six years on from the revolution that overthrew the decades-long dictatorship of Colonel Gaddafi, Libya's problems can hardly be overstated: with no legitimate central government, violence common and terrorism a continual threat, the conclusion of many - including in recent months France’s Foreign Minister - is that Libya is a failed state. One million people in waiting On top of all this, the main route for African migrants heading to Europe is through Libya. \"The situation of migrants crossing Libya was appalling during Gaddafi's era, but it has become diabolical since,\" said Zeid Ra'ad Al Hussein, the UN High Commissioner for Human Rights, in September. While stating his desire to establish centers to process migrants in Libya before people took \"crazy risks when they are not all eligible for asylum\", Emmanuel Macron in July put the number waiting to cross the Mediterranean there at between 800,000 and 1 million people. For those that did manage to set off from Libya's coast, their treatment at the hands of the country's coastguard also came under fire from Al Hussein: \"Like the militias onshore, [they] also sometimes beat, rob and even shoot the migrants they intercept.\" Was this a situation El-Sonni – who worked for the UN for 17 years, specializing in crisis management – recognized? \"We don't shoot migrants. What we're doing is trying to apply our sovereign rules and regulations and by saving their lives and bringing them back. This is an international agreement. This is an EU-Libya agreement.\" The EU's SOPHIA military operation, which involves the Libyan navy and coastguard, aims to \"identify, capture and dispose of vessels and enabling assets used or suspected of being used by migrant smugglers or traffickers\" in the Southern Central Mediterranean. The EU says SOPHIA has saved 40,000 lives off the coast of Libya since it began in June 2015. But there is grave concern too from the UN and NGOs for the lives of those thousands of migrants stranded in Libya. Dr Joanne Liu, International President of Medecins Sans Frontieres, also in September wrote that the \"detention of migrants and refugees in Libya is rotten to the core. It must be named for what it is: a thriving enterprise of kidnapping, torture and extortion.\" \"Human rights abuse is something that we don't accept,\" said El Sonni. \"We have our minister of interior working on it. We have our civil society working and supporting it. We allow all international organizations to work and support in these detention centers ... But, what I'm telling you, it's a massive thing that even European countries who are steady states could not fix.\" An honest assessment of Libya? So when could Libyans expect a steady state? How many more years would chaos prevail in the country? \"I think five to 10 years, in order for us to have a steady state and a stable state, to be realistic,\" El-Sonni told Tim Sebastian. But had he already been overly optimistic in his prognosis of Libya? Speaking in April 2016, El-Sonni said the Government of National Accord (GNA) – to whose Prime Minister, Fayez Sarraj, he is chief advisor – had \"control of the state institutions\" and that their opponents \"understand the game is over.\" Didn’t Libyans deserve a more honest assessment of what is going on? \"We were fair and we are fair,\" El-Sonni told DW. \"You can see how things are shaping up much better; embassies coming back to Tripoli, the United Nations is coming back next month. These are good signs.\" 'A new phase'? Nevertheless, confidence in Libya's political institutions remains at rock bottom. Polls reported by the Libya Herald on 18 October showed 91% of people believed the government had failed to deliver on the aims of the revolution. Perhaps more critical still, 92% thought that corruption had become even worse since the fall of Gaddafi. \"When there is a centralized dictatorship, centralized on a person and without proper institutions [that] collapse all of a sudden, with weapons spread around, this is the typical result you get,\" said El-Sonni. \"The political awareness of the people is minimum because they never got a chance to even be vocal about what they want and to express themselves. This is a new phase in Libya.\" While insisting that security was \"not worse\" than 2014 when elections did take place, Prime Minister Sarraj's right-hand man accepted elections could still bring more factionalism, but said they were \"something that we have to go through. There is no guarantee.\" \"In order to achieve a democracy, you need more democracy,\" El-Sonni told Conflict Zone, summing up the difficulty for Libya of reaching that goal. Despite the country's myriad problems, the recent polls also showed a high level of hopefulness – 44% say they are \"very optimistic\" about its future.",
+  "relations": [
+    [
+      "Gaddafi",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Gaddafi",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Gaddafi",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Gaddafi",
+      "Libyans",
+      "citizen_of-x"
+    ],
+    [
+      "Gaddafi",
+      "Libya",
+      "head_of_state"
+    ],
+    [
+      "Gaddafi",
+      "Libyan",
+      "head_of_state-x"
+    ],
+    [
+      "Gaddafi",
+      "Libyans",
+      "head_of_state-x"
+    ],
+    [
+      "Taher El-Sonni",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Zeid Ra'ad Al Hussein",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Zeid Ra'ad Al Hussein",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Fayez Sarraj",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Fayez Sarraj",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Fayez Sarraj",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Fayez Sarraj",
+      "Libyans",
+      "citizen_of-x"
+    ],
+    [
+      "Fayez Sarraj",
+      "Libya",
+      "head_of_gov"
+    ],
+    [
+      "Fayez Sarraj",
+      "Libyan",
+      "head_of_gov-x"
+    ],
+    [
+      "Fayez Sarraj",
+      "Libyans",
+      "head_of_gov-x"
+    ],
+    [
+      "Tim Sebastian",
+      "Conflict Zone",
+      "member_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Libyan",
+      "Libya",
+      "gpe0"
+    ],
+    [
+      "Joanne Liu",
+      "Medecins Sans Frontieres",
+      "head_of"
+    ],
+    [
+      "Joanne Liu",
+      "Medecins Sans Frontieres",
+      "member_of"
+    ],
+    [
+      "Libyans",
+      "Libya",
+      "gpe0"
+    ],
+    [
+      "Tripoli",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Tripoli",
+      "Libyan",
+      "in0-x"
+    ],
+    [
+      "Tripoli",
+      "Libyans",
+      "in0-x"
+    ],
+    [
+      "Libya Herald",
+      "Libya",
+      "based_in0"
+    ],
+    [
+      "Libya Herald",
+      "Libyan",
+      "based_in0-x"
+    ],
+    [
+      "Libya Herald",
+      "Libyans",
+      "based_in0-x"
+    ]
+  ]
+}

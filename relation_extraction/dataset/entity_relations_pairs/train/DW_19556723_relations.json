@@ -1,0 +1,120 @@
+{
+  "content": "US and UK create huge new safe havens for marine life\nExtensive new marine protected areas are being established by nations around the world, particularly the United States and the United Kingdom. The announcements came at the Our Oceans conference in Washington, D.C.\nMore than 20 countries including Lebanon, Cambodia, Malaysia and the Seychelles have announced 40 new marine protected areas and expansions of existing ones, during the two-day Our Oceans conference currently being held in Washington, D.C. Among them were the United States and the United Kingdom, which both announced extensive new MPAs today. US President Barack Obama addressed the conference, saying, \"The notion that the ocean I grew up with is not something that I can pass on to my kids and my grandkids is unacceptable. It's unimaginable.” He added, “the investment that all of us together make here today is vital for our economy, it is vital for our foreign policy, it's vital for our national security, but it's also vital for our spirit. It's vital to who we are.\" Last month, Obama expanded the Papahānaumokuākea Marine National Monument off the coast of Hawaii by more than 1,140,000 square kilometers, creating the world’s largest marine protected area. Today, he designated the first marine national monument in the Atlantic Ocean. The Northeast Canyons and Seamounts Marine National Monument is an area of 12,700 square kilometers off the coast of New England. It encompasses underwater mountains and canyons and is intended to protect marine species, including endangered whales, sea turtles and deep-sea coral. Britain's pledge was even more impressive. At the conference, Sir Alan Duncan, the UK's Minister of State at the Foreign and Commonwealth Office, announced that Britain would be creating MPAs around four islands in its overseas territories in the Pacific and Atlantic, totaling almost 6.5 million square kilometers. The biggest of these MPAs surrounds Pitcairn Island, where the legendary mutineers of the Bounty once settled. In his speech, Duncan made light of the fact that at 840,000 square kilometers it will be smaller than the new record-holder in the U.S. \"Well, this was going to have been my big moment, because until last week the Pitcairn MPA would have been the largest in the world,\" he told the conference. \"But President Obama sort of rather blew that out of the water by announcing an even bigger MPA in Hawaii – trust the Yanks to indulge in a bit of one-upmanship over us poor Brits. But we’re happy as our loss is the world’s gain and we congratulate the United States.\"",
+  "relations": [
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "Yanks",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "Yanks",
+      "head_of_state-x"
+    ],
+    [
+      "Alan Duncan",
+      "United Kingdom",
+      "agent_of"
+    ],
+    [
+      "Alan Duncan",
+      "United Kingdom",
+      "citizen_of"
+    ],
+    [
+      "Alan Duncan",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Alan Duncan",
+      "Brits",
+      "citizen_of-x"
+    ],
+    [
+      "Alan Duncan",
+      "United Kingdom",
+      "minister_of"
+    ],
+    [
+      "Alan Duncan",
+      "Britain",
+      "minister_of-x"
+    ],
+    [
+      "Alan Duncan",
+      "Brits",
+      "minister_of-x"
+    ],
+    [
+      "Washington, D.C.",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington, D.C.",
+      "Yanks",
+      "in0-x"
+    ],
+    [
+      "Britain",
+      "United Kingdom",
+      "gpe0"
+    ],
+    [
+      "Foreign and Commonwealth Office",
+      "United Kingdom",
+      "agency_of"
+    ],
+    [
+      "Foreign and Commonwealth Office",
+      "Britain",
+      "agency_of-x"
+    ],
+    [
+      "Foreign and Commonwealth Office",
+      "Brits",
+      "agency_of-x"
+    ],
+    [
+      "Foreign and Commonwealth Office",
+      "United Kingdom",
+      "based_in0"
+    ],
+    [
+      "Foreign and Commonwealth Office",
+      "Britain",
+      "based_in0-x"
+    ],
+    [
+      "Foreign and Commonwealth Office",
+      "Brits",
+      "based_in0-x"
+    ],
+    [
+      "Yanks",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Brits",
+      "United Kingdom",
+      "gpe0"
+    ]
+  ]
+}

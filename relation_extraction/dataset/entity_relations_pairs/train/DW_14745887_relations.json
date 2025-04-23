@@ -1,0 +1,165 @@
+{
+  "content": "Belarus orders international watchdog to close its Minsk office\nThe world's largest regional security organization must close its doors in Minsk, after the Belarusian government refused to extend its mandate. The OSCE had criticized the election of President Alexander Lukashenko.\nBelarus has ordered the closure of the office of Europe's main rights watchdog, the Organization of Security and Cooperation in Europe (OSCE), in Minsk after the body issued a report critical of the December election, in which incumbent President Alexander Lukashenko won around 80 percent of votes. \"The Belarusian side has taken the decision not to continue the operations of the OSCE office in Minsk,\" Foreign Ministry spokesman Andrei Savinykh said Friday. He added that an evaluation of the OSCE's activities in Minsk showed that the mission, which was set up in 2003, had fulfilled its mandate. The government has the right to revoke the mission's permit or refuse to renew it. Tense relations with West Critics expressed concern that the closure of the OSCE office in Minsk would have negative ramifications for Belarus' relationship with its western neighbors. \"This will lead to a worsening of relations with the European Union and increase the influence of Russia in Belarus,\" Grigory Kostusev, a member of the Belarusian National Front party who opposed Lukashenko, told Reuters news agency. Lukashenko, who has ruled Belarus since 1992, has been accused by Western leaders in the past of dictatorial rule and suppressing independent media. Germany condemned the OSCE office closure, saying the move was another step backwards for democratic rights in the country. \"With its authoritarian direction, the government in Minsk is separating the country even more from European values of freedom,\" said German Foreign Minister Guido Westerwelle. \"We will discuss with our partners what consequences are required in the face of the Belarusian government's voluntary policy of isolation.\" In a statement issued Friday evening, the foreign minister of neighboring Lithuania, Audronius Azubalis, expressed \"deep regret\" over Minsk's refusal to extend the mandate of the OSCE office. Ongoing detentions Minsk is still holding hundreds of demonstrators who were arrested during protests following the December 19 election. Five opposition candidates and 22 activists have been charged with organizing mass disorder, which could carry a jail sentence of up to 15 years. Belarus is part of the 56-member OSCE, which was set up during the Cold War as a forum for dialogue between communist states and the West. The organization is made up of European and Central Asian countries as well as the US and Canada. Author: Darren Mara, Sarah Harman (AFP, Reuters) Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Minsk",
+      "Belarus",
+      "in0"
+    ],
+    [
+      "Minsk",
+      "Belarusian",
+      "in0-x"
+    ],
+    [
+      "Organization of Security and Cooperation in Europe",
+      "Belarus",
+      "based_in0"
+    ],
+    [
+      "Organization of Security and Cooperation in Europe",
+      "Belarusian",
+      "based_in0-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "agent_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarus",
+      "head_of_state"
+    ],
+    [
+      "Alexander Lukashenko",
+      "Belarusian",
+      "head_of_state-x"
+    ],
+    [
+      "Belarusian",
+      "Belarus",
+      "gpe0"
+    ],
+    [
+      "Foreign Ministry",
+      "Belarus",
+      "agency_of"
+    ],
+    [
+      "Foreign Ministry",
+      "Belarusian",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Belarus",
+      "based_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "Belarusian",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Belarus",
+      "ministry_of"
+    ],
+    [
+      "Andrei Savinykh",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Andrei Savinykh",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Andrei Savinykh",
+      "Foreign Ministry",
+      "member_of"
+    ],
+    [
+      "Grigory Kostusev",
+      "Belarus",
+      "citizen_of"
+    ],
+    [
+      "Grigory Kostusev",
+      "Belarusian",
+      "citizen_of-x"
+    ],
+    [
+      "Grigory Kostusev",
+      "Belarusian National Front",
+      "member_of"
+    ],
+    [
+      "Belarusian National Front",
+      "Belarus",
+      "based_in0"
+    ],
+    [
+      "Belarusian National Front",
+      "Belarusian",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Audronius Azubalis",
+      "Lithuania",
+      "agent_of"
+    ],
+    [
+      "Audronius Azubalis",
+      "Lithuania",
+      "citizen_of"
+    ],
+    [
+      "Audronius Azubalis",
+      "Lithuania",
+      "minister_of"
+    ]
+  ]
+}

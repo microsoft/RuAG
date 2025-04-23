@@ -1,0 +1,290 @@
+{
+  "content": "Iran Tops Agenda at G8 Ministers' Meeting in Moscow\nForeign ministers of the Group of Eight countries are holding talks in Moscow Thursday that are expected to raise pressure on Iran over its nuclear program.\nThe meeting at a mansion in central Moscow was seen as one of the last opportunities to iron out differences ahead of the July 15-17 summit in Saint Petersburg of leaders of the G8, which comprises Britain, Canada, France, Germany, Italy, Japan, Russia and the United States. Moscow, by focusing on Iran's nuclear intentions, may seek to prevent next month's G8 summit becoming a magnet for criticism of its democratic credentials. Arriving at the talks, European Union foreign policy chief Javier Solana said he would meet Iran's top nuclear negotiator Ali Larijani, probably next Wednesday, to discuss proposals by the UN Security Council members plus Germany, aimed at allaying Western concerns about Tehran's nuclear program. Iran has still not said whether or not it will accept a package of incentives proposed on June 6 in Vienna by Germany, the U.S., Britain, France, China and Russia. The incentives are conditional on Iran forgoing large-scale uranium enrichment and answering questions about its program. Iran has a two-week deadline French Foreign Minister Philippe Douste-Blazy said that Iran must reply to the international plan before the July 15-17 G8 summit. \"It seems clear to me that Iran must say yes. Then there will be negotiations,\" Douste-Blazy said. U.S. Secretary of State Condoleezza Rice earlier said the ministers would talk about Iran, about how to deal with the Palestinians' Hamas government and about democracy in Russia and Belarus. \"We should also talk about democracy,\" Rice told the broadcaster CNN, expressing a desire for Russia to \"enhance its commitment to democratic development\" as well as referring to Belarus and other \"places that have yet to see a democratic future.\" Russia has played a significant role in the standoff over Iran's nuclear program, being a permanent member of the United Nations Security Council and a close ally of Tehran. President Vladimir Putin on Tuesday again underlined his differences with the West on the Iran issue, saying Russia did not intend \"to join any sort of ultimatum, which only pushes the situation into a dead end.\" Amid reports that Moscow wants to limit discussion of its human rights record or commitment to democracy at next month's summit, a senior Kremlin official defended Russia's role in neighboring parts of ex-communist Europe. \"Moscow has done much more for democracy in central Europe than Washington or London,\" said the deputy head of Putin's office, Vladislav Surkov, at a briefing Wednesday. \"It's Moscow which democratized this immense space.\" But if Russia hopes to avoid discussion of accusations that it is backsliding on democracy and media freedom, the British Foreign Secretary Margaret Beckett reiterated that Britain had concerns about human rights and the rule of law in Russia. Beckett, in an interview with Russia's Kommersant broadsheet, also said she hoped next month's summit would give a signal about the importance of competitive and open energy markets. \"Russia's actions are inconsistent with G8 democratic norms\" Four prominent U.S. lawmakers on Tuesday urged President George W. Bush to rebuke Putin over the \"deterioration of democracy\" in his country. It is important that the other G8 heads of state \"make clear that Russia's actions are inconsistent with G8 democratic norms,\" read a letter signed by Democratic Representative Tom Lantos and Republican David Dreier, together with senators John McCain, a Republican, and Democrat Joe Lieberman. Earlier, an analyst close to the Kremlin, the head of the Moscow-based Institute for Political Research, Sergei Markov, said he expected Thursday's meeting to be \"rather tense.\"",
+  "relations": [
+    [
+      "Philippe Douste-Blazy",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Philippe Douste-Blazy",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Philippe Douste-Blazy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Philippe Douste-Blazy",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Philippe Douste-Blazy",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "Democratic",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Ali Larijani",
+      "Iran",
+      "agent_of"
+    ],
+    [
+      "Ali Larijani",
+      "Iran",
+      "citizen_of"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Condoleezza Rice",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Condoleezza Rice",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Condoleezza Rice",
+      "United States",
+      "minister_of"
+    ],
+    [
+      "Margaret Beckett",
+      "Britain",
+      "agent_of"
+    ],
+    [
+      "Margaret Beckett",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Margaret Beckett",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Margaret Beckett",
+      "Britain",
+      "minister_of"
+    ],
+    [
+      "Margaret Beckett",
+      "British",
+      "minister_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Saint Petersburg",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Security Council",
+      "United Nations",
+      "institution_of"
+    ],
+    [
+      "Security Council",
+      "United Nations",
+      "part_of"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Hamas",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "CNN",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "London",
+      "Britain",
+      "in0"
+    ],
+    [
+      "London",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Vladislav Surkov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladislav Surkov",
+      "Vladimir Putin",
+      "member_of"
+    ],
+    [
+      "Vladislav Surkov",
+      "Vladimir Putin",
+      "spokesperson_of"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Kommersant",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Tom Lantos",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Tom Lantos",
+      "Democratic",
+      "member_of"
+    ],
+    [
+      "Republican",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "David Dreier",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "David Dreier",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "John McCain",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "John McCain",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "John McCain",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "Joe Lieberman",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Joe Lieberman",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Joe Lieberman",
+      "Democratic",
+      "member_of"
+    ],
+    [
+      "Institute for Political Research",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Institute for Political Research",
+      "Moscow",
+      "based_in2"
+    ],
+    [
+      "Sergei Markov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Markov",
+      "Institute for Political Research",
+      "head_of"
+    ],
+    [
+      "Sergei Markov",
+      "Institute for Political Research",
+      "member_of"
+    ]
+  ]
+}

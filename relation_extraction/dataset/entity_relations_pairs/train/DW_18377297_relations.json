@@ -1,0 +1,180 @@
+{
+  "content": "Modi, Merkel seek deeper trade ties at Hannover Messe\nIndia's visiting prime minister and Chancellor Angela Merkel have called for closer commercial cooperation between the two countries. India is the partner nation to this year's industrial trade fair in Hanover.\nThe German chancellor advocated relaunching talks on an EU free trade deal with India at the opening of the \"Hannover Messe\" - Germany and the world's largest industrial trade fair - on Sunday evening. \"Trade between Germany and India can still be improved, although Germany is already India's largest European trading partner,\" Merkel said in the northern German city. Later on the opening evening, both Merkel and Prime Minister Narendra Modi took part in various bilateral trade discussions organized as part of the trade fair. Roughly 400 industry representatives from the partner country India are expected at an event with around 6,500 exhibitors from 70 nations. \"Germany has done more than any other Western country to tap India's world of business,\" said Modi, who is promoting his \"Make in India\" campaign, an appeal to international companies to manufacture their products in India. He offered German firms present in Hanover on Sunday the chance to partner in the building of a new India. Modi said that the opportunities for investors were vast, saying his government's first priority was establishing first-world-standard infrastructure. \"India is standing ready to welcome the whole world with open arms,\" Modi said. Room to grow According to provisional figures from Germany's Destatis statistics agency, trade between Germany and India was worth a total of 15.9 billion euros ($16.8 billion) in 2014. That figure, which has fallen for three consecutive years, puts India just 25th in terms of trade volume with Germany, behind countries including Romania, Slovakia, Japan and South Korea. Trade with third-largest partner and Indian rival China, by contrast, was estimated at close to 154 billion euros. \"We are pleased that your country is on a path of reform,\" Merkel said to Modi, who won last year's elections in India on a campaign platform to cut bureaucratic red tape and revitalize the economy. The chancellor also addressed the trade fair's other motto, \"Integrated Industry - Join the Network,\" as this year's Hannover Messe seeks to showcase future industrial production methods. This is sometimes referred to as \"Industry 4.0,\" with the new era seen as a fourth industrial revolution following steam power, the production line and then automation. Merkel lamented the EU's need to catch up on issues like digitalization: \"We in Europe simply must get a move on, just as we in Germany must also get our skates on,\" Merkel said. \"We have to adapt on a daily basis.\" Modi, who was in France over the weekend penning major defense deals and visiting Airbus, remains in Berlin until Tuesday. He will hold talks with leading Social Democrats, Economy Minister Sigmar Gabriel and Foreign Minister Frank-Walter Steinmeier, while in the country. The 64-year-old premier is set to hold talks with Merkel at the chancellery on Tuesday, prior to flying out for the last leg of his international tour, in Canada. In Lower Saxony, the Hannover Messe remains open to the public until April 17. msh/cmk (dpa, Reuters)",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Narendra Modi",
+      "is_meeting"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Narendra Modi",
+      "Angela Merkel",
+      "is_meeting"
+    ],
+    [
+      "Hannover Messe",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Hanover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hanover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Destatis",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Destatis",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Destatis",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Destatis",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Frank-Walter Steinmeier",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Lower Saxony",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Lower Saxony",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

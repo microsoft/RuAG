@@ -1,0 +1,75 @@
+{
+  "content": "Europol launches pan-European counterterrorism center\nThe EU law enforcement agency has announced the formation of a strategic center to combat terrorism in Europe. The hub is tasked with boosting intelligence-sharing among member states and tracking terrorists' finances.\nEU Migration Commissioner Dimitris Avramopoulos announced on Monday the creation of the European Counter Terrorism Centre (ECTC), which aims to boost cooperation among Europol member states in their fight against terrorist threats in Europe. \"The establishment of the European Counter Terrorism Centre is a major strategic opportunity for the EU to make our collective efforts to fight terrorism more effective,\" said Avramopoulos, with Dutch Justice Minister Ard van der Steur and Europol Director Rob Wainwright at a press conference announcing the center's creation. Europol said that the ECTC, based in The Hague, would focus on \"tackling foreign fighters, sharing intelligence and expertise on terrorism financing, online terrorist propaganda and extremism, illegal arms trafficking and international cooperation to increase effectiveness and prevention.\" The initiative follows the Paris attacks claimed by the so-called \"Islamic State\" militant group in November, which killed at least 130 people and wounded hundreds more. The assault on the French capital prompted fears of similar attacks across the continent. Europol chief Wainwright said that some 5,000 European nationals had left to fight alongside militant groups in Syria and Iraq, warning that they posed significant threats upon returning to their countries. \"Our ambition is for the ECTC to become a central information hub in the fight against terrorism in the EU, providing analysis for ongoing investigations and contributing to a coordinated reaction in the event of major terrorist attacks,\" said Wainwright. Increased intelligence sharing among EU member states - notably France and Belgium - in the wake of November's attacks led to the agency receiving 2.7 terabytes of information, \"resulting in 800 intelligence leads and more than 1,600 leads on suspicious financial transactions,\" Europol said. The law enforcement agency added that the ECTC's organizational structure would mirror Europol's, allowing for cooperation between counterterrorism authorities in the EU.",
+  "relations": [
+    [
+      "Europol",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "Europol",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "European Counter Terrorism Centre",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Counter Terrorism Centre",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "Dimitris Avramopoulos",
+      "Europe",
+      "head_of"
+    ],
+    [
+      "Dimitris Avramopoulos",
+      "Europe",
+      "member_of"
+    ],
+    [
+      "Rob Wainwright",
+      "Europol",
+      "head_of"
+    ],
+    [
+      "Rob Wainwright",
+      "Europol",
+      "member_of"
+    ],
+    [
+      "Ard van der Steur",
+      "Dutch",
+      "agent_of-x"
+    ],
+    [
+      "Ard van der Steur",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "The Hague",
+      "Dutch",
+      "in0-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ]
+  ]
+}

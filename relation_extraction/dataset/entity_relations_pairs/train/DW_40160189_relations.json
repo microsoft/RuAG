@@ -1,0 +1,105 @@
+{
+  "content": "Deadly train crash in India's Uttar Pradesh\nRescuers in India have been searching through for survivors after a train came of the tracks in the northeast of the country. India's woefully underfunded railway system is a death trap, killing 15,000 every year.\nAt least 23 people were killed and scores more injured when a train derailed in northern India Saturday. At least five railcars went off the tracks, according to Railways spokesman Anil Saxena, leaving emergency workers and private citizens to pull people out of mangled, upended carriages. \"Rescue and relief operations are continuing,\" G S Priyadarshi, Muzaffarnagar district magistrate, told the AFP news agency. Read more: Train disaster turns focus on India's shoddy railways The government deployed rescuers and sniffer dogs to the scene, with emergency workers using metal cutters and cranes were being used to reach inside the damaged coaches. \"Scores of people have been safely evacuated from the coaches. Some dead bodies have also been recovered,\" fire and emergency officer Naresh Kumar told AFP. Second tragedy in a week The derailment occurred in the north Indian state of Uttar Pradesh and is the second tragedy to hit the state in the past week. Dozens of children died in a hospital there that had run out of oxygen. The national authorities have sent disaster teams to help. \"We have mobilized all our resources to provide the best relief and rescue operations at this time,\" Saxena said on Indian television. Read more: Dozens killed in south India train crash India's railway network is the main form of long-distance travel in the vast country, but it is notoriously unsafe due to being under funded. In the past year 146 people died in a similar disaster in Uttar Pradesh. A government report in 2012 said almost 15,000 people were killed every year on India's railways. It described the loss of life as an annual \"massacre\". Prime Minister Narendra Modi's government has pledged to invest $137 billion over five years to modernize the crumbling railway network, making it safer, faster and more efficient. bik/rc (AFP, Reuters, AP)",
+  "relations": [
+    [
+      "Uttar Pradesh",
+      "India",
+      "in0"
+    ],
+    [
+      "Uttar Pradesh",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Anil Saxena",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Anil Saxena",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Anil Saxena",
+      "Railways",
+      "member_of"
+    ],
+    [
+      "Railways",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Railways",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "G S Priyadarshi",
+      "Muzaffarnagar",
+      "agent_of"
+    ],
+    [
+      "G S Priyadarshi",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "G S Priyadarshi",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Muzaffarnagar",
+      "India",
+      "in0"
+    ],
+    [
+      "Muzaffarnagar",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Naresh Kumar",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Naresh Kumar",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "head_of_gov"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "head_of_gov-x"
+    ]
+  ]
+}

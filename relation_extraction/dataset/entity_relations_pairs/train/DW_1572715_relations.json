@@ -1,0 +1,120 @@
+{
+  "content": "German Seniors Say No to Nursing Homes\nMembers of Germany older generation are looking at new models of living for their retirement years. They want security, comfort and social contacts; they don’t want a nursing home. Senior flat shares fit that bill.\nOn the eighth floor of a Dresden high-rise, 72-year-old Karl-Heinz Röttjer can look out from his small, one-bedroom apartment and see a good portion of the city and the hills that spill over into the Czech Republic. To him, the wide-open vista represents freedom, and the new lease on life he has gotten since moving in with five retired women to share his sunset years. \"Here I feel much better, I can spend my time how I want,\" he said. \"I feel free, and it's like I have a family around me.\" He cherishes that freedom since it was taken away from him for a while. He was put in a nursing home after an illness made him unable to live alone anymore several years ago. His wife had died and his children had moved away. But for this spry, independent septuagenarian, it was like being put in prison. \"In a nursing home, you're not your own master,\" he said. \"There are rules to follow and you've subject to strict schedules. Everything's planned out and you feel almost trapped.\" So he escaped, not by climbing out an open window, but by answering an ad for a living arrangement that experts say could become a common alternative for older people in the future: a senior flat share. Not long after, he moved into the specially modified suite of apartments and hasn't looked back. Communal living but privacy, too The senior flat share, however, is generally not like the basic college-age roommate situation. Röttjer has his own apartment with a kitchen and bathroom, as does each of his five flatmates. They provide privacy and independence which are important to older people. But there is also a common room with comfortable furniture, a dining table and a TV, plus a communal kitchen and dining table where people can prepare and eat shared meals if they want. The Dresden suite also has a large bathroom that has been outfitted with special aid devices for when age makes getting around, or in and out of the bathtub, more difficult. There are at least 200 similar experiments in senior living across Germany as the older generation rethinks how they want to live out their sunset years and more are popping up all the time. The senior living arrangement was even the topic of a reality TV show on the German-French channel arte, which brought five women between 60 and 70 together in a Berlin apartment and followed the ups and downs of their new lives there. Surveys have found that more than two-thirds of people now over the age of 40 have no interest in going into an old age home in the future. \"My generation does not want to go into these so-called social institutions for old, helpless people,\" said Heike Grünewald, who heads Projekt 50 Plus, a Berlin-based group which tries to match up seniors and communal living arrangements. \"We do not want the state looking after us. Besides, the state will not have any money to do it, so we have to look after ourselves.\" Greying society Germany's older population is set to skyrocket over the next decades. Demographers forecast that by 2050, more than one in three Germans will be over 60. While most European societies are getting older, in 30 years, due to low birth rates and longer life spans, it is predicted that Germany will have the oldest population in the world. \"That means we have to look at and encourage these different models of senior living,\" said Irmingard Schewe-Gerigk, a parliamentarian for the Green party who looks at aging issues. Germany's system for financing care for older people is fast running short of cash. The government pays for part or all of nursing home care, which is expensive, so it's beginning to show interest in the alternatives. One study has shown that having a senior in an apartment share can save the government more than 51,000 euros ($66,000) a year. In the Dresden flat share, each resident pays between 270 to 390 euros rent to a real estate developer who renovated the apartment. \"In a flat share, people do just fine with their own money, they're able to manage,\" said Sieglinde Wartenberg, who arranges senior apartment shares in Dresden. \"They can get by on just a little money, and age with dignity.\" Social connection Besides the financial aspect, there's a social element of living with others that is just as, if not more, important for older people. One of the greatest fears of the elderly is social isolation. \"At some point, you feel that you just aren't needed,\" said Irene Rostalskie, 72. \"Hardly anyone has time for you anymore.\" She raised six children, but one by one they moved away until she was alone in her ground-floor apartment. One day someone broke her window and she felt not only alone, but insecure. The flat share solves both of those problems. \"It's one of the main advantages to this living arrangement, there's always someone there who I can ring up or go see,\" said Richard Palm, head of the Forum for Communal Living. \"If I'm feeling sick, there will be someone coming and saying, should I get you a newspaper or call a doctor.\" Around the common table in the suite, the flatmates joke and laugh like teenagers while they offer visitors coffee and cake. They make sure all guests write their names in a black notebook they keep; last year, there were 47 entries. The flatmates often take group day trips around the regions, visiting neighboring towns or going to the theater. \"In a nursing home, you get old very quickly,\" said Sylvia Behrens, who at 57 is the youngest of the group, but who suffers from Parkinson's disease and has been in several living arrangements since she was diagnosed. \"Here, you feel young again,\" she said.",
+  "relations": [
+    [
+      "Karl-Heinz Röttjer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Karl-Heinz Röttjer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Karl-Heinz Röttjer",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Dresden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dresden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Dresden",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "arte",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "arte",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "arte",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "arte",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Heike Grünewald",
+      "Projekt 50 Plus",
+      "head_of"
+    ],
+    [
+      "Heike Grünewald",
+      "Projekt 50 Plus",
+      "member_of"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Irmingard Schewe-Gerigk",
+      "Green",
+      "member_of"
+    ],
+    [
+      "Green",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Green",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Green",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Richard Palm",
+      "Forum for Communal Living",
+      "head_of"
+    ],
+    [
+      "Richard Palm",
+      "Forum for Communal Living",
+      "member_of"
+    ]
+  ]
+}

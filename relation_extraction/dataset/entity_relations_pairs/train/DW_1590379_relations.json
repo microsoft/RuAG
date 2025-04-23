@@ -1,0 +1,150 @@
+{
+  "content": "Hoping for Amicable Chinese Textile Deal\nGermany will act \"in solidarity\" with its European partners in the trade row with China over cheap textile imports, but Berlin is hoping that an amicable deal can be reached, the German economy minister said Friday.\n\"We understand and accept the interests of the other countries,\" such as Spain, Portugal, Greece and France, German Economy Minister Wolfgang Clement told the news agency DPA in an interview. But the row should not be allowed to \"harm the German clothing sector,\" he added. Germany was affected only indirectly by the sharp increase in textile imports from China since the beginning of the year, Clement said. The German textiles industry, which currently employs around 140,000 people, had already undergone the necessary restructuring to face up to increase competition from low-wage countries, he added. EU restrictions This week, the European Union announced that it would put restrictions on imports of T-shirts and flax yarn from China. But compared with the measures being considered in the US, countries such as France believe that the offensives proposed by EU trade commissioner Peter Mandelson did not go far enough. The US slapped import quotas on three categories of Chinese textile goods last week and added another four on Wednesday. That provoked a stiff response from China which said the action undercut the very principles of free trade being promoted by Washington and Brussels. Conciliatory gesture from Beijing Facing the threat of EU limits on Chinese textiles imports, Beijing made a conciliatory gesture and announced it would raise export tariffs on 74 categories of textile products from June 1. The ministry of finance said on its Web site that the 74 categories were among 148 products on which tariffs had already been placed at the end of the decades-long global textile export quota system on Jan. 1. It also announced export tariffs on flax yarn. Virtually all the products affected are exported to the US and EU. The China National Textile Industry Council said the move proved China was a responsible member of the international community. \"China's is a responsible country and it is for the purpose of helping establish a new world textile trade order and ease the trade friction that the government made the concession,\" spokesman Sun Huaibin told Xinhua news agency. EU: Wait and see \"This is something that we have to see more precisely from the Chinese,\" European Commission spokewoman Francoise Le Bail said. The issue would be discussed when the Chinese negotiator on textiles comes to Brussels next week to see Mandelson, she added. \"We will clarify with the Chinese what they intend to do, to have precision on this aspect of things. And also we will discuss with them the measures that we have proposed on a number of categories of products,\" Le Bail said.",
+  "relations": [
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Wolfgang Clement",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Clement",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Clement",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Clement",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Wolfgang Clement",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Francoise Le Bail",
+      "European Commission",
+      "member_of"
+    ],
+    [
+      "Francoise Le Bail",
+      "European Commission",
+      "spokesperson_of"
+    ],
+    [
+      "Peter Mandelson",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DPA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "China National Textile Industry Council",
+      "China",
+      "agency_of"
+    ],
+    [
+      "China National Textile Industry Council",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "China National Textile Industry Council",
+      "China",
+      "based_in0"
+    ],
+    [
+      "China National Textile Industry Council",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Sun Huaibin",
+      "China",
+      "citizen_of"
+    ],
+    [
+      "Sun Huaibin",
+      "Chinese",
+      "citizen_of-x"
+    ],
+    [
+      "Sun Huaibin",
+      "China National Textile Industry Council",
+      "member_of"
+    ],
+    [
+      "Sun Huaibin",
+      "China National Textile Industry Council",
+      "spokesperson_of"
+    ],
+    [
+      "Xinhua",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Xinhua",
+      "Chinese",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "content": "Merkel, rivals in final push ahead of Sunday's German election\nPoliticians have continued to campaign hard leading up to Germany’s general election. Polls indicate that Chancellor Angela Merkel is headed for victory, but she too has been fighting for every last vote.\nChancellor Merkel continued her bid for re-election with a campaign stop in the southern city of Munich on Friday. She used her speech in the Bavarian capital to defend her government's record on the economy. \"When I became chancellor ... there were more than 5 million unemployed, and now there are fewer than 3 million,\" she said, referring to her first term in office, when she led a grand coalition between her Christian Democrats (CDU) and the Social Democrats (SPD) from 2005 to 2009. \"But we need to keep working,\" she added. \"Many people can say that you're doing better than in 2009,\" Merkel said. \"I want you to be able to say in 2017 that you're doing better than now.\" This was the chancellor's second major campaign event on Friday, having worked the crowds in the northern city of Hanover earlier in the day. The SPD's candidate to replace Merkel in the chancellery, Peer Steinbrück, also pressed the flesh on Friday in a bid to win over every last undecided voter. Steinbrück, who was finance minister during Merkel's first term in office, delivered speeches in the central cities of Wiesbaden, Marburg and Kassel. He has attacked Merkel's coalition government between her CDU and their junior coalition partners, the liberal Free Democrats (FDP), for allowing the gap between rich and poor to grow, despite reduced jobless figures. The SPD's preferred coalition partners, the Greens, held their last major rally of the campaign in one of their traditional strongholds, Berlin's Friedrichshain-Kreuzburg district. With the latest opinion polls giving the SPD and Greens little chance of winning a majority, the ecological party's leading candidates, Jürgen Trittin and Katrin Göring-Eckardt urged their supporters to make a final push to win over the undecided. \"No, nothing at all is decided,\" Göring-Eckart told the crowd. \"We're going to use the next 48 hours to convince people,\" Trittin said. An opinion poll released on Friday gave the SPD and the Greens a combined 36 percent support, well behind the CDU and the FDP, on 45 percent. With Steinbrück having ruled out including the Left party (nine percent) in any coalition, victory for Merkel's conservative-liberal coalition would appear to be assured. On its own, however, the FDP has consistently polled at about 5 percent throughout the campaign. That is the minimum required to send lawmakers to the Bundestag, and should the Free Democrats fail to clear 5 percent in Sunday's general election, Merkel could be forced to reach out to a different partner as she seeks to build a parliamentary majority. This could force her into another uneasy grand coalition with the Social Democrats. pfd/av (dpa, APF, Reuters)",
+  "relations": [
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Free Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Free Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Katrin Göring-Eckardt",
+      "Greens",
+      "member_of"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrats",
+      "member_of"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Peer Steinbrück",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peer Steinbrück",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peer Steinbrück",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Jürgen Trittin",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jürgen Trittin",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jürgen Trittin",
+      "Greens",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hanover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hanover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Wiesbaden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Wiesbaden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Marburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Marburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kassel",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Kassel",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Friedrichshain-Kreuzburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Friedrichshain-Kreuzburg",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Left party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Left party",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

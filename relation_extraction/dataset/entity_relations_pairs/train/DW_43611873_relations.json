@@ -1,0 +1,80 @@
+{
+  "content": "Only 4 of Germany's 128 Eurofighter jets combat ready — report\nThe report is the latest to cast doubt on Germany's military capabilities and readiness. It raises questions of whether Germany is really meeting its NATO commitments. \nOnly a handful of the German Air Force's Eurofighter jets are combat ready, according to a report in the magazine Der Spiegel published Wednesday. Due to a technical problem with the defense system of the combat aircraft only 10 of the Luftwaffe's 128 Eurofighters are mission ready, according to the report. The problem stems from a cooling liquid leak in the aircraft's wing pod sensors, which are used to recognize hostile jets or incoming attacks. Without the defense system the Eurofighter jets are not combat ready. The shortage of aircraft means that Germany is unable to fulfill its NATO obligations to have 82 combat ready jets for crisis situations. Read more: How does Germany contribute to NATO? The wing pod issue is only one problem facing the Luftwaffe. Der Spiegel reported that there are only enough missiles to make only four Eurofigher jets ready for combat. The German military confirmed to Der Spiegel the technical problems with the Eurofighter, but would not comment on the number of combat-ready aircraft, given that this information is classified. The revelation in Der Spiegel is the latest report to cast doubt on Germany's military readiness and capabilities. Read more: German military short on tanks for NATO mission Germany's lack of military readiness 'dramatic,' says Bundeswehr commissioner Accounting tricks In a Bundeswehr document provided to the German parliament last year, the military classified 39 of 128 jets as combat ready. A Bundeswehr spokesperson told Der Spiegel that the \"daily actual availability\" of the Eurofighter right now is better than last year. However, Der Spiegel said that the military appeared to count any Eurofighter that can fly as ready, even if they are only available for training or maneuvers without missiles or defense systems. \"These jets are barred from participating in real deployments, such as air patrols in the eastern flank of NATO,\" Der Spiegel wrote. Every evening at 1830 UTC, DW's editors send out a selection of the day's hard news and quality feature journalism. You can sign up to receive it directly here.",
+  "relations": [
+    [
+      "Eurofighters",
+      "German Air Force",
+      "artifact_of"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Air Force",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Air Force",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Air Force",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Air Force",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Air Force",
+      "Bundeswehr",
+      "part_of"
+    ],
+    [
+      "Der Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

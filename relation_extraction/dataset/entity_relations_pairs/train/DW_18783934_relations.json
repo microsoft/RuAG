@@ -1,0 +1,65 @@
+{
+  "content": "Obama announces deployment of 300 troops to Cameroon\nUS President Barack Obama has said he will send troops to Cameroon in order to counter the terror group Boko Haram. The central African country was the target of an attack this past weekend.\nPresident Obama informed Congress on Wednesday it was sending 300 soldiers to Cameroon as part of the fight against the terrorist organization Boko Haram. The White House said 90 troops had already been deployed to the central African nation. The force, which officials say is armed for self defense, will remain in the country until their presence is no longer needed. White House press secretary Josh Earnest said the deployment was in coordination with the Cameroon government. \"It will be part of a broader regional effort to stop the spread of Boko Haram and other violent extremist organizations in West Africa,\" he said. Boko Haram, a Nigeria-based militant group affiliated with the \"Islamic State\" terrorist organization, began stepping up attacks in Cameroon earlier this year. A report released by Amnesty International in September said that almost 400 people in Cameroon had been killed by Boko Haram fighters since January 2015. On Sunday, a sucide attack killed nine people and injured 29 in a northern part of the country. blc/msh (AFP, AP, dpa, Reuters)",
+  "relations": [
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Boko Haram",
+      "Cameroon",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Islamic State",
+      "part_of"
+    ],
+    [
+      "Congress",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ],
+    [
+      "Josh Earnest",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Josh Earnest",
+      "White House",
+      "member_of"
+    ]
+  ]
+}

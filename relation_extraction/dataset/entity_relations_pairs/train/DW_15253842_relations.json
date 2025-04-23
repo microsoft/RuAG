@@ -1,0 +1,130 @@
+{
+  "content": "Drone usage on the rise in conflicts worldwide\nDrones are becoming more widespread throughout the world - be it in Pakistan, Iraq, in Yemen or Somalia. These unmanned planes, currently mainly piloted remotely, may eventually engage each other on their own.\nOn Thursday, Iranian and Indian media reported that an American drone strike had killed four militants in the North Waziristan region of Pakistan. Over in Europe, also on Thursday, the French Ministry of Defense said it was in talks with a military contractor to order a new fleet of drones that could be deployed as soon as 2014. Meanwhile, across the globe, on the very same day, the police chief in the Australian capital, Canberra, told Australian media that he was considering deploying surveillance drones across his city's skies. Over the last few years, drones have become an indispensible part of the American campaign to combat terrorism in various parts of the world, and also are starting to trickle into law enforcement tactics worldwide as well. Major increase in drone attacks The United States has especially increased its use of drones in Pakistan. Between 2004 and 2007 there were just nine drone attacks. In 2008 it was 33, the next year it was 53 and last year the attacks hit 118. The estimates about the number of fatalities from these attacks range from 600 to almost 1,000. \"I can't imagine that the USA would launch this many manned air attacks in Pakistan,\" said Jürgen Altmann, in an interview with Deutsche Welle. The University of Dortmund physicist is a founding member of the International Committee for Robot Arms Control (ICRAC), a non-profit organization that advocates for a re-evaluation of automated war technologies, like drones. The fact that these planes are relatively small and have no crew on board makes it easier for Pakistan's government to allow them, Altmann said. \"[The] threshold for the involvement of unmanned drones in conflict is lower, as when manned planes are involved,\" he said. War without risk? The enormous increase in computer power, new camera and sensor technology has made it possible to run a war without risk to one's soldiers. Noel Sharkey, a professor of artificial intelligence and robotics at the University of Sheffield in the United Kingdom, said the new development isn't just dangerous for civilians living in enemy territory. \"It is also dangerous for our own civilians, because lopsided wars lead to new terrorism,\" he noted. \"People won't just give up because we've got the best technology.\" The case for drones? A worldwide drones arms race is well and truly underway. Some 50 states have already bought drones for surveillance – including countries like Israel, Germany, China, Russia and Iran. Many of these nations are working on armed drones as well. Drone proponents argue that the money saved in comparison to normal fighter jets is considerable: a US MQ 9 drone costs only $10 million (7.05 million euros) and can be loaded up with 14 Hellfire rockets. By comparison, a F-22 fighter jet costs around $150 million (105.8 million euros). Plus, the training for the drone pilots also costs much less than training for a traditional jet pilot. Plus, others have argued that a drone's inability to become emotionally inflamed might be a possible argument for the increased use of drones. \"Robots don't get angry when their fellow soldiers get killed,\" said Peter Warren Singer, an analyst at the American think-tank, the Brookings Institution, and the author of the 2009 book, \"Wired for War.\" \"They don't commit any crime due out of revenge or retaliation – that's one of the reasons why war crimes are committed,\" he told Deutsche Welle. \"But for a robot an 80-year-old grandmother is the same as a tank. Both are just a combination of zeros and ones.\" An ethical robot Similarly, Ronald Arkin, a professor of robotics at the Georgia Institute of Technology, believes that robots' unemotional operating methods as a strength. Arkin is convinced that systems can be developed which will be better than humans on the battle field - he argues that it may be possible to program a robot with the rules of the Geneva Conventions. This would mean they could refuse to carry out some orders which contradict the rules of international conflict and rules of engagement. However, not all roboticists are convinced of the ability to reduce human ethics into software. \"Because no-one knows what it means to bring in ethical considerations into programming,\" said Hans-Jörg Kreowsky, a professor of computer science at the University of Bremen. \"Ethics can't be defined by algorithms, that means you can't build it.\" Author: Matthias von Hein / al Editor: Cyrus Farivar",
+  "relations": [
+    [
+      "Jürgen Altmann",
+      "International Committee for Robot Arms Control",
+      "head_of"
+    ],
+    [
+      "Jürgen Altmann",
+      "International Committee for Robot Arms Control",
+      "member_of"
+    ],
+    [
+      "Jürgen Altmann",
+      "University of Dortmund",
+      "member_of"
+    ],
+    [
+      "Ronald Arkin",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Ronald Arkin",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Ronald Arkin",
+      "Georgia Institute of Technology",
+      "member_of"
+    ],
+    [
+      "Iranian",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "North Waziristan",
+      "Pakistan",
+      "in0"
+    ],
+    [
+      "Canberra",
+      "Australian",
+      "in0-x"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Dortmund",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Noel Sharkey",
+      "University of Sheffield",
+      "member_of"
+    ],
+    [
+      "University of Sheffield",
+      "United Kingdom",
+      "based_in0"
+    ],
+    [
+      "Peter Warren Singer",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Peter Warren Singer",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Warren Singer",
+      "Brookings Institution",
+      "member_of"
+    ],
+    [
+      "Brookings Institution",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Brookings Institution",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Wired for War",
+      "Peter Warren Singer",
+      "created_by"
+    ],
+    [
+      "Georgia Institute of Technology",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Georgia Institute of Technology",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Hans-Jörg Kreowsky",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hans-Jörg Kreowsky",
+      "University of Bremen",
+      "member_of"
+    ],
+    [
+      "University of Bremen",
+      "Germany",
+      "based_in0"
+    ]
+  ]
+}

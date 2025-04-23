@@ -1,0 +1,280 @@
+{
+  "content": "Fashionistas Unite in Düsseldorf\nIts organizers say it’s the world's largest fashion trade fair. So what is cpd man-woman doing in Germany?\nWhen most people think fashion, Paris immediately comes to mind. This though is followed quickly, of course, by Milan, New York or London. But for buyers and sellers of ready-to-wear this week, the most important place to be was in Düsseldorf, Germany. The three-day fashion trade fair \"Collections Premieres Düsseldorf-cpd woman-man\" comes to a close on Tuesday. In it, some 1,900 exhibitors from 51 countries are showing women's and men's collections for spring and summer 2004. And the show's organizers, Igedo, said they expect the final tally for visitors will be in the region of 60,000. Low fashion profile Despite its no-frills image, Germany has produced a handful of internationally renowned fashion designers, such as Karl Lagerfeld, Jil Sander, Wolfgang Joop and Hugo Boss. And firms like Escada, Bogner, and Strenesse have enjoyed international repute for decades. But while fashion plays an important role in daily life in Germany, especially for young people, the attitude differs from that of classic haute-couture countries such as France and Italy. In Germany, high fashion does not have the status of a stand-alone cultural asset, like art, literature or architecture. Thus, some of the hottest young German designers, such as Dirk Schönberger, Markus Lupfer, and Bernhard Willhelm, choose to work abroad. \"Germany is not a classic fashion country,\" says Peter Paul Polte, editor-in-chief of the textile industry magazine Textilwirtschaft (Textile Industry.) \"But German companies know a lot about marketing and production.\" Fashion exports According to cpd statistics, Germany is the largest and most important market for textile and apparel manufacturers in Europe. In 2000, Germany ranked as the third-largest textile importing country after the United States and Hong Kong. In 2001, German textile and apparel imports amounted to almost €30 billion ($34 billion). As an exporter, Germany ranks fifth, after China, Hong Kong, Italy and the United States, with total exports of €19.5 billion in 2001. Yet as with so much else having to do with Germany's economy, the picture is not entirely rosy. In 2002, the German textile and clothing industry had turnover of some €23.9 billion , of which clothing accounted for €9.6 billion – down some 8 percent from the previous year. This year, with the economy faltering, fashion is once again on the ropes, with overall sales some 5 percent lower for the first five months of the year, from the same period last year, according to the Associated Press. Düsseldorf, with its fashion trade fairs (in addition to cpd, there is a shoe trade fair and an international beauty fair,) supports 1,400 fashion-related businesses with a total turnover of about €13 billion. The Königsallee, or Kö, is one of the great shopping streets of Europe, lined with upscale designer boutiques. Fashion capital moves to Berlin? While industry insiders hope the fair will give German fashion sales a boost, Düsseldorf officials simply hope the cpd will remain in their city. Since the wall came down in 1989, Berlin has steadily been securing its place as the country's culture capital, with increasing numbers of events moving there from smaller cities. Recent press reports suggested that the cpd may be the latest big trade fair to do so, but Harald Schartau, the economy minister of the state of North Rhine Westphalia (of which Düsseldorf is the capital) denies it. Düsseldorf will remain Germany's fashion capital, Schartau told the DPA news agency. \"The (cpd) benefits from a unique environment, from the many (locally)-based textile and clothing companies, designer-oriented shops and retailers, fashion centers, showrooms and order rooms, and a network of creative workers in advertising, design and fashion,\" he said. Yet even if cpd stays in Düsseldorf, German fashion's cutting edge may already belong to Berlin. The BREAD & butter trade fair, showing \"urbanwear and street couture\", used to be in Cologne but moved to Berlin this year. And the \"No Dress?!\" public show in Berlin is a hot venue for small, innovative labels promoting young talent.",
+  "relations": [
+    [
+      "Hong Kong",
+      "China",
+      "in0"
+    ],
+    [
+      "Collections Premieres Düsseldorf-cpd woman-man",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Collections Premieres Düsseldorf-cpd woman-man",
+      "Düsseldorf",
+      "event_in2"
+    ],
+    [
+      "Düsseldorf",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Düsseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Textilwirtschaft",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Textilwirtschaft",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Harald Schartau",
+      "North Rhine Westphalia",
+      "agent_of"
+    ],
+    [
+      "Harald Schartau",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Harald Schartau",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Harald Schartau",
+      "North Rhine Westphalia",
+      "minister_of"
+    ],
+    [
+      "Königsallee",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Königsallee",
+      "Düsseldorf",
+      "in2"
+    ],
+    [
+      "cpd",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "cpd",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Milan",
+      "Italy",
+      "in0"
+    ],
+    [
+      "New York",
+      "United States",
+      "in0"
+    ],
+    [
+      "Karl Lagerfeld",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Karl Lagerfeld",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jil Sander",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jil Sander",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Joop",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Joop",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hugo Boss",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hugo Boss",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Escada",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Escada",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bogner",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bogner",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Strenesse",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Strenesse",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Dirk Schönberger",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Dirk Schönberger",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Markus Lupfer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Markus Lupfer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bernhard Willhelm",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Bernhard Willhelm",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Paul Polte",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peter Paul Polte",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Paul Polte",
+      "Textilwirtschaft",
+      "head_of"
+    ],
+    [
+      "Peter Paul Polte",
+      "Textilwirtschaft",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "North Rhine Westphalia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "North Rhine Westphalia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "DPA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "BREAD & butter",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "BREAD & butter",
+      "Berlin",
+      "event_in2"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "No Dress?!",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "No Dress?!",
+      "Berlin",
+      "event_in2"
+    ]
+  ]
+}

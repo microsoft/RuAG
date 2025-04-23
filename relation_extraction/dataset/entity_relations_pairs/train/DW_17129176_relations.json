@@ -1,0 +1,110 @@
+{
+  "content": "Shanghai's new FTZ: 'A testing ground for reforms'\nOperations at a new free trade zone in Shanghai recently kicked off in what is regarded as a laboratory for testing reforms that have been difficult to implement in the whole of China, says analyst Nicola Casarini.\nLocated in the outskirts of Shanghai, the new China (Shanghai) Pilot Free Trade Zone (FTZ) covers four existing 'bonded zones' in the eastern Chinese megacity, including the Waigaoqiao Free Trade Zone, Waigaoqiao Free Trade Logistics Park, Yangshan Free Trade Port Area and the Pudong Airport Comprehensive Free Trade Zone. China's State Council or cabinet, which approved the project back in July, recently unveiled on its website a set of rules for the new pilot zone. Some 25 companies have so far been given the green light to start operations in a variety of sectors, alongside 11 financial institutions. In a DW interview, China expert Nicola Casarini says that if the FTZ is successful, it could pave the way for long-awaited economic reforms, such as the convertibility of the Chinese currency, the Renminbi. DW: The FTZ was formally launched on September 29. When will it be in business? Nicola Casarini: According to the announcements, it technically has been in business since Sunday. However, as China prepares for a week-long festivity starting on October 1st (foundation of the People's Republic of China), there will be no significant business until the middle of next week. What is the main purpose of the Shanghai Free Trade Zone? The zone is about 29 square kilometers (11-square-mile) in size. According to the government, it will serve as a testing ground for financial reforms, in particular, interest rate deregulation, a convertible exchange rate and an elimination of investment restrictions for foreign companies. What is special about the new Shanghai FTZ? It is special because it will be used as a laboratory for testing reforms that are difficult, if not impossible, to implement nationwide. Some reforms such as opening up the domestic service sector and the liberalization of capital accounts encounter stiff opposition from important sectors of the bureaucracy and the Communist Party of China (CPC). It is this that makes the Shanghai Free Trade Zone so special. What will foreigners be able to do? Do the same privileges apply for Chinese working within the free trade zone? The foreigners will be able to do the same things as the Chinese. Moreover, there have been rumors that both foreigners and Chinese in the FTZ will have access to social media sites such as Facebook and Twitter which are otherwise blocked in the rest of China. How significant is this new trade zone for China - both in terms of trade and of economic reforms? Extremely important. If successful after the three-year test period, it could pave the way - among other things - to the convertibility of the Renminbi, the Chinese currency. This will have a huge impact on trade and economic reforms. What is the CPC aiming at by establishing this free trade zone? The CPC is indicating that China is serious about economic and financial reforms and that it is aware of the huge challenges that it needs to undertake in order to graduate to the next phase of economic development and escape the middle-income trap. Nicola Casarini is an expert in EU-China relations at the Paris-based European Union Institute for Security Studies (EUISS). The interview was conducted by Gabriel Domínguez.",
+  "relations": [
+    [
+      "Communist Party of China",
+      "People's Republic of China",
+      "based_in0"
+    ],
+    [
+      "Communist Party of China",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Shanghai",
+      "People's Republic of China",
+      "in0"
+    ],
+    [
+      "Shanghai",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Nicola Casarini",
+      "European Union Institute for Security Studies",
+      "member_of"
+    ],
+    [
+      "China (Shanghai) Pilot Free Trade Zone",
+      "People's Republic of China",
+      "in0"
+    ],
+    [
+      "China (Shanghai) Pilot Free Trade Zone",
+      "Shanghai",
+      "in2"
+    ],
+    [
+      "Chinese",
+      "People's Republic of China",
+      "gpe0"
+    ],
+    [
+      "Waigaoqiao Free Trade Zone",
+      "People's Republic of China",
+      "in0"
+    ],
+    [
+      "Waigaoqiao Free Trade Zone",
+      "Shanghai",
+      "in2"
+    ],
+    [
+      "Waigaoqiao Free Trade Logistics Park",
+      "People's Republic of China",
+      "in0"
+    ],
+    [
+      "Waigaoqiao Free Trade Logistics Park",
+      "Shanghai",
+      "in2"
+    ],
+    [
+      "Yangshan Free Trade Port Area",
+      "People's Republic of China",
+      "in0"
+    ],
+    [
+      "Yangshan Free Trade Port Area",
+      "Shanghai",
+      "in2"
+    ],
+    [
+      "Pudong Airport Comprehensive Free Trade Zone",
+      "People's Republic of China",
+      "in0"
+    ],
+    [
+      "Pudong Airport Comprehensive Free Trade Zone",
+      "Shanghai",
+      "in2"
+    ],
+    [
+      "State Council",
+      "People's Republic of China",
+      "agency_of"
+    ],
+    [
+      "State Council",
+      "Chinese",
+      "agency_of-x"
+    ],
+    [
+      "State Council",
+      "People's Republic of China",
+      "based_in0"
+    ],
+    [
+      "State Council",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Gabriel Domínguez",
+      "DW",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "content": "Libyan militias clash in Tripoli\nRival armed groups battled in a central area of Tripoli, setting fire to a former intelligence building. The clash is one of the worst breakdowns in security in the capital since Moammar Gadhafi’s fall in 2011.\nArmed men sealed off roads near Zawiyah Street, which was at the heart of the battle between two rival groups, residents said. \"Five people have sustained gunshot wounds in these clashes,\" a medical official at Zawiyah Street Medical Center said, adding that there had been no fatalities. Night-time clashes between rival groups are not unusual in the capital, which is still saturated with arms left over from the 2011 conflict that brought to an end Libyan leader Moammar Gadhafi's 42-year rule. The violence underscored the challenge faced by Libya's new government in controlling militias that gained power during the conflict. By early afternoon, a building belonging to the Supreme Security Committee (SSC), which was set up last year to try to regulate armed groups, was in flames and being looted by members of a rival militia, witnesses said. The head of the SSC, Mohammed Suweysi, said one of the militias attacked the other, accusing its members of detaining a man from their neighborhood and beating him to death. \"We called the police early in the morning to help us stop the shooting, but no one came,\" resident Khaled Mohamed told Reuters. After more than 12 hours, the army moved in to restore order. On Sunday, violence also erupted outside the capital, where a car bomb exploded in front of a police station in Benghazi. Injuring three police officers, the incident is the latest in a series of attacks on security officials in Libya's second largest city, where the US ambassador was killed in September. hc/rc (Reuters, AFP, AP)",
+  "relations": [
+    [
+      "Tripoli",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Tripoli",
+      "Libyan",
+      "in0-x"
+    ],
+    [
+      "Supreme Security Committee",
+      "Libya",
+      "agency_of"
+    ],
+    [
+      "Supreme Security Committee",
+      "Libyan",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Security Committee",
+      "Libya",
+      "based_in0"
+    ],
+    [
+      "Supreme Security Committee",
+      "Libyan",
+      "based_in0-x"
+    ],
+    [
+      "Libyan",
+      "Libya",
+      "gpe0"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "head_of_state"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libyan",
+      "head_of_state-x"
+    ],
+    [
+      "Zawiyah Street",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Zawiyah Street",
+      "Tripoli",
+      "in2"
+    ],
+    [
+      "Zawiyah Street Medical Center",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Zawiyah Street Medical Center",
+      "Tripoli",
+      "in2"
+    ],
+    [
+      "Mohammed Suweysi",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Mohammed Suweysi",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Mohammed Suweysi",
+      "Supreme Security Committee",
+      "head_of"
+    ],
+    [
+      "Mohammed Suweysi",
+      "Supreme Security Committee",
+      "member_of"
+    ],
+    [
+      "Khaled Mohamed",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Khaled Mohamed",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Benghazi",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Benghazi",
+      "Libyan",
+      "in0-x"
+    ]
+  ]
+}

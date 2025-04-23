@@ -1,0 +1,80 @@
+{
+  "content": "Rolf-Dieter Heuer, Director General of CERN\nPhysicist Rolf-Dieter Heuer is searching for \"what holds the world together at its center\" -- as he once described his passion for research in an interview.\nAs Director General of the European Organization for Nuclear Research CERN near Geneva, the 66-year-old has the best equipment to do just that: a 27-kilometer-long particle acclerator. With it, CERN is seeking the Higgs boson or Higgs particle, which is postulated as the last undiscovered building block of subatomic matter. On \"Talking Germany\", moderator Peter Craven explores the world of particle physics with Rolf-Dieter Heuer. Rolf-Dieter Heuer took on his post as director general at CERN in 2009, when the Swiss-based laboratory was going through a difficult phase. The Large Hadron Collider particle accelerator had broken down shortly after it going online for the first time. The financial crisis was also putting pressure on the budget at the time. Heuer, who describes himself as an incurable optimist, steered CERN successfully through its difficulties. He was born in Boll in the state of Baden-Württemberg in 1948. His gift for physics attracted notice while he was still at school. He went on to study physics in Stuttgart and got his doctorate in 1977 in Heidelberg. He worked at various institutes in Germany and taught at the University of Hamburg, concentrating on basic research in the field of physics. Although his current position at CERN is more managerial and he himself is not engaged in research there, he sees it as a high point in his career. Rolf-Dieter Heuer lives with his wife in a French town near the border to Switzerland. (First broadcast on 25.03.2013)",
+  "relations": [
+    [
+      "Rolf-Dieter Heuer",
+      "European Organization for Nuclear Research",
+      "head_of"
+    ],
+    [
+      "Rolf-Dieter Heuer",
+      "European Organization for Nuclear Research",
+      "member_of"
+    ],
+    [
+      "Rolf-Dieter Heuer",
+      "University of Hamburg",
+      "member_of"
+    ],
+    [
+      "European Organization for Nuclear Research",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "European Organization for Nuclear Research",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "European Organization for Nuclear Research",
+      "Geneva",
+      "based_in2"
+    ],
+    [
+      "Geneva",
+      "Switzerland",
+      "in0"
+    ],
+    [
+      "Geneva",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Peter Craven",
+      "Talking Germany",
+      "member_of"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ],
+    [
+      "Boll",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Baden-Württemberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Stuttgart",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Heidelberg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "University of Hamburg",
+      "Germany",
+      "based_in0"
+    ]
+  ]
+}

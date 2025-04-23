@@ -1,0 +1,75 @@
+{
+  "content": "Germany aims to make 2006 World Cup “Green”\nGermany's World Cup organizing committee has launched a \"Green Goal\" campaign that promises to make the 2006 soccer championships the most environmentally friendly sporting event ever.\nAt a press conference in Frankfurt on Monday, former national team captain and president of Germany’s World Cup organizing committee Franz Beckenbauer and German Environment Minister Jürgen Trittin unveiled their vision for a tournament with little negative impact on the environment. \"The whole world will be watching Germany during the World Cup, so we also want to be a role model for the environment,\" said Beckenbauer, adding the effort will promote environmental management in four key areas: water, refuse, energy and transportation. \"Green Goal - the path to a sustainable 2006 FIFA World Cup\" will be backed by the German government, soccer's world governing body FIFA and members of the German business community. The organizers of the World Cup in Germany have set aside €300,000 ($326,900) for ecological investment; a figure matched by a government sponsored environmental foundation. \"I congratulate the organizing committee on its decision to meet a wide range of environmental concerns with its 'Green Goal' initiative,” said Trittin. “This is an example of teamwork and tactics at its best. We will set new standards in the environmental sphere via a series of concrete measures.\" Water demand will be immense Resources will be under pressure to deal with demands for drinking water, utilities and irrigation, as fans from the 32 participating countries flock to Germany for the month-long competition. The stadiums used for matches will require alone approximately 42,000 cubic meters of water. Concrete measures designed to deal with this demand include increasing the proportion of water reserves derived from rain. Organizers intend for ecological sources to provide 20 percent of total water used at the tournament. Plans are also in place concerning the regular maintenance of appliances and pipe work to make the water delivery system more efficient. Refuse from food and drink sales is a problem for any major event. With visitors to the 2006 World Cup expected to number in the hundreds of thousands, the \"Green Goal\" operation considers the potential trash problem as top priority. As a result, spectators can expect to use reusable cups and china or plastic dishes rather than throwaway paper plates. This will be strongly enforced at every stadium involved in the tournament scheduled to begin on June 9, 2006. The \"Green Goal\" initiative also hopes to reduce the current energy consumption at the stadiums by 20 percent during the tournament by exploiting energy-saving potential. EnBW AG, one of three 2006 FIFA World Cup official energy suppliers, will supply electricity derived from renewable sources. Tougher targets In a statement, Germany's environment ministry stressed the importance of setting specified targets for water and energy use: \"These are more stringent than usual because, unlike the Olympic Games, the event will be spread across 12 cities in Germany and will generally have to rely on stadiums which already exist.\" In a bid to cut down on the effects of pollution from the exhaust fumes of cars and private vehicles making their way to the venues, the organizers are pushing an efficient and regular public transport network in the cities hosting games throughout the tournament. The target is that at least half of all visitors should arrive at the matches via public transport, compared with a current average of 40 percent for German first division soccer games. Despite the controls outlined by organizers, the 2006 World Cup is still likely to generate an estimated 100,000 tons of greenhouse gas emissions in Germany. In an attempt to address the most demanding goal of reducing negative effects on the global climate, these emissions will be balanced by investment in environmental protection in other areas.",
+  "relations": [
+    [
+      "Franz Beckenbauer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Franz Beckenbauer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Franz Beckenbauer",
+      "2006 FIFA World Cup",
+      "head_of"
+    ],
+    [
+      "Franz Beckenbauer",
+      "2006 FIFA World Cup",
+      "member_of"
+    ],
+    [
+      "Jürgen Trittin",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Jürgen Trittin",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jürgen Trittin",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jürgen Trittin",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Jürgen Trittin",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "EnBW AG",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "EnBW AG",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

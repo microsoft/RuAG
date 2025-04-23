@@ -1,0 +1,50 @@
+{
+  "content": "Online betting firms say they discourage soccer match-fixing\nAs football authorities try to fight the worst scandal ever to hit the sport, gaming operators are coming under scrutiny. But as Deutsche Welle discovered, they could help prevent games from being thrown.\nProsecutors in the German city of Bochum certainly have enough to investigate - 200 manipulated matches in nine countries, the Champions League and possibly World Cup qualifiers. Players, referees and even hotel chefs are thought to be involved. The scandal is being called the biggest ever in football, and it comes just four years after German football was rocked by revelations that referee Robert Hoyzer had helped fix professional matches. Against this backdrop, some representatives of state gaming operators have criticized the dramatic growth of the online gambling industry, blaming it for persistent corruption in the sport. Not surprisingly, Internet betting firms disagree with that view. After the Hoyzer scandal, leading gaming operators banded together to form a watchdog, the European Sports Security Association, or ESSA. Industry representatives say the measures taken helped prevent abuses. When the German authorities started to investigate the Hoyzer scandal in 2005, they went to the largest operator at the time, bwin, and asked them how much money they lost,\" ESSA Secretary General Khalid Ali told Deutsche Welle. \"Actually, bwin didn't lose anything. And the reason was that they were online so everything was fully traceable,\" he said, adding that the strict security procedures in place prevented people from coming online and placing large amounts of money on games - in particular on minor games in lower divisions. A spokesman for the large online betting platform Interwetten reaffirmed that assessment. \"We have suffered in the past due to manipulated results, but we haven't been hurt at all by the current scandal,\" Interwetten Sponsoring and Public Relations Manager Michael Summer said. \"That's because we have a risk management system that can block attempts at cheating at an early stages.\" Both Ali and Summer point out that online bookmakers are among those with the most to lose from match-fixing and, conversely, the biggest interest in uncovering instances of cheating. So can football's governing bodies and law-enforcement authorities actually learn from the Internet bookies? Transparency through technology For some people, online gambling is a marriage of something inherently dubious with something inherently seedy, but industry representatives say that impression is wrong. Both ESSA and individual Internet bookmakers monitor the flow of bets. If unusual amounts of money are wagered on a given result, the odds are immediately lowered. In extreme cases, bets are cancelled and football authorities notified about the irregularities. Computer technology increases the transparency. \"All of our customers are identifiable and can't get away with using pseudonyms and false identities more than once or twice,\" Summer said. \"That makes Internet gaming operators far more secure than traditional betting shops.\" Online bookmakers are particularly cautious with games in obscure leagues and lower divisions, where most, if not all, of the current match fixing seems to have taken place. \"People think you can just go online and start betting a lot of money,\" Ali said. \"That's not the case. It might be if you wanted to bet on the Champions League, the Premier League or the Bundesliga first division, but if you go down the leagues, the amount of money you can bet is very limited. In some cases you'd be lucky to be able to put even 50 euros on a match.\" The same, Ali says, is true of so-called provisional bets - for instance, who will pick up a game's first foul or corner kick. The industry asserts that the importance of such wagers, much criticized of late, has been blown out of proportion. \"Provisional or in-play wagers aren't part of the problem at all,\" Summer said. \"These are usually bets on 50-50 outcomes with very low odds and very low limits on the amounts that can be wagered.\" So if match fixers aren't making their ill-gotten gains from Internet bookmakers, how is the money being earned? The real bad guys \"One of the first questions I'd be asking is: Where exactly have these bets been placed?\" Ali said. \"Once UEFA had released the names of the teams involved in the Champions League and Europe League games, we went to our members and did a retroactive search on this. And none of our members found anything suspicious. That's not to say the matches weren't fixed, but it shows that the criminals who were behind this are not putting their bets with the responsible online operators.\" Instead, say industry representatives, the trail leads to Asia and Eastern Europe, where gambling is usually illegal and controlled by the local mafia. That assertion is backed up by research done by British journalist Declan Hill, whose 2008 book \"The Fix\" predicted that the football world was on the verge of a major scandal. \"In Asia, the gambling market is enormous - bigger than Las Vegas and the European bookmakers combined,\" Hill told The New York Times in a recent interview. \"It's huge and most of it is illegal. It's easier to hide a fraud inside a covert, criminal industry.\" Online gaming operators do say more attention needs to be paid to betting exchanges, in which individual gamblers conclude bets with one another. And they say more effective use needs to be made of the information they provide to law-enforcement authorities and football governing bodies. \"Abuses need to be pursued more vigorously,\" Summer said. \"For example, after the Hoyzer affair, we passed on data we had collected to the German Football League, the DFL. But for whatever reason, some of the people behind that match-fixing scandal are the same ones involved in the latest affair. There was a lack of follow-up.\" Most observers are confident that investigators in Bochum are doing a good job trying to shed light on the current scandal. But improved cooperation between law enforcers, football organizations and legitimate bookmakers would help them in their attempt to eradicate match-fixing. Author: Jefferson Chase Editor: Kyle James",
+  "relations": [
+    [
+      "Khalid Ali",
+      "European Sports Security Association",
+      "head_of"
+    ],
+    [
+      "Khalid Ali",
+      "European Sports Security Association",
+      "member_of"
+    ],
+    [
+      "Michael Summer",
+      "Interwetten",
+      "head_of"
+    ],
+    [
+      "Michael Summer",
+      "Interwetten",
+      "member_of"
+    ],
+    [
+      "Declan Hill",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "German Football League",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bochum",
+      "German",
+      "in0-x"
+    ],
+    [
+      "The Fix",
+      "Declan Hill",
+      "created_by"
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "content": "Lake Constance – a voyage of discovery\nSailing, swimming and cycling while admiring the Alps in the distance, or checking out the historic locations along the water’s edge: Lake Constance, crossed by the German, Austrian and Swiss borders, has it all.\nIt has great appeal to both culture vultures and vacationers looking for some rest and relaxation. Constanceis great for history buffs. It’s the largest town on the lake of the same name, and is famous for hosting the 15th-century church council that ended the Papal Schism. The actual site where the new pope was elected can still be seen. Then there are the Romanesque churches on Reichenau Island, a UNESCO World Heritage Site. Nature lovers will also enjoy the island of Mainau, whose parks and gardens boast over a million flowers in the summer. It’s also the site of a palace still is use as a residence. Those who want a bit more action can go cycling or sailing. The town of Wasserburg has a rather special boat to rent: the steamship Felicitas. Other sites well worth on the peninsula include the former court building with its gruesome history. As everywhere in this area, there are no shortage of options for rest and relaxation.",
+  "relations": [
+    [
+      "Lake Constance",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Lake Constance",
+      "Austrian",
+      "in0-x"
+    ],
+    [
+      "Lake Constance",
+      "Swiss",
+      "in0-x"
+    ],
+    [
+      "Wasserburg",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

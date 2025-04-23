@@ -1,0 +1,135 @@
+{
+  "content": "German Reality Shows in Need of Reality Check\nReality shows are increasingly attracting the ire of critics -- some who object to the way animals are treated on a new farm docu-soap, and others who worry about the effects such shows have on the human participants.\n\"Die Alm\" or \"The Alps,\" is a sort of alpine-reality-docu-soap, in which a slew of German B-list celebrities gets down and dirty with everyday life on an alpine farm. Of course, no alpine pasture would be complete without real live farm animals, which provide the celebs with countless opportunities to boost ratings by engaging in gross-out stunts such as having goats lick syrup off their bodies, or sucking milk from a cow's udder. But the last straw for German animal activists came when a recent episode showed a turkey being slaughtered. Now, the German Society for the Protection of Animals (DTB) says it's looking at taking legal steps against the show, which runs on Munich-based private broadcaster, ProSieben. \"We don't care if third-rate celebrities bathe in manure or throw themselves naked down a hillside,\" said DTB head Thomas Schröder. \"But animals can't say yes or no. The show has overstepped the legal and ethical boundaries.\" ProSieben is nonplussed but intends to continue airing the show as planned. Tuesday evening's episode includes showing the candidates how to empty the intestines of a freshly slaughtered pig, for later use as sausage casings. The executive in charge of the show, Christian Asanger, has even invited members of the animal society out to the mountain pasture. \"We have nothing to hide,\" he said. Makeover-shows also a target In a world where there's no such thing as bad publicity, experts say such protests are a welcome additional marketing strategy for the shows, which thrive on high ratings and advertising revenue. If that's true, then other German reality TV shows which feature plastic surgery and makeovers instead of farm animals can also expect a ratings boost. Cologne-based private broadcaster RTL II whipped up a storm of protest last week when it announced it would let candidates participating in its \"Big Brother\" reality show undergo cosmetic surgery. The German Association of Plastic Surgeons (VDÄPC) objected, not just to \"Big Brother,\" but also to other makeover reality shows that recently hit the German airwaves. In MTV's \"I Want a Famous Face,\" teens put themselves at the mercy of plastic surgeons in order to wake up looking like stars such as Brad Pitt or Kate Winslet. ProSieben's \"The Swan\" is a reality TV-show format imported from the US, in which ugly ducklings are turned into…well, swans, with the help of plastic surgeons, fitness trainers, nutritionists and psychologists. The most beautiful \"swan\" to emerge out of the 16 candidates wins a modeling contract. Don't blame plastic surgeons These shows are giving plastic surgery a bad name, according to the VDÄPC. \"What we do is medical work. We treat patients. We don't sell the product 'beauty',\" said the association's senior president, Constanze Neuhann-Lorenz. In a letter sent to the association's 120 members, president Rolf Rüdiger Olbrisch wrote: \"Let's protect ourselves from landing in the wrong hands and wrong publicity, of the wrong business.\" Germany's media regulatory board said certain boundaries have to be respected, even in an industry that's all about erasing the boundaries between private and public life. \"Showing plastic surgery can hurt the dignity of a human being, even if the person having the surgery doesn't have a problem with it,\" said the head of the director's conference for Germany's state media boards, Wolfgang Thaenert. \"Basically, it's about respecting the final boundaries that touch on human dignity.\"",
+  "relations": [
+    [
+      "German Society for the Protection of Animals",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Society for the Protection of Animals",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "ProSieben",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ProSieben",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "ProSieben",
+      "Munich",
+      "based_in2"
+    ],
+    [
+      "German Association of Plastic Surgeons",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Association of Plastic Surgeons",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Thomas Schröder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thomas Schröder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas Schröder",
+      "German Society for the Protection of Animals",
+      "head_of"
+    ],
+    [
+      "Thomas Schröder",
+      "German Society for the Protection of Animals",
+      "member_of"
+    ],
+    [
+      "Christian Asanger",
+      "ProSieben",
+      "member_of"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "RTL II",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "RTL II",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "RTL II",
+      "Cologne",
+      "based_in2"
+    ],
+    [
+      "I Want a Famous Face",
+      "MTV",
+      "product_of"
+    ],
+    [
+      "The Swan",
+      "ProSieben",
+      "product_of"
+    ],
+    [
+      "Constanze Neuhann-Lorenz",
+      "German Association of Plastic Surgeons",
+      "head_of"
+    ],
+    [
+      "Constanze Neuhann-Lorenz",
+      "German Association of Plastic Surgeons",
+      "member_of"
+    ],
+    [
+      "Rolf Rüdiger Olbrisch",
+      "German Association of Plastic Surgeons",
+      "head_of"
+    ],
+    [
+      "Rolf Rüdiger Olbrisch",
+      "German Association of Plastic Surgeons",
+      "member_of"
+    ]
+  ]
+}

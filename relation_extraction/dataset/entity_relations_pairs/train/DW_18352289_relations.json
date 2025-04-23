@@ -1,0 +1,110 @@
+{
+  "content": "Nigeria analyst predicts security revamp after Buhari victory\nAs the vote count progressed in Nigeria on Tuesday, victory by former military ruler Muhammadu Buhari looked increasingly certain. To find out about the implications of this, DW spoke to analyst Manji Cheto.\nDW: How do you think Nigeria is likely to change under Muhammadu Buhari? Manji Cheto: Nobody has a definitive answer as to what his government could be like but there are clearly important clues that we could take from his previous two and a half year stint as military leader. I think the most symbolic thing about his victory is that he has a reputation as one of the most incorruptible leaders in Nigeria. In a country where that reputation is not believed to exist for people occupying a senior position, that is quite significant. Now it is left to be seen whether or not that is going to have a positive impact on his government and the people who take on the positions in his government. Again, if you look at what is happening with Nigeria's key economic indices – Nigerian stock, Nigerian bond yields – a lot of those things have decelerated quite rapidly and I think that is a reflection of waning investor confidence in the country. With Nigeria now demonstrating to the world that it is capable of changing a government and [bringing in] a guy who has a positive reputation, that is quite significant. That investor boost could actually see more money being pumped into the Nigerian economy. Do you see any immediate change forthcoming in the way Nigeria is handling the Boko Haram insurgency? I don't think so. I think one of the things we can definitely expect before we talk about a change of strategy is a change in security personnel. Buhari having been a military leader, he understands Nigeria's military, its weaknesses and strengths, and he is certainly going to want to have people who he can trust and who he can work with. So I think the most immediate change we are going to see is a change in the security apparatus. Buhari is a former military ruler, as you said, but he says he is now a ‘converted democrat.' How much doubt is there in Nigeria about his commitment to democratic governance? You're going to get a fifty-fifty doubt. There are people who are going to be incredibly cynical. That is one of the key challenges that he has, reconciling with the people who feel aggrieved by Jonathan's exit from office. So, yes, I think at the moment there is a fair bit of cynicism on that front. Nigeria is divided into a mainly Muslim north and a mainly Christian south. As a Muslim from the north, will Buhari be able to unite the country behind him? The Muslim north and Christian south dichotomy is far more complex than that. If you look at the south, particularly the southwest, there is a considerable number of Muslims there. And Buhari has allied himself with the southwest where people are Muslims who identify with the Islamic faith, but they don't actively practice Islam. So I think it is far more complex and I think a lot of Nigerians will start to look beyond that to see if he can demonstrate himself to be a true Nigerian president, as opposed to a northern president. I think the fact that he is aligned with the southwest is a key positive development in that respect. What about Nigeria's relations with its neighbors? Do you see this changing under a President Buhari? I don't think that is going to be a priority for the new government. I think the priority will certainly be dealing with the internal challenges and some of the military weaknesses. Once that is addressed I think the relationship with neighbors, which has been a bit tense in recent times over security, will start to improve. The elections are not over. There are gubernatorial and state assembly polls on April 11. How do you see them playing out in the wake of Buhari's victory? The presidential election has been tightly contested so I expect the same to happen. There are obviously going to be a number of key flashpoints. Key battlegrounds will include places like the economically powerful Lagos and Rivers State which is the largest oil producing state. The outcome of those elections is quite significant for whether we can look at the broader electoral process and judge it to be free and fair and quite credible. Manji Cheto is the vice president of Teneo Intelligence, a risk analysis organization in London Interview: Asumpta Lattus",
+  "relations": [
+    [
+      "Muhammadu Buhari",
+      "Nigeria",
+      "agent_of"
+    ],
+    [
+      "Muhammadu Buhari",
+      "Nigeria",
+      "citizen_of"
+    ],
+    [
+      "Muhammadu Buhari",
+      "Nigerian",
+      "citizen_of-x"
+    ],
+    [
+      "Muhammadu Buhari",
+      "Nigerians",
+      "citizen_of-x"
+    ],
+    [
+      "Muhammadu Buhari",
+      "Nigeria",
+      "head_of_state"
+    ],
+    [
+      "Muhammadu Buhari",
+      "Nigerian",
+      "head_of_state-x"
+    ],
+    [
+      "Muhammadu Buhari",
+      "Nigerians",
+      "head_of_state-x"
+    ],
+    [
+      "Manji Cheto",
+      "Teneo Intelligence",
+      "head_of"
+    ],
+    [
+      "Manji Cheto",
+      "Teneo Intelligence",
+      "member_of"
+    ],
+    [
+      "Nigerian",
+      "Nigeria",
+      "gpe0"
+    ],
+    [
+      "Boko Haram",
+      "Nigeria",
+      "based_in0"
+    ],
+    [
+      "Boko Haram",
+      "Nigerian",
+      "based_in0-x"
+    ],
+    [
+      "Boko Haram",
+      "Nigerians",
+      "based_in0-x"
+    ],
+    [
+      "Nigerians",
+      "Nigeria",
+      "gpe0"
+    ],
+    [
+      "Lagos",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Lagos",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Lagos",
+      "Nigerians",
+      "in0-x"
+    ],
+    [
+      "Rivers State",
+      "Nigeria",
+      "in0"
+    ],
+    [
+      "Rivers State",
+      "Nigerian",
+      "in0-x"
+    ],
+    [
+      "Rivers State",
+      "Nigerians",
+      "in0-x"
+    ],
+    [
+      "Teneo Intelligence",
+      "London",
+      "based_in2"
+    ]
+  ]
+}

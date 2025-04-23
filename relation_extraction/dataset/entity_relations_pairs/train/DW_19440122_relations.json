@@ -1,0 +1,170 @@
+{
+  "content": "Muslims in France, Italy join Catholic mass to mourn French priest\nMuslims in France have attended Catholic mass in churches and cathedrals across the country in a show of solidarity following the gruesome murder of a French priest. Interfaith services were also held in Italy.\nDozens of Muslims were among the faithful who packed into the Gothic cathedral in the town of Rouen, northern France, on Sunday. Policemen and soldiers stood guard outside, seeking to reassure a jittery community five days after two jihadi teenagers killed an 85-year-old priest inside a church just a few kilometers away in Saint-Etienne-du-Rouvray. \"This morning we extend a special welcome to our Muslim friends,\" Rouen Archbishop Dominique Lebrun said in his homily. \"I thank you in the name of all Christians. In this way you are affirming that you reject death and violence in the name of God.\" A number of Muslim leaders attended the service, along with three nuns who were at the church in Saint-Etienne-du-Rouvray when Father Jacques Hamel was brutally murdered at the altar. The killing gave rise to questions about lapses in security after it was reported that both 19-year-old offenders were known to authorities and had attempted to reach Syria. There were also fears the attack could create possible tensions between the religions and add to divisions in French society. French Prime Minister Manuel Valls on Sunday called for a new \"pact\" with the country's 5 million Muslims, which make up the largest Muslim population in Europe. \"Islam has found its place in France... contrary to the repeated attacks of populists on the right and far-right,\" he said, calling for the rejection of Islam to be combatted \"with the greatest strength.\" Churches in other French cities also opened their doors to Muslims on Sunday. Dalil Boubakeur, the rector of the Mosque of Paris, was among those who attended a service in the capital's iconic Notre Dame cathedral. \"The situation is serious,\" he told broadcaster BFMTV. \"Time has come to come together so as not to be divided.\" Multifaith services were held across Italy too, notably at Rome's Santa Maria di Trastevere church. In Naples, Abdullah Cozzolino from Italy's Islamic Confederation spoke in the Treasure of St. Gennaro chapel next to the Duomo cathedral, stressing the \"need of dialogue, more affirmation of shared values of peace, of solidarity, of love, out of respect for our one God, merciful and compassionate.\" nm/ rc(AP, AFP)",
+  "relations": [
+    [
+      "Saint-Etienne-du-Rouvray",
+      "France",
+      "in0"
+    ],
+    [
+      "Saint-Etienne-du-Rouvray",
+      "French",
+      "in0-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Rouen",
+      "France",
+      "in0"
+    ],
+    [
+      "Rouen",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Dominique Lebrun",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Dominique Lebrun",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Jacques Hamel",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Jacques Hamel",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Manuel Valls",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "head_of_gov"
+    ],
+    [
+      "Manuel Valls",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "Dalil Boubakeur",
+      "Mosque of Paris",
+      "head_of"
+    ],
+    [
+      "Dalil Boubakeur",
+      "Mosque of Paris",
+      "member_of"
+    ],
+    [
+      "Mosque of Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Mosque of Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Notre Dame",
+      "France",
+      "in0"
+    ],
+    [
+      "Notre Dame",
+      "French",
+      "in0-x"
+    ],
+    [
+      "BFMTV",
+      "France",
+      "based_in0"
+    ],
+    [
+      "BFMTV",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Rome",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Santa Maria di Trastevere",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Santa Maria di Trastevere",
+      "Rome",
+      "in2"
+    ],
+    [
+      "Naples",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Abdullah Cozzolino",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Abdullah Cozzolino",
+      "Islamic Confederation",
+      "member_of"
+    ],
+    [
+      "Islamic Confederation",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Treasure of St. Gennaro",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Treasure of St. Gennaro",
+      "Naples",
+      "in2"
+    ],
+    [
+      "Duomo",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Duomo",
+      "Naples",
+      "in2"
+    ]
+  ]
+}

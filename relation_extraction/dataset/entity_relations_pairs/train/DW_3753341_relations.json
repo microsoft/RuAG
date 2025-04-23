@@ -1,0 +1,30 @@
+{
+  "content": "Brussels Approves Financial Rescue Plans by Sweden, Portugal\nThe European Commission on Thursday approved packages by Sweden and Portugal to protect financial institutions from the global credit crunch.\nIn both cases, Europe's top state aid watchdog said that the plans respected its guidelines for helping the financial sector cope with the worst crisis in generations without distorting competition. Sweden's plan involves the state providing up to 1,500 billion Swedish kronor (153.8 billion euros, $201 billion) in debt guarantees to banks and other lenders. Portugal's plan envisages similar state guarantees worth 20 billion euros ($26 billion). Plans must follow strict guidelines But while Sweden's was cleared within just three days of it being notified to the commission, the Portuguese plan required negotiations with officials in Brussels over a two-week period. \"The Swedish measures were well-designed and needed little alteration to take full account of the state aid rules' requirements that such schemes are non-discriminatory and minimize potential distortions of competition,\" said Competition Commissioner Neelie Kroes. The commission has issued clear guidelines on what governments can and cannot do to protect their countries' financial institutions. Rescue plans have to be limited in time and scope and they should not discriminate against foreign banks operating in the country. They should also be followed up by structural adjustment measures for the financial sector as a whole, while state money should not be used by beneficiaries to attract new business. The commission has already cleared similar rescue plans by Britain, Denmark, Germany and Ireland and is still considering those of, among others, France and Spain.",
+  "relations": [
+    [
+      "European Commission",
+      "Brussels",
+      "based_in2"
+    ],
+    [
+      "Portuguese",
+      "Portugal",
+      "gpe0"
+    ],
+    [
+      "Swedish",
+      "Sweden",
+      "gpe0"
+    ],
+    [
+      "Neelie Kroes",
+      "European Commission",
+      "head_of"
+    ],
+    [
+      "Neelie Kroes",
+      "European Commission",
+      "member_of"
+    ]
+  ]
+}

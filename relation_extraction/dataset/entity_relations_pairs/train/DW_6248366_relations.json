@@ -1,0 +1,85 @@
+{
+  "content": "Water Festival kicks off in Phnom Penh\nPhnom Penh has launched its annual Water Festival, the biggest event of the year and at least two million people have descended on the Cambodian capital to watch the boat races on the river.\nThe taxis, trucks and minibuses have been rolling into Phnom Penh for days, bringing some two million people into the capital for Cambodia’s biggest event that ends on Tuesday. Among them are the racing crews for more than 400 longboats from across Cambodia, here to compete in a festival that marks a 12th century naval victory. These are not your average canoe: Each one requires up to 70 men or women to paddle. A few carefree days in the capital The attraction of the Water Festival is easy to understand – life in Cambodia’s countryside is difficult, and this holiday represents a rare chance for people to enjoy a few carefree days in the capital. My Seyhang came his team from Kratie province in the remote north-east to take part in his sixth Water Festival. He told me what it would take to win: \"It all depends on the amount of practice, and we have to make the boat go as fast as possible. We need a strong boat with a good spirit so that we will win easily. It's the same with the boxers – if they don't practice enough, they will lose.\" 5,000 sex workers expected But it’s not just crowds and competitors who have come to Phnom Penh - sex workers have also made their way here. The head of one collective expected 5,000 prostitutes to turn up since they can earn 100 dollars a day during the festival, five times more than they normally make. While the authorities promised to arrest sex workers, teams from organizations such as WorldVision were distributing condoms and advice to competitors. WorldVision’s Ruah Saran said that although most competitors were embarrassed to discuss the subject, \"some men are happy because our message is: 'Don’t forget about HIV if you are in Phnom Penh to enjoy the Water Festival. And don’t take HIV home to your wife.' And that is a message they are happy to hear.\" A practice run down the Tonle Sap River Down on the river a team from Kampong Chhnang province in central Cambodia allowed me on to their canoe for a practice run down Phnom Penh's Tonle Sap. Team boss Rong Chhun sounded confident: \"This year, I personally selected all the men on the team – they are all very, very strong. I removed the weaker men, because they have not enough strength and they look thin so we let them rest. I found very strong paddlers, so I hope we will win.\" While the 40 men line the gunwales and churn up a spray, I lay as low as possible in the canoe avoiding the oar handles that are rowing back and forth just above my head. Under human power we sped down the centre of the river, which is about 400 meters wide here. It took about three minutes to cover the course. The team gave it a final burst as we come up to the finishing line – the Royal Palace. It seemed to me that they were in with a very good chance. Author: Robert Carmichael (Phnom Penh) Editor: Anne Thomas",
+  "relations": [
+    [
+      "Phnom Penh",
+      "Cambodia",
+      "in0"
+    ],
+    [
+      "Phnom Penh",
+      "Cambodian",
+      "in0-x"
+    ],
+    [
+      "Water Festival",
+      "Cambodia",
+      "event_in0"
+    ],
+    [
+      "Water Festival",
+      "Phnom Penh",
+      "event_in2"
+    ],
+    [
+      "Cambodian",
+      "Cambodia",
+      "gpe0"
+    ],
+    [
+      "My Seyhang",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "My Seyhang",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Kratie",
+      "Cambodia",
+      "in0"
+    ],
+    [
+      "Kratie",
+      "Cambodian",
+      "in0-x"
+    ],
+    [
+      "Ruah Saran",
+      "WorldVision",
+      "member_of"
+    ],
+    [
+      "Kampong Chhnang",
+      "Cambodia",
+      "in0"
+    ],
+    [
+      "Kampong Chhnang",
+      "Cambodian",
+      "in0-x"
+    ],
+    [
+      "Rong Chhun",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Rong Chhun",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Royal Palace",
+      "Cambodia",
+      "in0"
+    ],
+    [
+      "Royal Palace",
+      "Cambodian",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "content": "Will Manchester change after the attack?\nAs people in Manchester woke up to a \"critical\" terror threat level and the prospect of soldiers on the streets, Lars Bevanger reflects on what the terror attack might mean for the city’s cohesion and sense of optimism. \nIn the 11 years I have lived in Manchester, the city has grown steadily more prosperous, international and safe. Parts of the city which were no-go areas are turning into bustling multi-cultural communities. Concerted efforts from the city's police to work with local community leaders have thwarted serious gang and gun crime, while the city's large student population keeps Manchester feeling fresh, vibrant and new. The city has seen some of the best economic growth in all of the UK, and this has continued in the face of the uncertainties linked to the prospect of Brexit too. I have witnessed the city grow into a European business and cultural hub. Read more: Manchester resilient in the face of terrorism Manchester spirit An ingrained sense of togetherness shared by nearly all those living here has helped all this happen. As thousands of people gathered on Monday evening for a vigil to mourn those killed and injured in the terror attack, you could both sense and hear that Manchester spirit. \"Mancunians and Manchester has always been a city based on people standing together, and not being divided,\" Mark Beatty told me as he prepared to listen to the words of the Manchester mayor and others addressing the crowds. \"And we will not allow terrorism to divide us. That's why we brought our three children with us today.\" Changing things for the better Mark Beatty had brought his three young daughters of primary school age - like so many of those attending the Ariana Grande concert the evening before had been. I sensed he wanted to show them what this city was made of. Abid Hussein had also made his way to the vigil along with a group of friends, and expressed the same hopes as so many of those gathered around him. \"I'm hoping that this will change things for the better, I'm hoping that this will bring the citizens of Manchester together whether they be black, white, yellow, whether they be Jew, Christian Muslim, Hindu or Sikh.\" On edge But even though the center of Manchester felt like it was bouncing back to a sense of normality that evening, with people spilling out onto the pavements of pubs and bars in the warm May sunshine, there was clearly an edge to it all. Armed police gave a sense of increased safety, but were also a reminder of what had happened, and what might still happen. A few hours earlier I got caught up in the frantic evacuation of the Arndale Center - a huge, sprawling shopping mall in the city center. People panicked when police moved in to arrest a man on matters unrelated to the terror attack, and started running for the exits. I ran with them, suddenly feeling utterly helpless, scared and angry that this is what people in this and so many other European cities have now come to expect. Read more: Britain's PM Theresa May condemns 'worst of humanity' Standing together With the immediate aftermath of the 2011 Oslo and Utøya terror attacks in mind, I had spent the morning carefully avoiding drawing any conclusions of Islamist terror being behind the attack on people inside the Manchester Arena. Then the \"Islamic State\" (IS) group claimed responsibility. Soon after the identity of the bomber became known - a Manchester-born British citizen and son of Libyans who fled Moammar Gadhafi in the 1980s. What now for Manchester's sizeable Muslim population? Would there be a backlash, as has been seen elsewhere in Western cities in the aftermath of IS-claimed terror? \"I stand before you on behalf of the entire Old Trafford Muslim society,\" Imam Yusuf Chunara from the Old Trafford Jame'ah E Noor mosque told me outside Manchester Town Hall. He, and many others from a range of different faiths, had come to stand together against the terror which had struck their city. \"It's terrifying, it's horrible, that someone would want to do something like this to innocent people just enjoying themselves. These acts are highly against Islam and we highly condemn it,\" he said. Few point finger at Islam \"Everyone's got this fear inside. We teach and promote peace, it's a matter of humanity. And we're also here to show our support to the police and all those people who have helped those who have been affected,\" said Chunara. Manchester's Muslim population is diverse, and to generalize about a group of people based on their religion feels senseless - no less so as a reaction to a heinous act carried out by someone purporting to belong to that same religion. Yet there will always be those pointing a finger at Islam in the aftermath of terrorism performed by people who say they do it in the name of that religion. Read more: Madrid to Manchester: A chronology of terror in Europe Responsibility rests with the criminal Two days after the attack it looks as if Manchester is dusting itself off, getting ready to move on. Questions still remain around how a young individual could be radicalized to the extent of deciding to attack children and young people in the very city he himself grew up in. As people kept bringing flowers to the square in front of Town Hall on Wednesday, the consensus seemed to be that the responsibility for his actions were his and those of any fellow perpetrators, and cannot be laid on the shoulders of any one community. Meanwhile, for me and for my fellow Mancunians, the saddest thing today is the realization that for the children growing up here today, such a senseless attack is something they can expect to happen again.",
+  "relations": [
+    [
+      "Manchester",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Manchester",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Yusuf Chunara",
+      "Old Trafford Jame'ah E Noor",
+      "head_of"
+    ],
+    [
+      "Yusuf Chunara",
+      "Old Trafford Jame'ah E Noor",
+      "member_of"
+    ],
+    [
+      "Manchester Town Hall",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Manchester Town Hall",
+      "Manchester",
+      "in2"
+    ],
+    [
+      "Lars Bevanger",
+      "Manchester",
+      "citizen_of"
+    ],
+    [
+      "Mancunians",
+      "Manchester",
+      "gpe2"
+    ],
+    [
+      "Mark Beatty",
+      "Manchester",
+      "citizen_of"
+    ],
+    [
+      "Abid Hussein",
+      "Manchester",
+      "citizen_of"
+    ],
+    [
+      "Arndale Center",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Arndale Center",
+      "Manchester",
+      "in2"
+    ],
+    [
+      "Theresa May",
+      "Britain",
+      "agent_of"
+    ],
+    [
+      "Theresa May",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Theresa May",
+      "Britain",
+      "head_of_gov"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Manchester Arena",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Manchester Arena",
+      "Manchester",
+      "in2"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libyans",
+      "citizen_of-x"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libyans",
+      "head_of_state-x"
+    ],
+    [
+      "Old Trafford",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Old Trafford",
+      "Manchester",
+      "in2"
+    ],
+    [
+      "Old Trafford Jame'ah E Noor",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Old Trafford Jame'ah E Noor",
+      "British",
+      "in0-x"
+    ]
+  ]
+}

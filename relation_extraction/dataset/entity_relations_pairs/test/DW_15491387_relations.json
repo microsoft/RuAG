@@ -1,0 +1,55 @@
+{
+  "content": "'The term Islamist doesn't mean anything anymore'\nNot since 1989 has a whole region undergone democratic revolution, but what are the common denominators in the Arab Spring? DW asked Lebanese lecturer and activist Ziad Majed, and he gave some surprising answers.\nZiad Majed is a lecturer in political science at the American University in Paris. In 2004, he co-founded the Democratic Left Movement and participated in the Lebanese uprising of 2005 against the Syrian occupation of Lebanon. In 2009 he joined the Beirut Spring Forum. Deutsche Welle: We hear a lot about the relatively young age of populations in the countries that have overthrown rulers this year. But your take on that is somewhat different, isn't it? Ziad Majed: The demographic boom that we had in the past was over a few years ago, but the product of this boom is there, and it was young people taking to the streets now. However, the birth rate of this generation is much lower than that of its parents. That means at the age of 25 or 26, when their parents had two or three or four children, they don't have any kids. That makes them more capable of being mobilized. In addition, the fact that the age of marriage, whether for economic reasons or changing values, is becoming higher allowed them to take to the streets. This explains why the revolutions happened now and not five or 10 years ago. But youth still plays a role. You have to realize that people were simply extremely tired of seeing the same old faces in power who ruled when their parents were young. What I could also add is urbanization. That means territorial and social continuity. Young people are no longer isolated in small villages or small towns. The role of global media feeds into that trend, doesn't it? The first thing is satellite media. Anywhere you go in the Arab world, you'll see small dishes or even illegal satellite TV receptors. So direct governmental censorship and control of the media is no longer an issue. Everyone goes to al-Jazeera or al-Arabiya or even Arabophone European stations. Then, Internet penetration is becoming much higher. People can meet in cyber-cafés and discuss what they read. In Egypt, for instance. Khalid Said was a young guy in Alexandria who owned a cyber-café. The police were trying to force him to pay bribes and he refused. He even took pictures with his mobile phone of policemen beating someone. So they kidnapped him, and he was beaten and killed. The anger following his death led to the creation of a facebook page, which was one of the most important sites at the beginning of the revolution. In Syria, what was most important was that every citizen became a reporter. Independent, international media aren't allowed. So the only way for people to cover what's happening is by making mobile-phone images and uploading them to Youtube so the world can witness what's going on. A moderate Islamist party just took the most votes in elections in Tunisia, and the Muslim Brotherhood may emerge as the strongest party in next month's vote in Egypt. How does that square with democracy? The term \"Islamist\" doesn't mean anything anymore. The word arose in the 1980s and 90s to describe the rise of political Islam. Today, there's a whole sprectrum of groups that can be described as Islamist from the Wahabis to the Salafis, the Muslim Brotherhood to Hezbollah and Hamas. All these groups are different and don't agree on a single version of the sharia. The West should understand that under repressive regimes mosques were places of refuge, and that there's a tendency after the fall of a regime to vote for groups representing the victims of that regime. So it's logical that there should be some Islamist parties doing well. But that doesn't mean the same thing it did in the 1980s and 90s, when the movements concentrated on changing regimes by violence or force. For the first time, Islamist movements have achieved power through elections, and that will change them, making them part of the political game. They may win now. But if they don't deliver on problems like unemployment, why would anyone vote for them again? But won't they try to turn back the clock in a lot of ways? They might be very conservative in their mindset, but they cannot impose what they consider to be an Islamization of society. They are not the strongest part of the democratic movement, only the most organized. I'm not scared because I think the Arab Spring is irreversible. People have discovered the power of the street and of mobilization. So if the \"Islamists\" try to impose something on society, what's stopping people from going back out on the street and saying \"We're not happy with this?\" And what can Europe and the West in general do to help ensure that the democratic promise of the Arab Spring becomes a reality? Four things. We need investment that's decentralized so as to bring prosperity to neglected regions and that's guided by a principle of corporate responsibility. We need observers who monitor progress and issue reports on things like women's rights or help train police to act up to Western standards. We need help setting up better electoral systems and reforming the judiciary so that it's independent. And we need help educating people. That's probably most important of all. Interview: Jefferson Chase Editor: Rob Mudge",
+  "relations": [
+    [
+      "Ziad Majed",
+      "Lebanon",
+      "citizen_of"
+    ],
+    [
+      "Ziad Majed",
+      "Lebanese",
+      "citizen_of-x"
+    ],
+    [
+      "Lebanese",
+      "Lebanon",
+      "gpe0"
+    ],
+    [
+      "American University",
+      "Paris",
+      "based_in2"
+    ],
+    [
+      "Democratic Left Movement",
+      "Lebanon",
+      "based_in0"
+    ],
+    [
+      "Democratic Left Movement",
+      "Lebanese",
+      "based_in0-x"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Khalid Said",
+      "Alexandria",
+      "citizen_of"
+    ],
+    [
+      "Alexandria",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Muslim Brotherhood",
+      "Egypt",
+      "based_in0"
+    ]
+  ]
+}

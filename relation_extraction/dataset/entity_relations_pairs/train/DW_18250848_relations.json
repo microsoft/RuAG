@@ -1,0 +1,115 @@
+{
+  "content": "Sydney terror suspects plans revealed\nThe Australian government has released details about the two terror suspects it arrested earlier in the week. The men threatened stabbings and claimed to be operating on behalf of \"Islamic State.\"\nThe two suspected terrorists arrested in Australia on Tuesday were identified on Thursday as Omar Al-Kutobi, 24, and Mohammad Kiad, 25. Besides the knife, machete, and homemade \"Islamic State\" flag seized at their Sydney home, the Australian government also released details of a video in which one of the men threatens to stab the kidney and necks of Australians. After watching the video, Prime Minister Tony Abbott told parliament it depicted a man kneeling before the black flag with a knife saying \"I swear to almighty Allah, we will carry out the first operation for the soldiers of the caliphate in Australia… I swear to you almighty Allah, blond people, there is no room for blame between you and us. We only owe you stabbing the kidneys and striking necks.\" Sydney police said they responded to a tipoff that Kutobi and Kiad were planning to carry out violence on Tuesday when the pair was arrested and charged with intent to launch a terrorist attack. Neither has asked for bail or entered a plea to the charges, which carry a possible life prison sentence. Immigration Minister Peter Dutton responded to reports on Thursday that the men came to Australia as refugees, and perhaps with fake passports. Dutton admitted that one of them may have entered the country with \"some false documentation\" and called for an urgent review of the matter. \"Monstrous extremism\" \"I don't think it would be possible to witness uglier fanaticism than this, monstrous extremism than this, and I regret to say it is now present in our country,\" Prime Minister Abbott said. Whether the two men actually have ties to the IS terrorist group is under investigation. The government believes that at least 70 Australians are fighting with IS in Syria and Iraq, helped by around 100 Australia-based facilitators. In December, Man Monis, an Iran-born self-styled cleric with a criminal record, took 18 people hostage in a downtown Sydney café. Among his demands that he be delivered an \"Islamic State\" flag, though investigators later established he hadn't had any contact with the jihadist group. Last year, Abbott committed Australian aircraft and special forces to assist in the fight against IS in Iraq, introduced tough new laws on foreign militants returning to Australia, and gave security forces enhanced powers. es/jil (AP, Reuters)",
+  "relations": [
+    [
+      "Sydney",
+      "Australia",
+      "in0"
+    ],
+    [
+      "Sydney",
+      "Australian",
+      "in0-x"
+    ],
+    [
+      "Sydney",
+      "Australians",
+      "in0-x"
+    ],
+    [
+      "Islamic State",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Islamic State",
+      "Iraq",
+      "based_in0"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "agent_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Tony Abbott",
+      "Australians",
+      "citizen_of-x"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "head_of_gov"
+    ],
+    [
+      "Tony Abbott",
+      "Australian",
+      "head_of_gov-x"
+    ],
+    [
+      "Tony Abbott",
+      "Australians",
+      "head_of_gov-x"
+    ],
+    [
+      "Peter Dutton",
+      "Australia",
+      "agent_of"
+    ],
+    [
+      "Peter Dutton",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Peter Dutton",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Dutton",
+      "Australians",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Dutton",
+      "Australia",
+      "minister_of"
+    ],
+    [
+      "Peter Dutton",
+      "Australian",
+      "minister_of-x"
+    ],
+    [
+      "Peter Dutton",
+      "Australians",
+      "minister_of-x"
+    ],
+    [
+      "Australian",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Australians",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Man Monis",
+      "Iran",
+      "citizen_of"
+    ]
+  ]
+}

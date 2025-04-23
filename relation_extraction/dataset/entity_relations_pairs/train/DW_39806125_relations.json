@@ -1,0 +1,160 @@
+{
+  "content": "Could migration derail Merkel re-election express?\nAngela Merkel is coming under renewed fire over her refugee policies as Germany's election battleground heats up. Left-wing rival Martin Schulz has added his voice to long-standing criticism from the right.\nFor months, Social Democratic (SPD) candidate Martin Schulz has been trying - and failing - to find an issue to eat away at conservative Chancellor Angela Merkel's popularity. In conversation with the Sunday edition of Germany's Bild newspaper, Schulz took aim at what is perhaps Merkel's Achilles heel: her policy toward migrants from Muslim countries. \"In 2015 more than 1 million refugees came to Germany, mostly without government monitoring,\" Schulz told Bild. \"The chancellor opened our border with Austria for humanitarian reasons but unfortunately without consulting our partners in Europe. If we don't act now, that situation could repeat itself.\" Merkel has promised German voters that there will be no repeat of what happened two years ago when hundreds of thousands of people, many fleeing war-torn Syria, arrived in Germany. Numbers of migrants lessened last year but could well be set to rise again as people try to escape political uncertainty and economic hardship of places like Nigeria and Eritrea via North African countries like Libya. Well over 70,000 migrants made the extremely risky Mediterranean crossing to Italy in the first half of this year, representing an increase over 2016 of more than 25 percent. Italy has asked other EU states for help in dealing with the new arrivals, but it has so far been rebuffed. Schulz, who is set to travel to Italy on Thursday, says the EU commission should pay other member states to take in migrants and accuses Merkel of calculated inaction before Germany's September election. \"Those who play for time and try to ignore the issue until the national election are just being cynical,\" Schulz said. At the height of the refugee crisis in 2015 and early 2016, Merkel and her conservative Christian Democrats (CDU) fell to historic lows in public opinion polls, with more than 80 percent of those asked saying they believed her government didn't have control over the situation. Merkel and her party have since recovered and currently lead Schulz and the SPD by around 15 percentage points in opinion surveys. Merkel, who's currently on vacation and had no public appearances scheduled for Sunday, didn't immediately respond to Schulz's criticism. And perhaps her main problem on the migrant issue is not from the Social Democrats at all. Attacks from other conservatives Although Schulz may have been trying to capitalize on the issue, Merkel, arguably, has no big reason to fear attacks from the left. As the junior coalition partners in her current government, the SPD supported her welcoming policy toward refugees. The greater threat could come from the right, where Merkel is considerably more liberal than the vast majority of conservatives in Germany and the rest of Europe. The larger the number of migrants grows, the greater the pressure to restrict the flow of people from the Middle East and Northern Africa to Europe. During the week, for instance, Austria's conservative foreign minister, Sebastian Kurz, threatened to close down the Brenner Pass between his country and Italy if the number of illegal migrants to Austria rose. And Merkel has also come under fire on the issue from the CDU's Bavarian sister party, the Christian Social Union (CSU). On Sunday, the CSU publicly celebrated its platform for the election, entitled the \"Bavaria Plan.\" It calls for the annual number of refugees to Germany to be capped at 200,000 - an idea Merkel has rejected. CSU chairman Horst Seehofer couldn't resist calling out the chancellor on the issue. In an interview with Welt newspaper, Seehofer said \"everybody knows\" that the \"waves of migration will continue.\" Seehofer predicted that Merkel's decision to open Germany's borders would cost the CDU-CSU an absolute majority in September's election and claimed that conservatives throughout Germany were coming round to the CSU's position. \"Because the orientation on refugee policy has changed in our direction, it is again possible to work with the CDU credibly,\" Seehofer said. Seehofer added that the conservatives' resurgence in opinion polls was down in part to a harder line taken on migrants. And he invoked the specter of the right-wing populist Alternative for Germany (AfD). \"What I think is most important now is to use clever policies to push the AfD below the 5-percent hurdle (needed for parliamentary representation in Germany),\" Seehofer said. \"That can only happen if we continue to be smart in our policies on security, Turkey, refugees and Europe.\" Parallel trends between migrants and populism The connection between refugee policy and the AfD cannot be dismissed. Germany's right-wing populists made a quantum leap in the polls, taking over 20 percent of the vote in some regional German elections in 2016, as the effects of the mass arrivals in the preceding years became apparent. But when the Balkan migration route was largely closed, the number of refugees dropped, and the AfD's fortunes took a corresponding downturn. The party currently attracts between 7 and 9 percent in the opinion-polls. The downswing is due to party in-fighting, but also to the general sense among the populace that the refugee \"crisis\" is easing. The loss of support for the AfD roughly coincides with the conservatives' revival in opinions polls. But that trend itself could very well reverse if the increasing number of migrants coming to Italy results in a spike in new arrivals to Germany before the election. A study published by the Bertelsmann Foundation last November found that fear of globalization was the main driver of support for right-wing populism in Europe, and that the issue of refugees played the largest role in constituting that fear. Political scientists say that migrants and refugees are the single biggest issue inspiring people to vote for the AfD, and that AfD supporters tend to be single-issue voters. An analysis done by the Süddeutsche Zeitung newspaper after one of the AfD's biggest triumphs in September 2016 showed that 82 percent of the party's voters said that immigration was a major issue. And 17 percent of voters in general said the AfD was best equipped of all the parts to deal with refugees - on other issues, the party struggled to escape the low single digits on the competence question. All of this suggests that the upturn in the number of migrants to Germany this summer would benefit the AfD at the polls and possibly have an effect on Angela Merkel's attempt to win a fourth term as chancellor.",
+  "relations": [
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Social Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Social Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Alternative for Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Alternative for Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democratic",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democratic",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Martin Schulz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Martin Schulz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Martin Schulz",
+      "Social Democratic",
+      "member_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Horst Seehofer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Horst Seehofer",
+      "Christian Social Union",
+      "head_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Christian Social Union",
+      "member_of"
+    ],
+    [
+      "Bild",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Sebastian Kurz",
+      "Austria",
+      "agent_of"
+    ],
+    [
+      "Sebastian Kurz",
+      "Austria",
+      "citizen_of"
+    ],
+    [
+      "Sebastian Kurz",
+      "Austria",
+      "minister_of"
+    ],
+    [
+      "Brenner Pass",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Welt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Welt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

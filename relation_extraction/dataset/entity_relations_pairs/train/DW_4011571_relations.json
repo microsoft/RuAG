@@ -1,0 +1,115 @@
+{
+  "content": "Chancellor Merkel Tries to Patch Up Differences With Pope Benedict\nGerman Chancellor Merkel and Pope Benedict XVI spoke by telephone to set aside their differences over a Holocaust denial by an ultra-conservative bishop. Spokespeople said the talk was marked by \"mutual respect.\"\nMerkel was the first government leader to take the unusual step of calling on German-born Pope Benedict XVI to demand a traditionalist bishop readmitted to the Catholic Church retract statements he made denying the extent of the Holocaust. The pope and the chancellor explained their views during the conversation on Sunday, Feb. 8, \"with the greatest of mutual respect,\" according to a joint statement released by the Vatican and German press spokesman. \"It was a good and constructive talk, carried by the deep and constant reminder that the Shoah holds for humanity,\" the statement said. The telephone conversation came at the request of the chancellor, who earlier this week aroused the Vatican's ire by saying the Catholic Church had not spoken clearly enough in rejecting Holocaust denial. She was reacting to remarks made by Bishop Richard Williamson, one of four traditionalist bishops with the conservative St. Pius X Society whose 1988 excommunication was lifted by the pontiff. Outcry in Germany The move by Benedict XVI, formerly Cardinal Joseph Ratzinger, was condemned by Jewish groups and led to an outcry in his native Germany, where Merkel joined in the criticism. The chancellor came under fire from conservative elements in her Christian Democrat and Christian Social Union alliance, who accused here of meddling in Church affairs. Benedict's decision to rehabilitate the four bishops was seen a sign that the renegade group was willing to reconcile with Rome. But amid mounting pressure, the Vatican eventually issued a statement saying Williamson would have to recant his Holocaust-denial claims before being allowed to occupy any office within the church. Merkel welcomed the Vatican's statement as \"an important and good signal.\" British-born Williamson, who lives in Argentina, denied there were gas chambers at the Nazis' death camp in Auschwitz and alleging the scale of deaths of Jews under the Nazis was no more than \"200,000 to 300,000.\" He refused to change the stance he made in a Swedish television interview days before his excommunication was lifted but told the German weekly Der Spiegel that he would reexamine the historical evidence. \"If I find proof I would rectify (earlier statements).... But all that will take time,\" he was quoted as saying. An opinion poll in Germany found that two-thirds of German Catholics think the decision to allow Williamson back into the Church was harmful, the weekly Bild am Sonntag reported. Some 56 percent of people polled said Williamson should excommunicated for a second time. The Vatican has said Pope Benedict, who has expressed his full solidarity with Jews, was not aware of Williamson's denial of the Holocaust when he readmitted the bishops to the Catholic flock in an attempt to heal a 20-year-old division in the Church.",
+  "relations": [
+    [
+      "Joseph Ratzinger",
+      "Catholic Church",
+      "head_of"
+    ],
+    [
+      "Joseph Ratzinger",
+      "Catholic Church",
+      "member_of"
+    ],
+    [
+      "Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Merkel",
+      "Christian Democrat",
+      "head_of"
+    ],
+    [
+      "Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Merkel",
+      "Christian Democrat",
+      "member_of"
+    ],
+    [
+      "Merkel",
+      "Christian Social Union",
+      "member_of"
+    ],
+    [
+      "Richard Williamson",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Richard Williamson",
+      "Catholic Church",
+      "member_of"
+    ],
+    [
+      "Richard Williamson",
+      "St. Pius X Society",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Christian Democrat",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrat",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Social Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Social Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Der Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bild am Sonntag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild am Sonntag",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

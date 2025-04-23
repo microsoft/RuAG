@@ -1,0 +1,45 @@
+{
+  "content": "Arctic ice keeps seeds safe from climate change, catastrophes\nMore than half a million seeds have been put into a deep freeze in Norway to protect them from wars, climate change and unforeseen catastrophes. In its second year of operation, the vaults still have space.\nThe snow cover on the mountainside above the settlement of Longyearbyen, around 1,500 kilometers (930 miles) from the North Pole, melts to a large extent in summer. But much of the earth below remains frozen. The permafrost is one of the main reasons why this spot, 130 meters above sea level, was chosen to house the planet's \"deep freezer\" for crop seeds. In 2008, the bunker in the frosty interior of this Arctic mountain, christened the \"Global Seed Vault,\" initiated by the Norwegian government and now run by the Global Crop Diversity Trust, was officially opened. Since then, more than half a million seed samples have been stored in what the organizers consider to be the \"safest place in the world.\" Though workmen are drilling inside the 100-meter long tunnel, which leads down to the triple-vault, and shifting permafrost has damaged the facility's entrance, there's no danger to the hundreds of thousands of seeds stored inside, according to Roland von Bothmer, a professor of plant breeding and plant genetics at the Swedish University of Agriculture. Safe from catastrophes, wars and climate change The information about the seeds stored here is generally available on the Internet. The seeds themselves remain the property of whichever body has sent them in, normally a national or regional seed bank or agricultural organization. \"They have been dried to just around 5 to 6 percent water content,\" von Bothmer said, holding vacuum-packed seed samples from Denmark and India. \"They are brought here in a 'black box.' We register them and put the box in the seed vault.\" It's important for the vault to protect duplicates, which could be returned to their owners if the originals were to be lost in the event of a disaster, von Bothmer said, pointing out that landslides, earthquakes and civil war could all result in the loss of important crop material. Refrigeration equipment inside the central storage hall works to push the temperature down to -18 degrees Celsius (-0.4 degrees F) - the ideal temperature to preserve the seeds for hundreds of years. Seeds of more than a third of the world's existing varieties of cultivated plants have already been deposited in the vault. \"We have around 520,000 seed samples in this vault,\" von Bothmer said. \"The chamber is not even half full. That means, when we have all three chambers in operation, we can easily store everything we need.\" Noah's Ark for plants But the work carried out by von Bothmer and his colleagues could bear fruit for humanity even without a world-threatening catastrophe. Genetic erosion, the loss of biodiversity in agricultural crops, is already happening at a worrying rate, according to von Bothmer. \"Natural and human selection have been working for 10,000 years and wherever it got adapted, it developed new landraces,\" he said. \"And we lose that variation a lot in the field because farmers in most areas prefer to cultivate modern varieties with a very narrow genetic background.\" He added that the FAO World Food Summit last year said world food production would have to be increased by more than 70 percent by 2050. At the same time, the area available for agriculture is declining. That means we need more efficient and sustainable farming, with plant breeding and plant genetics playing an important role, von Bothmer said. Climate change poses another challenge. \"It will be drier in many areas, there will be more rain in others. There will be a new spectrum of diseases, new pests, all over the world. And we need to have genes that are resistant, for example, in order to cope with these new conditions coming in. Some areas will be winners, others losers. We don’t know where and we don’t know the speed of this.” Author: Irene Quaile Editor: Sean Sinico",
+  "relations": [
+    [
+      "Longyearbyen",
+      "Norway",
+      "in0"
+    ],
+    [
+      "Longyearbyen",
+      "Norwegian",
+      "in0-x"
+    ],
+    [
+      "Global Seed Vault",
+      "Norway",
+      "in0"
+    ],
+    [
+      "Global Seed Vault",
+      "Norwegian",
+      "in0-x"
+    ],
+    [
+      "Roland von Bothmer",
+      "Swedish University of Agriculture",
+      "member_of"
+    ],
+    [
+      "Norwegian",
+      "Norway",
+      "gpe0"
+    ],
+    [
+      "Global Crop Diversity Trust",
+      "Norway",
+      "based_in0"
+    ],
+    [
+      "Global Crop Diversity Trust",
+      "Norwegian",
+      "based_in0-x"
+    ]
+  ]
+}

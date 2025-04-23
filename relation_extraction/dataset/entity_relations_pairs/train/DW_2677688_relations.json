@@ -1,0 +1,100 @@
+{
+  "content": "Namibian Police Continue Hunt for German Tourist's Killers\nPolice in Namibia were searching Tuesday for two men who shot dead a German tourist and kidnapped his wife shortly after their arrival in the normally tranquil desert state at the weekend.\nJohannes F., 56 and his wife Elke, 52, were hijacked at gunpoint by two men on Sunday after they had stopped at a bridge in the mountainous Khomas region west of the capital Windhoek to take photos, police spokesman Angula Amulungu said. The couple had arrived hours earlier in Namibia and were en route to the coastal resort of Swakopmund. The attackers shot and killed Johannes, kidnapped his wife, drove around in the couple's rental car for hours before dumping the body in a dry riverbed before becoming embroiled in a high-speed chase with a local farmer, according to local newspaper reports. Local Afrikaans daily Republikein reported that Johannes was shot after arguing with the hijackers and that he bled to death on his wife's lap. German media reported that he was shot in the head and killed instantly when the hijakers emerged from the bush. The car later overturned and the men fled, leaving behind Elke F., who was taken to hospital, where she was treated for minor injuries. Elke F. was in \"severe shock,\" according to Ute König, permanent representative at the German embassy in Windhoek. Police are combing the Khomas Hochland area for the attackers, police spokesman Amulungu said. The attack dominated newspaper headlines Tuesday in Namibia, a quiet former German colony of around 2 million people famous for its desert scenery. \"The horrified reaction (to the attack) in the country reflects the exceptional nature of this crime,\" König said.",
+  "relations": [
+    [
+      "Khomas Hochland",
+      "Namibia",
+      "in0"
+    ],
+    [
+      "Khomas Hochland",
+      "Namibian",
+      "in0-x"
+    ],
+    [
+      "Johannes F.",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Johannes F.",
+      "Elke F.",
+      "spouse_of"
+    ],
+    [
+      "Elke F.",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Elke F.",
+      "Johannes F.",
+      "spouse_of"
+    ],
+    [
+      "Angula Amulungu",
+      "Namibia",
+      "agent_of"
+    ],
+    [
+      "Angula Amulungu",
+      "Namibian",
+      "agent_of-x"
+    ],
+    [
+      "Angula Amulungu",
+      "Namibia",
+      "citizen_of"
+    ],
+    [
+      "Angula Amulungu",
+      "Namibian",
+      "citizen_of-x"
+    ],
+    [
+      "Ute König",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Ute König",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Namibian",
+      "Namibia",
+      "gpe0"
+    ],
+    [
+      "Windhoek",
+      "Namibia",
+      "in0"
+    ],
+    [
+      "Windhoek",
+      "Namibian",
+      "in0-x"
+    ],
+    [
+      "Swakopmund",
+      "Namibia",
+      "in0"
+    ],
+    [
+      "Swakopmund",
+      "Namibian",
+      "in0-x"
+    ],
+    [
+      "Republikein",
+      "Namibia",
+      "based_in0"
+    ],
+    [
+      "Republikein",
+      "Namibian",
+      "based_in0-x"
+    ]
+  ]
+}

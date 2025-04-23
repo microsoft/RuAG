@@ -1,0 +1,140 @@
+{
+  "content": "Berlin court rules Google Street View is legal in Germany\nA Berlin court has ruled that Google Street View is legal. But that doesn't mean the lawsuits will end, legal scholars say.\nA Berlin court has ruled that Google Street View is, in fact, legal in Germany. Last Tuesday, the Berlin State Supreme Court (Kammergericht) announced its decision in a court case from late last year, in which a woman had sued Google, fearing that photos of her, her family and the front of her house would be posted on Google Street View and would thus violate her property and privacy rights. The court ruled that it is legal to take photographs from street level, rejecting her argument that Google was trying to take unauthorized pictures. Part of her argument rested on the fact that Google used cameras mounted at three meters (9.84 feet) high, which could see over her two-meter-high hedge. However, the court did not find this argument convincing, given that the photographs were taken from the street, and not the sidewalk. Furthermore, because Google automatically blurs faces and license plates and did allow Germans to opt-out of the service to have their house obfuscated as well, the court did not find any potential violations. This is the first high-level court ruling, which cannot be appealed any further, regarding Street View since the service debuted in Germany at the end of last year. An ongoing debate Since Google announced plans to launch Street View in Germany last summer, debate around the service has become heated, with some politicians trying to stop it at every turn, while German Chancellor Angela Merkel famously said that she would not remove her house from Street View. In November 2010, the company announced that 244,000 German residents in the 20 cities had chosen to opt out of Street View - less than three percent of residents. However, in Germany and everywhere else, the company also allows people to report abuse, inaccuracies or request that something be blurred using an online tool. \"Our job is to develop services that respect these cultural differences,\" Peter Fleischer, Google's global privacy counsel told Deutsche Welle in November 2010. \"We try to anticipate them. We're all internationally-minded people ourselves. We try to guess how people will react to them. But a lot of these services are new and have never been on the market before, so we learn and we adapt as we go along.\" A 'landmark decision' European legal experts called the Berlin ruling a \"landmark decision,\" saying that this would now become part of German case law regarding property rights. \"Yes, other people are now warned: Don't sue Google simply claiming that Google Street View violates personality [or] property rights,\" wrote Thomas Hören, a professor of media and communications law at the University of Münster, in an e-mail sent to Deutsche Welle. But, he also warned that this decision was very narrow, focusing on the issue of property rights, and not on the larger issues of data protection from Google. \"The problem of Google Street View - to be honest - has never been a problem of personality rights or property rights, but the enormous risk of personal data compilations in cases where people use Google Street View for compiling personal profiles (such as building insurance companies; future employees, et cetera),\" he added. \"And this risk has not been considered by the Berlin courts.\" Similarly, Viktor Mayer-Schönberger, a professor at the Oxford Internet Institute, agreed that this case was \"limited in scope,\" adding in an e-mail, \"The plaintiff never alleged an actual invasion of privacy, just a potential one.\" Author: Cyrus Farivar Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Google Street View",
+      "Google",
+      "product_of"
+    ],
+    [
+      "Berlin State Supreme Court",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Berlin State Supreme Court",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Berlin State Supreme Court",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin State Supreme Court",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Peter Fleischer",
+      "Google",
+      "head_of"
+    ],
+    [
+      "Peter Fleischer",
+      "Google",
+      "member_of"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Welle",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Thomas Hören",
+      "University of Münster",
+      "member_of"
+    ],
+    [
+      "University of Münster",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Münster",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "University of Münster",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Viktor Mayer-Schönberger",
+      "Oxford Internet Institute",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "content": "US shuts down popular file-sharing site\nA number of people have been arrested in New Zealand in a US effort to crackdown on online pirated material. Among those arrested was the German former CEO of the world's most popular file-sharing site, Megaupload.\nFour people have been arrested in New Zealand on US accusations of facilitating millions of illegal downloads of film and music content, costing copyright holders at least $500 million (386 million euros) in lost revenue. Among those arrested were Kim Dotcom, the founder, former CEO and current chief of innovation officer of Hong-Kong-based Megaupload. The 37-year-old man holds Finnish and German citizenship and was formerly known as Kim Schmitz and Kim Tim Jim Vestor. Two other German citizens and one Dutch citizen were also arrested, while another German, Slovakian and Estonian are still at large. A grand jury in Virginia had indicted and charged Megaupload with racketeering conspiracy, copyright infringement and conspiring to commit money laundering. The US Federal Bureau of Investigation (FBI) has called it one of the \"largest criminal copyright cases ever brought by the United States.\" According to information provided by the FBI and the US Justice Department, $50 million were seized in the operation along with 18 domain names. Cyber war The crackdown comes just a day after popular Internet companies Wikipedia and Craigslist shut down their services to protest two bills currently going through US Congress - the Stop Online Piracy Act (SOPA) and the Protect IP Act (PIPA) - which aim at curbing copyright infringement by going after sites offering pirated online material. Although the company operated out of Hong Kong and its former CEO lived in New Zealand, the company allegedly used servers in Virginia, giving US prosecutors reason enough to act. The Electronic Frontier Foundation, an online freedom advocacy group, said in a statement that the indictments set \"a terrifying precedent.\" \"If the United States can seize a Dutch citizen in New Zealand over a copyright claim, what is next?\" the group asked. The hacktivist group Anonymous responded to the arrests and shutdown of Megaupload by launching a cyber attack on the FBI and Justice Department websites, which were up and running again early Friday after being shut down for several hours. Megaupload was the world's largest file-sharing site with 150 million registered users, around 50 million daily hits and endorsements from music superstars. The website is said to have earned Dotcom $42 million in 2011. Author: Sarah Berning (AP, AFP) Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Federal Bureau of Investigation",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Federal Bureau of Investigation",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Kim Tim Jim Vestor",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Kim Tim Jim Vestor",
+      "Finnish",
+      "citizen_of-x"
+    ],
+    [
+      "Kim Tim Jim Vestor",
+      "Megaupload",
+      "head_of"
+    ],
+    [
+      "Kim Tim Jim Vestor",
+      "Megaupload",
+      "member_of"
+    ],
+    [
+      "Megaupload",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Megaupload",
+      "Hong Kong",
+      "based_in2"
+    ],
+    [
+      "Stop Online Piracy Act",
+      "United States",
+      "law_of"
+    ],
+    [
+      "Protect IP Act",
+      "United States",
+      "law_of"
+    ],
+    [
+      "Virginia",
+      "United States",
+      "in0"
+    ],
+    [
+      "Justice Department",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Justice Department",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "United States",
+      "based_in0"
+    ]
+  ]
+}

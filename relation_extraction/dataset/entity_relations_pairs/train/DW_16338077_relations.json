@@ -1,0 +1,90 @@
+{
+  "content": "Cheap products come at a price\nMost products sold in Germany are manufactured in low-wage countries. Conditions down the supply chain often violate international standards, and now critics want EU companies to live up to their responsibilities.\nIn September, a textile factory in Pakistan burnt down killing more than 250 people. The fire was able to spread partly because the security standards were blatantly violated and the emergency exits of the building were blocked or even locked. Shortly after the deadly fire, it surfaced that the factory had been mostly producing items for the German budget clothing store KiK. The case caused uproar in Germany with some observers saying it showed how little German retailers care about the working conditions down their supply chains. KiK reacted by establishing an emergency fund to support the families of the victims with a total of $500,000, and, according to media reports, is considering doubling that amount. Victims need more than emergency aid This help is important, said Sabine Ferenschild of Südwind, an organization that is fighting for global social and economic justice. Ferenschild also told DW that this support is by far not enough. \"What's missing is any kind of long-term perspective,\" she said. \"This is what the catastrophes so far have shown. There have been fires in factories before with several workers getting killed.\" The companies had always paid financial support, but over the years that aid stops. \"Those affected though still continue to live with the consequences, for instance when they're unable to work\" or have lost family members who used to contribute to the household's earnings, Ferenschild added. The pressure of the market The companies have to survive on the market and that means they have to keep their costs low and calculate every penny they invest in their products. This usually occurs on the backs of the poorest contributors, the workers in the low-wage countries down the supply chain. \"Whether it's the lack of proper employment contracts, or minimal wages set too low or whether the workers are forced to put in extra hours - those are all structural problems rooted in the tough competition in the clothing retail sector - but that's the same in other sectors as well,\" Ferenschild told DW. There are a number of other organizations in addition to Südwind that are fighting to improve the conditions in the supplier companies in developing countries. So far they've had little success. Ferenschild said she believes that this is because so far all agreements have been on a voluntary basis only. The companies thus could change something if they want to - but they don't have to. German companies are not obliged to regularly monitor the companies that work for them abroad, let alone to be transparent about whether they check their suppliers, according to Ferenschild, Berlin is blocking legislation that would require companies to do so. \"The European Commission signaled last year that it is willing to move away from the principle of keeping this on a purely voluntary basis,\" Ferenschild said. That means that the EU wants to introduce obligatory transparency on the issue: Companies would have to inform the public about the conditions under which their products are being produced. Then customers could whether they want to buy an item. Voluntary commitment The German retail sector, however, saw the matter in a different light. Stefan Wengler, of the Foreign Trade Association of German Retail Trade praised the voluntary efforts made by the companies. He told DW that the Business Social Compliance Initiative (BSCI) has been in place for nine years and pushes for international standards regarding security and pay. About 1,000 companies have agreed to participate in the initiative. Wengler said he sees the project as moving in the right direction. \"At the beginning, in the first year, out of 100 companies only seven passed the test,\" he said, adding that in the most recent check, one third of the companies managed to fulfill the standards and the companies that didn't pass, quickly reacted to fix whatever was wrong. \"The BSCI has very strict standards. The problem is only that when you go into a supplier to check, all might be fine but when you leave it's all back to how it was before again,\" Wengler said. That's why he said he believes it's about making the company heads in the supply countries aware of the problem by training managers and workers. Only if they understood why security standards are so important would things change, Wengler told DW. Responsibility lies with German companies But Südwind's Ferenschild was not quite as optimistic. While she said she saw some improvements, she said she also believes there still are massive problems, which are listed on the website of the campaign for social justice. In particular, Ferenschild said, German companies as being responsible. \"Most of the products that are being sold here in Germany are no longer produced here but rather in countries where the workers' rights only exist on paper but not in reality,\" she said. \"It's the German companies who profit from that.\"",
+  "relations": [
+    [
+      "KiK",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "KiK",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Sabine Ferenschild",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sabine Ferenschild",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Sabine Ferenschild",
+      "Südwind",
+      "member_of"
+    ],
+    [
+      "Stefan Wengler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Stefan Wengler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Stefan Wengler",
+      "Foreign Trade Association of German Retail Trade",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "European Commission",
+      "EU",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "EU",
+      "part_of"
+    ],
+    [
+      "Foreign Trade Association of German Retail Trade",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Foreign Trade Association of German Retail Trade",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

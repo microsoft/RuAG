@@ -1,0 +1,125 @@
+{
+  "content": "European Press Review: Where is the U.S. in the Middle East?\nEuropean newspapers on Wednesday lamented the recent surge in violence in the Middle East and called on the U.S. to play a pivotal role in stopping it.\nJust one week after Israeli and Palestinian leaders at the historic Aqaba Summit pledged to work towards peace, the situation in the Middle East again spiraled out of control as violence erupted. On Wednesday, a suicide bomb detonated in Jerusalem, killing 16 people and injuring 80. Israeli troops retaliated in the Gaza Strip, killing 9 suspected members of the Hamas organization. European newspapers, commenting on the never-ending violence, said it is time for the United States to take a more active role in bringing about peace in the region. It is now up to U.S. President George W. Bush, as Italy’s Il Messaggero put it, to take the initiative and make the next move. Condemnation and expressions of shock are no longer enough, the paper warned. De Volkskrant from the Netherlands wondered how far Bush will go if Sharon stays on his collision course. It will not be enough, the paper maintained, merely to urge both sides to stick to the peace plan. Britain’s The Independent noted that the aim of Hamas is to provoke Israel at every turn—and sadly, they have once again succeeded. But the Israeli actions, the paper continued, will not succeed in suppressing the terrorists and securing national security – they never have, and they never will. The cycle of violence in the region seems set to resume, the paper lamented. It also said the United States should play a pivotal role, and that President Bush must use all his country’s political and financial leverage to keep Sharon on the road map to peace. The editors for Liberation from France were of the same opinion. President Bush should not hesitate to exert more pressure on Israel. The U.S. President must, the paper wrote, force Israeli Prime Minister Sharon to hold back despite further Palestinian bombing attacks. And, the paper added, Bush must apply pressure to the Arab world to throw its entire political weight behind Palestinian Prime Minister Abbas’ government, and oppose armed groups. The Daily Mirror also regarded Sharon as the stumbling block on the road to peace. The London tabloid said President Bush is faced with two choices: He must now decide whether he wants to give up his peace plan or take the obvious alternative step, and demand a change in the Israeli leadership to bring the peace he and the rest of the world want. Austria’s Kurier turned its attention to the situation in Afghanistan following the latest attack on German troops there. For a year now, the paper noted, Hamid Karzai has sat in the President’s palace, surrounded by U.S. bodyguards—but his influence hardly reaches further than the city limits. But even in the capital, one is not entirely safe. If there is an attack, the paper said, western politicians are quick to point a finger at al Qaeda. Observers believe this is meant to calm people, but what is reassuring about the idea, the paper wondered, if the enemies are still alive and kicking?",
+  "relations": [
+    [
+      "Hamas",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Gaza Strip",
+      "Palestinian",
+      "in0-x"
+    ],
+    [
+      "Il Messaggero",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "De Volkskrant",
+      "Netherlands",
+      "based_in0"
+    ],
+    [
+      "Sharon",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Sharon",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Sharon",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Sharon",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Sharon",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "The Independent",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Liberation",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Abbas",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Abbas",
+      "Palestinian",
+      "head_of_gov-x"
+    ],
+    [
+      "Daily Mirror",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "London",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Kurier",
+      "Austria",
+      "based_in0"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "agent_of"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "head_of_state"
+    ],
+    [
+      "al Qaeda",
+      "Afghanistan",
+      "based_in0"
+    ]
+  ]
+}

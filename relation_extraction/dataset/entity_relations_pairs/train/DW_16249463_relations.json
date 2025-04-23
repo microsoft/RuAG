@@ -1,0 +1,370 @@
+{
+  "content": "Dortmund, Schalke come away with wins in CL openers\nThe group stage of the Champions League kicked off on Tuesday night, and both German sides - Borussia Dortmund and Schalke - came away with wins.\nAfter thirty minutes of evenly matched football, Schalke began to gain the upper hand on the road against Olympiacos Piraeus. Schalke thought they had gone ahead in the 37th minute when Kyriakos Papadopoulos sprung up in a direct challenge with Olympiacos keeper Balasz Megyeri and headed the ball in from five meters. The ref signaled for a goal, but the goal-line official said it was a foul. Just four minutes later, though, Schalke found themselves in the lead after all. Jefferson Farfan lined up to take a corner and sent a low drive just off the near post. Benedikt Höwedes, getting out in front of the defense, was there to meet the kick and direct it goalwards with his head. Schalke went into halftime with a 1-0 lead. First step in brutal group With a packed Signal Iduna Park in full song, Dortmund took the field against Ajax Amsterdam knowing that every point would count in their nightmare group, which also includes Real Madrid and Manchester City. Dortmund showed their typical up-tempo style of play, but unlike the Bundesliga, they were not able to simply run rings around their Dutch opponents. Both sides had a few good looks at the goal in the first half, but it was Ajax (with the help of Dortmund's keeper, Roman Weidenfeller) that caused several thousand Dortmund hearts to skip a beat in the 35th minute. Weidenfeller charged out of the goal to meet a solo attack from Ajax striker Derk Boerrigter. He prevented the goal, but then kept chasing the ball as it bounced further away from the goal. A few odd hops later, Ajax was in possession again with Weidenfeller nowhere near his station. Luckily, his defense was able to return the favor and cover for the keeper. After the break, Dortmund managed stretches where they were able to put consistent pressure on Ajax, but booted away several clear chances. Just three minutes in, Dortmund's striker Robert Lewandowksi caught half of Ajax's back line on the wrong foot but launched the ball far over the goal on the finish attempt. Shortly after, it was Mario Götze with the ball on a solo run into the area. He was brought down by Ricardo van Rhijn, and the ref awarded a penalty. Mats Hummels lined up to take the kick for Dortmund, but his weak effort was easily held by Ajax keeper Kenneth Vermeer. Quick fix in furious three minutes Meanwhile, in Piraeus, the hosts equalized, Schalke came back ahead and then missed a decisive penalty that would have likely put the game out of reach - all within three minutes. In the 58th minute, Olympiacos striker Rafik Djebbour passed into the area to set up Djamel Abdoun from 10 meters out, who easily tunneled Schalke keeper Lars Unnerstall. Immediately after play restarted, Lewis Holtby found Klaas-Jan Huntelaar dead center in front of the goal at the penalty spot, who hammered the ball past Megyeri to put Schalke up 2-1. A minute after that, Kostas Manolas took down Tranquillo Barnetta, drawing a yellow card and a penalty for Schalke. Huntelaar took the kick, but his shot ricocheted off the post and dribbled out for a goal kick. The Royal Blues' lead held for the remaining thirty minutes of play, and Schalke picked up a win in their first group game. Better late than never Dortmund, on the other hand, continued to struggle to convert chances, with faulty footwork or a missed pass often costing them the chance rather than Ajax defenders. But in the 87th minute, coach Jürgen Klopp's men got the goal they had earned. Ilkay Gündogan whipped over a cross-field pass for Lukasz Piszczek, who headed in front of the goal to a waiting Lewandowski. Dortmund's Polish striker took a few patient touches to shake his defenders, and then put away the long-overdue goal to the delight of the home fans. \"That was a very, very nice goal,\" Klopp said after the match. \"That's the hallmark of a great striker.\" Ajax was unable to find an answer in the closing minutes of the game, and Dortmund will be glad down the road that they were able to pick up the extra two points in Group D. Real Madrid's Cristiano Ronaldo saved a win for his side over visitors Manchester City in Tuesday night's other Group D game, scoring the winning goal in the 89th minute for a final score of 3-2 for Real. In Shalke's Group B, Arsenal beat Montpellier 2-1 in France, with one of Arsenal's goals coming from German national team winger Lukas Podolski. On Wednesday night, Bayern Munich kick off their Champions League campaign at home against Valencia.",
+  "relations": [
+    [
+      "Royal Blues",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Royal Blues",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Royal Blues",
+      "Olympiacos Piraeus",
+      "vs"
+    ],
+    [
+      "Royal Blues",
+      "Olympiacos Piraeus",
+      "won_vs"
+    ],
+    [
+      "Borussia Dortmund",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Borussia Dortmund",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Borussia Dortmund",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Borussia Dortmund",
+      "Ajax Amsterdam",
+      "vs"
+    ],
+    [
+      "Borussia Dortmund",
+      "Ajax Amsterdam",
+      "won_vs"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Balasz Megyeri",
+      "Olympiacos Piraeus",
+      "member_of"
+    ],
+    [
+      "Balasz Megyeri",
+      "Olympiacos Piraeus",
+      "player_of"
+    ],
+    [
+      "Real Madrid",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Real Madrid",
+      "Manchester City",
+      "vs"
+    ],
+    [
+      "Real Madrid",
+      "Manchester City",
+      "won_vs"
+    ],
+    [
+      "Ajax Amsterdam",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "Ajax Amsterdam",
+      "Borussia Dortmund",
+      "vs"
+    ],
+    [
+      "Roman Weidenfeller",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Roman Weidenfeller",
+      "Borussia Dortmund",
+      "player_of"
+    ],
+    [
+      "Olympiacos Piraeus",
+      "Royal Blues",
+      "vs"
+    ],
+    [
+      "Jürgen Klopp",
+      "Borussia Dortmund",
+      "coach_of"
+    ],
+    [
+      "Jürgen Klopp",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Robert Lewandowksi",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Robert Lewandowksi",
+      "Borussia Dortmund",
+      "player_of"
+    ],
+    [
+      "Kyriakos Papadopoulos",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Kyriakos Papadopoulos",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Jefferson Farfan",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Jefferson Farfan",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Benedikt Höwedes",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Benedikt Höwedes",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Signal Iduna Park",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Manchester City",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Manchester City",
+      "Real Madrid",
+      "vs"
+    ],
+    [
+      "Derk Boerrigter",
+      "Ajax Amsterdam",
+      "member_of"
+    ],
+    [
+      "Derk Boerrigter",
+      "Ajax Amsterdam",
+      "player_of"
+    ],
+    [
+      "Mario Götze",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Mario Götze",
+      "Borussia Dortmund",
+      "player_of"
+    ],
+    [
+      "Ricardo van Rhijn",
+      "Ajax Amsterdam",
+      "member_of"
+    ],
+    [
+      "Ricardo van Rhijn",
+      "Ajax Amsterdam",
+      "player_of"
+    ],
+    [
+      "Mats Hummels",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Mats Hummels",
+      "Borussia Dortmund",
+      "player_of"
+    ],
+    [
+      "Kenneth Vermeer",
+      "Ajax Amsterdam",
+      "member_of"
+    ],
+    [
+      "Kenneth Vermeer",
+      "Ajax Amsterdam",
+      "player_of"
+    ],
+    [
+      "Rafik Djebbour",
+      "Olympiacos Piraeus",
+      "member_of"
+    ],
+    [
+      "Rafik Djebbour",
+      "Olympiacos Piraeus",
+      "player_of"
+    ],
+    [
+      "Djamel Abdoun",
+      "Olympiacos Piraeus",
+      "member_of"
+    ],
+    [
+      "Djamel Abdoun",
+      "Olympiacos Piraeus",
+      "player_of"
+    ],
+    [
+      "Lars Unnerstall",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Lars Unnerstall",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Lewis Holtby",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Lewis Holtby",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Kostas Manolas",
+      "Olympiacos Piraeus",
+      "member_of"
+    ],
+    [
+      "Kostas Manolas",
+      "Olympiacos Piraeus",
+      "player_of"
+    ],
+    [
+      "Tranquillo Barnetta",
+      "Royal Blues",
+      "member_of"
+    ],
+    [
+      "Tranquillo Barnetta",
+      "Royal Blues",
+      "player_of"
+    ],
+    [
+      "Ilkay Gündogan",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Ilkay Gündogan",
+      "Borussia Dortmund",
+      "player_of"
+    ],
+    [
+      "Lukasz Piszczek",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Lukasz Piszczek",
+      "Borussia Dortmund",
+      "player_of"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "Real Madrid",
+      "member_of"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "Real Madrid",
+      "player_of"
+    ],
+    [
+      "Arsenal",
+      "Montpellier",
+      "vs"
+    ],
+    [
+      "Arsenal",
+      "Montpellier",
+      "won_vs"
+    ],
+    [
+      "Montpellier",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Montpellier",
+      "Arsenal",
+      "vs"
+    ],
+    [
+      "Lukas Podolski",
+      "Arsenal",
+      "member_of"
+    ],
+    [
+      "Lukas Podolski",
+      "Arsenal",
+      "player_of"
+    ],
+    [
+      "Bayern Munich",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bayern Munich",
+      "Valencia",
+      "vs"
+    ],
+    [
+      "Valencia",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Valencia",
+      "Bayern Munich",
+      "vs"
+    ]
+  ]
+}

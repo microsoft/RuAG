@@ -1,0 +1,45 @@
+{
+  "content": "Multi-lingual in the World Wide Web\nProfessional translators and interpreters beware! There’s a new product out at CeBIT this year and it’s set to make your job obsolete - or at least the more mundane portion of business correspondence.\nImagine sitting in an office in Berlin, Paris or New York, typing an e-mail to an international colleague and getting a reply - all in one language. Sure, it’s no problem if everyone speaks the same language. But what happens when three different languages are involved? You get a translator, right? Or you spend a little more time flipping through an English-German-French dictionary. Too expensive, too time consuming? Well, there’s always the option of learning a foreign language. In the global business community, bilungualism is not a bad investment. But for those of you who didn’t memorize the German irregular verbs in school and who still can’t be bothered to remember the gender of French nouns, there’s a technical solution: the Personal Translator by Linguatec. No, it’s not a mini headset that automatically interprets your every thought - at least not yet. Linguatec is one of the leading innovators in the market for language recognition software, and it’s unique Personal Translator (PT) program is getting better and more accurate every year. So far there are two language versions, German-English and German-French. Designed as a complete software package for easy installment on a normal PC or computer network, PT is ideal for the office environment. It’s compatible with any system from Windows to Apple, and can be applied to any type of common text program including e-mails. With just a click of the mouse, the user can call on the extensive language database to translate any given text. And a link up through the user’s browser connects to the e-Translation Server for translation in the internet. The PT can also be downloaded for cellular phones and Palmpilots for mobile translations - great for vacationing in foreign countries. The next step is the linguachat - an online service for automatic translation of texts in chat groups. Gone are the days of stumbling around for the correct English or German word, with Linguatec’s browser function, users can simply chat away regardless of the language. Business of words Although there are several different international companies producing translation software, Linguatec offers the most comprehensive word and phrase databanks. It is also the only translation software that reads and analyses not only single sentences, but entire contexts to produce more accurate meaning. Whereas other companies such as the American Smartlink or Babelfish offer several different languages, Linguatec offers only three: German, English and French. This enables the company to concentrate on quality rather than quantity, an important factor in serious translation services, said a Linguatec spokesperson. This year’s new and revised edition of the Personal Translator contains 620,000 words and 35,000 common idiomatic phrases. This enables the PT to recognize double meanings and colloquial speech patterns. In addition, users can expand their word base with specialty dictionaries from areas like banking, medicine and technology. The German company started out ten years ago producing German-English translation software on the basis of IBM technology. Originally the product was slow and required a lot of thorough editing after a text was translated by the system. Now it’s being used by international companies like Siemens and Deutsche Bank. Even professional translators, who are generally skeptical of electronic translation software, are beginning to recognize the quality of the system, said a Linguatec spokesperson at CeBIT. \"When they have a long translation, they often let the PT run over the text once as a rough draft, before they fine tune it.\" Some translators and linguists are so impressed by the software, that they’ve quit their regular jobs and have begun working for Linguatec developing more accurate translation technology.",
+  "relations": [
+    [
+      "Personal Translator",
+      "Linguatec",
+      "product_of"
+    ],
+    [
+      "Linguatec",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "New York",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Smartlink",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Babelfish",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Siemens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Deutsche Bank",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

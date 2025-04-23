@@ -1,0 +1,110 @@
+{
+  "content": "Haltern after the Germanwings crash: 'All laughter has perished'\nHundreds of journalists and thousands of questions fill the town, but the people facing the deluge want just one simple question to be answered: Why? DW's Jan Walter reports from Haltern.\nSixteen children and two young women from the western-German town of Haltern died in the plane crash in the southern French Alps. That's the only real certainty that relatives, colleagues and friends truly have right now. One day after the accident, the street approaching the Joseph-König-Gymnasium high school is littered with film crew trucks belonging to broadcasters from Germany, Europe and the world. The school grounds, the starting point for a student exchange trip to Spain, are closed off to the public. On one side of the red-and-white cordoning tape stand camera crews, photographers and journalists grasping microphones. On the other side stand the mourners: children, youths and adults. They hold each other's hands, or hug, some of them stand alone, bending down to lay a wreath, or to light one of the countless candles which adorn the steps to the school entrance. Across the cordon People come and go, often with bowed heads, and bloodshot eyes. \"I didn't sleep at all last night,\" one woman stutters into the microphone of an Italian journalist. One student, who looks like a senior, decides to face a whole handful of camera crews, answering their questions. Yes, he did know some of the victims. He chooses a language, one might presume, that he knows from watching news reporting at home: \"We are most deeply shocked.\" His body language seems to suggest that he's not quite sure himself whether it's right to talk to the press, or whether it's not respectful enough. Head teacher Ulrich Wessel, meanwhile, considers himself obliged to face the media. \"I am the school's principal, I sent that group on their trip,\" he tells the press corps. \"Therefore I will face your questions, and any the parents might have.\" At the press conference at Haltern's town hall, Wessel has support at his side from the state's education minister, Sylvia Löhrmann, Haltern's mayor, Bodo Klimpel, and Cay Süberkrüb of the local council. Minister Löhrmann is a teacher herself, she might well have an idea of the gaping wound such a tragedy can inflict on a school community. However, she does not presume to know this, instead sticking to modest truisms when explaining her role in proceedings: \"We cannot take anybody's grief, we can only share it.\" 'People from all over the world' Journalists pose perhaps the most personal questions to school principal Wessel. How did you learn the terrible news? How painful was it to tell parents about the accident? Do you feel at all responsible for this inconceivable tragedy? Wessel puts a brave face on things, sometimes pausing briefly to swallow down the lump which keeps forming in his throat. Still, when giving voice to some of his thoughts, his eyes often well up: \"At our school, all laughter has perished,\" he says, adding that he doesn't know when it might return. For now, people will just have to survive this day, and then the next, he says. Condolences can certainly help in this regard, Wessel says, explaining that the town hall and his school have been inundated with well-wishes. \"People who have never had any contact with our school - people from all over the world - are expressing their sympathy,\" Wessel says, adding that he sees the matter similarly even among the sea of journalists who have flooded the lakeside town. \"I do not consider this interest to be cheap or sensationalist at all. I know that it's the feelings of your readers and your viewers drawing you all here.\"",
+  "relations": [
+    [
+      "Haltern",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Haltern",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Ulrich Wessel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ulrich Wessel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ulrich Wessel",
+      "Joseph-König-Gymnasium",
+      "member_of"
+    ],
+    [
+      "Sylvia Löhrmann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sylvia Löhrmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Germanwings",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Germanwings",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jan Walter",
+      "DW",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Joseph-König-Gymnasium",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Joseph-König-Gymnasium",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bodo Klimpel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Bodo Klimpel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bodo Klimpel",
+      "Haltern",
+      "head_of_gov"
+    ],
+    [
+      "Bodo Klimpel",
+      "Haltern",
+      "mayor_of"
+    ],
+    [
+      "Cay Süberkrüb",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Cay Süberkrüb",
+      "German",
+      "citizen_of-x"
+    ]
+  ]
+}

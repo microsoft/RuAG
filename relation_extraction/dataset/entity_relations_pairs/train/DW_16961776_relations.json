@@ -1,0 +1,90 @@
+{
+  "content": "Ex-CIA fugitive Robert Seldon Lady detained in Panama\nFormer CIA station chief Robert Seldon Lady has been detained in Panama. In 2009 he was convicted in absentia in Italy of kidnapping a Muslim cleric in what was the first trial involving the CIA's rendition program\nFormer CIA Milan base chief Robert Seldon Lady has been detained in Panama, Panamanian and Italian officials said late Thursday. Interpol had issued a request for Lady's arrest. It was not immediately clear where Lady would be taken as Italy and Panama have no bilateral extradition treaty. In 2009, an Italian judge sentenced 23 CIA employees, including Lady, in absentia for the abduction of the Egyptian cleric Osama Moustafa Hassan Nasr. The imam, also known as Abu Omar, was taken from a Milan street in 2003 and flown to Egypt for interrogation, where he claims he was tortured. Lady had left Italy early into the Italian investigation and retired from the CIA. He was handed a nine-year jail term, which merits an extradition request under Italian legal guidelines. It was the first trial in the world involving the CIA's extraordinary rendition program. Such renditions, which most famously took terror suspects to the US detainment facility at Guantanamo Bay, were part of the policies launched in the aftermath of the September 11, 2001 attacks by then-US President George W. Bush. In February, Italy's former military intelligence chief, Nicolo Pollari, was sentenced to 10 years in prison for his role in the kidnapping. hc/av (Reuters, AP)",
+  "relations": [
+    [
+      "Osama Moustafa Hassan Nasr",
+      "Egypt",
+      "citizen_of"
+    ],
+    [
+      "Osama Moustafa Hassan Nasr",
+      "Egyptian",
+      "citizen_of-x"
+    ],
+    [
+      "Robert Seldon Lady",
+      "CIA",
+      "head_of"
+    ],
+    [
+      "Robert Seldon Lady",
+      "CIA",
+      "member_of"
+    ],
+    [
+      "CIA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Nicolo Pollari",
+      "Italy",
+      "agent_of"
+    ],
+    [
+      "Nicolo Pollari",
+      "Italian",
+      "agent_of-x"
+    ],
+    [
+      "Nicolo Pollari",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Nicolo Pollari",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Milan",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Milan",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "head_of_state"
+    ]
+  ]
+}

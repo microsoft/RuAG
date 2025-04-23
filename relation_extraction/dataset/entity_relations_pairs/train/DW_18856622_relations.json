@@ -1,0 +1,20 @@
+{
+  "content": "Viral video shows French father explain Paris attacks to son\nA video showing a French father explain the Paris attacks to his son has gone viral, collecting more than 80,000 views in less than 24 hours. The video was produced by French TV program Le Petit Journal.\nA video produced by Le Petit Journal of French cable television channel Canal + showed a French father and his child discussing the circumstances of \"Islamic State\"-claimed attacks in Paris, that left at least 129 people dead. In the video, a Le Petit Journal reporter asks the child if he understood why the attacks occurred. \"Do you understand what happened? Do you understand why those people did that?\" the reporter asked. \"Yes, because they're really, really mean. Bad guys are not very nice,\" the child responds to the reporter. However, the child's father later intervenes, responding to his son's statement that they could be shot, saying: \"They might have guns, but we have flowers.\" The father then offers an overview of how flowers and candles \"protect\" people from guns. \"The flowers and the candles are here to protect us,\" the child said, confirming his father's statement. The video went viral following its online release on Monday, garnering more than 80,000 views in less than 24 hours. ls/kms (LPJ, Canal +)",
+  "relations": [
+    [
+      "Le Petit Journal",
+      "Canal +",
+      "created_by"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Canal +",
+      "French",
+      "based_in0-x"
+    ]
+  ]
+}

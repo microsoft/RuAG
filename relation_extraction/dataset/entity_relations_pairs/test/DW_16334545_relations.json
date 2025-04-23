@@ -1,0 +1,270 @@
+{
+  "content": "Taking stock of press freedom in Germany\nFifty years ago, the offices of \"Spiegel\" magazine were searched and leading journalists arrested as a result of political pressure. Press freedom eventually prevailed. Today too the media's independence is under threat.\nWhat happened in October, 1962, had a lasting effect on the relationship between politicians, the judiciary and journalists in Germany. Spiegel news magazine had published an article critical of Germany's armed forces, the Bundeswehr. The German army, it said, was only \"prepared for defense to a limited extent\", adding it would certainly have to employ nuclear missiles to counter attacks. That was the author's conclusion following an evaluation of a NATO maneuver. Leading politicians - first and foremost Chancellor Konrad Adenauer and Defense Minister Franz Josef Strauss - accused the magazine of treason. A constitutional lawyer filed charges against the editorial office, arrest warrants were issued for the author and the chief editor. The latter remained in custody for more than 100 days. The Spiegel editorial department was shut down for weeks. There was a public outcry against the state's handling of the journalists, even protest from members of the coalition government. In the end, Defense Minister Strauss was forced to resign after his considerable participation in the reprisals against the news magazine became evident. Germany's Federal Court of Justice also ruled there was no proof of treason. What became known as the Spiegel Affair still touches issues that are highly relevant even today. Is a democratic state allowed to reprimand critical reporters? And how freely can the German media report on politics? Press freedom today \"Such featherbrained attempts by politics to influence the press are today no longer possible,\" Bodo Hombach, former Social Democrat and director of WAZ media group, told Deutsche Welle. The head of the German Federation of Journalists (DJV), Michael Konken agrees. \"We have a critical media with quality publications and broadcasters who bring such problems to the public.\" At the same time, Konken has to admit that Reporters without Borders has in the past years ranked Germany only in places 17 to 19 in its press freedom index. The top places where occupied by the Scandinavian countries. This, Konken said, pointed to problems in Germany. And indeed, there have been examples confirming that in the recent past. Politics has grip on public broadcasters The \"Brender case\" is often viewed as an example of a blow to freedom of the press. Nikolas Brender was editor-in-chief of Germany's public broadcaster ZDF. As he was an independently minded journalist who would not refrain from saying what he thought, he was not always popular with politicians. It was first and foremost Roland Koch, premier of the state of Hesse at the time, who opposed renewing Brender's contract - and Bender lost his job. How was this possible? All public broadcasters are officially controlled by their supervisory and administrative boards. After the experience of government controlled media under the Nazis, broadcasters in post-war West Germany were supposed to be democratically controlled. The boards are made up of a cross-section of society, including politicians from all major parties. In the case of ZDF when Brender was editor in chief, the board was dominated by conservative politicians. And that's what stacked the odds against Bender when it came to extending his contract. Powerless The way in which Brender was treated by the politicians on the board caused an uproar across the entire media landscape in Germany. Even representatives of the conservative media thought that a line had been crossed. \"An act of unbelievable high-handedness\" of those responsible, says Mathias Döpfner, who is at the helm of the conservative Axel Springer publishing house. \"A dangerous interference with the DNA of a broadcaster,\" criticized Frank Schirmacher of the Frankfurter Allgemeine Zeitung daily. But, again and again, there have been attempts - mostly by politicial leaders - to interfere with the internal affairs of a broadcaster; a claim confirmed by Hartmann von der Tann, former coordinator for politics with Germany's other big public broadcaster, ARD. Print media also affected Newspapers in Germany experience limits to press freedom for different reasons. Dirk C. Fleck, for his book \"The Fourth Power,\" spoke to 25 leading journalists and editors-in-chief about how independent they are. There's not a lot of room, he says. Speaking to DW, the author described the sobering answers he got and how almost all of the journalists describe the same vicious circle. It began with the boom of the Internet. More and more people got their news from the Web; in particular, young people who are important for advertising. Many companies therefore shifted their advertising budgets to focus on the Internet. German publishers responded by setting up online newsrooms to get some of the money going into online ads. But the free content offered online has not generated enough revenue through advertising. The print media has failed to capitalize on the online market. With the same budget, publishers have since tried to sustain both their print and online editions. As a result, editorial offices have been split, and more and more work ends up on fewer shoulders. The increase in the workload and the Internet's hunger for new stories within hours, or even minutes, puts enormous pressure on journalists. Proper independent research has become a luxury. Risiko manipulation \"What dominates is content that can quickly be generated,\" says Fleck. It is rare that investigative research really uncovers a political scandal. Instead, there are quick party stories or the quick report on a police patrol catching speeding drivers, he notes. Content is getting shallower and more tabloid-like, while a lack of time and money means journalists follow the herd, he said. For Bodo Hombach it adds up to \"many editors picking up those stories that are already in the news,\" Small regional papers, especially, often take offers from PR firms. What they get are free and perfectly tailored articles, interviews and videos. \"That, too, is a way to lose our press freedom,\" says Michael Konken and confirms that in some cases companies have even withdrawn their ads should a publication write critically about the company. \"This is not the press freedom we have in mind,\" he warned.",
+  "relations": [
+    [
+      "Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundeswehr",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundeswehr",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Franz Josef Strauss",
+      "West Germany",
+      "agent_of"
+    ],
+    [
+      "Franz Josef Strauss",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Franz Josef Strauss",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Franz Josef Strauss",
+      "West Germany",
+      "minister_of"
+    ],
+    [
+      "Michael Konken",
+      "German Federation of Journalists",
+      "head_of"
+    ],
+    [
+      "Michael Konken",
+      "German Federation of Journalists",
+      "member_of"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Welle",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Federation of Journalists",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Federation of Journalists",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Nikolas Brender",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Nikolas Brender",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Nikolas Brender",
+      "ZDF",
+      "head_of"
+    ],
+    [
+      "Nikolas Brender",
+      "ZDF",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Konrad Adenauer",
+      "West Germany",
+      "agent_of"
+    ],
+    [
+      "Konrad Adenauer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Konrad Adenauer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Konrad Adenauer",
+      "West Germany",
+      "head_of_gov"
+    ],
+    [
+      "Federal Court of Justice",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Court of Justice",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Court of Justice",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Court of Justice",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Spiegel Affair",
+      "West Germany",
+      "event_in0"
+    ],
+    [
+      "Bodo Hombach",
+      "WAZ",
+      "head_of"
+    ],
+    [
+      "Bodo Hombach",
+      "Social Democrat",
+      "member_of"
+    ],
+    [
+      "Bodo Hombach",
+      "WAZ",
+      "member_of"
+    ],
+    [
+      "WAZ",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "WAZ",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Brender case",
+      "West Germany",
+      "event_in0"
+    ],
+    [
+      "ZDF",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ZDF",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Roland Koch",
+      "Hesse",
+      "agent_of"
+    ],
+    [
+      "Roland Koch",
+      "Hesse",
+      "head_of_gov"
+    ],
+    [
+      "Hesse",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hesse",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Mathias Döpfner",
+      "Axel Springer",
+      "head_of"
+    ],
+    [
+      "Mathias Döpfner",
+      "Axel Springer",
+      "member_of"
+    ],
+    [
+      "Axel Springer",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Axel Springer",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Frank Schirmacher",
+      "Frankfurter Allgemeine Zeitung",
+      "member_of"
+    ],
+    [
+      "Frankfurter Allgemeine Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Frankfurter Allgemeine Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hartmann von der Tann",
+      "ARD",
+      "member_of"
+    ],
+    [
+      "ARD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ARD",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "The Fourth Power",
+      "Dirk C. Fleck",
+      "created_by"
+    ]
+  ]
+}

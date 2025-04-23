@@ -1,0 +1,135 @@
+{
+  "content": "Refugees in Germany: 'I want to integrate, but how?'\nRefugees are constantly told that they need to integrate. How are they dealing with that task? Impressions from a Berlin refugee home gathered by DW's Jaafar Abdul Karim.\n\"Do you know the word 'integration'?\" I ask a young man that I meet in a Berlin refugee home. \"No,\" he says. Then I use the Arabic word \"indimaj.\" He immediately answers: \"I want to integrate, to learn the language and become part of society.\" He continues that, unfortunately, he has no idea how he is supposed to go about doing so. Adham Ali is 21 and comes from Syria. He has been living in Germany for six months. Until a week ago he was living in a gymnasium in the Spandau district of Berlin with 700 other young men. \"Now I am in the refugee home all day. I am trying to learn German via YouTube because I cannot find a spot in a language course.\" I ask if he has any German friends. He replies: \"Where and how should I meet Germans?\" More than a million refugees came to Germany last year. People like Adham. Many live in a bubble, in refugee housing, cut off from the outside world. They are, however, aware of the fact that Germany is talking about them and their integration. And many realize that it won't be easy. He knows the issue regarding German values, says Adham - about equal rights for men and women, respecting the constitution, accepting homosexuality. He comes from a small village outside Damascus. \"The women there all wear niqab,\" he says, refering to the head-covering veil that only leaves the eyes visible. Apparently there is no one to help people like Adham Ali find a way to reconcile their old lives with their new ones. I had that impression often during my visit to the refugee home. Some, like Adham, are full of hope nevertheless. He says he wants to continue the law studies that he began in Syria. 'I feel lost' Others are frustrated. Like Raafat Hajir, a 24-year-old Palestinian from Syria. \"What do you do all day?\" I ask him in Arabic. \"I get up, have breakfast, hang around, go to the gym,\" he says. \"Can you speak German?\" I ask him in German. \"Yes,\" he says, and tells me that when he arrived he took a German class that he paid for himself, but now he doesn't have any more money. He tells me that as a stateless person he has no right to state-sponsored German courses. Obviously no one has informed him that the Federal Office for Migration and Refugees (BAMF) has just changed that rule. He says, \"I am a dentist and could work, but what am I supposed to do? I am not allowed to work here!\" He even thought about working illegally, but decided against it. He is stuck in limbo. \"What is the plan? What can I do to integrate myself into society?\" he asks me. He doesn't have any German friends to help him get a start. \"How should I meet Germans? Just approach them on the street?\" He says he knows a lot of young men that are in the same situation. A few months ago I wrote about integration in my column, about how unproductive it is that many refugees are not allowed to work for months at a time. Back then I proposed a step-by-step plan for integration. Now, a half year later, I am plagued by the feeling that we are still loitering at the bottom of my proposed \"integration pyramid.\" The refugees are here, but we are leaving them to deal with their future on their own. They are sitting around in refugee homes with nothing to do. We are producing frustration in exponential doses. I ask myself: Are those young men, who have no everyday perspective, not the perfect victims for radicals who promise to help them find a purpose in life? Many refugees in Germany have no idea what their rights and responsibilities are. No plan, no idea. Where are the authorities? Why are these young men being abandoned? Do we not want to integrate them, or are we unable to? Why are we constantly talking about them as people that do not want to integrate? If we do not want to make them part of society, then they will not want to make Germany part of their lives either. Demand rather than encourage Many politicians tell refugees: Integrate yourselves, accept our values! Some even threaten: Those who refuse to participate in integration courses should be punished and not be allowed to remain in Germany. The new integration law that the coalition has just passed is also supposed to contain that threat as well. That is why the refugee organization Pro Asyl has dubbed it the \"disintegration law\": There is no lack of will on the part of refugees, but rather of offers from the federal government. The young men that I met want to learn German, but they cannot because there simply aren't enough openings for them. There are supposed to be 300,000 such openings, but 800,000 are needed. Thus, the dentist cannot work, and Adham cannot continue his studies. Do they respect our values, accept women's rights, the constitution and homosexuality? That is meant to be the touchstone. But how are refugees supposed to meet Germans, how are they supposed to learn these things, if there aren't any possibilities to do so? We are asking a lot, but the preconditions are lacking. Do the politicians that are threatening and complaining know that? Or are they simply trying to divert attention from their own failings? The rhetoric of threat is dangerous, because it gives the impression that anti-immigrant groups like Pegida & Co. are correct in their prejudices. In fact, most refugees want to learn German, to work and to integrate. Sure, there are exceptions. But generalizations don't help. Talk with refugees, not about refugees.",
+  "relations": [
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Adham Ali",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Jaafar Abdul Karim",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Spandau",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Spandau",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Raafat Hajir",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Pro Asyl",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Pro Asyl",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Pro Asyl",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Pegida & Co.",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Pegida & Co.",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Pegida & Co.",
+      "Germans",
+      "based_in0-x"
+    ]
+  ]
+}

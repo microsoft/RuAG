@@ -1,0 +1,90 @@
+{
+  "content": "Push to develop open source software\nOn December 11, Linux 3.7 was released, bringing with it additional advantages. The explosion of web platforms and business is in part due to Linux and the push to develop open source software.\nOn December 11, Linux 3.7 was released. It is supposed to make it easer to get Linux-based OSs running on tablet PCs and smartphones. Around two percent of smartphones use GNU/Linux (a combination of Linux and the GNU OS), a figure that is comparable to 2.6 percent for Windows, according to figures from market research firm International Data Corporation (IDC). And Samsung accounts for 80 percent of all GNU/Linux-powered smartphones, using Bada. Several companies and devices today owe their developments to GNU/Linux, a free software platform. And that includes the likes of Google, Facebook, Amazon and Wikipedia, as well as Apple's MacOS which long used parts of GNU. Android contains Linux but not GNU. In Germany, many regional government departments use GNU/Linux as an alternative to other more mainstream operation systems – Microsoft’s Windows and Apple’s OS. This year, the city of Munich announced a 10 million euro ($12.9 million) saving since changing over from Microsoft Windows based software in 2006. \"It comes down to not having to pay licensing costs,\" Peter Hoffman, project director of Munich's LiMux Project tells DW in an interview. Its premise is to encourage software development which is to be shared amongst users. Best of all, it's free. Giving back to users Licensing costs are big money. The beauty of GNU/Linux, says Jan Richling, a post doctorate fellow at the Technical University in Berlin, is its flexibility that really gives it an edge. \"More important is the total cost of ownership. You need people who will make an adaption of Linux to your needs,\" he says. Given the notion users with computer coding skills essentially create their own software, which they then give back, for free, to other users to use, or develop further is appealing he adds. Ease of use Software companies like Apple and Microsoft have created closed systems for their products and software. And while this gives users the advantage of synchronizing many of their devices to the same operating system, consumers are left at their mercy, Jon \"Maddog\" Hall, Linux International's executive director, said at a recent TedX Conference in Berlin. \"With free software, you can make the decision about whether you're going to stay with the code you have running. It's not the decision of some far off company that's trying to satisfy the needs of a commodity marketplace,\" he added. But despite the advantages that open source platforms, they require the expertise of programmers, who understand the coding and remain up to date with the latest changes in the software. And despite the fact that they would be expected to do well in poor countries, they have so far proved to be unpopular. This is because the software requires a large bandwidth to be downloaded, and in most places people have access to pirated software – more than 90 percent of Windows software being using in poor countries is a pirate version.",
+  "relations": [
+    [
+      "Microsoft Windows",
+      "Microsoft",
+      "product_of"
+    ],
+    [
+      "MacOS",
+      "Apple",
+      "product_of"
+    ],
+    [
+      "Android",
+      "Google",
+      "product_of"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Peter Hoffman",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peter Hoffman",
+      "LiMux Project",
+      "head_of"
+    ],
+    [
+      "Peter Hoffman",
+      "LiMux Project",
+      "member_of"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Jan Richling",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jan Richling",
+      "Technical University",
+      "member_of"
+    ],
+    [
+      "Technical University",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Technical University",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Jon \"Maddog\" Hall",
+      "Linux International",
+      "head_of"
+    ],
+    [
+      "Jon \"Maddog\" Hall",
+      "Linux International",
+      "member_of"
+    ],
+    [
+      "TedX Conference",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "TedX Conference",
+      "Berlin",
+      "event_in2"
+    ]
+  ]
+}

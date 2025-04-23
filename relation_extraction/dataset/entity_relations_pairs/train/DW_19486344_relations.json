@@ -1,0 +1,120 @@
+{
+  "content": "Rights body accuses Mexican police of arbitrary executions\nMexico's National Human Rights Commission has said police massacred 22 civilians in the western state of Michoacan last year. Police say they acted in self defense, and that the killings were not arbitrary executions.\nThe National Human Rights Commission (CNDH) on Thursday said the police had committed \"violations of the right to life by excessive use of force that entailed the arbitrary execution of 22 civilians.\" Officers were also said to have been guilty of \"aggravated acts of torture on two people who were detained.\" At least 42 people suspected of being Jalisco New Generation Cartel gang members were killed, while only one police officer died in the raid on a ranch near the small town of Tanhuato. The CNDH said police had lied about their role during the incident, where they shifted 7 bodies and planted weapons on some of them. It was unclear how or why another 15 of those who died had been killed. \"As a result of the investigation done by this organization, based on technical and scientific tests ... we established facts that imply grave human rights violations attributable to public servants of the federal police,\" said Raul Gonzalez, the president of the CNDH. Killings 'in self defense' The findings would appear to contradict the government's claim that 42 people who were killed had attacked officers. A Black Hawk helicopter was employed to \"contain the suspects.\" The Mexican federal police, army and navy have repeatedly been accused of abuses in a drug conflict that has claimed more than 100,000 lives since it began in 2006. Mexico's national security commissioner Renato Sales denied that police had carried out arbitrary killings and executions, and said the investigation was continuing. He urged Congress to pass laws on when security forces can fire weapons. \"In our view, the use of arms was necessary and proportional to the very real, imminent and lawless aggression,\" he said. \"They acted in legitimate defense.\" rc/kl (AP AFP, Reuters)",
+  "relations": [
+    [
+      "National Human Rights Commission",
+      "Mexico",
+      "agency_of"
+    ],
+    [
+      "National Human Rights Commission",
+      "Mexican",
+      "agency_of-x"
+    ],
+    [
+      "National Human Rights Commission",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "National Human Rights Commission",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Michoacan",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Michoacan",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Jalisco New Generation Cartel",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "Jalisco New Generation Cartel",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Congress",
+      "Mexico",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "Mexican",
+      "agency_of-x"
+    ],
+    [
+      "Congress",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "Congress",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Mexican",
+      "Mexico",
+      "gpe0"
+    ],
+    [
+      "Tanhuato",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Tanhuato",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Raul Gonzalez",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Raul Gonzalez",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Raul Gonzalez",
+      "National Human Rights Commission",
+      "head_of"
+    ],
+    [
+      "Raul Gonzalez",
+      "National Human Rights Commission",
+      "member_of"
+    ],
+    [
+      "Renato Sales",
+      "Mexico",
+      "agent_of"
+    ],
+    [
+      "Renato Sales",
+      "Mexican",
+      "agent_of-x"
+    ],
+    [
+      "Renato Sales",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Renato Sales",
+      "Mexican",
+      "citizen_of-x"
+    ]
+  ]
+}

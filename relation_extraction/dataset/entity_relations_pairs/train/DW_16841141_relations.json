@@ -1,0 +1,185 @@
+{
+  "content": "Germany aims for 1 million e-cars by 2020\nChancellor Angela Merkel has re-affirmed the goal to have one million electrical cars on Germany's roads by 2020. An advocate says this hinges on the right mix of cheap batteries and pricing of electricity versus fuel.\nA two-day conference on future mobility opened in Berlin on Monday, with a call from German Transport Minister Peter Ramsauer that industry and state work together to create an \"intelligent\" infrastructure for electric vehicles. Among Germany's 43 million registered vehicles, only 7,000 are electric cars, while 65,000 are so-called hybrids which have combined fuel and battery-driven motor units. Sixteen new models are expected next year. To initiate the breakthrough and reach one million by 2020, Ramsauer said urban planning must provide infrastructure such as fast battery recharging stations that fitted in \"intelligently\" with other forms of mobility such as trams. Strife over sockets EU Transport Commissioner Siim Kallas said Europe must still standardize the design of power sockets for re-charging stations. Especially in France, there were doubts about a socket favored in Germany, said Kallas. Merkel told politicians, scientists, automobile industry experts and interest groups that the goal was ambitious, but achievable. She urged Germany's automobile industry to master the transformation process underscored by Germany's 2011 decision to phase out nuclear and fossil fuels in favor of renewables. Acceptance conditional The chairman of Germany's National Electro-mobility Platform Henning Kagermann told German public ZDF television that future e-car acceptance would depend on trends in fuel and electricity pricing and \"how cheap batteries can become.\" Kagermann forecast that so-called e-car sales would accelerate from 2015. Like Chancellor Merkel, he ruled out the use of sales incentives for prospective e-car buyers. The president of the German VDA automobile federation, Matthias Wissman, who is a former conservative cabinet minister, called on Merkel's center-right coalition government to consider tax rebates for future company e-car fleets. The German ADAC automobile club said in a survey it had determined that 47 percent of motorists are not willing to switch to an electric vehicle if it costs more than a traditional petrol or diesel-fueled vehicle. Only 33 percent accepted a maximum battery re-loading duration of two hours, added the ADAC. 'Hard' battle versus conventional cars Daimler chief Dieter Zetsche said electric cars had a \"damn hard\" battle in competition with conventional combustion motors because of their higher purchase cost and limited battery range. So-called car-sharing rental schemes in urban areas would provide key \"building blocks\" forward, Zetsche said. Earlier this month, the German ADFC cyclist club said over one million battery-assisted cycles called Pedeclecs are now used on Germany's roads and cycle routes. It forecast that a further 400,000 would come into use this year. ipj/jr (glp, dpa, Reuters, AFP)",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Peter Ramsauer",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Peter Ramsauer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Peter Ramsauer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Peter Ramsauer",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Peter Ramsauer",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Dieter Zetsche",
+      "Daimler",
+      "head_of"
+    ],
+    [
+      "Dieter Zetsche",
+      "Daimler",
+      "member_of"
+    ],
+    [
+      "Henning Kagermann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Henning Kagermann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Henning Kagermann",
+      "National Electro-mobility Platform",
+      "head_of"
+    ],
+    [
+      "Henning Kagermann",
+      "National Electro-mobility Platform",
+      "member_of"
+    ],
+    [
+      "Siim Kallas",
+      "Europe",
+      "member_of"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "National Electro-mobility Platform",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "National Electro-mobility Platform",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "ZDF",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ZDF",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "VDA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "VDA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Matthias Wissman",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Matthias Wissman",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Matthias Wissman",
+      "VDA",
+      "head_of"
+    ],
+    [
+      "Matthias Wissman",
+      "VDA",
+      "member_of"
+    ],
+    [
+      "ADAC",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ADAC",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Daimler",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Daimler",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "ADFC",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ADFC",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

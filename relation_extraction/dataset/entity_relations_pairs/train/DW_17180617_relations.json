@@ -1,0 +1,145 @@
+{
+  "content": "'US and Germany can't afford chasm of trust'\nThe alleged NSA monitoring of Chancellor Angela Merkel's mobile could have serious consequences. The EU should make the first step in raising the bar on transparency, former Hillary Clinton adviser Ben Scott told DW.\nBen Scott is currently program director at the Berlin-based think tank Stiftung Neue Verantwortung (New Responsibility Foundation). He served as an adviser on technology and foreign policy to former Secretary of State Hillary Clinton in Barack Obama's first administration. DW: US intelligence stands accused of having spied on German Chancellor Angela Merkel's mobile. Berlin is upset and Merkel has already called US President Obama to discuss the matter. How big is the damage? Ben Scott: If it's true that the National Security Agency has tapped the phone of the German chancellor then that is a pretty serious political problem. And it indicates the misalignment between US American and European expectations on appropriate practices, on intelligence and foreign surveillance. Were you surprised at all when you heard about the allegations? Yes - pretty surprised. Tapping the phone of a world leader is something that I think is a decision you don't take lightly and has a lot of consequences if it is exposed. How will or should Germany react to this? We've already seen the initial reaction which is instant outrage and demands for explanation at every level all the way up to the top. But I think that the most important medium-term response is not just a demand to stop surveilling the chancellor's phone but a demand for an engagement government to government so that we'll have a policy solution. This incident is reflective of a larger division between the two countries' expectations and policies on surveillance. And I think it requires discussion and realignment because the US and Germany of course are long-time and very important allies. They can not afford to be separated by a big chasm of trust. What are the implications in terms of Trans-Atlantic relations? I think it speaks for the need for Trans-Atlantic engagement on these issues and a resolution about what standard practice should look like between allies when it comes to mass surveillance technologies. The irony of the (Edward) Snowden revelations is that we now know quite a bit about the NSA's practices. We don't know those facts about the German intelligence agency or the French intelligence agency. And if Europe wants to raise the bar and say this is the new standard for digital surveillance and this is appropriate and this is what's not and we demand the that United States comply, they have to be much more transparent about what they themselves do. There is no minimum standard for the protection of privacy among European states. Pretty much every country protects its own citizens at a much higher standard than they protect foreign citizens and I think one of the first steps has to be that the EU comes up with a common agreement amongst its member states. Do you think it's actually possible that EU members amongst themselves or the EU and the US can agree on a no-spy deal? I think it is. If NATO allies can organize themselves to go to war together, they can certainly decide to stop spying on one another. It's a question of political will and it's a question I think of a public debate of the costs and benefits of surveillance on your friends. What are the benefits that are so important to one side or the other that it's worth risking the political damage if exposed. And I think we should be careful to not put all the blame on Washington because it's clear from reading between the lines of all the stories that many European counties are doing very similar things - they simply don't have the capabilities the NSA does. How do you think the US will react to this? Does it register in Washington that the spying scandal is causing major damage in diplomatic ties with its allies? If hasn't registered yet, it is now. And I think that there will be a reaction of some kind. You've already seen President Obama make several statements about the reevaluation of surveillance policy, about making hard decision about what's really necessary in counter terrorism and what can be scaled back. He made some comments in his speech in the UN general assembly which I think are promising that the White House sees a need for reform and realignment with Europe. But what that looks like specifically remains to be seen. Is it even possible to roll back the clock here? Isn't it a fact that surveillance simply has become - in a way - so easy that intelligence services will always be tempted? I think that we have lots of technologies that would enable us to do things that we should not do. Whether it's digital surveillance or the use of powerful weapons. But that's why we have laws in democratic societies and I am confident that if the White House and the US congress changed the law and restricted the NSA from a practice that permits surveilling the German chancellor for example - then the NSA would stop doing that. The NSA has restrictions on what they do now and I think that these are honored or at least they attempt to honor them. Those screws could be tightened, the programs could be restricted further and the NSA would react appropriately. And I think so would European intelligence agencies. I think the general rule of thumb of any intelligence agency - at least in the West - is that if it's technically possible, legal and financially affordable, then it's happening. And if you're going to make changes, the place to change is the legal side. If you're going to make certain things illegal you have to be very clear where the lines are - otherwise no one is going to believe you. So there is the legal problem and the problem of trust. You not only have to change the laws to reset the lines to where they should be. You have to persuade people that it's real and that your oversight and accountability is meaningful.",
+  "relations": [
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "National Security Agency",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "National Security Agency",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Ben Scott",
+      "Hillary Clinton",
+      "advisor_of"
+    ],
+    [
+      "Ben Scott",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Ben Scott",
+      "New Responsibility Foundation",
+      "head_of"
+    ],
+    [
+      "Ben Scott",
+      "New Responsibility Foundation",
+      "member_of"
+    ],
+    [
+      "Hillary Clinton",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "New Responsibility Foundation",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "New Responsibility Foundation",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "New Responsibility Foundation",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "(Edward) Snowden",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "White House",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "United States",
+      "in0"
+    ]
+  ]
+}

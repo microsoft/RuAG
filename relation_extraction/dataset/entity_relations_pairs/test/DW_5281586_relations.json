@@ -1,0 +1,110 @@
+{
+  "content": "Spain takes in first of five Guantanamo detainees\nThe first of five Guantanamo inmates slated to be taken in by Spain has arrived there. The move shows Madrid's support of US efforts to close the controversial prison.\nSpanish Interior Minister Alfredo Perez Rubalcaba said the first inmate from the US prison at Guantanamo Bay had arrived in his country. Madrid has agreed to host five prisoners, the largest commitment yet from a European country. Citing privacy concerns, Rubalcaba refused to give the prisoner's name or any identifying information, except to say he was a Palestinian. The new arrival will be able to work and move around Spain as he wishes, but will not be able to leave the country. \"He is a Palestinian, he has already arrived in our country. We do not want to give out further details because we want everyone who comes to live in our country to be able to live their lives normally,\" he told a news conference. Spain urges others to 'do the utmost' Spain's decision to take five Guantanamo detainees is part of an effort to help US President Barack Obama with his plans to shut down the jail. The prison at Guantanamo Bay, Cuba, was set up at a US navy base by former President George W. Bush in the wake of the Sept. 11, 2001 attacks. Spanish Foreign Minister Miguel Angel Moratinos has urged other European countries \"to do their utmost\" to take in former Guantanamo detainees as well. Third countries are being asked to take in detainees who are cleared of any charges, but who can't be sent back to their homelands for fear of persecution. Obama had said he would close the prison by January 22, 2010, yet the deadline passed unmet. Some 200 detainees remain there, but finding places to take in the prisoners - even the dozens already cleared for release - has proved controversial. jen/AFP/AP Editor: Andreas Illmer",
+  "relations": [
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Guantanamo Bay",
+      "Cuba",
+      "in0"
+    ],
+    [
+      "Alfredo Perez Rubalcaba",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Alfredo Perez Rubalcaba",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Alfredo Perez Rubalcaba",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Alfredo Perez Rubalcaba",
+      "Spain",
+      "minister_of"
+    ],
+    [
+      "Alfredo Perez Rubalcaba",
+      "Spanish",
+      "minister_of-x"
+    ],
+    [
+      "Guantanamo",
+      "Cuba",
+      "in0"
+    ],
+    [
+      "Madrid",
+      "Spain",
+      "in0"
+    ],
+    [
+      "Madrid",
+      "Spanish",
+      "in0-x"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Miguel Angel Moratinos",
+      "Spain",
+      "agent_of"
+    ],
+    [
+      "Miguel Angel Moratinos",
+      "Spain",
+      "citizen_of"
+    ],
+    [
+      "Miguel Angel Moratinos",
+      "Spanish",
+      "citizen_of-x"
+    ],
+    [
+      "Miguel Angel Moratinos",
+      "Spain",
+      "minister_of"
+    ],
+    [
+      "Miguel Angel Moratinos",
+      "Spanish",
+      "minister_of-x"
+    ]
+  ]
+}

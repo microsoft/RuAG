@@ -1,0 +1,310 @@
+{
+  "content": "A Personal Transatlantic Relationship\nWhile President Bush's visit to Europe dominates the headlines, many people are taking cues from the transatlantic political relationship and building bridges themselves.\n\"In the last few years, I've really become a fan of America,\" said Florens Focke, a German exchange student in the United States, adding that he was more nervous about meeting his host family than how US-German politics would play out in his daily life. Focke labels himself more conservative than most Germans, but he says he doesn't always agree with his host country's foreign policy. He wants to use his year-long exchange to a small town outside Dayton, Ohio, to learn about Americans' opinions on their country's position in the world. Others, like Focke, in both Germany and the USA haven't been put off by international politics -- even when the German-American relationship was stretched to its thinnest -- but they have had an effect. Seeking dialog \"Some personal relationships may have suffered so that they are not the same as before,\" said Michael Schuster, president of the Confederation of German-American Clubs, a group that sponsors about 30 exchanges each year. \"But even when times are unpleasant, we have to work through them and seek a dialog to improve contact between people.\" German interest in studying in the US has fallen since the run-up to the war in Iraq. For the 2003/2004 school year 8,745 Germans chose to study there, a 6 percent drop from the previous year, according to a November 2004 report from the Institute of International Education (IIE) in New York. The decline has actually been much sharper, according to Katrin Alt-Rudin, head of the exchange and education team at the Amerika Haus in Munich. She said there have been about 30 percent fewer inquiries regarding the United States, while interest in Australia, Canada and New Zealand is growing. It's not exclusively political concerns that make students look to other English-speaking countries. Difficulties getting a visa and the high cost of education in the US also contribute to a shrinking interest in studying there, said Christian Schäfer of the German Academic Exchange Service. Bucking a general downward trend, the number of Americans who entered Germans schools or universities in 2002/2003 jumped 15 percent to 5,587, making Germany the seventh choice for Americans studying abroad, according to the IIE report. Separating individuals from policy Eric Schranz, 33, an American scientist doing postdoctoral research in plant genetics at the Max Planck Institute of Chemical Ecology in Jena, came to Germany just as the US was gearing up for war in Iraq. He had reservations about saying where he came from when he arrived in Germany, which bitterly opposed the war, two years ago. At first I thought twice before admitting my nationality,\" Schranz said. \"Then I happily realized people universally said, 'It's not you as an American we have a problem with but the policies of the country.'\" Separating people from policies is a typical German trait while Americans tend to take criticism more personally, according to John Magee of The Magee Company, which specializes in matters of transatlantic integration. \"Americans feel if you criticize my country, you criticize my family,\" he said. Reactions in the United States were mainly positive when German exchange student Focke brought up his nationality, but he also faced questions -- though never personal affronts -- about Germany's role in the Second World War as well as its decision not to get involved in Iraq. \"I explain that being German doesn't make you a Nazi, and that Germany's history with the Second World War still influences its decisions about war,\" Focke said. \"Usually people understand.\"",
+  "relations": [
+    [
+      "Institute of International Education",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Institute of International Education",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Institute of International Education",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Institute of International Education",
+      "New York",
+      "based_in2"
+    ],
+    [
+      "Florens Focke",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Florens Focke",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Florens Focke",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Eric Schranz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Eric Schranz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Eric Schranz",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Eric Schranz",
+      "Max Planck Institute of Chemical Ecology",
+      "member_of"
+    ],
+    [
+      "Bush",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Bush",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Bush",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Bush",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Bush",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Bush",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Bush",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Dayton",
+      "United States",
+      "in0"
+    ],
+    [
+      "Dayton",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Dayton",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Ohio",
+      "United States",
+      "in0"
+    ],
+    [
+      "Ohio",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Ohio",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Michael Schuster",
+      "Confederation of German-American Clubs",
+      "head_of"
+    ],
+    [
+      "Michael Schuster",
+      "Confederation of German-American Clubs",
+      "member_of"
+    ],
+    [
+      "New York",
+      "United States",
+      "in0"
+    ],
+    [
+      "New York",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "New York",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Katrin Alt-Rudin",
+      "Amerika Haus",
+      "head_of"
+    ],
+    [
+      "Katrin Alt-Rudin",
+      "Amerika Haus",
+      "member_of"
+    ],
+    [
+      "Amerika Haus",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Amerika Haus",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Amerika Haus",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Amerika Haus",
+      "Munich",
+      "based_in2"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Munich",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Christian Schäfer",
+      "German Academic Exchange Service",
+      "member_of"
+    ],
+    [
+      "German Academic Exchange Service",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Academic Exchange Service",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Academic Exchange Service",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Max Planck Institute of Chemical Ecology",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Max Planck Institute of Chemical Ecology",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Max Planck Institute of Chemical Ecology",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Max Planck Institute of Chemical Ecology",
+      "Jena",
+      "based_in2"
+    ],
+    [
+      "Jena",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Jena",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Jena",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "John Magee",
+      "The Magee Company",
+      "member_of"
+    ],
+    [
+      "The Magee Company",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "The Magee Company",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "The Magee Company",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Second World War",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Nazi",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Nazi",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Nazi",
+      "Germans",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "content": "Memorial held for UK MP Jo Cox in Yorkshire\nA memorial service has been held for British MP Jo Cox in the West Yorkshire town where she was gunned down. Reverend Paul Knight hailed her as a \"21st century Good Samaritan.\"\nSlain British lawmaker Jo Cox was remembered in a memorial service on Sunday in the town of Birstall, where she was killed going into a meeting with constituents. Cox, a Labour MP, was shot on Thursday by a man who yelled xenophobic slogans as he committed the crime. \"Her humanity was powerful and compelling and we would do well to recognize her as an amazing example - a 21st century Good Samaritan,\" said Reverend Paul Knight, who led the Anglican service in her memory. \"Jo was someone who went out of her way to help others. I regret to say I didn't know what she was like as a girl, but she grew into a fervent advocate for the poor and oppressed,\" Knight continued. Charity fund for humanitarian causes To further honor her memory, friends of Cox's have set up a charity fund that made its 500,000 pound goal ($718,000) in less than a day following 17,000 donations. The money has been split evenly among her three favorite charities: Hope Not Hate, a UK group that seeks to challenge and defeat the politics of hate and extremism within local communities; White Helmets, a grassroots, volunteer civil defense organization that operates throughout opposition-controlled Syria and the Royal Voluntary Service (RVS), a UK organization set up in 1938 to involve women in preparing for civil-defense in the time of war. The patron of the RVS is Queen Elizabeth II, and its 35,000 volunteers provide practical services to older and housebound people every day, such as Meals on Wheels, Good Neighbours and community transport. \"The system was overwhelmed with the scale and speed of the donations,\" said Nick Grono, head of the Freedom Fund, an NGO combating modern-day slavery and Jo Cox's former employer. Farage: I'm a 'victim' of political hatred Sunday also saw the resumption of campaigning for Britain's EU referendum. Some have argued that Jo Cox's murderer may have been spurred on by the anti-immigration feeling stirred up by the Brexit campaign. On the day of her death, the Leave campaign and its leader, UKIP head Nigel Farage, presented a new poster connecting the influx of refugees to Europe to the EU's \"failure\" of Britain. Farage has refused to apologize or rescind the poster, although it depicts migrants in the EU nation of Slovenia. He has also referred to himself as a \"victim\" of political hatred determined to blame the Leave camp for Cox's death, in an interview on British television on Sunday. Cox's suspected killer, 52-year-old Thomas Mair, refused to give his real name when he appeared in court on Saturday, instead saying \"death to traitors, freedom for Britain.\"",
+  "relations": [
+    [
+      "Jo Cox",
+      "UK",
+      "agent_of"
+    ],
+    [
+      "Jo Cox",
+      "British",
+      "agent_of-x"
+    ],
+    [
+      "Jo Cox",
+      "Britain",
+      "agent_of-x"
+    ],
+    [
+      "Jo Cox",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Jo Cox",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Jo Cox",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Jo Cox",
+      "Labour",
+      "member_of"
+    ],
+    [
+      "Birstall",
+      "UK",
+      "in0"
+    ],
+    [
+      "Birstall",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Birstall",
+      "Britain",
+      "in0-x"
+    ],
+    [
+      "Nigel Farage",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Nigel Farage",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Nigel Farage",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Nigel Farage",
+      "UKIP",
+      "head_of"
+    ],
+    [
+      "Nigel Farage",
+      "UKIP",
+      "member_of"
+    ],
+    [
+      "Paul Knight",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Paul Knight",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Paul Knight",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "West Yorkshire",
+      "UK",
+      "in0"
+    ],
+    [
+      "West Yorkshire",
+      "British",
+      "in0-x"
+    ],
+    [
+      "West Yorkshire",
+      "Britain",
+      "in0-x"
+    ],
+    [
+      "Royal Voluntary Service",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Royal Voluntary Service",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Royal Voluntary Service",
+      "Britain",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "UK",
+      "gpe0"
+    ],
+    [
+      "Labour",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Labour",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Labour",
+      "Britain",
+      "based_in0-x"
+    ],
+    [
+      "Hope Not Hate",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Hope Not Hate",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Hope Not Hate",
+      "Britain",
+      "based_in0-x"
+    ],
+    [
+      "Elizabeth II",
+      "UK",
+      "agent_of"
+    ],
+    [
+      "Elizabeth II",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Elizabeth II",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Elizabeth II",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Elizabeth II",
+      "UK",
+      "head_of_state"
+    ],
+    [
+      "Elizabeth II",
+      "British",
+      "head_of_state-x"
+    ],
+    [
+      "Elizabeth II",
+      "Britain",
+      "head_of_state-x"
+    ],
+    [
+      "Meals on Wheels",
+      "Royal Voluntary Service",
+      "part_of"
+    ],
+    [
+      "Good Neighbours",
+      "Royal Voluntary Service",
+      "part_of"
+    ],
+    [
+      "Nick Grono",
+      "Freedom Fund",
+      "head_of"
+    ],
+    [
+      "Nick Grono",
+      "Freedom Fund",
+      "member_of"
+    ],
+    [
+      "Britain",
+      "UK",
+      "gpe0"
+    ],
+    [
+      "UKIP",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "UKIP",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "UKIP",
+      "Britain",
+      "based_in0-x"
+    ],
+    [
+      "Thomas Mair",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Thomas Mair",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas Mair",
+      "Britain",
+      "citizen_of-x"
+    ]
+  ]
+}

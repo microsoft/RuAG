@@ -1,0 +1,165 @@
+{
+  "content": "Hamas leader Khaled Meshaal ends exile with Gaza visit\nKhaled Meshaal, the leader-in-exile of Hamas, has crossed into Gaza for the first time ever. There is fierce speculation over whether the visit marks a political comeback for Meshaal or the end of his time as leader.\nThe exiled leader of Hamas, the political group that runs the Gaza Strip, set foot on Palestinian soil for the first time in 45 years on Friday. Khaled Meshaal, who has not returned to the Palestinian Territories since he left the West Bank aged eleven, kissed the soil on his arrival before greeting Gaza's prime minister, Ismail Haniya of Hamas. Meshaal was accompanied by his deputy, Mussa Abu Marzuk, and a party of other senior officials as he drove through the Gaza crossing. Meshaal will stay in Gaza for around 48 hours. He is expected to attend an open-air rally on Saturday, which will celebrate Hamas' 25th anniversary and what the group refers to as its victory against Israel last month. Bouncing back or saying goodbye? Meshaal, who survived an Israeli assassination attempt in Jordan in 1997, was based in Syria from 2004 until January this year; by that point the war between Syrian President Assad and rebels meant the arrangement was no longer workable. The position of the 56-year-old briefly suffered as a result- he had derived much of his authority from cultivating close ties with both Damascus and Tehran from that base. But the exiled leader, who now runs Hamas from Qatar and Cairo, regained ground during the confrontation which erupted between Israel and Gaza on November 14 and left 174 Palestinians and six Israelis dead. He worked closely with Cairo to broker the ceasefire which brought the fighting to an end. Nevertheless, there is speculation that Meshaal's Gaza trip marks the conclusion of a secret leadership election for his successor. Broader unease about the position of the Palestinian Territories vis a vis Israel parallels such uncertainty over leadership. At the end of November, the UN voted to upgrade the status of the Palestinian Territories to \"non-member observer status.\" But Israeli President Benjamin Netanyahu has vowed to plow ahead with controversial plans to build 3,000 settler homes in the West Bank, a move that German Chancellor Angela Merkel cautioned against during talks with Netanyahu in Berlin on Thursday. sej/rg (Reuters, AFP)",
+  "relations": [
+    [
+      "Khaled Meshaal",
+      "Hamas",
+      "head_of"
+    ],
+    [
+      "Khaled Meshaal",
+      "Hamas",
+      "member_of"
+    ],
+    [
+      "Hamas",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Hamas",
+      "Palestinians",
+      "based_in0-x"
+    ],
+    [
+      "Gaza Strip",
+      "Palestinian Territories",
+      "in0"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israelis",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_state"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_state-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israelis",
+      "head_of_state-x"
+    ],
+    [
+      "West Bank",
+      "Palestinian Territories",
+      "in0"
+    ],
+    [
+      "Ismail Haniya",
+      "Gaza Strip",
+      "agent_of"
+    ],
+    [
+      "Ismail Haniya",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Ismail Haniya",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Ismail Haniya",
+      "Gaza Strip",
+      "head_of_gov"
+    ],
+    [
+      "Mussa Abu Marzuk",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Mussa Abu Marzuk",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Israelis",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

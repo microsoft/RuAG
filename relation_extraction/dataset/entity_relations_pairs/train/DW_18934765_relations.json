@@ -1,0 +1,80 @@
+{
+  "content": "Bayern's Uli Hoeness hopes for March release from prison\nA court in Augsburg, Bavaria, is examining whether Uli Hoeness should be freed on probation at the mid-way point of his sentence. The longstanding Bayern Munich boss is serving three and a half years for tax evasion.\nFrom February 29 next year, Bayern Munich's former commercial manager and president, Uli Hoeness, could be fully released on parole - less than two years after his conviction for tax evasion. An Augsburg court on Tuesday confirmed that it had received an application to consider Hoeness for release at the half-way point of his sentence. \"After hearing from the convicted, the chamber will have to decide whether the legal conditions for this have been fulfilled,\" the court said in a press release. Spokesman Claus Pätzel said that a decision was highly unlikely before mid-January. Hoeness' lawyer first said in November that his client would seek the release, often dubbed a \"half sentence\" in German legal circles. Hoeness was sentenced in March 2014, after dramatically confessing to tax evasion worth some 28.5 million euros ($31.2 million at today's exchange) in court. Much of the money hailed from successful speculation on the stock markets, he said. The 63-year-old Hoeness has already been granted day-release prisoner status; he works with Bayern Munich's youth setup during the days, spending five nights a week at an open prison in Rothenfeld. He's permitted to spend most weekends in his family home at the lakeside town of Tegernsee, south of Munich. Home for Christmas, listening to Adele Hoeness, who has three days off work at the Bayern academy for the festive period, offered Bavarians something of a status update on Monday, calling private radio station \"Antenne Bayern\" to say how important it was to him to be able to spend Christmas with his family. He and his wife Susi had agreed \"that we will not give each other gifts, because I can be at home,\" Hoeness said. \"That's enough of a present.\" He also donated 10,000 euros to a charitable cause on air, requesting that the station play \"Hello\" by UK popstar Adele; Hoeness dedicated the donation and song to \"my beloved wife Susi, my children and my son- and daughter-in-law,\" saying that they had made it possible for him \"to get through this difficult time.\" Various factors could speak in Hoeness' favor for early release. His 2014 conviction was his first offense, and according to recent reports from the \"Bild\" newspaper, he has repaid his outstanding taxes plus interest. msh/pfd (dpa, SID)",
+  "relations": [
+    [
+      "Bayern Munich",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Augsburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Uli Hoeness",
+      "Bayern Munich",
+      "head_of"
+    ],
+    [
+      "Uli Hoeness",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Uli Hoeness",
+      "Susi",
+      "spouse_of"
+    ],
+    [
+      "Claus Pätzel",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Rothenfeld",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bavaria",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Tegernsee",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Adele",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Bavarians",
+      "Bavaria",
+      "gpe1"
+    ],
+    [
+      "Antenne Bayern",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Susi",
+      "Uli Hoeness",
+      "spouse_of"
+    ],
+    [
+      "Bild",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

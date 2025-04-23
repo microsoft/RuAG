@@ -1,0 +1,80 @@
+{
+  "content": "Four German cities compete to host next Eurovision Song Contest\nBerlin, Duesseldorf, Hamburg and Hanover have all submitted bids to host the next Eurovision Song Contest. Germany won the honor after Hanover-born Lena Meyer-Landrut swept the Grand Prix in Oslo in May.\nBerlin, Duesseldorf, Hamburg and Hanover are all in the running to host the 2011 Eurovision Song Contest. The four cities submitted their bids to the German broadcaster Norddeutscher Rundfunk (NDR) on Friday, August 20. Now it's up to NDR and fellow public broadcaster ARD, in collaboration with the European Broadcasting Union, to decide which city should have the honor of hosting the popular European music competition. Germany won the chance to stage the event after 19-year-old Lena Meyer-Landrut from Hanover won the international competition in Oslo in May this year with her song \"Satellite.\" Lena is planning to sing for her country again at next year's contest. New format for the contest The Eurovision Song Contest now takes place over three evenings of fast-paced and flashy entertainment. Smaller countries have to compete in two semi-finals, broadcast in the week running up to the grand final. \"The proposals we've received are very detailed and impressive,\" said Thomas Schreiber, entertainment coordinator for German public television. \"We're going to go through the documents carefully, to work out which place has the best facilities to produce three TV shows, which venue has the most convincing infrastructure and the best economic conditions,\" Schreiber said. \"The cities which have applied are highly motivated,\" he added. The decision is expected to be announced in the coming weeks. The final of the Eurovision Song Contest 2011 will take place on Saturday, May 14. Author: Joanna Impey (AFP/AP/dpa) Editor: Toma Tasovac",
+  "relations": [
+    [
+      "Norddeutscher Rundfunk",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Norddeutscher Rundfunk",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Lena Meyer-Landrut",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Lena Meyer-Landrut",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas Schreiber",
+      "ARD",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Duesseldorf",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Duesseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hanover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hanover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Satellite",
+      "Lena Meyer-Landrut",
+      "created_by"
+    ]
+  ]
+}

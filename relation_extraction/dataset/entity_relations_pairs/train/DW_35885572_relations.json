@@ -1,0 +1,45 @@
+{
+  "content": "Gruyere dominates Switzerland's Swiss Cheese Awards\nCheesemakers have competed in a delectable competition to determine the nation's best cheese. The awards' president said there were \"some surprising things\" in the innovation category.\nSwiss Cheese Awards kicked off over the weekend with more than 140 judges taking part to determine the best strain of Switzerland's delectable food product. The competition included more than 700 cheeses from 350 cheesemakers, who examined the taste and consistency in accordance with strict regulations. However, Swiss cheese was not the sole variant to be examined by those determining the competition's winners. \"We are witnessing a diversification and - very interestingly - there is an innovation category in the contest,\" said Jacques Gygax, president of the Swiss Cheese Awards. \"This is for products that have been on the market for less than two years or not yet even on the market, and there were some surprising things, a lot of creativity. We cannot reinvent cheese, but there is a great diversity in this cheese world,\" he added. The judges, considered \"significant players of the Swiss and international cheese industry,\" chose Jean-Claude Pittet as the grand-prize winner with a gruyere. Pittet's strain was created in the Alps, according to local media. ls/ (Reuters, 1815)",
+  "relations": [
+    [
+      "Jacques Gygax",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Jacques Gygax",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Jacques Gygax",
+      "Swiss Cheese Awards",
+      "head_of"
+    ],
+    [
+      "Jacques Gygax",
+      "Swiss Cheese Awards",
+      "member_of"
+    ],
+    [
+      "Jean-Claude Pittet",
+      "Swiss Cheese Awards",
+      "award_received"
+    ],
+    [
+      "Jean-Claude Pittet",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Jean-Claude Pittet",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ]
+  ]
+}

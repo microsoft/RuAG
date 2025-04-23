@@ -1,0 +1,380 @@
+{
+  "content": "Amid injury woes, Bayern look to exorcise Gladbach defeat\nThe Bundesliga's 16th matchday kicks off with Mainz hosting Stuttgart. The weekend's schedule also features a couple of derbies as Bayern look to bounce back from their first defeat of the season- without Frank Ribery.\nDespite being bitten hard by the injury bug Bayern should still like their chances when they host Ingolstadt in the first Bundesliga derby between the two Bavarian clubs. Bayern cruised to victory to finish top of their group in the Champions League in midweek, but are coming off a damper in Mönchengladback last weekend, where they suffered a 3-1 defeat to Andre Schubert's men - their first in the Bundesliga since he took over. Ahead of Saturday's contest, Bayern stressed that they would not be taking their opponents lightly. \"They deserve to be where they are in the league (11th) and I hope they stay up (in the Bundesliga),\" Bayern captain Philipp Lahm said. \"They don't just play defensively and don't just stand at the back.\" Ribery and Benatia add to injury woes Coach Pep Guardiola will have to rearrange his starting lineup yet again on Saturday, after the news that Frank Ribery (pictured above), picked up a muscle strain in Zagreb and will be out for the rest of the year. Center back Medhi Benatia is also out after picking up a thigh strain in the Croatian capital. The news is particularly bitter for Ribery, who just a week ago had returned to action after an absence of nine months due to an ankle injury. At his press conference on Friday, Guardiola also confirmed that Arjen Robben remained injured. Also out are David Alaba, Mario Götze, Douglas Costa, and Juan Bernat. Champions League frustrations Two teams that didn't fare so well in the Champions League this past week, face each other in what promises to be the most interesting game of matchday 16, as third-placed Mönchengladbach travel to eighth-placed Leverkusen in a Rhineland derby. Gladbach are coming off a 4-2 defeat at Manchester City, which saw them not only crash out of the Champions League, but also miss the Europa League cut. Leverkusen, meanwhile, were unable to get the winning goal against a weakened Barcelona side, which they needed to reach the round of 16 in the world's top club competition. Gladbach's coach Schubert is looking to extend his run of eight wins and two draws in the Bundesliga since he took over from Lucien Favre six games into the campaign, and he appears unconcerned about how the defeat in the north of England might affect his players going into Leverkusen. \"The boys are physically very stable and know how to evaluate the game,\" he said, adding that the match would be\"between two teams who are eye to eye.\" His charges also have the slight advantage of having had one more day of rest than Leverkusen. Schmidt feeling the heat Schubert's opposite number, Roger Schmidt, is starting to feel the heat, having lost six games in the Bundesliga this season, almost equaling the total number of defeats Leverkusen suffered last season (seven), when they finished fourth. He was also was extremely frustrated by the \"Werkself's\" failure to put away a plethora of chances against Barca on Wednesday, describing it as a \"tragedy\" that they failed to advance. On the other hand, he praised the fact that they did create the chances in the first place and said he hoped his charges could use the \"momentum\" from that performance to their advantage. Matchday 16 in the Bundesliga: Friday, December 11 Mainz 0-0 Stuttgart Saturday, December 12 Bayern Munich vs. Ingolstadt Hoffenheim vs. Hannover Darmstadt vs. Hertha Berlin Wolfsburg vs. Hamburg Werder Bremen vs. Cologne Bayer Leverkusen vs. Borussia Mönchengladbach Sunday, December 13 Augsburg vs. Schalke Dortmund vs. Frankfurt",
+  "relations": [
+    [
+      "Borussia Mönchengladbach",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "Bayer Leverkusen",
+      "vs"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "Manchester City",
+      "vs"
+    ],
+    [
+      "Barcelona",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Barcelona",
+      "Bayer Leverkusen",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "Ingolstadt",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "Mönchengladback",
+      "vs"
+    ],
+    [
+      "Frank Ribery",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Frank Ribery",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Andre Schubert",
+      "Mönchengladback",
+      "coach_of"
+    ],
+    [
+      "Andre Schubert",
+      "Mönchengladback",
+      "member_of"
+    ],
+    [
+      "Andre Schubert",
+      "Mönchengladback",
+      "player_of"
+    ],
+    [
+      "Pep Guardiola",
+      "Bayern Munich",
+      "coach_of"
+    ],
+    [
+      "Pep Guardiola",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Medhi Benatia",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Medhi Benatia",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Roger Schmidt",
+      "Bayer Leverkusen",
+      "coach_of"
+    ],
+    [
+      "Roger Schmidt",
+      "Bayer Leverkusen",
+      "member_of"
+    ],
+    [
+      "Bayer Leverkusen",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bayer Leverkusen",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Bayer Leverkusen",
+      "Borussia Mönchengladbach",
+      "vs"
+    ],
+    [
+      "Bayer Leverkusen",
+      "Barcelona",
+      "vs"
+    ],
+    [
+      "Mainz",
+      "Stuttgart",
+      "vs"
+    ],
+    [
+      "Stuttgart",
+      "Mainz",
+      "vs"
+    ],
+    [
+      "Ingolstadt",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Ingolstadt",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Mönchengladback",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Mönchengladback",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Mönchengladback",
+      "Bayern Munich",
+      "won_vs"
+    ],
+    [
+      "Philipp Lahm",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Philipp Lahm",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Zagreb",
+      "Croatian",
+      "in0-x"
+    ],
+    [
+      "Arjen Robben",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Arjen Robben",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "David Alaba",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "David Alaba",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Mario Götze",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Mario Götze",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Douglas Costa",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Douglas Costa",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Juan Bernat",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Juan Bernat",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Manchester City",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Manchester City",
+      "England",
+      "based_in0"
+    ],
+    [
+      "Manchester City",
+      "Borussia Mönchengladbach",
+      "vs"
+    ],
+    [
+      "Manchester City",
+      "Borussia Mönchengladbach",
+      "won_vs"
+    ],
+    [
+      "Lucien Favre",
+      "Borussia Mönchengladbach",
+      "coach_of"
+    ],
+    [
+      "Lucien Favre",
+      "Borussia Mönchengladbach",
+      "member_of"
+    ],
+    [
+      "Hoffenheim",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hoffenheim",
+      "Hannover",
+      "vs"
+    ],
+    [
+      "Hannover",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hannover",
+      "Hoffenheim",
+      "vs"
+    ],
+    [
+      "Darmstadt",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Darmstadt",
+      "Hertha Berlin",
+      "vs"
+    ],
+    [
+      "Hertha Berlin",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hertha Berlin",
+      "Darmstadt",
+      "vs"
+    ],
+    [
+      "Wolfsburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Wolfsburg",
+      "Hamburg",
+      "vs"
+    ],
+    [
+      "Hamburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hamburg",
+      "Wolfsburg",
+      "vs"
+    ],
+    [
+      "Werder Bremen",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Werder Bremen",
+      "Cologne",
+      "vs"
+    ],
+    [
+      "Cologne",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Cologne",
+      "Werder Bremen",
+      "vs"
+    ],
+    [
+      "Augsburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Augsburg",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Schalke",
+      "Augsburg",
+      "vs"
+    ],
+    [
+      "Dortmund",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Dortmund",
+      "Frankfurt",
+      "vs"
+    ],
+    [
+      "Frankfurt",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Frankfurt",
+      "Dortmund",
+      "vs"
+    ]
+  ]
+}

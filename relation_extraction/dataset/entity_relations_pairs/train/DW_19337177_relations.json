@@ -1,0 +1,130 @@
+{
+  "content": "Prize for Achievement in African Leadership goes unclaimed, again\nThe Prize for Achievement in African Leadership again has no winner this year, the Mo Ibrahim Foundation has announced. The multi-million dollar prize is for heads of state who have left office in the last three years.\nThe Mo Ibrahim Foundation announced on Thursday that the seven-member prize committee had failed to find a winner for the 2015 award, after no one met the criteria. \"When we launched the prize 10 years ago, we deliberately set a very high bar,\" said chairman of the foundation, Mo Ibrahim, a telecoms entrepreneur. \"We want the prize to shine a spotlight on outstanding leadership to provide role models right across society, as well as supporting laureates to continue to serve the continent by sharing their wisdom and experience.\" Candidates for the prize worth $5 million (4.4 million euros) are former African executive heads of state or government who have left office in the previous three years. The prize has been awarded four times since it was established in 2006: Mozambique's Joaquim Alberto Chissano, Botswana's Festus Gontebanye Mogae, Cape Verde's Pedro De Verona Rodrigues Pires and Namibia's Hifikepunye Pohamba. South Africa's Nelson Mandela was awarded an honorary prize in 2007. The winner receives $5 million over 10 years and then $200,000 a year for life, and can apply for another $200,000 a year for good causes they support. The five criteria for the prize for former leaders include democratic election, serving of a mandated term and the demonstration of exceptional leadership. With offices in London and Senegal, the Mo Ibrahim Foundation is an African Foundation set up \"to put governance at the centre of any conversation on African development. It is our belief that governance and leadership lie at the heart of any tangible and shared improvement in the quality of life of African citizens.\" Some of the African leaders not meeting the criteria are Paul Biya who has been prime minister or president of Cameroon for 40 years, Teodoro Obiang Nguema Mbasogo, president of Equatorial Guinea for 36 years, Jose Eduardo dos Santos who has been leading Angola as president since 1979 and 92-year-old President Robert Mugabe, who has led Zimbabwe since 1980. jm/sms (Reuters)",
+  "relations": [
+    [
+      "Mo Ibrahim Foundation",
+      "London",
+      "based_in2"
+    ],
+    [
+      "Mo Ibrahim Foundation",
+      "Senegal",
+      "based_in2"
+    ],
+    [
+      "Mo Ibrahim",
+      "Mo Ibrahim Foundation",
+      "founder_of"
+    ],
+    [
+      "Joaquim Alberto Chissano",
+      "Prize for Achievement in African Leadership",
+      "award_received"
+    ],
+    [
+      "Joaquim Alberto Chissano",
+      "Mozambique",
+      "citizen_of"
+    ],
+    [
+      "Festus Gontebanye Mogae",
+      "Prize for Achievement in African Leadership",
+      "award_received"
+    ],
+    [
+      "Festus Gontebanye Mogae",
+      "Botswana",
+      "citizen_of"
+    ],
+    [
+      "Pedro De Verona Rodrigues Pires",
+      "Prize for Achievement in African Leadership",
+      "award_received"
+    ],
+    [
+      "Pedro De Verona Rodrigues Pires",
+      "Cape Verde",
+      "citizen_of"
+    ],
+    [
+      "Hifikepunye Pohamba",
+      "Prize for Achievement in African Leadership",
+      "award_received"
+    ],
+    [
+      "Hifikepunye Pohamba",
+      "Namibia",
+      "citizen_of"
+    ],
+    [
+      "Nelson Mandela",
+      "Prize for Achievement in African Leadership",
+      "award_received"
+    ],
+    [
+      "Nelson Mandela",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Paul Biya",
+      "Cameroon",
+      "agent_of"
+    ],
+    [
+      "Paul Biya",
+      "Cameroon",
+      "citizen_of"
+    ],
+    [
+      "Paul Biya",
+      "Cameroon",
+      "head_of_state"
+    ],
+    [
+      "Teodoro Obiang Nguema Mbasogo",
+      "Equatorial Guinea",
+      "agent_of"
+    ],
+    [
+      "Teodoro Obiang Nguema Mbasogo",
+      "Equatorial Guinea",
+      "citizen_of"
+    ],
+    [
+      "Teodoro Obiang Nguema Mbasogo",
+      "Equatorial Guinea",
+      "head_of_state"
+    ],
+    [
+      "Jose Eduardo dos Santos",
+      "Angola",
+      "agent_of"
+    ],
+    [
+      "Jose Eduardo dos Santos",
+      "Angola",
+      "citizen_of"
+    ],
+    [
+      "Jose Eduardo dos Santos",
+      "Angola",
+      "head_of_state"
+    ],
+    [
+      "Robert Mugabe",
+      "Zimbabwe",
+      "agent_of"
+    ],
+    [
+      "Robert Mugabe",
+      "Zimbabwe",
+      "citizen_of"
+    ],
+    [
+      "Robert Mugabe",
+      "Zimbabwe",
+      "head_of_state"
+    ]
+  ]
+}

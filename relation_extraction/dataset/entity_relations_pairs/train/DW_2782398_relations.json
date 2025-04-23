@@ -1,0 +1,100 @@
+{
+  "content": "Russian Bomb Claims Questionable, Expert Says\nThe Russian military said Tuesday, Sept. 11, that it successfully tested a vacuum bomb it described as the world's most powerful conventional weapon. It's a claim arms expert Sascha Lange said is disputable.\nSascha Lange, an expert in the analysis of arms development at the German Institute for International and Security Affairs, said a Russian video showing a massive explosion is not solid evidence that the country has developed the \"father of all bombs.\" DW-WORLD.DE: The Russians announced they detonated a new vacuum bomb, saying it was the world's most powerful conventional weapon. What do you doubt about their claims? Sascha Lange: I doubt that everything took place the way the Russians claim. The pictures that were shown on state television do not clearly show what is claimed. For example, a Tupolev 160 \"Blackjack,\" a strategic bomber, is shown opening its bomb hatch in the pictures, but you do not see the weapon fall out of the plane. A cut is made and then a body falls out of a different plane. You can recognize this because there is a different weapons bay and the bomb releases differently than it would from a \"Blackjack bomber.\" Are there additional inconsistencies? Yes. You can see the weapon in free fall and you can see an explosion. But as big as the explosion in the pictures is, you cannot tell if it was caused by the bomb that has fallen. This large explosion could also have been carried out on the ground and not have resulted from the dropped bomb. When you examine the explosion, you see it happens on a completely level plain. Then pictures are shown with buildings and vehicles that are supposed to have been destroyed by the bomb. But they are not at visible before the explosion. There are several points where all the pictures don't entirely fit together and the claims are not at all supported by these pictures. The bomb is also not shown dropping from the \"Blackjack bomber's\" weapons bay. The pictures imply what is claimed in the Russian media, but they don't show it at all. You are referring to the video shown on Russian state television? Yes, exactly. They were also shown in the news media here [in Germany] with the headline \"Russia has new bombs.\" The arms technology is not fundamentally new. The exact terminology for it is a thermobaric weapon. The Americans used them in Vietnam War as well as in the last Gulf War. The concept was even considered by the Germans in World War II. The Russians have now simply issued a news report saying, \"We have the biggest bomb.\" I think it is mainly driven by domestic, political concerns -- for the Russian population to see that Putin is the strongest and now we also have the strongest bomb. Can you say whether Russia is actually in a position to build a bomb that has four times the power of the MOAB, the Americans' strongest known conventional weapon? Fundamentally the Russians could do it. They've constructed other munitions with these warheads, such as their artillery rockets. But I would not assume that the weapon shown has four times the explosive force of the American MOAB. It doesn't match up. For optical reasons? Right. The size is not big enough. The MOAB is a large bomb with a mass of 10 tons -- that's really something completely different. The dropping that was shown on Russian television reminded me much more of an older American thermobaric weapon, the \"Daisy Cutter.\" Russia claimed that it developed this weapon for the fight against terrorism. Is the bomb suitable for that? That is just as far-fetched as the claim that the Americans want to use nuclear weapons in the hunt for terrorists. The weapon is not suited for the fight against terrorism. It's just the opposite: in operations like in Afghanistan and Iraq, militaries are using the smallest munitions possible. The trend is going in a very different direction toward the smallest possible munitions with smaller explosive radii rather than to large bombs with as much explosive force as possible. Then how would the Russians' weapon be used? Psychologically, first of all. The Americans used this type of weapon in Vietnam to make clearings for helicopters in the jungle. In Iraq, they were used to detonate minefields. In Afghanistan, these bombs have been used extremely seldom, as far as I know. There, and also in Iraq, they would more likely be used for psychological warfare. They produce an incredible explosion, even if it is a conventional weapon. But from a military point of view, it's a very rarely used weapon. Where does Russia's military stand in international comparison? Not where it would like to see itself. The Russian armed forces suffered heavily at the end of the Cold War. Planes and tanks are gradually beginning to be built again, but they cannot replace what has aged away. The level of training has severely dropped over the past 15 years. There is a gradual upward trend now, but it is starting from a very low level. The Russians have a very long way to go before their armed forces really are taken seriously.",
+  "relations": [
+    [
+      "Sascha Lange",
+      "German Institute for International and Security Affairs",
+      "member_of"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Institute for International and Security Affairs",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "DW-WORLD.DE",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW-WORLD.DE",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Russians",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Vietnam War",
+      "Vietnam",
+      "event_in0"
+    ],
+    [
+      "Gulf War",
+      "Iraq",
+      "event_in0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Putin",
+      "Russians",
+      "citizen_of-x"
+    ],
+    [
+      "Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Putin",
+      "Russian",
+      "head_of_state-x"
+    ],
+    [
+      "Putin",
+      "Russians",
+      "head_of_state-x"
+    ]
+  ]
+}

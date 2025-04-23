@@ -1,0 +1,185 @@
+{
+  "content": "For refugees, psychological trauma doesn't end in Germany\nAbout 30 percent of refugees and asylum seekers are considered traumatized. Unfortunately, the trauma doesn't always stop upon reaching Germany.\nRuan doesn't even notice the overcrowded dormitory in Cologne. The young man from Somalia only notices his constant inner restlessness. He cannot sleep well because of his nightmares. Again and again he watches as his family is killed in a militia attack right before his eyes. Ruan himself has experienced abuse, and his sister Marula was raped. Smugglers took the last of their money. Their papers were lost on the boat that took them to Italy. From there they continued their flight across France and Holland to Germany. They have already described their odyssey to authorities in Germany with the help of an interpreter. After probing questions and photographs taken by German authorities, they now prefer to be silent and not e photographed. Humiliating identification procedures If suspicious of illegal entry, German police are obliged to open an investigation and carry out so-called \"identification measures.\" Pictures are taken and fingerprints are recorded. In the case of missing papers and ambiguous information, the actual age of the refugees must be determined. Tooth positions and bone structure are considered - in a few cases also the presence of pubic hair. When these steps cannot determine a person's age X-rays of bones in the hand, chest or clavicle are taken by the Institute of Legal Medicine. Medical associations, however, have called this practice \"unethical\" and point out that the \"bone age\" may even differ by several years from the actual age of a person. Moreover, X-rays may constitute a form of bodily harm. Many young refugees find the experience humiliating, as talks with the investigating authorities revealed. Often they also complain about how they are brought from one place to another. At the request of the Berlin State Parliament in April 2013, the Berlin Senate admitted that minors were sometimes handcuffed while being transported: \"to avoid being hurt by other or themselves and to prevent the escape.\" While in custody, refugees have also been kept in open collection cells without contact to outside people while their medical data is analyzed. The Berlin Senate later said no official court order is necessary to restrict people's freedom of movement during the identification process. The nightmare of seeking asylum Ruan and Marula, like many thousands of refugees, have another problem. For each asylum application, the Federal Office for Migration and Refugees has to decide if the applicant meets the criteria for protection. In addition to establishing the first EU country the applicant entered, the office's examination includes information about asylum seekers' reason for fleeing their homeland. In the past, this information has frequently been rejected as \"insufficient\" or \"unsubstantial.\" \"What really is traumatic is the often very long asylum procedures,\" said Bernd Mesovic of the refugee rights group ProAsyl. The process can take up to one and a half years. Short-term visas giving applicants \"tolerated\" status, which allows them to stay temporarily and are often extended only at the last minute, can be especially unnerving. \"The period of uncertainty feels like helplessness and increases the post-traumatic stress from experiences before fleeing,\" said Elise Bittenbinder, describing the situation of many refugees. Bittenbinder is an educator and psychotherapist working for the Nationwide Association of Psychosocial Centers for Refugees and Victims of Torture - an umbrella group of 25 specialized agencies address the treatment of traumatized refugees. \"There has rarely been a time in history when as many people in need of treatment have come to Germany,\" added Bernd Mesovic, \"Often, fear is all that remains.\" A mountain of pressure Little attention is paid to the psychological burdens of being a refugee. Depression, anxiety as well as suicidal tendencies frequently go undetected or untreated because healthcare provided under the Asylum Seekers Benefits Act covers only acute diseases and pain. Psychological hardships are also lurking in everyday life, according to ProAsyl and charities such as Caritas and Diakonie. Asylum seekers are prohibited from working during the first months of their stay in Germany and access to language courses depends on the details of their residence permits and permitted length of stay. The forced idleness is reinforced as refugees are not permitted to leave their officially assigned accommodation. Concentrated living quarters lead to ghettoization and isolation. \"For the purchase of food, they are given vouchers banning the purchase of consumer goods, which they feel is derogatory,\" Bittenbinder said after numerous discussions with refugees. Mitigating circumstances Living conditions for refugees are supposed to improve. The Federal Constitutional Court has ruled that asylum seekers and refugees are entitled to more money and that a decent living conditions should be ensured. Vouchers are seldom used in many cities and towns anymore - and compensation for services provided by the refugees will be paid in cash. The residence requirement, which restricts travel out of the state where asylum seekers are accommodated, has already been loosened in some states, could be replaced by more permissive freedom of movement regulations, according to a federal bill approved in September by the Bundesrat, Germany's upper house of parliament. But fears for their future remain for many refugees, as it does for Ruan and Marula from Somalia.",
+  "relations": [
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin Senate",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Berlin Senate",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Berlin Senate",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Berlin Senate",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ruan",
+      "Somalia",
+      "citizen_of"
+    ],
+    [
+      "Marula",
+      "Somalia",
+      "citizen_of"
+    ],
+    [
+      "Elise Bittenbinder",
+      "Nationwide Association of Psychosocial Centers for Refugees and Victims of Torture",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Institute of Legal Medicine",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Institute of Legal Medicine",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Institute of Legal Medicine",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Institute of Legal Medicine",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin State Parliament",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Berlin State Parliament",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Berlin State Parliament",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Berlin State Parliament",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Office for Migration and Refugees",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bernd Mesovic",
+      "ProAsyl",
+      "member_of"
+    ],
+    [
+      "Asylum Seekers Benefits Act",
+      "Germany",
+      "law_of"
+    ],
+    [
+      "Caritas",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Caritas",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Diakonie",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Diakonie",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Federal Constitutional Court",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Federal Constitutional Court",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Federal Constitutional Court",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Federal Constitutional Court",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundesrat",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundesrat",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundesrat",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundesrat",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "content": "Afghan unity government in jeopardy as presidential candidate rejects vote audit\nAfghan candidate, Abdullah Abdullah, says he will not accept the \"fraudulent\" results of the presidential run-off. His announcement dashed hopes for a national unity government with his opponent, Ashraf Ghani.\nThe Afghan election commission is expected to announce the results of the second round of the presidential elections later this week following a vote audit monitored by the United Nations. The stalemate over alleged fraud in the June 14 vote has raised fears of renewed violence in the South Asian country. Abdullah said on Monday he believed he won both rounds of the polls. \"We were the winners of the election,\" Abdullah told his supporters. \"We do not accept fraudulent election results, and we will not accept a fraudulent government for one day,\" he added. While he acknowledged the \"necessity\" of a unity government, Abdullah said \"the political process had been deadlocked\" due to differences over government posts and the division of powers. Officials from both camps say there are two key impediments to forming a unity government: \"The role and power of the proposed chief executive position and the manner in which the audit results are announced, these are the two issues,\" said Mujib Rahimi, an advisor to Abdullah. Abdullah - who won the first round of the elections but failed to win a clear majority - had rejected the initial results of the second round won by his rival Ghani. The feuding candidates agreed to form a national unity government after US Secretary of State John Kerry held separate talks with them. Kerry also brokered an agreement for a UN-supervised audit of the 8.1 million votes cast in the runoff. Ghani's camp made no immediate response to Abdullah's speech. Obama's phone call The US wants an immediate end to the Afghan political impasse. Washington hopes that the new president would sign the pending Bilateral Security Agreement (BSA), which allows the US to keep some of its troops in the country after the scheduled withdrawal of NATO forces by the end of this year. US President Barack Obama telephoned the two candidates over the weekend and urged them to finalize the deal. \"The president emphasized the importance of concluding a deal on the national unity government as soon as possible in the interest of shoring up international support for Afghanistan and preserving Afghan stability,\" the White House press office said in a statement on Saturday. shs/ksb (AP, dpa, AFP)",
+  "relations": [
+    [
+      "Abdullah Abdullah",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Abdullah Abdullah",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Ashraf Ghani",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Ashraf Ghani",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "Abdullah Abdullah",
+      "is_meeting"
+    ],
+    [
+      "John Kerry",
+      "Ashraf Ghani",
+      "is_meeting"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "Mujib Rahimi",
+      "Abdullah Abdullah",
+      "advisor_of"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ]
+  ]
+}

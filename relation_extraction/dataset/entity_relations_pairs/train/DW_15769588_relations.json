@@ -1,0 +1,75 @@
+{
+  "content": "Mandela released from hospital\nNelson Mandela has been released from hospital after undergoing a diagnostic procedure. Officials have played down concerns about his health.\nNelson Mandela has been released from a military hospital in Pretoria a day after undergoing a minor operation. \"The doctors have decided to send him home as the diagnostic procedure he underwent did not indicate anything seriously wrong with him,\" a statement released by President Jakob Zuma's office said. The country's defense minister, Lindiwe Sisulu, denied reports that the 93-year-old former president had undergone a hernia operation. \"It wasn't the surgery that has been out there in the media at all,\" Sisulu said. \"He's as fine as he can be at his age.\" Abdominal pain The procedure conducted on Mandela, known as a laparoscopy, involved inserting a tiny camera into his abdomen. He had been admitted to hospital on Saturday for what officials described as \"longstanding abdominal pain.\" Mandela has been in poor health since being hospitalized with breathing problems a year ago. His last public appearance came at the final of the 2010 World Cup in Johannesburg. Mandela spent 27 years in jail for his role in fighting white minority rule in South Africa. Following the fall of the Apartheid system Mandela was elected as South Africa's first black president in 1994. He stepped down at the end of his term in 1999. pfd/ng (Reuters, dpa)",
+  "relations": [
+    [
+      "Nelson Mandela",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Nelson Mandela",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Nelson Mandela",
+      "South Africa",
+      "head_of_state"
+    ],
+    [
+      "Pretoria",
+      "South Africa",
+      "in0"
+    ],
+    [
+      "Lindiwe Sisulu",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Lindiwe Sisulu",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Lindiwe Sisulu",
+      "South Africa",
+      "minister_of"
+    ],
+    [
+      "Jakob Zuma",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Jakob Zuma",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Jakob Zuma",
+      "South Africa",
+      "head_of_state"
+    ],
+    [
+      "2010 World Cup",
+      "South Africa",
+      "event_in0"
+    ],
+    [
+      "2010 World Cup",
+      "Johannesburg",
+      "event_in2"
+    ],
+    [
+      "Johannesburg",
+      "South Africa",
+      "in0"
+    ],
+    [
+      "Apartheid",
+      "South Africa",
+      "event_in0"
+    ]
+  ]
+}

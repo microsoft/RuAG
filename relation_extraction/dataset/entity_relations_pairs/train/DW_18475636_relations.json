@@ -1,0 +1,70 @@
+{
+  "content": "Corporate maneuvering at Samsung in full swing\nSouth Korean corporate giant Samsung has announced the planned merger of two of its companies. The move is widely seen as a measure to strengthen the position of the ailing chairman's son, Lee Jae-yong.\nSamsung on Tuesday announced the merger of Cheil, the company's fashion business and theme park operator, with the firm's C&T construction and trading firm. News agencies interpreted the move as a step to ensure that the son of the group's ailing chairman inherited control of the conglomerate. Analysts argued the transaction would give Samsung heir Lee Jae-yong a big say in the enterprise, including its crown jewel, Samsung Electronics. Preparing the ground Lee is vice chairman of Samsung Electronics and will own 16.5 percent of the new C&T unit, making him the post-merger firm's largest shareholder. The whole family's direct stake in the combined entity, including that of Lee's father and his sisters, will amount to 30.4 percent. The merger plan comes as Samsung Electronics Chairman Lee Kun-hee, 73, has been hospitalized for more than a year after suffering a heart attack in May 2014. Experts said the transaction would be completed by early September. Shares of Cheil and C&T soared by the daily limit of 15 percent on the announcement. hg/pad (AP, AFP)",
+  "relations": [
+    [
+      "Samsung",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "Lee Jae-yong",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Lee Jae-yong",
+      "Samsung",
+      "head_of"
+    ],
+    [
+      "Lee Jae-yong",
+      "Samsung",
+      "member_of"
+    ],
+    [
+      "Cheil",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "Cheil",
+      "Samsung",
+      "part_of"
+    ],
+    [
+      "C&T",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "C&T",
+      "Samsung",
+      "part_of"
+    ],
+    [
+      "Lee Kun-hee",
+      "South Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Lee Kun-hee",
+      "Samsung Electronics",
+      "head_of"
+    ],
+    [
+      "Lee Kun-hee",
+      "Samsung Electronics",
+      "member_of"
+    ],
+    [
+      "Samsung Electronics",
+      "South Korean",
+      "based_in0-x"
+    ],
+    [
+      "Samsung Electronics",
+      "Samsung",
+      "part_of"
+    ]
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "content": "EU Mulls Warning Labels to Curb Alcohol Abuse\nWhile still targeting smoking, European Union's public health commissioner is considering adding alcohol to the list of vices the bloc should clamp down on.\nIn a report commissioned by the European Commission, the London Institute for Alcohol Studies recommended raising the legal age to buy alcohol to 18 (in some countries, such as Germany, 16-year-olds can buy beer), lowering the permitted blood alcohol level while driving to 0.5, banning alcohol advertising on TV and in movies as well as adding warning labels to bottles as ways of preventing alcohol abuse across the bloc. Which of the methods EU Health Commissioner Markos Kyprianou actually introduces will be announced \"sometime in the autumn,\" according to a spokesperson. Other options include a 10 percent increase in the price of alcohol. Kyprianou has, however, hinted that he favors warning labels -- similar to those that appear on packs of cigarettes -- that make the dangers of alcohol clear. \"Drinking harms your unborn baby\" on bottles? Brewers and wine makers across Europe, however, have come out against placing \"Drinking Kills\" or other labels on bottles of beer. \"Warning labels are the completely wrong way to go,\" Peter Hahn, head of the German Brewers Association told Germany's Express newspaper. \"The do not deter people who have lost a sense of how much to drink and unsettle the people who enjoy a beer after work.\" Industry groups also opposed implementing EU-wide guidelines in countries with traditionally different ways of approaching drinking and drinking problems. \"Policies that do not consider cultural and regional differences, will fail to deal with the social problems, while at the same time generate a rising level of political objections,\" said Rodolphe de Looz-Corswarem of Brewers of Europe. Keeping social vices separate Green party EU parliamentarian Hiltrud Breyer meanwhile called on the alcohol industry to stop \"saber rattling\" before it sees the a final version of the EU's strategy to prevent alcohol abuse. German Consumer Affairs Minister Horst Seehofer said he would wait to see what Kyprianou's actual suggestions are before commenting. Other German politicians, however, were more willing to voice the opposition to putting a sip of wine on the same footing with a puff of a cigarette. \"People should not expect that a skull and crossbones end up on every bottle of beer and wine,\" German EU representative Karl-Heinz Florenz told Der Tagesspiegel newspaper, adding that when it comes to alcohol, each member state should be responsible for how it deals with alcohol abuse. The harm of \"passive drinking\" While cigarettes are a health risk from the first puff, moderate drinking can actually be healthy and there is no danger from \"passive drinking,\" Peter Liese, a German EU representative, told the paper. The commission's report disagreed with Liese's conclusion, saying alcohol abuse had a major role in as many as 200,000 deaths in Europe due to car accidents and disease and played a role in some 60,000 underweight births. The report also estimated the effects of alcohol abuse of costing the EU 125 billion euros ($161 billion) in 2003. Some 25 percent of men and 10 percent of women in Europe drink what the EU considers to be more than healthy amounts of alcohol and between 3 percent and 5 percent are suffering from alcoholism, according to EU statistics.",
+  "relations": [
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Markos Kyprianou",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Peter Hahn",
+      "German Brewers Association",
+      "head_of"
+    ],
+    [
+      "Peter Hahn",
+      "German Brewers Association",
+      "member_of"
+    ],
+    [
+      "Peter Liese",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Peter Liese",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "German Brewers Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Brewers Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Express",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Express",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Rodolphe de Looz-Corswarem",
+      "Brewers of Europe",
+      "member_of"
+    ],
+    [
+      "Hiltrud Breyer",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Hiltrud Breyer",
+      "Green",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Consumer Affairs",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Consumer Affairs",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Consumer Affairs",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Consumer Affairs",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Consumer Affairs",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Horst Seehofer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Horst Seehofer",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Karl-Heinz Florenz",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Karl-Heinz Florenz",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Karl-Heinz Florenz",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Karl-Heinz Florenz",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Der Tagesspiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Tagesspiegel",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "content": "Journal Interview Hans-Peter Keitel, Federation of German Industries\n\nHow is the debt crisis affecting Germany?",
+  "relations": [
+    [
+      "Hans-Peter Keitel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hans-Peter Keitel",
+      "Federation of German Industries",
+      "member_of"
+    ],
+    [
+      "Federation of German Industries",
+      "Germany",
+      "based_in0"
+    ]
+  ]
+}

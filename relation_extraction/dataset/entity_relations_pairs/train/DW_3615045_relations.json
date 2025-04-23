@@ -1,0 +1,55 @@
+{
+  "content": "German Wine Producers Discover the Art of PR\nAfter years of being thought of as cheap and sugary, German wine is enjoying huge international success. It owes its success to producers who are adapting to accommodate a new generation of consumers.\nAs the first grapes of this year's harvest are due to be picked in the coming weeks, wine producers are optimistic about the 2008 vintage. But Raimund Pruem, who has been producing wine in the Moselle Valley for over 30 years, remembers a time when Riesling was not so prosperous. \"The bad reputation of German wine really hurt us,\" he said. \"I will never forget a blind tasting we did a while ago. The judges gave tremendous praise: Against South African and Australian wines, German Riesling did the best. But when they took off their blindfolds and saw the labels they started making excuses for their comments.\" Since then, however, German wine has made a comeback, particularly in the US after some Moselle Valley vintners earned the attention of the hugely influential American wine critic Robert Parker. A new generation of customers As German vintners don't tend to produce very large quantities of any one style of wine due to the varying conditions in the vineyards, most of their wine sold abroad goes through specialist retailers or online. Due to the steepness of the slopes virtually all Riesling in the Moselle Valley is hand-picked and despite being very labor intensive, high quality German wines remain relatively inexpensive -- a new reputation that is prized by vintners. But while Germany's sweet Rieslings are by far the most popular in the US, the German market decidedly prefers the \"trocken\" variety, the dry wines. Ninety-five percent of the wine the S.A. Pruem winery sells in Germany is dry Riesling. \"There is a generational problem, young people in Germany today do not drink the same wine as their grandparents anymore -- they drink only drier, more expensive wines,\" Pruem said. This is a relatively new development since a sudden change in German wine drinkers' pallets in 1976 switched the demand from very sweet Rieslings to bone dry. Such changes are not uncommon in the wine business as each generation of customers presents new demands. Producers stepping up Although Raimund Pruem's vineyards have been in his family since 1158 and his daughter is now sharing his marketing responsibilities, the art of winemaking is no longer something taught exclusively from one generation to the next. Virtually all top vintners around the Moselle have studied viticulture and vinification, gathering experience with many grape varieties and in some cases working in vineyards around the world. While Pruem's ancestors' jobs mainly consisted of winemaking, today German wine producers are increasingly spending their time promoting and selling their wines too. \"When people come here they don't want to meet the sales staff, they want to meet the producer,\" Pruem explained. \"Who else is a better promoter than the producer himself? That's something that has changed totally. My grandfather, my father and even myself when I was younger -- we saw how it doesn't work sitting here, waiting for customers, you have to be active.\" There has to be a connection between the producer and his customers, he added: \"Customers need communication.\" As a result, more and more producers are taking it upon themselves to host large group tastings, wedding receptions and to participate in international tasting events, touring the world with their wines. An artful business The change in approach is evident. Producers are experimenting and reaching out more and more: Bottles of other grape varieties such as Pinot Blanc and Chardonnay -- and even the occasional red wine -- are increasingly found on tasting lists around the Moselle Valley. But the demands of marketing are hard to keep up with. \"I have to sell my wine twice: first to the customer (the retailer), then to my customer's customer,\" Pruem said. \"You have to go with the retailer to ensure the wine is on the shelves and is being taken off the shelves and bought.\" Like most other wine producers, Pruem is carrying on the centuries-old art of winemaking: \"The art is to taste the juice from the grapes and produce a wine from it that shows the signals of the vineyard.\" But he is also introducing a new art -- that of public relations. \"My wines need to show character, if they don't show character then forget it.\" -- Pruem's statement reveals the bottom line for vintners like himself: If their wine fails to meet standards, then not only is their livelihood, passion and reputation at stake, but also their legacy.",
+  "relations": [
+    [
+      "Raimund Pruem",
+      "S.A. Pruem",
+      "head_of"
+    ],
+    [
+      "Raimund Pruem",
+      "S.A. Pruem",
+      "member_of"
+    ],
+    [
+      "Moselle Valley",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Moselle Valley",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Robert Parker",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Robert Parker",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "S.A. Pruem",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "S.A. Pruem",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

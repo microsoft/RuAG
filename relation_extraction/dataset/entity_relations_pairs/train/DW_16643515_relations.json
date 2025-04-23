@@ -1,0 +1,205 @@
+{
+  "content": "Translator pay strike at Khmer Rouge genocide trial\nTranslators have gone on strike at the genocide tribunal of Khmer Rogue leaders. The age of defendants such as 86-year-old Nuon Chea has raised concerns they may not live long enough for the world to hear verdicts.\nClaiming they had not received pay in three months, about 30 Cambodian staff members from the translation section announced their strike just before the court was to hear testimony from a foreign expert, postponing the proceedings indefinitely, according to tribunal spokesman Neth Pheaktra. He said the giving of testimony scheduled for this week and next week will wait until the pay dispute was resolved. Pheaktra said that countries funding the tribunal had not contributed on time. The UN pays the salaries of foreign workers; Cambodian employees are paid by the government. The translators are essential staff as the hearings use English, French and Cambodian. \"I appeal to the donor countries to help resolve the issue by providing more funds to the national side of the court,\" Pheaktra said. Pheaktra said that about $9.3 million (7 million euros) was needed for salaries and daily operating costs to fund the tribunal's Cambodian component through 2013. From 2006 to 2011, the tribunal spent $141.1 million. The total, when the tribunal concludes its work later this year, is estimated to be about $230 million, though Pheaktra said that there was the potential for shortfalls. The budgets for international staffers, adequate for now, could dry up by the middle of this year, he added. Japan has committed nearly $80 million to the trial so far. France, Germany and Britain are also major contributors. The tribunal was formed in 2006 to examine claims of atrocities committed by the Khmer Rouge during its four years in power in the 1970s, when an estimated 1.7 million Cambodians died from forced labor, starvation, medical neglect and execution. Only chief jailer convicted Three leaders have stood trial since 2011, charged with crimes against humanity and genocide: Khieu Samphan, the 81-year-old former head of state; Nuon Chea, the group's 86-year-old chief ideologist; and Ieng Sary, 87, the former foreign minister, who was hospitalized on Monday. \"He vomited every time he was given food,\" his lawyer, Ang Udom, told the news agency AFP. \"He is very weak now.\" Former Social Affairs minister Ieng Thirith was deemed mentally unfit and set free. Only the chief jailer, Kaing Guek Eav, has been convicted by the tribunal so far. He is serving a life sentence. Officials have sought to prosecute other former Khmer Rouge leaders, but Prime Minister Hun Sen, who has led Cambodia since 1985, has ruled out any more trials. Many in Cambodia's government, including Hun, are former Khmer Rouge officials. The Swiss judge Laurent Kasper-Ansermet resigned last March, claiming official interference into his efforts to investigate suspects. mkg/ipj (AFP, dpa, AP)",
+  "relations": [
+    [
+      "Nuon Chea",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Nuon Chea",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Nuon Chea",
+      "Khmer Rouge",
+      "head_of"
+    ],
+    [
+      "Nuon Chea",
+      "Khmer Rouge",
+      "member_of"
+    ],
+    [
+      "Khmer Rouge",
+      "Cambodia",
+      "based_in0"
+    ],
+    [
+      "Khmer Rouge",
+      "Cambodian",
+      "based_in0-x"
+    ],
+    [
+      "Neth Pheaktra",
+      "Cambodia",
+      "agent_of"
+    ],
+    [
+      "Neth Pheaktra",
+      "Cambodian",
+      "agent_of-x"
+    ],
+    [
+      "Neth Pheaktra",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Neth Pheaktra",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Hun Sen",
+      "Cambodia",
+      "agent_of"
+    ],
+    [
+      "Hun Sen",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Hun Sen",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Hun Sen",
+      "Cambodia",
+      "head_of_gov"
+    ],
+    [
+      "Hun Sen",
+      "Cambodian",
+      "head_of_gov-x"
+    ],
+    [
+      "Cambodian",
+      "Cambodia",
+      "gpe0"
+    ],
+    [
+      "Khieu Samphan",
+      "Cambodia",
+      "agent_of"
+    ],
+    [
+      "Khieu Samphan",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Khieu Samphan",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Khieu Samphan",
+      "Khmer Rouge",
+      "head_of"
+    ],
+    [
+      "Khieu Samphan",
+      "Cambodia",
+      "head_of_state"
+    ],
+    [
+      "Khieu Samphan",
+      "Cambodian",
+      "head_of_state-x"
+    ],
+    [
+      "Khieu Samphan",
+      "Khmer Rouge",
+      "member_of"
+    ],
+    [
+      "Ieng Sary",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Ieng Sary",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Ieng Sary",
+      "Khmer Rouge",
+      "head_of"
+    ],
+    [
+      "Ieng Sary",
+      "Khmer Rouge",
+      "member_of"
+    ],
+    [
+      "Ang Udom",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Ang Udom",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "AFP",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Ieng Thirith",
+      "Cambodia",
+      "agent_of"
+    ],
+    [
+      "Ieng Thirith",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Ieng Thirith",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Ieng Thirith",
+      "Cambodia",
+      "minister_of"
+    ],
+    [
+      "Ieng Thirith",
+      "Cambodian",
+      "minister_of-x"
+    ],
+    [
+      "Kaing Guek Eav",
+      "Cambodia",
+      "citizen_of"
+    ],
+    [
+      "Kaing Guek Eav",
+      "Cambodian",
+      "citizen_of-x"
+    ],
+    [
+      "Kaing Guek Eav",
+      "Khmer Rouge",
+      "head_of"
+    ],
+    [
+      "Kaing Guek Eav",
+      "Khmer Rouge",
+      "member_of"
+    ],
+    [
+      "Laurent Kasper-Ansermet",
+      "Swiss",
+      "citizen_of-x"
+    ]
+  ]
+}

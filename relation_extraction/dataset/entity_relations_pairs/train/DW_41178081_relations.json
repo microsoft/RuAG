@@ -1,0 +1,35 @@
+{
+  "content": "French President Emmanuel Macron signs controversial anti-terror law\nThe new law gives French police permanent powers to shutter places of worship and conduct on-the-spot identity checks. Critics have decried the measure for its restriction of civil liberties and for targeting minorities.\nFrench President Emmanuel Macron signed a controversial raft of anti-terror legislation into law on Monday, ending the two-year state of emergency enacted after the November 2015 terror attacks in Paris that killed 130 people. The new measures give security services permanent authority to shut places of worship deemed to be fostering extremism, confine the movements of terrorism suspects and search their homes without necessarily seeking the approval of a court first. Police are also allowed to demand identity documents from anyone they deem suspicious at border areas, ports, train stations and airports. \"This law will allow us to end the state of emergency from November 1 while fully ensuring the security of our citizens,\" Macron said as he signed the document, which was approved by a parliamentary majority earlier this month. Debate over basic freedoms The bill sparked considerable debate over the past two weeks in French parliament, with critics arguing that it will be used to persecute minorities, particularly Muslims, with impunity. Macron has promised that the law will be reassessed in two years for its effectiveness. According to a poll by Le Figaro newspaper, 57 percent of the French public backs the measures, although 62 percent agreed that it was a restriction of basic freedoms. Interior Minister Gerard Collomb defended the laws, saying that \"everyone noticed we needed a fair balance between security and freedom, and I believe this text meets this need.\" Under the state of emergency, 11 religious centers have been shuttered \"for incitement to commit terrorist acts\" and 41 individuals have been placed under house arrest for harboring extremist sympathies. es/jm (AP, AFP)",
+  "relations": [
+    [
+      "Emmanuel Macron",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Emmanuel Macron",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Gerard Collomb",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Gerard Collomb",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "Le Figaro",
+      "French",
+      "based_in0-x"
+    ]
+  ]
+}

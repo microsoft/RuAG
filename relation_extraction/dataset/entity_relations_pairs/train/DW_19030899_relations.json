@@ -1,0 +1,60 @@
+{
+  "content": "Euromaxx Highlights\n\nDonald Trump’s roots in Kallstadt The grandparents of US presidential hopeful Donald Trump lived in Kallstadt, Germany. Director Simone Wendel has shot an amusing documentary film about the town and its famous son. The Syrian YouTube star Firas Alshater Millions of people have viewed Firas Alshater's humorous video in social networks, where the Syrian refugee tells us what he thinks about the Germans. He's already planning more clips. The Angel of Venice’s Carnival At Carnival in Venice, 19-year-old Irene Rizzi floats down as an angel from the Campanile of St. Marks Cathedral to the Piazza San Marco. The Volo dell'Angelo is an absolute highlight of the Carnival. Kristof and Stefan Boxy The Boxy twins are among Belgium’s most famous star chefs. They have a catering business, write cookery books, and appear on their own TV show. They use their similar appearance as a marketing strategy. Holidays in a haunted castle Reporter Meike Krüger set out to test her nerves. She spent a night in Chillingham Castle in northern England, said to be haunted by several ghosts. The castle offers tours for horror tourists.",
+  "relations": [
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Firas Alshater",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Kallstadt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Kallstadt",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Volo dell'Angelo",
+      "Venice",
+      "event_in2"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Carnival",
+      "Venice",
+      "event_in2"
+    ],
+    [
+      "Campanile",
+      "Venice",
+      "in2"
+    ],
+    [
+      "St. Marks Cathedral",
+      "Venice",
+      "in2"
+    ],
+    [
+      "Piazza San Marco",
+      "Venice",
+      "in2"
+    ],
+    [
+      "Chillingham Castle",
+      "England",
+      "in0"
+    ]
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "content": "Nearly 10,000 migrants rescued on Mediterranean in two days\nItaly witnessed a surge of migrant arrivals at the end of August amid favorable weather conditions on the sea. Rome has warned would-be migrants of the perils of the deadly voyage after 3,000 died this year.\nThe Italian coastguard on Tuesday rescued some 3,000 migrants in the Strait of Sicily with the aid of the EU's border agency Frontex and humanitarian organizations, bringing the total to nearly 10,000 in two days. Italy has witnessed a surge in migrant arrivals due to favorable weather conditions on the central Mediterranean Sea, with Monday marking one of the highest single-day rescue operations. \"Nearly 7,000 people in a day is really quite a lot. If it's not a record, then it's close to it,\" said International Organization for Migration (IOM) spokesman Flavio Di Giacomo. More than 100,000 migrants have made the perilous journey across the central Mediterranean in 2016, many of them fleeing conflict and extreme poverty in Africa and the Middle East. Some 3,000 of them are estimated to have died during the journey this year. However, the number of migrants arriving to the EU has fallen compared to the same period last year. IOM said some 12,600 people made it to the bloc in August, down from 23,500 in the same month last year. In July, Italy's interior ministry launched a media campaign in partnership with IOM in a bid to dissuade African migrants from making the deadly journey across the Mediterranean. The \"Migrants Aware\" campaign featured content in English, Arabic and French, and targeted 15 countries in North and sub-Saharan Africa. However, thousands of migrants continue to make the voyage since the campaign was launched. More than 1 million migrants fled to Europe in 2015, according to IOM figures, prompting a political crisis among EU member states as to which countries will host them. ls/gsw (Reuters, dpa)",
+  "relations": [
+    [
+      "Rome",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Rome",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Frontex",
+      "EU",
+      "institution_of"
+    ],
+    [
+      "Frontex",
+      "EU",
+      "part_of"
+    ],
+    [
+      "Flavio Di Giacomo",
+      "International Organization for Migration",
+      "member_of"
+    ]
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "content": "Mexico's murder rate rises to 20,000 in ten months; worst in 20 years\nA human rights ombudsman, a media executive and two men in a bitter union dispute are just the latest victims of Mexico's rising murder rate. October was the worst month for murder in 20 years. \nSilvestre de la Toba Camacho was driving with his wife and two children in Baja California Sur on Monday night when a vehicle pulled alongside and gunmen began firing. De la Toba Camacho and his son died at the scene, his wife and 18-year-old daughter were wounded. Human Rights Commission director in the state of Baja California Sur since 2015, and a former deputy in the State Congress, de la Toba Camacho and his son added to the record statistics in Mexico for murder. In the first ten months of the year, 20,878 murder investigations have been opened, according to the Interior Ministry. That is more than the 20,547 murders reported for the whole of 2016. The unsolved crime rate in Mexico rose to 96 percent earlier this year. The Canadian Embassy in Mexico was among those to condemn the killing: Vice president of the Televisa media giant, Adolfo Lagos Espinosa, was bicycling in a rural area near the ancient pyramids of Teotihuacan close to the capital on Sunday when a gunfight broke out between two assailants and two of Espinosa's bodyguards. He died in the attack. Deadliest year since records began Nationwide, 2017 is on track to be the deadliest year since the government began collecting this data in 1997. On average, 69 murders are committed every day in Mexico — an increase from the average of 63 per day six years ago. While the country's rampant illegal drug trade and criminal gangs are at the center of the murders, other causes contribute. A bitter union dispute at a Canadian-owned gold mine in southern Mexico, along with a dispute between two vigilante groups have left state prosecutors unclear on the motives for two killings in the area over the weekend. El Limon Guajes mine has been closed by road blockades since the start of the month. Some reports suggest gunmen drove up to one of the barriers and opened fire. But on Wednesday, the state prosecutor's office suggested the deaths may have resulted from a dispute between two vigilante groups in the Guerrero Gold Belt, 180 kilometers (112 miles) southwest of Mexico City. The most violent state in Mexico Guerrero, which includes the resort city of Acapulco, has become the country's most violent state. In 2014, 43 teaching students disappeared and were presumed murdered after the intervention of police officers and the local mayor. In October, political and social leader Ranferi Hernandez Acevedo, his wife, mother-in-law and chauffeur were reported missing before their remains were recovered from a burning vehicle on a rural state highway. The Mexican war against drug criminals began in 2006 when President Felipe Calderon said his government and security forces would fix drug trafficking and drug-related violence. Instead, nearly ten years later 150,000 people have died and at least 28,000 people have disappeared. President's reputation undermined Current President Enrique Pena Nieto admitted earlier this year that: \"Confrontations between members of different armed groups have really become an everyday scenario in many parts of the country.\" Pena Nieto's political reputation was undermined in the wake of the 2014 disappearances of the Guerrero students and he risks ending his six-year term as one of the least popular presidents of the last 20 years. According to a poll in June, 60 percent of respondents blamed his administration for the rise in violence. Only 3 percent believed him to be trustworthy. jm/se (EFE, Reuters)",
+  "relations": [
+    [
+      "Silvestre de la Toba Camacho",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Silvestre de la Toba Camacho",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Silvestre de la Toba Camacho",
+      "Human Rights Commission",
+      "head_of"
+    ],
+    [
+      "Silvestre de la Toba Camacho",
+      "Human Rights Commission",
+      "member_of"
+    ],
+    [
+      "Silvestre de la Toba Camacho",
+      "State Congress",
+      "member_of"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "agent_of"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexico",
+      "head_of_state"
+    ],
+    [
+      "Enrique Pena Nieto",
+      "Mexican",
+      "head_of_state-x"
+    ],
+    [
+      "Adolfo Lagos Espinosa",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Adolfo Lagos Espinosa",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Adolfo Lagos Espinosa",
+      "Televisa",
+      "head_of"
+    ],
+    [
+      "Adolfo Lagos Espinosa",
+      "Televisa",
+      "member_of"
+    ],
+    [
+      "Baja California Sur",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Baja California Sur",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "State Congress",
+      "Mexico",
+      "agency_of"
+    ],
+    [
+      "State Congress",
+      "Mexican",
+      "agency_of-x"
+    ],
+    [
+      "State Congress",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "State Congress",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Mexico",
+      "agency_of"
+    ],
+    [
+      "Interior Ministry",
+      "Mexican",
+      "agency_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "Interior Ministry",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Mexico",
+      "ministry_of"
+    ],
+    [
+      "Canadian Embassy",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Canadian Embassy",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Televisa",
+      "Mexico",
+      "based_in0"
+    ],
+    [
+      "Televisa",
+      "Mexican",
+      "based_in0-x"
+    ],
+    [
+      "Teotihuacan",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Teotihuacan",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "El Limon Guajes",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "El Limon Guajes",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Guerrero Gold Belt",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Guerrero Gold Belt",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Mexico City",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Mexico City",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Guerrero",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Guerrero",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Acapulco",
+      "Mexico",
+      "in0"
+    ],
+    [
+      "Acapulco",
+      "Mexican",
+      "in0-x"
+    ],
+    [
+      "Ranferi Hernandez Acevedo",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Ranferi Hernandez Acevedo",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Mexican",
+      "Mexico",
+      "gpe0"
+    ],
+    [
+      "Felipe Calderon",
+      "Mexico",
+      "agent_of"
+    ],
+    [
+      "Felipe Calderon",
+      "Mexico",
+      "citizen_of"
+    ],
+    [
+      "Felipe Calderon",
+      "Mexican",
+      "citizen_of-x"
+    ],
+    [
+      "Felipe Calderon",
+      "Mexico",
+      "head_of_state"
+    ],
+    [
+      "Felipe Calderon",
+      "Mexican",
+      "head_of_state-x"
+    ]
+  ]
+}

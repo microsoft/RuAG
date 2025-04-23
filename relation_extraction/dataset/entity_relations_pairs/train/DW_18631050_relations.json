@@ -1,0 +1,105 @@
+{
+  "content": "Adidas buys Runtastic in race for fitness apps\nWhile the sporting goods industry's major players invest more in digital offerings like fitness apps, Germany's Adidas has been slow on the uptake. But it has now bought Runtastic in a bid to catch up.\nGerman sportsgear manufacturer Adidas announced Wednesday it had bought the Runtastic fitness app from German media conglomerate Axel Springer for 220 million euros ($239 million). The announcement came a day before Adidas is expected to announce quarterly figures. The acquisition is in keeping with an industry-wide trend of increased investment into digital fitness tracking - where Adidas has been falling behind. Rival Nike, which has been taking market share away from Adidas, has proven to be more in touch with industry trends. The US firm teamed up with tech giant Apple on the Nike+ running programs for the iPod and iPhone and launched the FuelBand calorie tracker in 2012. Nike isn't the only one outrunning Adidas. Baltimore-based Under Armour overtook Adidas last year as the second-biggest sportswear maker in the US. This year, it bought diet and exercise app MyFitnessPal for 437 million euros and social fitness network Endomondo for 78 million euros. But it took until as late as last year for Adidas to launch its own miCoach fitness device. Now the German company’s new buy has 20 apps covering variety of endurance, health and fitness activities in 18 languages. “Digital technologies are providing new capabilities and insights to help athletes of all levels take control of their sporting destiny – whether improving their performance, sharing their experiences, or creating their own great social moments of sport,” said Adidas CEO Herbert Hainer in a statement. Runtastic was founded in 2009 and has around 70 million registered users and is available in 18 languages. jd/uhe (dpa, Reuters)",
+  "relations": [
+    [
+      "Adidas",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Adidas",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Runtastic",
+      "Adidas",
+      "part_of"
+    ],
+    [
+      "Runtastic",
+      "Axel Springer",
+      "part_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Axel Springer",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Axel Springer",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Nike",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Nike+",
+      "Nike",
+      "product_of"
+    ],
+    [
+      "iPod",
+      "Apple",
+      "product_of"
+    ],
+    [
+      "iPhone",
+      "Apple",
+      "product_of"
+    ],
+    [
+      "Baltimore",
+      "US",
+      "in0"
+    ],
+    [
+      "Under Armour",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Under Armour",
+      "Baltimore",
+      "based_in2"
+    ],
+    [
+      "MyFitnessPal",
+      "Adidas",
+      "product_of"
+    ],
+    [
+      "MyFitnessPal",
+      "Under Armour",
+      "product_of"
+    ],
+    [
+      "Endomondo",
+      "Adidas",
+      "product_of"
+    ],
+    [
+      "miCoach",
+      "Adidas",
+      "product_of"
+    ],
+    [
+      "Herbert Hainer",
+      "Adidas",
+      "head_of"
+    ],
+    [
+      "Herbert Hainer",
+      "Adidas",
+      "member_of"
+    ]
+  ]
+}

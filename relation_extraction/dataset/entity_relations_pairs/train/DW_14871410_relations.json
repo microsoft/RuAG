@@ -1,0 +1,60 @@
+{
+  "content": "UK court rules WikiLeaks' Assange should be extradited to Sweden\nA British court has ruled that WikiLeaks founder Julian Assange should be extradited to Sweden where he faces charges of sexual abuse and rape. Assange's lawyer said he would appeal the ruling.\nA UK court ruled on Thursday that WikiLeaks founder Julian Assange can be extradited to Sweden where he faces charges of sexual abuse and rape. Assange has denied the allegations, and his lawyers said they would appeal the ruling. The defense team argued that the charges were not offenses worthy of extradition and that the Swedish prosecution had no power to issue the European arrest warrant. They also expressed concern whether the 39-year old would be granted a fair trial in Sweden. The lawyers criticized Sweden for seeking to extradite the controversial Internet activist before formally charging him with any crime. They also said the sexual assault allegations against their client did not constitute rape under European law. \"What is rape in Swedish law does not amount to rape in any other country,\" said defense lawyer Geoffrey Robinson. Swedish authorities have said that last year Assange had sex with one woman without a condom while she was asleep, and he had sex with another woman with a broken condom. Such actions are punishable under Swedish law. From Sweden to the US? Australian national Assange said the accusations were politically motivated. He claims that Sweden might hand him over to the United States. His lawyers have said he might face imprisonment at Guantanamo Bay or even the death penalty if he is prosecuted for his part in the publication of classified US documents by WikiLeaks. Australia has called on Sweden to make sure that Assange gets a fair hearing. Australia's ambassador to Sweden, Paul Stephens, said his government expects the case will proceed \"with due process and the provisions prescribed under Swedish law.\" WikiLeaks caught the world's attention with the publication of thousands of secret US reports on the war in Afghanistan last summer. Since then, it has remained in the public eye with similar reports on the war in Iraq and the gradual release of some 250,000 secret US diplomatic cables. Author: Andreas Illmer (AP, AFP) Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Julian Assange",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Julian Assange",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Julian Assange",
+      "WikiLeaks",
+      "head_of"
+    ],
+    [
+      "Julian Assange",
+      "WikiLeaks",
+      "member_of"
+    ],
+    [
+      "British",
+      "UK",
+      "gpe0"
+    ],
+    [
+      "Swedish",
+      "Sweden",
+      "gpe0"
+    ],
+    [
+      "Australian",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Paul Stephens",
+      "Australia",
+      "agent_of"
+    ],
+    [
+      "Paul Stephens",
+      "Australian",
+      "agent_of-x"
+    ],
+    [
+      "Paul Stephens",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Paul Stephens",
+      "Australian",
+      "citizen_of-x"
+    ]
+  ]
+}

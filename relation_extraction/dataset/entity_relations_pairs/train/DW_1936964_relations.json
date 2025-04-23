@@ -1,0 +1,95 @@
+{
+  "content": "Germany, France at Helm of EU Constitution Makeover\nSold to the public as an \"EU constitution\" the first time around, the document meant to structure and streamline the bloc failed to fly. Now, France and Germany are hoping a repackaged treaty might prove more marketable.\nThe EU Constitution is being dusted off and given a whole new image in an attempt to make it more palatable to a skeptical public. Overseeing the makeover are German Chancellor Angela Merkel and French President Jacques Chirac. Critics claimed that the idea of a constitution was too formal and threatening to many voters, especially those in France and the Netherlands, whose populations rejected the draft document when it was put to a referendum last year. The aim now is to give the document a name that more accurately reflects its purpose. According to the Financial Times, one alternative being floated is \"institutional treaty.\" While that may not be a particularly sexy label, it does describe one of the main reasons why the text was conceived -- to streamline and reform the bloc's institutions so that it is better able to cope with enlargement. With Paris and Berlin overseeing the document's future, though, conflict is bound to occur. Berlin has said it prefers to revive the text more or less in its entirety but tinker with the passages that caused concern to make them more acceptable. Paris has indicated that it is reluctant to put the charter to voters a second time, preferring to adopt single elements instead. Reports of a rapprochement between the two positions started to surface earlier this month, however. The German newsweekly Der Spiegel said that, according to plans, the charter would be reduced to its first two parts which set out the EU's competences and the fundamental rights of the union. The third and largest part of the treaty, which focuses on condensing and re-ordering existing EU treaties, would be handled separately. The operation to revive the charter is expected to begin in earnest under the German EU presidency in the first half of 2007.",
+  "relations": [
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Jacques Chirac",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Jacques Chirac",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Jacques Chirac",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Jacques Chirac",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Jacques Chirac",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Der Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

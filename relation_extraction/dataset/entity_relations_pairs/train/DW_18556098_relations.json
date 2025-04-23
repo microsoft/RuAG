@@ -1,0 +1,135 @@
+{
+  "content": "Whose side are we on? The financial crisis and Greeks in Germany\nGreek expats living in Germany are in a strange quandary. It is tough to take sides, when they are torn between a desire to speak for the Greek people and yet vouch for the country where they lead relatively easy lives.\n\"Can you have any opinion at all about this crisis,\" yells Theo (name changed), as he shoves journalists out of his tiny Greek restaurant in Bonn. He refused to say a word about Athens, shutting his eyes and closing his ears every time he hears the word \"Tsipras.\" Athens has defaulted a debt repayment of 1.5 billion euros to the International Monetary Fund (IMF) and is speeding towards bankruptcy. The eurozone's leaders' willingness to compromise is rapidly shrinking and a referendum this Sunday will decide whether the Greeks support Prime Minister Tsipras' proposals or whether they side with the European Union. Against this volatile backdrop, finding out what Greeks, who live in Germany's former capital, think about their country's problems, can be a tough call. A journalist has to, paparazzo-like, sneakily ask questions about the weather or order several rounds of drinks before a kind waiter at a Greek restaurant finally relents and speaks on the dreaded subject. \"You can tell the whole world that my staff and I support the European Union and what the European Central Bank has proposed to Greece,\" says Alex, the owner of a popular restaurant by the Rhine in Bonn. He hopes the referendum on Sunday will be for the European Union's proposal and that Prime Minister Alexis Tsipras will have to step down. You need \"Vitamin B\" in Greece Nikos, who sells gyros and pita at a Bonn suburb, is of Greek origin, but the 26-year-old considers himself more German than Greek. \"Greeks are lazy,\" he laments, adding that only connections to important people help you get your job done. \"Vitamin B is the only thing that works,\" he claims, referring to connections - \"Beziehungen\" in German, using a popular metaphor. But Nikos is aware of the problems that have been bothering his extended family back in Thessaloniki. He has been saving up to send money to his cousins, many of who don't have enough money to buy food. \"Many children come to school without having had anything to eat at home,\" says Sokratis Ntallis, archpriest at the Orthodox Greek Church in Bonn. \"The church makes food and clothes available to such people,\" he adds. The Orthodox Church in Germany works together with its Greek counterpart to help those in need. These include Greece's younger generation, many of whom have been driven to suicide after they couldn't handle the financial turmoil. Why it's tough to take sides Compared to life in Greece, Elena Aliki Papyrou has it easy in Germany. The professional translator from Athens has been living in Bonn for almost ten years now. News from home has been depressing lately. \"Many of my friends have moved out of the country to find jobs and a better future. They are affected not only financially. The quality of life has also suffered. They work a lot for less money,\" she adds. For Elena, Greece's people have themselves been largely responsible for the crisis today. \"Corruption has been rampant in the last 50 years and it simply got transferred from one government to another,\" Elena explains, adding that Greeks didn't even think what they were voting for. \"The people of my country will have to use their minds,\" she hopes. But speaking their mind is not what many Greeks in Bonn want to do right now. Some feel that their opinions may not be representative of all the Greeks living in the city. For many, like Alex, speaking his mind may mean bad business. \"The last time the markets crashed, in 2008, we spoke to many journalists from different channels. After a week, we lost over 10 percent of our clientele,\" he says. The food business has its ups and downs, but since the beginning of this year, several customers have simply stopped coming, he adds. Like Alex, most Greeks here in Bonn feel that having an opinion on Greece's finances is a difficult task. Greeks on Sunday will have to decide carefully, what is best for them. A Grexit is unthinkable for these expats, for Europe cannot exist without Greece. \"Europa is a Greek word,\" Alex sums up his emotions in one sentence.",
+  "relations": [
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greeks",
+      "in0-x"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greece",
+      "agent_of"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greeks",
+      "citizen_of-x"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greece",
+      "head_of_gov"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greeks",
+      "head_of_gov-x"
+    ],
+    [
+      "Alexis Tsipras",
+      "Greek",
+      "head_of_gov-x"
+    ],
+    [
+      "Elena Aliki Papyrou",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Elena Aliki Papyrou",
+      "Greeks",
+      "citizen_of-x"
+    ],
+    [
+      "Elena Aliki Papyrou",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Greeks",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Bonn",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bonn",
+      "German",
+      "in0-x"
+    ],
+    [
+      "European Central Bank",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Central Bank",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Alex",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Alex",
+      "Greeks",
+      "citizen_of-x"
+    ],
+    [
+      "Alex",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Thessaloniki",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Thessaloniki",
+      "Greeks",
+      "in0-x"
+    ],
+    [
+      "Thessaloniki",
+      "Greek",
+      "in0-x"
+    ]
+  ]
+}

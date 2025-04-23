@@ -1,0 +1,145 @@
+{
+  "content": "Financial expert: A debt avalanche is on the way\nCologne-based financial strategist Philip Vorndran says inflation is the only way out of the European debt crisis. But that would not only shrink debt, it would also slash people's savings.\nDW: You recently published a book entitled \"The Debt Avalanche\" - referring, of course, to the debt crisis in Europe. If we picture an avalanche, where are we right now? At the bottom of the mountain, which means the avalanche hasn't fully hit us yet, or are we in its midst already? Phillipp Vorndran: We are convinced that we are in its early stages, we feel the avalanche's suction, its air draft. But we are not yet past the most dangerous parts of the debt avalanche. You say the debt crisis - this landslide - can only be stopped by inflation, which means a drop in the purchasing power of money and rising prices. How can that function? In theory, you can reduce debt in four different ways. The Greeks have shown us the easiest way, debt restructuring. But that is unrealistic, we won't see that in the large economies because the central banks will balk at the concept. The second option is the \"Swabian housewife\" model: austerity. Here, unfortunately, we are all 15 years too late. If we all started saving now and putting the brakes on spending, we would quickly reach a state of economic Armageddon, comparable to the situation in the 1930s. That is something politicians certainly do not want, and it would also be a massive challenge to apeaceful social coexistence. The third theoretical option is growth - nominal growth, which is greater than the increase in debt. That is not a realistic scenario within the Western World, we have too many demographic challenges. That leaves higher inflation. If you have a look at how widely the central banks have already opened their purse strings then it is, as former ECB chief economist Jürgen Stark put it, just a matter of time. Isn't inflation unfair to people who have been saving money? Sooner or later, their assets would be considerably reduced. That is true but one should not forget: there is no painless solution to the debt crisis. I believe a political consensus has been reached - to ensure there is no threat to social peace - to get the wealthy involved rather than those at the other end of the social scale. In that scenario, people who have saved money for decades lose out. That is what happened with Germany's hyperinflation in the early 1920s when all those who had put their money in assets such as savings accounts and insurance policies were mercilessly dispossessed. If you say inflation is the only way out, what should I do now? Should I spend my money? That is a possibility. That's what you see when you look at the statistics for luxury labels in Germany and other large economies. Many people say they do not know what they will be able to afford tomorrow, so I will buy the car today that I planned to buy in three years. That is one option. The other is to think about securing one's assets as realistically as possible in such an environment. The first idea many Germans come up with is to buy real estate. That is something I can touch, an actual building. No matter what happens to inflation, no one can take it away. That is one of the reasons why real estate prices in Germany are on the rise. A word on Greece, where the arguments have started again: will the state go bankrupt? Should they leave the eurozone? Should they get more money? Is Greece a lost cause or can the country still grow out of the crisis, or cut spending enough? In 2009 we already said, Greece is bankrupt. Then German politicians criticized us for being irresponsible and unsettling Germans savers. But for us, it was a mathematical certainty: Greece does not have a business model to survive within the eurozone. Nothing has changed. It is clear that sooner or later, Greece will have to leave the eurozone. The alternative is that strong economies such as Finland, Germany, the Netherlands and Austria agree to permanently support this hopeless case. Does Germany even need the euro? If the Greeks give up, Portugal, Spain and others might also exit the eurozone, which might eventually dissolve. The euro in its present form can not survive. Either weaker countries will leave - Portugal, Greece, possibly Spain and Italy - or we must leave. We believe the former is the more likely option. We are not convinced Germany benefits greatly from the euro. We also do not believe our economy will founder if the euro disappears. Of course there will be an appreciation of a new German currency. For a while, we will have to burden the German export industry. But Germany is more than the sum of its exports. Germany also has citizens who save money and their buying power should be heard just as loudly in the discussion as the permanent hymns of praise to the export industry. If you want to export goods, you need buyers. The debt landslide is heading not only to Europe, but to the US, Japan and other parts of the world as well. That is true. The conclusion should be close scrutiny of the German business model. Is it a good idea to live off an export industry whose goods are shipped all over the world and where payments are often made on paper only. Germany must also consider whether a policy of stimulating domestic demand shouldn't be a long term element in the political strategy. Where debt is concerned, the old economies - apart from many eurozone member states, they include Britain, the US and Japan - have problems the same as we do. In the long run, these old economies will no longer be able to buy our goods to the same extent as before. Other economies will fill the gap. A look at German exports to the eurozone since the introduction of the euro shows a clear decline. But apparently, based on quality - and despite high prices - Germany manages to find buyers for its products in emerging markets. Philipp Vorndran is a capital market strategist with the renowned Cologne portfolio management firm Flossbach von Storch. The business economist previously held the position of chief strategist for global asset management at Credit Suisse; he also worked for the Swiss private bank Julius Bär and the University of Würzburg. Vorndran is the author of \"The debt avalanche\". In his book, he explains why only inflation can resolve the debt crisis in Europe. Interview : Bernd Riegert / db Editor: Michael Lawton",
+  "relations": [
+    [
+      "Phillipp Vorndran",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Phillipp Vorndran",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Phillipp Vorndran",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Phillipp Vorndran",
+      "Credit Suisse",
+      "head_of"
+    ],
+    [
+      "Phillipp Vorndran",
+      "Credit Suisse",
+      "member_of"
+    ],
+    [
+      "Phillipp Vorndran",
+      "Julius Bär",
+      "member_of"
+    ],
+    [
+      "The Debt Avalanche",
+      "Phillipp Vorndran",
+      "created_by"
+    ],
+    [
+      "Cologne",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Cologne",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Cologne",
+      "German",
+      "in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Greeks",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Jürgen Stark",
+      "ECB",
+      "head_of"
+    ],
+    [
+      "Jürgen Stark",
+      "ECB",
+      "member_of"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Flossbach von Storch",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Flossbach von Storch",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Flossbach von Storch",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Flossbach von Storch",
+      "Cologne",
+      "based_in2"
+    ],
+    [
+      "Credit Suisse",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Julius Bär",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "University of Würzburg",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "University of Würzburg",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "University of Würzburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "University of Würzburg",
+      "Julius Bär",
+      "member_of"
+    ]
+  ]
+}

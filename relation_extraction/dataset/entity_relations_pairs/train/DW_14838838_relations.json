@@ -1,0 +1,170 @@
+{
+  "content": "Top British judge examines tweeting in court\nThe controversy over tweeting in British courts has reached the highest level, as the head of the judiciary decides on the matter. The case of WikiLeaks founder Julian Assange has generated renewed interest in the issue.\nThe extradition case against WikiLeaks founder Julian Assange in Woolwich Crown Court has generated an enormous amount of public interest, in Britain and across the globe. Until recently, anyone wanting to follow each twist and turn of the case would have had to sit in the courtroom itself. But thanks to a new army of tireless court tweeters, people in the court relaying their views in messages on the social network Twitter, the wider public has been able to receive a blow-by-blow account of the Assange hearing wherever they are. One such tweeter is Federica Cocco from the cyberculture organization Owni.fr, who managed 789 tweets in the two first days of the hearing - a total of 13,762 words. Her tweets document in remarkable, pithy detail each speaker and their key contribution. While Cocco may have been the most prolific tweeter, she was certainly not the only microblogger in the room. Mainstream outlets such as the Guardian newspaper, The New York Times and the BBC among others had their own journalists tweeting from the Assange hearing, eager to demonstrate that they too are on the cutting edge of courtroom reporting. The ability to send live updates from inside court is something of a silent revolution, because English courts are notoriously careful about publicity. Andrew Scott, an expert in media law at the London School of Economics, said in Britain, the general rule is that no one should be doing anything in court \"which causes interference with the administration of justice.\" Technology viewed with suspicion Since the presence of television cameras or photographers could interfere with how witnesses, jurors and other people behave, they are all banned, he said. \"Progressively courts have become slightly more willing to allow texting,\" Scott added, but even this is at the judge's discretion. Simply having your phone on could mean that you are at risk of disrupting court, which leads to sometimes strange sight of journalists and others in the public gallery surreptitiously texting into their laps, in an effort not to attract the attention of the legal powers-that-be. The first breakthrough came at Assange's bail hearing in mid-December, when the judge, perhaps swayed by the overwhelming public interest in the case, expressly allowed tweeting and texting in court. But days later that permission was overturned. In an attempt to clarify matters, the Lord Chief Justice of England and Wales Igor Judge gave a swift, provisional ruling that there was no legal basis for a ban on tweeting from courtrooms, a decision that caused much celebration among microbloggers. But the while the tweeters' battle was won on that day, their war is far from over. On February 7, the Lord Chief Justice announced the start of a three-month consultation on \"live, text-based communication\" in court. Amateur tweeters 'dabbling with danger' Scott said the consultation document highlights the risk that bloggers who aren't journalists could fall foul of reporting restrictions. \"Within 140 characters it's very possible to cast a certain slant on the information you're presenting,\" he said. \"The shorter the message you write the less opportunity you have to elaborate beyond the facts of what's going on,\" Scott added. \"There is a potential problem for non-journalists tweeters where they're much less likely to understand the legal framework within which they're operating and may much more easily, inadvertently, commit breaches of reporting restrictions.\" Whatever the decision at the end of this consultation process, prolific court blogger Cocco said she believes that at least it means the English courts are facing up to the challenges and possibilities of new technology. She pointed out that although currently she is not allowed to bring a camera into court, she could bring her smartphone, which is able to take pictures. \"Maybe they have to look back at the rules, and consider what modern technology can do,\" Cocco said. Scott agreed, calling the upcoming ruling a desirable development. \"It accords very closely with the principle of open justice - the idea that justice not only be done, but manifestly be seen to be done,\" he said. If tweeting in court is seen to adhere to the highest principles of justice, the Assange case certainly won't be the last to be followed live, in 140 characters or less. Author: Robin Powell /rc Editor: Sean Sinico",
+  "relations": [
+    [
+      "Julian Assange",
+      "WikiLeaks",
+      "head_of"
+    ],
+    [
+      "Julian Assange",
+      "WikiLeaks",
+      "member_of"
+    ],
+    [
+      "Andrew Scott",
+      "London School of Economics",
+      "member_of"
+    ],
+    [
+      "Federica Cocco",
+      "Owni.fr",
+      "member_of"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Woolwich Crown Court",
+      "Britain",
+      "agency_of"
+    ],
+    [
+      "Woolwich Crown Court",
+      "British",
+      "agency_of-x"
+    ],
+    [
+      "Woolwich Crown Court",
+      "English",
+      "agency_of-x"
+    ],
+    [
+      "Woolwich Crown Court",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Woolwich Crown Court",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Woolwich Crown Court",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "Guardian",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "Guardian",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "Guardian",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "BBC",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "BBC",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "BBC",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "English",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "London School of Economics",
+      "Britain",
+      "based_in0"
+    ],
+    [
+      "London School of Economics",
+      "British",
+      "based_in0-x"
+    ],
+    [
+      "London School of Economics",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "England",
+      "Britain",
+      "in0"
+    ],
+    [
+      "England",
+      "British",
+      "in0-x"
+    ],
+    [
+      "England",
+      "English",
+      "in0-x"
+    ],
+    [
+      "Wales",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Wales",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Wales",
+      "English",
+      "in0-x"
+    ],
+    [
+      "Igor Judge",
+      "Britain",
+      "agent_of"
+    ],
+    [
+      "Igor Judge",
+      "British",
+      "agent_of-x"
+    ],
+    [
+      "Igor Judge",
+      "English",
+      "agent_of-x"
+    ],
+    [
+      "Igor Judge",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Igor Judge",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Igor Judge",
+      "English",
+      "citizen_of-x"
+    ]
+  ]
+}

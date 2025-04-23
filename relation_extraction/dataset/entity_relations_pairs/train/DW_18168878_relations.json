@@ -1,0 +1,35 @@
+{
+  "content": "AirAsia search team finds four 'large objects'\nThe Indonesia Search and Rescue Agency searching for AirAsia flight 8501 has found two more \"large parts\" of the crashed jet, bringing the total to four pieces of debris. The plane had been carrying 162 people.\nAgency chief Fransiskus Bambang Soelistyo said on Saturday that the four large objects were found in the Java Sea using an Indonesian ship equipped with sonar technology. Despite high waves on Saturday, search teams extended their hunt for bodies and wreckage. So far, some 30 bodies have been found. Two other objects were also found earlier on Saturday, some 30 meters (90 feet) below the surface. No survivors have been found. \"We managed to detect two large objects - one three-dimensioned, another two-dimensioned,\" Soelistyo said, adding there were signs of an oil spill. \"I can confirm that they are parts of the plane we are looking for,\" he said. The Airbus A320-200 disappeared during a flight from the Indonesian city of Surabaya to Singapore, after losing contact with air traffic control on December 28. Prior to losing contact, the pilot requested to ascend to avoid approaching threatening clouds. Permission was denied, however, due to heavy air traffic. On Saturday, Indonesian authorities also grounded all AirAsia flights from Surabaya to Singapore, saying that the airline had not had a permit to fly on Sundays - the same day that the AirAsia 8501 flight went down over the Java Sea. ksb/se (Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "Fransiskus Bambang Soelistyo",
+      "Indonesian",
+      "citizen_of-x"
+    ],
+    [
+      "Fransiskus Bambang Soelistyo",
+      "Indonesia Search and Rescue Agency",
+      "head_of"
+    ],
+    [
+      "Fransiskus Bambang Soelistyo",
+      "Indonesia Search and Rescue Agency",
+      "member_of"
+    ],
+    [
+      "Indonesia Search and Rescue Agency",
+      "Indonesian",
+      "agency_of-x"
+    ],
+    [
+      "Indonesia Search and Rescue Agency",
+      "Indonesian",
+      "based_in0-x"
+    ],
+    [
+      "Surabaya",
+      "Indonesian",
+      "in0-x"
+    ]
+  ]
+}

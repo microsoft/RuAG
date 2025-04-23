@@ -1,0 +1,120 @@
+{
+  "content": "Musharraf announces return to Pakistani politics despite Taliban threat\nFormer President Pervez Musharraf has said he wants to \"free\" Pakistan from terrorism when he returns to the country after years in exile. He also criticized the 2011 US operation to kill Osama bin Laden in Pakistan.\nOn Sunday, Musharraf will fly into Karachi, his hometown and Pakistan's largest city. With 18 million people, Karachi is suffering from record levels of violence linked to ethnic and political tensions. He plans to contest May's elections. \"In my time, Pakistan was an emerging country with a budding economy, and terrorism was not as big a problem as it is now,\" Musharraf told the German news magazine Der Spiegel. \"Success in these two political areas is the key to a stable and healthy Pakistan.\" Musharraf faces charges over the assassination of former Prime Minister Benazir Bhutto; the 2006 death of the Baluch rebel leader Akbar Bugti in a military operation, and the 2007 sacking and illegal arrest of judges. However, legal problems are only one challenge facing Musharraf: The Taliban have warned they have an assassination team ready to kill the one-time military strongman if he sets foot in the country. He brushed the threats off, though: \"In the last 12 years, terrorists have often tried to drive me into hell. Without success.\" \"They won't manage in the future either ...\" Musharraf said. \"Fortune favors the brave.\" 'A total failure' The former army chief of staff, Musharraf seized power in a bloodless coup in 1999 and left the country after stepping down in August 2008, when Bhutto's widower, Asif Ali Zardari, was elected president. \"The last five years ... were a total failure,\" Musharraf said, adding that \"all the economic and social indicators showed that Pakistan was a developing country\" before his self-imposed exile. \"I want to put Pakistan on the road to prosperity and free it from terrorism,\" Musharraf said in the interview, published online Saturday. Musharraf also said that the killing of the al Qaeda leader bin Laden was \"certainly a success but a success that Pakistani security forces could have achieved.\" He added that \"no country has the right to violate the sovereignty of another like the US did there.\" mkg/mr (Reuters, AFP, dpa, AP)",
+  "relations": [
+    [
+      "Pervez Musharraf",
+      "Pakistan",
+      "agent_of"
+    ],
+    [
+      "Pervez Musharraf",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Pervez Musharraf",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Pervez Musharraf",
+      "Pakistan",
+      "head_of_state"
+    ],
+    [
+      "Pervez Musharraf",
+      "Pakistani",
+      "head_of_state-x"
+    ],
+    [
+      "Karachi",
+      "Pakistan",
+      "in0"
+    ],
+    [
+      "Karachi",
+      "Pakistani",
+      "in0-x"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistan",
+      "agent_of"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistan",
+      "head_of_gov"
+    ],
+    [
+      "Benazir Bhutto",
+      "Pakistani",
+      "head_of_gov-x"
+    ],
+    [
+      "Benazir Bhutto",
+      "Asif Ali Zardari",
+      "spouse_of"
+    ],
+    [
+      "Osama bin Laden",
+      "al Qaeda",
+      "head_of"
+    ],
+    [
+      "Osama bin Laden",
+      "al Qaeda",
+      "member_of"
+    ],
+    [
+      "Pakistani",
+      "Pakistan",
+      "gpe0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Asif Ali Zardari",
+      "Pakistan",
+      "agent_of"
+    ],
+    [
+      "Asif Ali Zardari",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Asif Ali Zardari",
+      "Pakistani",
+      "citizen_of-x"
+    ],
+    [
+      "Asif Ali Zardari",
+      "Pakistan",
+      "head_of_state"
+    ],
+    [
+      "Asif Ali Zardari",
+      "Pakistani",
+      "head_of_state-x"
+    ],
+    [
+      "Asif Ali Zardari",
+      "Benazir Bhutto",
+      "spouse_of"
+    ]
+  ]
+}

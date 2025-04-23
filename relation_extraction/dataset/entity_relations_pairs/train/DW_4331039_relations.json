@@ -1,0 +1,145 @@
+{
+  "content": "EU deplores recent events in Iran\nThe European Union has released a statement expressing serious concern after the deaths of Iranian protesters and called on Iranian authorities to allow peaceful demonstrations.\nIran's state media had announced that seven protesters were killed when a massive rally against the disputed re-election of Mahmoud Amhadinejad turned violent. A spokesman for the European Commission urged Iranian authorities to allow peaceful demonstrations in the country where civil unrest appears to have reached levels unseen since the 1979 Islamic Revolution. \"The commission is indeed very concerned,\" said spokesman Amadeu Altafaj Tardio. \"We regret the violence and the loss of life and we call on the Iranian authorities to respect the right to demonstrate in a peaceful manner. \"We underline the right to protest in a peaceful way, which must be respected by the Iranian security forces,\" he added. The Iranian Foreign Ministry summoned a senior European diplomat on Tuesday to complain about the EU's reaction to the fatalities in the capital Tehran. \"Neither the European Union nor other countries are in a position to have the right to make rude and interfering remarks against Iran, especially about our glorious election,\" the Foreign Ministry told the Czech charge d'affairs, Josef Havlas. A willingness to recount An Iranian state television broadcast said on Tuesday that the country's supervisory body, the Guardian Council, was ready to carry out a recount of some votes, and added that this could lead to changes in candidates’ tallies. But council spokesman Abbasali Kadkhodai rejected a call from the main opposition challenger, Mir Hossein Mousavi, to annul the vote. \"Based on the law, the demand of those candidates for the cancellation of the vote, this cannot be considered,\" Kadkhodai told state television. The results of the presidential poll have been met with fury by opposition supporters. On Monday night, hundreds of thousands of Mousavi's followers took to the streets to decry what they say was foul play at the ballot box. Iranian state radio said the 'illegal' rally turned violent towards the end, when a military post was attacked with the intention of looting the weapons inside. \"Illegal demonstration\" The broadcast said thugs taking part in the \"illegal\" demonstration in Tehran had \"attacked and vandalized a number of public and government buildings,\" in what it described as an \"organized and coordinated\" event. \"Unfortunately, seven of our citizens were killed and a number of them injured,\" the radio broadcast stated. A source told the AFP news agency however that the emergency services claimed eight had been killed and many more injured in the incident. An unnamed nurse at a city hospital said 28 people with bullet wounds had been brought in, and that eight of them had died. State television has since said that authorities have arrested the \"main agents\" in the post-election unrest, but it did not say how many had been detained. Planned protests Earlier, Mousavi's supporters announced plans to hold another rally on Tuesday, this time at the same central Tehran square where President Ahmadinejad celebrated his controversial re-election victory on Sunday. But following calls from hardliners loyal to Ahmadinejad for a counter protest in the same place just one hour earlier, Mousavi has appealed to his supporters to protect their lives by not showing up. A spokesman for Mousavi said the \"moderates' rally\" had been cancelled. But the pro-Ahmadinejad rally is expected to go ahead. An organization affiliated with the government was quoted on Iran's Fars news agency as saying it would be held \"in protest against the recent agitation and destruction of public property.\" Call for peaceful action Meanwhile the country’s top dissident cleric Grand Ayatollah Hossein Ali Montazeri has appealed to opposition followers to act peacefully. He issued a statement to the \"noble and oppressed Iranian nation,\" in which he appealed to everyone, but especially the nation’s youth, to pursue their rights with \"patience and restraint.\" He said protesters should preserve the \"calm and security of the country and avoid any violence,\" adding that their presence at public demonstrations was a clear show of support for defeated presidential candidates in pursuit of the \"violated rights.\" tkw/sjt/AP/AFP/reuters Editor: Susan Houlton",
+  "relations": [
+    [
+      "Foreign Ministry",
+      "Iran",
+      "agency_of"
+    ],
+    [
+      "Foreign Ministry",
+      "Iranian",
+      "agency_of-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Iran",
+      "based_in0"
+    ],
+    [
+      "Foreign Ministry",
+      "Iranian",
+      "based_in0-x"
+    ],
+    [
+      "Foreign Ministry",
+      "Iran",
+      "ministry_of"
+    ],
+    [
+      "Mahmoud Amhadinejad",
+      "Iran",
+      "agent_of"
+    ],
+    [
+      "Mahmoud Amhadinejad",
+      "Iran",
+      "citizen_of"
+    ],
+    [
+      "Mahmoud Amhadinejad",
+      "Iranian",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Amhadinejad",
+      "Iran",
+      "head_of_state"
+    ],
+    [
+      "Mahmoud Amhadinejad",
+      "Iranian",
+      "head_of_state-x"
+    ],
+    [
+      "Islamic Revolution",
+      "Iran",
+      "event_in0"
+    ],
+    [
+      "Abbasali Kadkhodai",
+      "Guardian Council",
+      "member_of"
+    ],
+    [
+      "Abbasali Kadkhodai",
+      "Guardian Council",
+      "spokesperson_of"
+    ],
+    [
+      "Iranian",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "Amadeu Altafaj Tardio",
+      "European Commission",
+      "member_of"
+    ],
+    [
+      "Amadeu Altafaj Tardio",
+      "European Commission",
+      "spokesperson_of"
+    ],
+    [
+      "Tehran",
+      "Iran",
+      "in0"
+    ],
+    [
+      "Tehran",
+      "Iranian",
+      "in0-x"
+    ],
+    [
+      "Josef Havlas",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Josef Havlas",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Guardian Council",
+      "Iran",
+      "agency_of"
+    ],
+    [
+      "Guardian Council",
+      "Iranian",
+      "agency_of-x"
+    ],
+    [
+      "Guardian Council",
+      "Iran",
+      "based_in0"
+    ],
+    [
+      "Guardian Council",
+      "Iranian",
+      "based_in0-x"
+    ],
+    [
+      "Fars",
+      "Iran",
+      "based_in0"
+    ],
+    [
+      "Fars",
+      "Iranian",
+      "based_in0-x"
+    ],
+    [
+      "Hossein Ali Montazeri",
+      "Iran",
+      "citizen_of"
+    ],
+    [
+      "Hossein Ali Montazeri",
+      "Iranian",
+      "citizen_of-x"
+    ]
+  ]
+}

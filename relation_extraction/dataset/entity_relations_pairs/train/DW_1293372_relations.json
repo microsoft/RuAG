@@ -1,0 +1,90 @@
+{
+  "content": "Baltic Beach Battle\nThe Baltic Sea stretching from eastern Germany to Poland used to be a Mecca for beach bums who prefer skin to skivvies, but is an onslaught of prudish Western visitors spoiling the tradition?\nBack in the days of Communism, as many as 90 percent of beach-goers along the East German-controlled stretch of the Baltic Sea preferred to bathe in their birthday suits, au natural. Fifteen years after the fall of the Berlin Wall, it's a different story. Today, officials are buckling under pressure from tourists from western Germany who have demanded the nudists, known here as Free Body Culture (FKK), be pushed to the fringes of public beaches. According to a report by news agency Reuters, the tensions have pitted the nudes against the prudes. \"I grew up being naked at the beach and it's the only way to spend the summer here,\" Susanne Koch, 31, told Reuters. \"Being nude on the beach feels completely normal.\" To cover or uncover? The dispute, unfortunately, has also tapped into divisions between the eastern Germans and their western German neighbors, who sometimes pejoratively refer to each other as \"Ossis\" and \"Wessis.\" \"Western tourists are ruining the atmosphere,\" Koch said. \"The tensions are unfortunate. They don't know what they're missing, It's a shame westerners are so intolerant.\" But the resort town of Warnemünde, a coastal outpost near Rostock, is one of many in the area that reply heavily on tourism for its survival. Officials in the town have divided the beaches between \"textile\" areas and \"FKK\" sections. And there are even reported incidents of nudists taking one false step and winding up with a handful of sand in their faces. Keen to cash in on their higher spending power, tourism officials have sought to appease visitors from the west like Dirk Richter of the central western city of Hanover. \"I really don't want to see naked bodies all around me,\" he said. \"It's not for everyone and it's often not a very attractive sight. It's tough luck for the natives if that's the way it used to be. Times change.\" But few believe the nudists will go without a fight -- including people like Maron Mock. \"It's not fair,\" the 25-year-old primary school teacher said. \"We're being pushed off our own beach into a crummy little zone on the edge. Being nude is not a crime!\"",
+  "relations": [
+    [
+      "Susanne Koch",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Susanne Koch",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Susanne Koch",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Warnemünde",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Warnemünde",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Warnemünde",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Rostock",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Rostock",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Rostock",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hanover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hanover",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Hanover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Maron Mock",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Maron Mock",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Maron Mock",
+      "German",
+      "citizen_of-x"
+    ]
+  ]
+}

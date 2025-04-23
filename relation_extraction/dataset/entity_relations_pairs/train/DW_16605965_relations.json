@@ -1,0 +1,105 @@
+{
+  "content": "Japan stocks surge as yen falls in G20 aftermath\nJapanese shares have jumped amid a further weakening national currency after top industrialized countries approved Tokyo's aggressive monetary policy. Japan aims to beat deflation by printing money.\nJapan's Nikkei stock market index surged more than 2 percent on Monday and the yen weakened further in Asian foreign exchange markets following tacit support from after the Group of Twenty (G20) nations for Tokyo's monetary policy at their weekend meeting. In a statement Sunday, the G20, which includes the world's top industrialized nations and emerging economies, pledged to refrain from competitive currency devaluation and said they wouldn't use exchange rates for gaining a competitive advantage. The G20 decided not to single out Japan for criticism although Japan's national currency has fallen 17 percent against the US dollar and 25 percent against the euro, leading to accusations that Tokyo had manipulated the yen to gain a trade advantage. Japan's newly-elected Prime Minister Shinzo Abe reiterated Monday that his policy was aimed at beating years of deflation, and not at manipulating foreign exchange markets. However, Abe also warned the country's central bank, the Bank of Japan (BoJ), that he would press for a revision of Japan's central bank law if the BoJ failed to commit to the aim of aggressive monetary easing to foster growth. Bank of Japan Governor Masaaki Shirakawa, who disagreed with Abe on this policy, is to resign from his post next month, several weeks ahead of the end of his term in office. uhe/kms (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "Nikkei",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Nikkei",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Bank of Japan",
+      "Japan",
+      "agency_of"
+    ],
+    [
+      "Bank of Japan",
+      "Japanese",
+      "agency_of-x"
+    ],
+    [
+      "Bank of Japan",
+      "Japan",
+      "based_in0"
+    ],
+    [
+      "Bank of Japan",
+      "Japanese",
+      "based_in0-x"
+    ],
+    [
+      "Masaaki Shirakawa",
+      "Japan",
+      "agent_of"
+    ],
+    [
+      "Masaaki Shirakawa",
+      "Japanese",
+      "agent_of-x"
+    ],
+    [
+      "Masaaki Shirakawa",
+      "Japan",
+      "citizen_of"
+    ],
+    [
+      "Masaaki Shirakawa",
+      "Japanese",
+      "citizen_of-x"
+    ],
+    [
+      "Masaaki Shirakawa",
+      "Bank of Japan",
+      "head_of"
+    ],
+    [
+      "Masaaki Shirakawa",
+      "Bank of Japan",
+      "member_of"
+    ],
+    [
+      "Shinzo Abe",
+      "Japan",
+      "agent_of"
+    ],
+    [
+      "Shinzo Abe",
+      "Japan",
+      "citizen_of"
+    ],
+    [
+      "Shinzo Abe",
+      "Japanese",
+      "citizen_of-x"
+    ],
+    [
+      "Shinzo Abe",
+      "Japan",
+      "head_of_gov"
+    ],
+    [
+      "Shinzo Abe",
+      "Japanese",
+      "head_of_gov-x"
+    ],
+    [
+      "Japanese",
+      "Japan",
+      "gpe0"
+    ],
+    [
+      "Tokyo",
+      "Japan",
+      "in0"
+    ],
+    [
+      "Tokyo",
+      "Japanese",
+      "in0-x"
+    ]
+  ]
+}

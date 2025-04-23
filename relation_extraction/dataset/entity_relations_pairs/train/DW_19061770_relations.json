@@ -1,0 +1,110 @@
+{
+  "content": "Bolivia's Morales fighting for political survival\nEvo Morales has governed Bolivia for over a decade and his term is set to expire in 2020. A referendum is being held to allow Morales to run for another term. DW's Jan D. Walter reports on the president's standing.\nBolivia's Evo Morales has long been considered one of Latin America's most beloved presidents. In 2014, the most recent general election, his \"Movement toward Socialism\"received more than 60 percent of the vote for the second time. A referendum to be held on Sunday (21.02.2016) will have the people deciding if Morales can run for another term. A year ago, that wish would have been fulfilled; over the last few months however, Morales has lost steam. Regional and communal votes have seen MAS candidates losing important offices. Morales must also be wary of losing more supporters should an economic downturn forecast through 2017 balloon into a crisis. His proponents have become fewer as people begin to believe that Evo Morales' politics are neither intended for all Bolivians nor for all Indigenous peoples. The voice of those without rights The head of a coca farmer's union became the \"first indigenous president in Latin America\" back in 2005 with that promise. At least that's how Morales fancied himself. Even before him, Bolivia and other Latin American states had previously had heads of state with indigenous roots. And Morales didn't exactly fit the cultural picture he'd created of himself. Neither did he grow up in an indigenous community nor did he speak the language of the tribe. Yet the message he wanted to sell came across clearly: Evo is a man from the middle of the native underclass. His success came as something well-deserved, according to German aid worker Anne Weiss. \"He gave these people a voice.\" Anne Weiss is a pseudonym for a woman who has spent more than 30 years looking after social projects in Bolivia; she doesn't want to give her real name for fear that her organization's work may suffer. Corruption and oppression That alone should say plenty about how Morales and his political party are attempting to consolidate their power. Reports that critics and opponents are being threatened are multiplying. Those who support the regime can hope to be rewarded, say observers. The latest corruption allegations hit the president himself - and that just one week before the referendum. Morales is said to have handed out a contract worth an estimated 500 million euros to the Chinese company CAMCE; his ex-wife sits on the board of the company. Such accusations could be intentionally spread. But Morales has prepared for this. \"The majority of the media in Bolivia is government-controlled. The very few independent media outlets there have chosen to self-censor in order to avoid problems,\" according to the country report for Bolivia put out by Germany's Konrad Adenauer Foundation. Indiscriminate financing of the social state As frequently as the media repeats the stereotype of the earth-loving indigenous, so too is the frequency with which it has become clearer to Bolivians that something is not right. The number of cases in which the government stamps out the rights of the indigenous community has increased. Above all, these communities are affected by the exploitation of natural resources like natural gas and ore. State-run companies make no detours around the lands claimed by indigenous communities in order to get at those raw materials. The income gained is too important as it fills the koffers from which the MAS finances its social projects. Economic turbulence up ahead How much longer this will continue to go well dependes on sinking prices of raw goods. Instead of using the boom times of recent years to create sustainable structures, or at least to construct reserves for harder times, Morales increased consumption and along with that inflated growth. It's already apparent in Venezuela and Brazil where that will lead. Economists have predicted a downturn soon for Bolivia's flourishing economy. Private businesses will have a tough time as the state's minimum wage doesn't allow for much wiggle room to compensate for a decrease in demand. \"Small businesses are already closing because they cannot compensate for the last increases to the minimum wage,\" said Weiss, the aid worker. Good intentions don't match the reality Weiss can name many examples which were driven by good will, but which don't match the realities of the situation on the ground. Such as: all teachers should learn Quechua or Aymara, the indigenous languages. But what do the Guarani achieve with this? In Bolivia, there are more than 30 indigenous languages. A school that Anne Weiss' organization works with may need to close soon if they cannot decrease class sizes from the 50 or 60 students currently in each class down to the maximum of 30. \"Of course that'd be ideal, but we have neither the physical capacity nor the personnel to accomplish that.\" For the pupils, the school's closing would mean that they would no longer be able to attend school. \"Out on the street there are drug gangs that offer the kids attractive prospects.\" Morales' penultimate chance Whether Evo Morales has a chance to win a re-election in 2019 is more than unclear. In 2013, the Venezuelan regime was able to gain a majority of the vote, despite disastrous economic policies. Between now and 2019, a lot can happen. For now, it's a question of whether or not Morales can even run as a candidate. The country analyst at the Konrad Adenauer Foundation says the timing is right: the economy is still strong enough. And government employees have just received the so-called double Christmas bonus that is an obligatory part of the minimum wage. The government has even garnered the sympathies of its opponents by being able to bring their Chilean neighbors back to the negotiating table with the help of the courts in The Hague. For over 100 years, landlocked Bolivia has been fighting with Chile to gain access to the Pacific. Whether or not a return to the table ends up sufficing for Morales remains to be seen on Sunday.",
+  "relations": [
+    [
+      "Evo Morales",
+      "Bolivia",
+      "agent_of"
+    ],
+    [
+      "Evo Morales",
+      "Bolivia",
+      "citizen_of"
+    ],
+    [
+      "Evo Morales",
+      "Bolivians",
+      "citizen_of-x"
+    ],
+    [
+      "Evo Morales",
+      "Movement toward Socialism",
+      "head_of"
+    ],
+    [
+      "Evo Morales",
+      "Bolivia",
+      "head_of_state"
+    ],
+    [
+      "Evo Morales",
+      "Bolivians",
+      "head_of_state-x"
+    ],
+    [
+      "Evo Morales",
+      "Movement toward Socialism",
+      "member_of"
+    ],
+    [
+      "Movement toward Socialism",
+      "Bolivia",
+      "based_in0"
+    ],
+    [
+      "Movement toward Socialism",
+      "Bolivians",
+      "based_in0-x"
+    ],
+    [
+      "Anne Weiss",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Anne Weiss",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Konrad Adenauer Foundation",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Konrad Adenauer Foundation",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jan D. Walter",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Bolivians",
+      "Bolivia",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "CAMCE",
+      "Chinese",
+      "based_in0-x"
+    ],
+    [
+      "Venezuelan",
+      "Venezuela",
+      "gpe0"
+    ],
+    [
+      "Chilean",
+      "Chile",
+      "gpe0"
+    ]
+  ]
+}

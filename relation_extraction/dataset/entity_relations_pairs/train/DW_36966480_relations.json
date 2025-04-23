@@ -1,0 +1,85 @@
+{
+  "content": "Kim Jong Un says ICBM testing in 'final stage'\nNorth Korea is close to developing an intercontinental ballistic missile after several nuclear tests, said the state's leader Kim Jong Un. He also urged the US to stop their \"anachronistic\" policy towards his country.\nThe isolated state has \"soared\" as a nuclear power, Kim Jong Un said in his New Year's address on Sunday. North Korea was now a \"military power of the East that cannot be touched by even the strongest enemy,\" said Kim. The nation was preparing a test launch of an international ballistic missile, and the process has already \"reached the final stage,\" he insisted. Pyongyang has far conducted five nuclear tests, shrugging off international sanctions which aggravated the already poor economic situation in a tragically impoverished country. North Korea claims one of those tests was for a hydrogen-based weapon. Many experts dispute the claim, saying that all weapons tested were comparably less destructive atom bombs. There have also been contrasting reports on Pyongyang's ability to miniaturize a nuclear warhead and mount it on a missile. An ICBM projectile, armed with a small nuclear warhead, could potentially be used by North Korea against targets on US soil. In the address broadcast on Sunday, Kim praised \"marvelous feats\" aimed at boosting the North Korean military power. At the same time, he said efforts should be made to defuse the possibility of another Korean war between Pyongyang and Seoul. He also stressed the importance of building the economy under a five-year plan first published in May. Commenting on the US, Kim he called on Washington to make a \"resolute decision to withdraw its anachronistic hostile North Korea policy.\" Despite President-elect Donald Trump saying he might consider meeting with the communist leader, such a move seems unlikely. North Korean defector Thae Yong Ho, who served as deputy ambassador in London before defecting in 2016, has said that Kim was preparing a \"prime time\" nuclear weapons push to take advantage of leadership changes in Washington and Seoul. dj/rc (AP, AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Kim Jong Un",
+      "North Korea",
+      "agent_of"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korea",
+      "citizen_of"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korean",
+      "citizen_of-x"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korea",
+      "head_of_state"
+    ],
+    [
+      "Kim Jong Un",
+      "North Korean",
+      "head_of_state-x"
+    ],
+    [
+      "Pyongyang",
+      "North Korea",
+      "in0"
+    ],
+    [
+      "Pyongyang",
+      "North Korean",
+      "in0-x"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "North Korean",
+      "North Korea",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Thae Yong Ho",
+      "North Korea",
+      "agent_of"
+    ],
+    [
+      "Thae Yong Ho",
+      "North Korean",
+      "agent_of-x"
+    ],
+    [
+      "Thae Yong Ho",
+      "North Korea",
+      "citizen_of"
+    ],
+    [
+      "Thae Yong Ho",
+      "North Korean",
+      "citizen_of-x"
+    ]
+  ]
+}

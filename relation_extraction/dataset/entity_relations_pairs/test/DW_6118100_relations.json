@@ -1,0 +1,220 @@
+{
+  "content": "Party leaders call for increased wages in growing German economy\nChancellor Angela Merkel and other top officials have called for upticks in Germany's economy to trickle down to workers in the form of higher pay. But a leading think tank has warned against giving raises too soon.\nGermany's foreign minister and deputy chancellor, Guido Westerwelle, has added his support to comments made by Economics Minster Rainer Bruederle about increased wages for German workers. \"When the economy grows and this growth is substantial and sustainable, then the benefits of this upswing should be felt by the people who worked so hard for it,\" Westerwelle told the Hamburger Abendblatt newspaper in an interview. Westerwelle heads the free-market liberal FDP, which shares power with Chancellor Merkel's Christian coalition. Earlier this week, Bruederle, also an FDP member, said in light of Germany's currently growing economy, those economic gains should trickle down to employees in the form of higher wages. Merkel, who is also the head of the Christian Democratic Union, supported Bruederle's idea. \"That is something the chancellor sees the same way, letter for letter,\" said Merkel's spokesman, Steffen Seibert. Not so fast Earlier this week, analysts predicted growth of 3.5 percent this year and 2 percent in 2011. Germany's five leading economic think tanks also predicted that the number of unemployed would fall below 3 million next year, the lowest level since 1992. Despite the current rosy outlook for the German economy, not everyone is convinced that a growing economy should inevitably lead to higher wages. The president of the German Institute for Economic Research, Klaus Zimmermann, warned against reacting too quickly. \"I can't support the idea of a general wage increase, I think it is too dangerous,\" Zimmermann said in an interview with the Handelsblatt newspaper. Zimmermann wasn't opposed to the idea of raising wages, but said he was against across-the-board increases for all sectors and pointed out that not every industry is benefitting the same from the growing economy. \"We can't forget that the German economy did not resort to mass lay-offs when it wasn't going so well last year,\" Zimmermann said. Raising wages in some branches could be a good idea, Zimmermann said, as that would make those branches more attractive option to potential workers from outside of Germany. Author: Matt Zuvela (Reuters/dapd/dpa) Editor: Sean Sinico",
+  "relations": [
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democratic Union",
+      "head_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democratic Union",
+      "member_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Guido Westerwelle",
+      "FDP",
+      "head_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "FDP",
+      "member_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Guido Westerwelle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Klaus Zimmermann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Klaus Zimmermann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Klaus Zimmermann",
+      "German Institute for Economic Research",
+      "head_of"
+    ],
+    [
+      "Klaus Zimmermann",
+      "German Institute for Economic Research",
+      "member_of"
+    ],
+    [
+      "Rainer Bruederle",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Rainer Bruederle",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Rainer Bruederle",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Rainer Bruederle",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Rainer Bruederle",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Christian Democratic Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democratic Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Economics",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Economics",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Economics",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Economics",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Economics",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Hamburger Abendblatt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Hamburger Abendblatt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "FDP",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "FDP",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Steffen Seibert",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Steffen Seibert",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Steffen Seibert",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Steffen Seibert",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "German Institute for Economic Research",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Institute for Economic Research",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Handelsblatt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Handelsblatt",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

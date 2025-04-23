@@ -1,0 +1,160 @@
+{
+  "content": "Germany to Send Intelligence Agents to India to Aid Terror Fight\nGermany plans to send intelligence agents to India as part of efforts to step up cooperation in the fight against terrorism, German Interior Minister Wolfgang Schaeuble said Friday, Dec. 12.\nThe two countries wanted to improve the exchange of information, the minister said after talks with Home Affairs Minister P Chidambaram and national security adviser MK Narayanan in New Delhi. Schaeuble said he had asked Indian authorities to allow Germany's anti-terrorism unit GSG 9 to make an intensive inspection of the scenes of last month's terrorist attacks in Mumbai. Germany would be prepared to help India in the fight against terrorist in any way it could, the minister said. Schaeuble said the Pakistan militant Lashkar-e-Taiba, which has been blamed for the attacks in Mumbai, had members in Germany, although the group had no organizational infrastructure there. The minister said there were no indications the group was plotting to target Germany despite \"obvious links\" to the Islamic Jihad Union, an Uzbek group accused of planning attacks on German soil. India has accused Pakistan of being behind the Mumbai bloodbath, which left more than 170 dead. The aim of the terrorists was to provoke India and increase tension with Pakistan, Schaeuble said. Internet terrorists an integral part of network In other security developments, Germany's prosecutor general said that Islamists who post fierce messages on the internet along with bomb-making instructions are becoming a key part of international terrorism. The internet served as a means of communications between different terrorist groups and as a source of information on how to mount attacks, Monika Harms said in Karlsruhe. \"The internet has become the home handyman store for the do-it-yourself terrorist,\" said Harms at a news conference. \"The desk man in front of a personal computer has become an essential component of the global jihad,\" she said, referring to the Arabic term for \"struggle.\" She said this had been proven with a trio of men detained in Germany earlier this year on suspicion of planning bombings. Her office is also investigating a German-language Islamist site, the Global Islamic Media Front (GIMF), and seeks to prosecute its writers on the serious charge of supporting of terrorism. Half the group are said to be German converts to Islam. This week, magistrates released two of the GIMF suspects on bail.",
+  "relations": [
+    [
+      "GSG 9",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "GSG 9",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "GSG 9",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "GSG 9",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Wolfgang Schaeuble",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Monika Harms",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Monika Harms",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "P Chidambaram",
+      "India",
+      "agent_of"
+    ],
+    [
+      "P Chidambaram",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "P Chidambaram",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "P Chidambaram",
+      "India",
+      "minister_of"
+    ],
+    [
+      "P Chidambaram",
+      "Indian",
+      "minister_of-x"
+    ],
+    [
+      "MK Narayanan",
+      "India",
+      "agent_of"
+    ],
+    [
+      "MK Narayanan",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "MK Narayanan",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "MK Narayanan",
+      "India",
+      "minister_of"
+    ],
+    [
+      "MK Narayanan",
+      "Indian",
+      "minister_of-x"
+    ],
+    [
+      "New Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "New Delhi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Mumbai",
+      "India",
+      "in0"
+    ],
+    [
+      "Mumbai",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Lashkar-e-Taiba",
+      "Pakistan",
+      "citizen_of"
+    ],
+    [
+      "Islamic Jihad Union",
+      "Uzbek",
+      "based_in0-x"
+    ],
+    [
+      "Karlsruhe",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Karlsruhe",
+      "German",
+      "in0-x"
+    ]
+  ]
+}

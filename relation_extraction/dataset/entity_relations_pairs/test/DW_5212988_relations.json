@@ -1,0 +1,105 @@
+{
+  "content": "Myanmar Junta Announces Amnesty\nThe junta in Myanmar, also known as Burma, announced an amnesty for more than 7,000 prisoners on Friday, including a few political detainees. The amnesty came on the 21st anniversary of the brutal crackdown of a student-led pro-democracy movement in 1988 and the subsequent seizure of power by the current junta.\nJournalists were invited to Yangon’s notorious Insein prison on Friday as the authorities released the first batch of prisoners. At least 600 inmates were freed as part of an amnesty for over 7,000 inmates nationwide. Among those released in Yangon were two journalists and 25 political prisoners -- rights groups say this is only 1 percent of the total number of political prisoners held by the military regime. Maung Zarni, a research fellow at the London School of Economics, was “happy for the prisoners who were part of the release”. “This is a very positive personal development and I am happy they have been released but we need to understand that the junta is using the prisoners’ release as a public relations exercise. It is the 21st anniversary of the military coup so they are using this as a way to pacify political discontent in the country.” Amnesty comes ahead of next year’s polls Myanmar's director general of prisons, Zaw Win, said that the prisoners had been freed so they could take part in next year's polls. In recent months, rights activists, pro-democracy activists and Western countries have cast doubt on the credibility of the planned elections as many key political activists are still in detention. This includes pro-democracy leader Aung San Suu Kyi, who recently began a new 18-month period of house arrest after being found guilty of violating her house arrest order in a widely condemned trial. “The whole Suu kyi trial is rather unlawful,” said Zarni. “Because the country does not have an independent judiciary, the judges are just puppets who dance to the tune of the top leadership.” Junta is holding on tightly In 1990, Suu Kyi’s National League for Democracy won Myanmar’s last general election by a landslide. But the junta never recognised the results and has since tightened its control over the country. The 2008 constitution, which was drafted and approved by the military generals, which guarantees the army 25 percent of parliamentary seats, is yet another sign of its desire to consolidate power. “The military is going to be in power for a long time,” warns Zarni, “because they have got control of all the political and economic institutions in the country as well as the entire state of Burma. So with or without elections, this is likely to remain the same.” New Democratic Party formed Meanwhile, a new political party has been formed in Myanmar. The Democratic Party is headed by Mya Than Than Nu, who is the daughter of the country’s first democratically-elected prime minister, U Nu. The party has proposed a power-sharing deal with the military, which would give 40 percent of power to politicians and 60 percent to the military rulers. Harn Yawnghwe, the director of the Brussels-based Euro-Burma Office, doubts the new party stands a chance: “It is possible that they they would be able to get some votes. But it is not likely, even if they were able to contest the elections freely, that they will be able to form a new government because the military is not prepared to let any party rule.” Democrats should exploit elections He thinks the only way out for the democratic forces in Myanmar is to use the upcoming elections wisely and “to take part in them even if they are against them. I think we have to look at the elections as a process which will lead to democracy -- maybe in few more years.” The National League for Democracy has indicated that it will not take part in the polls unless all Myanmar’s political prisoners, including Suu Kyi, are released. Suu Kyi’s lawyers have filed an appeal against the extension of her house arrest and the court is expected to give a ruling on October 2. But few are hopeful that the junta will amnesty her anytime soon. Author: Disha Uppal Editor: Anne Thomas",
+  "relations": [
+    [
+      "Maung Zarni",
+      "London School of Economics",
+      "member_of"
+    ],
+    [
+      "Aung San Suu Kyi",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "Aung San Suu Kyi",
+      "National League for Democracy",
+      "head_of"
+    ],
+    [
+      "Aung San Suu Kyi",
+      "National League for Democracy",
+      "member_of"
+    ],
+    [
+      "Yangon",
+      "Myanmar",
+      "in0"
+    ],
+    [
+      "Insein",
+      "Myanmar",
+      "in0"
+    ],
+    [
+      "Insein",
+      "Yangon",
+      "in2"
+    ],
+    [
+      "Zaw Win",
+      "Myanmar",
+      "agent_of"
+    ],
+    [
+      "Zaw Win",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "National League for Democracy",
+      "Myanmar",
+      "based_in0"
+    ],
+    [
+      "Democratic Party",
+      "Myanmar",
+      "based_in0"
+    ],
+    [
+      "Mya Than Than Nu",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "Mya Than Than Nu",
+      "Democratic Party",
+      "head_of"
+    ],
+    [
+      "Mya Than Than Nu",
+      "Democratic Party",
+      "member_of"
+    ],
+    [
+      "U Nu",
+      "Myanmar",
+      "agent_of"
+    ],
+    [
+      "U Nu",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "U Nu",
+      "Myanmar",
+      "head_of_gov"
+    ],
+    [
+      "Harn Yawnghwe",
+      "Euro-Burma Office",
+      "head_of"
+    ],
+    [
+      "Harn Yawnghwe",
+      "Euro-Burma Office",
+      "member_of"
+    ],
+    [
+      "Euro-Burma Office",
+      "Brussels",
+      "based_in2"
+    ]
+  ]
+}

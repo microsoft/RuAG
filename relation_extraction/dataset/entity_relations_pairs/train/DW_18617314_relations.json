@@ -1,0 +1,155 @@
+{
+  "content": "Ex-Virginia Governor Jim Gilmore joins Republican nomination race in US election\nFormer Virginia Governor Jim Gilmore has become the seventeenth major Republican figure to throw his hat into the ring in the race for Republican presidential nomination. He is unlikely to appear in the televised debate.\nThe 65-year-old filed paperwork with the Federal Election Commission on Wednesday to stand alongside a number of considerably higher profiles, including former Florida governor Jeb Bush, Wisconsin Governor Scott Walker, Senator Marco Rubio and real estate tycoon Donald Trump. Having previously headed the Gilmore Commission - which advised both President Bill Clinton and George W. Bush on ways to improve homeland security strategy, particularly against domestic terrorism involving weapons of mass destruction - Gilmore is hoping that his national security credentials will work in his favor. He was also governor of Virginia on September 11, 2001, when hijackers crashed a plane into the Pentagon, which sits in the eastern US state, across from Washington. \"I don't think we're addressing the threat to the country,\" Gilmore told the Richmond Times-Dispatch earlier in July. \"I bring to the table experience others don't have,\" he added. Gilmore's first opportunity to take to the Republican stage will be on August 6 during the party's primary debate. Broadcaster Fox News has ruled, however, that only the top 10 candidates in nationwide polls will participate in the debate. Little-known outside Virginia, it is unlikely that Gilmore will make the final cut. ksb/jil (AFP, Reuters)",
+  "relations": [
+    [
+      "Jim Gilmore",
+      "Virginia",
+      "agent_of"
+    ],
+    [
+      "Jim Gilmore",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Jim Gilmore",
+      "Virginia",
+      "head_of_gov"
+    ],
+    [
+      "Jim Gilmore",
+      "Republican",
+      "member_of"
+    ],
+    [
+      "Republican",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Virginia",
+      "US",
+      "in0"
+    ],
+    [
+      "Federal Election Commission",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Federal Election Commission",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Florida",
+      "US",
+      "in0"
+    ],
+    [
+      "Jeb Bush",
+      "Florida",
+      "agent_of"
+    ],
+    [
+      "Jeb Bush",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Jeb Bush",
+      "Florida",
+      "head_of_gov"
+    ],
+    [
+      "Wisconsin",
+      "US",
+      "in0"
+    ],
+    [
+      "Scott Walker",
+      "Wisconsin",
+      "agent_of"
+    ],
+    [
+      "Scott Walker",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Scott Walker",
+      "Wisconsin",
+      "head_of_gov"
+    ],
+    [
+      "Marco Rubio",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Marco Rubio",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Gilmore Commission",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Gilmore Commission",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Bill Clinton",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Bill Clinton",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Bill Clinton",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Pentagon",
+      "US",
+      "in0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Fox News",
+      "US",
+      "based_in0"
+    ]
+  ]
+}

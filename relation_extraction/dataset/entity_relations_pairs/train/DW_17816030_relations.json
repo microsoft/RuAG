@@ -1,0 +1,40 @@
+{
+  "content": "The naked #selfie: how safe is a factory reset on your Android phone? Not very\nAntivirus and mobile security firm Avast! says it's unveiled major holes in Google's Android operating system after extracting masses of personal data from phones that had been factory restored.\nAvast! bought 20 secondhand Android phones on ebay. And, using commercially available forensic tools, they recovered data that should have been deleted when the previous user wiped the phone. The antivirus and mobile security firm based in the Czech Republic found thousands of emails, contact details, SMS text messages, selfies and other photos - some of a very intimate nature indeed. \"Most people don't think of their smartphone as a computer,\" says Avast!'s chief marketing officer, Chris Benham. \"But the problem is all of us are increasingly using our mobile devices as a replacement for our traditional computers,\" he says. \"We do online banking. We store family pictures. We store bank applications and other things that we would have used to have done on our computers, and which we're now doing on our devices.\" Erase all data? The problem, says Benham, is that on the secondhand phones Avast! bought, this data was still there, even though the user had selected \"factory reset\" which suggests everything would be erased. \"By having the option of erasing all the information, it creates the perception that you have deleted it and removed it because you can't visibly see it,\" Benham explains. \"But the reality is that all you've done is remove the pointers to the information. The information itself is still stored on the device.\" The phone overwrites your data in time as the new user adds their data - such as their photos and contacts. Your data meanwhile - as sensitive or embarrassing as it may be - could still be retrieved. Naked selfies \"We found about 40,000 photos, about 1,500 photos of children, thousands of Google searches, thousands of contact records, emails. So a lot of personal and private information,\" says Jude McColgan, president of the company's mobile division. Avast! says the photos included 750 images of women in various states of undress, and 250 photos of \"what appeared to be the previous owner's manhood.\" \"The risk to individuals - who think that they're otherwise deleting all of their personal information - is that if you give it to your mother, or you sell it, somebody really has quite an easy capability to go through digital forensics and get your stuff, get your personal information,\" McColgan says. Google criticism Google, which developed Android, was quick to criticize Avast!'s findings. The 20 phones tested, said the company, were running older versions of the Android mobile operating system. For the last three years, says Google, Android has featured an encryption tool that renders old data unrecoverable after a factory reset. However it's not a default setting, and presupposes considerable tech savvy on the part of the user. Avast! says it was puzzled by Google's response, as some of the phones were running fairly recent versions of Android. Some critics, however, described Avast!'s \"naked selfie exposé\" as little more than a PR stunt. The firm is trying to make the transition from a leading antivirus software company with more than 218 million users worldwide to a mobile security firm. Publicity stunt? \"I think it was a nice idea and they did a great job,\" says Jan Klesla, a journalist covering the IT business with the leading daily, \"Hospodarske noviny\". \"This factory wipe is something users rely on, and now they're trying to tell people that they should pay more for their mobile security. And this PR I think will help,\" says Klesla. Avast! offers a mobile security app - which is free - as well as a premium service offering additional benefits, for which you pay a fee. Some of these features are pretty nifty. Their anti-theft app, for instance, will snap a photo of the thief who tries to unlock your phone - and email it to you. Sledgehammer solution But as far as protecting your data is concerned, no solution is 100 percent effective. Apple users are definitely at an advantage as iOS, unlike Android, is not an open platform - everything is encrypted. But that doesn't make your wiped data unrecoverable if you lose, sell or pass on your phone. It is merely more difficult to extract. Experts like Jan Klesla advises users to save everything on a memory card - and take the card out when you sell your phone. And of course some will resort to the ultimate security solution - a slab of concrete and a sledgehammer.",
+  "relations": [
+    [
+      "Avast!",
+      "Czech Republic",
+      "based_in0"
+    ],
+    [
+      "Jude McColgan",
+      "Avast!",
+      "head_of"
+    ],
+    [
+      "Jude McColgan",
+      "Avast!",
+      "member_of"
+    ],
+    [
+      "Chris Benham",
+      "Avast!",
+      "head_of"
+    ],
+    [
+      "Chris Benham",
+      "Avast!",
+      "member_of"
+    ],
+    [
+      "Jan Klesla",
+      "Hospodarske noviny",
+      "member_of"
+    ],
+    [
+      "Hospodarske noviny",
+      "Czech Republic",
+      "based_in0"
+    ]
+  ]
+}

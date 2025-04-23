@@ -1,0 +1,105 @@
+{
+  "content": "EU agrees on details of Greece rescue plan, sources say\nEU leaders have thrashed out the details of an EU-IMF rescue deal that was announced on March 25, according to news agencies quoting unnamed sources. European markets ended the week up on hopes of a detailed rescue plan.\nEuropean Union member states are said to have reached consensus on the details of a rescue plan for Greece that would allow the debt-laden eurozone member to borrow money from the International Monetary Fund (IMF) as well as from individual member states, according to news agencies quoting unnamed diplomatic sources. The EU-IMF plan to help Greece tackle its huge budget deficit was announced on March 25, but details on the financing of the loans envisaged in the deal have yet to be revealed. The agency reports suggest that the EU has agreed on the conditions of any loans made available to Greece, should it ask for them. \"A deal has been reached,\" a source with close knowledge of the discussions told Reuters. \"It is almost a carbon copy of International Monetary Fund terms.\" \"There is agreement on the interest rate which will be applied for Greece, should it call for an aid plan,\" one diplomat told the AFP news agency. \"It is lower than the current market rate for Greek debt,\" another diplomat told AFP. Reassurance Earlier on Friday, several EU leaders reiterated that they were ready to help Greece resolve its massive debt problem. \"The Greek government is courageous and is breaking with the past. We would be ready to intervene if the Greeks ask us to,\" EU President Herman van Rompuy told several European newspapers. French President Nicolas Sarkozy also reaffirmed his commitment to help Athens. \"We are ready to take action at any moment to come to the aid of Greece,\" Sarkozy said after talks with Italian Prime Minister Silvio Berlusconi. Germany more cautious Germany also said that the EU-IMF rescue scheme could be activated quickly but government spokesman Michael Offer again stressed that Greece could solve its problem by focusing on budget cutbacks. \"We believe Greece will be able to achieve its objectives by its own means,\" Offer said, pointing to \"encouraging signs\" such as a reduced Greek public deficit in the first quarter of this year. Athens had earlier said that, at this stage, it did not need to activate the rescue deal. Markets react positively After a massive sell-off of Greek bonds and shares on Thursday, European markets ended the week on a high on Friday, in anticipation of a deal. The euro also rose sharply against the US dollar and Greek government bonds reversed some of their losses from Thursday, although spreads to German bunds, the benchmark bonds in the euro zone, remain high. The higher the spreads, the higher the risk for the investor. On Thursday, the European Central Bank (ECB) extended a helping hand to eurozone member Greece, announcing that government bonds would be exempt from tougher penalties when banks use risky collateral. The move increases the incentive for banks to hold Greek bonds, although ECB President Jean-Claude Trichet stressed the rule was not specifically designed with Greece in mind. Athens has promised to slash its deficit by almost one-third, to 8.7 percent of gross domestic product this year. But the government is wary of public opinion after austerity measures prompted a slew of riots and strikes across the country in recent months. Greece's Adedy union has announced another public sector strike for April 22. ng/Reuters/AFP/dpa Editor: Kyle James",
+  "relations": [
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "AFP",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Greeks",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Herman van Rompuy",
+      "European Union",
+      "head_of"
+    ],
+    [
+      "Herman van Rompuy",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Athens",
+      "Greeks",
+      "in0-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Silvio Berlusconi",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "Michael Offer",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Michael Offer",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Jean-Claude Trichet",
+      "European Central Bank",
+      "head_of"
+    ],
+    [
+      "Jean-Claude Trichet",
+      "European Central Bank",
+      "member_of"
+    ],
+    [
+      "Adedy",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Adedy",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Adedy",
+      "Greeks",
+      "based_in0-x"
+    ]
+  ]
+}

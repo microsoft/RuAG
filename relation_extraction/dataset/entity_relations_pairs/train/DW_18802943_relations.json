@@ -1,0 +1,120 @@
+{
+  "content": "Brazil Supreme Court seizes anti-Rousseff lawmaker's alleged assets\nBrazil's lower house speaker has denied allegations he received kickbacks in the Petrobras scandal. A court decision to seize his alleged assets comes after a report denying \"institutional corruption\" at the oil giant.\nThe Brazil Supreme Court this week seized $2.45 million (2.22 million euros) from Swiss accounts allegedly belonging to Chamber of Deputies Speaker Eduardo Cunha, a self-proclaimed enemy of President Dilma Rousseff. According to Justice Teori Zavascki, who approved the request to seize the speaker's funds, Swiss prosecutors provided documents to Brazilian federal prosecutors linking Cunha and his wife to the assets. However, the house speaker denied the allegations, saying he nor his wife own any bank accounts in Switzerland. Brazilian federal prosecutors say that Cunha is suspected in Brazil's largest kickback scandal, comprising more than $2 billion in bribes paid to several executives and politicians. Cunha allegedly assisted companies in building winning contracts with state-run Brazilian Petroleum Corporation (Petrobras) in exchange for millions of dollars in bribes. If the funds are discovered to be linked to kickback schemes, they will returned to the Brazilian treasury, Judge Zavascki added. 'Institutional corruption' non-existent? However, a Brazilian congressional panel on Friday published its final report on an investigation into corruption at Petrobras, concluding that suppliers and rogue employees were responsible for the graft, just shy of absolving politicians of complicity. Instead, the panel said that \"institutional corruption\" was non-existent at Petrobras, adding that police and prosecutors poorly handled Operation Car Wash, a probe into contract fixing, political kickbacks and bribery, with a focus on the oil giant. Rousseff, who served as chairwoman of Petrobras during much of the time the corruption took place, is facing calls from the opposition to resign or face impeachment over her possible involvement in the kickback scheme, though she has yet to be named by prosecutors. Opposition lawmakers allege that she also manipulated public accounts prior to her narrow reelection to boost government spending, a charge that could serve as grounds for impeachment. ls/bw (AP, Reuters, EFE)",
+  "relations": [
+    [
+      "Brazil Supreme Court",
+      "Brazil",
+      "agency_of"
+    ],
+    [
+      "Brazil Supreme Court",
+      "Brazilian",
+      "agency_of-x"
+    ],
+    [
+      "Brazil Supreme Court",
+      "Brazil",
+      "based_in0"
+    ],
+    [
+      "Brazil Supreme Court",
+      "Brazilian",
+      "based_in0-x"
+    ],
+    [
+      "Eduardo Cunha",
+      "Brazil",
+      "citizen_of"
+    ],
+    [
+      "Eduardo Cunha",
+      "Brazilian",
+      "citizen_of-x"
+    ],
+    [
+      "Eduardo Cunha",
+      "Chamber of Deputies",
+      "member_of"
+    ],
+    [
+      "Dilma Rousseff",
+      "Brazil",
+      "agent_of"
+    ],
+    [
+      "Dilma Rousseff",
+      "Brazil",
+      "citizen_of"
+    ],
+    [
+      "Dilma Rousseff",
+      "Brazilian",
+      "citizen_of-x"
+    ],
+    [
+      "Dilma Rousseff",
+      "Brazil",
+      "head_of_state"
+    ],
+    [
+      "Dilma Rousseff",
+      "Brazilian",
+      "head_of_state-x"
+    ],
+    [
+      "Teori Zavascki",
+      "Brazil",
+      "citizen_of"
+    ],
+    [
+      "Teori Zavascki",
+      "Brazilian",
+      "citizen_of-x"
+    ],
+    [
+      "Teori Zavascki",
+      "Brazil Supreme Court",
+      "member_of"
+    ],
+    [
+      "Brazilian Petroleum Corporation",
+      "Brazil",
+      "based_in0"
+    ],
+    [
+      "Brazilian Petroleum Corporation",
+      "Brazilian",
+      "based_in0-x"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ],
+    [
+      "Chamber of Deputies",
+      "Brazil",
+      "agency_of"
+    ],
+    [
+      "Chamber of Deputies",
+      "Brazilian",
+      "agency_of-x"
+    ],
+    [
+      "Chamber of Deputies",
+      "Brazil",
+      "based_in0"
+    ],
+    [
+      "Chamber of Deputies",
+      "Brazilian",
+      "based_in0-x"
+    ],
+    [
+      "Brazilian",
+      "Brazil",
+      "gpe0"
+    ]
+  ]
+}

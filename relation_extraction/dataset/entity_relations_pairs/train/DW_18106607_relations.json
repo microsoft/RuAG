@@ -1,0 +1,95 @@
+{
+  "content": "Bhopal - an endless disaster\nThousands died in the central Indian city three decades ago in one of the world's worst industrial accidents. DW takes a look at the tragedy and its impact on the local population.\n\"They are coming back,\" says the 46-year-old Rihana referring to the reporters and camera crews who regularly visit J.P. Nagar, a slum in the central Indian city of Bhopal. The world's attention is focusing again on this city, particularly on the anniversary of one of the world's worst industrial disasters. Sitting alongside other survivors, Rihana plans campaigns to mark the 30th anniversary of the gas disaster which claimed the lives of thousands. \"My eyes burned as if someone had hurled chili powder,\" she recalls, adding that \"my stomach burned as if it were on fire.\" Rihana suffered the whole night from acute cough. Her two elder brothers ran away and survived the tragedy. Rihana, however, decided to stay with her parents and little brother in their hut. She was the only one who survived that night. Over 20,000 deaths On that fateful night 30 years ago, Rihanna inhaled the highly toxic methyl isocyanate (MIC) gas, a pesticide. In humans, MIC affects the mucous membranes and causes corrosion of the internal organs. The US firm Union Carbide had produced the pesticide in its plant in Bhopal since the early 1970s until that Sunday evening in 1984, when around 30 tons of the highly toxic gas leaked from the plant. The white smoke billowed through the streets of the nearby slums surrounding the plant and exposed their residents to the deadly gas. While more than 20,000 people died, hundreds of thousands suffered from gas-related injuries or diseases such as lung diseases, eye problems and high blood pressure. To this day, many people still suffer from chronic health issues. But this is only the one side of the disaster. Poisoned groundwater The other side of the tragedy began earlier. Even before the gas disaster, Union Carbide dumped its toxic waste directly behind the factory. The hazardous chemicals seeped from the old, abandoned pesticide plant directly into the groundwater. Several tests conducted by environmental activists revealed the presence of arsenic, benzene and heavy metals that are several times higher than the World Health Organization limits. Above all, it is the residents of the slums - whose wells and water pumps are located directly behind the wall of the abandoned Union Carbide plant - who face the consequences. Most of the wells, however, are now officially closed. \"My son was born in 1988, four years after the disaster,\" Rihana told DW, explaining that \"ever since he was eight years old, he has been sick. He first contracted tuberculosis. He now suffers from serious kidney problems.\" He should have undergone an operation, but Rihana lacked the money to pay for it. At that time, she had no idea what would happen to them. US group sees no blame The victims have only received compensation on one occasion. In 1989, the US company and the Indian government agreed to an out-of-court settlement to pay compensation amounting to some 470 million USD. Many victims, however, complain that the money has never reached them. At that time, Rihana received 25,000 rupees – equivalent to 400 USD today – for a lifetime of suffering. While she has been suffering from breathlessness since the day of the tragedy, her husband was diagnosed of having an edema in his lungs years ago. The chemical company Union Carbide now belongs to Dow Chemical. Even 30 years after the tragedy, the US-based company argues that the plant was in Indian hands at the time of the disaster. \"The plant was built and operated by Indians in India,\" said the company's spokesperson Tomm F. Sprick. US courts have also agreed with this view and declared that the responsibility for the tragedy lies with the Indian authorities. Sprick, however, did not respond to the question of who should be made responsible for the pollution of the ground water, and he instead referred to the website created specifically for this topic. On the website, the company cites a study that concludes that there has been no trace of contaminated ground water outside the factory premises. Furthermore, the government of the Indian state of Madhya Pradesh has assumed responsibility of the site since 1998, the website noted, adding that Union Carbide has nothing more to do with the issue. After years of protests by activists and a court ruling, Indian politicians have recently turned their attention to the issue. Most people living in J.P. Nagar now have access to clean drinking water. Nevertheless, legal proceedings as to whether Union Carbide should be made accountable for the contamination of the area, among other things, are still pending before both Indian and US courts. \"That's already something,\" said Rihana. \"But I cannot afford the surgery of my son,\" she added. A week after we met Rihana, her 24-year-old son died due to the kidney infection. For him, help came too late.",
+  "relations": [
+    [
+      "Bhopal",
+      "India",
+      "in0"
+    ],
+    [
+      "Bhopal",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Bhopal",
+      "Indians",
+      "in0-x"
+    ],
+    [
+      "Rihanna",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Rihanna",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Rihanna",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "Tomm F. Sprick",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Tomm F. Sprick",
+      "Union Carbide",
+      "member_of"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "J.P. Nagar",
+      "India",
+      "in0"
+    ],
+    [
+      "J.P. Nagar",
+      "Bhopal",
+      "in2"
+    ],
+    [
+      "Union Carbide",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Union Carbide",
+      "Dow Chemical",
+      "part_of"
+    ],
+    [
+      "Dow Chemical",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Indians",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Madhya Pradesh",
+      "India",
+      "in0"
+    ],
+    [
+      "Madhya Pradesh",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Madhya Pradesh",
+      "Indians",
+      "in0-x"
+    ]
+  ]
+}

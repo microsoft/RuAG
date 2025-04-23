@@ -1,0 +1,110 @@
+{
+  "content": "New police raid on Deutsche Bank HQ in Frankfurt\nGerman investigators have carried out a search on the premises of Deutsche Bank's Frankfurt headquarters. The raid comes as the bank struggles to break free of regulatory issues that led to the resignation of its CEOs.\nThe investigators carried out their search as \"subpoenas\" in connection with \"an ongoing inquiry,\" a spokesman for the state prosecutors' office in Frankfurt said. He said the office could not say anything about the reasons for the search because \"the operational phase\" was still ongoing. A source familiar with the incident said some 30 police officers in 10 police cars had arrived at the Deutsche Bank headquarters in Germany's banking capital to take part in the search. Deutsche Bank, whose premises have been searched several times in the past, confirmed that the raid took place, saying that none of its employees had been charged with any wrongdoing. \"I can confirm there were searches today at offices of Deutsche Bank in Frankfurt at the request of prosecutors in Wiesbaden,\" a bank spokesman said. Wiesbaden is a city just to the west of Frankfurt. \"The searches were aimed at obtaining evidence in connection with an inquiry against clients in respect of certain securities transactions,\" he said. Scandals galore The financial institution has recently been facing a number of legal problems, including probes into alleged manipulation of benchmark interest rates and derivatives, tax evasion and money laundering. Last month, it was fined a record $2.5 billion (2.2 billion euros) for its involvement in manipulating the interbank lending rate Libor. On Sunday, the banks two co-CEOs, Anshu Jain and Jürgen Fitschen, said they would be stepping down amid falling shareholders' confidence. John Cryan, former chief financial officer at Swiss banking giant UBS, will replace Jain when he leaves on June 30, and then become the bank's sole chief executive when Fitschen retires in one year's time. Fitschen is currently on trial in Munich on allegations of perjury stemming from testimony regarding the dissolution of the Kirch media empire. tj/bw (dpa, Reuters)",
+  "relations": [
+    [
+      "Deutsche Bank",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Bank",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Deutsche Bank",
+      "Frankfurt",
+      "based_in2"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Wiesbaden",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Wiesbaden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Jürgen Fitschen",
+      "Deutsche Bank",
+      "head_of"
+    ],
+    [
+      "Jürgen Fitschen",
+      "Kirch",
+      "head_of"
+    ],
+    [
+      "Jürgen Fitschen",
+      "Deutsche Bank",
+      "member_of"
+    ],
+    [
+      "Jürgen Fitschen",
+      "Kirch",
+      "member_of"
+    ],
+    [
+      "Anshu Jain",
+      "Deutsche Bank",
+      "head_of"
+    ],
+    [
+      "Anshu Jain",
+      "Deutsche Bank",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "John Cryan",
+      "UBS",
+      "head_of"
+    ],
+    [
+      "John Cryan",
+      "UBS",
+      "member_of"
+    ],
+    [
+      "UBS",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Kirch",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Kirch",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

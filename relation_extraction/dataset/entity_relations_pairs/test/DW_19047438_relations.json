@@ -1,0 +1,355 @@
+{
+  "content": "US Supreme Court Justice Scalia dies at 79, setting off succession showdown\nJustice Antonin Scalia, an outspoken conservative and the longest-serving member of the US' top court, has passed away in Texas. President Obama vowed to nominate a successor 'in due time,' despite political opposition.\nThe 79-year old justice died in his sleep, presumably of natural causes, local media reported on Saturday. Scalia was visiting Texas for a hunting trip, and his body was discovered after he failed to appear for breakfast in the resort where he was staying. US President Barack Obama and Michelle Obama extended \"their deepest condolences to Justice Scalia's family,\" White House deputy spokesman Eric Schultz said. Texas Governor Greg Abbott described the conservative justice as a \"man of God, a patriot and an unwavering defender of the written Constitution and the rule of law.\" \"He was the solid rock who turned away so many attempts to depart from and distort the Constitution. His fierce loyalty to the Constitution set an unmatched example, not just for judges and lawyers, but for all Americans,\" Abbot said. Battle for the empty seat His passing is likely to open a new political front between President Barack Obama and the Republican Party, as Scalia's replacement could shift the composition of the court towards a more liberal persuasion. Several Republican lawmakers have already urged Obama to leave the decision to the next president who will be voted in later this year. \"The American people should have a voice in the selection of their next Supreme Court justice,\" Senate Republican majority leader Mitch McConnell said in a statement, referring to the upcoming November general election. \"Therefore, this vacancy should not be filled until we have a new president,\" McConnell concluded. President Obama, however, said he would fulfill his constitutional duty and nominate Scalia's successor \"in due time.\" \"These are responsibilities I take seriously, and so should everyone. They are bigger than any one party,\" he said. Decades of controversy Scalia joined the Supreme Court in 1986, becoming the first Italian-American to serve in the top judicial body. He was nominated by US President Ronald Reagan. Throughout his long carrier, Scalia voted in favor of privacy and protecting defendants' rights, but also against legalizing abortion, same-sex marriage and gun control. He also drew public attention for his theatrical flair and sharpness of tongue, as well as his alleged unwillingness to compromise. In June last year, the nine-person Supreme Court legalized same-sex marriage with a five-to-four vote. Scalia, who was in the minority, commented he would \"hide my head in a bag\" if his own name were associated with the decision. He also said that the majority opinion was \"couched in a style that is as pretentious as its content is egotistic.\" dj/jm (AP, Reuters, AFP, dpa)",
+  "relations": [
+    [
+      "Republican Party",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Republican Party",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Republican Party",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Antonin Scalia",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Antonin Scalia",
+      "Americans",
+      "agent_of-x"
+    ],
+    [
+      "Antonin Scalia",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Antonin Scalia",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Antonin Scalia",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Antonin Scalia",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Supreme Court",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Supreme Court",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Court",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Supreme Court",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Supreme Court",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Supreme Court",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "Michelle Obama",
+      "spouse_of"
+    ],
+    [
+      "Constitution",
+      "US",
+      "law_of"
+    ],
+    [
+      "Mitch McConnell",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Mitch McConnell",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Mitch McConnell",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Mitch McConnell",
+      "Republican Party",
+      "head_of"
+    ],
+    [
+      "Mitch McConnell",
+      "Republican Party",
+      "member_of"
+    ],
+    [
+      "Greg Abbott",
+      "Texas",
+      "agent_of"
+    ],
+    [
+      "Greg Abbott",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Greg Abbott",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Greg Abbott",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Greg Abbott",
+      "Texas",
+      "head_of_gov"
+    ],
+    [
+      "Texas",
+      "US",
+      "in0"
+    ],
+    [
+      "Texas",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Texas",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Michelle Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Michelle Obama",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Michelle Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Michelle Obama",
+      "Barack Obama",
+      "spouse_of"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ],
+    [
+      "White House",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "White House",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Eric Schultz",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Eric Schultz",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Eric Schultz",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Eric Schultz",
+      "White House",
+      "member_of"
+    ],
+    [
+      "Eric Schultz",
+      "White House",
+      "spokesperson_of"
+    ],
+    [
+      "Americans",
+      "US",
+      "gpe0"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Senate",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Senate",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "Senate",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Senate",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "Senate",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Ronald Reagan",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Ronald Reagan",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Ronald Reagan",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Ronald Reagan",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Ronald Reagan",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Ronald Reagan",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Ronald Reagan",
+      "American",
+      "head_of_state-x"
+    ]
+  ]
+}

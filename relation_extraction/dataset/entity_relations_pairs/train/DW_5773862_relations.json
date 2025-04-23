@@ -1,0 +1,115 @@
+{
+  "content": "Suspected terrorists arrested in Germany, Norway\nPolice say three men were arrested in Germany and Norway who are thought to be linked with the terrorist organization al Qaeda. The detainees are reported to have been planning a bomb attack in Oslo.\nThree suspected al-Qaeda members have been arrested for allegedly preparing a major bomb attack, Norway's Police Security Service (PST) said Thursday. \"Three people suspected ... of preparing a terrorist act and who have links to al-Qaeda have been arrested today,\" Janne Kristiansen, the head of the PST, confirmed reporters in Oslo. National prosecutor Jan Glent told the press conference that the three had been \"charged with having entered into a partnership to commit a terrorist act.\" \"We also think they have links to al-Qaeda and to similar attempts [at terror attacks] in New York and Manchester,\" he added. Kristiansen said that two of the men had been arrested in Oslo and one in Germany after an extensive investigation lasting over a year. The police force would not give details as to the men's suspected plans, but reports say they were preparing a bomb attack in the Norwegian capital using portable bombs similar in design to those used in recently-thwarted attacks in New York City and Manchester, England. Police refused to give the names of the suspects, but Kristiansen said one was a 39-year-old Norwegian citizen of Chinese Uighur origin. Another was a 37-year-old Iraqi Kurd and the third had come to Norway from Uzbekistan as an asylum-seeker. Both foreign nationals, she said, were legal residents of Norway. Kristiansen said the international arrests were the result of cooperation between Norwegian and other European intelligence agencies, although she would not say which. Europe's war on terror Terrorism expert Rolf Tophoven of the Institute for Terrorism Research and Security Policy, told Deutsche Welle that Thursday's arrests were \"evidence\" that Europe's intelligence agencies were on \"highest alert.\" Tophoven likened the fight against terrorism to an Olympic marathon that never ended, with both intelligence forces and terrorists constantly gaining speed. He added that, because of interagency communication, he believed the fight against terrorism was more effective in Europe than in the United States, where intelligence agencies like the FBI and the CIA notoriously compete with each other. Terrorism expert David Schiller agrees. \"There's much more sharing of information and intelligence than there was in the 1980s and 1990s,\" he said. \"[September 11] did bring home the lesson that one nation alone can not stand up against that type of threat, so we have to cooperate and we have to share information.\" Europe needs united policies Norwegian authorities stressed that the threat of terrorism in Norway was normally low and remained low. Schiller believes that to truly fight terrorism, Europe must have stronger, more united policies on its handling of the nations that support terrorists. These arrests, he said, are a \"tactical event\" but \"in the long run, [arresting people alone] is not a strategy.\" Author: David Levitz Editor: Martin Kuebler",
+  "relations": [
+    [
+      "Police Security Service",
+      "Norway",
+      "agency_of"
+    ],
+    [
+      "Police Security Service",
+      "Norwegian",
+      "agency_of-x"
+    ],
+    [
+      "Police Security Service",
+      "Norway",
+      "based_in0"
+    ],
+    [
+      "Police Security Service",
+      "Norwegian",
+      "based_in0-x"
+    ],
+    [
+      "New York City",
+      "United States",
+      "in0"
+    ],
+    [
+      "Rolf Tophoven",
+      "Institute for Terrorism Research and Security Policy",
+      "member_of"
+    ],
+    [
+      "Janne Kristiansen",
+      "Norway",
+      "citizen_of"
+    ],
+    [
+      "Janne Kristiansen",
+      "Norwegian",
+      "citizen_of-x"
+    ],
+    [
+      "Janne Kristiansen",
+      "Police Security Service",
+      "head_of"
+    ],
+    [
+      "Janne Kristiansen",
+      "Police Security Service",
+      "member_of"
+    ],
+    [
+      "Oslo",
+      "Norway",
+      "in0"
+    ],
+    [
+      "Oslo",
+      "Norwegian",
+      "in0-x"
+    ],
+    [
+      "Jan Glent",
+      "Norway",
+      "agent_of"
+    ],
+    [
+      "Jan Glent",
+      "Norwegian",
+      "agent_of-x"
+    ],
+    [
+      "Manchester",
+      "England",
+      "in0"
+    ],
+    [
+      "Norwegian",
+      "Norway",
+      "gpe0"
+    ],
+    [
+      "Deutsche Welle",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "FBI",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "FBI",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "CIA",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "September 11",
+      "United States",
+      "event_in0"
+    ]
+  ]
+}

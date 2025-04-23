@@ -1,0 +1,45 @@
+{
+  "content": "Keeping cool on Europe's urban heat islands\nDue to the drought in Europe, Austria experienced a particularly hot summer this year. Urban areas run warmer due to the heat island effect - and as the climate heats up, cities like Vienna are tackling this problem.\nEurope was hit by drought this summer, with parts of the continent experiencing the longest and hottest heat waves on record. In the Austrian capital of Vienna, temperatures were well above the summer average - and stayed there for weeks on end. This summer, the city recorded the most days over 35 degrees Celsius - including its hottest-ever night temperature - and medical calls rose by 20 percent. Environmental health specialist Hans-Peter Hutter says that on particularly calm, hot days, recommended public health limits for ozone were are significantly exceeded. And it's not just people with allergies and other conditions who suffer. \"We know that in these acute periods, unfortunately, people will die,\" he says. The heat is becoming such an issue that the government has resolved to tackle what is known as the urban heat island effect. Like most cities, Vienna is hotter than its surrounding areas as a result of humans having altered the landscape, covering the earth with heat-absorbing asphalt and concrete. The phenomenon was first described more than two centuries ago - but global warming and industrialization are pushing it to new extremes. \"The densely built-up parts of the city can be 4, 5, up to 10 degrees [Celsius] warmer than the surroundings,\" says Christian Härtel, an expert in building and planning who is researching this effect and its causes for Vienna's environmental protection department. More green roofs, less air-con There are many reasons for the dramatic temperature differentials between city and countryside. Fresh air and wind don't circulate as freely through cities. Colors and materials play a role too, with dark surfaces absorbing more heat than lighter ones. And due to the sealing over of soils, urban landscapes retain less moisture than natural ones. Up on the roof terrace of the city block where he works, Härtel points to two different roof types. \"One is a pebble roof - when the sun shines it gets very hot,\" Härtel says. \"On the other there is a colorful garden with a variety of herbs - I can see mint and over there, sage, chives, we have a water surface and a terraced area. It's a garden in the city,\" he points out. Vienna's city administration wants many more green roofs on buildings and residential blocks. As global temperatures rise, says Härtel, the need for natural methods to keep cities cool is becoming more urgent. Otherwise, artificial methods result in a negative feedback effect. \"It's getting hotter, and so we cool our living spaces by consuming fossil fuels - and so we are then making this hothouse effect even worse,\" Härtel explains. Pocket parks Vienna's imperial past has left a legacy of grand parks and open spaces. Once, only royalty could kick up their heels in these pleasant grounds. But now, they provide a welcome haven for all the city's residents to literally chill out when temperatures rise. \"Vienna has had luck with the empire times, because these places became protected,\" says Mia Landauer as she strolls through one such grand park beside her office at the Institute for Applied Systems Analysis to the south of Vienna, where she works as a research scholar on climate governance. The city is also fringed by the Vienna Woods on its northern side. Landauer sees this as an asset that mitigates the urban heat island effect. “We might have lost the Vienna Woods many times - but because of this history of Vienna, they realized that it is important to have this much green space in a city.\" Like in most cities, Vienna's population is growing rapidly, driven partly by immigration and partly by lack of jobs in rural areas. So does that mean the urban island will become even hotter as the city grows? Landauer says this need not be the case - but \"the pressure is on\" because of climate change. That pressure comes from the conflict between the need for green spaces, and the need to cut greenhouse gas emissions by reducing commuting distances through more dense urban living. Landauer believes \"pocket parks\" could provide a solution. \"That means parks like any park, but of a very small size,\" she says. It's been demonstrated that in dense urban environments, even small parks can reduce the urban heat island effect. Landauer says these tiny green spaces also reduce flooding by absorbing water, and preventing the overflow of drains and sewers. Not to mention added benefits in terms of quality of life and enjoyment for residents with access to these parks. Cool cities make the most of rainwater While new buildings can be designed with green walls and roofs, it's more difficult to reduce heat in older areas of the city. In Vienna's 5th district most buildings are at least 100 years old, and there are few parks. But a new system could use rainwater to cool this dense urban environment. Härtner explains how the city is attempting to collect the water that falls on the street. \"Instead of allowing it to run into the sewers and drains, we will store it and allow it to evaporate,\" he says. Parks can also act as water storage areas, where the water can be diverted into a temporary pool or wetland to slowly evaporate, cooling the urban air. Vienna will launch its strategy to combat the urban heat island effect this autumn. Along with catching, storing and allowing rainwater to evaporate, it will require new buildings have more green space, and encourage residents in rooftop apartments to start planting. After the hottest summer on record, the plans should get a warm reception.",
+  "relations": [
+    [
+      "Vienna",
+      "Austria",
+      "in0"
+    ],
+    [
+      "Vienna",
+      "Austrian",
+      "in0-x"
+    ],
+    [
+      "Mia Landauer",
+      "Institute for Applied Systems Analysis",
+      "member_of"
+    ],
+    [
+      "Christian Härtel",
+      "Vienna",
+      "agent_of"
+    ],
+    [
+      "Austrian",
+      "Austria",
+      "gpe0"
+    ],
+    [
+      "Institute for Applied Systems Analysis",
+      "Austria",
+      "based_in0"
+    ],
+    [
+      "Institute for Applied Systems Analysis",
+      "Austrian",
+      "based_in0-x"
+    ],
+    [
+      "Institute for Applied Systems Analysis",
+      "Vienna",
+      "based_in2"
+    ]
+  ]
+}

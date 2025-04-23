@@ -1,0 +1,550 @@
+{
+  "content": "Dortmund in tough Champions League group\nBorussia Dortmund face a tough task to improve on last year's disappointing Champions League campaign after being given a tough group Thursday. Afterwards, Barcelona's Andres Iniesta was named Best Footballer in Europe.\nDefending Bundesliga champions Borussia Dortmund were dealt a tough hand Thursday at the 2012-13 UEFA Champions League Group Stage draw in Monaco. Last year's league and cup double winners will participate in a Group D that includes Real Madrid, Manchester City and Ajax. 2012 finalists Bayern were drawn with Valencia, Lille and BATE Borisov of Belarus in Group F. Schalke mark their return to Europe's premier competition in Group B, joining Arsenal, Olympiacos, and reigning French champions Montpellier. Qualifying rounds for the Champions League began in June, during the European Championships. Seventy-six teams from 52 different national associations enter the competition, but only 32 remain by the time the Group Stage begins in September. Tough Group D Dortmund would certainly have been hoping for a better draw after disappointingly crashing out of the group stage last year with just one win. Facing nine-time champions Real Madrid and defending English Premier League champions Manchester City means advancing to the knockout stage will be a difficult challenge for the German team. Madrid attacker Cristiano Ronaldo called it \"the most difficult group\", with all three teams making improvements since last season. The Spanish club made the biggest move by signing Tottenham Hotspur midfielder Luka Modric for 35 million Euros ($43.81 million) Monday. Dortmund coach Jürgen Klopp did not get caught up in the star power of the group. \"We don't feel like we have to compete with them in terms of who is prettier, who is bigger, or who is better,\" he said. \"But rather we want to be their most unpleasant opponent on the day.\" \"Obviously it is always a great experience to be able to play in Estadio Santiago Bernabeu or on English soil,\" said Captain Sebastian Kehl. \"But I have to honestly say, I was hoping for one of the easier [groups].\" Schalke mark European return Schalke are returning to the Champions League for the first time since reaching the semifinals in 2011. With Raul no longer in the squad, the Gelsenkirchen club have a redeveloped attack lead by Klaas-Jan Huntelaar, Jose Manuel Jurado and Julian Draxler. \"It is a really interesting group,\" said Schalke Captain Benedikt Höwedes. \"I am especially looking forward to the duel against Arsenal. Two players who I really understand well play there in Lukas Podolski and Per Mertersacker.\" Domestic rivals Bayern will be feeling confident of their chances. The Bavarian club were the first name to be drawn at the event, placing them in Group F. They will hope to do one better this season after falling in the final on penalties to Chelsea at their home ground in Munich. Germany's fourth team participating in the competition, Borussia Mönchengladbach, were eliminated late Wednesday night after falling to Dynamo Kyiv 4-3 on aggregate. The Ukrainian club went on to be drawn in Group A with FC Porto, Dinamo Zagreb and Paris St. Germain. Four German teams have returned to the competition after the Bundesliga moved up in UEFA's league rankings. Previously Germany qualified just three teams into the Champions League. Iniesta named Best Footballer in Europe Barcelona and Spain midfielder Andres Iniesta was named Best Footballer in Europe Thursday evening. He was given the award by journalists from UEFA's 53 member countries in a live poll after the Champions League Group Stage draw in Monaco. The 28-year-old beat out favorites Lionel Messi, last year's winner, and Cristiano Ronaldo to collect the honor for the first time. Iniesta helped lead Spain to their second consecutive European Championship title this summer in Ukraine and Poland. He was named player of the tournament. Real Madrid midfielder Mesut Özil was the only German player to make the top ten list for the award.",
+  "relations": [
+    [
+      "Borussia Dortmund",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Borussia Dortmund",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Borussia Dortmund",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Borussia Dortmund",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Borussia Dortmund",
+      "Real Madrid",
+      "vs"
+    ],
+    [
+      "Borussia Dortmund",
+      "Manchester City",
+      "vs"
+    ],
+    [
+      "Borussia Dortmund",
+      "Ajax",
+      "vs"
+    ],
+    [
+      "Bundesliga",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Andres Iniesta",
+      "Best Footballer",
+      "award_received"
+    ],
+    [
+      "Andres Iniesta",
+      "Barcelona",
+      "member_of"
+    ],
+    [
+      "Andres Iniesta",
+      "Spain",
+      "member_of"
+    ],
+    [
+      "Andres Iniesta",
+      "Barcelona",
+      "player_of"
+    ],
+    [
+      "Andres Iniesta",
+      "Spain",
+      "player_of"
+    ],
+    [
+      "Real Madrid",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Real Madrid",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Real Madrid",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Real Madrid",
+      "Borussia Dortmund",
+      "vs"
+    ],
+    [
+      "Barcelona",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Barcelona",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Manchester City",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Manchester City",
+      "Premier League",
+      "appears_in"
+    ],
+    [
+      "Manchester City",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "Manchester City",
+      "Borussia Dortmund",
+      "vs"
+    ],
+    [
+      "Ajax",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Ajax",
+      "Borussia Dortmund",
+      "vs"
+    ],
+    [
+      "Bayern",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Bayern",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bayern",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bayern",
+      "Valencia",
+      "vs"
+    ],
+    [
+      "Bayern",
+      "Lille",
+      "vs"
+    ],
+    [
+      "Bayern",
+      "BATE Borisov",
+      "vs"
+    ],
+    [
+      "Bayern",
+      "Chelsea",
+      "vs"
+    ],
+    [
+      "Valencia",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Valencia",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Valencia",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "Valencia",
+      "Bayern",
+      "vs"
+    ],
+    [
+      "Lille",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Lille",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Lille",
+      "Bayern",
+      "vs"
+    ],
+    [
+      "BATE Borisov",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "BATE Borisov",
+      "Belarus",
+      "based_in0"
+    ],
+    [
+      "BATE Borisov",
+      "Bayern",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Schalke",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Schalke",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Schalke",
+      "Arsenal",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "Olympiacos",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "Montpellier",
+      "vs"
+    ],
+    [
+      "Arsenal",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Arsenal",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "Arsenal",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Olympiacos",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Olympiacos",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Montpellier",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Montpellier",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Montpellier",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "Real Madrid",
+      "member_of"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "Real Madrid",
+      "player_of"
+    ],
+    [
+      "Spanish",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "Tottenham Hotspur",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "Luka Modric",
+      "Real Madrid",
+      "member_of"
+    ],
+    [
+      "Luka Modric",
+      "Tottenham Hotspur",
+      "member_of"
+    ],
+    [
+      "Luka Modric",
+      "Real Madrid",
+      "player_of"
+    ],
+    [
+      "Luka Modric",
+      "Tottenham Hotspur",
+      "player_of"
+    ],
+    [
+      "Jürgen Klopp",
+      "Borussia Dortmund",
+      "coach_of"
+    ],
+    [
+      "Jürgen Klopp",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Estadio Santiago Bernabeu",
+      "Spain",
+      "in0"
+    ],
+    [
+      "Estadio Santiago Bernabeu",
+      "Spanish",
+      "in0-x"
+    ],
+    [
+      "Sebastian Kehl",
+      "Borussia Dortmund",
+      "member_of"
+    ],
+    [
+      "Sebastian Kehl",
+      "Borussia Dortmund",
+      "player_of"
+    ],
+    [
+      "Raul",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Raul",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Klaas-Jan Huntelaar",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Jose Manuel Jurado",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Jose Manuel Jurado",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Julian Draxler",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Julian Draxler",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Benedikt Höwedes",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Benedikt Höwedes",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Lukas Podolski",
+      "Arsenal",
+      "member_of"
+    ],
+    [
+      "Lukas Podolski",
+      "Arsenal",
+      "player_of"
+    ],
+    [
+      "Per Mertersacker",
+      "Arsenal",
+      "member_of"
+    ],
+    [
+      "Per Mertersacker",
+      "Arsenal",
+      "player_of"
+    ],
+    [
+      "Chelsea",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Chelsea",
+      "English",
+      "based_in0-x"
+    ],
+    [
+      "Chelsea",
+      "Bayern",
+      "vs"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "Dynamo Kyiv",
+      "vs"
+    ],
+    [
+      "Dynamo Kyiv",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Dynamo Kyiv",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Dynamo Kyiv",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Dynamo Kyiv",
+      "Borussia Mönchengladbach",
+      "vs"
+    ],
+    [
+      "Dynamo Kyiv",
+      "Borussia Mönchengladbach",
+      "won_vs"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "FC Porto",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Dinamo Zagreb",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Paris St. Germain",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Paris St. Germain",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Spain",
+      "Spain",
+      "based_in0"
+    ],
+    [
+      "Spain",
+      "Spanish",
+      "based_in0-x"
+    ],
+    [
+      "European Championship",
+      "Ukraine",
+      "event_in0"
+    ],
+    [
+      "European Championship",
+      "Poland",
+      "event_in0"
+    ],
+    [
+      "Mesut Özil",
+      "Real Madrid",
+      "member_of"
+    ],
+    [
+      "Mesut Özil",
+      "Real Madrid",
+      "player_of"
+    ]
+  ]
+}

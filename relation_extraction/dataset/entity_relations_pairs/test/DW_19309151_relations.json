@@ -1,0 +1,250 @@
+{
+  "content": "PM Modi looking to buttress India-US ties\nModi is all set to start his fourth trip to the US after becoming Indian premier, in a sign of deepening Indo-US political and military engagement amid China's growing clout and assertiveness in the Asia-Pacific region.\nIndian PM Narendra Modi will be in Washington on June 7-8 as part of a whirlwind five-nation tour, covering Afghanistan, Qatar, Switzerland, the US and Mexico. This is Modi's fourth trip to the US after taking office as prime minister, and the Indian leader's schedule in the US capital includes holding talks with President Barack Obama and other top administration officials as well as addressing a joint session of Congress. Modi's trip \"reflects the significance that the two leaders place on the natural alliance between the two largest democratic countries of the world,\" a State Department spokesperson told news agency PTI. The discussions between the two sides are expected to focus on deepening bilateral defense partnership as well as ways to boost US investment into India, particularly in the energy sector. Trade and defense There is talk of a potential multibillion dollar deal with the US electric giant Westinghouse to build a nuclear power plant in the southern Indian state of Andhra Pradesh. If struck, it would mark the first contract reached under the 2008 US-India civil nuclear accord and pave the way for closer cooperation between the two sides in this arena. PM Modi also wants to use the trip to push for increased trade between India and the US, targeting an almost five-fold rise in bilateral commerce from the currently estimated $120 billion to some $500 billion. Furthermore, both sides have expanded military-to-military exchanges, and the US has emerged as a major arms supplier to India in recent years - selling weapons worth about $14 billion over the past five years. There are also reports of both navies looking at ways to cooperate in the area of anti-submarine warfare, in a bid to help each other detect and track submarines in the Indian Ocean. China concerns The broadening and deepening of ties between the world's two biggest democracies comes amid China's assertive rise in the Asia-Pacific region, where Beijing's expansive territorial claims and aggressive stance in the South and East China Seas have alarmed many of its neighbors. India, too, has a long-simmering border dispute with China, and both nations fought a brief but bloody war in 1962. \"In light of China's growing assertive behavior, the Modi government has not been reluctant to highlight its convergence with Washington on regional issues,\" Vindu Mai Chotani, a researcher at the New Delhi-based think-tank Observer Research Foundation, told DW. Indeed, in their recent high-level joint statements, both India and the US repeatedly declared their support for freedom of navigation in the South China Sea. Both nations also highlight their convergence based on democratic values, and respect for rule of law, Vindu Mai noted. In addition, India's engagements with US allies in the region like Japan, Australia and the Philippines have strengthened. At the same time, India and Vietnam have been cooperating on joint oil exploration as well as in the area of maritime security. China has expressed its concern over these developments as well as deepening Indo-US ties, especially on issues such as the inclusion of Japan as a regular member of the Malabar Exercise, a naval drill held annually by the US and India. \"The most important takeaway here is that Beijing views Washington's actions, especially in the Asia-Pacific, as the US containment of China,\" underlined Vindu Mai, stressing that it's therefore difficult for China to see the US engagement with India in a different light. An array of challenges But observers say there are limitations to how far both India and the US are willing to go to forge closer defense ties, despite their mutual interest in ensuring China's peaceful rise. While the US has been pushing for pacts such as a military logistics sharing agreement - which will allow the two militaries to use each other's bases - India has expressed a raft of concerns over these deals, experts point out. \"One issue being expressed by Indian policy makers is that the signing of these agreements would lock the country in an irreversible strategic partnership with the US,\" says Vindu Mai, adding that, \"India does not wish to be seen as a strategic ally of the US against China.\" Furthermore, the US relationship with Pakistan continues to loom large over India-US ties, with New Delhi looking warily at Washington's supplies of aid and armaments - such as F-16 fighter jets - to Islamabad. In the US, meanwhile, there is growing criticism over rising religious intolerance in the South Asian nation and increased restrictions on civil society organizations such as the environmental NGO Greenpeace and the US-based Ford Foundation. Discord over human rights \"In the case of US-India relations, the hopeful rhetoric has far exceeded actual, tangible achievements,\" Bob Corker, Republican Senator and chair of the Senate Foreign Relations Committee, told a hearing last month. And during a recent speech in New Delhi, Senator Benjamin L. Cardin called on India to step up its efforts to tackle discrimination in society and address issues such as human trafficking, gender violence and religious intolerance. India, however, rejects US criticism of the country's human rights record, and the Indian government recently refused visas for a delegation from the US government agency charged with monitoring international religious freedom. Even Modi's personal relationship with the US has been a mixed bag, with the Indian leader barred from setting foot on US soil for a decade prior to his becoming prime minister. Washington revoked Modi's visa in 2005 arguing that he had not done enough to stop communal violence in 2002 when he was chief minister of the state of Gujarat. Over a 1,000 people lost their lives during the riots.",
+  "relations": [
+    [
+      "Narendra Modi",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Narendra Modi",
+      "Indo",
+      "citizen_of-x"
+    ],
+    [
+      "Narendra Modi",
+      "India",
+      "head_of_gov"
+    ],
+    [
+      "Narendra Modi",
+      "Indian",
+      "head_of_gov-x"
+    ],
+    [
+      "Narendra Modi",
+      "Indo",
+      "head_of_gov-x"
+    ],
+    [
+      "Vindu Mai Chotani",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Vindu Mai Chotani",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Vindu Mai Chotani",
+      "Indo",
+      "citizen_of-x"
+    ],
+    [
+      "Vindu Mai Chotani",
+      "Observer Research Foundation",
+      "member_of"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Indo",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Congress",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "US",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "US",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "US",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "US",
+      "ministry_of"
+    ],
+    [
+      "PTI",
+      "India",
+      "based_in0"
+    ],
+    [
+      "PTI",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "PTI",
+      "Indo",
+      "based_in0-x"
+    ],
+    [
+      "Westinghouse",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Andhra Pradesh",
+      "India",
+      "in0"
+    ],
+    [
+      "Andhra Pradesh",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Andhra Pradesh",
+      "Indo",
+      "in0-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "New Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "New Delhi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "New Delhi",
+      "Indo",
+      "in0-x"
+    ],
+    [
+      "Observer Research Foundation",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Observer Research Foundation",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Observer Research Foundation",
+      "Indo",
+      "based_in0-x"
+    ],
+    [
+      "Observer Research Foundation",
+      "New Delhi",
+      "based_in2"
+    ],
+    [
+      "Islamabad",
+      "Pakistan",
+      "in0"
+    ],
+    [
+      "Ford Foundation",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Bob Corker",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Bob Corker",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Bob Corker",
+      "Senate Foreign Relations Committee",
+      "member_of"
+    ],
+    [
+      "Senate Foreign Relations Committee",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Senate Foreign Relations Committee",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Benjamin L. Cardin",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Benjamin L. Cardin",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Gujarat",
+      "India",
+      "in0"
+    ],
+    [
+      "Gujarat",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Gujarat",
+      "Indo",
+      "in0-x"
+    ]
+  ]
+}

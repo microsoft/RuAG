@@ -1,0 +1,55 @@
+{
+  "content": "The Sun Sets Slowly Over Brandenburg's Tropical Dream\nHaving suffered many disappointments concerning publically funded projects, the state of Brandenburg hoped a tropical leisure center would offer a ray of hope. Instead the ailing concern is just bringing more gloom.\nThe economically depressed eastern German state of Brandenburg has seen its fair share of bitter experiences when it comes to huge public investment projects since German unification in 1990. Against this background, state authorities were pleased when Malaysian businessman Colin Au built a huge tropical-feeling leisure center in Brandenburg without any subsidies. The center, which opened about a year ago, was to become a symbol of economic success in a region where unemployment still hovers around the 20 percent mark. But the leisure time park, which has already swallowed a little under 100 million euros ($120 million) in private investment, is now going to have to depend on public funding to avoid another economic fiasco in Brandenburg. State authorities in Brandenburg haven't been too successful in their public investment policy in the past 10 years, to put it mildly. A grand plan to build one of the world's most modern chip-producing factories there burst like a bubble in 2003. The much-talked about Brandenburg-Berlin International airport still seems light years away from being built. Line of failures looked to be ended by Au's vision Another beacon of economic hope disappeared in 2002 when a company planning to build gas-filled transport airships went bust despite considerable subsidies. But Au's vision for the abandoned dome which the airship company needed as a hangar offered Brandenburg another chance. In the middle of nowhere, he created what he named his \"Tropical Islands\" wonderland, sporting everything from sandy beaches, lakes and a Laguna to a Caribbean-style village. The economics ministry in Brandenburg was over the moon to see Au originally agreeing to build the facility without any state subsidies. And Au himself had no doubt at the time that he could well do without them. Overestimated visitor numbers tell sorry story But the center's first year in operation tells a different story. Colin Au, who has meanwhile left Brandenburg and transferred matters to a German management company, had expected some 1.5 million visitors to come to Tropical Islands within the first year, but only some 950,000 will have turned up by the end of 2005. It seems highly unlikely that visitor numbers will increase considerably in future, placing a question mark on the viability of the whole centre. But Brandenburg's economics ministry is certain that the park will be in the black as of 2008. To make the place more attractive, it has agreed to shell out 15 million euros in subsidies for yet another reconstruction and marketing effort. After all, the leisure time center has a workforce of about 500 and is thus the biggest employer in an otherwise depressed region marked by a high jobless rate. Tropical center down but not out...not yet \"We hope the money will help make the Tropical Islands resort better known throughout Europe according to the new marketing concept hammered out the management,\" ministry spokesman Steffen Kammrath said. \"This leisure time center is unique and has to be marketed as such. What you have there is a tropical and water world 12 months a year with a lot of attractive offers to spend a whale of a time there.\" Some commentators believe that state subsidies may prolong the center's life span, but will not be able to avoid its demise in the long run. But the idea of also making it more attractive for tourists from all over Europe seems unrealistic to them if the resort's management can't even get enough visitors from home to ensure a profitable operation.",
+  "relations": [
+    [
+      "Brandenburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Colin Au",
+      "Malaysian",
+      "citizen_of-x"
+    ],
+    [
+      "Tropical Islands",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Tropical Islands",
+      "Brandenburg",
+      "based_in1"
+    ],
+    [
+      "Tropical Islands",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Steffen Kammrath",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Steffen Kammrath",
+      "Brandenburg",
+      "member_of"
+    ],
+    [
+      "Steffen Kammrath",
+      "Brandenburg",
+      "spokesperson_of"
+    ],
+    [
+      "Brandenburg-Berlin International airport",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Brandenburg-Berlin International airport",
+      "Brandenburg",
+      "based_in1"
+    ]
+  ]
+}

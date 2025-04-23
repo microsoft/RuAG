@@ -1,0 +1,115 @@
+{
+  "content": "Poland swears in Komorowski as new president\nBronislaw Komorowski has been sworn in for a five-year term as Poland's president, promising greater inter-party cooperation and improved relations with the European Union, the United States and Russia.\nOne month after winning a runoff snap election, liberal Civic Platform leader Bronislaw Komorowski took the oath of office for Poland's presidency in a ceremony at parliament in Warsaw on Friday. In his inauguration speech, the 58-year-old said Poland needed more cooperation between the various branches of government as well as among political parties. \"Only we can determine if the inevitable disagreements dig valleys between us, or if we lead a democratic debate while upholding mutual respect and concern for priorities,\" he said. He promised to modernize Poland's infrastructure and to improve ties with the United States, NATO, the European Union and EU hopefuls like Ukraine. Addressing Poland's relationship with Russia, which has worsened since the signing of a missile defense shield deal between the United States and Poland, Komorowski said \"there will be no stable development of our region without working together with Russia. Rival a no-show Notably absent from the ceremony was Komorowski's rival Jaroslaw Kaczynski, identical twin to late president Lech Kaczynski, whose death in a plane crash in April caused the snap election. Kaczynski's absence drew criticism from several politicians, including former center-right prime minister and current European Parliament President Jerzy Buzek. \"There are certain events in a democratic state when all should be present, and when their absence is regarded as a deliberate protest,\" Buzek said. A spokesman for Kaczynski's conservative Law and Justice party defended the party leader's absence. \"Civic Platform politicians made brutal verbal attacks on President Lech Kaczynski when he was alive, and some continue to do so even after his death,\" Mariusz Blaszczak told AFP news agency. Komorowski is Poland's fourth democratically-elected president since the fall of communism in 1989, an event which he worked toward as part of the pro-democracy Solidarity movement. Author: Andrew Bowen (AFP, Reuters, dpa) Editor: Nancy Isenson",
+  "relations": [
+    [
+      "Bronislaw Komorowski",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Bronislaw Komorowski",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Bronislaw Komorowski",
+      "Civic Platform",
+      "head_of"
+    ],
+    [
+      "Bronislaw Komorowski",
+      "Poland",
+      "head_of_state"
+    ],
+    [
+      "Bronislaw Komorowski",
+      "Civic Platform",
+      "member_of"
+    ],
+    [
+      "Bronislaw Komorowski",
+      "Solidarity",
+      "member_of"
+    ],
+    [
+      "Civic Platform",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "Jaroslaw Kaczynski",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Jaroslaw Kaczynski",
+      "Law and Justice",
+      "member_of"
+    ],
+    [
+      "Jaroslaw Kaczynski",
+      "Lech Kaczynski",
+      "sibling"
+    ],
+    [
+      "Jerzy Buzek",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Jerzy Buzek",
+      "European Parliament",
+      "head_of"
+    ],
+    [
+      "Jerzy Buzek",
+      "European Parliament",
+      "member_of"
+    ],
+    [
+      "Lech Kaczynski",
+      "Poland",
+      "agent_of"
+    ],
+    [
+      "Lech Kaczynski",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Lech Kaczynski",
+      "Poland",
+      "head_of_state"
+    ],
+    [
+      "Warsaw",
+      "Poland",
+      "in0"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Law and Justice",
+      "Poland",
+      "based_in0"
+    ],
+    [
+      "Mariusz Blaszczak",
+      "Poland",
+      "citizen_of"
+    ],
+    [
+      "Solidarity",
+      "Poland",
+      "based_in0"
+    ]
+  ]
+}

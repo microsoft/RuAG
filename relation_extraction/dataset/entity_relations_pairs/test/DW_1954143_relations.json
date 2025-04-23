@@ -1,0 +1,310 @@
+{
+  "content": "The Shift in Libya's Relations to the West\nThe La Belle disco bombing in Berlin on April 5, 1986 was ruled to be Libya's doing. Twenty years later, relations between Libya and Europe have done an about-face.\nThe Berlin disco \"La Belle\" was packed as usual on the night of April 5, 1986. Among its guests were many US soldiers, who were certainly not thinking of politics, the Middle East or strained relations between the United States and Libya. But reality caught up with them: a bomb detonated near the dance floor that night, killing two Americans and a Turkish woman. Over 200 people were injured. A Berlin court ruled that Libya and its intelligence services were responsible for the bombing. In 2001, following a nearly four-year long trial, the judges convicted a Libyan diplomat and three others to prison sentences between 12 and 14 years. The big oil-exporting country in the meantime was busy working on its reputation. Already in the 1990s, Tripoli began striving to improve its relations to the European Union. Financial reparation opened the door to Europe In 2004, the Gaddafi International Foundation for Charity Associations and the legal representatives of the German La Belle victims settled on $35 million in compensation. This opened the door to Europe. Just a few weeks later, Germany's chancellor at the time, Gerhard Schröder, visited Moammar Gadhafi in a traditional Bedouin tent outside of Tripoli. Britain's Prime Minister Tony Blair also paid Gadhafi a visit. A few months earlier, in April 2004, the European Union had welcomed the Libyan leader to Brussels. It was Gadhafi's first official visit to Europe in 15 years. Bernd Westphal, the German ambassador to Libya, said bilateral relations had been through difficult times. \"The German Embassy in Tripoli today is working for a quick return to the liveliness of close relations between Germany and Libya,\" Westphal said. \"We want to build on our traditional friendship with Libya and we want to strengthen the political, economic and cultural cooperation between our two countries and peoples.\" Business interests booming in Libya In the past few years, Libya has moved from being the supporter of international terrorism to an attractive economic partner for the West. European business representatives have been increasingly knocking on Libya's door. Even the United States is showing increased interest in the northern African nation. Washington is pleased that Libya announced at the end of 2003 that it would discontinue its efforts to develop and produce weapons of mass destruction. Libya's ambassador to Germany, Said Abdulaati, said political and economic relations between Libya and Germany were \"excellent.\" Libya is one of Germany's strongest trading partners in northern Africa. Last year, Germany exported goods to Libya worth 657.7 million euros ($805.7 million), according to the German Federal Statistics Office. \"The economy is the driving power in German-Libyan relations,\" said Abdulaati in an interview with the Arab-German association for trade and industry. But Germany isn't the only European country making deals in Libya. France last month signed an accord with Libya on peaceful nuclear research. \"This accord represents a qualitative leap in relations between the two countries and proves that Libya has transformed its weapons of mass destruction into constructive weapons,\" Public Works Minister Maatuk Maatuk said at the signing ceremony in March. \"We are telling the world that we are moving towards the development of Libyan nuclear technology for peaceful purposes.\" This week, the Netherlands' Economics Minister Laurens Jan Brinkhorst will visit Libya to negotiate gas and oil agreements. It will be the first high-level visit by a Dutch official since Gadhafi took power in 1969.",
+  "relations": [
+    [
+      "German Embassy",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Embassy",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Embassy",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Embassy",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Embassy",
+      "Libya",
+      "in0"
+    ],
+    [
+      "German Embassy",
+      "Tripoli",
+      "in2"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libya",
+      "head_of_gov"
+    ],
+    [
+      "Moammar Gadhafi",
+      "Libyan",
+      "head_of_gov-x"
+    ],
+    [
+      "Said Abdulaati",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Said Abdulaati",
+      "Libyan",
+      "agent_of-x"
+    ],
+    [
+      "Said Abdulaati",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Said Abdulaati",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Bernd Westphal",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Bernd Westphal",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Bernd Westphal",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Bernd Westphal",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "La Belle",
+      "Germany",
+      "in0"
+    ],
+    [
+      "La Belle",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Libyan",
+      "Libya",
+      "gpe0"
+    ],
+    [
+      "Tripoli",
+      "Libya",
+      "in0"
+    ],
+    [
+      "Tripoli",
+      "Libyan",
+      "in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Tony Blair",
+      "Britain",
+      "agent_of"
+    ],
+    [
+      "Tony Blair",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Tony Blair",
+      "Britain",
+      "head_of_gov"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "German Federal Statistics Office",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "German Federal Statistics Office",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "German Federal Statistics Office",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Federal Statistics Office",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Public Works",
+      "Libya",
+      "agency_of"
+    ],
+    [
+      "Public Works",
+      "Libyan",
+      "agency_of-x"
+    ],
+    [
+      "Public Works",
+      "Libya",
+      "based_in0"
+    ],
+    [
+      "Public Works",
+      "Libyan",
+      "based_in0-x"
+    ],
+    [
+      "Public Works",
+      "Libya",
+      "ministry_of"
+    ],
+    [
+      "Maatuk Maatuk",
+      "Libya",
+      "agent_of"
+    ],
+    [
+      "Maatuk Maatuk",
+      "Libyan",
+      "agent_of-x"
+    ],
+    [
+      "Maatuk Maatuk",
+      "Libya",
+      "citizen_of"
+    ],
+    [
+      "Maatuk Maatuk",
+      "Libyan",
+      "citizen_of-x"
+    ],
+    [
+      "Economics",
+      "Netherlands",
+      "agency_of"
+    ],
+    [
+      "Economics",
+      "Dutch",
+      "agency_of-x"
+    ],
+    [
+      "Economics",
+      "Netherlands",
+      "based_in0"
+    ],
+    [
+      "Economics",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "Economics",
+      "Netherlands",
+      "ministry_of"
+    ],
+    [
+      "Laurens Jan Brinkhorst",
+      "Netherlands",
+      "agent_of"
+    ],
+    [
+      "Laurens Jan Brinkhorst",
+      "Dutch",
+      "agent_of-x"
+    ],
+    [
+      "Laurens Jan Brinkhorst",
+      "Netherlands",
+      "citizen_of"
+    ],
+    [
+      "Laurens Jan Brinkhorst",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ]
+  ]
+}

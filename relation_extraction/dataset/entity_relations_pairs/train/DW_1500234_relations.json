@@ -1,0 +1,175 @@
+{
+  "content": "A German Visa Scandal in China, Too?\nEven as the row over lax German visa policies in eastern Europe simmers, an unusually high number of Chinese travelers are flooding into Germany. Some never return home.\nLast year the German embassy in Beijing issued visas for 220,000 Chinese travelers, a three-fold increase since three years ago. That's more than France, Italy and the Scandinavian EU countries taken together. Germany is keen to boost business ties with China and also lure Chinese touriststo the country. With that in mind, Beijing and Berlin agreed last year on relaxing entry procedures for short-term travel. Since then, Chinese tourists no longer need apply for a individual visas in person. They can get group visas organized by a licensed travel agency for a party of several people. And there are no checks on whether everybody who comes with a tour group actually goes back. \"There are people who disappear\" Klaus Schmidt of the German travel agency Caissa admitted it was a problem. \"We cannot completely rule out that regulations are abused by certain individuals,\" Schmidt said. \"And there are sadly people who disappear after their arrival in Europe. We report this to the police then. It is very rare, but it does happen.\" Once Chinese travelers have arrived in Germany, it is easy to move on to other EU countries given the lack of border controls. That has security experts worried. They say that since the United States has restricted its immigration procedures, Chinese criminals are flocking to Europe in gangs similar to the Italian mafia and involved in smuggling goods, drugs and people. Their activities in Europe are centered in the Netherlands, France and Great Britain, but Germany may well be turning into a major destination for transit. Employees in the German foreign ministry in Berlin received warnings of widespread visa abuse in China months ago. It's similar to the situation in Ukraine, where it has seems that a lax visa policy was exploited by criminals while foreign ministry officials appear to have ignored warnings. Foreign Minister Joschka Fischer is under mounting pressure because of the scandal. Opposition involved too? But as far as China is concerned, politicians from the conservative opposition are also coming under attack. The prominent conservative premier of the state of Hesse, Roland Koch intervened personally only last year to urge utmost lenience in granting visas to Chinese citizens, pointing to the fact that Hesse tops the list of popular destinations for Chinese tourists. The issue hasn't gone unnoticed in the current debate over massive German visa abuse in eastern Europe. A letter written by German Deputy Foreign Minister Jürgen Chrobog to the interior ministry and leaked to the press last week noted that the German embassy in Beijing issued a record 15,000 visas to Chinese nationals within a period of just a few weeks. Quick damage control Meanwhile, Klaus Schmidt predicts a further rise in numbers. \"We’ve already seen a rise by 40 percent over the last year and we expect that trend to continue for Germany and from here to other destinations in Europe like Italy, France, Austria and Switzerland,\" he said. While these predictions may thrill German travel agents, the foreign ministry is scrambling to get things under control. In a special measure aimed at damage control experts have been dispatched to the embassy in Beijing which has reported difficulties in detecting fake passports and other documents.",
+  "relations": [
+    [
+      "Klaus Schmidt",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Klaus Schmidt",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Klaus Schmidt",
+      "Caissa",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Beijing",
+      "Chinese",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Caissa",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Caissa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "foreign ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "foreign ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "foreign ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "foreign ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "foreign ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Joschka Fischer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Joschka Fischer",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Joschka Fischer",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Hesse",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hesse",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Roland Koch",
+      "Hesse",
+      "agent_of"
+    ],
+    [
+      "Roland Koch",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Roland Koch",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Roland Koch",
+      "Hesse",
+      "head_of_gov"
+    ],
+    [
+      "Jürgen Chrobog",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Jürgen Chrobog",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Jürgen Chrobog",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jürgen Chrobog",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Jürgen Chrobog",
+      "German",
+      "minister_of-x"
+    ]
+  ]
+}

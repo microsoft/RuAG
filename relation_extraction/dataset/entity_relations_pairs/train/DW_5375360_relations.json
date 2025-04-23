@@ -1,0 +1,25 @@
+{
+  "content": "Klitschko knocks out Chambers to keep heavyweight crown\nWorld heavyweight boxing champion Vladimir Klitschko has knocked out US challenger Eddie Chambers to retain his three titles.\nVladimir Klitschko knocked out US challenger Eddie Chambers to retain his three heavyweight boxing titles late Saturday in front of 51,000 fans in Duesseldorf's soccer stadium. The 33-year-old Ukrainian boxer saved the best for last, landing his knockout punch five seconds before the end of the 12-round fight to defend his WBO, IBF and IBO heavyweight titles. After a furious final round \"Fast Eddie\" Chambers slumped to the canvas, finally succumbing to Klitschko's poweful punches. Chambers needed a few minutes to recover from the pounding he received at the end of the title bout. Klitschko dominated the fight and ended it with a left hook to score his 48th KO in 53 professional fights. Ahead of the bout he had promised to \"make a statement.\" \"Eddie Chambers was damn quick, but without the support by the fans in Duesseldorf, the 12th round wouldn't have ended like it did. Thank you,\" said the former Olympic boxing champion as he celebrated in the ring with a bottle of local beer. Klitschko, weighing in at 111 kilograms (245 pounds), had a chance of knocking down Chambers early on in the second round with a combination of solid jabs and straight punches, but Chambers, who weighed in at 95 kilograms (209 pounds) stood his ground. This was Chamber's second defeat in 37 fights with 18 knockouts. nrt/dpa/Reuters Editor: Holly Fox",
+  "relations": [
+    [
+      "Vladimir Klitschko",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Klitschko",
+      "\"Fast Eddie\" Chambers",
+      "vs"
+    ],
+    [
+      "\"Fast Eddie\" Chambers",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "\"Fast Eddie\" Chambers",
+      "Vladimir Klitschko",
+      "vs"
+    ]
+  ]
+}

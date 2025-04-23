@@ -1,0 +1,60 @@
+{
+  "content": "The Many Laws of a Well-Ordered German Life\nIf there is one quintessentially German word that has been woven into the fabric of society over the years, then it is \"Ordnung.\" Meaning \"order\" or \"orderliness,\" it represents the legs upon which the nation stands.\nIt's just one word, but Ordnung's cultural scope shouldn't be taken lightly. It serves as a suffix that can be applied across the board to create a magnificent web of rules and regulations that makes up the bedrock of society. There is Hausordnung (house rules), Schulordung (school rules), Arbeitsordnung (work rules), Strassenverkehrsordnung (traffic rules), Sozialordnung (social order) and Öffentliche Ordnung (public order) and so the list goes on. These are the long-standing rules that prohibit dumping empty bottles into recycling bins on Sundays, crossing a road while the little man is flashing red and also lead to furrowed brows when children go outside in the winter without a hat, scarf and gloves or when a cashier is presented with a large bill rather than the correct change. While other countries have their own rulebooks, there is something particularly imposing about the German one. The fact is rules -- both official and unofficial -- rule. Order equals security Hans-Dieter Gelfert, a retired literature professor and freelance writer who has spent many years exploring the German, British and American mentalities, said the ordered society of modern Germany has been a long time in the making. \"Ordnung is one of the sacred words in Germany, and that has something to do with the German emphasis on security as opposed to liberty,\" he said. \"For the last thousand years security has always been the number one value and order is a mainstay of security.\" Gelfert said the fact that Germany long consisted of dozens of tribes which harbored open resentments against one another led them to crave a mythical unity, a desire to feel safe and secure and live in a tension-free zone. \"What could provide a tension-free zone?\" he asked. \"Only a well-ordered system where everybody would stick to the rules.\" But Germans are in fact no more orderly than many other Europeans, he added. \"Much of their behavior is disorderly, yet ideologically they believe in order,\" Gelfert said. \"But that doesn't mean people stick to the rules, just that they believe others ought to.\" Ruling the unruly The discrepancy between the ideology and the reality is self-evident in the domain of public order. Jens-Holger Kirchner of Berlin's District Council for Public Order said people are always ready to scold another person's misdemeanors without considering their own potential delinquencies. \"I'm always surprised at how ready people are to tell on their neighbors,\" Kirchner said. \"Someone else is always to blame. The cyclists tell us to chase the dog owners, the dog owners tell us to chase those who dump their rubbish illegally, and they tell us to chase the cyclists.\" German municipalities have public order authorities and dispatch patrols to issue parking tickets, prevent people from illegally dumping rubbish, check cyclists have lights and brakes, make sure dog owners pick up after their pets and ensure cafes don't take up too much space on the sidewalks and keep their noise levels down. For Kirchner, order means \"making sure one's own actions do not prevent others from moving freely. It is one of the pillars of democratic society.\" Rules, rules, rules Gelfert said he believes Germany would benefit from fewer pillars. \"We have far too many rules,\" he said. \"There are quite a few highly intelligent people who suggest that Germany should start a reform by doing away with 10,000 laws -- no matter which ones -- thereby creating more space for a free and rational process. \"But so far all efforts to do away with superfluous laws have been abortive,\" he added. \"They did get rid of some, but then replaced them with more new ones.\" Kirchner said he is looking forward to the introduction of some new laws slated for the coming months, including a smoking ban and stricter emissions rules for vehicles in central Berlin, and has already earmarked an increase in personnel to monitor public adherence, which he said the public wants. \"Since we started operating two years ago, the general feedback we have received is that there is still not enough order on the streets of Berlin,\" Kirchner said. \"People are not yet telling us that we live in a wonderfully ordered environment, but we'll get there.\" Gelfert said he believes that it will take another two or three generations before Germany realizes that it can survive without so many rules and regulations. \"This craving for security will be the last thing the Germans will overcome,\" he said.",
+  "relations": [
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Jens-Holger Kirchner",
+      "District Council for Public Order",
+      "member_of"
+    ],
+    [
+      "District Council for Public Order",
+      "Berlin",
+      "agency_of"
+    ],
+    [
+      "District Council for Public Order",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "District Council for Public Order",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "District Council for Public Order",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "District Council for Public Order",
+      "Berlin",
+      "based_in2"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ]
+  ]
+}

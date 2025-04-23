@@ -1,0 +1,45 @@
+{
+  "content": "Myanmar opens up for foreign investors\nThe government of Myanmar has indicated that it plans to usher in a new era of business transparency in its oil, gas and other industries. Auctions for the rights to explore deposits are being prepared.\nMyanmar's government on Monday announced a new drive to open its economy to badly needed foreign investment. Energy Ministry officials pledged a new era of transparency particularly in the country's oil and gas industry. The ministry's assistant director, Aung Kyaw Htoo, promised international standards would be upheld in auctions for the rights to explore and exploit lucrative energy reserves. \"Transparency is the most important word,\" he said at a conference in Yangon with several major foreign oil firms attending. In January, Myanmar, which is also known as Burma, invited potential investors to tenders for 18 onshore oil blocks, with a further 50 offshore blocks expected to be opened to offers by April. Overcoming past restraints The government is under pressure to make sure its approach to natural resources will bring wider development to its people and is carried out sustainably, with all contract-related payments to be published for scrutiny. Western powers have been rolling back sanctions against Myanmar in response to political reforms. Transnational energy giants Total and Chevron were among the Western corporations represented at the conference. Myanmar theoretically produces enough natural gas to meet its domestic demand, but it has been forced to export some 80 percent of it to Thailand under contracts signed when the government was desperate for foreign currency. The pending auctions are part of an effort to help overcome an energy deficit that's a legacy of the deals made by the country's former military rulers. hg/pfd (AFP, AP)",
+  "relations": [
+    [
+      "Energy Ministry",
+      "Myanmar",
+      "agency_of"
+    ],
+    [
+      "Energy Ministry",
+      "Myanmar",
+      "agent_of"
+    ],
+    [
+      "Energy Ministry",
+      "Myanmar",
+      "based_in0"
+    ],
+    [
+      "Energy Ministry",
+      "Myanmar",
+      "ministry_of"
+    ],
+    [
+      "Aung Kyaw Htoo",
+      "Myanmar",
+      "citizen_of"
+    ],
+    [
+      "Aung Kyaw Htoo",
+      "Energy Ministry",
+      "head_of"
+    ],
+    [
+      "Aung Kyaw Htoo",
+      "Energy Ministry",
+      "member_of"
+    ],
+    [
+      "Yangon",
+      "Myanmar",
+      "in0"
+    ]
+  ]
+}

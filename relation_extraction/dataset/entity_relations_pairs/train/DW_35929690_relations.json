@@ -1,0 +1,205 @@
+{
+  "content": "World leaders gather to honor Shimon Peres at Jerusalem funeral\nDignitaries from around the globe have converged on Jerusalem for the funeral of Israel's former President Shimon Peres. Palestinian President Mahmoud Abbas, who signed a peace accord with Peres, was among the guests.\nPolice closed roads in central Jerusalem ahead of the Friday funeral, as Peres' coffin made the journey from Israel's parliament, the Knesset, to the National Civil Cemetery at Mount Herzl. The ceremony was Israel's largest since that of Peres' former partner in peace negotiations Prime Minister Yitzhak Rabin, with some 3,000 set to attend. Israel's foreign ministry said 20 presidents and 15 foreign ministers were invited, with Germany represented by President Joachim Gauck. Among the attendees were US President Barack Obama and a Palestinian delegation including President Mahmoud Abbas. In a 20-minute eulogy, Obama said that Abbas' presence at the funeral was a reminder of the \"unfinished business of peace\" in the Middle East. The US president went on to praise Peres for always striving for a equal resolution of the Israeli-Palestian conflict. \"Even in the face of terrorist attacks, even after repeated disappointments at the negotiation table, he insisted that as human beings, Palestinians must be seen as equal in dignity to Jews and must therefore be equal in self-determination,\" Obama said. 'A great man of the world' Addressing the congregation, Israeli Prime Minister Benjamin Netanyahu also hailed his former political rival. \"Shimon lived a life of purpose,\" Netanyahu told world leaders and other mourners. \"He soared to incredible heights. He was a great man of Israel; he was a great man of the world. Israel grieves for him, the world grieves for him, but we find hope in his legacy, as does the world.\" While the two men had major differences in terms of policy, they enjoyed a strong personal relationship. \"I loved you,\" said Netanyahu. \"We all loved you. Farewell Shimon. Dear man. Great leader.\" Peres' casket had lain in state on Thursday, with thousands of people visiting to pay their respects. Former US President Clinton lauded Peres' optimism. \"His critics often claimed he was a naive, overly optimistic dreamer. They were only wrong about the naive part,\" said Clinton, who led the US administration during Middle East peace efforts in the 1990s. Mediation on hold Israeli-Palestinian negotiations have been frozen since 2014, with Netanyahu and Abbas deeply-divided over Jewish settlements in the West Bank, as well as other issues. The pair, who have not held face-to-face talks since 2010, shook hands at the ceremony, which Abbas said he wanted to attend as a mark of respect for Peres' commitment to peace. Peres - who was a joint Nobel Peace Prize winner after negotiating the Oslo peace accords with the Palestinians in the 1990s - died on Wednesday, aged 93. He had suffered a major stroke two weeks earlier. In a political career spanning seven decades, Peres filled nearly every position in Israeli public life. He was credited with steering the country through many of its most defining moments. Since the Oslo accords were agreed in 1993, the peace process went into decline and eventually collapsed entirely. ksb, rc/kl (AFP, AP, dpa, Reuters)",
+  "relations": [
+    [
+      "Shimon Peres",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Shimon Peres",
+      "Nobel Peace Prize",
+      "award_received"
+    ],
+    [
+      "Shimon Peres",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Shimon Peres",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Shimon Peres",
+      "Israel",
+      "head_of_state"
+    ],
+    [
+      "Shimon Peres",
+      "Israeli",
+      "head_of_state-x"
+    ],
+    [
+      "Jerusalem",
+      "Israel",
+      "in0"
+    ],
+    [
+      "Jerusalem",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestian",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "citizen_of-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinian",
+      "head_of_state-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestian",
+      "head_of_state-x"
+    ],
+    [
+      "Mahmoud Abbas",
+      "Palestinians",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Knesset",
+      "Israel",
+      "agency_of"
+    ],
+    [
+      "Knesset",
+      "Israeli",
+      "agency_of-x"
+    ],
+    [
+      "Knesset",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Knesset",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "National Civil Cemetery",
+      "Israel",
+      "in0"
+    ],
+    [
+      "National Civil Cemetery",
+      "Israeli",
+      "in0-x"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Yitzhak Rabin",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "Joachim Gauck",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Joachim Gauck",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Joachim Gauck",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Clinton",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Clinton",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Clinton",
+      "US",
+      "head_of_state"
+    ]
+  ]
+}

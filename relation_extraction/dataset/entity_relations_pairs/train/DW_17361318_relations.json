@@ -1,0 +1,370 @@
+{
+  "content": "Impasse at US-Germany 'no-spying' talks?\nTwo senior German politicians have urged the United States to concede to Germany's quest for a \"no-spying\" pact, with one warning that Berlin could consider sanctions against US firms operating in Germany.\nGerman media reports of an impasse at US-German talks to avert spying between allies prompted several senior German politicians on Tuesday to suggest diplomatic and economic pressure on Washington. Interior Minister Thomas de Maiziere (pictured), however, said that the talks were continuing, telling journalists at a Berlin press conference that negotiations remained confidential. Withholding contracts? Stephan Mayer, the new internal affairs spokesman for Chancellor Angela Merkel's conservative parliamentary group, told Reuters on Tuesday her government should consider withholding contracts with US firms that operate in Germany. Mayer said if the talks failed then Germany must contemplate whether \"US firms receive government contracts from the German side or public institutions.\" \"The Americans understand one language very well, and that is the language of business,\" Mayer said, adding that such a deal could not be seen in isolation from current EU-US free-trade negotiations. He also told the newspaper Die Welt that an anti-spying agreement should not amount to a \"placebo.\" Thomas Oppermann, the caucus leader of the center-left Social Democrats, who are Merkel's new coalition partners, said the \"failure of the agreement would be unacceptable\" and would \"change the political character of relations.\" Talks going nowhere? Last August, Germany announced that Berlin and Washington would negotiate a deal not to spy on each other after revelations about the US' National Security Agency (NSA) surveillance. This was compounded by allegations the US had monitored Merkel's mobile phone and European interest in the claims of the former NSA intelligence contractor Edward Snowden, who has temporary asylum in Moscow. The Munich-based Süddeutsche Zeitung quoted a German source close to the 'no-spying' talks as saying: \"We're getting nothing.\" The German public broadcaster NDR jointly reported that German delegation sources had almost lost hope that an agreement would emerge. German conservative caucus leader Michael Grosse-Brömer said he would be \"very disappointed if this agreement does not come about.\" \"We must assume that it is not appropriate when friends are spied upon and listened to when the matter does not relate to averting potential terrorist attacks,\" he said. Veteran Greens party parliamentarian Hans-Christian Ströbele, who met Snowden in Moscow late last year, told the German news agency dpa: \"We haven't made any progress because the government has been far too timid in demanding answers from the United States.\" 'Shared commitment' For months, senior US officials have signaled that Washington would not agree to a blanket pact and refused to comment on claims of US intelligence eavesdropping in Germany, including alleged monitoring of Chancellor Angela Merkel's mobile phone. In Washington earlier on Tuesday, National Security Council spokeswoman Caitlin Hayden said the negotiations on a mutual spy ban were continuing with Germany Hayden gave little indication that the US government would move substantially towards the German position. \"Such consultations will continue among our intelligence services as a part of our shared commitment to strengthen our practical cooperation in a manner that reflects the shared threats we face, the technological environment in which we operate, our close relationship with one another, and our abiding respect for the civil and political rights and privacy interests of our respective citizens,\" Hayden said. New threats, says de Maiziere Interior Minister de Maiziere at his press conference said Germany faced new threats from international terrorism, requiring all legal measures possible. Speaking after consultations with the heads of Germany's intelligence services, he said 240 radicalized Islamists from Germany had gone to war-torn Syria in the past year. \"That is grounds for disquiet because they could come back with combat experience and related international contacts to possibly carry out crimes here,\" de Maiziere said. Obama to speak on NSA 'soon' Last week, US President Barack Obama phoned Merkel to invite her to Washington in the coming months, hoping to mend fences between the transatlantic allies. The chancellor accepted, although neither side has announced a date. On Tuesday, Obama told reporters he had almost concluded his deliberations on how to rein in NSA activities, in a bid to restore American public confidence following concerns spy agencies were infringing constitutional rights to privacy. \"Actually it's getting close. So I'll have plenty to say about that pretty soon,\" he said. ipj/ph (AFP, Reuters, dpa, AP)",
+  "relations": [
+    [
+      "National Security Agency",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "National Security Agency",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "National Security Agency",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "National Security Agency",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "National Security Agency",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "National Security Agency",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Stephan Mayer",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Stephan Mayer",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Stephan Mayer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Stephan Mayer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Edward Snowden",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Edward Snowden",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Edward Snowden",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Edward Snowden",
+      "National Security Agency",
+      "member_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas de Maiziere",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Caitlin Hayden",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Caitlin Hayden",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Caitlin Hayden",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Caitlin Hayden",
+      "National Security Council",
+      "member_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "Americans",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "Americans",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Americans",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Die Welt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Die Welt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Thomas Oppermann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Thomas Oppermann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas Oppermann",
+      "Social Democrats",
+      "head_of"
+    ],
+    [
+      "Thomas Oppermann",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Süddeutsche Zeitung",
+      "Munich",
+      "based_in2"
+    ],
+    [
+      "NDR",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "NDR",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Michael Grosse-Brömer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Michael Grosse-Brömer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hans-Christian Ströbele",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hans-Christian Ströbele",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hans-Christian Ströbele",
+      "Greens",
+      "member_of"
+    ],
+    [
+      "dpa",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "dpa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "National Security Council",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "National Security Council",
+      "Americans",
+      "agency_of-x"
+    ],
+    [
+      "National Security Council",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "National Security Council",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "National Security Council",
+      "Americans",
+      "based_in0-x"
+    ],
+    [
+      "National Security Council",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ]
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "content": "Investigators: Russian missile downed MH17\nInvestigators have released initial findings into the MH17 aviation disaster. It confirms earlier reports that a BUK mobile launcher fired the fatal missile from separatist-controlled eastern Ukraine.\nThe doomed flight MH17 was shot down by a BUK surface-to-air missile trucked in from Russia, investigators said Wednesday. All 298 aboard were killed and evidence from communications intercepts, radar data and other material points to a military ground-to-air missile as the cause. The investigation has been headed by the Dutch prosecution service, but includes teams from Australia, Belgium, Malaysia and Ukraine. They publicly revealed their initial findings at a news conference in Nieuwegein, the Netherlands on Wednesday. Moscow has consisently denied allegations that pro-Russia separatists in eastern Ukraine were responsible. On Monday, the Russian military said it has new radio-location data that show the missile that downed the Boeing 777 did not originate from rebel-controlled territory, and said it would turn that data over to investigators. \"First-hand radar data identified all flying objects which could have been launched or were in the air over the territory controlled by rebels at that moment,\" said Kremlin spokesman Dmitry Peskov. \"The data are clear-cut … there is no rocket. If there was a rocket, it could only have been fired from elsewhere,\" he added. However, Ukraine's foreign ministry described it as an \"important milestone,\" claiming that it discredits Moscow's narrative of the event. \"It is important to underline that the preliminary results of the criminal investigation have confirmed the findings of the technical report published last October by the Dutch Safety Board, namely, that the crash was caused by the explosion of a warhead launched from a 'BUK' anti-aircraft missile system,\" the statement said. \"This puts an end to all of Russia's attempts to discredit activities of the Joint Investigation Team and conclusions by spreading distorted or fabricated information,\" the ministry added. 'We want an answer' A separate inquiry led by the Dutch Safety Board (OVV) found the airliner was hit by a BUK missile fired from an area most likely held by separatists during the summer of 2014. It said that the BUK mobile launcher then returned to Russia. The criminal investigation is expected to shed light on the exact type of BUK missile used; the anti-aircraft weapon is manufactured by Russia, but stockpiles exist in the Ukrainian military as well. Relatives of the victims have long pushed for answers and transparency, and have been angered by the slow pace of information. \"Apart from wanting to know exactly what weapon was used and where it was fired from, we also want an answer as to where we go from here,\" said Evert van Zijtveld, chairman of the foundation that supports families of MH17 victims. Zijtveld lost his teenage son and daughter in the air disaster. Hostile working conditions The international investigation team faced extraordinary challenges throughout the probe: the crime scene in Ukraine's eastern Donetsk Oblast, where the plane crashed on July 17, 2014, was located in an active war zone, and during the days following the crash pro-Kremlin militants limited access to the site. Since then 11 containers crammed with debris from the jetliner were ultimately brought to the Netherlands. A research team took soil samples in eastern Ukraine and established the location of cellphone towers and the layout of the local telephone network. Forensic samples were taken from passengers' and crew members' bodies and luggage, and satellite data and communications intercepts were scrutinized. The team also appealed for information from witnesses who may have seen the missile launch. About two-thirds of the passengers aboard MH17 were Dutch nationals; the crew were Malaysian nationals. Malaysia had proposed setting up an international tribunal to try those responsible for the plane's destruction, but Russia vetoed a UN Security Council resolution in favor of such a tribunal The United States has welcomed the preliminary results of the inquiry into the downing of the flight. US State Department spokesman John Kirby said the inquiry left \"no doubt that MH17 was shot down by a BUK surface-to-air missile fired from territory in eastern Ukraine controlled by Russian-backed separatists.\" Kirby said: \"We also note the joint investigation team's finding that the missile launcher was first brought into Ukraine from Russia and then moved out of Ukraine and back to Russia after the shoot-down.\" ls,jar/kl/jbh,kms (AP, AFP, dpa)",
+  "relations": [
+    [
+      "Dutch Safety Board",
+      "Netherlands",
+      "based_in0"
+    ],
+    [
+      "Dutch Safety Board",
+      "Dutch",
+      "based_in0-x"
+    ],
+    [
+      "John Kirby",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "John Kirby",
+      "State Department",
+      "member_of"
+    ],
+    [
+      "John Kirby",
+      "State Department",
+      "spokesperson_of"
+    ],
+    [
+      "Evert van Zijtveld",
+      "Netherlands",
+      "citizen_of"
+    ],
+    [
+      "Evert van Zijtveld",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ],
+    [
+      "Nieuwegein",
+      "Netherlands",
+      "in0"
+    ],
+    [
+      "Nieuwegein",
+      "Dutch",
+      "in0-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "agency_of"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "agency_of-x"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "based_in0"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "based_in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Dmitry Peskov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Dmitry Peskov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Dmitry Peskov",
+      "Kremlin",
+      "member_of"
+    ],
+    [
+      "Dmitry Peskov",
+      "Kremlin",
+      "spokesperson_of"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "Donetsk Oblast",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Donetsk Oblast",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Malaysian",
+      "Malaysia",
+      "gpe0"
+    ],
+    [
+      "State Department",
+      "US",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "US",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "US",
+      "ministry_of"
+    ]
+  ]
+}

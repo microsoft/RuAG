@@ -1,0 +1,140 @@
+{
+  "content": "Leverkusen, Schalke draw in unproductive match\nLeverkusen and Schalke played out an unproductive draw, exchanging goals in the second half. Both sides have hit a rut in form, and there were few signs either side is close to climbing out of it.\nLeverkusen 1-1 Schalke (Choupo-Moting 50' - Riether o.g. 85') Sometimes, the undecisive result of a draw can be a positive, allowing each team to leave with something from a match. In Leverkusen on Sunday though, the exact opposite was true as both sides suffered yet another setback in their respective Bundesliga campaigns. Both Leverkusen and Schalke came into the match stuck in neutral, unable to shift into gear while slipping further away from their ultimate goal of a Champions League spot. This showcase did not help either team get out of their funks as a 1-1 draw pins both outside of the top four. Finishing was a major issue for the two teams despite excellent runs up and down the field from Schalke's Max Meyer and Leverkusen's Kevin Kampl. The home side only put four of their 11 first-half shots on target, while Schalke were only able to fire away three after losing the ball in pivotal moments. The best chance of the first 45 minutes came for Leverkusen, rattling the bar after squirming in from the right flank. First magestry, then misfortune Though the first half was pretty open, Schalke's approach was more delicate, trying to push forward on the break to steal a goal away from home. Their patience was rewarded shortly after the restart, with Leon Goretzka slipping through a ball to Eric Maxim Choupo-Moting, who finished neatly. It was Schalke's first lead in 410 minutes, and one they desperately needed. Andre Breitenreiter then pulled back his men and made two defensive substitutions to try to kill off the match. His side has not had recent success in big matches, losing to Borussia Mönchengladbach, Borussia Dortmund, and Bayern Munich all in the last month. His blockade held up for most of the second half, but fortune was not on Schalke's side. Chicharito helped give Leverkusen the equalizer, clanging a through ball from Kevin Kampl off of an unaware Sasha Riether. The own goal bailed Leverkusen out of another deflating result in less than a week. A point is what both sides ended with, but it was accompanied by the knowledge that staying in the top 10 rather than focusing on the top four has now become the priority. Wolfsburg drop points in Augsburg Goals were a plenty for Wolfsburg a week ago, but the goal reservoir dried up on their trip to Augsburg. The hosts club came to play, and even had a penalty shout in the first half. Wolfsburg could not make an imprint on the match until the second half, but were still short of their best. Matters got worse when Dante received his second yellow card in the second half, but that didn't change the result. A week after closing the gap, Wolfsburg have now lost ground on second-placed Dortmund.",
+  "relations": [
+    [
+      "Leverkusen",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Leverkusen",
+      "Schalke",
+      "vs"
+    ],
+    [
+      "Schalke",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Schalke",
+      "Leverkusen",
+      "vs"
+    ],
+    [
+      "Eric Maxim Choupo-Moting",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Eric Maxim Choupo-Moting",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Borussia Dortmund",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Sasha Riether",
+      "Leverkusen",
+      "member_of"
+    ],
+    [
+      "Sasha Riether",
+      "Leverkusen",
+      "player_of"
+    ],
+    [
+      "Max Meyer",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Max Meyer",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Kevin Kampl",
+      "Leverkusen",
+      "member_of"
+    ],
+    [
+      "Kevin Kampl",
+      "Leverkusen",
+      "player_of"
+    ],
+    [
+      "Leon Goretzka",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Leon Goretzka",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Andre Breitenreiter",
+      "Schalke",
+      "coach_of"
+    ],
+    [
+      "Andre Breitenreiter",
+      "Schalke",
+      "member_of"
+    ],
+    [
+      "Andre Breitenreiter",
+      "Schalke",
+      "player_of"
+    ],
+    [
+      "Borussia Mönchengladbach",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Chicharito",
+      "Leverkusen",
+      "member_of"
+    ],
+    [
+      "Chicharito",
+      "Leverkusen",
+      "player_of"
+    ],
+    [
+      "Wolfsburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Wolfsburg",
+      "Augsburg",
+      "vs"
+    ],
+    [
+      "Augsburg",
+      "Wolfsburg",
+      "vs"
+    ],
+    [
+      "Dante",
+      "Wolfsburg",
+      "member_of"
+    ],
+    [
+      "Dante",
+      "Wolfsburg",
+      "player_of"
+    ]
+  ]
+}

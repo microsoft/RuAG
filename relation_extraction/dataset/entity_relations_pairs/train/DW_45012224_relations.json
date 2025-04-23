@@ -1,0 +1,170 @@
+{
+  "content": "Open EU to African goods, German development minister says\nCompletely opening up the EU market to African goods would help reduce migration, German Development Minister Gerd Müller has said. In particular, he wants barriers to agricultural trade taken down.  \nThe European Union should completely open its market to products from Africa in order to promote development and stem migration flows, German Development Minister Gerd Müller said Wednesday. \"Open the market for all African goods,\" he told Die Welt newspaper in an interview. Read more: African countries agree to continental free trade area Agricultural products from Africa must be able to enter the EU without tariffs and quotas in order to provide work for millions of people on the continent, Müller said. The EU currently has separate trade agreements with African countries or regional economic blocs. In addition to tariffs and quotas, agricultural products face a hurdle being exported due to the EU's strict sanitary and phytosanitary standards. Müller also suggested that as part of an agreement with the EU, African countries should take back migrants who entered the bloc without proper approval. In return, the EU should open up avenues for Africans to come to the EU for legal employment. Only around 1,000 out of 3.5 million German companies are active in Africa, Müller said, highlighting the massive potential in the continent of 1.2 billion people. On the other hand, China, Russia and Turkey have aggressively entered the Africa market. Read more: Africa needs unified regulations against cheap Chinese imports Support from coalition, farmers Müller, a member of the Christian Social Union (CSU), the Bavarian sister party of Chancellor Angela Merkel's Christian Democratic Union (CDU), received support for his ideas from the Social Democrats (SPD). SPD agriculture spokesperson Bernd Westphal told the daily Berliner Zeitung on Thursday that opening the EU's agriculture markets would improve employment prospects in Africa and reduce migration pressures. Read more: Undocumented African migration to Germany: What can and should be done The German Farmers Association also supported the idea of duty- and quota-free African agriculture exports to the EU. At the same time, the association's general secretary, Bernhard Krüsken, said processed and value-added agriculture products should be encouraged because they provide more employment and wealth creation. EU Africa Commissioner Müller also called for a new EU Africa commissioner position to be created to coordinate and expand policy towards the continent. In addition, at the EU level more money should be spent implementing the bloc's Africa policy, he said. cw/sms (AFP, dpa)",
+  "relations": [
+    [
+      "Gerd Müller",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Gerd Müller",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerd Müller",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerd Müller",
+      "European Union",
+      "member_of"
+    ],
+    [
+      "Gerd Müller",
+      "Christian Social Union",
+      "member_of"
+    ],
+    [
+      "Gerd Müller",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Gerd Müller",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "German Farmers Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Farmers Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bernd Westphal",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Bernd Westphal",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bernd Westphal",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Bernd Westphal",
+      "Social Democrats",
+      "spokesperson_of"
+    ],
+    [
+      "Christian Social Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Social Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democratic Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democratic Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Die Welt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Die Welt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Chinese",
+      "China",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democratic Union",
+      "member_of"
+    ],
+    [
+      "Berliner Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Berliner Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bernhard Krüsken",
+      "German Farmers Association",
+      "head_of"
+    ],
+    [
+      "Bernhard Krüsken",
+      "German Farmers Association",
+      "member_of"
+    ]
+  ]
+}

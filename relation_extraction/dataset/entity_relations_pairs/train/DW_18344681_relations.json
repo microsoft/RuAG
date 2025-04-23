@@ -1,0 +1,85 @@
+{
+  "content": "South Korea latest US ally to join AIIB\nWashington looks increasingly isolated as another important ally joins the China-backed Asia Infrastructure Investment Bank (AIIB). Australia and Taiwan could be next, as a deadline for founding members approaches.\nShares in South Korean iron and steel companies shot up after Seoul announced Thursday it would seek to join the controversial Asian Infrastructure Investment Bank (AIIB). Histeel and Hanil Iron and Steel are likely to benefit from contracts when the China-backed bank begins pumping billions into infrastructure projects in the region later this year. A South Korean finance ministry official said companies in the communications, energy and transport companies would also gain contracts. South Korea is the latest in a growing list of countries who are accepting Beijing's invitation to become founding members of the AIIB before a March 31 deadline. But it is also one of the United States' closest allies in Asia, and Washington opposes the AIIB because it believes it will undercut the World Bank, where it dominates policy. Japan, which together with the US controls another Asian development lender, the Asian Development Bank, is still holding out. Strained relations Also in the region, Taiwan's president Ma Ying-jeou said on Friday his country should investigate opportunities in joining the bank, in spite of its strained relations with Beijing. Britain, another key ally of Washington, became the first EU country agreeing to join the AIIB two weeks ago. Since then, other European governments have been lining up to get in on the action. France, Germany, Italy and Switzerland have agreed. Australian Prime Minister Tony Abbott has also hinted his country will join the more than 30 nations so-far agreeing to take part in the AIIB, which includes India and all members of the Association of Southeast Asian Nations (ASEAN). kc/uhe (dpa, AP)",
+  "relations": [
+    [
+      "Asian Infrastructure Investment Bank",
+      "China",
+      "agency_of"
+    ],
+    [
+      "Asian Infrastructure Investment Bank",
+      "China",
+      "based_in0"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "South Korean",
+      "South Korea",
+      "gpe0"
+    ],
+    [
+      "Seoul",
+      "South Korea",
+      "in0"
+    ],
+    [
+      "Seoul",
+      "South Korean",
+      "in0-x"
+    ],
+    [
+      "Beijing",
+      "China",
+      "in0"
+    ],
+    [
+      "Ma Ying-jeou",
+      "Taiwan",
+      "agent_of"
+    ],
+    [
+      "Ma Ying-jeou",
+      "Taiwan",
+      "citizen_of"
+    ],
+    [
+      "Ma Ying-jeou",
+      "Taiwan",
+      "head_of_state"
+    ],
+    [
+      "Australian",
+      "Australia",
+      "gpe0"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "agent_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "citizen_of"
+    ],
+    [
+      "Tony Abbott",
+      "Australian",
+      "citizen_of-x"
+    ],
+    [
+      "Tony Abbott",
+      "Australia",
+      "head_of_gov"
+    ],
+    [
+      "Tony Abbott",
+      "Australian",
+      "head_of_gov-x"
+    ]
+  ]
+}

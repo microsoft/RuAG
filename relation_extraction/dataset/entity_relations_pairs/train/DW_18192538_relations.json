@@ -1,0 +1,75 @@
+{
+  "content": "Anger, dismay and cynicism: The Muslim world responds to the new Charlie Hebdo\nThe latest edition of Charlie Hebdo has sparked heated debate in the Muslim world. The main media outlets have been restrained in their response, but discussions on social media are incensed.\nYou won't find Muhammad anywhere in the Arab world right now. Not, that is, in caricature - the weeping prophet the satirical French magazine Charlie Hebdo portrayed on its cover one week after the deadly attacks in Paris. The prophet is weeping over the violence perpetrated in the supposed name of Islam. But readers of the major Arab papers can't see him, because not one of those papers has published the cartoon. The majority in Algeria, Egypt, and Saudi Arabia decided to confine their reporting on the new edition to the sidelines - if, that is, they covered it at all. Some newspapers published caricatures of their own today that expressed their positions on the issue. These are considerably at variance. The Tunisian paper Al Fair, for example, offered its readers a drawing of a jihadist lighting a bomb. The bomb is round and depicts a globe. The jihadist is sitting on it - the message is that Islamist terrorists are destroying the world in which they themselves live. The Algerian paper Al Joumhouria published a very different caricature: a drawing of a larger-than-life Jew holding a tiny Muslim doll under a terrified woman's nose. It's strongly reminiscent of the anti-Semitic drawings that circulated in Germany under the Nazis. One week after the attacks, which were perpetrated by men of Algerian origin, this caricature conveys the message that the true enemies of humanity are the Jews. Justified dismay The young, liberal online newspaper Al Arabi al-Jadeed in London, on the other hand, carries extensive coverage of the caricatures. Commentator Azmi Bishara writes that the lines between free speech and hate speech have been blurred - but that this line \"is not so thin, and a sound mind can indeed tell the difference.\" He says \"it is time to ask ourselves, can cartoons that insult the prophets of all religions, including the prophet of Islam, truly undermine the stature of these prophets? […] Are such events a worthy cause for millions of people to rise up and damage their future, their plans, their relations with other nations and peoples?\" Angry voices Many people writing online say yes to that, with comments on Twitter expressing anger and even cynicism. One user writes that Charlie Hebdo is spitting into Muslims' faces once again. \"We will avenge our leader Muhammad for you,\" writes another user from East Asia. People who don't entirely condemn the attacks have also been writing in to Al Jazeera. One reader asks what it means that Charlie Hebdo wants to \"forgive,\" as indicated in the cartoon. \"The attackers are dead, so it's not really a question of forgiveness anymore,\" she says. Another refers to the limits of freedom: \"Islam is a peaceful religion. Making fun of or insulting other people's faith is not freedom of speech - that's hate speech.\" Others focus on the political background to the attacks. \"The principal cause is the weakness of Muslim states, their corrupt, weak and traitorous ruling dynasties,\" writes one commentator, and adds that it is obvious what should be done about it: \"They must be removed by good Muslims.\" The Egyptian fatwa office The Dar al-Iftaa, the Egyptian fatwa office, had already commented in advance of today's edition of Charlie Hebdo, describing it as \"an unjustified provocation to the feelings of 1.5 billion Muslims around the world.\" As Dar al-Iftaa had it, \"Charlie Hebdo's next edition will stir a new wave of hatred in the French and western (Muslim) community in general.\" It added that \"the magazine's actions hinder Muslims' endeavors to achieve coexistence and dialog among civilizations.\" A week ago Dar al-Iftaa immediately issued a condemnation of the Paris attacks. Now, though, the office has criticized the new drawings. \"This is considered a dangerous escalation in the face of human values, liberations, cultural diversity, tolerance and respect to human rights which are very vital to maintain societal peace,\" it writes: \"Furthermore, it deepens the sentiments of hatred and discrimination in the hearts of Muslims and non-Muslims alike.\"",
+  "relations": [
+    [
+      "Charlie Hebdo",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Al Fair",
+      "Tunisian",
+      "based_in0-x"
+    ],
+    [
+      "Algerian",
+      "Algeria",
+      "gpe0"
+    ],
+    [
+      "Al Joumhouria",
+      "Algeria",
+      "based_in0"
+    ],
+    [
+      "Al Joumhouria",
+      "Algerian",
+      "based_in0-x"
+    ],
+    [
+      "Nazis",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Al Arabi al-Jadeed",
+      "London",
+      "based_in2"
+    ],
+    [
+      "Azmi Bishara",
+      "Al Arabi al-Jadeed",
+      "member_of"
+    ],
+    [
+      "Egyptian",
+      "Egypt",
+      "gpe0"
+    ],
+    [
+      "Dar al-Iftaa",
+      "Egypt",
+      "agency_of"
+    ],
+    [
+      "Dar al-Iftaa",
+      "Egyptian",
+      "agency_of-x"
+    ],
+    [
+      "Dar al-Iftaa",
+      "Egypt",
+      "based_in0"
+    ],
+    [
+      "Dar al-Iftaa",
+      "Egyptian",
+      "based_in0-x"
+    ]
+  ]
+}

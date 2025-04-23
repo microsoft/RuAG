@@ -1,0 +1,125 @@
+{
+  "content": "Gap Growing Between Poor and Rich\nA government-commissioned report on the rich-poor divide has found that poverty is on the rise in Germany and that the state might in fact be exacerbating it.\nThe gap between the rich and poor in Germany has drastically increased since 1998 when the ruling coalition government of Social Democrats and Greens took over from its conservative predecessors. That's the core finding of a draft study commissioned by Chancellor Gerhard Schröder's government and released on Thursday. The draft report minces no words. Poverty is on the rise in what is still considered to be one of the richest countries in the world, it says. Children worst affected The situation is particularly drastic in Germany’s big cities where children are among those worst affected in families with either lower incomes and reduced subsidies or suffering from long-term unemployment. 5 percent of the households concerned have to make do with less than 60 percent of average earnings, which is generally accepted by social scientists in the western world as the definition of poverty. This means that these households have fewer than €938 ($1,269) a month at their disposal. 15 percent of children up to 14 years of age are registered as being poor, and 19 percent of young people between 14 and 19 years of age. German social scientist Klaus Hurrelmann maintains that families and particularly single-parent households are not adequately supported by the state. \"The social situation of many children is getting worse,\" he said. \"Of course the problems that children in rich Germany face cannot be compared to those of children in the developing world. However, the psychological pressure cannot be overlooked.\" \"Government making people poorer\" Faced with an ageing population and an overburdened welfare system as a result, the coalition government of Social Democrats and Greens has set out to overhaul mechanisms of granting benefits for the needy. Of the measures to come into effect as of January next year will be the merging of unemployment and welfare benefits at a low level which will see a good proportion of people, first and foremost the long-term unemployed, in an even greater financial plight. Barbara Stolterfoht, head of the country’s welfare umbrella organization, predicts poverty levels going up even further as a result. \"The merging of social and unemployment benefits is a good idea, not a bad one,\" she said. \"But, merging this on the level of social benefits which is very low and which means poverty is a bad idea.\" Stolterfoht said poverty was bound to be the final outcome. \"What this government is doing is just making people poorer without giving them work.\" It's a view shared by Walter Hanesch, a professor of social sciences in Darmstadt. He reckons that with an ongoing polarization in society more unrest is programmed. essence this means that we’re drifting more and more towards a greater potential of social unrest in the country, he said. \"It’ll be interesting to see what impact the government’s social reforms will have in 2005.\" Hanesch contended that the merging of unemployment and welfare benefits will not be conducive to reducing poverty levels. \"On the contrary, some of the poorest – particularly the long-term unemployed – will even get poorer.” Rich getting richer? While more and more people have to turn over every cent, there’s also an increasing number of people at the other side of the spectrum who can afford to spend money like water. 10 percent of people with the highest earnings now account for almost half of all net incomes in the country. Some 1.6 million Germans own at least half a million euros each, and an unspecified number can proudly call themselves billionaires.",
+  "relations": [
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Gerhard Schröder",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Gerhard Schröder",
+      "Germans",
+      "head_of_gov-x"
+    ],
+    [
+      "Barbara Stolterfoht",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Barbara Stolterfoht",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Barbara Stolterfoht",
+      "Germans",
+      "agent_of-x"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Greens",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Greens",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Greens",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Klaus Hurrelmann",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Klaus Hurrelmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Klaus Hurrelmann",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Darmstadt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Darmstadt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Darmstadt",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "content": "Bayern Munich coast to win over Nuremberg\nBayern Munich wrapped up the 12th Bundesliga match day with an easy win over Nuremberg. Freiburg scored an extra time goal to squeak out a victory against Hoffenheim.\nBayern Munich cruised to a 3-0 victory at home against Bavarian rival FC Nuremberg on Sunday, closing the German soccer tables for the weekend. Striker Mario Gomez got things going in the 10th minute for Bayern and also scored the final goal in the 75th minute off a corner kick from Franck Ribery. Ribery came on as a substitute five minutes earlier, making his first appearance for the team since injuring his ankle in September. Near the end of the match, Gomez had an opportunity for his third goal on a penalty kicked but missed. Thirty points at break Phillipp Lahm successfully converted a penalty kick in the 57th minute to round out the scoring for Bayern. The victory for Bayern moved them into sixth place in the table with 19 points and has continued a slow shift in momentum following a rough start to the season. Bayern coach Louis van Gaal said after the game he hoped his team would have 30 points by the end of the first half of the season in five more matches. Cisse saves win for Freiburg In Sunday's other Bundesliga match, Senegal striker Papiss Demba Cisse broke a scoreless deadlock with a goal in the 91st minute to give Freiburg a 1-0 win over Hoffenheim. Cisse has now scored 10 goals in 12 games and is currently the Bundesliga's second highest scorer. The win moves Freiburg into fourth place in the table with 21 points, one ahead of Frankfurt in fourth and three behind Bayer Leverkusen and Mainz, in second and third place, respectively. Nuremberg drop to 10th place with 18 points at the end of a very tight middle group. Just three points separate Nuremburg from Freiburg. Hoffenheim also have 18 points but are two places ahead of Nuremberg in eighth place on goal difference. Author: Matt Zuvela (dpa, sid) Editor: Sean Sinico",
+  "relations": [
+    [
+      "Bayern Munich",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bayern Munich",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bayern Munich",
+      "FC Nuremberg",
+      "vs"
+    ],
+    [
+      "Bayern Munich",
+      "FC Nuremberg",
+      "won_vs"
+    ],
+    [
+      "FC Nuremberg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "FC Nuremberg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "FC Nuremberg",
+      "Bayern Munich",
+      "vs"
+    ],
+    [
+      "Freiburg",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Freiburg",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Freiburg",
+      "Hoffenheim",
+      "vs"
+    ],
+    [
+      "Freiburg",
+      "Hoffenheim",
+      "won_vs"
+    ],
+    [
+      "Mario Gomez",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Mario Gomez",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Papiss Demba Cisse",
+      "Senegal",
+      "citizen_of"
+    ],
+    [
+      "Papiss Demba Cisse",
+      "Freiburg",
+      "member_of"
+    ],
+    [
+      "Papiss Demba Cisse",
+      "Freiburg",
+      "player_of"
+    ],
+    [
+      "Franck Ribery",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Franck Ribery",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Hoffenheim",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Hoffenheim",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Hoffenheim",
+      "Freiburg",
+      "vs"
+    ],
+    [
+      "Phillipp Lahm",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Phillipp Lahm",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Louis van Gaal",
+      "Bayern Munich",
+      "coach_of"
+    ],
+    [
+      "Louis van Gaal",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Frankfurt",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bayer Leverkusen",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Bayer Leverkusen",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Mainz",
+      "Bundesliga",
+      "appears_in"
+    ],
+    [
+      "Mainz",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "content": "Peru earthquake: Casualties reported after powerful quake hits south coast \nA strong earthquake has struck off the coast of southern Peru, killing at least one person and injuring more than 60. The jolt damaged roads and homes, and authorities warned the death toll could rise. \nThe 7.1 magnitude earthquake hit Sunday at 4:18 a.m. local time (0918 UTC) in the Pacific Ocean, 40 kilometers (25 miles) offshore from the town of Acari in Peru's Arequipa region, the US Geological Survey reported. Peru's Geophysics Institute said it had measured a magnitude of 6.8. Read more: Magnitude 7.6 earthquake hits coast of southern Chile The powerful tremor caused 171 homes to collapse, displacing the same number of families, Peru's National Emergency Operations Center said on its website. At least 736 families had been affected in some way by the tremor, they added. Roads also collapsed and left several municipalities without power. Officials said the only confirmed fatality was a 55-year-old man, who died in the town of Yauca after being crushed by rocks. Read more: Waterfalls dry up after Mexico quakes Peru's Civil Defense Institute (INDECI), which is coordinating emergency help, said 65 people were injured. Many of those injured were in Caraveli province, a coastal area dependent on fishing and mining that is popular with tourists, officials said. INDECI chief Jorge Chavez said damage to roads was hampering efforts to reach the worst-affected areas. Workers used large tractors to clear away boulders and debris that crashed down and blocked some roads. Aid for victims President Pedro Pablo Kuczynski traveled to the towns of Chala and Acari, where he said the quake had toppled around 100 houses. \"We are going to send everything that is needed, such as tents for people whose homes were destroyed,\" Kuczynski told reporters. The US Pacific Tsunami Warning Center initially warned that \"hazardous tsunami waves are forecast for some coasts\" and that large swells could hit Peru and Chile. But it later downgraded the threat and said no tsunami waves had been spotted. Earthquakes are fairly common in Peru, which is on the so-called \"Ring of Fire\" — an arc of fault lines that circles the Pacific Basin. A 2007 quake in the country's southern Ica district killed 595 people. In November 2015, two major 7.6 magnitude earthquakes hit eastern Peru near the border with Brazil. The tremor comes as Pope Francis prepares to visit Chile and Peru from January 15-21. Some damage occurred in communities that Pope Francis was scheduled to visit this week, but officials said the damage would not change the pontiff's tour. law,nm/ng (Reuters, AP, EFE, dpa)",
+  "relations": [
+    [
+      "Civil Defense Institute",
+      "Peru",
+      "agency_of"
+    ],
+    [
+      "Civil Defense Institute",
+      "Peru",
+      "based_in0"
+    ],
+    [
+      "Geophysics Institute",
+      "Peru",
+      "agency_of"
+    ],
+    [
+      "Geophysics Institute",
+      "Peru",
+      "based_in0"
+    ],
+    [
+      "National Emergency Operations Center",
+      "Peru",
+      "agency_of"
+    ],
+    [
+      "National Emergency Operations Center",
+      "Peru",
+      "based_in0"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peru",
+      "agent_of"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peru",
+      "citizen_of"
+    ],
+    [
+      "Pedro Pablo Kuczynski",
+      "Peru",
+      "head_of_state"
+    ],
+    [
+      "Acari",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Arequipa",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Yauca",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Caraveli",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Jorge Chavez",
+      "Civil Defense Institute",
+      "head_of"
+    ],
+    [
+      "Jorge Chavez",
+      "Civil Defense Institute",
+      "member_of"
+    ],
+    [
+      "Chala",
+      "Peru",
+      "in0"
+    ],
+    [
+      "Pacific Tsunami Warning Center",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Pacific Tsunami Warning Center",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Ica",
+      "Peru",
+      "in0"
+    ]
+  ]
+}

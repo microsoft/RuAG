@@ -1,0 +1,95 @@
+{
+  "content": "Germany honors Vettel with sports achievement award\nGerman Forumla One driver Sebastian Vettel has another trophy to add to his collection: the Silver Laurel Leaf, which recognizes sporting achievement.\nGermany's two-time Formula One champion Sebastisn Vettel was awarded the Silver Laurel Leaf on Friday, Germany's highest honor for sporting achievement. The award was given by Germany's acting president, Horst Seehofer, at a ceremony at the presidential palace Bellevue in Berlin. \"Despite all the top places and trophies,\" Seehofer told Vettel,\" you've remained down to earth and modest, and millions of fans appreciate that in you.\" Vettel flew to Berlin from Formula One time trials in Barcelona to accept the award. \"I like collecting trophies,\" he said \"but this honor is very special, because you'll maybe only get it once in your lifetime.\" Vettel had last season's driver's title wrapped up with three races to go and will have no shortage of drivers chasing after him and his Red Bull car this season. In 2010, he became the youngest driver's champion ever. Seven-time Formula One champion Michael Schumacher is the only other driver to receive the Silver Laurel Leaf. mz/rg (dpa, AP)",
+  "relations": [
+    [
+      "Sebastian Vettel",
+      "Forumla One",
+      "appears_in"
+    ],
+    [
+      "Sebastian Vettel",
+      "Silver Laurel Leaf",
+      "award_received"
+    ],
+    [
+      "Sebastian Vettel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sebastian Vettel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Horst Seehofer",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Horst Seehofer",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bellevue",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bellevue",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Red Bull",
+      "Forumla One",
+      "appears_in"
+    ],
+    [
+      "Michael Schumacher",
+      "Silver Laurel Leaf",
+      "award_received"
+    ],
+    [
+      "Michael Schumacher",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Michael Schumacher",
+      "German",
+      "citizen_of-x"
+    ]
+  ]
+}

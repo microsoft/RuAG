@@ -1,0 +1,30 @@
+{
+  "content": "Millennia-old skeleton discovered in Mediterranean shipwreck\nArchaeologists have discovered the 2,000-year-old skeleton of a man in a Mediterranean shipwreck. They hope to extract DNA from the skeleton and determine who he was.\nArchaeologists discovered a 2,000-year-old skeleton in a shipwreck off the coast of the Greek island of Antikythera. If they are able to extract DNA from the remains, they can get an accurate genetic profile of the man who was on the ship, including hair and eye color and ancestral origin. It is very rare to find a skeleton in the sea, as human remains are usually eaten by fish or swept away over time. It is especially rare to find a well-preserved skeleton, including a partial skull, two arm bones, several ribs and two femurs. \"It doesn't look like bones that are 2,000 years old,\" said Hannes Schroeder, a DNA analysis expert from the Denmark Museum of Natural History. \"Archaeologists study the human past through the objects our ancestors created,\" said co-director of the excavation, Brendan Foley, a marine archaeologist with Massachusetts-based Woods Hole Oceanographic Institution. \"With the Antikythera shipwreck, we can now connect directly with this person who sailed and died aboard the Antikythera ship,\" Foley said. The Institution is working on the excavation with the Greek culture ministry. The Antikythera shipwreck was first discovered by in 1900 and is believed to be the first wrecked ship ever investigated by archaeologists. The first major find in the ship was the \"Antikythera Mechanism,\" an item from 2nd century BC and is occasionally referred to as the world's oldest computer. It modeled the motions of the sun, moon and planets and is composed of many cogs and gears. The ship also contained marble statues, tableware, and thousands of other artifacts. There were other skeletons found in the ship, but they were discovered before DNA testing was available. kbd/jm (AFP, AP)",
+  "relations": [
+    [
+      "Antikythera",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Hannes Schroeder",
+      "Museum of Natural History",
+      "member_of"
+    ],
+    [
+      "Brendan Foley",
+      "Woods Hole Oceanographic Institution",
+      "member_of"
+    ],
+    [
+      "Woods Hole Oceanographic Institution",
+      "Massachusetts",
+      "based_in1"
+    ],
+    [
+      "Museum of Natural History",
+      "Denmark",
+      "based_in0"
+    ]
+  ]
+}

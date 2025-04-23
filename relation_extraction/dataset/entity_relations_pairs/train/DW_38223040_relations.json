@@ -1,0 +1,155 @@
+{
+  "content": "South African finance minister Pravin Gordhan sacked in cabinet reshuffle\nA major cabinet reshuffle in South Africa has the potential to widen rifts within the ruling ANC. President Jacob Zuma is under renewed pressure to step down. \nSouth African President Jacob Zuma sacked his popular finance minister late Thursday as part of a larger cabinet reshuffle which could deepen divisions within the ruling ANC party and spook investors. Finance Minister Pravin Gordhan, who has clashed with Zuma for months over graft and public spending, was replaced by Home Affairs Minister Malusi Gigaba, a relatively unknown figure with little finance experience. Zuma also made changes at 10 of the country's 35 ministries, including energy, police and tourism. Some of the ministers are newcomers, while others were moved to new portfolios. \"I have directed the new ministers and deputy ministers to work tirelessly with their colleagues to bring about radical socioeconomic transformation and to ensure that the promise of a better life for the poor and the working class becomes a reality,\" Zuma said in a statement. The mid-night announcement sent the rand lower, extending losses from earlier this week that were triggered by speculation Gordhan would be replaced after Zuma recalled him from a trade trip in London. Investors are concerned that Zuma will now be unrestrained in government spending. Gordhan is widely respected by international investors and domestically for his tough stance on corruption and budget discipline at a time the country faces possible credit rating downgrades. Those positions have brought Gordhan up against Zuma allies who argue he was blocking efforts to tackle inequality. The cabinet reshuffle comes amid a split within the ruling African National Congress and growing calls for Zuma to step down over corruption and mismanagement. A number of senior ANC officials had sided with Gordhan in a months-long dispute with Zuma and warned against replacing him. \"We view this as an open attack on Treasury to replace people who are conservative and anti-corruption with people loyal to Zuma,\" said Peter Attard Montalto, analyst at Nomura bank. \"Zuma is taking a risk here and the next step is to watch what happens with resignations.\" The South African Communist Party, which is in an alliance with the ANC, warned that the party's seven cabinet members would resign if Zuma replaced his finance minister. Divisions within the ANC were on display earlier this week at the funeral of anti-apartheid activist Ahmed Kathrada, a critic of Zuma. The funeral turned into a political demonstration as Gordhan received a standing ovation and several longtime leaders of the ANC called on Zuma to step down. The president did not attend the funeral at the request of Kathrada's family. The party that spearheaded the anti-apartheid struggle has lost popularity due to corruption allegations, unemployment and poor economic growth. The scandal-plagued Zuma is under increasing pressure to resign. \"Zuma has bowed to the whims of those who determined to enrich themselves at the expense of the poor & jobless,\" the Democratic Alliance, the country's main opposition said. The party said it would call for a no-confidence vote in Zuma in parliament Also on Thursday, leftist opposition Economic Freedom Fighters (EFF) party applied to the country's top court to request parliament begin impeachment proceedings against Zuma for lying to the legislature. Last year, the court found Zuma guilty of breaking the constitution after he refused to repay money for upgrades to his home. He is also battling a court order to prevent the reemergence of almost 800 corruption charges over an arms deal in the 1990s. The president is also accused of having unscrupulous ties with wealthy Gupta business family. He has allegedly given them influence over appointing ministers and provided special treatment for contracts. In November, the president survived an attempt by senior party officials to oust him. Gordhan, who was finance minister between 2009 to 2014, took back the portfolio in December 2015 after Zuma unsettled markets by firing two other finance ministers within four days. Late last year, fraud charges against Gordhan were dropped. Many pointed to the charges being politically motivated. cw/bw (AFP, AP, dpa, Reuters)",
+  "relations": [
+    [
+      "African National Congress",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "African National Congress",
+      "South African",
+      "based_in0-x"
+    ],
+    [
+      "Economic Freedom Fighters",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "Economic Freedom Fighters",
+      "South African",
+      "based_in0-x"
+    ],
+    [
+      "Pravin Gordhan",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Pravin Gordhan",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Pravin Gordhan",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Pravin Gordhan",
+      "South Africa",
+      "minister_of"
+    ],
+    [
+      "Pravin Gordhan",
+      "South African",
+      "minister_of-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Jacob Zuma",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Jacob Zuma",
+      "South Africa",
+      "head_of_state"
+    ],
+    [
+      "Jacob Zuma",
+      "South African",
+      "head_of_state-x"
+    ],
+    [
+      "South African",
+      "South Africa",
+      "gpe0"
+    ],
+    [
+      "Malusi Gigaba",
+      "South Africa",
+      "agent_of"
+    ],
+    [
+      "Malusi Gigaba",
+      "South Africa",
+      "citizen_of"
+    ],
+    [
+      "Malusi Gigaba",
+      "South African",
+      "citizen_of-x"
+    ],
+    [
+      "Malusi Gigaba",
+      "South Africa",
+      "minister_of"
+    ],
+    [
+      "Malusi Gigaba",
+      "South African",
+      "minister_of-x"
+    ],
+    [
+      "Treasury",
+      "South Africa",
+      "agency_of"
+    ],
+    [
+      "Treasury",
+      "South African",
+      "agency_of-x"
+    ],
+    [
+      "Treasury",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "Treasury",
+      "South African",
+      "based_in0-x"
+    ],
+    [
+      "Treasury",
+      "South Africa",
+      "ministry_of"
+    ],
+    [
+      "Peter Attard Montalto",
+      "Nomura",
+      "member_of"
+    ],
+    [
+      "South African Communist Party",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "South African Communist Party",
+      "South African",
+      "based_in0-x"
+    ],
+    [
+      "Democratic Alliance",
+      "South Africa",
+      "based_in0"
+    ],
+    [
+      "Democratic Alliance",
+      "South African",
+      "based_in0-x"
+    ]
+  ]
+}

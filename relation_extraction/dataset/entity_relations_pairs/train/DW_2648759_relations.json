@@ -1,0 +1,125 @@
+{
+  "content": "Hungry For Success, Indian Students Give Deutsch a Try\nIn India, Germany's language and culture institute, the Goethe Institute, is flooded with students wanting to learn a foreign tongue to improve their chances of success in a globalizing world.\nOutside the walls of the whitewashed building located on a busy thoroughfare in New Delhi, two young grubby boys dressed in rags collect anything they can lay their hands on. The idea is to sell it at the recycling center to earn a few rupees. Inside, the air conditioning hums, converting the Indian capital's brutal summer heat of 40 degrees Celsius (104 F) and more into a bearable 25 degrees Celsius. A large green 'G' hung over the entrance doors gives away the identity of the building's occupant. But that's only half the story in this part of the world. India remains the only country where the Goethe Institute -- Germany's premier language and culture institute which has branches across the globe -- is called the Max Müller Bhavan or Max Müller House said Stefan Dreyer, head of Delhi's Goethe Institut. \"We have both. Max Müller doesn't stand against Goethe, rather it all goes with Goethe.\" With Max Müller's blessings Born in 1823 in Dessau, Max Müller was one of the first scholars to research the Indian classical language, Sanskrit and is considered the father of modern Indology. He died in Oxford in 1900. \"Goethe means a lot to Indians today,\" said Dreyer. \"But of course it's a homage to India when the institute's name symbolizes the relationship to this country. In this case, it's represented by Max Müller.\" India of course has changed unrecognizably since Max Müller's writings on the Vedic culture of India. Along with China, the South Asian giant is at the center of a major Asian economic boom. The country's economy has averaged growth rates of over seven percent in the past decade. India is home to a growing, well-educated middle class that's thirsting for knowledge and success. Stefan Dreyer said the massive economic and social changes sweeping the country are felt deeply by the Goethe Institute too. \"The motivation to learn German has changed sharply over the past years,\" said Dreyer. Until 7 to 10 years ago, Indians would choose to learn German to be able to read intellectuals such as Kant, Brecht, Grass or Goethe in the original, Dreyer pointed out. \"Today things are totally different. We have many young people who want to learn German because they want to use it to boost their chances of success in their professions,\" Dreyer said. Language as a weapon India is home to six Goethe institutes or Max Müller Bhavans. More are planned. The demand for German language courses is skyrocketing and the institute is having a tough time meeting it. At the Goethe Institut in Delhi alone, 2,200 students pass through its doors every year. Ranjan, a 34-year-old who works for an insurance company, has been learning German for the past three years -- for purely pragmatic reasons. \"I thought if I combine a foreign language with my insurance skills then I would have better chances to prove myself and work for a German company here in India,\" he said. Though he hasn't landed his dream job as yet, he's relying on the unwritten laws of the globalized world. \"It's no new concept that jobs are moving to cheap countries,\" said Ranjan. \"If Germany didn't do the same, it would lose a lot of business.\" The Goethe Institute too stands to profit from this young ambitious generation in India raring to use the German language as a weapon on the global marketplace. Kirti, a 21-year-old says that after a year and three months of learning German, she's now abandoned her idea of becoming an English language teacher and would now like to teach German instead at the Goethe Institute. \"All foreign languages are important for India because India is becoming increasingly important in the world,\" said Kirti. \"Germany is a new country for India, German is a new language. That just improves our career chances.\"",
+  "relations": [
+    [
+      "Max Müller Bhavans",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Max Müller Bhavans",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Max Müller Bhavans",
+      "Indians",
+      "based_in0-x"
+    ],
+    [
+      "Stefan Dreyer",
+      "Max Müller Bhavans",
+      "head_of"
+    ],
+    [
+      "Stefan Dreyer",
+      "Max Müller Bhavans",
+      "member_of"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "New Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "New Delhi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "New Delhi",
+      "Indians",
+      "in0-x"
+    ],
+    [
+      "Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "Delhi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Delhi",
+      "Indians",
+      "in0-x"
+    ],
+    [
+      "Max Müller",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Max Müller",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Dessau",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Dessau",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Indians",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Ranjan",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Ranjan",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Ranjan",
+      "Indians",
+      "citizen_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Kirti",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Kirti",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Kirti",
+      "Indians",
+      "citizen_of-x"
+    ]
+  ]
+}

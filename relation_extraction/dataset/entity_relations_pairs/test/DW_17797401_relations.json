@@ -1,0 +1,260 @@
+{
+  "content": "Secretary of State John Kerry due in Cairo as Gaza death toll mounts\nUS Secretary of State John Kerry is due in Cairo to push for a ceasefire between Israel and Hamas as the death toll in Gaza surpasses 500. Israel's army said several militants were killed after tunneling into Israel.\nSecretary of State John Kerry is due to arrive in Cairo on Monday where he is expected to urge Hamas to accept a cease-fire agreement offered by Egypt that would halt nearly two weeks of fighting with Israel. Meanwhile, the death toll in Gaza continues to rise. Medics on Monday said the number of Palestinian deaths in Gaza has risen to more than 501 since fighting intensified on Jul 8. Most of the dead are civilians. On the Israeli side, 13 soldiers were killed inside Gaza on Sunday, raising the number of soldiers killed since a ground operation began late on Thursday to 18. Two Israeli civilians also died in mortar and rocket attacks. The Israeli army said that more than 10 militants from Gaza were shot dead on Monday after infiltrating southern Israel. According to army spokespeople, two squads of militants were killed after tunneling into Israel. Israel's UN ambassador Ron Prosor, meanwhile, denied a claim by Hamas that an Israeli soldier had been kidnapped by the Islamist group, saying: \"Those rumurs are untrue.\" US President Barack Obama expressed concern about the rising death toll of civilians in a telephone call Sunday with Israeli Prime Minister Benjamin Netanyahu, according to a White House statement. The US State Department confirmed late Sunday that two US citizens were killed in Gaza violence and released their names, but did not immediately disclose their occupations. US media reported, however, that the two were American members of the Israeli Defense Force, citing relatives and friends. \"We can confirm the deaths of US citizens Max Steinberg and Sean Carmeli in Gaza,\" spokesperson Jen Psaki said in a two-sentence statement. Late Sunday, the United Nations Security Council in New York held urgent talks on the conflict, and expressed \"serious concern about the growing numbers of casualties.\" \"The members of the Security Council call for an immediate cessation of hostilities,\" said Rwandan ambassador Eugene Richard Gasana, whose country currently chairs the 15-member council. hc/dr (Reuters, AFP, AP, dpa)",
+  "relations": [
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ],
+    [
+      "John Kerry",
+      "American",
+      "minister_of-x"
+    ],
+    [
+      "Hamas",
+      "Palestinian",
+      "based_in0-x"
+    ],
+    [
+      "Cairo",
+      "Egypt",
+      "in0"
+    ],
+    [
+      "Israeli",
+      "Israel",
+      "gpe0"
+    ],
+    [
+      "Ron Prosor",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Ron Prosor",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Ron Prosor",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Barack Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "agent_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "citizen_of"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "citizen_of-x"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israel",
+      "head_of_gov"
+    ],
+    [
+      "Benjamin Netanyahu",
+      "Israeli",
+      "head_of_gov-x"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ],
+    [
+      "White House",
+      "American",
+      "in0-x"
+    ],
+    [
+      "State Department",
+      "US",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "American",
+      "agency_of-x"
+    ],
+    [
+      "State Department",
+      "US",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "State Department",
+      "US",
+      "ministry_of"
+    ],
+    [
+      "American",
+      "US",
+      "gpe0"
+    ],
+    [
+      "Israeli Defense Force",
+      "Israel",
+      "agency_of"
+    ],
+    [
+      "Israeli Defense Force",
+      "Israeli",
+      "agency_of-x"
+    ],
+    [
+      "Israeli Defense Force",
+      "Israel",
+      "based_in0"
+    ],
+    [
+      "Israeli Defense Force",
+      "Israeli",
+      "based_in0-x"
+    ],
+    [
+      "Max Steinberg",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Max Steinberg",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Sean Carmeli",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Sean Carmeli",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Jen Psaki",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Jen Psaki",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Jen Psaki",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Jen Psaki",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Security Council",
+      "United Nations",
+      "institution_of"
+    ],
+    [
+      "Security Council",
+      "United Nations",
+      "part_of"
+    ],
+    [
+      "New York",
+      "US",
+      "in0"
+    ],
+    [
+      "New York",
+      "American",
+      "in0-x"
+    ],
+    [
+      "Eugene Richard Gasana",
+      "Rwandan",
+      "agent_of-x"
+    ],
+    [
+      "Eugene Richard Gasana",
+      "Rwandan",
+      "citizen_of-x"
+    ]
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "content": "Air Berlin Executives Accused of Insider Trading\nGerman prosecutors said on Tuesday that they had raided the homes and offices of top executives of German low-cost carrier Air Berlin as part of an investigation into possible insider trading.\nAbout 50 police officers and employees of the financial sector watchdog BaFin had searched a total of 10 premises in Berlin, Stuttgart, Munich, Düsseldorf and Langenfeld on Tuesday morning as part of the probe, the Stuttgart public prosecutors said in a statement. The investigation centered on at least five officials, including chief executive Joachim Hunold, and supervisory board head Johannes Zurnieden, they added. The insider trading allegations are connected with Air Berlin's takeover of rival airline DBA last year. \"There is a suspicion that the accused made use of insider knowledge over the planned takeover of a Munich-based airline by a Berlin-based airline,\" the prosecutors' statement said. Effect on stock price was unclear The company officials are suspected of having bought around 1.5 million euros ($2.0 million) of Air Berlin shares in June 2006, shortly after having signed a confidentiality agreement and just before takeover talks began. Hunold and Zurnieden are suspected of having bought 1.47 million euros worth of shares alone, the prosecutors said. Hunold, a media-savvy businessman who has led the airline's rapid expansion, confirmed he was among those named in the inquiry and issued a statement denying the allegations. \"There was no knowing how much or even if the share price of Air Berlin would rise after the announcement,\" he said. \"I first bought shares at the start of June 2006 when a lock-up period imposed on me under stock-exchange rules had expired.\" He said all the purchases had been duly reported to financial regulators and disclosed online. \"Absurd inquiry\" Air Berlin spokesman Peter Hauptvogel added that the shares were bought well before Air Berlin decided to buy DBA, a move that sent the Berlin airline's stocks soaring. Hauptvogel, who said searches were also made at the homes of the suspects, described the inquiry as \"absurd,\" adding that it involved relatively modest sums of money. Air Berlin, Germany's second largest airline after Lufthansa, acquired DBA in August 2006 in a bid to take on flag carrier Lufthansa in the fierce battle for domination in the skies above Germany.",
+  "relations": [
+    [
+      "Air Berlin",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Air Berlin",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DBA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DBA",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "DBA",
+      "Air Berlin",
+      "part_of"
+    ],
+    [
+      "Joachim Hunold",
+      "Air Berlin",
+      "head_of"
+    ],
+    [
+      "Joachim Hunold",
+      "Air Berlin",
+      "member_of"
+    ],
+    [
+      "Johannes Zurnieden",
+      "Air Berlin",
+      "head_of"
+    ],
+    [
+      "Johannes Zurnieden",
+      "Air Berlin",
+      "member_of"
+    ],
+    [
+      "Peter Hauptvogel",
+      "Air Berlin",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "BaFin",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "BaFin",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "BaFin",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "BaFin",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Stuttgart",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Stuttgart",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Düsseldorf",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Düsseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Langenfeld",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Langenfeld",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Lufthansa",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Lufthansa",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

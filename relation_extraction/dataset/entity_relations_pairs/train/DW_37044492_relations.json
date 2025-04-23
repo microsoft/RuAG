@@ -1,0 +1,110 @@
+{
+  "content": "Bavarian government to release new refugee policy so 'Germany remains Germany'\nAmid an ongoing dispute with Berlin, Bavaria's government is due to finalize its proposal for Germany's refugee policy. As well as a yearly cap on refugee arrivals, Premier Horst Seehofer is calling for tighter borders.\nThe ever-growing divide between Chancellor Angela Merkel's Christian Democratic Union (CDU) and its Bavarian sister party, the Christian Social Union (CSU), showed no sign of resolving itself on Saturday, with Munich's local newspaper the \"Münchner Merkur\" reporting that the Bavarian government is due on Tuesday to finalize its overall concept on refugee and immigration policy in Germany. The charter titled \"So that Germany remains Germany\" was reportedly written by CSU leader and Bavarian Premier Horst Seehofer. At the top of the agenda is the CSU's long-time demand for an upper-limit on the number of asylum seekers accepted in Germany - something Bavaria aims to achieve through EU quotas. For months, the CSU has called a yearly cap of no more than 200,000 refugees, a move that Merkel has repeatedly rejected. The debate has prompted an unwelcome divide in the so-called \"Union\" of conservative CDU and CSU - particularly in the year of Germany's federal election. Unrest among conservatives The CSU, which often takes more conservative stances than the CDU, has sharply criticized Merkel's open-door policies that allowed more than a million people to enter the country as refugees and migrants since 2015. Last month Seehofer even ruled out governing with Merkel's CDU should they refuse to introduce an upper limit on the number of migrants entering Germany. In an apparent attempt to calm the rumbling debate, Merkel's CDU proposed on Friday the idea of flexible annual targets for asylum seeker numbers. The Christian Democrats gave no precise numbers but called for Germany to set a new target each year based on the humanitarian situation in global crisis zones and Germany's ability to absorb newcomers. Alongside its refugee cap, the Bavarian state government is also proposing further restrictions on family reunions for refugees, possibly calling for asylum-seekers to secure a livelihood independent of state subsidies before being permitted to apply for family members to join them in Germany. The basic protection for migrants in old age should also be restricted if they have not spent the most important period of working life in Germany, the Bavarian government wrote, adding that asylum-seekers who commit a criminal offense in Germany also \"forfeit their right to hospitality\" and must be deported. 'Humanitarian responsibility' At the same time, however, the paper also states its commitment to the reception of refugees. \"The admission of those in need of protection is a requirement of Christian and humanitarian responsibility,\" the document reads, adding that Germany must proceed with \"zero tolerance against xenophobia, racism and anti-Semitism.\" The charter also calls for the expansion of aid to developing countries, with Seehofer demanding an \"African Act\" from the European Union (EU). Aid programs can no longer be underfunded, the paper continues, noting that without the financial support, misery and distress would increase in refugee camps. Schengen under pressure In light of the terror attack on Berlin last month, the Bavarian government is also proposing tighter border controls. Twelve people were killed and almost 50 others injured, when a truck was rammed into a Berlin Christmas market. Police suspect Tunisian asylum-seeker and \"Islamic State\" (IS) sympathizer Anis Amri was behind the wheel. After fleeing the scene on Decmeber 19, Amri was able to cross Germany's border into the Netherlands and travel via France to Italy, where he was later killed in a police shootout in Milan. His unchecked travel was possible due to the Schengen Zone - the EU's borderless travel region. In light of the growing number of terror attacks, however, the Schengen agreement is being put under increasing pressure, with Merkel also ordering a comprehensive review of Germany's security infrastructure.",
+  "relations": [
+    [
+      "Bavaria",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Horst Seehofer",
+      "Bavaria",
+      "agent_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Christian Social Union",
+      "head_of"
+    ],
+    [
+      "Horst Seehofer",
+      "Bavaria",
+      "head_of_gov"
+    ],
+    [
+      "Horst Seehofer",
+      "Christian Social Union",
+      "member_of"
+    ],
+    [
+      "Christian Democratic Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Social Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democratic Union",
+      "member_of"
+    ],
+    [
+      "Anis Amri",
+      "Tunisian",
+      "citizen_of-x"
+    ],
+    [
+      "Anis Amri",
+      "Islamic State",
+      "member_of"
+    ],
+    [
+      "Bavarian",
+      "Bavaria",
+      "gpe1"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Munich",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Münchner Merkur",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Münchner Merkur",
+      "Munich",
+      "based_in2"
+    ],
+    [
+      "Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Milan",
+      "Italy",
+      "in0"
+    ]
+  ]
+}

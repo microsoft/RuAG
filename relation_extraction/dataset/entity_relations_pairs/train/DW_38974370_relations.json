@@ -1,0 +1,200 @@
+{
+  "content": "German lawmakers call off Turkey visit as row escalates\nA German parliamentary delegation has cancelled a trip to Turkey after authorities there said that the group would be unwelcome. It’s the latest row to hit increasingly strained relations between the NATO allies. \nA delegation of German lawmakers called off a trip to Turkey after they were told that they would not be able to meet with Turkish officials or visit parliament, Green Party deputy parliamentary speaker Claudia Roth said on Wednesday. \"Yesterday we received the information that it is currently not considered opportune at the very, very, very highest Turkish level to conduct political talks with the German parliamentary side in Turkey,\" Roth said in Berlin, adding that the Turkish side refused to provide a security detail. She was to lead a four-person parliamentary delegation that included the Social Democrats' foreign policy spokesperson, the head of the German parliament's human rights commission of the Christian Democrats, and another Green lawmaker. The three-day visit scheduled to begin on Thursday was to include stops in Istanbul, Ankara and the largely Kurdish city of Diyarbakir to gain information following April's controversial constitutional referendum that granted President Recep Tayyip Erdogan greater powers. Read: What happens following 'yes' vote in Turkish referendum Roth spoke of a \"new level of escalation\" and \"a de facto cancellation of political dialogue\" between the two NATO allies. In China on an official visit, German Foreign Minister Sigmar Gabriel called Turkey's actions a \"serious event\" that did not help make dialogue any easier. German Chancellor Angela Merkel and Erdogan will attend a NATO summit in Brussels on Thursday. The two leaders are likely to hold discussions on the sidelines. Blow after blow Wednesday's cancellation adds to increasingly strained ties since early last year. Relations with Turkey have also become a political football ahead national elections in Germany in September. Turkey recently blocked a parliamentary delegation from visiting Incirlik air base, where some 260 German soldiers are stationed as part of the international anti-Islamic State coalition in Syria. Read: Turkey's Incirlik air base: What you need to know In response, Germany is considering moving its troops and reconnaissance and refueling aircraft to another base in the region, possibly in Jordan. It is the second time Turkey has blocked a parliamentary delegation from visiting its troops. After the German parliament passed an Armenian genocide resolution last year Turkey blocked lawmakers from visiting Incirlik, only to later to allow the trip. Tensions have also been heightened over the arrest of two Turkish-German journalists on trumped up terrorism charges. Read: The 100th day of Deniz Yucel's imprisonment In another row, Germany granted asylum to military officers and other diplomatic passport holders who Ankara accuses of being involved in last July's failed coup attempt. Germany and the EU have voiced concern over the deterioration of democracy and human rights in the wake of coup attempt. In the lead up to April's constitutional referendum, relations hit a low point when Erdogan accused Germany and other European countries of \"Nazi-like” practices for blocking Turkish ministers from campaigning. cw/rc (AFP, AP, dpa, KNA)",
+  "relations": [
+    [
+      "Green Party",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Green Party",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Claudia Roth",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Claudia Roth",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Claudia Roth",
+      "Green Party",
+      "head_of"
+    ],
+    [
+      "Claudia Roth",
+      "Green Party",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Social Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democrats",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Istanbul",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Istanbul",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Diyarbakir",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Diyarbakir",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Sigmar Gabriel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Sigmar Gabriel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Incirlik",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Incirlik",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Islamic State",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Deniz Yucel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Deniz Yucel",
+      "German",
+      "citizen_of-x"
+    ]
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "content": "New Bollywood film sparks storm\nA new Bollywood film tackling the issue of caste quotas in government jobs and education has raised a storm for its alleged anti-reservation stance. The state government of Uttar Pradesh has banned it for two months.\nThe government of the north Indian state of Uttar Pradesh has banned a controversial Hindi film called \"Aarakshan\" (Reservation) just two days before it is due to be released. The decision to ban the film, which was due to hit the screens on Friday, was taken after a recommendation by a high-level official committee that had been set up by the government of Uttar Pradesh that is run by Dalit leader Mayawati. After watching the movie, the official committee said that it felt its screening would create a \"law and order problem\" in the state. The committee said it was of the view that the film's dialogues could create hatred and adverse reaction in society. Uttar Pradesh is a populous state whose population is largely made up of Dalits (previously known as \"Untouchables\"), Scheduled Tribes and Other Backward Classes. After UP, the Punjab government has banned the screening of Aarakshan in the state. The ban will stay until the state screening committee previews the movie and submits its report. Affirmative action The head of India's National Commission for Scheduled Castes (NCSC) even said that the film by Prakash Jha was \"anti-Dalit and anti-reservation.\" After watching a special screening in New Delhi, the NCSC asked the Censor Board to make necessary changes in the film before it is released, objecting to the \"derogatory way\" the Backward community is featured. Reservation refers to the policy of guaranteeing jobs for India's socially disadvantaged groups. The affirmative action aims to provide equal opportunities for the poorest and most marginalized in the country's complex and deeply entrenched social hierarchy. Those who miss out on public sector jobs or education places as a result say the system fails to reward talent or ability. In Mumbai, publicity material was vandalized and more than a dozen activists were arrested for protesting outside director Prakash Jha's office, prompting police to give him and the films leading actors extra security. Protests were also held in Rajasthan and Punjab. Director's take The director, whose previous films have tackled social issues, corruption and power politics, has rejected all criticism of the film and denies taking a stance. \"In India, there are people who benefit from the reservation policy and those who have missed an opportunity because of it. Reservation and the quota system is a hard-hitting reality. It is almost an India versus India situation and by showing this in my movie, I am trying to bridge the gap,\" the 59-year-old told reporters. A nine-member team of the Censor Board had previously given a certificate to the film without any cuts. On Wednesday, it said it would defend Jha's right to free expression and added that \"Aarakshan\" would be released on August 12 despite the NCSC plea to make cuts. Author: Sachin Gaur (PTI, AFP) Editor: Anne Thomas",
+  "relations": [
+    [
+      "Uttar Pradesh",
+      "India",
+      "in0"
+    ],
+    [
+      "Uttar Pradesh",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Mayawati",
+      "Uttar Pradesh",
+      "agent_of"
+    ],
+    [
+      "Mayawati",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Mayawati",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Mayawati",
+      "Uttar Pradesh",
+      "head_of_gov"
+    ],
+    [
+      "Reservation",
+      "Prakash Jha",
+      "created_by"
+    ],
+    [
+      "Reservation",
+      "Prakash Jha",
+      "directed_by"
+    ],
+    [
+      "National Commission for Scheduled Castes",
+      "India",
+      "agency_of"
+    ],
+    [
+      "National Commission for Scheduled Castes",
+      "Indian",
+      "agency_of-x"
+    ],
+    [
+      "National Commission for Scheduled Castes",
+      "India",
+      "based_in0"
+    ],
+    [
+      "National Commission for Scheduled Castes",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Prakash Jha",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Prakash Jha",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Punjab",
+      "India",
+      "in0"
+    ],
+    [
+      "Punjab",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "New Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "New Delhi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Censor Board",
+      "India",
+      "agency_of"
+    ],
+    [
+      "Censor Board",
+      "Indian",
+      "agency_of-x"
+    ],
+    [
+      "Censor Board",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Censor Board",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Mumbai",
+      "India",
+      "in0"
+    ],
+    [
+      "Mumbai",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Rajasthan",
+      "India",
+      "in0"
+    ],
+    [
+      "Rajasthan",
+      "Indian",
+      "in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "content": "Jammeh defeated in landmark Gambian election\nLongtime strongman Yahya Jammeh has lost Gambia's presidential election to businessman and political newcomer Adama Barrow. Jammeh has now formally conceded defeat in the polls.\nIn a shock result, Gambia's president Yahya Jammeh has conceded defeat after 22 years in power to political newcomer Adama Barrow, the head of the country's electoral commission said Friday. \"It's really unique that someone who has been ruling this country for so long has accepted defeat,\" Alieu Momar Njie told reporters ahead of the release of the results of Thursday's presidential election. Jammeh has staunchly held onto power since he staged a 1994 military coup that ousted Dawda Jawara, who himself had been president since 1970, just five years after the country's independence from Britain. A little known businessman, the 51-year-old Barrow was picked by a group of political parties to head the opposition ticket under his United Democratic Party. The electoral commission said Barrow received 263,000 votes to Jammeh's 212,000, giving him a five year mandate in the poor country of some 890,000 people. Mama Kandeh, a third candidate of the only opposition party not to join Barrow's coalition, got 102,969 votes. The longtime head of state, who represents the Alliance for Patriotic Reorientation and Construction party, was expected to make a televised address later in the day. Jammeh, who has previously said that with the will of God he could rule for a billion years, has been accused by rights groups of abuses, including killing political opponents and clamping down on journalists and gays. During his reign he swung the country in an Islamic direction, last year declaring the country an Islamic Republic. Previous elections since he came to power have been marked allegations of rigging. Thursday's election was impacted by an internet backout and a heavy security presence that extended into early Friday. The United States said the voter turn out appeared to be high and took place under \"generally peaceful conditions.\" But the State Department voiced concerned about the arrest of opposition supporters, the internet blackout and disruption of phone services. If Jammeh concedes, it would be remarkable transition in the West African country and the continent, where few leaders step down through elections. cw/kl (Reuters, AFP, KNA)",
+  "relations": [
+    [
+      "Yahya Jammeh",
+      "Gambia",
+      "agent_of"
+    ],
+    [
+      "Yahya Jammeh",
+      "Gambia",
+      "citizen_of"
+    ],
+    [
+      "Yahya Jammeh",
+      "Gambian",
+      "citizen_of-x"
+    ],
+    [
+      "Yahya Jammeh",
+      "Gambia",
+      "head_of_state"
+    ],
+    [
+      "Yahya Jammeh",
+      "Gambian",
+      "head_of_state-x"
+    ],
+    [
+      "Yahya Jammeh",
+      "Alliance for Patriotic Reorientation and Construction",
+      "member_of"
+    ],
+    [
+      "Adama Barrow",
+      "Gambia",
+      "agent_of"
+    ],
+    [
+      "Adama Barrow",
+      "Gambia",
+      "citizen_of"
+    ],
+    [
+      "Adama Barrow",
+      "Gambian",
+      "citizen_of-x"
+    ],
+    [
+      "Adama Barrow",
+      "Gambia",
+      "head_of_state"
+    ],
+    [
+      "Adama Barrow",
+      "Gambian",
+      "head_of_state-x"
+    ],
+    [
+      "Adama Barrow",
+      "United Democratic Party",
+      "member_of"
+    ],
+    [
+      "Dawda Jawara",
+      "Gambia",
+      "agent_of"
+    ],
+    [
+      "Dawda Jawara",
+      "Gambia",
+      "citizen_of"
+    ],
+    [
+      "Dawda Jawara",
+      "Gambian",
+      "citizen_of-x"
+    ],
+    [
+      "Dawda Jawara",
+      "Gambia",
+      "head_of_state"
+    ],
+    [
+      "Dawda Jawara",
+      "Gambian",
+      "head_of_state-x"
+    ],
+    [
+      "United Democratic Party",
+      "Gambia",
+      "based_in0"
+    ],
+    [
+      "United Democratic Party",
+      "Gambian",
+      "based_in0-x"
+    ],
+    [
+      "Gambian",
+      "Gambia",
+      "gpe0"
+    ],
+    [
+      "Mama Kandeh",
+      "Gambia",
+      "citizen_of"
+    ],
+    [
+      "Mama Kandeh",
+      "Gambian",
+      "citizen_of-x"
+    ],
+    [
+      "Alliance for Patriotic Reorientation and Construction",
+      "Gambia",
+      "based_in0"
+    ],
+    [
+      "Alliance for Patriotic Reorientation and Construction",
+      "Gambian",
+      "based_in0-x"
+    ],
+    [
+      "State Department",
+      "United States",
+      "agency_of"
+    ],
+    [
+      "State Department",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "State Department",
+      "United States",
+      "ministry_of"
+    ]
+  ]
+}

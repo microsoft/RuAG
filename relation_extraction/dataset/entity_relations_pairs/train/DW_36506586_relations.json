@@ -1,0 +1,45 @@
+{
+  "content": "EU takes an ethical stance on buying gold from Africa\nRaw materials from African conflict regions will no longer be able to be imported into the EU without controls on ethical standards. But changes will not be implemented immediately. Bernd Riegert reports from Brussels.\nAfter years of negotiation, the European Parliament, the European Commission and EU member states have finally agreed on creating laws to regulate metal imports hailing from African conflict regions. At least if the plan works, then the sale of gold, coltan, tin and tungsten, particularly from the Congo and the Great Lakes region in eastern Africa, should no longer be allowed to finance rebel groups and parties to civil war. Judith Sargentini, a Dutch parliamentarian for the Greens party, has expressed her relief over this development. \"For the first time there are binding laws on the import into the EU of minerals from conflicts areas. The European Parliament - working with the Commission in Brussels and cabinet ministers from member states - pushed for the regulations to be legally binding. Until now, Europe had only a voluntary self-regulatory system involving participating import companies. The regulations will not only be imposed on mining companies, brokers and importers of raw materials but also manufacturers of motor vehicles, electrical machinery and industrial tools. In future, proof will have to be provided that the raw materials being used have not been obtained or sold under inhuman conditions. However, it is not intended that finished products sold in shops will have special labeling indicating that human rights standards have been met. 'High time for action' For years now, the EU has implemented existing standards from the Organization for Economic Co-operation and Development (OECD) in its commercial dealings with gold, coltan, zinc and tungsten. Since 2010 a law has been in force in the US that prohibits the import of so-called \"blood\" metals and ores, particularly from the Congo and the Central African Republic. As the largest importer of African minerals, the EU is able to exercise substantial influence over the market. According to Bernd Lange of the Social Democrats, who is chairman of the European Parliament's trade commission, \"It is high time we took action and stopped turning a blind eye. But this is not the end of the road. In order to achieve success we have to be continually learning and staying flexible, so that the commercial chain, from the mine to the forge, can be monitored.\" However, Franziska \"Ska\" Keller, European parliamentarian for the Greens, is critical that the new law will not provide customers buying laptops or cell phones with information about whether \"blood\" minerals have been used in production. Only importers of raw materials are required to provide certification, not the processing factories. Exemptions are also provided for small companies. Further, gold need only be declared if amounts exceed 100kg (220 pounds) - currently worth in the region of $390,000 (369,000 euros). Raw materials that are re-used, or are already warehoused in Europe, will not fall under the new regulations. Many human rights organizations, including Amnesty International, have been calling for controls on the use of raw materials from conflict zones. A spokesperson from Amnesty has said that the organization is pleased at these recent developments in the EU, but by no means delighted: \"It is a positive, but half-hearted step. There are too many loopholes.\" Five more years During negotiations about the new law, EU member governments stressed the importance of not burdening small importers, dentists or jewelers with new bureaucracy. The European Commission has agreed to carefully observe developments in the gold market and provide warnings if irregularities occur. It will also assess whether the new laws are in fact diminishing the financial resources of rebel groups and warlords in the Congo and Great Lakes area. It is expected to be some time before the regulations come into force and make an impact in Africa. It is only in 2021 that it will become mandatory to provide proof of the origin of gold, coltan, zinc and tungsten. The sale of diamonds, perhaps the most famous of the raw materials that can be used to fund wars, are expressly not covered by the new laws.",
+  "relations": [
+    [
+      "European Commission",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "Judith Sargentini",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "Judith Sargentini",
+      "Greens",
+      "member_of"
+    ],
+    [
+      "Bernd Lange",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Franziska \"Ska\" Keller",
+      "Greens",
+      "member_of"
+    ]
+  ]
+}

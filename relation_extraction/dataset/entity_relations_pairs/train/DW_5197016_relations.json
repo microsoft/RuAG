@@ -1,0 +1,135 @@
+{
+  "content": "Continental denies responsibility for crash as Concorde trial begins\nUS airline Continental denied responsibility for a deadly Concorde crash that spelt the end of supersonic travel as its mechanics went on trial in France on Tuesday. The accused face five years in jail.\nJudge Dominique Andreassier opened the trial by reading out the names of the 113 people who died in 2000 when the Air France jet smashed into a hotel in a ball of fire just after take-off from Paris Charles de Gaulle airport. She then read out the charges against the US airline Continental and two of its technical staff who are accused of the manslaughter of 109 people on the plane - most of them German tourists - and four hotel workers on the ground. \"There is an attempt to protect the Concorde and the image that it projected of France,\" said Continental lawyer Olivier Metzner as he arrived at the court in Pontoise, near Paris. Suspected six John Taylor, a welder who worked for Continental at the time of the crash and his supervisor, Stanley Ford, face involuntary manslaughter charges. Henri Perrier, the head of testing of the Concorde programme before becoming its director and Jacques Herubel, the plane's former chief engineer, are also accused. The sixth defendant is the former head of France's civil aviation body Claude Frantzen. Continental faces a maximum fine of 375,000 euros ($525,000) if found guilty. The individuals, who all deny the charges, face up to five years in jail and a fine of up to 75,000 euros. Small metal strip The court will decide whether to agree with the findings of a 2004 accident enquiry which concluded the crash was caused by a 43-centimeter (17-inch) strip of metal that fell off a Continental DC-10 that took off shortly before the Concorde on July 25, 2000. The Concorde, carrying nine French crew and mainly German passengers heading to New York to board a Caribbean cruise ship, ran over the super-hard titanium strip, it said. The strip shredded a tyre, causing a blow-out and sending debris flying into an engine and a fuel tank and setting it on fire, according to investigators. Metzner disputes these findings. \"Are you going to ask me to believe that this object could have caused the crash?\" Metzner told the court as he held up a metal strip similar to the one retrieved from the pile of debris the Concorde was reduced to after the crash. Metzner promised to present witnesses - including firemen based at the airport - who would testify that the New York-bound plane was on fire well before it reached the metal strip. Most of the families of the people who died in the crash agreed not to take legal action in exchange for compensation from Air France, the EADS aerospace firm, Continental and Goodyear tyre maker. But the mammoth criminal trial is expected to last four months and cost more than three million euros ($4.2 million). Illustrious history that ended in tragedy The Paris disaster was the first and only Concorde crash, but during their 27 years of service for Air France and British Airways, the jets suffered dozens of tyre blowouts or wheel damage that in several cases pierced fuel tanks. The Concorde made its maiden commercial flight in 1976. Only 20 were made, six for development and the remaining 14 for flying mainly trans-Atlantic routes at speeds of up to 1,350 miles (2,170 kilometers) an hour. Air France and BA grounded their Concordes for 15 months after the crash and, after a brief resumption, finally ended the world's only supersonic commercial service in 2003. glb/AFP/Reuters Editor: Andreas Illmer",
+  "relations": [
+    [
+      "Concordes",
+      "Air France",
+      "artifact_of"
+    ],
+    [
+      "Continental",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Dominique Andreassier",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Dominique Andreassier",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Olivier Metzner",
+      "Continental",
+      "advisor_of"
+    ],
+    [
+      "John Taylor",
+      "Continental",
+      "member_of"
+    ],
+    [
+      "Stanley Ford",
+      "Continental",
+      "member_of"
+    ],
+    [
+      "Air France",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Air France",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Paris Charles de Gaulle",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris Charles de Gaulle",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Pontoise",
+      "France",
+      "in0"
+    ],
+    [
+      "Pontoise",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Henri Perrier",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Henri Perrier",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Jacques Herubel",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Jacques Herubel",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Claude Frantzen",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Claude Frantzen",
+      "French",
+      "agent_of-x"
+    ],
+    [
+      "Claude Frantzen",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Claude Frantzen",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "DC-10",
+      "Continental",
+      "artifact_of"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "New York",
+      "US",
+      "in0"
+    ]
+  ]
+}

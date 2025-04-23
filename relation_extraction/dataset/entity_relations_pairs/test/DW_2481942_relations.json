@@ -1,0 +1,250 @@
+{
+  "content": "German Interior Ministry Claims Progress on Crime\nInterior Minister Wolfgang Schäuble released his department's official statistics concerning crime in 2006 in Berlin on Tuesday. And the news was good -- most of the numbers were down compared to the preceding year.\nGermany's streets were never particularly dangerous, but according to the Interior Ministry, they are now safer than at any time since statistics have been collected. Reported criminal offenses on the whole dropped by 1.4 percent over 2005 -- to a total of just over 6.3 million. \"The statistics show reductions in crime among children, adolescents and teenagers, as well as adults,\" said Schäuble. He added that criminality among foreigners living in Germany also fell, saying that this development reflected Germany's efforts to integrate non-Germans. Drugs offenses were down 7.8 percent, followed by theft and street crime, which both declined by four percent or more. Youth violence Vandalism, on the other hand, was up 5.9 percent. Fraud rose slightly, as did violent crime -- among young people by an alarming 4.5 percent. Berlin Interior Minister Erhart Körting said that was part of a decade-long trend in Germany. \"As many experts have pointed out,\" Körting said, \"the potential for violence in society is increasing.\" The head of the German Police Officers' Union Konrad Freiberg also said those figures showed that German society was not truly getting safer. Frankfurt tops most-dangerous list Crime was down in Frankfurt am Main, but it's still the German city with the greatest number of criminal offenses per 100,000 people. Hanover was a close second, followed by Düsseldorf, Bremen and Berlin. The total percentage of criminal cases solved by German police also improved slightly from 55 to 55.4 percent. According to the study, Germany's safest place was Bergisch Gladbach, a city of 100,000 inhabitants in the west of the country -- coincidentally, model Heidi Klum's home town.",
+  "relations": [
+    [
+      "Frankfurt am Main",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt am Main",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt am Main",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Frankfurt am Main",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germany",
+      "minister_of"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Wolfgang Schäuble",
+      "Germans",
+      "minister_of-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Interior Ministry",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Interior Ministry",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Interior Ministry",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Interior Ministry",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Erhart Körting",
+      "Berlin",
+      "agent_of"
+    ],
+    [
+      "Erhart Körting",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Erhart Körting",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Erhart Körting",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Erhart Körting",
+      "Berlin",
+      "minister_of"
+    ],
+    [
+      "Konrad Freiberg",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Konrad Freiberg",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Konrad Freiberg",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Konrad Freiberg",
+      "German Police Officers' Union",
+      "head_of"
+    ],
+    [
+      "Konrad Freiberg",
+      "German Police Officers' Union",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German Police Officers' Union",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Police Officers' Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Police Officers' Union",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Hanover",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hanover",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hanover",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Düsseldorf",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Düsseldorf",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Düsseldorf",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Bremen",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bremen",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bremen",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Bergisch Gladbach",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bergisch Gladbach",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Bergisch Gladbach",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Heidi Klum",
+      "Bergisch Gladbach",
+      "citizen_of"
+    ]
+  ]
+}

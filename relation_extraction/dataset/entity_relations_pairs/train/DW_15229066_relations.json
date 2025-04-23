@@ -1,0 +1,170 @@
+{
+  "content": "German welcome for Italian mafia sentences\nUntil six people were shot dead at an Italian eatery in Duisburg in 2007, no one considered Germany mafia heartland. An Italian court has sentenced eight men, including the mastermind of that shooting, to life in prison.\nA court in Locri in Italy handed down eight life sentences to a group of gangsters from the Calabrian 'Ndrangheta mob. Among those it convicted was 32-year-old Giovanni Strangio, charged with masterminding six simultaneous shootings outside an Italian restaurant in Duisburg in western Germany. The city center attack took place within a stone's throw of the city's main rail station. \"I am happy that the excellent, meticulous work of investigators in Duisburg made this verdict possible,\" the interior minister for the state of North Rhine-Westphalia, Ralf Jäger, said on Tuesday. \"This success is also thanks to the intensive cooperation between Italian and North Rhine-Westphalia police forces. It shows that international cooperation in the fight against organized crime is working.\" Strangio was arrested in Amsterdam in 2009, and investigators concluded that the six shootings in Duisburg were a revenge attack for a 2006 Christmas Day killing of his cousin Maria Strangio, allegedly carried out by members of the rival Pelle-Vottari crime family. These killings were all part of an ongoing feud between the two families, which is thought to have begun in 1991 when youths from the Nirta-Strangio clan started throwing eggs at members of the Pelle-Voltari family. About fourteen people have been killed since, with what the German press called \"the Duisburg massacre\" the most notorious single example. The 'Ndrangheta, based in Calabria - the \"toe\" of Italy - is not as well known as its Sicilian counterpart, the Cosa Nostra, or the Neapolitan Camorra, but authorities have repeatedly warned of the danger posed by their activities like drug trafficking and weapons smuggling. Author: Mark Hallam (dapd, dpa) Editor: Michael Lawton",
+  "relations": [
+    [
+      "Duisburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Duisburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Ndrangheta",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Ndrangheta",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Ndrangheta",
+      "Calabria",
+      "based_in1"
+    ],
+    [
+      "Giovanni Strangio",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Giovanni Strangio",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Giovanni Strangio",
+      "Ndrangheta",
+      "member_of"
+    ],
+    [
+      "Nirta-Strangio",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Nirta-Strangio",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Pelle-Voltari",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Pelle-Voltari",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Neapolitan Camorra",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Neapolitan Camorra",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Neapolitan Camorra",
+      "Sicilian",
+      "based_in1-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Italian",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Locri",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Locri",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Calabrian",
+      "Calabria",
+      "gpe1"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "Germany",
+      "in0"
+    ],
+    [
+      "North Rhine-Westphalia",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Ralf Jäger",
+      "North Rhine-Westphalia",
+      "agent_of"
+    ],
+    [
+      "Ralf Jäger",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Ralf Jäger",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Ralf Jäger",
+      "North Rhine-Westphalia",
+      "minister_of"
+    ],
+    [
+      "Maria Strangio",
+      "Italy",
+      "citizen_of"
+    ],
+    [
+      "Maria Strangio",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Calabria",
+      "Italy",
+      "in0"
+    ],
+    [
+      "Calabria",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Camorra",
+      "Italy",
+      "based_in0"
+    ],
+    [
+      "Camorra",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Camorra",
+      "Neapolitan",
+      "based_in1-x"
+    ]
+  ]
+}

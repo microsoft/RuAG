@@ -1,0 +1,210 @@
+{
+  "content": "How deep is the split in Turkish society?\nFor weeks, Turks have been protesting against Prime Minister Erdogan's government - though apparently with modest success. A group of Turkish experts has taken a look at different social divisions in Turkish society.\nLale Akgün is adamant: \"The protests won't stop. The genie is out of the bottle.\" The German Social Democratic politician adds that people are bound to demonstrate and offer resistance until the present liberal spirit is established in society. Akgün was one of a group of experts in a panel discussion organized in Bonn earlier this week by DW, the Southeast Europe Association and the German-Turkish Association on the causes and consequences of the protests in Turkey. The other panel members: Turkish-born journalist Canan Topcu, Bahaedin Güngör, the head of DW's Turkish Service, and Maurus Reinkowski, a scholar of Islam at the University of Basel in Switzerland. \"Everyone opposed to Erdogan's authoritarian style of government has taken to the streets - you see housewives with their daughters, young couples, young and old people, soccer fans and transsexuals,\" said Akgün, who recently returned from a visit to Turkey. \"That's something Turkey is experiencing for the first time: a pluralistic society where you can live and let live.\" Erdogan's rise to power The protests in the streets do not appear to faze Prime Minister Recep Tayyip Erdogan, however. But how could a man who ignores the wishes of a good part of the population have risen to power more than 10 years ago? \"Erdogan is the result of a fragmentation of the established parties at that time. They were totally embroiled in power struggles,\" Güngör remembered. \"No one wanted to give in.\" These parties clearly neglected to fulfill the people's expectations, he said - and that's when Erdogan stepped in, telling voters they had tried out the established parties, and now they should give him a chance. \"That was the secret of his success. Erdogan benefitted from a lack of political opponents.\" The situation has changed. Today, Erdogan has quite a few opponents among the population and the opposition - and even faces criticism from within the ranks of his ruling Justice and Development Party (AKP) and Turkish President Abdullah Gul. In just 10 days, the police managed to destroy the reputation Turkey worked hard to attain, said Akgün, and she predicts further resistance. \"If the AKP breaks apart, that could spell a quick end to Erdogan,\" she said. An acquired taste According to Akgün, the protests produced a phenomenon entirely new to Turkish society: previously apolitical youth have become politicized. \"The young people are acquiring a taste for politics,\" said Akgün, adding that politics means shaping society, but it also means having a desire for power. \"These young people now must let their enthusiasm and energy flow into creating political structures that will allow them to strive for political power - with the legitimization to rule and shape.\" The demonstrations raised the question of the deep split in Turkish society, which includes groups as different as the Alevites, Secularists and Kemalists. Reinkowski dismisses such categorizations as \"too narrow,\" pointing out Turkey presents \"a relatively lively picture, with quite some differentiation along the edges.\" He said the Taksim movement shows how a common concern can bring together different currents, a factor that should not be underestimated. Turkish civilian society is marked by greater self-confidence and a conviction that political action can bring about change, said Reinkowski - \"a cultural and even political capital that will take hold over the coming years.\" Solidarity - a touchy subject The anti-Erdogan protests in Turkey have also spread to and mobilized people in Germany. But the protesters are quite different, as Topcu pointed out: in Germany, they were more fragmented, sometimes demonstrators refused to join a protest with, for instance, Kemalists. \"It is different in Turkey,\" she said.\" People with a reason to be dissatisfied managed to come together to demonstrate against the AKP government and Erdogan. That is not how it was in Germany.\" The journalist fears the rallies in German cities could taint the way Turkish migrants are perceived. \"I don't think the mass demonstration by the Alevite community or the protests organized by pro-Erdogan groups contribute to improving the image of ethnic Turks living in Germany, because the protests indicate that people are much more strongly attached to their native country than to Germany.\" That is not bound to be well-received by critics who regard Muslims as shirking integration, Topcu added. Difficult path to the EU Germany's perception plays a crucial role in an issue close to the Turkish heart: accession to the EU. Chancellor Angela Merkel urges continuing accession talks despite violent police intervention in the Turkish protests. But Güngör is convinced: \"Turkey is unmanageable.\" It is not comparable with Romania, Bulgaria or other EU countries beset by major problems. \"Those problems are manageable, and everything is transparent.\" In addition, said Güngör, Turkey is in a difficult situation with regard to its neighbors Syria, Iraq and Iran - \"the restless Caucasus.\" From an economic, social and foreign policy point of view, Güngör concluded, Turkey is not an easy country: \"It will be very difficult to see Turkey in the EU at all.\"",
+  "relations": [
+    [
+      "Lale Akgün",
+      "German Social Democratic",
+      "member_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turks",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_gov"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_gov-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turks",
+      "head_of_gov-x"
+    ],
+    [
+      "Justice and Development Party",
+      "Turkey",
+      "based_in0"
+    ],
+    [
+      "Justice and Development Party",
+      "Turkish",
+      "based_in0-x"
+    ],
+    [
+      "Justice and Development Party",
+      "Turks",
+      "based_in0-x"
+    ],
+    [
+      "Bahaedin Güngör",
+      "Turkish Service",
+      "head_of"
+    ],
+    [
+      "Bahaedin Güngör",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Bahaedin Güngör",
+      "Turkish Service",
+      "member_of"
+    ],
+    [
+      "Maurus Reinkowski",
+      "University of Basel",
+      "member_of"
+    ],
+    [
+      "Canan Topcu",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Canan Topcu",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Canan Topcu",
+      "Turks",
+      "citizen_of-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Turks",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "German Social Democratic",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Social Democratic",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bonn",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Bonn",
+      "German",
+      "in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Turkish Service",
+      "DW",
+      "part_of"
+    ],
+    [
+      "University of Basel",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Abdullah Gul",
+      "Turks",
+      "citizen_of-x"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Abdullah Gul",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Abdullah Gul",
+      "Turks",
+      "head_of_state-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ]
+  ]
+}

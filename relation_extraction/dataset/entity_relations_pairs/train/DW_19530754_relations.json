@@ -1,0 +1,190 @@
+{
+  "content": "Turkey signals Incirlik Air Base access, if Germany \"behaves\" well\nAccess demanded by German parliamentarians to the Incirlik NATO airbase could be restored, says Turkey's foreign minister. Mevlüt Cavusoglu has warned through that any approval will depend on how Berlin \"behaves.\"\nCavusoglu's conciliatory signal via the German newspaper \"Die Welt\" Wednesday echoed Chancellor Angela Merkel's claim early this week that she expected \"good news\" in the coming days. Cavusoglu's remark preceded his visit due Wednesday to the Council of Europe in Strasbourg where the 47-nation European body is examining President Recep Tayyip Erdogan's large clampdown on officials and civilians since a failed coup in July. Ankara banned in June access to Incirlik by members of Germany's parliament, which has ultimate say over German troop deployments, in anger at the Bundestag's declaration that 1915 massacres of Armenians by Ottoman Turkish forces amounted to \"genocide.\" Germany budgets investment On Tuesday, the magazine \"Der Spiegel\" said Berlin was prepared to invest in new German facilities at the busy air base in southeastern Turkey. Cavusoglu told \"Die Welt\" Wednesday that if Germany \"behaves as it's doing now we will consider it,\" - implying restoration of parliamentarian access. \"If Germany, however, tries to treat Turkey badly then that will not be the case,\" he said, adding that his country refused to be regarded as a \"second class country.\" The impasse was eased last Friday when the German government said the Bundestag parliament's almost unanimous Armenia resolution was not binding. Merkel subsequently emerged from weekend talks with Turkish President Recep Tayyip Erdogan, saying she was hoped the ban would soon be lifted. Based at Ercirlik alongside crews from other nations are some 240 German soldiers and Tornado reconnaissance aircraft involved the international campaign against the jihadist \"Islamic State\" (IS) militia which holds parts of Syria and Iraq. Cavusoglu in Strasbourg In Strasbourg Wednesday, Cavusoglu is due to meet foreign ministers of other Council of Europe nations. NATO said Tuesday its Secretary General Jens Stoltenberg will visit Turkey on Thursday and Friday. It will be his first since the 15 July coup attempt in which more than 270 people were killed. ipj/jil (Reuters, AFD)",
+  "relations": [
+    [
+      "Incirlik Air Base",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Incirlik Air Base",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Mevlüt Cavusoglu",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Mevlüt Cavusoglu",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Mevlüt Cavusoglu",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Mevlüt Cavusoglu",
+      "Turkey",
+      "minister_of"
+    ],
+    [
+      "Mevlüt Cavusoglu",
+      "Turkish",
+      "minister_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "agent_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "citizen_of"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "citizen_of-x"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkey",
+      "head_of_state"
+    ],
+    [
+      "Recep Tayyip Erdogan",
+      "Turkish",
+      "head_of_state-x"
+    ],
+    [
+      "Islamic State",
+      "Syria",
+      "based_in0"
+    ],
+    [
+      "Islamic State",
+      "Iraq",
+      "based_in0"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Die Welt",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Die Welt",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Council of Europe",
+      "Strasbourg",
+      "based_in2"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Armenians",
+      "Armenia",
+      "gpe0"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Der Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Der Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Jens Stoltenberg",
+      "NATO",
+      "head_of"
+    ],
+    [
+      "Jens Stoltenberg",
+      "NATO",
+      "member_of"
+    ]
+  ]
+}

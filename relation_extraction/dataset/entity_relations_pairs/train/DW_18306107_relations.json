@@ -1,0 +1,150 @@
+{
+  "content": "France's far-right National Front being investigated by EU fraud squad\nThe European Parliament has asked the EU's anti-fraud body to look into possible misuse of funds by the French National Front party. Leader Marine Le Pen has threatened to lodge a complaint over the \"false allegations.\"\nThe investigation centers around 20 members of the National Front, who were paid out of the EU budget for assisting members of the European Parliament, but who allegedly work for the party in France. Assistants receiving wages from the European Parliament must work directly for parliamentary MEPs. On Monday, EU parliament president Martin Schulz informed the European Anti-Fraud Office (OLAF) of the suspected fraud, which some sources say could amount to 7.5 million euros ($8.1 million) over the current legislature, from 2014 to 2019. \"It is not for Parliament to draw conclusions, it is the OLAF to decide in its capacity as the EU anti-fraud agency,\" said European Parliament spokesman Jaume Duch. Schulz has also written to French Justice Minister Christiane Taubira to express his suspicions, the EU body said in a statement. 'Big guns' National Front Vice President Florian Philippot said the allegations were \"trumped up.\" \"In a way, Schulz is right,\" he tweeted. \"Our assistants don't work for the European Union but against it.\" The party's leader, Marine Le Pen (above right), accused the current French prime minister Manuel Valls of \"mobilizing his Socialist friends against the National Front.\" \"The EU parliament's president is bringing out the big guns. A complaint will be filed against him (Martin Schulz) for making false allegations.\" The OLAF will now to decide whether to start an investigation, and it could take several months before a decision is made. Fears of an 'unprecedented' far-right score French Prime Minister Manuel Valls warned during the weekend that the National Front could win the next presidential election in 2017, saying their policies were a \"disaster\" for the country. Polls showed that the far-right party could win an \"unprecedented\" score in local elections on March 22 and 29, Valls said. \"I fear for my country. I fear that it will smash itself to pieces against the Front National,\" Prime Minister Manuel Valls told Europe 1 radio at the weekend. Most political analysts believe that, while Le Pen could reach the runoff round in the 2017 presidential election, it would be far harder for her to defeat the mainstream candidate and win the position. dj/jr (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "National Front",
+      "France",
+      "based_in0"
+    ],
+    [
+      "National Front",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Marine Le Pen",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Marine Le Pen",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Marine Le Pen",
+      "National Front",
+      "head_of"
+    ],
+    [
+      "Marine Le Pen",
+      "National Front",
+      "member_of"
+    ],
+    [
+      "Anti-Fraud Office",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "Anti-Fraud Office",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Jaume Duch",
+      "European Parliament",
+      "member_of"
+    ],
+    [
+      "Jaume Duch",
+      "European Parliament",
+      "spokesperson_of"
+    ],
+    [
+      "Martin Schulz",
+      "European Parliament",
+      "head_of"
+    ],
+    [
+      "Martin Schulz",
+      "European Parliament",
+      "member_of"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Manuel Valls",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Manuel Valls",
+      "France",
+      "head_of_gov"
+    ],
+    [
+      "Manuel Valls",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Christiane Taubira",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Christiane Taubira",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Christiane Taubira",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Christiane Taubira",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Christiane Taubira",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "Florian Philippot",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Florian Philippot",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Florian Philippot",
+      "National Front",
+      "head_of"
+    ],
+    [
+      "Florian Philippot",
+      "National Front",
+      "member_of"
+    ]
+  ]
+}

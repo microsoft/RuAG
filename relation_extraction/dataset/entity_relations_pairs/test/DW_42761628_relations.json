@@ -1,0 +1,80 @@
+{
+  "content": "Max Meyer to leave Schalke on a free in summer?\nLeon Goretzka is already on his way to Bayern Munich and now another Schalke star might be leaving for nothing in the off-season. Clubs officials say talks are ongoing in the hope Max Meyer will extend his contract.\nSchalke might struggle to retain 22-year-old midfielder Max Meyer when his contract runs out at the end of the season, at least according to recent media interviews from the club's sporting director, Christian Heidel. Speaking to German news agency dpa, Heidel confirmed that Meyer turned down an offer of a contract extension earlier in February. \"Max Meyer's agent received an extension offer on January 12 with a deadline of February 15, and informed us on February 15 via email that Max would not be accepting the offer because of the deadline imposed,\" Heidel told dpa. \"We have acknowledged this. For now, we no longer feel beholden to the terms of that offer, but that doesn't mean an extension is impossible either.\" Meyer was reportedly offered an annual salary in the region of €5.5 million ($6.7 million); it was the second contract he refused, following a less lucrative offer at the end of last season. Read more: Leon Goretzka to join Bayern Munich in the summer 'We're still ready to talk' Under new coach Domenico Tedesco, Meyer has reclaimed a regular spot in the Schalke XI, moving to a new and more defensive role in midfield. Schalke offered improved terms in light of this development on the pitch. Heidel said this week that the club was still trying to convince the German to stay. \"At the moment we're still ready to talk,\" Heidel told this week's edition of football magazine Kicker, albeit stressing that time was of the essence. \"But we must and we will plan for the new season.\" In a separate newspaper interview Heidel was even more explicit, saying the club was not in a position to wait until summer for Meyer to make up his mind. Speaking to Sport Bild magazine, meanwhile, Heidel sought to focus on Meyer's more important role at Schalke, his regular game time, arguing it might be in the youngster's best interests to stay at a club that needs him every week. \"[Coach] Domenico Tedesco has formed the team around him in such a way that there is now an ideal spot for Max. That was not always the case,\" Heidel said. \"He needs to ask himself, putting the financial aspect to one side: 'Will I get such a position at a different club?' Because one thing's clear: Max wants to play, and he needs to play.\" Schalke are already preparing for the departure of one of German football's brightest young stars, midfield all-rounder Leon Goretzka will join Bayern Munich on a free transfer at the season's end. Read more: Schalke back on track amidst rising uncertainty around Max Meyer’s future",
+  "relations": [
+    [
+      "Max Meyer",
+      "Schalke XI",
+      "member_of"
+    ],
+    [
+      "Max Meyer",
+      "Schalke XI",
+      "player_of"
+    ],
+    [
+      "Schalke XI",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Leon Goretzka",
+      "Schalke XI",
+      "member_of"
+    ],
+    [
+      "Leon Goretzka",
+      "Bayern Munich",
+      "member_of"
+    ],
+    [
+      "Leon Goretzka",
+      "Schalke XI",
+      "player_of"
+    ],
+    [
+      "Leon Goretzka",
+      "Bayern Munich",
+      "player_of"
+    ],
+    [
+      "Bayern Munich",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Domenico Tedesco",
+      "Schalke XI",
+      "coach_of"
+    ],
+    [
+      "Domenico Tedesco",
+      "Schalke XI",
+      "member_of"
+    ],
+    [
+      "Christian Heidel",
+      "Schalke XI",
+      "head_of"
+    ],
+    [
+      "Christian Heidel",
+      "Schalke XI",
+      "member_of"
+    ],
+    [
+      "dpa",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kicker",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Sport Bild",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

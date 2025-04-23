@@ -1,0 +1,190 @@
+{
+  "content": "Glamorous icon of the swinging '60s: Julie Christie turns 75\nBorn on April 14, 1941, the British actress is most famous for playing Lara in \"Doctor Zhivago.\" Here are more roles that turned Julie Christie into a pop icon in the1960s - or that revived her career later on.\nMost starlets would probably be quite happy to have landed a role such as \"Lara\" in \"Doctor Zhivago\" once in their lives. As the young and incredibly beautiful lover of Omar Sharif alias Dr. Jurij Zhivago, Julie Christie became famous beyond her British homeland. The pompous and melodramatic movie set in the Russian Revolution was the work of British director David Lean. And Christie continued to work with outstanding British directors in the '60s and '70s, among them John Schlesinger, Richard Lester and Nicolas Roeg. Dark blue eyes and noble features: Julie Christie Christie's radiant smile that could instantly turn into moving sadness, her expressive eyes and her noble features lent a lot of glamour and depth to her roles. Christie was not just beautiful, she was also highly gifted as an actress: She played lovers and models, as well as older women afflicted with rather tragic experiences. Her performance in Joseph Losey's movie \"The Go-Between\" is unforgotten. Here, she plays a young, attractive woman with whom a 12-year-old boy in puberty falls in love. Already at age 25, Julie Christie was awarded an Oscar for best actress for her performance in the British movie, \"Darling.\" Indian-born, she became a star in Britain Christie was clever enough to not let herself be pinned down to particular roles. And when it came to working with different directors, she did not limit herself to British directors. The British actress was born on April 14, 1941, in India, where her father ran a tea plantation in Assam. And already at a relatively young age, she worked with outstanding non-British directors such as François Truffaut, John Ford and Robert Altman. There isn't really any explanation for why the '80s and '90s saw a sort of decline in her career. After all, Julie Christie continued to be extremely beautiful, and she certainly did not suddenly lose her acting skills. And yet, films shot during those decades, such as \"Dragonheart\" (1996) and \"I'm with Lucy\" (2002) have not stuck in people's memory - in contrast to box office hits such as \"Troy\" and \"Harry Potter and the Prisoner of Azkaban,\" which are remembered not so much for Christie's performance, but rather for their settings and special effects. Comeback with 'Away from Her' Julie Christie fans and international audiences were relieved when the British actress, who had once been acclaimed so much only to be quickly forgotten, succeeded in making a triumphal comeback roughly 10 years ago. She returned into people's hearts as a woman suffering from Alzheimer's. Julie Christie, hailed by critics for her performance as Fiona in \"Away from Her,\" won an Oscar nomination and, in addition to numerous prizes, a Golden Globe. For a long time, Christie, who has always been protective of her privacy, has shared her life with British journalist Duncan Campbell, whom she married in 2008 - in India, her birthplace. Christie and her husband run a farm in Wales. On April 14, 2016, Julie Christie, one of the most glamorous actresses of European cinema, turns 75. Happy birthday!",
+  "relations": [
+    [
+      "Doctor Zhivago",
+      "David Lean",
+      "created_by"
+    ],
+    [
+      "Doctor Zhivago",
+      "David Lean",
+      "directed_by"
+    ],
+    [
+      "Julie Christie",
+      "Oscar",
+      "award_received"
+    ],
+    [
+      "Julie Christie",
+      "Golden Globe",
+      "award_received"
+    ],
+    [
+      "Julie Christie",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Julie Christie",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Julie Christie",
+      "Doctor Zhivago",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "The Go-Between",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "The Go-Between",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "Darling",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "Dragonheart",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "I'm with Lucy",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "Troy",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "Harry Potter and the Prisoner of Azkaban",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "Away from Her",
+      "plays_in"
+    ],
+    [
+      "Julie Christie",
+      "Duncan Campbell",
+      "spouse_of"
+    ],
+    [
+      "David Lean",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "David Lean",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Lara",
+      "Doctor Zhivago",
+      "character_in"
+    ],
+    [
+      "Jurij Zhivago",
+      "Doctor Zhivago",
+      "character_in"
+    ],
+    [
+      "John Schlesinger",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "John Schlesinger",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Richard Lester",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Richard Lester",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Roeg",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Roeg",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "The Go-Between",
+      "Joseph Losey",
+      "created_by"
+    ],
+    [
+      "The Go-Between",
+      "Joseph Losey",
+      "directed_by"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Assam",
+      "India",
+      "in0"
+    ],
+    [
+      "Assam",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Fiona",
+      "Away from Her",
+      "character_in"
+    ],
+    [
+      "Duncan Campbell",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Duncan Campbell",
+      "Britain",
+      "citizen_of-x"
+    ],
+    [
+      "Duncan Campbell",
+      "Julie Christie",
+      "spouse_of"
+    ],
+    [
+      "Wales",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Wales",
+      "Britain",
+      "in0-x"
+    ]
+  ]
+}

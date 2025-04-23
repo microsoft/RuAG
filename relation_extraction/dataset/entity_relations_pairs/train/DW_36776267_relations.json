@@ -1,0 +1,150 @@
+{
+  "content": "Russia, Brexit and Aleppo loom over year-end EU summit\nEU leaders are facing a \"minefield\" of crises in their final Brussels summit of 2016. Leaders appear split on extending sanctions against Russia, approving a Ukraine deal, responses to Aleppo and Brexit negotiations.\nEuropean Union leaders and heads of state gathered in Brussels on Thursday for a one-day summit to discuss what European Commission President Jean-Claude Juncker has dubbed the bloc's \"poly-crisis\" - or several interlinking crises. \"This time we are dealing with a poly-crisis,\" Juncker told German public broadcaster ZDF on Wednesday ahead of the summit. \"It is burning all over the place - not just in European corners.\" The EU leaders are set to discuss extending sanctions against Russia over the Ukraine, as well as a contentious deal with the Ukraine which is opposed by the Netherlands. \"We are treading on a minefield, there are so many issues on the agenda that still can go wrong,\" a senior EU official told news agency AFP ahead of the summit. Brexit talks In the evening, 27 EU leaders will hold an informal working dinner without British Prime Minister Theresa May where they will try to present a united front on negotiations for the United Kingdom's departure from the EU. Prior to that meeting, May will join the other leaders to discuss the other contentious issues. \"We want that to be as smooth and orderly a process as possible. It is not just in our interests, it is in the interests of Europe as well,\" she said on Thursday as she arrived at the summit. EU leaders have insisted that there can be no Brexit discussions with the UK until May formally starts the divorce process, slated to last two years. She has said Britain intends on triggering Article 50 by the end of March next year. Split on sanctions extension The bloc is expected on Thursday to renew sanctions against Russia over its actions in eastern Ukraine and the stalled implementation of the Minsk peace deal. Some EU leaders, however, have criticized the extensions, with Slovakian Prime Minister Robert Fico calling the plan \"senseless.\" The Slovakian leader, whose country currently holds the rotating EU presidency, said that both Russia and Ukraine have been delinquent in fulfilling the peace accord. \"Both states still have a lot to do. Our black-and-white view is dangerous and bad,\" Fico said before parliament in Bratislava on Wednesday. Earlier this week, German Chancellor Angela Merkel and French President Francois Hollande said they support sanction extensions. Juncker also opposed instating new sanctions against Moscow over its actions in Syria, saying the move would \"not influence\" Russia. Concerning the current humanitarian crisis in Aleppo and the situation in Syria, Juncker also deflected criticism that the EU should have sent soldiers to intervene, adding that he did not believe \"that there are many Europeans who want to die because of Syria.\" However, Juncker expects European leaders at the summit to examine \"all available options\" for a humanitarian solution to the deadly conflict. EU-Ukraine deal on thin ice One of the most urgent issues facing EU leaders is a stalled agreement for political and commercial ties between the bloc and Ukraine. Without agreement at this summit, the deal is in danger of falling through. Dutch voters rejected the so-called association agreement with Kyiv at a referendum back in April. As a result of this, the Netherlands is the only EU member state that has not yet ratified the agreement and wants to clarify that the deal does not put Ukraine on the path to EU membership. Dutch Prime Minister Mark Rutte said he was \"a bit more optimistic\" on Thursday that his fellow leaders would back proposed amendments to the deal. \"I'm motivated to get this done,\" Rutte told reporters. \"I do this because we are deeply convinced that we cannot risk European unity towards Russia.\" rs/msh (AFP, dpa, Reuters)",
+  "relations": [
+    [
+      "Aleppo",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Jean-Claude Juncker",
+      "European Commission",
+      "head_of"
+    ],
+    [
+      "Jean-Claude Juncker",
+      "European Commission",
+      "member_of"
+    ],
+    [
+      "Theresa May",
+      "United Kingdom",
+      "agent_of"
+    ],
+    [
+      "Theresa May",
+      "United Kingdom",
+      "citizen_of"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Theresa May",
+      "United Kingdom",
+      "head_of_gov"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Mark Rutte",
+      "Netherlands",
+      "citizen_of"
+    ],
+    [
+      "Mark Rutte",
+      "Dutch",
+      "citizen_of-x"
+    ],
+    [
+      "Mark Rutte",
+      "Netherlands",
+      "head_of_gov"
+    ],
+    [
+      "Mark Rutte",
+      "Dutch",
+      "head_of_gov-x"
+    ],
+    [
+      "Robert Fico",
+      "Slovakian",
+      "citizen_of-x"
+    ],
+    [
+      "Robert Fico",
+      "Slovakian",
+      "head_of_state-x"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "ZDF",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "ZDF",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "AFP",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "British",
+      "United Kingdom",
+      "gpe0"
+    ],
+    [
+      "Article 50",
+      "European Union",
+      "law_of"
+    ],
+    [
+      "Bratislava",
+      "Slovakian",
+      "in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Hollande",
+      "Francois Hollande",
+      "head_of_state-x"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ]
+  ]
+}

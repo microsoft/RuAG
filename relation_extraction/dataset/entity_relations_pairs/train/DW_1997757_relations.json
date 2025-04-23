@@ -1,0 +1,75 @@
+{
+  "content": "Creators Praise Popularity of Berlin Holocaust Monument\nAs the Holocaust Memorial in Berlin nears its first anniversary, initiators looked back at a year of controversy -- and success.\nThe Memorial to the Murdered Jews in Europe in Berlin was visited by 3.5 million people in its first year, organizers said, but nonetheless it remains controversial. Even today, the response to the site is divided, acknowledged Lea Rosh, the activist who fought for years to establish a German memorial to European Jews killed by the Nazis. Looking back at the year, Salomon Korn, a member of the memorial's board of trustees, admitted the memorial was not to everyone's liking. But, he said, the number of visitors attested to the monument's power. The memorial, not far from the Brandenburg Gate, consists of an open space covered with 2,700 gray cement columns of different heights, and an underground Information Center. Uwe Neumärker, who heads up the foundation that created the memorial -- officially the Foundation for the Memorial to the Murdered Jews -- acknowledges that the 3.5 million visitor number is just an estimate. Still, the underground information center had 490,000 registered visitors, making the site a \"tourism magnet,\" he said. Respectful treatment Despite fears of vandalism, the monument has been treated with respect, Neumärker said. And in the underground documentation center, which contains historical information on the genocide perpetrated by the Nazis, the people are \"well behaved and quiet, without us having to tell them,\" he added. The monument was designed by US architect Peter Eisenman, at a total cost of 27 million euros ($35 million). It opened with a ceremony on May 10, 2005, in the presence of 1,200 guests. Two days later, it was opened to the public. This year, on May 13 a \"long night of memorial,\" with readings, discussions and theater performances, is planned. The association's Korn, speaking on Germany's national Deutschlandradio, said the strength of the field of pillars is that it doesn't have a single given message, but rather is open to interpretation from everyone. And criticism of the plan -- for instance, that it is unfair to have a monument only to murdered Jews and not to other groups that were persecuted by the Nazis, like the Sinti-Roma or homosexuals -- has died down somewhat, acknowledged initiator Rosh. \"It is wonderful for us to see so many people going there,\" she said. And, she noted, visitors did not seem to have an attitude that the Holocaust was something no longer important and best left in the past. Little vandalism Up to now, there have been five cases of swastikas being painted on the memorial's pillars, and one star of David. Neumärker discounted the vandalism, calling it \"basically, nothing.\" During the creation of the monument, Rosh set off an outcry when she said she planned to bury the tooth of a Holocaust victim under one of the columns. There was also a discussion over appropriate monument behavior, given the penchant of certain younger visitors to hop from pillar to pillar. A sausage stand at the monument's edge (it is accessible from all sides, and open around the clock, seven days a week) also came under heavy fire. Now, a private builder has set up a disputed pavilion that houses a café, bookstore and snack stand. \"There is always debate over this monument. And that's a good thing. As long as people are talking about it, it will stay alive,\" Neumärker said.",
+  "relations": [
+    [
+      "Memorial to the Murdered Jews in Europe",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Memorial to the Murdered Jews in Europe",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Uwe Neumärker",
+      "Foundation for the Memorial to the Murdered Jews",
+      "head_of"
+    ],
+    [
+      "Uwe Neumärker",
+      "Foundation for the Memorial to the Murdered Jews",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Brandenburg Gate",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Brandenburg Gate",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Information Center",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Information Center",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Peter Eisenman",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Deutschlandradio",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutschlandradio",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

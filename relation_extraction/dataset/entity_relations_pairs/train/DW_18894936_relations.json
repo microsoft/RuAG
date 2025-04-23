@@ -1,0 +1,100 @@
+{
+  "content": "EU eyes bloc-wide air passenger database\nEU interior ministers have urged the European Parliament to approve a data sharing system that could be employed to track suspected extremists. France has pushed hard for EU system as debate over privacy continues.\nAs EU interior ministers meet Friday in Brussels, France has renewed its push for a Passenger Name Records (PNR) system for air passengers that could be used to track suspected violent extremists. \"It's very important that we have the Passenger Name Records,\" French Interior Minister Bernard Cazeneuve told reporters as he joined colleagues for talks on security. \"Terrorists use intra-European flights, and we have to trace their movements in order to be able to prevent terrorist risks.\" The German government also supports the initiative. \"We could spot early on if dangerous people come to Europe, which routes they take and what their networks are like,\" German Interior Minister Thomas de Maiziere said. Such a measure would require approval from the European Parliament, which for the past two years has debated the privacy implications of a European PNR system similar to ones already in use in the United States, Canada and Australia. But recent attacks in France has helped buoy support among European lawmakers, especially as individual EU members have already begun building their own systems leading to a patchwork of competing systems that critics say could be even more vulnerable to compromise. \"An EU PNR system with robust protections for personal data is far preferable to 28 EU PNR systems and a patchwork of regimes,\" said Timothy Kirkhope, the lead EU lawmaker chaperoning the deal through the European Parliament. \"We are almost there on a deal.\" As currently drafted, the agreement would give law enforcement agencies in the 28 EU nations access to information gathered by airlines, including names, travel dates, itinerary, credit card and contact details. \"We could spot early on if dangerous people come to Europe, which routes they take and what their networks are like,\" German Interior Minister Thomas de Maiziere said. Devil's in the details Yet sticking points remain over how long personal data could be stored in databases. European Parliament, in its latest official position, has insisted identity records be \"masked\" after six months so that officials would only be able to track trends but not individuals. France wants to keep full data for at least a year and is expected to use the recent extremist attacks on its soil to make its case. \"I'm going to work to convince my European colleagues who still have to be convinced of the need to implement what parliament recommends and which would allow a high level of protection,\" Cazeneuve said. For years, Washington has been pushing the EU to adopt a PNR system to tighten security, and US President Barack Obama once again called on the EU to implement it in the wake of the November 13 attacks that left 130 people dead in Paris. An EU-US agreement over the exchange of data has already been reached. The European Commission, the EU's executive arm, said that deal offers full data protection but many European parliamentarians were suspicious of its safeguards and repeatedly held up approval. jar/sms (AP, AFP, dpa)",
+  "relations": [
+    [
+      "European Parliament",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "Europe",
+      "part_of"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Bernard Cazeneuve",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Thomas de Maiziere",
+      "German",
+      "minister_of-x"
+    ],
+    [
+      "Timothy Kirkhope",
+      "European Parliament",
+      "member_of"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "Europe",
+      "part_of"
+    ]
+  ]
+}

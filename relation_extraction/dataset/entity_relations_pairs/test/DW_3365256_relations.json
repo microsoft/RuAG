@@ -1,0 +1,130 @@
+{
+  "content": "Switzerland Calls on Private Security Firms for Euro 2008\nIn addition to enlisting foreign police during Euro 2008, Switzerland will also be bringing in private security personnel from Germany, reported a Swiss newspaper.\n\"We have to turn to about 500 private security personnel from Germany,\" Urs Stadler, spokesman for a security firm consortium told the Monday, May 26, edition of Swiss newspaper Tages Anzeiger. \"Most of them were already in operation during the World Cup two years ago, and have relevant experience,\" added Stadler from Prisec, a consortium made up of the companies Protectas and Securitas. The spokesman said more help was needed, but could not give exact numbers \"due to pending assignments.\" Recent soccer violence raises concern Swiss media has been questioning the security preparations for Euro 2008 after a spate of violence at recent games. In the latest incident, seats were ripped out and a goal post wrenched from the ground after St. Gallen faced the prospect of relegation following a 2-0 defeat to Bellinzona on May 20. St. Gallen was the third incident in a month that saw violent clashes with police who twice resorted to rubber bullets and tear gas. While Switzerland is seen as a low risk country in terms of hooliganism, violence has been on the increase in recent years and estimates claim there are around 400 hooligans and 600 sympathizers. Swiss Sports Minister Samuel Schmid said that hooliganism cannot be ruled out, reported German news agency DPA. But he expressed his belief that extra measures such as more policing, restrictions on alcohol -- which he has called \"a catalyst for violence\" -- and video surveillance will help keep trouble at bay. Private firms to boost European police The private security companies will be responsible for patrolling the stadiums and their surroundings, as well as the public viewing areas, team hotels and trainings areas. An international police force will manage the rest. Switzerland has committed some 31,200 police officers and soldiers. Another 1,700 police will be sent from Germany, which will have the authority to make arrests. France will offer the third largest contingent with 750 officers and Croatia, Poland, Sweden, Greece, Russia and Spain will also send reinforcements.",
+  "relations": [
+    [
+      "Euro 2008",
+      "Switzerland",
+      "event_in0"
+    ],
+    [
+      "Urs Stadler",
+      "Prisec",
+      "member_of"
+    ],
+    [
+      "Swiss",
+      "Switzerland",
+      "gpe0"
+    ],
+    [
+      "Tages Anzeiger",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Tages Anzeiger",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "St. Gallen",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "St. Gallen",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "St. Gallen",
+      "Bellinzona",
+      "vs"
+    ],
+    [
+      "Bellinzona",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Bellinzona",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Bellinzona",
+      "St. Gallen",
+      "vs"
+    ],
+    [
+      "Bellinzona",
+      "St. Gallen",
+      "won_vs"
+    ],
+    [
+      "Sports",
+      "Switzerland",
+      "agency_of"
+    ],
+    [
+      "Sports",
+      "Swiss",
+      "agency_of-x"
+    ],
+    [
+      "Sports",
+      "Switzerland",
+      "based_in0"
+    ],
+    [
+      "Sports",
+      "Swiss",
+      "based_in0-x"
+    ],
+    [
+      "Sports",
+      "Switzerland",
+      "ministry_of"
+    ],
+    [
+      "Samuel Schmid",
+      "Switzerland",
+      "agent_of"
+    ],
+    [
+      "Samuel Schmid",
+      "Switzerland",
+      "citizen_of"
+    ],
+    [
+      "Samuel Schmid",
+      "Swiss",
+      "citizen_of-x"
+    ],
+    [
+      "Samuel Schmid",
+      "Switzerland",
+      "minister_of"
+    ],
+    [
+      "Samuel Schmid",
+      "Swiss",
+      "minister_of-x"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "DPA",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DPA",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

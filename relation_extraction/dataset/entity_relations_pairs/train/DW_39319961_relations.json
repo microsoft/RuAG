@@ -1,0 +1,265 @@
+{
+  "content": "French government resigns in election formality\nIn a post-election formality, French Prime Minister Edouard Philippe has tendered his government's resignation. President Emmanuel Macron has reinstated him and is expected to name a new government on Wednesday.\nThe French government resigned on Monday in a post-legislative-election formality. President Emmanuel Macron immediately reappointed Prime Minister Edouard Philippe and asked the right winger to form a new cabinet, Macron said in a statement. He was due to form a government on Wednesday. Macron's centrist En Marche! party won a decisive victory in a parliamentary election, allowing his government to quickly pass laws in the future. Government spokesman Christophe Castaner told RTL radio the government reshuffle would be \"technical and not far-reaching.\" Macron asked close ally Richard Ferrand, who is embroiled in a conflict of interest scandal, to leave his cabinet and seek the leadership of his party in parliament. His planned reshuffle was slightly delayed by an attempted attack on the Champs-Elysees on Monday afternoon. Security bills Following the attack Interior Minister Gerard Collomb said he would present a bill at cabinet meeting on Wednesday to extend France's state of emergency from July 15, its current expiration date, until November 1. Macron's government was expected to pass its first set of measures during a special parliamentary session starting on June 27. The laws were expected to include moves to strengthen security, improve ethics in politics and reform France's restrictive labor laws. En Marche! and its centrist ally MoDem won 350 seats in the 577-seat assembly. The conservative opposition, the Republicans, won a total of 130 seats with their allies. The Socialist Party of Macron's predecessor, Francois Hollande, lost more than 250 seats, obtaining just 30. Following the initial results, Prime Minister Edouard Philippe said the voters had given a clear majority to President Macron, and that his government was \"humbled and determined\" after securing a victory in the polls. Philippe also said the diversity of new lawmakers was a good sign for France. \"This majority will have a mission: to work for France,\" the PM said. \"With their vote, the French have, by a wide majority, chosen hope over rage, optimism over pessimism, confidence over withdrawal.\" The newly-elected parliament is nearly six years younger on average than the previous, have a record 224 women lawmakers, and will be strikingly more varied in background. German Chancellor Angela Merkel was among the first to congratulate Macron. She lauded him for winning a \"clear parliamentary majority\" in elections Sunday, government spokesman Steffen Seibert said. Seibert added, in a tweet, that Merkel wished for \"further good cooperation for Germany, France, Europe.\" aw/tj (AFP, AP, Reuters, dpa)",
+  "relations": [
+    [
+      "Edouard Philippe",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Edouard Philippe",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Edouard Philippe",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Edouard Philippe",
+      "France",
+      "head_of_gov"
+    ],
+    [
+      "Edouard Philippe",
+      "French",
+      "head_of_gov-x"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Emmanuel Macron",
+      "En Marche!",
+      "head_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Emmanuel Macron",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Emmanuel Macron",
+      "En Marche!",
+      "member_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Steffen Seibert",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Steffen Seibert",
+      "German",
+      "agent_of-x"
+    ],
+    [
+      "Steffen Seibert",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Steffen Seibert",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "En Marche!",
+      "France",
+      "based_in0"
+    ],
+    [
+      "En Marche!",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Christophe Castaner",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Christophe Castaner",
+      "French",
+      "agent_of-x"
+    ],
+    [
+      "Christophe Castaner",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Christophe Castaner",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "RTL radio",
+      "France",
+      "based_in0"
+    ],
+    [
+      "RTL radio",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Richard Ferrand",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Richard Ferrand",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Champs-Elysees",
+      "France",
+      "in0"
+    ],
+    [
+      "Champs-Elysees",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Gerard Collomb",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Gerard Collomb",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Gerard Collomb",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Gerard Collomb",
+      "France",
+      "minister_of"
+    ],
+    [
+      "Gerard Collomb",
+      "French",
+      "minister_of-x"
+    ],
+    [
+      "MoDem",
+      "France",
+      "based_in0"
+    ],
+    [
+      "MoDem",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Republicans",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Republicans",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Socialist Party",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Socialist Party",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Hollande",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Francois Hollande",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Francois Hollande",
+      "Socialist Party",
+      "member_of"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ]
+  ]
+}

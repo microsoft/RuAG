@@ -1,0 +1,40 @@
+{
+  "content": "EU wants states to return migrants to Greece\nThe EU executive has recommended member states resume returning migrants to Greece next year. The aim is to restore the Dublin accord which fell apart due to Athens' money troubles and an influx of people seeking asylum.\nThe new policy would only apply to newcomers leaving Greece after March 15, 2017, the European Commission, the EU executive, said on Thursday. According to their recommendation, the change would not affect unaccompanied minors and vulnerable groups of migrants. Italy and Greece are by far the main entry points for migrants from outside the EU. Under the Dublin accord, countries are obligated to process asylum requests for all who enter the EU through their territory. If the asylum seeker later leaves the \"country of first entry\" and travels to other EU states, the first country is obligated to take them back. However, Greece was made exempt from this rule in 2011, when a court decided that conditions for migrants were \"degrading\" in the debt-ridden country. The Dublin accords were also deeply undermined by the unprecedented arrival of about a million people seeking refuge in 2015. Overwhelmed by the influx, Greek authorities started waving the migrants through their territory and toward richer EU countries like Germany and Sweden, which were also the destinations of choice for the migrants. This eventually led the countries north of Greece to close their borders and put the passport-free travel policy of the Schengen zone at risk. EU commissioner praises Greece With the EU-Turkey deal slowing the flow of migrants to Greece, Brussels is seeking a way to resume its former policy. \"We are recommending the gradual resumption of Dublin transfers of asylum seekers starting next year,\" EU Migration Commissioner Dimitris Avramopoulos told a press conference on Thursday. Greece would also need to provide guarantees that every individual migrant would receive proper treatment, EU officials said. Avramopoulos, who once served as Greek defense minister, said he wanted to praise Athens' progress \"under very pressing, very difficult conditions to put in place a fully functioning asylum system\" in recent months. Amnesty slams Brussels The European Commission also called on other countries to step up their involvement with the troubled relocation scheme, that aimed to resettle 160,000 people from Italy and Greece to other EU countries. Various members of the bloc refused to take part altogether. Commenting on the Thursday's recommendation, Amnesty International's Iverna McGowan said it was \"outrageously hypocritical\" of the commission to \"insinuate that Greece alone is to blame\" for the bad conditions in which migrants live. The troubles are caused by the EU-Turkey deal and the \"lack of solidarity from other EU countries to relocate people,\" she said. dj/se (AFP, Reuters, dpa)",
+  "relations": [
+    [
+      "European Commission",
+      "EU",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "EU",
+      "part_of"
+    ],
+    [
+      "Dimitris Avramopoulos",
+      "EU",
+      "member_of"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Iverna McGowan",
+      "Amnesty International",
+      "member_of"
+    ]
+  ]
+}

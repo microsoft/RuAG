@@ -1,0 +1,185 @@
+{
+  "content": "French presidential debate does little to woo undecided voters\nThis year's French presidential race is perhaps the most closely watched election in recent history. Many voters are still undecided, including those in the Paris café where DW's Jake Cigainero saw the latest TV debate.\nJust over two weeks ahead of the first round of voting in France's presidential election, all 11 candidates met for the second televised debate of the campaign. It was the first time in the history of French elections that the entire official ballot shared a television stage. This race for the Elysee is perhaps the most closely watched election in the history of the Fifth Republic in view of conservative candidate Francois Fillon's embezzlement charges, the deterioration of the left, political amateur Emmanuel Macron's surprise surge to the top, and the rise of Marine Le Pen's National Front. With so much media attention on the five main candidates, Tuesday's debate felt almost like a consolation for the six other candidates rarely in the spotlight. For French voters watching the televised debate at Cafe des Phares on Place de la Bastille, the saturated stage kept the candidates from detailed discussion of pressing issues. For those who are still undecided, the debate did little to bring them closer to choosing their pick for president. Vincent Couronne, a researcher, said it was good to see candidates who don't get as much media attention. However, 11 candidates at once for the political spectator was overkill. \"It wasn't very interesting. It's just one position after another. There's no real debate. It's not like when it was just five candidates.\" Boredom all round Charlotte Theuvenin and her friends, all students in their early 20s, tuned out early on from boredom and exasperation. \"It was too flat and too hypocritical. Fillon and Le Pen play with our money, then say they did nothing and that they are good for our country,\" she said. As though addressing the candidates in front of her on the TV screen, she added, \"How dare you talk about being president when you use our money for your own interests.\" Le Pen had come under fire over accusations that she misused public funds to pay bodyguards as parliamentary assistants. Francois Fillon of Les Republicains, meanwhile, is under investigation for allegedly paying family members more than 1 million euros ($1.1 million) for government work they never carried out. Frequently casting a blank stare at his opponents, Fillon also seemed bored, or at least more subdued compared to the first debate. Couronne said, \"Fillon seems to be not there. Probably because he knows all the small candidates can attack him on the criminal offenses he's accused of.\" Debate watchers cited Europe as the most important issue of this election, with many fearing Le Pen's promise to tear France out of the European Union in a so-called Frexit. Though no one at the cafe vocally supported Le Pen's plan, several acknowledged the EU is a pressure point for France. \"France's place in Europe in relation to Germany is a very important issue,\" said student Thibault Cirier. \"The general problem is France has lost its influence at the European level over the years, and that needs to be remedied, because France is one of the founders of Europe and should have a strong place in the union. The EU is also important for cohesion and to have a strong position internationally.\" Café viewers say no to Le Pen Cirier was initially excited by Macron when he launched his campaign, but ultimately decided there was no substance. Now he says he will probably vote for far-left candidate Jean-Luc Melenchon. Kevser Taspinar also said she liked Melenchon for his fighting spirit and that \"he throws barbs.\" As a practicing Muslim who wears a headscarf, she said the most important issue for her is laicite, France's state institution of secularism. \"For me Hamon has the best interpretation of this. Maybe Hamon,\" Taspinar said hesitating. \"I'm still undecided, because there's Melenchon.\" Another viewer, Marie Dubois, said that although she really liked Melenchon, she had definitively decided on Macron. \"Melenchon has a way of putting humanity in politics and giving hope,\" she said. \"But Macron is the only possible candidate.\" With polls putting Le Pen and Macron in the second round on May 7, the undecided voters at this Paris cafe said they were certain which candidate they would not for vote for in that scenario. \"Definitely Macron. There is no way I am going to vote for Le Pen,\" Theuvenin said. \"I will never vote for that woman or Front National, no matter who is running against them in the second round.\" Tuesday was the final debate for Macron and Melenchon, two of the crowd-pleasers among the candidates. Both have pulled out of the third debate on grounds that it cuts too close to the first vote just two days later on April 23.",
+  "relations": [
+    [
+      "National Front",
+      "France",
+      "based_in0"
+    ],
+    [
+      "National Front",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Kevser Taspinar",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Kevser Taspinar",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Thibault Cirier",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Thibault Cirier",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Emmanuel Macron",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Emmanuel Macron",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Marine Le Pen",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Marine Le Pen",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Marine Le Pen",
+      "National Front",
+      "head_of"
+    ],
+    [
+      "Marine Le Pen",
+      "National Front",
+      "member_of"
+    ],
+    [
+      "Francois Fillon",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Francois Fillon",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Francois Fillon",
+      "Les Republicains",
+      "member_of"
+    ],
+    [
+      "Jean-Luc Melenchon",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Jean-Luc Melenchon",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Charlotte Theuvenin",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Charlotte Theuvenin",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Vincent Couronne",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Vincent Couronne",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Paris",
+      "France",
+      "in0"
+    ],
+    [
+      "Paris",
+      "French",
+      "in0-x"
+    ],
+    [
+      "DW",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Jake Cigainero",
+      "DW",
+      "member_of"
+    ],
+    [
+      "Elysee",
+      "France",
+      "in0"
+    ],
+    [
+      "Elysee",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Cafe des Phares",
+      "France",
+      "in0"
+    ],
+    [
+      "Cafe des Phares",
+      "French",
+      "in0-x"
+    ],
+    [
+      "Les Republicains",
+      "France",
+      "based_in0"
+    ],
+    [
+      "Les Republicains",
+      "French",
+      "based_in0-x"
+    ],
+    [
+      "Hamon",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Hamon",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Marie Dubois",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Marie Dubois",
+      "French",
+      "citizen_of-x"
+    ]
+  ]
+}

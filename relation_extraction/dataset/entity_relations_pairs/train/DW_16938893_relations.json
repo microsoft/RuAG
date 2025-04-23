@@ -1,0 +1,50 @@
+{
+  "content": "European Court of Human Rights overrules Britain on murder jail terms\nA European Court has ruled that Britain violated the rights of three convicted murderers by jailing them for life with no prospect of release. Britain's Justice Secretary criticized the decision.\nThe European Court of Human Rights in Strasbourg has ruled that sentences passed on three convicted British murderers constituted inhuman and degrading treatment. \"Given ... the absence of a dedicated review mechanism for whole life orders, the Court was not persuaded that, at the present time, the applicants' life sentences were compatible with Article 3,\" wrote the court. It cited the European Convention on Human Rights' provision that prohibits torture, and inhumane and degrading treatment. The convention has the power of law in all signatory countries. British conservatives are already pushing for its repeal and Tuesday's decision looks set to strengthen their hand. British Justice Secretary Chris Grayling commented: \"What the court is saying is that a judge can no longer tell the most appalling criminals that they will never be released. I think the people who wrote the original Human Rights Convention would be turning in their graves at this ruling.\" The ruling overturned a January 2012 judgment by a panel of seven judges at the European court that found the sentences of Jeremy Bamber, jailed for murdering five members of his family in 1985, serial killer Peter Moore and multiple-murderer Douglas Vinter, did not amount to inhumane or degrading treatment. The decision does not assure the petitioners any prospect of imminent release but it struck down a key British sentencing guideline. Further appeals by other British prisoners serving life terms, including some of the most notorious killers in the country's recent history, are now expected. Meanwhile, Britain announced on Tuesday it would opt out almost 100 EU measures on policing and criminal justice. For technical reasons, the move means the country first has to withdraw from all 133 such measures. However, Home Secretary Theresa May said Britain would rejoin 35 of them, including the controversial European arrest warrant scheme. jm/rc (Reuters, AP, AFP)",
+  "relations": [
+    [
+      "European Court of Human Rights",
+      "Strasbourg",
+      "based_in2"
+    ],
+    [
+      "Chris Grayling",
+      "Chris Grayling",
+      "agent_of"
+    ],
+    [
+      "Chris Grayling",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Jeremy Bamber",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Peter Moore",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Douglas Vinter",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Theresa May",
+      "Britain",
+      "agent_of-x"
+    ],
+    [
+      "Theresa May",
+      "British",
+      "agent_of-x"
+    ],
+    [
+      "Theresa May",
+      "Britain",
+      "citizen_of"
+    ]
+  ]
+}

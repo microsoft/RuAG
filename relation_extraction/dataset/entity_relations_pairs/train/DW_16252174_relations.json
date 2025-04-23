@@ -1,0 +1,250 @@
+{
+  "content": "Nationwide strike a partial success in India\nOpposition parties and trade unions in India took to the streets in a day-long strike over the government's plan to open the retail sector to global supermarket chains to kickstart a sluggish economy.\nPrime Minister Manmohan Singh's government has been buffeted by a string of corruption scandals and now faces another serious problem - one of his own survival, as it is now up in the air whether his government will last its full term until 2014. Having announced a raft of reforms designed to revive a slowing economy - a move that has sparked a furious backlash - the biggest ally pulled out of the shaky coalition earlier this week raising the risk of an early election. In response, a majority of traders and shopkeepers especially in opposition-ruled states downed shutters while supporters blocked railways tracks. Road traffic was totally paralyzed in eastern state of West Bengal, which also witnessed sporadic clashes between supporters of the Communist Party of India (Marxist) and the ruling Trinamool Congress. \"This is only the beginning, our struggle will continue till these anti-people polices are reversed. The government should not underestimate the power of dissent and today it was there for all to see,\" said Bharatiya Janata Party (BJP) president Nitin Gadkari. Just last week, Prime Minister Manmohan Singh's government announced the decision to go ahead with the Foreign Direct Investment (FDI) in retail, aviation and broadcasting following criticism against it over policy paralysis. It also announced the decision to hike diesel prices by 14 percent to reduce the increasing subsidy costs faced by the country. Life crippled in opposition-ruled states The decisions forced the Trinamool Congress, a key ally propping the government, to snap ties with the ruling alliance in Delhi. Realizing the government was in a spot, opposition parties made political capital and organized a nationwide shutdown. \"The tragedy is that our prime minister (Manmohan Singh) has begun to worship the US. We are heading towards economic slavery,\" said Communist Party of India-Marxist leader Sitaram Yechury. While Mumbai, the financial hub of India, was largely untouched as the Shiv Sena - which rules the city's municipal corporation - was not supporting the strike, public transport was skeletal in other major cities, including New Delhi, Kolkata, Chennai and Bangalore. The Confederation of All India Traders (CAIT), one of the biggest groupings of Indian traders, claimed that an estimated 50 million shopkeepers across India had participated in it. \"The strike was very successful. All our 25,000 trade associations had called the strike and all traders participated in it,\" said Praveen Khandelwal, the group's general secretary. Shutdown bleeds economy The government put up a brave front despite the strike's success in vast swathes of the country and maintained protesters were only hurting the economy they claimed to be defending. \"The right to protest is a democratic one and nobody is disputing that. But the hurt it is causing to casual workers and those in factories who have to earn wages is enormous. Also the economy suffers,\" said federal Finance Minister P. Chidambaram. According to the Confederation of Indian Industry (CII), a business chamber of commerce, the nationwide strike is estimated to cause losses running to the tune 2.25 billion US dollars (around 1.7 billion euros) to the Indian economy. \"Today's bandh [strike] has been disruptive for business and trade in many parts of the country. While an exact loss for the entire economy is not known, it can be estimated that almost 12,500 crore [125 billion] rupees has been the loss to the country in terms of disruptions in production and trade,\" the CII said in a statement. The industry association also asked the government not to roll back the recent reform measures under political pressure.",
+  "relations": [
+    [
+      "Manmohan Singh",
+      "India",
+      "agent_of"
+    ],
+    [
+      "Manmohan Singh",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Manmohan Singh",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Manmohan Singh",
+      "India",
+      "head_of_gov"
+    ],
+    [
+      "Manmohan Singh",
+      "Indian",
+      "head_of_gov-x"
+    ],
+    [
+      "Communist Party of India",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Communist Party of India",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Trinamool Congress",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Trinamool Congress",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Bharatiya Janata Party",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Bharatiya Janata Party",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Confederation of Indian Industry",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Confederation of Indian Industry",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "Confederation of All India Traders",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Confederation of All India Traders",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "West Bengal",
+      "India",
+      "in0"
+    ],
+    [
+      "West Bengal",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Nitin Gadkari",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Nitin Gadkari",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Nitin Gadkari",
+      "Bharatiya Janata Party",
+      "head_of"
+    ],
+    [
+      "Nitin Gadkari",
+      "Bharatiya Janata Party",
+      "member_of"
+    ],
+    [
+      "Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "Delhi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Sitaram Yechury",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Sitaram Yechury",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Sitaram Yechury",
+      "Communist Party of India",
+      "head_of"
+    ],
+    [
+      "Sitaram Yechury",
+      "Communist Party of India",
+      "member_of"
+    ],
+    [
+      "Mumbai",
+      "India",
+      "in0"
+    ],
+    [
+      "Mumbai",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Shiv Sena",
+      "India",
+      "based_in0"
+    ],
+    [
+      "Shiv Sena",
+      "Indian",
+      "based_in0-x"
+    ],
+    [
+      "New Delhi",
+      "India",
+      "in0"
+    ],
+    [
+      "New Delhi",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Kolkata",
+      "India",
+      "in0"
+    ],
+    [
+      "Kolkata",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Chennai",
+      "India",
+      "in0"
+    ],
+    [
+      "Chennai",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Bangalore",
+      "India",
+      "in0"
+    ],
+    [
+      "Bangalore",
+      "Indian",
+      "in0-x"
+    ],
+    [
+      "Indian",
+      "India",
+      "gpe0"
+    ],
+    [
+      "Praveen Khandelwal",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "Praveen Khandelwal",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "Praveen Khandelwal",
+      "Confederation of All India Traders",
+      "head_of"
+    ],
+    [
+      "Praveen Khandelwal",
+      "Confederation of All India Traders",
+      "member_of"
+    ],
+    [
+      "P. Chidambaram",
+      "India",
+      "agent_of"
+    ],
+    [
+      "P. Chidambaram",
+      "India",
+      "citizen_of"
+    ],
+    [
+      "P. Chidambaram",
+      "Indian",
+      "citizen_of-x"
+    ],
+    [
+      "P. Chidambaram",
+      "India",
+      "minister_of"
+    ],
+    [
+      "P. Chidambaram",
+      "Indian",
+      "minister_of-x"
+    ]
+  ]
+}

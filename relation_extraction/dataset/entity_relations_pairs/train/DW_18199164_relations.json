@@ -1,0 +1,120 @@
+{
+  "content": "'We are not xenophobic': PEGIDA\nA spokesperson for anti-Islamization group PEGIDA has said the organization will not give up, despite death threats against the group's founder. Police have temporarily banned the group's weekly Monday marches.\nOne of the organizers of Dresden's weekly PEGIDA (\"Patriotic Europeans Against the Islamization of the West\") marches has argued that her group's message is simply misunderstood. Appearing on a Sunday evening episode of Günther Jauch's talk show on German public broadcaster ARD, Kathrin Oertel argued that most people had a \"false impression\" of her organization. Oertel's appearance was the first such interview with a PEGIDA organizer, and came just hours after the cancellation of Monday's march. The protest, which would have been the latest in a series of weekly protests that began in October, was called off on Sunday due to death threats against founder Lutz Bachmann. The Dresden police have temporarily banned demonstrations in the city, including a planned counter-demonstration. The threats to Bachmann come amid warnings from foreign intelligence services that the Berlin and Dresden train stations have become possible targets for terrorist attacks. On the show, Oertel rejected accusations that PEGIDA is racist and hostile to foreigners. \"We really are not a xenophobic organization,\" she insisted, adding that rather than stir up anti-immigrant feeling, the purpose of the marches is to \"shake things up.\" \"We want to highlight the shortcomings of our government in recent years,\" she said. Despite the ban on rallies in Dresden, Oertel said PEGIDA was by no means giving up its strategy. \"We will continue to put pressure on the government,\" she told Jauch. Dialogue instead of slogans Alexander Gauland, a senior member of the euroskeptic Alternative for Germany (AfD) party, was also a guest on the show. Coming to Oertel's defense, he called the ban on demonstrating \"the beginning of Islamization,\" according to news outlet Spiegel Online. Parliamentarian Jens Spahn, of Chancellor Angela Merkel's conservative Christian Democratic Union (CDU), was also present, and criticized PEGIDA for using \"slogans\" instead of \"dialogue.\" Spahn said if PEGIDA wanted to be taken seriously, it must enter into dialogue with the political system. Both Spahn and Wolfgang Thierse of the liberal Social Democrats (SPD) agreed that banning political rallies was a serious infringement of the basic right to assembly. Spahn assured Oertel and the audience that PEGIDA would be allowed to demonstrate again, but in this specific case, considering the threat against Bachmann, Spahn and Theirse agreed with the decision of the authorities. es/cmk (dpa, EPD)",
+  "relations": [
+    [
+      "Alternative for Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democratic Union",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Social Democrats",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Patriotic Europeans Against the Islamization of the West",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Kathrin Oertel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Kathrin Oertel",
+      "Patriotic Europeans Against the Islamization of the West",
+      "member_of"
+    ],
+    [
+      "Lutz Bachmann",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Lutz Bachmann",
+      "Patriotic Europeans Against the Islamization of the West",
+      "head_of"
+    ],
+    [
+      "Lutz Bachmann",
+      "Patriotic Europeans Against the Islamization of the West",
+      "member_of"
+    ],
+    [
+      "Jens Spahn",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Jens Spahn",
+      "Christian Democratic Union",
+      "member_of"
+    ],
+    [
+      "Günther Jauch",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Günther Jauch",
+      "ARD",
+      "member_of"
+    ],
+    [
+      "Wolfgang Thierse",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Wolfgang Thierse",
+      "Social Democrats",
+      "member_of"
+    ],
+    [
+      "Dresden",
+      "German",
+      "in0-x"
+    ],
+    [
+      "ARD",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Alexander Gauland",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Alexander Gauland",
+      "Alternative for Germany",
+      "member_of"
+    ],
+    [
+      "Spiegel Online",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ]
+  ]
+}

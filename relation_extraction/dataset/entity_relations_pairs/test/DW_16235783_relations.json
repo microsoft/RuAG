@@ -1,0 +1,35 @@
+{
+  "content": "NASA's 'Curiosity' readies to hit the Martian road\nThe US space agency has said its Mars rover appears to be working \"flawlessly,\" with a lengthy period of instrument checks almost complete. The Curiosity rover will soon re-start its sluggish search for signs of life.\nNASA's Mars rover, \"Curiosity,\" will wrap up a lengthy self-testing phase on Thursday, freeing it up to continue exploring the surface of the Red Planet. Mission manager Jennifer Tropser told reporters in a conference call on Wednesday evening that the plan, once the final checks were completed, was to \"drive, drive, drive\" until Curiosity discovers a rock suitable for analysis. She added that the instrument checks have delivered positive results. \"Through every phase of the check-out, Curiosity has performed almost flawlessly,\" Tropser said. \"The success so far of these activities has been outstanding.\" Many of the tests have concerned Curiosity's robotic arm. The 2.1-meter (7-feet) appendage will be used to pick out and sample rocks and soil. NASA is investigating whether Mars can sustain life, or whether it could in the past. The tests were designed to identify any damage sustained during its interplanetary flight and also to ensure that the arm still functioned properly on Mars, with its different temperatures and gravity. The Mars rover landed in the giant Gale Crater, near the Martian equator, on August 5; it has so far moved about 109 meters within the crater. The rover is traveling east, heading first to an intersection called Glenelg, where three types of terrain meet. This is likely to be the location for the first rock and soil samples, though NASA said Curiosity was unlikely to arrive there for several weeks. Curiosity's ultimate destination is the nearby Aeolis Mons or Mount Sharp, a 3-mile-high mound of rock rising out of the crater. Mount Sharp is about 4.3 miles (7 kilometers) away from Curiosity's landing site. The $2.5-billion (1.93-billion-euro) six-wheeled rolling science lab is designed to last two years in order to complete its Mars mission. msh/jm (AFP, AP, Reuters)",
+  "relations": [
+    [
+      "NASA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "NASA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Curiosity",
+      "NASA",
+      "created_by"
+    ],
+    [
+      "Jennifer Tropser",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Jennifer Tropser",
+      "NASA",
+      "head_of"
+    ],
+    [
+      "Jennifer Tropser",
+      "NASA",
+      "member_of"
+    ]
+  ]
+}

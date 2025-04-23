@@ -1,0 +1,250 @@
+{
+  "content": "Reports: Merkel to run for fourth term as German chancellor\nGerman Chancellor Angela Merkel has confirmed that she will stand for the chancellery in the 2017 election, German media reports. The Christian Democrat Leader (CDU) first took office in 2005.\nAfter months of speculation, German Chancellor Angela Merkel reportedly told her fellow Christian Democrats (CDU) in Berlin on Sunday that she is prepared to lead the party into next year's election. An official statement is expected from Merkel at 7 p.m. local time (1800 UTC) on Sunday. The 62-year-old has faced a number of difficulties in recent months, from criticism over her handling of the migration crisis to falling support amid a rise in right-wing populist sentiment. Since taking office in 2005, however, Merkel has also been praised for navigating Europe's largest economy through the financial and eurozone crises. According to an Emnid survey published in the German newspaper \"Bild am Sonntag\" 55 percent of Germans are in favor of Merkel remaining head of the German government for another four years. Thirty-nine percent said they were against her re-election. Sign of stability Should she be elected next September, another full four-year term would put Merkel on a par with her mentor Helmut Kohl who set the post-war record and presided over the Fall of the Berlin Wall in 1989. In light of the UK's shock vote to leave the European Union in June and Donald Trump's election last week as US president, Merkel's re-election is likely to be welcomed in many capitals as a sign of stability. During his final visit to Berlin this week, US President Barack Obama said that if he were able to, he would vote for his longtime partner and friend. In an interview with German magazine \"Spiegel\" and broadcaster \"ARD,\" Obama said: \"She has great credibility, and she is willing to fight for those values in a way that is very, very important.\" \"I'm glad that she's there and I think the German people should appreciate her. Certainly, I've appreciated her as a partner.\" Winning back votes With the less that a year until Germany heads to the polls, Merkel's CDU is now turning its efforts to wooing back disenchanted voters who have left the conservative camp to support the right-wing populists, Alternative for Germany (AfD). Formed as a Euro-sceptic party in 2013, the AfD won 4.7 percent of the popular vote in the last federal elections in 2013, just falling short of the 5 percent threshold required to enter the Bundestag - Germany's lower house of parliament. After benefiting from the rise in europsceptic, anti-immigration sentiment, seemingly sweeping across western Europe, the party now holds seats in nine of Germany's 16 states.",
+  "relations": [
+    [
+      "Alternative for Germany",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Alternative for Germany",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Alternative for Germany",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrat Leader",
+      "head_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germans",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Christian Democrat Leader",
+      "member_of"
+    ],
+    [
+      "Christian Democrat Leader",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Christian Democrat Leader",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Democrat Leader",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Bild am Sonntag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bild am Sonntag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bild am Sonntag",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Helmut Kohl",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Helmut Kohl",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Helmut Kohl",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Helmut Kohl",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Helmut Kohl",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Helmut Kohl",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "Helmut Kohl",
+      "Germans",
+      "head_of_gov-x"
+    ],
+    [
+      "Fall of the Berlin Wall",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Spiegel",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Spiegel",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Spiegel",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "ARD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "ARD",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "ARD",
+      "Germans",
+      "based_in0-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germans",
+      "agency_of-x"
+    ],
+    [
+      "Bundestag",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Bundestag",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Bundestag",
+      "Germans",
+      "based_in0-x"
+    ]
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "content": "Greek democracy under siege\nThe murder of a left-wing activist in Athens has shaken up Greece and inspired a backlash. The government has now promised to take action against violence from far-right extremists.\nHas Golden Dawn's far-right squad of thugs struck once again? That's what Athens wants to know following a series of violent incidents in the lead up to Greek elections. Leaders of the far-right Golden Dawn party, Greece's third largest and fastest growing political force - with a rampant anti-immigrant platform - deny that they were involved in the latest round of violence and are threatening to sue journalists who report otherwise. But there is growing evidence that the murderer of an anti-fascist activist in the working-class district of Keratsini in western Athens is at the very least a supporter of the group. The victim was Paylos Fyssas, a prominent left-wing hip hop artist who performed as Killah P. He was stabbed to death in a café on Wednesday morning (18.09.2013) after watching the Champions League match between Greek champion Olympiakos Priaeus and Paris St. Germain. For unknown reasons, Fyssas became involved in a fight with other customers. According to eyewitnesses, 15 thugs who described themselves as Golden Dawn members attacked the 34 year-old activist and his friends. Shortly afterwards, a 45-year-old man allegedly then joined the fight and stabbed Fyssas. According to eyewitnesses, the perpetrator had not been in the café before, and had been called to the scene by a cell phone message with the task of killing Fyssas. 'Planned down to the last detail' The division of tasks alone indicates a criminal organization, former vice president of the Greek Lawyers Association Konstantinos Logothetis told the TV station \"Skai\". \"The murderer had nothing to do with the actual fight, so he didn't act in the heat of the moment. Rather he was called to the crime scene specifically tasked to kill. He had both the necessary criminal background and the will to do it. So we're looking at a crime that has been planned down to the last detail,\" the lawyer Logothetis said. Fyssas' murder marks the climax of a series of politically motivated attacks that has been causing a stir in Greece. Last Friday (13.09.2013), eight people were hurt when right- and left-wing extremists clashed in the Athens' district of Perama. And over the weekend, right-wing thugs stormed a memorial event for victims of the Greek Civil War (1946-1949) at the Peloponnese peninsula in southern Greece to attack the keynote speaker. Meanwhile, Panos Kammenos, head of the right-wing populist Independent Greeks party recently encouraged his supporters to \"lynch\" the socialist mayor of a northern Greek resort town. The quest for strategies In an interview with DW, political analyst Tassos Kokkinidis warned of a dangerous polarization of the political landscape. \"The political parties in Greece are mainly concerned with protecting their own short-term interests,\" he said. Many politicians, he said, are still obsessed with scoring points against each other, rather than develop joint strategies to fight right-wing extremism, Kokkinidis argued. \"And yet everyone should know that Golden Dawn is a criminal organization,\" he said. After Fyssas's murder, conservative Public Order Minister Nikos Dendias canceled his trip to Rome to appear on TV and allay Greek people's fears by announcing stricter policies against violence. In light of incidents, the government cannot sit on the sidelines and will significantly tighten laws against criminal organizations, he promised. According to Dendias, it is important that all political forces in the country agree upon how to deal with fascism and politically motivated violence. Fear of escalation Kokkinidis doubts that this proclamation will land on fertile soil. According to him, Syriza, a left-wing party that is currently the second strongest in the country, rejected the proposal to develop a common strategy because it indirectly blames the government for the increase in political violence. Kokkonidis even fears that politically motivated violence could increase in the future after Fyssas' murder. \"There are already calls for acts of reprisal and mass rallies against the Golden Dawn on social media,\" he said. And his fears seem to be coming true. On Wednesday night, protesters and police clashed at the sight of an \"anti-fascist protest meeting\" not far from the crime scene in Keratsini. Anarchists reportedly attacked a police station and set it on fire. In response, law enforcement officers fired tear gas into the crowd. Several people were injured. Surprisingly, right-wing populist Kammenos also appeared at the rally and was attacked and injured by protestors. The European Council human rights commissioner recently suggested banning Golden Dawn, which currently controls 18 seats in the 300-member parliament. According to Athens' online news portal \"To Vima\", the Greek government is now seriously considering this ban. But it may not be enough to simply fight right-wing extremists with political means, said Nikos Xydakis, editor in chief of daily newspaper Kathimerini, on Greek TV. \"Democracy means freedom and tolerance for everyone, but not for those trying to abolish our democracy. Up to now these people have profited from democracy's tolerance but now it is time to let them feel the iron fist of democracy,\" he said.",
+  "relations": [
+    [
+      "Keratsini",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Keratsini",
+      "Athens",
+      "in2"
+    ],
+    [
+      "Golden Dawn",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Golden Dawn",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Paylos Fyssas",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Paylos Fyssas",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Tassos Kokkinidis",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Tassos Kokkinidis",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Panos Kammenos",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Panos Kammenos",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Panos Kammenos",
+      "Independent Greeks",
+      "head_of"
+    ],
+    [
+      "Panos Kammenos",
+      "Independent Greeks",
+      "member_of"
+    ],
+    [
+      "Konstantinos Logothetis",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Konstantinos Logothetis",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Konstantinos Logothetis",
+      "Lawyers Association",
+      "head_of"
+    ],
+    [
+      "Konstantinos Logothetis",
+      "Lawyers Association",
+      "member_of"
+    ],
+    [
+      "Nikos Dendias",
+      "Greece",
+      "agent_of"
+    ],
+    [
+      "Nikos Dendias",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Nikos Dendias",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Nikos Dendias",
+      "Greece",
+      "minister_of"
+    ],
+    [
+      "Nikos Dendias",
+      "Greek",
+      "minister_of-x"
+    ],
+    [
+      "Greek",
+      "Greece",
+      "gpe0"
+    ],
+    [
+      "Athens",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Athens",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Olympiakos Priaeus",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Olympiakos Priaeus",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Olympiakos Priaeus",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Paris St. Germain",
+      "Champions League",
+      "appears_in"
+    ],
+    [
+      "Lawyers Association",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Lawyers Association",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Skai",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Skai",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Perama",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Perama",
+      "Athens",
+      "in2"
+    ],
+    [
+      "Greek Civil War",
+      "Greece",
+      "event_in0"
+    ],
+    [
+      "Peloponnese peninsula",
+      "Greece",
+      "in0"
+    ],
+    [
+      "Peloponnese peninsula",
+      "Greek",
+      "in0-x"
+    ],
+    [
+      "Independent Greeks",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Independent Greeks",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "Syriza",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Syriza",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "To Vima",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "To Vima",
+      "Greek",
+      "based_in0-x"
+    ],
+    [
+      "To Vima",
+      "Athens",
+      "based_in2"
+    ],
+    [
+      "Nikos Xydakis",
+      "Greece",
+      "citizen_of"
+    ],
+    [
+      "Nikos Xydakis",
+      "Greek",
+      "citizen_of-x"
+    ],
+    [
+      "Nikos Xydakis",
+      "Kathimerini",
+      "head_of"
+    ],
+    [
+      "Nikos Xydakis",
+      "Kathimerini",
+      "member_of"
+    ],
+    [
+      "Kathimerini",
+      "Greece",
+      "based_in0"
+    ],
+    [
+      "Kathimerini",
+      "Greek",
+      "based_in0-x"
+    ]
+  ]
+}

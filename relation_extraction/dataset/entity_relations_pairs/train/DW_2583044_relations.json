@@ -1,0 +1,150 @@
+{
+  "content": "Pope Urges Bush to Find Peaceful Solution in Middle East\nAfter a brief stop in Poland Friday to discuss plans basing a US defense missile system there, US President George W. Bush traveled to Rome, where Pope Benedict XVI. urged him to help end violence in the Middle East.\nNot many people can lecture US President George W Bush and get away with it. Pope Benedict XVI appeared to do just that on Saturday during his first meeting with Bush as head of the Roman Catholic Church. According to an official statement published shortly after their 35-minute talk, the Vatican said the pope had \"expressed his concern\" for the situation facing Christian communities in Iraq, Lebanon, Israel and the Palestinian territories. More importantly, the German-born pontiff had asked Bush to find \"negotiated\" solutions to the conflicts afflicting the Middle East. Put in simple language, he told Bush off for going to war in Iraq and for resorting to military options to resolve crises. Bush in \"listening mode\" Bush had of course been made fully aware of the Holy See's strong opposition to the war during his last encounter with the late John Paul II three years ago and said he would be heading to the Vatican in \"a listening mode. \"He's a good thinker and a smart man,\" Bush told reporters ahead of Saturday's meeting. Experts note that while the former theology professor may have a softer, more \"academic\" style than his charismatic predecessor, their views on the subject are substantially the same. Benedict used to act as John Paul's main advisor while still a cardinal and made his opinion on Iraq very clear in April, when he said in his Easter message that \"nothing positive comes from Iraq.\" Common ground In actual fact, Bush may have found much common ground with Benedict than the disagreement on how to tackle the Middle East might suggest. Speaking to reporters, papal spokesman Federico Lombardi said the two leaders had agreed on a variety of issues, ranging from religious freedom to \"the defense and promotion of life, matrimony and the family.\" Benedict, who often reminds politicians that the Church considers life sacred \"from conception,\" will certainly have approved of Bush's opposition to abortion and his threat to veto a recently-approved US bill expanding federally funded embryonic stem cell research. \"Yes, Sir\" And apart from raising eyebrows by repeatedly addressing the pope as \"Sir\" rather than using the more formal term \"Your Holiness,\" Bush did not travel to the Vatican empty-handed either. On top of the traditional exchanging of gifts - Bush gave Benedict a white stick with the 10 commandments carved on it, the work of a Texan artist - the president was also able to provide assurances about his commitment to combat poverty and the spread of AIDS in Africa. \"I've got a very strong AIDS initiative,\" Bush said, referring to his efforts to convince Congress to double US spending for combating AIDS in Africa to $30 billion (22.2 billion euros) over the next five years. Facing protests After meeting the pope, Bush saw Italian Prime Minister Romano Prodi. Heavy security measures were in force, with some 10,000 police including hundreds in riot gear and scores of armored vehicles deployed. Two separate protests, one by the left flank of Prodi's fractious ruling coalition and the other by more hardline anti-US campaigners, were planned Saturday afternoon under sunny skies. Prodi has asked government members of the Refoundation Communist, Italian Communist and Green parties not to join the protest, while party leaders and lawmakers planned to attend. Italian Welfare Minister Paolo Ferrero of the Refoundation Communist party said Friday that he would not join the protest out of a \"sense of responsibility,\" while noting: \"Bush is a warmonger, I understand those who oppose him.\" CIA scandal The US leader's visit came the day after Council of Europe investigator Dick Marty released a report saying the CIA ran secret prisons in Poland and Romania from 2003 to 2005 to interrogate terror suspects under a program authorized by the countries' presidents. Also Friday, a trial opened in Milan over the kidnapping of a terror suspect in Washington's heavily criticized \"extraordinary rendition\" program. Twenty-five CIA agents are being tried in absentia for the kidnapping of Milan imam Osama Mustafa Hassan -- better known as Abu Omar -- and transferring him to a high-security prison outside Cairo, where he claims he was tortured.",
+  "relations": [
+    [
+      "Benedict XVI",
+      "John Paul II",
+      "advisor_of"
+    ],
+    [
+      "Benedict XVI",
+      "Roman Catholic Church",
+      "head_of"
+    ],
+    [
+      "Benedict XVI",
+      "George W. Bush",
+      "is_meeting"
+    ],
+    [
+      "Benedict XVI",
+      "Roman Catholic Church",
+      "member_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "agent_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "George W. Bush",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "George W. Bush",
+      "Benedict XVI",
+      "is_meeting"
+    ],
+    [
+      "Romano Prodi",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Romano Prodi",
+      "Italian",
+      "head_of_gov-x"
+    ],
+    [
+      "John Paul II",
+      "Roman Catholic Church",
+      "head_of"
+    ],
+    [
+      "John Paul II",
+      "Roman Catholic Church",
+      "member_of"
+    ],
+    [
+      "Rome",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Federico Lombardi",
+      "Benedict XVI",
+      "member_of"
+    ],
+    [
+      "Federico Lombardi",
+      "Benedict XVI",
+      "spokesperson_of"
+    ],
+    [
+      "Congress",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Congress",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Refoundation Communist",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Italian Communist",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Green",
+      "Italian",
+      "based_in0-x"
+    ],
+    [
+      "Paolo Ferrero",
+      "Italian",
+      "citizen_of-x"
+    ],
+    [
+      "Paolo Ferrero",
+      "Italian",
+      "minister_of-x"
+    ],
+    [
+      "CIA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "CIA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Dick Marty",
+      "Council of Europe",
+      "member_of"
+    ],
+    [
+      "Milan",
+      "Italian",
+      "in0-x"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Milan",
+      "Milan",
+      "gpe2"
+    ]
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "content": "Headaches Loom as EU Returns to Work\nThe European Union will be well advised to make the most of its summer break. Hard decisions and difficult times lay ahead not only for the member states that are on leave but also for the institutions in Brussels.\nThe EU quarter in the center of the Belgian capital, normally the beating heart of the European Union, slows to a more sedate pace in July and August as the six-week summer vacation begins. But once the holiday has passed, it's back to the desk again for EU commissioners and representatives of the European Parliament. The summer break is coming to an end and the EU will soon be back in EU policy business. But what issues are waiting for the thousands of returning officials? Summer is a deceptive time in Brussels. Europe's pulse might be slower but the issues that can quicken the beat and raise the blood pressure are still there waiting for those who left them in the in-tray back in July: the finances of the bloc; the constitution crisis, the accession negotiations with Turkey and Croatia, the nuclear quarrel with Iran and the on-going fight against terrorism. EU foreign ministers are holding their first meeting after the holiday this Thursday and Friday. The informal gathering takes place this year in the British city of Newport. Turkey on everyone's mind The British EU presidency has much to consider in the first half of its one-year tenure, most pressingly the negotiation framework of Turkey's EU accession bid. What was once perceived as a difficult but not impossible issue has now become a controversial one. Cyprus, Greece and France are demanding unequivocal recognition of Cyprus by Turkey before accession talks can begin. Austria and a Germany under the possible leadership of a conservative chancellor -- Angela Merkel -- are pushing for \"privileged partnership\" status only and not full membership as the accession negotiations imply. The British themselves are in favor of beginning negotiations with Turkey on Oct. 3, as was decided in December last year. Iran negotiations enter critical stage Moving further into the Middle East, Europe will be thrust once more into the potential powder keg of negotiations with wannabe nuclear power Iran. Whether the Islamic Republic wants nuclear power or the bomb is still a point of contention but Europe will first have to continue its negotiations regarding the suspension of uranium enrichment before that more delicate subject is broached. The Iranians themselves have renounced the deals offered by the EU and have restarted reactors. The diplomatic initiative -- led by Britain, France and Germany and resulting in one agreement more than a year ago -- is now threatened with failure. Blair may put terror first Away from the international arena further afield, issues closer to home will need to be addressed. The biggest hot potato is the EU constitution. British Prime Minister Tony Blair will host a summit at the end of October to press his own social model as a blueprint for the EU constitution. But even that may take a back seat to the more pressing issue for the British at this time -- international terrorism. Then there is the continuing to and fro concerning Chinese textile import quotas, which have been generating angry reactions throughout Europe of late. Retailers want their low-cost brassieres and trousers while others want their industry protected. EU Trade Commissioner Peter Mandelson is running out of time to find a solution which everyone involved is happy with. So when the shutters go up on EU office buildings on Sept. 1, there likely won't be much time for diplomats to chit-chat about what they did over the summer. They've got plenty on their plates.",
+  "relations": [
+    [
+      "Tony Blair",
+      "Britain",
+      "citizen_of"
+    ],
+    [
+      "Tony Blair",
+      "British",
+      "citizen_of-x"
+    ],
+    [
+      "Tony Blair",
+      "Britain",
+      "head_of_gov"
+    ],
+    [
+      "Tony Blair",
+      "British",
+      "head_of_gov-x"
+    ],
+    [
+      "Brussels",
+      "Belgian",
+      "in0-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Parliament",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "British",
+      "Britain",
+      "gpe0"
+    ],
+    [
+      "Newport",
+      "Britain",
+      "in0"
+    ],
+    [
+      "Newport",
+      "British",
+      "in0-x"
+    ],
+    [
+      "Iranians",
+      "Iran",
+      "gpe0"
+    ],
+    [
+      "Peter Mandelson",
+      "European Union",
+      "member_of"
+    ]
+  ]
+}

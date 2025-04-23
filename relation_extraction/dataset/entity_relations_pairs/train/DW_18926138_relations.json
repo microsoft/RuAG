@@ -1,0 +1,110 @@
+{
+  "content": "Russian experts open black box of jet downed by Turkey\nMoscow has begun examining the contents of the black box from the jet that was shot down by Turkey last month. Ankara said the Russian Su-24 jet was violating its airspace.\nTechnicians in Moscow used screwdrivers, drills and vacuum cleaners to open the black box on Friday, as diplomats from Britain, India and China witnessed the procedure that was broadcast on state television. Fourteen countries were invited to observe the investigation, Sergei Dronov, deputy chief of the Russian air force, told journalists. \"We have sufficient evidence that proves that the Russian aircraft did not violate Turkish airspace,\" Dronov said, adding that the warplane had been flying in Syrian airspace and within 5.5 kilometers (three miles) of the Turkish border. Results of the examination would be revealed on December 21, he announced. Russian officials retrieved the black box after Syria's special forces \"liberated\" rebel-held territory where the warplane was shot down by Turkey, Russia's Defense Minister Sergei Shoigu said earlier this month. Russian President Vladimir Putin also said the black box would help reveal the exact position of the flight and where it was downed. Ankara said the Russian plane strayed into its territory despite repeated warnings, but Moscow maintains that the jet did not cross the Syrian border with Turkey. Russia accused Turkey of provoking it deliberately and described the event as a \"stab in the back.\" Putin also said it was \"practically impossible\" to overcome tensions with Ankara after this event. mg/sms (AP, AFP)",
+  "relations": [
+    [
+      "Vladimir Putin",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Vladimir Putin",
+      "Russia",
+      "head_of_state"
+    ],
+    [
+      "Vladimir Putin",
+      "Russian",
+      "head_of_state-x"
+    ],
+    [
+      "Sergei Dronov",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergei Dronov",
+      "Russian",
+      "agent_of-x"
+    ],
+    [
+      "Sergei Dronov",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Dronov",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Russian",
+      "Russia",
+      "gpe0"
+    ],
+    [
+      "Moscow",
+      "Russia",
+      "in0"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Ankara",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Ankara",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russia",
+      "agent_of"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russia",
+      "citizen_of"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russian",
+      "citizen_of-x"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russia",
+      "minister_of"
+    ],
+    [
+      "Sergei Shoigu",
+      "Russian",
+      "minister_of-x"
+    ]
+  ]
+}

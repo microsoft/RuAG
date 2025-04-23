@@ -1,0 +1,55 @@
+{
+  "content": "Photos show Earth from dark side of the moon\nNew images published by NASA show the Earth's surface from the side of the moon invisible from the planet's surface. The DSCOVR satellite was set into orbit to investigate storms from space.\nThe satellite DSCOVR took photos of the moon crossing in front of the Earth. NASA, the US space agency, has published the stunning images on Wednesday. The spacecraft snapped the pictures from the dark side of the moon from about 1.6 million kilometers (1 million miles) away in mid-July. The Earth's satellite is in a synchronous rotation, meaning the same side of the moon always faces our planet. The first sighting of the lunar rear side was from the Soviet probe Luna 3 in 1959. The Earth-facing side of the moon has large, dark basaltic plains not visible on the far side. The dark side's most remarkable features are the Mare Moscoviense on the upper left and the Tsiolkovskiy crater on the lower left. \"It is surprising how much brighter Earth is than the Moon,\" said Adam Szabo, DSCOVR project scientist, to NASA. \"Our planet is a truly brilliant object in dark space compared to the lunar surface.\" The US aerospace company SpaceX launched the $340 million (300 million euro) observation satellite into space in February. The operation is a joint force between SpaceX and NASA, National Oceanic and Atmospheric Administration (NOAA) and the US Air Force to explore weather in space and potentially harmful impact on Earth. The spacecraft will serve as an early warning system for solar storms, which are seen as auroras on Earth, but can also cause disruptions to telecommunications. \"DSCOVR\" is an abbreviation for Deep Space Climate Observatory. The mission is scheduled to last five years. kb/sms (AFP, dpa)",
+  "relations": [
+    [
+      "NASA",
+      "US",
+      "agency_of"
+    ],
+    [
+      "NASA",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Deep Space Climate Observatory",
+      "NASA",
+      "artifact_of"
+    ],
+    [
+      "Luna 3",
+      "Soviet",
+      "artifact_of-x"
+    ],
+    [
+      "National Oceanic and Atmospheric Administration",
+      "US",
+      "agency_of"
+    ],
+    [
+      "National Oceanic and Atmospheric Administration",
+      "US",
+      "based_in0"
+    ],
+    [
+      "SpaceX",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Adam Szabo",
+      "NASA",
+      "member_of"
+    ],
+    [
+      "US Air Force",
+      "US",
+      "agency_of"
+    ],
+    [
+      "US Air Force",
+      "US",
+      "based_in0"
+    ]
+  ]
+}

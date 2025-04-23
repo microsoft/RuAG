@@ -1,0 +1,265 @@
+{
+  "content": "Ukraine's pro-Western parties begin talks after electoral triumph\nUkraine's pro-Western parties have begun coalition talks after securing the most votes in Sunday's parliamentary elections. The new government is tasked with quelling a pro-Russian insurgency in the country's east.\nWith most ballots counted, the parties in Ukrainian President Petro Poroshenko's bloc won around 21.5 percent of the votes in Sunday's elections. The People's Front group of Prime Minister Arseniy Yatsenyuk had a slight advantage, with 21.9 percent. \"Talks have already begun,\" said Yuriy Lutsenko of Poroshenko's party on Monday. The pro-European Samopomich (Self-Help) party came third with 11 percent. The Opposition bloc, a pro-Kremlin organization, took fourth with just under 10 percent, followed by the populist Radical Party at just over seven percent, and the Fatherland party of former premier Yulia Tymoshenko between five and six percent. The nationalist Svoboda party, with between and four and five percent, failed to clear the five percent hurdle required for a place in the country's parliament. The initial results, which only take into account party voting for half the seats in the 450-strong parliament (the other half is made up of constituency votes), are in line with pre-election expectations that a pro-Western parliament would be voted in with the aim of steering Ukraine away from Russian influence, in the first parliamentary election since the ouster of pro-Moscow president Viktor Yanukovych in February. A 'victory of democracy' The European Union has described the elections as a victory of democracy and reforms in the ex-Soviet state. \"Congratulations to the people of Ukraine! Victory of democracy and European reforms agenda,\" tweeted Jose Manuel Barroso, head of the European Commission, on Monday. US President Barack Obama also hailed the \"successful\" vote as an \"important milestone in Ukraine's democratic development.\" \"We look forward to the convening of the new parliament and the quick formation of a strong, inclusive government,\" Obama said in a statement on Monday. The US president criticized the Russian involvement in the ongoing crisis in eastern Ukraine in which armed rebels have waged a war against Kyiv's authority. \"It is clear that Russian authorities occupying Crimea and Russian-backed separatists in parts of eastern Ukraine prevented many Ukrainian citizens from exercising their democratic rights to participate in national elections and cast their votes,\" he said, adding that the US \"will not recognize any election held in separatist-held areas that does not comport with Ukrainian law and is not held with the express consent and under the authority of the Ukrainian government.\" Moscow has welcomed the outcome of the election as backing for \"a peaceful resolution\" of the conflict. There has been a lull in fighting since Kyiv and insurgents signed a Moscow-backed truce on September 5; however, ceasefire violations have been quite frequent, particularly around the Donetsk airport. A fiery reminder More fighting was reported on Monday near the government-held coastal city of Mariupol as a reminder of the challenge ahead for President Poroshenko and Prime Minister Yatsenyuk. According to the news agency AFP, the pro-Russian rebels fired dozens of rockets from the city of Donetsk towards a Ukrainian military base in the area. The Ukrainian military authorities said two of its soldiers died in a rebel attack on Sunday near Lugansk. shs/glb (AFP, dpa)",
+  "relations": [
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Petro Poroshenko",
+      "Ukrainian",
+      "head_of_state-x"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukraine",
+      "head_of_gov"
+    ],
+    [
+      "Arseniy Yatsenyuk",
+      "Ukrainian",
+      "head_of_gov-x"
+    ],
+    [
+      "Samopomich",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Samopomich",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Ukrainian",
+      "Ukraine",
+      "gpe0"
+    ],
+    [
+      "People's Front",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "People's Front",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Yuriy Lutsenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Yuriy Lutsenko",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Opposition bloc",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Opposition bloc",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Kremlin",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Radical Party",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Radical Party",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Fatherland",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Fatherland",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukraine",
+      "head_of_gov"
+    ],
+    [
+      "Yulia Tymoshenko",
+      "Ukrainian",
+      "head_of_gov-x"
+    ],
+    [
+      "Svoboda",
+      "Ukraine",
+      "based_in0"
+    ],
+    [
+      "Svoboda",
+      "Ukrainian",
+      "based_in0-x"
+    ],
+    [
+      "Moscow",
+      "Russian",
+      "in0-x"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "agent_of"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "citizen_of"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukrainian",
+      "citizen_of-x"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukraine",
+      "head_of_state"
+    ],
+    [
+      "Viktor Yanukovych",
+      "Ukrainian",
+      "head_of_state-x"
+    ],
+    [
+      "Jose Manuel Barroso",
+      "European Commission",
+      "head_of"
+    ],
+    [
+      "Jose Manuel Barroso",
+      "European Commission",
+      "member_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "Kyiv",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Kyiv",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Donetsk",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Donetsk",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Mariupol",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Mariupol",
+      "Ukrainian",
+      "in0-x"
+    ],
+    [
+      "Lugansk",
+      "Ukraine",
+      "in0"
+    ],
+    [
+      "Lugansk",
+      "Ukrainian",
+      "in0-x"
+    ]
+  ]
+}

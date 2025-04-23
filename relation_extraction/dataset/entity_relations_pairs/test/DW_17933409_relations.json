@@ -1,0 +1,55 @@
+{
+  "content": "Will Berlin be the next city to ban plastic bags?\nThey are sturdy, thin and can handle a heavy load, but after a single use, plastic bags often end up outdoors or in oceans - with disastrous impacts. But a student in Berlin is trying to halt the plastic bag invasion.\nIt started off as a student job: Stefanie Albrecht contacted the environmental organization Deutsche Umwelthilfe to support its campaign in Berlin of approaching citizens on the streets to swap their plastic bags for reusable bags. The organization hoped to make people more aware of the environmentally destructive effects of plastic bags. Deutsche Umwelthilfe's anti-plastic bag campaign on Saturday (20.09.2014) also reused the bags campaigners collected off the streets. About 1,000 people strung together a 9-kilometer-long chain made of 30,000 plastic bags at the Tempelhofer Feld in the German capital Berlin, creating a world record. In Berlin alone, 30,000 plastic bags leave shops and market stalls every hour - amounting to 259 million bags a year. Across Germany, about 17 million plastic bags are consumed every day - or 6 billion a year. Albrecht, a natural resources management student, buys secondhand clothes, grows her own vegetables and tries to reduce her rubbish. But even she hadn't always been so conscious of the environmental problem that plastic bags present. \"Before, I never thought about plastics and crude oil,\" she said. Stimulated by the conversations she had with strangers in the streets, she was motivated to sensitize others on the issue. In reading studies on polyethylene bags, she found out that 260 million liters (1.6 million barrels) of crude oil are processed into the plastic bags used over one year in Germany alone - not to mention the energy also needed in oil extraction and bag production. Eco-threat Plastic presents so many advantages: it is lightweight, strong, durable, waterproof, and cheap to produce. After the first department store in Germany started handing out plastic bags in 1961, many retailers followed. This packaging can be reused many times, and it is also recyclable. But because they are given away, plastic bags are carelessly disposed of: a plastic bag is typically used for 25 minutes on average - from the shop until you get back home. Plastic degrades very slowly in nature, over 100 to 500 years. In fact it never actually biodegrades - plastic just breaks down into ever-smaller pieces. And they can have fatal effects in the environment. Many places on land and water have become covered in a layer of plastic bags, bottles, canisters, furniture, forks and toothbrushes. In the Great Pacific Garbage Patch, a swirling island of plastic trash covers thousands of square kilometers. Plastic bags cause wild animals to die miserably. Animals think the plastic is food, and eat it. This can cause them to choke, and suffocate slowly. Or they starve to death: the material can't be digested and excreted, so it clogs the stomach and intestines. Animals can also get caught and strangle themselves in plastic; or it can cut off circulation to a limb, leading to a different type of slow and painful death. Scientists at the Commonwealth Scientific and Industrial Research Organization (CSIRO) recently found plastic in every second seabird off the coast of Australia. CSIRO has warned that continued plastic production could cause extinction of 95 percent of all living animals in the region by 2050. Fish, sea turtles, whales, dolphins, sea cows, crocodiles and crustaceans could all go the way of the dodo. Economic approach Stefanie Albrecht was shocked to learn all this. Together with the Deutsche Umwelthilfe, she collected signatures on the online petition platform Change.org to demand that the German government enact a law taxing thin plastic bags. Within only three weeks, the 100,000 signatures for that online petition had been gathered. Stefanie Albrecht is now planning to personally hand over the list to the German government. Other countries are ahead of Germany: retailers in Ireland have been taxing plastic bags since 2002. There, consumption of plastic bags has decreased from 328 to 16 on average per person due to the tax. In Germany, annual consumption is at 76 plastic bags per head - a lot lower than the European average of 198 bags. \"Germany has more than 80 million inhabitants. By reducing our per person consumption, we can achieve greater impact than many other countries in the European Union,\" pointed out Thomas Fischer of Deutsche Umwelthilfe. A minimum charge of 22 cents could cause the consumer to rethink his plastic bag habit: \"Do I really need this bag, or can I put the goods in my backpack?\" Fischer said in describing the hypothetical question. Bans in other areas In Bangladesh, plastic bags were banned after plastic waste clogged sewers and led to flooding in 1988 and 1998. China, Kenya, Rwanda and South Africa have also banned ultra-thin plastic bags. Many cities in the United States have been jumping on the plastic-bag-ban bandwagon - including Chicago, most recently. The EU is also considering a resolution to reduce the consumption in member states by 80 percent over five years, although Fischer criticized this as lacking clarity. Bags made of biodegradable materials don't present the best alternative, either. \"Biodegradable\" plastic bags only consist of 30 percent renewable raw materials and 70 percent crude oil, said Fischer from the Deutsche Umwelthilfe. And bags made of bioplastics, or out of materials like corn starch, still require a large amount of raw materials in their production. The best alternative is to use bags over and over again, for example those made of cloth.",
+  "relations": [
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Stefanie Albrecht",
+      "Deutsche Umwelthilfe",
+      "member_of"
+    ],
+    [
+      "Deutsche Umwelthilfe",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Deutsche Umwelthilfe",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Thomas Fischer",
+      "Deutsche Umwelthilfe",
+      "member_of"
+    ],
+    [
+      "Tempelhofer Feld",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Tempelhofer Feld",
+      "Berlin",
+      "in2"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Chicago",
+      "United States",
+      "in0"
+    ]
+  ]
+}

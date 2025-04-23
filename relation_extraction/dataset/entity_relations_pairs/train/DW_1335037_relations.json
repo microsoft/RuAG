@@ -1,0 +1,115 @@
+{
+  "content": "Online Advertising Gathers Momentum\nAt the German Multi-Media Congress, experts agreed that online advertising is finally witnessing an upswing after a long downturn.\nAfter experiencing a three-year slump in online advertising, the situation in today's Internet market is looking promising, according to a group of industry experts meeting in Stuttgart this week. Earlier this year, Christian Muche from online marketing at the German Multi-Media Association (DMV) predicted that Internet advertising could expect a growth rate of 20 percent in 2004. His forecast reflected a wider optimistic trend based on the recent upswing in advertising spending. Online ads outstrip other media \"According to estimates by US company Jupiter Research, turnover from online advertising will have overtaken turnover from print media by 2008,\" wrote German daily Frankfurter Allgemeine Zeitung recently. Pressetext.Austria noted a similar development. \"In the first half of 2004, online advertising spending was twice as high as it was in cinema theaters,\" it wrote, while the Interactive Advertising Bureau in New York, the industry's leading association, pointed out that Internet advertising would be outstripping radio advertising by 2007. In the US, the world's largest advertising market, Web sites provided turnover of almost €7.3 billion, thereby matching the amount spent in 2000, the most lucrative year ever. Advertising also increased by 6.5 percent in Germany in the first half of 2004, with a turnover of €8.8 billion for all media. The Internet, meanwhile, registered a drop of 2.6 percent. Nonetheless, Bernd Henning from DMV market research told DW-WORLD that other studies showed the market was improving. After years of ad price dumping, prices are once again rising, he said. That's because cost-per-thousand -- the average cost for achieving a thousand exposures for a commercial against a target audience -- rises in accordance with the number of users a site attracts, and the cost of advertising rises with it. The new face of online advertising Like cinema advertising, experts agree that Internet advertising has a slow-burn effect on the consumer. Current online advertising is now far more complex and less click-oriented than it was ten years ago. 'Sticky ads' and 'Interstitials', for example -- ads that display between two pages of a website -- are interruptive, like television advertising, rather than passive, like Web banner advertising. Another trend is keyword marketing. Search engines like Google and Yahoo auction off prime positions on their pages, primarily to Internet traders with a vested interest in appearing at the top of the list in response to a query for, for example, 'digital camera'. These hits are known as \"sponsored listings\". Even though the growth in the online advertising market is considerable, its budgets are still far smaller than in other media. According to the 2003 Focus Mediaguide, the online share of the total US advertising budget was just three percent. Even in Norway, Denmark and Estonia, the European countries spending most on online advertising, the budget is negligible. Mediterranean countries spend even less. \"The North-South divide correlates with national statistics on Internet use,\" says Bernd Henning. \"The worse the weather, the more time people spend on the Internet.\"",
+  "relations": [
+    [
+      "German Multi-Media Association",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Multi-Media Association",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Christian Muche",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Christian Muche",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Christian Muche",
+      "German Multi-Media Association",
+      "member_of"
+    ],
+    [
+      "Stuttgart",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Stuttgart",
+      "German",
+      "in0-x"
+    ],
+    [
+      "German Multi-Media Congress",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "German Multi-Media Congress",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "German Multi-Media Congress",
+      "Stuttgart",
+      "based_in2"
+    ],
+    [
+      "Jupiter Research",
+      "US",
+      "based_in0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Frankfurter Allgemeine Zeitung",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Frankfurter Allgemeine Zeitung",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Interactive Advertising Bureau",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Interactive Advertising Bureau",
+      "New York",
+      "based_in2"
+    ],
+    [
+      "New York",
+      "US",
+      "in0"
+    ],
+    [
+      "Bernd Henning",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Bernd Henning",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Bernd Henning",
+      "German Multi-Media Association",
+      "member_of"
+    ],
+    [
+      "DW-WORLD",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "DW-WORLD",
+      "German",
+      "based_in0-x"
+    ]
+  ]
+}

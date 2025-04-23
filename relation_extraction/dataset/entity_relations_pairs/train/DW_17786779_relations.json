@@ -1,0 +1,140 @@
+{
+  "content": "Afghanistan market blast kills dozens\nOfficials say dozens of people have been killed in a suicide bomb attack at a busy market in southeastern Afghanistan. The blast underlines the country's fragile political and security situation.\nA suicide bomber on Tuesday blew up a vehicle packed with explosives at a busy market in southeastern Afghanistan, killing at least 89 people and injuring scores more, according to a Defense Ministry spokesman. Officials said most of the victims were civilians. The explosion also damaged shops, houses and cars nearby, according to witnesses. Several people were said to be still buried under rubble, meaning the death toll could rise further. The attack in the Urgun district of Paktika province is the worst in the war-torn country in months. There was no immediate claim of responsibility, but Taliban insurgents often use suicide attacks as a weapon. The bombing followed just hours after a roadside bomb in eastern Kabul killed two passengers in a minivan carrying employees of the presidential palace. Five others in the van were injured. Taliban spokesman Zabihullah Mujahid claimed responsibility for that attack in a statement sent to reporters. Perilous instability Attacks by the Taliban are gaining intensity as part of their annual spring offensive. The militants appear also to have stepped up their campaign ahead of the withdrawal of US-led foreign forces by the end of 2014. A UN report last week said civilian casualties in Afghanistan soared by 24 percent to 4,853 in the first half of 2014 compared with the same period in 2013. Tuesday's attacks come just days after a weekend deal between two Afghan presidential rivals brokered by US Secretary of State John Kerry seemed to avert a looming danger to the country's nascent democracy. Abdullah Abdullah and Ashraf Ghani, who have been contending to take over from incumbent President Hamid Karzai, agreed to allow an audit of all eight million ballots cast in a runoff election in which preliminary results showed Ghani as a clear winner. Abdullah had blamed the result on massive cheating. tj/msh (AP, AFP)",
+  "relations": [
+    [
+      "Urgun",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Urgun",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Taliban",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Taliban",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Ashraf Ghani",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Ashraf Ghani",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Abdullah Abdullah",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Abdullah Abdullah",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Defense Ministry",
+      "Afghanistan",
+      "agency_of"
+    ],
+    [
+      "Defense Ministry",
+      "Afghan",
+      "agency_of-x"
+    ],
+    [
+      "Defense Ministry",
+      "Afghanistan",
+      "based_in0"
+    ],
+    [
+      "Defense Ministry",
+      "Afghan",
+      "based_in0-x"
+    ],
+    [
+      "Defense Ministry",
+      "Afghanistan",
+      "ministry_of"
+    ],
+    [
+      "Paktika",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Paktika",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Kabul",
+      "Afghanistan",
+      "in0"
+    ],
+    [
+      "Kabul",
+      "Afghan",
+      "in0-x"
+    ],
+    [
+      "Zabihullah Mujahid",
+      "Taliban",
+      "member_of"
+    ],
+    [
+      "Afghan",
+      "Afghanistan",
+      "gpe0"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "agent_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "John Kerry",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "agent_of"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "citizen_of"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghan",
+      "citizen_of-x"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghanistan",
+      "head_of_state"
+    ],
+    [
+      "Hamid Karzai",
+      "Afghan",
+      "head_of_state-x"
+    ]
+  ]
+}

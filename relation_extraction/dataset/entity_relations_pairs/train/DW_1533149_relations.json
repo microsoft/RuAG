@@ -1,0 +1,180 @@
+{
+  "content": "Germans March for Peace\nSome 50,000 people took to the streets in Germany over the weekend to take part in the traditional Easter peace marches. Activists protested against war, cutbacks in the social welfare system and the new EU constitution.\nThe US-led war in Iraq was the center of renewed criticism at Germany's Easter peace marches in 65 cities across the country this year. But participants also emphasized the drawbacks of the new European constitution, which must be approved by German lawmakers on May 12. \"We want social equality and civil protection rather than pre-emptive war, as well as a democratic Europe,\" said Willi van Ooyen, spokesman for the organizers \"Informationsstelle Ostermarsch.\" Van Ooyen said the diversity of participants reflected the lasting awareness of people interested in the peace movement to get involved in current political debates. \"Never again fascism, never again war\" The main demonstrations took place in Berlin, Hamburg and Frankfurt, where the organizers are based. The Network of the German Peace Movement took a positive stock of the marches. \"Sixty years after the liberation of Germany from Hitler's fascism and the end of the Second World War, these demonstrations expressed the indissoluble consensus of the era: never again fascism, never again war,\" the Network's director Manfred Stenner said in a statement. He said the ongoing skepticism against war and the military in Germany was also the merit of the postwar peace movement. Constitution committed to rearmament? The protests also drew attention to the new European constitution, which is currently in its ratification process across Europe. Stenner said, though, that this criticism was not directed against Europe's integration, but rather because the draft \"sets the course for rearmament and military adventure.\" The peace march in the industrial Ruhr basin focussed on those parts of the European constitution which, according to peace groups, encourage militarization. They quoted Article I-41, which states: \"Member States shall undertake progressively to improve their military capabilities.\" \"This is a commitment to rearmament on a constitutional level,\" said Felix Oekentorp, spokesman of the Ruhr Easter march committee. \"This is unequalled worldwide and that alone is reason enough for us to say that this constitution draft is not acceptable for the peace movement.\" Not mimic the United States European citizens should use the referendum process as an opportunity to lead an \"intense discussion\" about what kind of Europe they want, said Stenner. \"If the current constitution draft were to fail, peace initiatives and globalization opponents are hopeful that the basic principles of the European Union will move more in the direction of social justness, greater commitment to peace politics and dealing with conflicts civilly,\" he said. If the referendums failed, European governments would have to rework the constitution. \"Europe shouldn't strive to militarily mimic the superpower United States,\" said Stenner. \"Rather, it should use its peacemaking policies to bridge the gap to southern countries, as well as to the Islamic and Arab world.\" The Easter peace marches started in Britain in the 1950s to call for nuclear disarmament. Since then, tens of thousands of people across Europe take to the streets during Easter. In Germany, the first march took place in 1960. They peaked in Germany in 1983, when 700,000 people protested against the installation of US Pershing II missiles in the country.",
+  "relations": [
+    [
+      "Manfred Stenner",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Manfred Stenner",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Manfred Stenner",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Manfred Stenner",
+      "Network of the German Peace Movement",
+      "head_of"
+    ],
+    [
+      "Manfred Stenner",
+      "Network of the German Peace Movement",
+      "member_of"
+    ],
+    [
+      "Willi van Ooyen",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Willi van Ooyen",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Willi van Ooyen",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Willi van Ooyen",
+      "Informationsstelle Ostermarsch",
+      "member_of"
+    ],
+    [
+      "Germans",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Berlin",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Berlin",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Berlin",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hamburg",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Hamburg",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Hamburg",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Frankfurt",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Frankfurt",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Frankfurt",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Hitler",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Hitler",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Hitler",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Hitler",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Hitler",
+      "Germany",
+      "head_of_state"
+    ],
+    [
+      "Hitler",
+      "Germans",
+      "head_of_state-x"
+    ],
+    [
+      "Hitler",
+      "German",
+      "head_of_state-x"
+    ],
+    [
+      "Second World War",
+      "Germany",
+      "event_in0"
+    ],
+    [
+      "Ruhr",
+      "Germany",
+      "in0"
+    ],
+    [
+      "Ruhr",
+      "Germans",
+      "in0-x"
+    ],
+    [
+      "Ruhr",
+      "German",
+      "in0-x"
+    ],
+    [
+      "Felix Oekentorp",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Felix Oekentorp",
+      "Germans",
+      "citizen_of-x"
+    ],
+    [
+      "Felix Oekentorp",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Felix Oekentorp",
+      "Ruhr Easter",
+      "member_of"
+    ]
+  ]
+}

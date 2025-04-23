@@ -1,0 +1,70 @@
+{
+  "content": "Turkish guest workers transformed German society\nIn the 1960s, Turkish workers arrived in Germany to fill the demand for cheap labor in a booming post-war economy. Many of them never left, creating a minority community that changed the demographics of Germany forever.\nFifty-five years ago, Germany was in need of healthy, unmarried Turkish men to work in the country's booming post-war economy, and Turkey was more than willing to help fill that demand. A treaty signed by the two states on October 30, 1961 established the conditions for the guest workers. The expenses for traveling to Germany were included, but the return trip was not always covered by employers. There had previously been recruitment treaties between Germany and Italy in 1955 as well as with Spain in 1960. After Turkey, treaties were also signed with Morocco, Portugal, Tunisia and Yugoslavia until 1968. Germany needed additional labor for its factories and mines to help fuel the economic miracle driven by the rapid expansion of production after World War II. According to the recruitment treaty, Germany was able - with the support of the Turkish government - to set up a liaison office in Istanbul. The office functioned as a foreign bureau for the German Ministry of Labour through which German companies could fill their demand for workers. Turkish authorities initially screened the applications, pre-selected the candidates and then organized interviews in the German liaison office. For Turkey, the export of large numbers of male Turkish workers to Germany had several advantages. First, the men were well paid in Germany and sent remittances home to their families in Turkey. Second, they obtained further training in Germany and were supposed to bring that knowledge back to Turkey when they returned. Two-year stay The employment of Turkish workers was meant to be for a limited time just like with the Greeks, Italians and Spaniards that had previously come to Germany as guest workers. After two years, the Turkish workers were expected to return home, and then a new group of workers was supposed to be recruited. The goal was to prevent the Turkish guests from becoming immigrants. Originally, the workers were not allowed to bring their families with them. In 1964, the recruitment treaty was changed to allow the Turkish workers to stay for longer than two years. It was too expensive and time-consuming to constantly hire and train replacements. Later, the workers were even allowed to bring their families with them. Land of immigrants An economic recession triggered by the global oil crisis in the early 1970s followed Germany's economic miracle, and in 1973 the recruitment of foreign workers came to a stop altogether. Between 1961 and 1973, around 2.7 million Turks applied for a job in Germany, but only around 750,000 were actually accepted. Half of those who came returned to Turkey, according to estimates. The other half remained in Germany. Today, around 2.5 million people with a Turkish background live in Germany, meaning either they or their parents were born in Turkey, making them the largest migrant group in the country. Around 700,000 Turkish migrants have German citizenship. In contrast to citizens of EU countries, Turks cannot have dual citizenship. If they possess both, they must choose between Turkish and German citizenship by their 23rd birthday. Although the guest workers from Turkey and other countries came to Germany 50 years ago, Germany was only declared a de facto country of immigrants through the passage of new citizenship and immigration laws in 2000 and 2005. Author: Klaudia Prevezanos / slk Editor: Martin Kuebler",
+  "relations": [
+    [
+      "Turkish",
+      "Turkey",
+      "gpe0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "Istanbul",
+      "Turkey",
+      "in0"
+    ],
+    [
+      "Istanbul",
+      "Turkish",
+      "in0-x"
+    ],
+    [
+      "Istanbul",
+      "Turks",
+      "in0-x"
+    ],
+    [
+      "Ministry of Labour",
+      "Germany",
+      "agency_of"
+    ],
+    [
+      "Ministry of Labour",
+      "German",
+      "agency_of-x"
+    ],
+    [
+      "Ministry of Labour",
+      "Germany",
+      "based_in0"
+    ],
+    [
+      "Ministry of Labour",
+      "German",
+      "based_in0-x"
+    ],
+    [
+      "Ministry of Labour",
+      "Germany",
+      "ministry_of"
+    ],
+    [
+      "Italians",
+      "Italy",
+      "gpe0"
+    ],
+    [
+      "Spaniards",
+      "Spain",
+      "gpe0"
+    ],
+    [
+      "Turks",
+      "Turkey",
+      "gpe0"
+    ]
+  ]
+}

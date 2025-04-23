@@ -1,0 +1,30 @@
+{
+  "content": "Banking on fortified flour in Nairobi\nMuguika Kaburu manufactures fortified flour for people with special dietary requirements. A former banker, he's convinced he's found a niche market with excellent growth prospects.\nIt was merely by coincidence that 60-year-old entrepreneur Muguika Kaburu ended up in the food business. He used to work in banking but in 2007 was given the chance to do research on fortified foods for an international aid organization. He was then appointed as a distributer for extruder machines that are used in the manufacture of fortified flour. He took the opportunity to buy a second-hand machine for himself at a cost of two million Kenyan shillings ( $25,000, 18,000 euros ). Kaburu's company Prosoya Kenya produces high fiber cereal flour fortified with vitamins. It is mixed with water and heated and then ready to eat as nutritional porridge. Initially his chief clients were hospitals, schools and orphanages, but now he is entering the retail market. Secret of success The company is only three years old and has been doubling its sales annually. Projected sales for 2017 are 4.8 billion Kenyan shillings. \"Our future plan is to get in the whole of Africa with fortified products,\" he told DW. Malnutrition is high in Africa and there is a demand for inexpensive food. Kaburu wants his son Kinoti to take over the business when he retires. Like his father, Kinoti is a banker by profession, having worked for Barclays before leaving to join his father's company. In a recent inteview with local media, Kaburu senior revealed the secret of his success as an entrepreneur. You have to take care of three groups, he said, \"your products, your customers and your staff - then you are home and dry.\"",
+  "relations": [
+    [
+      "Muguika Kaburu",
+      "Prosoya Kenya",
+      "head_of"
+    ],
+    [
+      "Muguika Kaburu",
+      "Prosoya Kenya",
+      "member_of"
+    ],
+    [
+      "Muguika Kaburu",
+      "Kinoti",
+      "parent_of"
+    ],
+    [
+      "Kinoti",
+      "Muguika Kaburu",
+      "child_of"
+    ],
+    [
+      "Kinoti",
+      "Barclays",
+      "member_of"
+    ]
+  ]
+}

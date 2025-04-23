@@ -1,0 +1,100 @@
+{
+  "content": "US prepares for fight over EU subsidies to Airbus\nEU subsidies for Airbus have long been a source of tension with the United States. Despite EU claims to have ended the financing, a skeptical Washington is now preparing for a fight at the World Trade Organization.\nUnited States trade officials said Friday that they were asking the World Trade Organization to sanction the European Union for alleged subsidies to aircraft manufacturer Airbus. Washington said the EU claimed in December 2011 to have removed all subsidies to Airbus that broke the WTO rules, but that the 27-member bloc never provided evidence. The US complained that not only have the subsidies continued, but that new subsidies have been introduced. \"We refuse to stand by while American businesses and workers are disadvantaged,\" US Trade Representative Ron Kirk said in a statement. \"By taking this action today, we are reiterating the Obama administration's commitment to ensuring that every one of our trading partners plays by the rules, and that American companies can compete on a level playing field,\" he added. The formal complaint to the WTO is to be submitted at a meeting of the WTO Dispute Settlement Body on April 13. EU 'regrets' action The WTO ruled last June that the EU and four member states had provided more than $18 billion (13.5 billion euros) in unfair subsidies to Airbus - an amount the EU disputes. The US and the EU began talks in January on compliance with the WTO order, but both sides held their ground. \"We regret that the US has chosen to take this step, since the EU notified its compliance with its WTO obligations in the package of steps taken at the end of 2011, and the US has yet to do the same in the Boeing case,\" said the European Commission's trade spokesman John Clancy. The WTO has also found that the US government paid $3 billion to $4 billion to domestic aircraft maker Boeing in the form of research grants and tax breaks. The US has argued that the EU had made Airbus dependant on its financing for \"every model of large civil aircraft,\" while no similar conclusion was found in the US-Boeing relationship. acb/msh (AFP, Reuters)",
+  "relations": [
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "United States",
+      "in0"
+    ],
+    [
+      "Washington",
+      "American",
+      "in0-x"
+    ],
+    [
+      "American",
+      "United States",
+      "gpe0"
+    ],
+    [
+      "Ron Kirk",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Ron Kirk",
+      "American",
+      "agent_of-x"
+    ],
+    [
+      "Ron Kirk",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Ron Kirk",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Obama",
+      "United States",
+      "agent_of"
+    ],
+    [
+      "Obama",
+      "United States",
+      "citizen_of"
+    ],
+    [
+      "Obama",
+      "American",
+      "citizen_of-x"
+    ],
+    [
+      "Obama",
+      "United States",
+      "head_of_state"
+    ],
+    [
+      "Obama",
+      "American",
+      "head_of_state-x"
+    ],
+    [
+      "WTO Dispute Settlement Body",
+      "World Trade Organization",
+      "part_of"
+    ],
+    [
+      "Boeing",
+      "United States",
+      "based_in0"
+    ],
+    [
+      "Boeing",
+      "American",
+      "based_in0-x"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "institution_of"
+    ],
+    [
+      "European Commission",
+      "European Union",
+      "part_of"
+    ],
+    [
+      "John Clancy",
+      "European Commission",
+      "member_of"
+    ]
+  ]
+}

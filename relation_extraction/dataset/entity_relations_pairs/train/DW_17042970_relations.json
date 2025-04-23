@@ -1,0 +1,165 @@
+{
+  "content": "Medecins Sans Frontieres says 355 were killed in alleged Syrian chemical attack\nThe medical charity Medecins Sans Frontieres has said 355 people died from an alleged chemical weapons attack in Syria. A top UN official is in Syria to urge government forces to allow an inquiry into the alleged attack.\nThree hospitals near Syria's capital Damascus reported a total of about 355 deaths after an alleged chemical attack last Wednesday, Medecins Sans Frontieres (MSF) said on Saturday. The medical charity said about 3,600 Syrians showed \"neurotoxic symptoms\" within the first three hours of the alleged attack. The Syrian opposition accuses Assad's regime of using chemical weapons on a rebel-held suburb outside of the capital. The Syrian government has denied the allegations, and most recently said the attack was carried out by the rebels. Meanwhile, United Nations High Representative for Disarmament Affairs, Angela Kane, arrived in Damascus to press Syrian President Bashar al-Assad's government for an inquiry into Wednesday's alleged chemical weapons attacks. UN chief Ban Ki-moon has tasked Kane with establishing the terms of an inquiry with Syrian officials and has also called on the opposition to cooperate. Assad's regime has yet to say if it will allow a UN team of chemical weapons experts, already on the ground since Sunday to probe three other sites, to inspect the latest allegations. Military chiefs to meet Top military officials from the US, Britain and several Arab countries are to meet in Amman, Jordan this week to discuss the situation in Syria, the Jordanian state news agency reported Saturday. Top military brass from the US, France, Saudi Arabia, Turkey, Russia, Italy, Canada, Turkey and Qatar are reportedly going to attend the meeting. Meanwhile, US President Barack Obama was to meet early Saturday with top national security advisors to discuss Washington's possible next steps in Syria. \"The president has directed the intelligence community to gather facts and evidence so that we can determine what occurred in Syria. Once we ascertain the facts, the president will make an informed decision about how to respond,\" a White House official said. \"We have a range of options available, and we are going to act very deliberately so that we're making decisions consistent with our national interest as well as our assessment of what can advance our objectives in Syria,\" the official said. Obama has been under growing pressure to act following reports of the alleged chemical weapons attack. Last year he warned that proven use of the chemical arms in Syria would cross a \"red line,\" and prompt US action. On Friday Defense Secretary Chuck Hagel said Obama had asked the US Defense Department to provide him with military options on Syria. \"The Defense Department has a responsibility to provide the president with all options for contingencies,\" said Hagel. More than 100,000 people have been killed in Syria since March 2011, according to UN estimates. Millions more have fled the country or have been internally displaced. hc/rc (Reuters, AFP, AP, dpa)",
+  "relations": [
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "agent_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "citizen_of"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrians",
+      "citizen_of-x"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syria",
+      "head_of_state"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrian",
+      "head_of_state-x"
+    ],
+    [
+      "Bashar al-Assad",
+      "Syrians",
+      "head_of_state-x"
+    ],
+    [
+      "Angela Kane",
+      "Bashar al-Assad",
+      "is_meeting"
+    ],
+    [
+      "Angela Kane",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "head_of"
+    ],
+    [
+      "Ban Ki-moon",
+      "United Nations",
+      "member_of"
+    ],
+    [
+      "Defense Department",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Defense Department",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Defense Department",
+      "US",
+      "ministry_of"
+    ],
+    [
+      "Chuck Hagel",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Chuck Hagel",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Chuck Hagel",
+      "US",
+      "minister_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Barack Obama",
+      "US",
+      "head_of_state"
+    ],
+    [
+      "Syrian",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Damascus",
+      "Syria",
+      "in0"
+    ],
+    [
+      "Damascus",
+      "Syrian",
+      "in0-x"
+    ],
+    [
+      "Damascus",
+      "Syrians",
+      "in0-x"
+    ],
+    [
+      "Syrians",
+      "Syria",
+      "gpe0"
+    ],
+    [
+      "Amman",
+      "Jordan",
+      "in0"
+    ],
+    [
+      "Amman",
+      "Jordanian",
+      "in0-x"
+    ],
+    [
+      "Jordanian",
+      "Jordan",
+      "gpe0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "White House",
+      "US",
+      "agency_of"
+    ],
+    [
+      "White House",
+      "US",
+      "based_in0"
+    ],
+    [
+      "White House",
+      "US",
+      "in0"
+    ]
+  ]
+}

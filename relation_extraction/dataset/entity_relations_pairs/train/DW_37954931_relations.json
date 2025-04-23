@@ -1,0 +1,35 @@
+{
+  "content": "Fed hikes interest rates as inflation picks up\nThe US central bank has increased its benchmark interest rate for the first time since last December. Analysts said the move was overdue and reflected a buoyant economy and higher consumer prices.\nEnding its two-day policy meeting in Washington, the US Federal Reserve reported it had decided to up its key federal funds rate by 25 basis points, up from the current target range of 0.5-0.75 percent. The announcement came after a long period of no changes to the interest rates amid uncertainty over US President Donald Trump's economic agenda. Prior to Wednesday's move, the Fed had raised its key rate last December for only the second time since setting an unprecedented near-zero level at the peak of the global financial crisis in 2008. While markets had fully priced in Wednesday's rate hike, investors had been waiting for clues on the central bank's future monetary policy. There had been little doubt that the lender was now on course for regular three-monthly rises this year, but there was speculation that the rate-hike speed for 2018 and 2019 could turn out to be slightly higher. The bank said Wednesday there could be two more hikes this year, with an accelerated pace envisaged only for 2019. What made the Fed step into action? The Federal Reserve had earlier indicated that stronger signs of inflation had in no small way bolstered the argument for tighter monetary policy. The price index of personal consumption expenditures (PCE) jumped by 0.4 percent in January, showing a 1.9-percent increase for the last 12 months and thus approaching the central bank's own long-term inflation target of 2.0 percent for the first time in nearly five years. The Fed cites the spending-based PCE index as its preferred inflation gauge over the better-known consumer price index. While the latter showed only a slight 0.1-percent rise for February in data released earlier on Wednesday, the index' 12-month reading came in at 0.6 percent, reaching a nearly four-year high. The central bank was also guided by continuously good labor market figures, with roughly 200,000 new jobs created in each of the past three months and the unemployment rate standing at 4.7 percent at present. Fresh figures also showed a pickup in retail sales in the US despite delays in tax return payments, holding spending back somewhat. hg/sri (AP, dpa)",
+  "relations": [
+    [
+      "Federal Reserve",
+      "US",
+      "agency_of"
+    ],
+    [
+      "Federal Reserve",
+      "US",
+      "based_in0"
+    ],
+    [
+      "Washington",
+      "US",
+      "in0"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "agent_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "citizen_of"
+    ],
+    [
+      "Donald Trump",
+      "US",
+      "head_of_state"
+    ]
+  ]
+}

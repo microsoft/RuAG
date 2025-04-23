@@ -1,0 +1,160 @@
+{
+  "content": "Blair: \"No Point\" to Return to EU Constitution\nUK Prime Minister Tony Blair gave a strong hint Wednesday he will resist efforts to resurrect elements of the failed EU constitution. It could be a big step back for Angela Merkel, who wants an EU treaty passed.\nSpeaking after talks in London with Czech Prime Minister Mirek Topolanek, Blair said there would be no deal at the Brussels summit on June 21 and 22 unless demands for a EU constitution were set aside. It could prove a big setback to German Chancellor Angela Merkel, who has made getting the EU constitution back on track after defeats at the polls by the French and the Dutch a priority of Germany's EU presidency, which ends this month. Blair told a news conference in Downing Street that there would be \"real difficulties\" between some of the 27 EU members due attend. 'Amending treaty' Referring to French-German moves to resurrect aspects of the European constitution, soundly defeated in referenda in France and the Netherlands two years ago, Blair said he would sign up only to an \"amending treaty.\" \"Frankly, in order to get an agreement, the type of issues we are talking about are going to have to be satisfied,\" he said. His comments came after talks with Topolanek, who had expressed a \"similar approach\" on the issue of the constitution, Blair indicated. Blair said there was \"no point\" returning to the constitution, and added that the EU should be looking at \"smaller measures to make it more effective to the needs of countries.\" He said there was a \"real desire\" in Europe to move on from the issue of the constitution to other matters of \"huge importance,\" such as energy, migration, economic issues and defence. Sarkozy visit Earlier Wednesday, Blair's office announced that French President Nicolas Sarkozy would visit London for crucial pre-summit talks on June 19. For the first time, Blair and his successor, Gordon Brown, would be joint hosts of the meeting with Sarkozy, an advocate of a \"simplified treaty that would allow the implementation of the essential institutional advances contained in the EU constitution.\" Such efforts have been dismissed as an attempt to \"reintroduce the constitution through the back door\" by commentators in London. The Blair-Brown double act comes only days before Brown is expected to be elected Labour Party leader, followed by Blair's final departure from power on June 27. Blair's spokesman said the meeting with Sarkozy on June 19 was agreed at the recent Group of Eight (G8) summit in Germany. Sarkozy's claim that he and Blair had agreed on the \"framework\" for a revised mini-constitution has not been backed up by officials in London. \"What's important when you have got a new French president is that you get a chance to explore at greater length than is possible at a bilateral his position in the run-up to discussions at the summit,\" said Blair's official spokesman. Gordon Brown's role The meeting, with the inclusion of Brown in a \"new role,\" would therefore be \"useful from several perspectives.\" \"We have always said there will be close consultations, as there always are before a summit, between colleagues in government. But it will be the Prime Minister who will present the Government position at the summit.\" The Brown camp has expressed fears that Blair could be prepared to sign up to a controversial deal on the EU constitution just days before he leaves office.",
+  "relations": [
+    [
+      "EU Constitution",
+      "UK",
+      "signed_by"
+    ],
+    [
+      "Tony Blair",
+      "UK",
+      "agent_of"
+    ],
+    [
+      "Tony Blair",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Tony Blair",
+      "UK",
+      "head_of_gov"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "agent_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "citizen_of"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "citizen_of-x"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "France",
+      "head_of_state"
+    ],
+    [
+      "Nicolas Sarkozy",
+      "French",
+      "head_of_state-x"
+    ],
+    [
+      "Gordon Brown",
+      "UK",
+      "agent_of"
+    ],
+    [
+      "Gordon Brown",
+      "UK",
+      "citizen_of"
+    ],
+    [
+      "Gordon Brown",
+      "Labour Party",
+      "head_of"
+    ],
+    [
+      "Gordon Brown",
+      "UK",
+      "head_of_gov"
+    ],
+    [
+      "Gordon Brown",
+      "Labour Party",
+      "member_of"
+    ],
+    [
+      "Mirek Topolanek",
+      "Czech",
+      "citizen_of-x"
+    ],
+    [
+      "Mirek Topolanek",
+      "Czech",
+      "head_of_gov-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "agent_of"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "citizen_of"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "citizen_of-x"
+    ],
+    [
+      "Angela Merkel",
+      "Germany",
+      "head_of_gov"
+    ],
+    [
+      "Angela Merkel",
+      "German",
+      "head_of_gov-x"
+    ],
+    [
+      "London",
+      "UK",
+      "in0"
+    ],
+    [
+      "German",
+      "Germany",
+      "gpe0"
+    ],
+    [
+      "French",
+      "France",
+      "gpe0"
+    ],
+    [
+      "Dutch",
+      "Netherlands",
+      "gpe0"
+    ],
+    [
+      "Downing Street",
+      "UK",
+      "agency_of"
+    ],
+    [
+      "Downing Street",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Downing Street",
+      "UK",
+      "in0"
+    ],
+    [
+      "Labour Party",
+      "UK",
+      "based_in0"
+    ],
+    [
+      "Government",
+      "UK",
+      "agency_of"
+    ],
+    [
+      "Government",
+      "UK",
+      "based_in0"
+    ]
+  ]
+}
