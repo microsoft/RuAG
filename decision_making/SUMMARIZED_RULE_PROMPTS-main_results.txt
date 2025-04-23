@@ -1,0 +1,36 @@
+	1) Summarized experiences related to **Bob stands on yellow block**
+		- Conditions: Alice visited yellow block, Bob visited purple block, and Bob visited skyblue block.
+		- When Bob locates at 5 blocks down and 0 block to the left of the treasure, if Bob moves down, then Bob will stand on yellow block.
+	2) Summarized experiences related to **Bob stands on purple block**
+		- When Bob locates at 2 blocks down and 9 blocks to the left of the treasure, if Bob moves right, then Bob will stand on purple block. 
+		- When Bob locates at 1 block down and 8 blocks to the left of the treasure, if Bob moves down, then Bob will stand on purple block. 
+		- When Bob locates at 2 blocks down and 8 blocks to the left of the treasure, if Bob keep standing on current block, then Bob will stand on purple block. In all these cases, Bob visited purple block. 
+		- When Bob locates at 2 blocks down and 8 blocks to the left of the treasure, if Bob moves right, then Bob will stand on purple block. In all these cases, Bob visited purple block. 
+		- When Bob locates at 2 blocks down and 8 blocks to the left of the treasure, if Bob moves down, then Bob will stand on purple block. In all these cases, Bob visited purple block. 
+	3) Summarized experiences related to **Alice stands on skyblue block**
+		- Conditions: Alice visited yellow block, and Bob visited purple block. 
+		- When Alice locates at 0 block down and 5 blocks to the left of the treasure, if Alice moves left, Bob did not visit skyblue block, then Alice will stand on skyblue block.
+	4) Summarized experiences related to **Alice stands on green block**
+		- Conditions: Bob stand on skyblue block, and Bob visited skyblue block, Alice visited yellow block, Bob visited purple block
+		- When Alice locates at 1 block down and 0 block to the left of the treasure, if Alice moves up, then Alice will stand on green block. 
+		- When Alice locates at 0 block down and 1 block to the left of the treasure, if Alice moves right, then Alice will stand on green block. 
+	5) Summarized experiences related to **Alice stands on yellow block**
+		- Conditions: Bob visited purple block
+		- When Alice locates at 6 blocks down and 0 block to the left of the treasure, if Alice's action is not up, Alice's action is not left, then Alice will stand on yellow block. In all these cases, Alice visited yellow block. 
+		- When Alice locates at 6 blocks down and 1 block to the left of the treasure, if Alice moves right, then Alice will stand on yellow block.
+		- When Alice locates at 5 blocks down and 0 block to the left of the treasure, if Alice moves down, then Alice will stand on yellow block.
+		- When Alice locates at 6 blocks down and 0 block to the left of the treasure, if Alice keep standing on current block, then Alice will stand on yellow block. In all these cases, Alice visited yellow block. 
+		- When Alice locates at 6 blocks down and 0 block to the left of the treasure, if Alice moves down, then Alice will stand on yellow block. In all these cases, Alice visited yellow block. 
+		- When Alice locates at 6 blocks down and 0 block to the left of the treasure, if Alice moves right, then Alice will stand on yellow block. In all these cases, Alice visited yellow block.
+	6) Summarized experiences related to **Bob stands on skyblue block**
+		- Conditions: Alice visited yellow block, and Bob visited purple block. 
+		- When Bob locates at 0 block down and 5 blocks to the left of the treasure, if Bob moves left, Alice does not stand on skyblue block, then Bob will stand on skyblue block. 
+		- When Bob locates at 0 block down and 5 blocks to the left of the treasure, if Alice's action is not left, Bob moves left, then Bob will stand on skyblue block.
+	7) Summarized experiences related to **the team receive a Penalty of -10.0 reward**
+		- Conditions: Bob stands on skyblue block, Bob visited skyblue block, Alice visited yellow block, Bob visited purple block, Bob's action is not stand.
+		- When Alice's upper right block is green, Alice's action is not down, if Bob moves right, then the team will receive a Penalty of -10.0 reward. In all these cases, Alice locates at 1 block down and 1 block to the left of the treasure.
+		- When Alice locates at 1 block down and 1 block to the left of the treasure, if Alice's action is not down, Bob moves right, then the team will receive a Penalty of -10.0 reward. 
+	8) Summarized experiences related to **the team receive a Reward = 100.0 (Game Win) **
+		- Conditions: Bob stands on skyblue block, Bob visited skyblue block, Alice visited yellow block, Bob visited purple block
+		- When Alice's center right block is green, if Alice moves right, then the team will receive a Reward = 100.0. In all these cases, Alice locates at 0 block down and 1 block to the left of the treasure. 
+		- When Alice locates at 0 block down and 1 block to the left of the treasure, if Alice moves right, then the team will receive a Reward = 100.0. 
