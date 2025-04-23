@@ -13,7 +13,6 @@ In-context learning (ICL) and Retrieval-Augmented Generation (RAG) have shown pr
 We propose **RuAG**, a framework that **automatically distills large-scale offline data into interpretable first-order logic rules**, which are then injected into LLM prompts to enhance reasoning capabilities. RuAG first relies on LLMs’ commonsense to define rule predicates, then applies **Monte Carlo Tree Search (MCTS)** to efficiently discover symbolic logic rules. These rules are translated into natural language and seamlessly integrated into downstream tasks.
 We evaluate RuAG on both public and private industrial datasets across domains including **natural language processing**, **time-series**, and **decision-making**.
 
-![Framework](./figures/framework.pdf)
 
 ---
 
@@ -26,6 +25,8 @@ This repository provides code and data for **🧾 Relation Extraction**  and **�
 As the begining, please run the following for installation.
 
 ```
+conda create -n ruag python=3.10
+conda activate ruag
 pip install -e .
 ```
 
